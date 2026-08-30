@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--30-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-30 20:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-30 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,6 +37,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png" width="200" alt="Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure" />
+      <br/>
+      <b>Native CORS support on GKE Gateway: Offloading cro...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-should-the-next-weekend-challenge-theme-be-3mha">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftr9wdk0optj1v4ippys1.png" width="200" alt="What should the next Weekend Challenge theme be??" />
       <br/>
@@ -45,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png" width="200" alt="Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers" />
@@ -54,8 +65,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png" width="200" alt="Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling" />
@@ -74,15 +83,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftit6xe2xjosdrrja6dkc.png" width="200" alt="Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator" />
-      <br/>
-      <b>Kubeflow Without Kubernetes? Deploy a Complete MLO...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -93,27 +93,27 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf) | Dev.to |
-| 2 | [What should the next Weekend Challenge theme be??](https://dev.to/devteam/what-should-the-next-weekend-challenge-theme-be-3mha) | Dev.to |
-| 3 | [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8) | Dev.to |
-| 4 | [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md) | Dev.to |
-| 5 | [Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️](https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i) | Dev.to |
-| 6 | [Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo) | Dev.to |
-| 7 | [Taking Advantage of Gemini Managed Agents with Google Apps Script](https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp) | Dev.to |
-| 8 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
-| 9 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
-| 10 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51oc) | Dev.to |
-| 11 | [16 Posts, Started Commenting, then got the Shield](https://dev.to/ndcodes/16-posts-started-commenting-then-got-the-shield-bk3) | Dev.to |
-| 12 | [Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't](https://dev.to/gde/gemma-4-in-pure-jax-what-ports-from-tpu-to-gpu-and-what-doesnt-3m09) | Dev.to |
-| 13 | [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k) | Dev.to |
-| 14 | [Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor](https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg) | Dev.to |
-| 15 | [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2) | Dev.to |
-| 16 | [Why AI Websites All Look the Same and How to Build Something Different](https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan) | Dev.to |
-| 17 | [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9) | Dev.to |
-| 18 | [Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal](https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf) | Dev.to |
-| 19 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
-| 20 | [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l) | Dev.to |
+| 2 | [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m) | Dev.to |
+| 3 | [What should the next Weekend Challenge theme be??](https://dev.to/devteam/what-should-the-next-weekend-challenge-theme-be-3mha) | Dev.to |
+| 4 | [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8) | Dev.to |
+| 5 | [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md) | Dev.to |
+| 6 | [Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️](https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i) | Dev.to |
+| 7 | [Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo) | Dev.to |
+| 8 | [Taking Advantage of Gemini Managed Agents with Google Apps Script](https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp) | Dev.to |
+| 9 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
+| 10 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
+| 11 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51oc) | Dev.to |
+| 12 | [16 Posts, Started Commenting, then got the Shield](https://dev.to/ndcodes/16-posts-started-commenting-then-got-the-shield-bk3) | Dev.to |
+| 13 | [Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't](https://dev.to/gde/gemma-4-in-pure-jax-what-ports-from-tpu-to-gpu-and-what-doesnt-3m09) | Dev.to |
+| 14 | [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k) | Dev.to |
+| 15 | [Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor](https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg) | Dev.to |
+| 16 | [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2) | Dev.to |
+| 17 | [Why AI Websites All Look the Same and How to Build Something Different](https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan) | Dev.to |
+| 18 | [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9) | Dev.to |
+| 19 | [Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal](https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf) | Dev.to |
+| 20 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
 
-<sub>Last fetched: Sun, 30 Aug 2026 20:38:34 CAT</sub>
+<sub>Last fetched: Sun, 30 Aug 2026 23:35:43 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain GIL and its implications for multithreading**
+**1. `JavaScript` — What is the event loop and how does it work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Call stack, callback queue, microtask queue
 
 </details>
 
-**2. `Java` — Explain the Java memory model**
+**2. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**3. `React` — What are hooks and why were they introduced?**
+**3. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> State in functional components, reusable logic, cleaner code
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 41.8% | `████████████████████` |
-| **Tools** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
-| **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
-| **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **AI** | 79 | 42.9% | `████████████████████` |
+| **Tools** | 44 | 23.9% | `███████████░░░░░░░░░` |
+| **JavaScript** | 40 | 21.7% | `██████████░░░░░░░░░░` |
+| **Python** | 30 | 16.3% | `████████░░░░░░░░░░░░` |
+| **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,31 +194,33 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.5%
-JavaScript      █████████████████████████████ 25.8%
-Java            ███████████████████████ 19.9%
-Python          ██████████████████████ 19.2%
-Rust            ███████ 6.6%
-Ruby            █ 1.3%
-Swift           █ 0.7%
+Go              ██████████████████████████████ 26.3%
+JavaScript      █████████████████████████████ 25.0%
+Java            ██████████████████████ 19.4%
+Python          █████████████████████ 18.8%
+Rust            ████████ 6.9%
+Ruby            ██ 1.9%
+Swift           █ 1.3%
+PHP             █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 40
-    "JavaScript" : 39
-    "Java" : 30
-    "Python" : 29
-    "Rust" : 10
-    "Ruby" : 2
-    "Swift" : 1
+    "Go" : 42
+    "JavaScript" : 40
+    "Java" : 31
+    "Python" : 30
+    "Rust" : 11
+    "Ruby" : 3
+    "Swift" : 2
+    "PHP" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-46-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-47-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 30 Aug 2026 18:38:34 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 30 Aug 2026 21:35:43 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
