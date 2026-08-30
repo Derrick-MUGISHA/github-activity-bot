@@ -60,21 +60,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4",
-      "url": "https://dev.to/railsstudent/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-227l",
-      "published_at": "2026-08-27T01:07:01Z",
-      "description": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
-      "tags": [
-        "gemma",
-        "ai",
-        "angular",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgifh0q5eh6936btgahrf.jpeg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
       "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9",
       "published_at": "2026-08-25T03:18:30Z",
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 212,
       "user": "DavidCarliez"
     },
     {
@@ -775,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1164,
+      "stars": 1265,
       "user": "XiaoDuoYa"
     },
     {
@@ -790,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 854,
       "user": "amosblomqvist"
     },
     {
@@ -805,8 +790,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 179,
       "user": "JordyZomer"
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "published_at": "2026-08-30T15:00:00.000Z",
+      "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "tags": [
+        "Enterprise",
+        "AI",
+        "caterpillar",
+        "mining"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
@@ -926,19 +926,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "published_at": "2026-08-28T19:30:38.000Z",
-      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "tags": [
-        "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
@@ -1061,21 +1048,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4",
-      "url": "https://dev.to/railsstudent/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-227l",
-      "published_at": "2026-08-27T01:07:01Z",
-      "description": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
-      "tags": [
-        "gemma",
-        "ai",
-        "angular",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgifh0q5eh6936btgahrf.jpeg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
     {
       "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
       "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
@@ -1312,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 379,
       "user": "OnlyTerp"
     },
     {
@@ -1342,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1372,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16346219?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "zhuyifang"
     },
     {
@@ -1387,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1164,
+      "stars": 1265,
       "user": "XiaoDuoYa"
     },
     {
@@ -1402,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1059,
       "user": "wide-trace"
     },
     {
@@ -1417,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 854,
       "user": "amosblomqvist"
     },
     {
@@ -1432,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 606,
       "user": "jub0t"
     },
     {
@@ -1447,27 +1419,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 597,
       "user": "kacperkapusciak"
-    },
-    {
-      "title": "Introducing ReactOS 0.4.16",
-      "url": "https://reactos.org/project-news/reactos-0416-released/",
-      "published_at": "2026-08-29T15:21:34.963-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "osdev",
-        "release"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "bb010g"
     },
     {
       "title": "How do I make the menu button open the nav menu in media queries",
       "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
       "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1481,7 +1440,7 @@
       "title": "How can I detect and visualize multiple touch points with JavaScript?",
       "url": "https://stackoverflow.com/questions/79999272/how-can-i-detect-and-visualize-multiple-touch-points-with-javascript",
       "published_at": "2026-08-29T19:45:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "web",
@@ -1816,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 3233,
+      "stars": 4490,
       "user": "sapientinc"
     },
     {
@@ -1831,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 926,
       "user": "Tencent"
     },
     {
@@ -1846,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 750,
       "user": "tradecatlabs"
     },
     {
@@ -1861,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 593,
       "user": "jprx"
     },
     {
@@ -1876,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 564,
       "user": "lxf746"
     },
     {
@@ -1894,6 +1853,20 @@
       "user": "Arsh Kumar"
     },
     {
+      "title": "Using ast.parse to evaluate arithmetic expression safely",
+      "url": "https://stackoverflow.com/questions/79999255/using-ast-parse-to-evaluate-arithmetic-expression-safely",
+      "published_at": "2026-08-29T17:48:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "best-practices",
+        "python",
+        "python-ast"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jason lo"
+    },
+    {
       "title": "How to resolve TypeError: isSubclass() arg 1 must be a class when issubclass() wasn't explicitly called?",
       "url": "https://stackoverflow.com/questions/79999259/how-to-resolve-typeerror-issubclass-arg-1-must-be-a-class-when-issubclass-w",
       "published_at": "2026-08-29T18:26:16.000Z",
@@ -1908,19 +1881,6 @@
       "user": "Benjamin Tsoumagas"
     },
     {
-      "title": "Using ast.parse to evaluate arithmetic expression safely",
-      "url": "https://stackoverflow.com/questions/79999255/using-ast-parse-to-evaluate-arithmetic-expression-safely",
-      "published_at": "2026-08-29T17:48:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jason lo"
-    },
-    {
       "title": "Why Does an Identity Comparison Using id() Evaluate to False?",
       "url": "https://stackoverflow.com/questions/79999271/why-does-an-identity-comparison-using-id-evaluate-to-false",
       "published_at": "2026-08-29T19:45:25.000Z",
@@ -1932,20 +1892,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nubspec"
-    },
-    {
-      "title": "Why does my Stoat.py code run without issues but the bot doesn't go online/respond to commands?",
-      "url": "https://stackoverflow.com/questions/79999250/why-does-my-stoat-py-code-run-without-issues-but-the-bot-doesnt-go-online-respo",
-      "published_at": "2026-08-29T16:47:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "asynchronous",
-        "bots"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Benjamin Tsoumagas"
     },
     {
       "title": "Python match-case vs. dictionary performance internals",
@@ -1962,6 +1908,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lowchess"
+    },
+    {
+      "title": "Why does my Stoat.py code run without issues but the bot doesn't go online/respond to commands?",
+      "url": "https://stackoverflow.com/questions/79999250/why-does-my-stoat-py-code-run-without-issues-but-the-bot-doesnt-go-online-respo",
+      "published_at": "2026-08-29T16:47:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "asynchronous",
+        "bots"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Tsoumagas"
     },
     {
       "title": "How can I prevent duplicate Celery tasks when a FastAPI endpoint is retried?",
@@ -2359,7 +2319,7 @@
       "title": "How do I make the menu button open the nav menu in media queries",
       "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
       "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2470,7 +2430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 593,
       "user": "jprx"
     },
     {
@@ -3175,7 +3135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 379,
       "user": "OnlyTerp"
     },
     {
@@ -3205,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -3235,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16346219?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "zhuyifang"
     },
     {
@@ -3250,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 3233,
+      "stars": 4490,
       "user": "sapientinc"
     },
     {
@@ -3265,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 926,
       "user": "Tencent"
     },
     {
@@ -3280,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 750,
       "user": "tradecatlabs"
     },
     {
@@ -3295,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 593,
       "user": "jprx"
     },
     {
@@ -3310,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 564,
       "user": "lxf746"
     },
     {
@@ -3325,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 558,
       "user": "chrisgreg"
     },
     {
@@ -3340,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 212,
       "user": "DavidCarliez"
     },
     {
@@ -3370,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 44,
       "user": "tsouth89"
     },
     {
@@ -3400,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1164,
+      "stars": 1265,
       "user": "XiaoDuoYa"
     },
     {
@@ -3415,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1059,
       "user": "wide-trace"
     },
     {
@@ -3430,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 854,
       "user": "amosblomqvist"
     },
     {
@@ -3445,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 606,
       "user": "jub0t"
     },
     {
@@ -3460,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 597,
       "user": "kacperkapusciak"
     },
     {
@@ -3475,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 536,
       "user": "crmne"
     },
     {
@@ -3490,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 179,
       "user": "JordyZomer"
     },
     {
@@ -3505,23 +3465,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 145,
       "user": "dragthelake"
-    },
-    {
-      "title": "pgrundev/pgterm - Postgres Terminal",
-      "url": "https://github.com/pgrundev/pgterm",
-      "published_at": "2026-08-27T15:48:53Z",
-      "description": "Postgres Terminal",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 117,
-      "user": "pgrundev"
     },
     {
       "title": "soirihiroka/shrimply - A simple video editor",
@@ -3535,8 +3480,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 121,
       "user": "soirihiroka"
+    },
+    {
+      "title": "pgrundev/pgterm - Postgres Terminal",
+      "url": "https://github.com/pgrundev/pgterm",
+      "published_at": "2026-08-27T15:48:53Z",
+      "description": "Postgres Terminal",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "pgrundev"
     },
     {
       "title": "There's no such thing as Just a Tool",
