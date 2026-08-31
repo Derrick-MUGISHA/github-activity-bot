@@ -31,21 +31,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
-      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
-      "published_at": "2026-08-29T18:57:42Z",
-      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
       "source": "Dev.to",
       "user": "Caleb Duff"
+    },
+    {
+      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
+      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
+      "published_at": "2026-08-29T18:57:42Z",
+      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
@@ -256,36 +256,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "The agent posted successfully. To the wrong account.",
-      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
-      "published_at": "2026-08-27T08:31:54Z",
-      "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
-      "tags": [
-        "ai",
-        "api",
-        "mcp",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
-      "source": "Dev.to",
-      "user": "Eugeniya Ivanova"
-    },
-    {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
-      "published_at": "2026-08-27T07:37:45Z",
-      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "vectordatabase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
-    {
       "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
       "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o",
       "published_at": "2026-08-27T04:13:56Z",
@@ -403,6 +373,21 @@
       "user": "marcosomma"
     },
     {
+      "title": "The agent posted successfully. To the wrong account.",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
+      "published_at": "2026-08-27T08:31:54Z",
+      "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
+      "tags": [
+        "ai",
+        "api",
+        "mcp",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
+      "source": "Dev.to",
+      "user": "Eugeniya Ivanova"
+    },
+    {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
       "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g",
       "published_at": "2026-08-27T01:00:03Z",
@@ -461,6 +446,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
+      "published_at": "2026-08-27T07:37:45Z",
+      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
+      "tags": [
+        "ai",
+        "llm",
+        "agents",
+        "vectordatabase"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
+      "source": "Dev.to",
+      "user": "Ben Greenberg"
     },
     {
       "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 284,
       "user": "PAICNI"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "GENEXIS-AI"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 340,
       "user": "DavidCarliez"
     },
     {
@@ -761,23 +761,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1564,
+      "stars": 1733,
       "user": "XiaoDuoYa"
-    },
-    {
-      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
-      "published_at": "2026-08-25T15:12:20Z",
-      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
-      "source": "GitHub",
-      "stars": 592,
-      "user": "gtlhuyidan-sketch"
     },
     {
       "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
@@ -791,8 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "S1N6H"
+    },
+    {
+      "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
+      "url": "https://github.com/nateherkai/snagtime",
+      "published_at": "2026-08-27T21:43:06Z",
+      "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "nateherkai"
     },
     {
       "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
@@ -806,14 +806,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 227,
       "user": "JordyZomer"
+    },
+    {
+      "title": "VibeCoded AI-Slop License v1.0",
+      "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+      "published_at": "2026-08-31T06:40:14.514-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ktr"
+    },
+    {
+      "title": "How do AI coding agents handle large codebases?",
+      "url": "https://stackoverflow.com/questions/79999560/how-do-ai-coding-agents-handle-large-codebases",
+      "published_at": "2026-08-31T09:25:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -12",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "typescript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Adil"
     },
     {
       "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
       "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
       "published_at": "2026-08-31T06:17:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "pyside6"
@@ -821,6 +847,54 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reid Litkauo"
+    },
+    {
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "published_at": "2026-08-31T15:19:32.000Z",
+      "description": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
+      "tags": [
+        "Security",
+        "AI",
+        "backdoors",
+        "cybersecurity",
+        "encryption"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech&#8217;s AI chip buildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "published_at": "2026-08-31T15:15:25.000Z",
+      "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "AI chips",
+        "data centers",
+        "MediaTek"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "published_at": "2026-08-31T12:56:46.000Z",
+      "description": "Circleback is also introducing new pricing plans starting from $14 per month.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Startups",
+        "circleback",
+        "Meeting notetakers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -860,8 +934,8 @@
       "tags": [
         "Startups",
         "Transportation",
-        "electric mobility",
-        "sustainability"
+        "sustainability",
+        "electric mobility"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -909,66 +983,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kate Park"
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "published_at": "2026-08-29T18:41:59.000Z",
-      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "tags": [
-        "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
-      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "published_at": "2026-08-29T17:51:10.000Z",
-      "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-      "tags": [
-        "Venture",
-        "AI",
-        "conference",
-        "Denmark"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "published_at": "2026-08-29T17:36:47.000Z",
-      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "TC",
-        "Andreessen Horowitz",
-        "Vijay Pande"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Hollywood celebs are getting into microdrama apps",
-      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "published_at": "2026-08-29T16:10:00.000Z",
-      "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
-      "tags": [
-        "Media & Entertainment",
-        "Apps",
-        "Hollywood",
-        "short form video",
-        "microdrama"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
@@ -1107,19 +1121,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
-      "published_at": "2026-08-27T07:37:45Z",
-      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
+      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
+      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
+      "published_at": "2026-08-30T21:04:04Z",
+      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
       "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "vectordatabase"
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
       "source": "Dev.to",
-      "user": "Ben Greenberg"
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal",
@@ -1182,19 +1196,19 @@
       "user": "Connie Leung"
     },
     {
-      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
-      "published_at": "2026-08-11T14:40:56Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
+      "published_at": "2026-08-27T07:37:45Z",
+      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
       "tags": [
-        "devchallenge",
-        "bugsmash",
-        "react",
-        "devbugsmash"
+        "ai",
+        "llm",
+        "agents",
+        "vectordatabase"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
       "source": "Dev.to",
-      "user": "Pooja Bhavani"
+      "user": "Ben Greenberg"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1328,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 390,
       "user": "OnlyTerp"
     },
     {
@@ -1343,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 284,
       "user": "PAICNI"
     },
     {
@@ -1373,23 +1387,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "GENEXIS-AI"
     },
     {
-      "title": "Derpyu520/qq-bridge - Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.",
-      "url": "https://github.com/Derpyu520/qq-bridge",
-      "published_at": "2026-08-25T07:46:42Z",
-      "description": "Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.",
+      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
+      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
+      "published_at": "2026-08-29T12:59:43Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299827845?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 117,
-      "user": "Derpyu520"
+      "stars": 150,
+      "user": "Sac-Y"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -1403,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1564,
+      "stars": 1733,
       "user": "XiaoDuoYa"
     },
     {
@@ -1418,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1129,
       "user": "wide-trace"
     },
     {
@@ -1433,23 +1447,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 842,
       "user": "jub0t"
-    },
-    {
-      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
-      "published_at": "2026-08-25T15:12:20Z",
-      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
-      "source": "GitHub",
-      "stars": 592,
-      "user": "gtlhuyidan-sketch"
     },
     {
       "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
@@ -1463,39 +1462,98 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "S1N6H"
     },
     {
-      "title": "Doesn't JavaScript have console input?",
-      "url": "https://stackoverflow.com/questions/79999469/doesnt-javascript-have-console-input",
-      "published_at": "2026-08-30T23:52:37.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
+      "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
+      "url": "https://github.com/nateherkai/snagtime",
+      "published_at": "2026-08-27T21:43:06Z",
+      "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "nateherkai"
+    },
+    {
+      "title": "How to exchange usual html button with nice switch?",
+      "url": "https://stackoverflow.com/questions/79999654/how-to-exchange-usual-html-button-with-nice-switch",
+      "published_at": "2026-08-31T15:19:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Visitor"
+    },
+    {
+      "title": "Switch to minimize some icons on page",
+      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
+      "published_at": "2026-08-31T13:42:04.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Visitor"
+    },
+    {
+      "title": "Why I can't import .ts file using express and typescript",
+      "url": "https://stackoverflow.com/questions/79999639/why-i-cant-import-ts-file-using-express-and-typescript",
+      "published_at": "2026-08-31T14:37:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
+    },
+    {
+      "title": "How can I detect that an integer literal will lose precision in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
+      "published_at": "2026-08-31T13:33:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "json",
+        "floating-point",
+        "precision"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jack Smith"
+    },
+    {
+      "title": "How can I preserve row order when mapping duplicate composite keys in TypeScript?",
+      "url": "https://stackoverflow.com/questions/79999607/how-can-i-preserve-row-order-when-mapping-duplicate-composite-keys-in-typescript",
+      "published_at": "2026-08-31T12:43:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Koolaid222"
+      "user": "hitesh lassi"
     },
     {
-      "title": "Why is JavaScript stopping when it calls getElementById method?",
-      "url": "https://stackoverflow.com/questions/79999444/why-is-javascript-stopping-when-it-calls-getelementbyid-method",
-      "published_at": "2026-08-30T21:41:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Symfony-Wonderer"
-    },
-    {
-      "title": "How do I make the menu button open the nav menu in media queries",
-      "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
-      "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
+      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
+      "published_at": "2026-08-31T10:44:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1506,101 +1564,60 @@
       "user": "August"
     },
     {
-      "title": "How can I detect and visualize multiple touch points with JavaScript?",
-      "url": "https://stackoverflow.com/questions/79999272/how-can-i-detect-and-visualize-multiple-touch-points-with-javascript",
-      "published_at": "2026-08-29T19:45:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How to accurately detect if our website is opened in mobile split-screen view?",
+      "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
+      "published_at": "2026-08-31T11:02:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
+        "advice",
         "javascript",
-        "web",
-        "touch",
-        "touch-event"
+        "android",
+        "browser",
+        "anti-cheat"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jonathan Frewin"
+      "user": "Sayan Majumder"
     },
     {
-      "title": "How to load google recaptcha only on specific pages",
-      "url": "https://stackoverflow.com/questions/79999176/how-to-load-google-recaptcha-only-on-specific-pages",
-      "published_at": "2026-08-29T10:41:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
+      "title": "How do AI coding agents handle large codebases?",
+      "url": "https://stackoverflow.com/questions/79999560/how-do-ai-coding-agents-handle-large-codebases",
+      "published_at": "2026-08-31T09:25:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -12",
       "tags": [
+        "tooling-recommendation",
         "javascript",
-        "recaptcha",
-        "hugo"
+        "typescript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Malte K"
+      "user": "Muhammad Adil"
     },
     {
-      "title": "Hiding multiple selections of a drop down",
-      "url": "https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down",
-      "published_at": "2026-08-29T00:04:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Doesn't JavaScript have console input?",
+      "url": "https://stackoverflow.com/questions/79999469/doesnt-javascript-have-console-input",
+      "published_at": "2026-08-30T23:52:37.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
       "tags": [
-        "javascript",
-        "html"
+        "advice",
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Firestar001"
+      "user": "Koolaid222"
     },
     {
-      "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
-      "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
-      "published_at": "2026-08-29T05:04:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shane watson"
-    },
-    {
-      "title": "In Playwright, should browser launching and page interaction steps be separated?",
-      "url": "https://stackoverflow.com/questions/79999130/in-playwright-should-browser-launching-and-page-interaction-steps-be-separated",
-      "published_at": "2026-08-29T04:10:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Merelie Bincal"
-    },
-    {
-      "title": "How does a Playwright locator behave when the matched DOM element is replaced?",
-      "url": "https://stackoverflow.com/questions/79998735/how-does-a-playwright-locator-behave-when-the-matched-dom-element-is-replaced",
-      "published_at": "2026-08-27T16:45:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "automated-tests",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sri Ramya"
-    },
-    {
-      "title": "Link is active?",
-      "url": "https://stackoverflow.com/questions/79998231/link-is-active",
-      "published_at": "2026-08-25T23:29:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "Why is JavaScript stopping when it calls getElementById method?",
+      "url": "https://stackoverflow.com/questions/79999444/why-is-javascript-stopping-when-it-calls-getelementbyid-method",
+      "published_at": "2026-08-30T21:41:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "dom"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Wayland"
+      "user": "Symfony-Wonderer"
     },
     {
       "title": "How to Get Reliable Structured Data Out of an LLM",
@@ -1812,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 4812,
+      "stars": 5431,
       "user": "sapientinc"
     },
     {
@@ -1827,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 995,
       "user": "Tencent"
     },
     {
@@ -1842,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 823,
       "user": "tradecatlabs"
     },
     {
@@ -1857,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 665,
       "user": "jprx"
     },
     {
@@ -1872,14 +1889,72 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 547,
       "user": "damejan80"
+    },
+    {
+      "title": "Delete operation on frozendict",
+      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
+      "published_at": "2026-08-31T15:09:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "immutability",
+        "python-3.15"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wensveen"
+    },
+    {
+      "title": "Writing lines as a single string from other file",
+      "url": "https://stackoverflow.com/questions/79999608/writing-lines-as-a-single-string-from-other-file",
+      "published_at": "2026-08-31T12:46:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "file-handling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hiba Naeem"
+    },
+    {
+      "title": "How can I efficiently store and retrieve multi-temporal satellite raster data on a low-storage offline system?",
+      "url": "https://stackoverflow.com/questions/79999586/how-can-i-efficiently-store-and-retrieve-multi-temporal-satellite-raster-data-on",
+      "published_at": "2026-08-31T10:57:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "geospatial",
+        "raster",
+        "sentinel2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MARUDHU B"
+    },
+    {
+      "title": "Visual Studio Code does not show docstring for ManyToManyField methods set and clear",
+      "url": "https://stackoverflow.com/questions/79999583/visual-studio-code-does-not-show-docstring-for-manytomanyfield-methods-set-and-c",
+      "published_at": "2026-08-31T10:51:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "django",
+        "visual-studio-code",
+        "docstring"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "IgorArnaut"
     },
     {
       "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
       "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
       "published_at": "2026-08-31T06:17:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "pyside6"
@@ -1903,18 +1978,20 @@
       "user": "Jody Barrett"
     },
     {
-      "title": "Why does NumPy slicing with a positive step return an empty array when start index is greater than end index?",
-      "url": "https://stackoverflow.com/questions/79999345/why-does-numpy-slicing-with-a-positive-step-return-an-empty-array-when-start-ind",
-      "published_at": "2026-08-30T09:12:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Python match-case vs. dictionary performance internals",
+      "url": "https://stackoverflow.com/questions/79999095/python-match-case-vs-dictionary-performance-internals",
+      "published_at": "2026-08-28T23:09:53.000Z",
+      "description": "Stack Overflow question · 2 answers · score 8",
       "tags": [
         "python",
-        "arrays",
-        "numpy"
+        "performance",
+        "optimization",
+        "python-3.10",
+        "structural-pattern-matching"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Arsh Kumar"
+      "user": "lowchess"
     },
     {
       "title": "Using ast.parse to evaluate arithmetic expression safely",
@@ -1931,20 +2008,18 @@
       "user": "jason lo"
     },
     {
-      "title": "Python match-case vs. dictionary performance internals",
-      "url": "https://stackoverflow.com/questions/79999095/python-match-case-vs-dictionary-performance-internals",
-      "published_at": "2026-08-28T23:09:53.000Z",
-      "description": "Stack Overflow question · 2 answers · score 6",
+      "title": "Why does NumPy slicing with a positive step return an empty array when start index is greater than end index?",
+      "url": "https://stackoverflow.com/questions/79999345/why-does-numpy-slicing-with-a-positive-step-return-an-empty-array-when-start-ind",
+      "published_at": "2026-08-30T09:12:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
-        "performance",
-        "optimization",
-        "python-3.10",
-        "structural-pattern-matching"
+        "arrays",
+        "numpy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "lowchess"
+      "user": "Arsh Kumar"
     },
     {
       "title": "How to resolve TypeError: isSubclass() arg 1 must be a class when issubclass() wasn't explicitly called?",
@@ -1959,61 +2034,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Tsoumagas"
-    },
-    {
-      "title": "Why Does an Identity Comparison Using id() Evaluate to False?",
-      "url": "https://stackoverflow.com/questions/79999271/why-does-an-identity-comparison-using-id-evaluate-to-false",
-      "published_at": "2026-08-29T19:45:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "advice",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nubspec"
-    },
-    {
-      "title": "Why does my Stoat.py code run without issues but the bot doesn't go online/respond to commands?",
-      "url": "https://stackoverflow.com/questions/79999250/why-does-my-stoat-py-code-run-without-issues-but-the-bot-doesnt-go-online-respo",
-      "published_at": "2026-08-29T16:47:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "asynchronous",
-        "bots"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Benjamin Tsoumagas"
-    },
-    {
-      "title": "How can I prevent duplicate Celery tasks when a FastAPI endpoint is retried?",
-      "url": "https://stackoverflow.com/questions/79999108/how-can-i-prevent-duplicate-celery-tasks-when-a-fastapi-endpoint-is-retried",
-      "published_at": "2026-08-29T00:12:50.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "postgresql",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Diventra Labs"
-    },
-    {
-      "title": "An error during using my FastAPI app. ValueError: [TypeError('object is not iterable'), TypeError('vars() argument must have __dict__ attribute')]",
-      "url": "https://stackoverflow.com/questions/79996706/an-error-during-using-my-fastapi-app-valueerror-typeerrorobject-is-not-iter",
-      "published_at": "2026-08-20T05:58:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "fastapi",
-        "pydantic"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ilya Nidelko"
     },
     {
       "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
@@ -2048,21 +2068,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
-      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
-      "published_at": "2026-08-29T18:57:42Z",
-      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
       "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo",
       "published_at": "2026-08-28T11:28:35Z",
@@ -2089,6 +2094,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
+      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
+      "published_at": "2026-08-29T18:57:42Z",
+      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2327,10 +2347,38 @@
       "user": "velmu"
     },
     {
-      "title": "How do I make the menu button open the nav menu in media queries",
-      "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
-      "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "title": "How to exchange usual html button with nice switch?",
+      "url": "https://stackoverflow.com/questions/79999654/how-to-exchange-usual-html-button-with-nice-switch",
+      "published_at": "2026-08-31T15:19:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Visitor"
+    },
+    {
+      "title": "Switch to minimize some icons on page",
+      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
+      "published_at": "2026-08-31T13:42:04.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Visitor"
+    },
+    {
+      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
+      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
+      "published_at": "2026-08-31T10:44:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2339,19 +2387,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "August"
-    },
-    {
-      "title": "Hiding multiple selections of a drop down",
-      "url": "https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down",
-      "published_at": "2026-08-29T00:04:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Firestar001"
     }
   ],
   "Mobile": [
@@ -2367,6 +2402,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
+      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
+      "published_at": "2026-08-30T21:04:04Z",
+      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2471,8 +2521,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 665,
       "user": "jprx"
+    },
+    {
+      "title": "How to accurately detect if our website is opened in mobile split-screen view?",
+      "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
+      "published_at": "2026-08-31T11:02:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "advice",
+        "javascript",
+        "android",
+        "browser",
+        "anti-cheat"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sayan Majumder"
     },
     {
       "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
@@ -2508,21 +2574,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
-      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
-      "published_at": "2026-08-29T18:57:42Z",
-      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -2553,19 +2604,19 @@
       "user": "xbill"
     },
     {
-      "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
-      "url": "https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp",
-      "published_at": "2026-08-30T07:45:24Z",
-      "description": "Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...",
+      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
+      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
+      "published_at": "2026-08-29T18:57:42Z",
+      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
       "tags": [
-        "googleappsscript",
-        "gemini",
-        "antigravity",
-        "linux"
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8ydhpymfaq4bw5lly2zv.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
       "source": "Dev.to",
-      "user": "Tanaike"
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
@@ -2626,6 +2677,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
+      "url": "https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp",
+      "published_at": "2026-08-30T07:45:24Z",
+      "description": "Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...",
+      "tags": [
+        "googleappsscript",
+        "gemini",
+        "antigravity",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8ydhpymfaq4bw5lly2zv.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -2694,8 +2760,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 284,
       "user": "PAICNI"
+    },
+    {
+      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
+      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
+      "published_at": "2026-08-29T12:59:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "Sac-Y"
     },
     {
       "title": "context-labs/cloudflared-operator - Cloudflare Tunnel's K8s Operator",
@@ -2724,19 +2805,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "published_at": "2026-08-29T18:41:59.000Z",
-      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "tags": [
-        "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.",
@@ -2785,21 +2853,6 @@
       "user": "Jordan Smith"
     },
     {
-      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
-      "published_at": "2026-08-11T14:40:56Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "react",
-        "devbugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
-      "source": "Dev.to",
-      "user": "Pooja Bhavani"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -2812,18 +2865,16 @@
       "user": "iancarroll"
     },
     {
-      "title": "How can I prevent duplicate Celery tasks when a FastAPI endpoint is retried?",
-      "url": "https://stackoverflow.com/questions/79999108/how-can-i-prevent-duplicate-celery-tasks-when-a-fastapi-endpoint-is-retried",
-      "published_at": "2026-08-29T00:12:50.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "A Better SQL in 11 Lines of Code",
+      "url": "https://prela-lang.org/tutorial/",
+      "published_at": "2026-08-31T04:10:20.536-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "python",
-        "postgresql",
-        "fastapi"
+        "databases"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Diventra Labs"
+      "source": "Lobste.rs",
+      "user": "mpweiher"
     }
   ],
   "Security": [
@@ -2858,21 +2909,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "The agent posted successfully. To the wrong account.",
-      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
-      "published_at": "2026-08-27T08:31:54Z",
-      "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
-      "tags": [
-        "ai",
-        "api",
-        "mcp",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
-      "source": "Dev.to",
-      "user": "Eugeniya Ivanova"
-    },
-    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -2886,6 +2922,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
+    },
+    {
+      "title": "The agent posted successfully. To the wrong account.",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
+      "published_at": "2026-08-27T08:31:54Z",
+      "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
+      "tags": [
+        "ai",
+        "api",
+        "mcp",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
+      "source": "Dev.to",
+      "user": "Eugeniya Ivanova"
     },
     {
       "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
@@ -3060,8 +3111,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "S1N6H"
+    },
+    {
+      "title": "curl: a CVE dispute",
+      "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+      "published_at": "2026-08-31T05:38:12.836-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eugeny"
     },
     {
       "title": "Omarchy: Any User Process Can Escalate to Root",
@@ -3074,6 +3137,34 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ucirello"
+    },
+    {
+      "title": "Any user process can escalate to root",
+      "url": "https://www.vesto.me/2026/08/31/any-process-escalate-root.html",
+      "published_at": "2026-08-31T08:46:41.291-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ntietz"
+    },
+    {
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "published_at": "2026-08-31T15:19:32.000Z",
+      "description": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
+      "tags": [
+        "Security",
+        "AI",
+        "backdoors",
+        "cybersecurity",
+        "encryption"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3274,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 390,
       "user": "OnlyTerp"
     },
     {
@@ -3289,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 284,
       "user": "PAICNI"
     },
     {
@@ -3319,23 +3410,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "GENEXIS-AI"
     },
     {
-      "title": "Derpyu520/qq-bridge - Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.",
-      "url": "https://github.com/Derpyu520/qq-bridge",
-      "published_at": "2026-08-25T07:46:42Z",
-      "description": "Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.",
+      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
+      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
+      "published_at": "2026-08-29T12:59:43Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299827845?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 117,
-      "user": "Derpyu520"
+      "stars": 150,
+      "user": "Sac-Y"
     },
     {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
@@ -3349,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 4812,
+      "stars": 5431,
       "user": "sapientinc"
     },
     {
@@ -3364,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 995,
       "user": "Tencent"
     },
     {
@@ -3379,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 823,
       "user": "tradecatlabs"
     },
     {
@@ -3394,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 665,
       "user": "jprx"
     },
     {
@@ -3409,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 547,
       "user": "damejan80"
     },
     {
@@ -3424,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 658,
       "user": "chrisgreg"
     },
     {
@@ -3439,8 +3530,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 340,
       "user": "DavidCarliez"
+    },
+    {
+      "title": "tsouth89/try-omarchy-windows - Use Omarchy Linux on Windows 11 without any hassle.",
+      "url": "https://github.com/tsouth89/try-omarchy-windows",
+      "published_at": "2026-08-28T00:13:28Z",
+      "description": "Use Omarchy Linux on Windows 11 without any hassle.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
+      "source": "GitHub",
+      "stars": 63,
+      "user": "tsouth89"
     },
     {
       "title": "context-labs/cloudflared-operator - Cloudflare Tunnel's K8s Operator",
@@ -3458,21 +3564,6 @@
       "user": "context-labs"
     },
     {
-      "title": "tsouth89/try-omarchy-windows - Use Omarchy Linux on Windows 11 without any hassle.",
-      "url": "https://github.com/tsouth89/try-omarchy-windows",
-      "published_at": "2026-08-28T00:13:28Z",
-      "description": "Use Omarchy Linux on Windows 11 without any hassle.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "tsouth89"
-    },
-    {
       "title": "ih8d8/yt-dlp-manager - Self-hosted yt-dlp download manager: web UI, TUI and CLI over one shared queue. Single Go binary.",
       "url": "https://github.com/ih8d8/yt-dlp-manager",
       "published_at": "2026-08-30T05:35:51Z",
@@ -3484,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45679035?v=4",
       "source": "GitHub",
-      "stars": 32,
+      "stars": 38,
       "user": "ih8d8"
     },
     {
@@ -3499,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1564,
+      "stars": 1733,
       "user": "XiaoDuoYa"
     },
     {
@@ -3514,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1129,
       "user": "wide-trace"
     },
     {
@@ -3529,23 +3620,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 842,
       "user": "jub0t"
-    },
-    {
-      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
-      "published_at": "2026-08-25T15:12:20Z",
-      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
-      "source": "GitHub",
-      "stars": 592,
-      "user": "gtlhuyidan-sketch"
     },
     {
       "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
@@ -3559,8 +3635,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "S1N6H"
+    },
+    {
+      "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
+      "url": "https://github.com/nateherkai/snagtime",
+      "published_at": "2026-08-27T21:43:06Z",
+      "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "nateherkai"
     },
     {
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
@@ -3574,7 +3665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 690,
       "user": "crmne"
     },
     {
@@ -3589,7 +3680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 425,
       "user": "soirihiroka"
     },
     {
@@ -3604,7 +3695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 227,
       "user": "JordyZomer"
     },
     {
@@ -3638,17 +3729,50 @@
       "user": "pgrundev"
     },
     {
-      "title": "There's no such thing as Just a Tool",
-      "url": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
-      "published_at": "2026-08-29T22:59:05.712-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How do AI coding agents handle large codebases?",
+      "url": "https://stackoverflow.com/questions/79999560/how-do-ai-coding-agents-handle-large-codebases",
+      "published_at": "2026-08-31T09:25:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -12",
       "tags": [
-        "philosophy",
-        "vibecoding"
+        "tooling-recommendation",
+        "javascript",
+        "typescript"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kirch"
+      "source": "StackOverflow",
+      "user": "Muhammad Adil"
+    },
+    {
+      "title": "How can I efficiently store and retrieve multi-temporal satellite raster data on a low-storage offline system?",
+      "url": "https://stackoverflow.com/questions/79999586/how-can-i-efficiently-store-and-retrieve-multi-temporal-satellite-raster-data-on",
+      "published_at": "2026-08-31T10:57:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "geospatial",
+        "raster",
+        "sentinel2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MARUDHU B"
+    },
+    {
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "published_at": "2026-08-31T15:19:32.000Z",
+      "description": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices.",
+      "tags": [
+        "Security",
+        "AI",
+        "backdoors",
+        "cybersecurity",
+        "encryption"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
