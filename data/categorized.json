@@ -751,34 +751,49 @@
       "user": "caseyf7"
     },
     {
-      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
-      "url": "https://github.com/czm15053/linuxdo-idea-ui",
-      "published_at": "2026-08-24T08:23:09Z",
-      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "title": "PAICNI/CFBox - 一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "url": "https://github.com/PAICNI/CFBox",
+      "published_at": "2026-08-26T21:58:54Z",
+      "description": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "czm15053"
+      "stars": 156,
+      "user": "PAICNI"
     },
     {
-      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
-      "published_at": "2026-08-24T13:07:30Z",
-      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "title": "GENEXIS-AI/gpt-image-skill - Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+      "published_at": "2026-08-26T08:52:50Z",
+      "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
       "source": "GitHub",
-      "stars": 174,
-      "user": "yizhiyanhua-ai"
+      "stars": 153,
+      "user": "GENEXIS-AI"
+    },
+    {
+      "title": "hassenbrahim/ValidatorMempool - Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
+      "url": "https://github.com/hassenbrahim/ValidatorMempool",
+      "published_at": "2026-08-26T03:46:30Z",
+      "description": "Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284676581?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "hassenbrahim"
     },
     {
       "title": "DavidCarliez/trustmebro - Bypass llm guardrails by confusing it with fabricated tool output.",
@@ -792,23 +807,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 290,
       "user": "DavidCarliez"
-    },
-    {
-      "title": "incompletepi/Project-Zomboid-Lag-Crash-Fix-2026 - Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
-      "url": "https://github.com/incompletepi/Project-Zomboid-Lag-Crash-Fix-2026",
-      "published_at": "2026-08-24T19:51:46Z",
-      "description": "Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209298247?v=4",
-      "source": "GitHub",
-      "stars": 41,
-      "user": "incompletepi"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -822,23 +822,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1366,
+      "stars": 1422,
       "user": "XiaoDuoYa"
     },
     {
-      "title": "amosblomqvist/learn - My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "published_at": "2026-08-24T16:45:07Z",
-      "description": "My AI learning system.",
+      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "published_at": "2026-08-25T15:12:20Z",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
       "source": "GitHub",
-      "stars": 905,
-      "user": "amosblomqvist"
+      "stars": 553,
+      "user": "gtlhuyidan-sketch"
+    },
+    {
+      "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "published_at": "2026-08-26T04:57:19Z",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
+      "source": "GitHub",
+      "stars": 300,
+      "user": "S1N6H"
     },
     {
       "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
@@ -852,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 205,
       "user": "JordyZomer"
     },
     {
@@ -1386,38 +1401,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 384,
       "user": "OnlyTerp"
-    },
-    {
-      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
-      "url": "https://github.com/czm15053/linuxdo-idea-ui",
-      "published_at": "2026-08-24T08:23:09Z",
-      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
-      "source": "GitHub",
-      "stars": 262,
-      "user": "czm15053"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
-      "published_at": "2026-08-24T13:07:30Z",
-      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "yizhiyanhua-ai"
     },
     {
       "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
@@ -1435,19 +1420,49 @@
       "user": "Cleverfuxaqo1668"
     },
     {
-      "title": "zhuyifang/tonghuasun-agent - 在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
-      "url": "https://github.com/zhuyifang/tonghuasun-agent",
-      "published_at": "2026-08-24T12:02:01Z",
-      "description": "在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
+      "title": "PAICNI/CFBox - 一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "url": "https://github.com/PAICNI/CFBox",
+      "published_at": "2026-08-26T21:58:54Z",
+      "description": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16346219?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "zhuyifang"
+      "stars": 156,
+      "user": "PAICNI"
+    },
+    {
+      "title": "GENEXIS-AI/gpt-image-skill - Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+      "published_at": "2026-08-26T08:52:50Z",
+      "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
+      "source": "GitHub",
+      "stars": 153,
+      "user": "GENEXIS-AI"
+    },
+    {
+      "title": "hassenbrahim/ValidatorMempool - Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
+      "url": "https://github.com/hassenbrahim/ValidatorMempool",
+      "published_at": "2026-08-26T03:46:30Z",
+      "description": "Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284676581?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "hassenbrahim"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -1461,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1366,
+      "stars": 1422,
       "user": "XiaoDuoYa"
     },
     {
@@ -1476,38 +1491,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1084,
       "user": "wide-trace"
-    },
-    {
-      "title": "amosblomqvist/learn - My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "published_at": "2026-08-24T16:45:07Z",
-      "description": "My AI learning system.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
-      "source": "GitHub",
-      "stars": 905,
-      "user": "amosblomqvist"
-    },
-    {
-      "title": "kacperkapusciak/goldie - ✨ agentic app store previews and screenshots",
-      "url": "https://github.com/kacperkapusciak/goldie",
-      "published_at": "2026-08-24T12:36:59Z",
-      "description": "✨ agentic app store previews and screenshots",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
-      "source": "GitHub",
-      "stars": 716,
-      "user": "kacperkapusciak"
     },
     {
       "title": "jub0t/WolfCut - Free & Open-Source CapCut replacement.",
@@ -1521,8 +1506,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 717,
       "user": "jub0t"
+    },
+    {
+      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "published_at": "2026-08-25T15:12:20Z",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
+      "source": "GitHub",
+      "stars": 553,
+      "user": "gtlhuyidan-sketch"
+    },
+    {
+      "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "published_at": "2026-08-26T04:57:19Z",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
+      "source": "GitHub",
+      "stars": 300,
+      "user": "S1N6H"
     },
     {
       "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
@@ -1537,10 +1552,23 @@
       "user": "veqq"
     },
     {
+      "title": "Javascript doesn't have console input?",
+      "url": "https://stackoverflow.com/questions/79999469/javascript-doesnt-have-console-input",
+      "published_at": "2026-08-30T23:52:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "performance"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
+    },
+    {
       "title": "Why is JavaScript stopping when it calls getElementById method?",
       "url": "https://stackoverflow.com/questions/79999444/why-is-javascript-stopping-when-it-calls-getelementbyid-method",
       "published_at": "2026-08-30T21:41:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "dom"
@@ -1659,22 +1687,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vector"
-    },
-    {
-      "title": "Handling 'clientError' events in http.Server, Node.js",
-      "url": "https://stackoverflow.com/questions/79946355/handling-clienterror-events-in-http-server-node-js",
-      "published_at": "2026-05-25T15:20:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "http",
-        "server",
-        "best-practices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Timur"
     },
     {
       "title": "How to Get Reliable Structured Data Out of an LLM",
@@ -1871,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 4526,
+      "stars": 4531,
       "user": "sapientinc"
     },
     {
@@ -1886,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 938,
       "user": "Tencent"
     },
     {
@@ -1901,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 796,
       "user": "tradecatlabs"
     },
     {
@@ -1916,23 +1928,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "jprx"
     },
     {
-      "title": "lxf746/outlook-auto-register - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
-      "url": "https://github.com/lxf746/outlook-auto-register",
-      "published_at": "2026-08-24T04:39:07Z",
-      "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
+      "title": "breslee1707/VI-Translate - GitHub Repository",
+      "url": "https://github.com/breslee1707/VI-Translate",
+      "published_at": "2026-08-25T08:42:50Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/199243521?v=4",
       "source": "GitHub",
-      "stars": 579,
-      "user": "lxf746"
+      "stars": 437,
+      "user": "breslee1707"
     },
     {
       "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
@@ -1964,7 +1976,7 @@
       "title": "Why does NumPy slicing with a positive step return an empty array when start index is greater than end index?",
       "url": "https://stackoverflow.com/questions/79999345/why-does-numpy-slicing-with-a-positive-step-return-an-empty-array-when-start-ind",
       "published_at": "2026-08-30T09:12:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "arrays",
@@ -2583,7 +2595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "jprx"
     },
     {
@@ -2805,6 +2817,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "PAICNI/CFBox - 一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "url": "https://github.com/PAICNI/CFBox",
+      "published_at": "2026-08-26T21:58:54Z",
+      "description": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
+      "source": "GitHub",
+      "stars": 156,
+      "user": "PAICNI"
     },
     {
       "title": "context-labs/cloudflared-operator - Cloudflare Tunnel's K8s Operator",
@@ -3158,6 +3185,21 @@
       "user": "ewenjo"
     },
     {
+      "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "published_at": "2026-08-26T04:57:19Z",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
+      "source": "GitHub",
+      "stars": 300,
+      "user": "S1N6H"
+    },
+    {
       "title": "Omarchy: Any User Process Can Escalate to Root",
       "url": "https://0xcc.io/posts/omarchy-root-creds/",
       "published_at": "2026-08-30T13:11:09.248-05:00",
@@ -3368,38 +3410,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 384,
       "user": "OnlyTerp"
-    },
-    {
-      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
-      "url": "https://github.com/czm15053/linuxdo-idea-ui",
-      "published_at": "2026-08-24T08:23:09Z",
-      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
-      "source": "GitHub",
-      "stars": 262,
-      "user": "czm15053"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
-      "published_at": "2026-08-24T13:07:30Z",
-      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "yizhiyanhua-ai"
     },
     {
       "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
@@ -3417,19 +3429,49 @@
       "user": "Cleverfuxaqo1668"
     },
     {
-      "title": "zhuyifang/tonghuasun-agent - 在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
-      "url": "https://github.com/zhuyifang/tonghuasun-agent",
-      "published_at": "2026-08-24T12:02:01Z",
-      "description": "在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
+      "title": "PAICNI/CFBox - 一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "url": "https://github.com/PAICNI/CFBox",
+      "published_at": "2026-08-26T21:58:54Z",
+      "description": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16346219?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "zhuyifang"
+      "stars": 156,
+      "user": "PAICNI"
+    },
+    {
+      "title": "GENEXIS-AI/gpt-image-skill - Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+      "published_at": "2026-08-26T08:52:50Z",
+      "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
+      "source": "GitHub",
+      "stars": 153,
+      "user": "GENEXIS-AI"
+    },
+    {
+      "title": "hassenbrahim/ValidatorMempool - Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
+      "url": "https://github.com/hassenbrahim/ValidatorMempool",
+      "published_at": "2026-08-26T03:46:30Z",
+      "description": "Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284676581?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "hassenbrahim"
     },
     {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
@@ -3443,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 4526,
+      "stars": 4531,
       "user": "sapientinc"
     },
     {
@@ -3458,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 938,
       "user": "Tencent"
     },
     {
@@ -3473,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 796,
       "user": "tradecatlabs"
     },
     {
@@ -3488,23 +3530,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "jprx"
     },
     {
-      "title": "lxf746/outlook-auto-register - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
-      "url": "https://github.com/lxf746/outlook-auto-register",
-      "published_at": "2026-08-24T04:39:07Z",
-      "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
+      "title": "breslee1707/VI-Translate - GitHub Repository",
+      "url": "https://github.com/breslee1707/VI-Translate",
+      "published_at": "2026-08-25T08:42:50Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/199243521?v=4",
       "source": "GitHub",
-      "stars": 579,
-      "user": "lxf746"
+      "stars": 437,
+      "user": "breslee1707"
     },
     {
       "title": "chrisgreg/boop - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
@@ -3518,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 608,
       "user": "chrisgreg"
     },
     {
@@ -3533,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 290,
       "user": "DavidCarliez"
     },
     {
@@ -3567,19 +3609,19 @@
       "user": "tsouth89"
     },
     {
-      "title": "incompletepi/Project-Zomboid-Lag-Crash-Fix-2026 - Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
-      "url": "https://github.com/incompletepi/Project-Zomboid-Lag-Crash-Fix-2026",
-      "published_at": "2026-08-24T19:51:46Z",
-      "description": "Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
+      "title": "HexLasso/FF-16-TUI - Interactive static analysis tool to locate structures from frequent patterns",
+      "url": "https://github.com/HexLasso/FF-16-TUI",
+      "published_at": "2026-08-25T17:34:36Z",
+      "description": "Interactive static analysis tool to locate structures from frequent patterns",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209298247?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/119726548?v=4",
       "source": "GitHub",
-      "stars": 41,
-      "user": "incompletepi"
+      "stars": 31,
+      "user": "HexLasso"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -3593,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1366,
+      "stars": 1422,
       "user": "XiaoDuoYa"
     },
     {
@@ -3608,38 +3650,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1084,
       "user": "wide-trace"
-    },
-    {
-      "title": "amosblomqvist/learn - My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "published_at": "2026-08-24T16:45:07Z",
-      "description": "My AI learning system.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
-      "source": "GitHub",
-      "stars": 905,
-      "user": "amosblomqvist"
-    },
-    {
-      "title": "kacperkapusciak/goldie - ✨ agentic app store previews and screenshots",
-      "url": "https://github.com/kacperkapusciak/goldie",
-      "published_at": "2026-08-24T12:36:59Z",
-      "description": "✨ agentic app store previews and screenshots",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
-      "source": "GitHub",
-      "stars": 716,
-      "user": "kacperkapusciak"
     },
     {
       "title": "jub0t/WolfCut - Free & Open-Source CapCut replacement.",
@@ -3653,8 +3665,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 717,
       "user": "jub0t"
+    },
+    {
+      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "published_at": "2026-08-25T15:12:20Z",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
+      "source": "GitHub",
+      "stars": 553,
+      "user": "gtlhuyidan-sketch"
+    },
+    {
+      "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "published_at": "2026-08-26T04:57:19Z",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
+      "source": "GitHub",
+      "stars": 300,
+      "user": "S1N6H"
     },
     {
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
@@ -3668,7 +3710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 559,
       "user": "crmne"
     },
     {
@@ -3683,7 +3725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 231,
       "user": "soirihiroka"
     },
     {
@@ -3698,7 +3740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 205,
       "user": "JordyZomer"
     },
     {
@@ -3713,7 +3755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "dragthelake"
     },
     {
