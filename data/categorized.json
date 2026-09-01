@@ -1,6 +1,19 @@
 {
   "AI": [
     {
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
+      "published_at": "2026-09-01T16:35:00Z",
+      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "tags": [
+        "ai",
+        "evals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
+    },
+    {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
       "published_at": "2026-08-30T16:46:00Z",
@@ -196,21 +209,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
-      "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o",
-      "published_at": "2026-08-26T17:29:30Z",
-      "description": "so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...",
-      "tags": [
-        "aiops",
-        "ai",
-        "webdev",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk6mcyw0haqp8rus5lh5p.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
       "published_at": "2026-08-25T20:44:29Z",
@@ -284,6 +282,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnaugad5rry7u00pyg8wh.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Greatness Is Forged by Limitation",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
+      "published_at": "2026-08-19T13:04:47Z",
+      "description": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
+      "tags": [
+        "ai",
+        "programming",
+        "webdev",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
+      "source": "Dev.to",
+      "user": "Adam - The Developer ✨"
     },
     {
       "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
@@ -478,21 +491,6 @@
       "user": "Jordan Smith"
     },
     {
-      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
-      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
-      "published_at": "2026-08-20T01:56:59Z",
-      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
-      "tags": [
-        "dart",
-        "python",
-        "rust",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Deploying a QAT Checkpoint Your Serving Stack Can't Load: Gemma 4 E2B in Pure JAX on One TPU",
       "url": "https://dev.to/gde/deploying-a-qat-checkpoint-your-serving-stack-cant-load-gemma-4-e2b-in-pure-jax-on-one-tpu-5cjm",
       "published_at": "2026-08-19T13:43:23Z",
@@ -508,19 +506,124 @@
       "user": "xbill"
     },
     {
-      "title": "I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.",
-      "url": "https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0",
-      "published_at": "2026-08-25T00:15:18Z",
-      "description": "This is article 5 in a series about building PlannerCritic, an open-source engine where one LLM...",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "published_at": "2026-03-11T19:29:29Z",
+      "description": "HackerNews Discussion",
       "tags": [
-        "ai",
-        "agents",
-        "security",
-        "llm"
+        "AI"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0dscma56ah2jztad350.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "usefulposter"
+    },
+    {
+      "title": "Airfoil",
+      "url": "https://ciechanow.ski/airfoil/",
+      "published_at": "2024-02-27T16:32:49Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "todsacerdoti"
+    },
+    {
+      "title": "Open source AI is the path forward",
+      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+      "published_at": "2024-07-23T15:08:41Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "atgctg"
+    },
+    {
+      "title": "My AI skeptic friends are all nuts",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "published_at": "2025-06-02T21:09:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "tabletcorry"
+    },
+    {
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "published_at": "2026-02-12T16:23:24Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "scottshambaugh"
+    },
+    {
+      "title": "Gemini AI",
+      "url": "https://deepmind.google/technologies/gemini/",
+      "published_at": "2023-12-06T15:03:47Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "dmotz"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "published_at": "2026-05-15T20:26:47Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "reasonableklout"
+    },
+    {
+      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+      "published_at": "2026-02-24T12:16:45Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "Qem"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "published_at": "2026-05-27T10:43:25Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "theorchid"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
     },
     {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
@@ -545,18 +648,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "indigodaddy"
-    },
-    {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
     },
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -594,23 +685,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 454,
       "user": "PAICNI"
     },
     {
-      "title": "GangTailorUpgrade/CoomeRtool - Coomer Tool",
-      "url": "https://github.com/GangTailorUpgrade/CoomeRtool",
-      "published_at": "2026-08-31T00:12:45Z",
-      "description": "Coomer Tool",
+      "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "url": "https://github.com/Nanako0129/sepia",
+      "published_at": "2026-08-28T05:56:49Z",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 765,
-      "user": "GangTailorUpgrade"
+      "stars": 1346,
+      "user": "Nanako0129"
     },
     {
       "title": "DavidCarliez/trustmebro - Bypass llm guardrails by confusing it with fabricated tool output.",
@@ -624,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "DavidCarliez"
     },
     {
@@ -639,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2101,
+      "stars": 2115,
       "user": "XiaoDuoYa"
     },
     {
@@ -654,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 319,
       "user": "S1N6H"
     },
     {
@@ -669,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "nateherkai"
     },
     {
@@ -684,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 248,
       "user": "JordyZomer"
     },
     {
@@ -703,19 +794,6 @@
       "user": "daffainfo"
     },
     {
-      "title": "VibeCoded AI-Slop License v1.0",
-      "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
-      "published_at": "2026-08-31T06:40:14.514-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "satire",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ktr"
-    },
-    {
       "title": "Zuzai, a new word, indicates the absence of AI",
       "url": "https://zuzai.org/",
       "published_at": "2026-09-01T08:26:12.427-05:00",
@@ -728,17 +806,20 @@
       "user": "FedericoSchonborn"
     },
     {
-      "title": "I attended a conference recently and AI use by academics was absurd",
-      "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
-      "published_at": "2026-08-31T10:22:00.683-05:00",
-      "description": "As we listened to talks most people were stuck doing pointless tasks on their phones and computers. Less than 10%, likely 5%, were listening attentively. This was quite sad for me.\r\n\r\nThe thing I would like to share the most, that shocked me more than any AI use I've seen ever—when I was on stage receiving QA post talk among the fellow panelists, everyone but me used AI on their laptops to record their questions and then come up with a response they could use. IDK about others, but I spent a lot of time on my talk and slideshow. The professor who served as the respondent listened for two hours taking a ton of notes then formed thoughtful questions. I cannot believe the laziness and disrespect to the professor's intellect for all the other panelists to rely on AI for their response.\r\n\r\nFor me, the seduction of AI to do boring tasks such as translation, CV writing, and job applications, and editing papers is forever there but I choose to believe these tasks benefit me as someone trying to be a so-called intellectual. To see everyone around me choose to not think for themselves, when we presenters should be the most knowledgeable in the room about our topics, shocked me beyond anything I've seen in academic. \r\n\r\nI am constantly considering the use of AI in the classroom and research and thought this reflection/rant would be relevant here. \r\n\r\nI'm curious if my fellow Lobsters have seen similar uses of AI or what their opinions are.",
+      "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
+      "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
+      "published_at": "2026-09-01T16:25:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "rant",
-        "vibecoding"
+        "advice",
+        "javascript",
+        "node.js",
+        "debugging",
+        "stack-trace"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "oceanhaiyang"
+      "source": "StackOverflow",
+      "user": "kauddoc"
     },
     {
       "title": "How do AI coding agents handle large codebases?",
@@ -755,10 +836,23 @@
       "user": "Muhammad Adil"
     },
     {
+      "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
+      "url": "https://stackoverflow.com/questions/79999971/how-can-i-extract-and-split-pdf-content-into-logical-paragraphs-when-some-pages",
+      "published_at": "2026-09-01T17:35:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "ocr"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohammad Nizam Uddin Imran"
+    },
+    {
       "title": "How can i improve the readability and python style of certain problems?",
       "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
       "published_at": "2026-09-01T13:41:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "data-structures"
@@ -768,17 +862,113 @@
       "user": "sai"
     },
     {
-      "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
-      "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
-      "published_at": "2026-08-31T06:17:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "published_at": "2026-09-01T17:35:37.000Z",
+      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
       "tags": [
-        "python",
-        "pyside6"
+        "AI",
+        "Apps",
+        "canva",
+        "Google"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Reid Litkauo"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "published_at": "2026-09-01T17:00:00.000Z",
+      "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Waymo goes on offense ahead of Tesla&#8217;s Cybercab launch",
+      "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+      "published_at": "2026-09-01T16:49:12.000Z",
+      "description": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+      "tags": [
+        "Transportation",
+        "Tesla",
+        "Waymo",
+        "robotaxis",
+        "cybercab"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "published_at": "2026-09-01T16:31:04.000Z",
+      "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Sequoia Capital",
+        "SREs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "GoPro to be acquired for $285M, will remain a public company",
+      "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+      "published_at": "2026-09-01T15:57:23.000Z",
+      "description": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
+      "tags": [
+        "Gadgets",
+        "GoPro",
+        "Mergers and Acquisitions",
+        "Nick Woodman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "published_at": "2026-09-01T15:51:55.000Z",
+      "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "Alexa",
+        "Amazon",
+        "e-commerce"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "published_at": "2026-09-01T15:45:51.000Z",
+      "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "tags": [
+        "AI",
+        "Security",
+        "Startups",
+        "AI agents",
+        "ai security"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "Fambot introduces an &#8216;AI chief of staff&#8217; for families",
@@ -788,71 +978,13 @@
       "tags": [
         "AI",
         "Apps",
-        "families",
-        "Startups"
+        "Startups",
+        "AI agents",
+        "families"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
-      "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
-      "published_at": "2026-09-01T14:52:12.000Z",
-      "description": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
-      "tags": [
-        "Climate",
-        "Fundraising",
-        "Startups",
-        "Transportation",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "India&#8217;s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
-      "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
-      "published_at": "2026-09-01T13:58:42.000Z",
-      "description": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
-      "tags": [
-        "Startups",
-        "Unacademy",
-        "UpGrad"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-      "published_at": "2026-09-01T00:30:00.000Z",
-      "description": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
-      "tags": [
-        "Startups",
-        "Transportation",
-        "Lachy Groom",
-        "Together Fund"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "published_at": "2026-09-01T00:13:00.000Z",
-      "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "tags": [
-        "AI",
-        "Apple",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems",
@@ -1188,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 454,
       "user": "PAICNI"
     },
     {
@@ -1203,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "OnlyTerp"
     },
     {
@@ -1218,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 284,
       "user": "subsy"
     },
     {
@@ -1233,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 198,
       "user": "Player-YN"
     },
     {
@@ -1248,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 181,
       "user": "Sac-Y"
     },
     {
@@ -1263,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2101,
+      "stars": 2115,
       "user": "XiaoDuoYa"
     },
     {
@@ -1278,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1199,
       "user": "wide-trace"
     },
     {
@@ -1293,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 460,
       "user": "Git-Agni"
     },
     {
@@ -1308,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 319,
       "user": "S1N6H"
     },
     {
@@ -1323,8 +1455,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "nateherkai"
+    },
+    {
+      "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
+      "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
+      "published_at": "2026-09-01T16:25:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "javascript",
+        "node.js",
+        "debugging",
+        "stack-trace"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kauddoc"
     },
     {
       "title": "How can I quickly identify the font used on a webpage using JavaScript?",
@@ -1340,6 +1488,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shahbakht Khan"
+    },
+    {
+      "title": "Why I can't import .ts file using express and typescript",
+      "url": "https://stackoverflow.com/questions/79999639/why-i-cant-import-ts-file-using-express-and-typescript",
+      "published_at": "2026-08-31T14:37:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
     },
     {
       "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
@@ -1358,7 +1520,7 @@
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
       "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
       "published_at": "2026-08-31T13:33:48.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "json",
@@ -1426,34 +1588,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
-    },
-    {
-      "title": "Switch to minimize some icons on page",
-      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
-      "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Visitor"
-    },
-    {
-      "title": "Why I can't import .ts file using express and typescript",
-      "url": "https://stackoverflow.com/questions/79999639/why-i-cant-import-ts-file-using-express-and-typescript",
-      "published_at": "2026-08-31T14:37:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
     },
     {
       "title": "How do AI coding agents handle large codebases?",
@@ -1547,21 +1681,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
-      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
-      "published_at": "2026-08-20T01:56:59Z",
-      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
-      "tags": [
-        "dart",
-        "python",
-        "rust",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1695,8 +1814,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 5898,
+      "stars": 6028,
       "user": "sapientinc"
+    },
+    {
+      "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "url": "https://github.com/Nanako0129/sepia",
+      "published_at": "2026-08-28T05:56:49Z",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
+      "source": "GitHub",
+      "stars": 1346,
+      "user": "Nanako0129"
     },
     {
       "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
@@ -1710,23 +1844,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 1102,
       "user": "damejan80"
-    },
-    {
-      "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
-      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
-      "published_at": "2026-08-27T18:02:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
-      "source": "GitHub",
-      "stars": 840,
-      "user": "tradecatlabs"
     },
     {
       "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
@@ -1740,29 +1859,54 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 847,
       "user": "jprx"
     },
     {
-      "title": "GangTailorUpgrade/CoomeRtool - Coomer Tool",
-      "url": "https://github.com/GangTailorUpgrade/CoomeRtool",
-      "published_at": "2026-08-31T00:12:45Z",
-      "description": "Coomer Tool",
+      "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+      "published_at": "2026-08-27T18:02:35Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 765,
-      "user": "GangTailorUpgrade"
+      "stars": 842,
+      "user": "tradecatlabs"
+    },
+    {
+      "title": "How to extract only car models that begin with the letter 'V' from a CSV file",
+      "url": "https://stackoverflow.com/questions/79999954/how-to-extract-only-car-models-that-begin-with-the-letter-v-from-a-csv-file",
+      "published_at": "2026-09-01T16:47:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Liz H"
+    },
+    {
+      "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
+      "url": "https://stackoverflow.com/questions/79999971/how-can-i-extract-and-split-pdf-content-into-logical-paragraphs-when-some-pages",
+      "published_at": "2026-09-01T17:35:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "ocr"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohammad Nizam Uddin Imran"
     },
     {
       "title": "How can i improve the readability and python style of certain problems?",
       "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
       "published_at": "2026-09-01T13:41:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "data-structures"
@@ -1801,6 +1945,20 @@
       "user": "paxdiablo"
     },
     {
+      "title": "Delete operation on frozendict",
+      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
+      "published_at": "2026-08-31T15:09:27.000Z",
+      "description": "Stack Overflow question · 4 answers · score 4",
+      "tags": [
+        "python",
+        "immutability",
+        "python-3.15"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wensveen"
+    },
+    {
       "title": "Python script to download Barchart data is no longer working",
       "url": "https://stackoverflow.com/questions/79999758/python-script-to-download-barchart-data-is-no-longer-working",
       "published_at": "2026-09-01T01:29:24.000Z",
@@ -1812,20 +1970,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ateene"
-    },
-    {
-      "title": "Delete operation on frozendict",
-      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
-      "published_at": "2026-08-31T15:09:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 4",
-      "tags": [
-        "python",
-        "immutability",
-        "python-3.15"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wensveen"
     },
     {
       "title": "Visual Studio Code does not show descriptions of ManyToManyField set and clear",
@@ -1870,35 +2014,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lowchess"
-    },
-    {
-      "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
-      "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
-      "published_at": "2026-08-31T06:17:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "pyside6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Reid Litkauo"
-    },
-    {
-      "title": "How can I efficiently store and retrieve multi-temporal satellite raster data on a low-storage offline system?",
-      "url": "https://stackoverflow.com/questions/79999586/how-can-i-efficiently-store-and-retrieve-multi-temporal-satellite-raster-data-on",
-      "published_at": "2026-08-31T10:57:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "geospatial",
-        "raster",
-        "sentinel2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MARUDHU B"
     }
   ],
   "DevOps": [
@@ -2005,6 +2120,126 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "The Big DevOps Misunderstanding",
+      "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
+      "published_at": "2021-12-19T20:07:33Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "WolfOliver"
+    },
+    {
+      "title": "Knightmare: A DevOps Cautionary Tale (2014)",
+      "url": "https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/",
+      "published_at": "2023-09-10T20:07:12Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "sathishmanohar"
+    },
+    {
+      "title": "DevOps Is Bullshit (2022)",
+      "url": "https://blog.massdriver.cloud/posts/devops-is-bullshit/",
+      "published_at": "2023-06-16T10:00:42Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "dijit"
+    },
+    {
+      "title": "Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?",
+      "url": "https://news.ycombinator.com/item?id=31580763",
+      "published_at": "2022-06-01T12:19:43Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "picozeta"
+    },
+    {
+      "title": "DevOps is broken",
+      "url": "https://blog.massdriver.cloud/devops-is-bullshit",
+      "published_at": "2022-10-20T14:16:22Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "davydog187"
+    },
+    {
+      "title": "A developer goes to a DevOps conference",
+      "url": "https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/",
+      "published_at": "2019-09-28T15:43:04Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "fanf2"
+    },
+    {
+      "title": "Nix is the ultimate DevOps toolkit",
+      "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
+      "published_at": "2021-04-09T10:20:33Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "rkrzr"
+    },
+    {
+      "title": "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
+      "url": "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/",
+      "published_at": "2023-02-28T03:21:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "mikece"
+    },
+    {
+      "title": "Ask HN: Solo-preneurs, how do you DevOps to save time?",
+      "url": "https://news.ycombinator.com/item?id=28838132",
+      "published_at": "2021-10-12T10:35:11Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "aristofun"
+    },
+    {
+      "title": "How 'DevOps' Is Killing The Developer",
+      "url": "http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/",
+      "published_at": "2014-04-15T15:25:42Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "jknupp"
     }
   ],
   "WebDev": [
@@ -2088,8 +2323,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 187,
       "user": "mizorewww"
+    },
+    {
+      "title": "Is Minifying CSS Necessary? (2023)",
+      "url": "https://shivjm.blog/is-minifying-css-necessary/",
+      "published_at": "2026-09-01T10:42:44.571-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "css",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "uncenter"
     },
     {
       "title": "How can I quickly identify the font used on a webpage using JavaScript?",
@@ -2126,20 +2374,6 @@
       "url": "https://stackoverflow.com/questions/79999654/how-to-exchange-usual-html-button-with-nice-switch",
       "published_at": "2026-08-31T15:19:34.000Z",
       "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Visitor"
-    },
-    {
-      "title": "Switch to minimize some icons on page",
-      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
-      "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2297,7 +2531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 847,
       "user": "jprx"
     },
     {
@@ -2312,7 +2546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 460,
       "user": "Git-Agni"
     },
     {
@@ -2535,7 +2769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 454,
       "user": "PAICNI"
     },
     {
@@ -2550,7 +2784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 181,
       "user": "Sac-Y"
     },
     {
@@ -2567,18 +2801,6 @@
       "source": "GitHub",
       "stars": 56,
       "user": "context-labs"
-    },
-    {
-      "title": "If space data centers feel far-fetched, why not interstellar travel?",
-      "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
-      "published_at": "2026-09-01T10:00:00.000Z",
-      "description": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
-      "tags": [
-        "Space"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.",
@@ -2656,21 +2878,6 @@
   ],
   "Security": [
     {
-      "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
-      "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o",
-      "published_at": "2026-08-26T17:29:30Z",
-      "description": "so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...",
-      "tags": [
-        "aiops",
-        "ai",
-        "webdev",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk6mcyw0haqp8rus5lh5p.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
       "published_at": "2026-08-25T20:44:29Z",
@@ -2730,19 +2937,28 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.",
-      "url": "https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0",
-      "published_at": "2026-08-25T00:15:18Z",
-      "description": "This is article 5 in a series about building PlannerCritic, an open-source engine where one LLM...",
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
       "tags": [
-        "ai",
-        "agents",
-        "security",
-        "llm"
+        "Security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0dscma56ah2jztad350.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
+    },
+    {
+      "title": "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
+      "url": "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/",
+      "published_at": "2023-02-28T03:21:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "mikece"
     },
     {
       "title": "Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates",
@@ -2767,18 +2983,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "_tk_"
-    },
-    {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
     },
     {
       "title": "Apple pulls data protection tool after UK government security row",
@@ -2876,7 +3080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 319,
       "user": "S1N6H"
     },
     {
@@ -2890,6 +3094,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "eugeny"
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "published_at": "2026-09-01T15:45:51.000Z",
+      "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "tags": [
+        "AI",
+        "Security",
+        "Startups",
+        "AI agents",
+        "ai security"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "Florida and Texas move to block Flock cameras over privacy concerns",
@@ -3044,6 +3264,18 @@
       "user": "xbill"
     },
     {
+      "title": "Nix is the ultimate DevOps toolkit",
+      "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
+      "published_at": "2021-04-09T10:20:33Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "DevOps"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "rkrzr"
+    },
+    {
       "title": "Apple pulls data protection tool after UK government security row",
       "url": "https://www.bbc.com/news/articles/cgj54eq4vejo",
       "published_at": "2025-02-21T15:05:24Z",
@@ -3079,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 454,
       "user": "PAICNI"
     },
     {
@@ -3094,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "OnlyTerp"
     },
     {
@@ -3109,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 284,
       "user": "subsy"
     },
     {
@@ -3124,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 198,
       "user": "Player-YN"
     },
     {
@@ -3139,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 181,
       "user": "Sac-Y"
     },
     {
@@ -3154,8 +3386,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 5898,
+      "stars": 6028,
       "user": "sapientinc"
+    },
+    {
+      "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "url": "https://github.com/Nanako0129/sepia",
+      "published_at": "2026-08-28T05:56:49Z",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
+      "source": "GitHub",
+      "stars": 1346,
+      "user": "Nanako0129"
     },
     {
       "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
@@ -3169,23 +3416,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 1102,
       "user": "damejan80"
-    },
-    {
-      "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
-      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
-      "published_at": "2026-08-27T18:02:35Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
-      "source": "GitHub",
-      "stars": 840,
-      "user": "tradecatlabs"
     },
     {
       "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
@@ -3199,23 +3431,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 847,
       "user": "jprx"
     },
     {
-      "title": "GangTailorUpgrade/CoomeRtool - Coomer Tool",
-      "url": "https://github.com/GangTailorUpgrade/CoomeRtool",
-      "published_at": "2026-08-31T00:12:45Z",
-      "description": "Coomer Tool",
+      "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+      "published_at": "2026-08-27T18:02:35Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 765,
-      "user": "GangTailorUpgrade"
+      "stars": 842,
+      "user": "tradecatlabs"
     },
     {
       "title": "chrisgreg/boop - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
@@ -3229,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 674,
       "user": "chrisgreg"
     },
     {
@@ -3244,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "DavidCarliez"
     },
     {
@@ -3304,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2101,
+      "stars": 2115,
       "user": "XiaoDuoYa"
     },
     {
@@ -3319,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1199,
       "user": "wide-trace"
     },
     {
@@ -3334,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 460,
       "user": "Git-Agni"
     },
     {
@@ -3349,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 319,
       "user": "S1N6H"
     },
     {
@@ -3364,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "nateherkai"
     },
     {
@@ -3379,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1437,
       "user": "crmne"
     },
     {
@@ -3394,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 629,
       "user": "soirihiroka"
     },
     {
@@ -3409,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 248,
       "user": "JordyZomer"
     },
     {
@@ -3424,7 +3656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 187,
       "user": "mizorewww"
     },
     {
@@ -3457,20 +3689,19 @@
       "user": "Muhammad Adil"
     },
     {
-      "title": "How can I efficiently store and retrieve multi-temporal satellite raster data on a low-storage offline system?",
-      "url": "https://stackoverflow.com/questions/79999586/how-can-i-efficiently-store-and-retrieve-multi-temporal-satellite-raster-data-on",
-      "published_at": "2026-08-31T10:57:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "published_at": "2026-09-01T17:35:37.000Z",
+      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
       "tags": [
-        "tooling-recommendation",
-        "python",
-        "geospatial",
-        "raster",
-        "sentinel2"
+        "AI",
+        "Apps",
+        "canva",
+        "Google"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MARUDHU B"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
