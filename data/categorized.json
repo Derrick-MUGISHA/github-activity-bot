@@ -119,21 +119,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
-      "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
-      "published_at": "2026-08-29T12:58:53Z",
-      "description": "If you've tried an \"agentic\" AI coding tool recently, there's a good chance it asked you to switch...",
-      "tags": [
-        "antigravity",
-        "vscode",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
       "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
       "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
       "published_at": "2026-08-29T18:57:42Z",
@@ -269,6 +254,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
+      "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
+      "published_at": "2026-08-29T12:58:53Z",
+      "description": "If you've tried an \"agentic\" AI coding tool recently, there's a good chance it asked you to switch...",
+      "tags": [
+        "antigravity",
+        "vscode",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
+    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -341,21 +341,6 @@
       "user": "Debashish Ghosal"
     },
     {
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-      "published_at": "2026-08-19T11:08:16Z",
-      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
       "url": "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5",
       "published_at": "2026-08-28T15:25:20Z",
@@ -369,6 +354,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2sj1zjour931gewisl1.jpeg",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "PAICNI"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1351,
+      "stars": 1352,
       "user": "Nanako0129"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2119,
+      "stars": 2123,
       "user": "XiaoDuoYa"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "S1N6H"
     },
     {
@@ -805,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 166,
       "user": "faisalkindi"
     },
     {
@@ -853,7 +853,7 @@
       "title": "How can i improve the readability and python style of certain problems?",
       "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
       "published_at": "2026-09-01T13:41:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "data-structures"
@@ -863,12 +863,56 @@
       "user": "sai"
     },
     {
-      "title": "Open AI&#8217;s Astra model is on the way—and very good at breaking into computer systems",
+      "title": "Reliance&#8217;s JioHotstar takes its streaming empire global — without sports",
+      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "published_at": "2026-09-01T23:00:00.000Z",
+      "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "tags": [
+        "Apps",
+        "India",
+        "reliance",
+        "JioHotstar"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta, Jagmeet Singh"
+    },
+    {
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "published_at": "2026-09-01T22:13:34.000Z",
+      "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "published_at": "2026-09-01T22:08:24.000Z",
+      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "tags": [
+        "AI",
+        "TC",
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Open AI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
       "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "published_at": "2026-09-01T21:06:24.000Z",
       "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
       "tags": [
-        "AI"
+        "AI",
+        "Hugging Face",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -878,7 +922,7 @@
       "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
       "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
       "published_at": "2026-09-01T20:53:05.000Z",
-      "description": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
       "tags": [
         "AI",
         "Apps",
@@ -936,52 +980,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "published_at": "2026-09-01T17:35:37.000Z",
-      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "tags": [
-        "AI",
-        "Apps",
-        "canva",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "published_at": "2026-09-01T17:00:00.000Z",
-      "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "tags": [
-        "AI",
-        "Apps",
-        "ChatGPT",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Waymo goes on offense ahead of Tesla&#8217;s Cybercab launch",
-      "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-      "published_at": "2026-09-01T16:49:12.000Z",
-      "description": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
-      "tags": [
-        "Transportation",
-        "Tesla",
-        "Waymo",
-        "robotaxis",
-        "cybercab"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How to Protect Your Privacy While Browsing the Web",
@@ -1327,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "PAICNI"
     },
     {
@@ -1357,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 316,
       "user": "subsy"
     },
     {
@@ -1372,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 210,
       "user": "Player-YN"
     },
     {
@@ -1387,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 207,
       "user": "rakanki911"
     },
     {
@@ -1402,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2119,
+      "stars": 2123,
       "user": "XiaoDuoYa"
     },
     {
@@ -1432,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 560,
       "user": "Git-Agni"
     },
     {
@@ -1447,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "S1N6H"
     },
     {
@@ -1515,41 +1513,13 @@
       "title": "Why doesn't JavaScript have a standard console input?",
       "url": "https://stackoverflow.com/questions/79999469/why-doesnt-javascript-have-a-standard-console-input",
       "published_at": "2026-08-30T23:52:37.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
+      "description": "Stack Overflow question · 5 answers · score -1",
       "tags": [
-        "advice",
         "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Koolaid222"
-    },
-    {
-      "title": "Why I can't import .ts file using express and typescript",
-      "url": "https://stackoverflow.com/questions/79999639/why-i-cant-import-ts-file-using-express-and-typescript",
-      "published_at": "2026-08-31T14:37:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
-    },
-    {
-      "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
-      "url": "https://stackoverflow.com/questions/79999665/how-can-i-prevent-duplicate-api-requests-when-multiple-react-components-need-the",
-      "published_at": "2026-08-31T16:08:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
     },
     {
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
@@ -1565,6 +1535,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jack Smith"
+    },
+    {
+      "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
+      "url": "https://stackoverflow.com/questions/79999665/how-can-i-prevent-duplicate-api-requests-when-multiple-react-components-need-the",
+      "published_at": "2026-08-31T16:08:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
+    },
+    {
+      "title": "Why I can't import .ts file using express and typescript",
+      "url": "https://stackoverflow.com/questions/79999639/why-i-cant-import-ts-file-using-express-and-typescript",
+      "published_at": "2026-08-31T14:37:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
     },
     {
       "title": "How to accurately detect if our website is opened in mobile split-screen view?",
@@ -1806,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6103,
+      "stars": 6146,
       "user": "sapientinc"
     },
     {
@@ -1821,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1351,
+      "stars": 1352,
       "user": "Nanako0129"
     },
     {
@@ -1836,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1135,
       "user": "damejan80"
     },
     {
@@ -1851,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 868,
       "user": "jprx"
     },
     {
@@ -1866,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 843,
       "user": "tradecatlabs"
     },
     {
@@ -1900,7 +1897,7 @@
       "title": "How can i improve the readability and python style of certain problems?",
       "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
       "published_at": "2026-09-01T13:41:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "data-structures"
@@ -2526,7 +2523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 868,
       "user": "jprx"
     },
     {
@@ -2541,7 +2538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 560,
       "user": "Git-Agni"
     },
     {
@@ -2577,7 +2574,7 @@
       "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
       "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
       "published_at": "2026-09-01T20:53:05.000Z",
-      "description": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
       "tags": [
         "AI",
         "Apps",
@@ -2799,7 +2796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "PAICNI"
     },
     {
@@ -3096,7 +3093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "S1N6H"
     },
     {
@@ -3147,21 +3144,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
-      "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
-      "published_at": "2026-08-29T12:58:53Z",
-      "description": "If you've tried an \"agentic\" AI coding tool recently, there's a good chance it asked you to switch...",
-      "tags": [
-        "antigravity",
-        "vscode",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
       "title": "Why AI Websites All Look the Same and How to Build Something Different",
       "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan",
       "published_at": "2026-08-29T01:38:54Z",
@@ -3205,6 +3187,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgx172uk117loqmhycay.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
+      "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
+      "published_at": "2026-08-29T12:58:53Z",
+      "description": "If you've tried an \"agentic\" AI coding tool recently, there's a good chance it asked you to switch...",
+      "tags": [
+        "antigravity",
+        "vscode",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
     },
     {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
@@ -3314,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "PAICNI"
     },
     {
@@ -3344,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 316,
       "user": "subsy"
     },
     {
@@ -3359,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 210,
       "user": "Player-YN"
     },
     {
@@ -3374,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 207,
       "user": "rakanki911"
     },
     {
@@ -3389,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6103,
+      "stars": 6146,
       "user": "sapientinc"
     },
     {
@@ -3404,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1351,
+      "stars": 1352,
       "user": "Nanako0129"
     },
     {
@@ -3419,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1135,
       "user": "damejan80"
     },
     {
@@ -3434,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 868,
       "user": "jprx"
     },
     {
@@ -3449,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 843,
       "user": "tradecatlabs"
     },
     {
@@ -3464,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 677,
       "user": "chrisgreg"
     },
     {
@@ -3539,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2119,
+      "stars": 2123,
       "user": "XiaoDuoYa"
     },
     {
@@ -3569,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 560,
       "user": "Git-Agni"
     },
     {
@@ -3584,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "S1N6H"
     },
     {
@@ -3614,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1522,
       "user": "crmne"
     },
     {
@@ -3629,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 652,
       "user": "soirihiroka"
     },
     {
@@ -3674,23 +3671,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 166,
       "user": "faisalkindi"
-    },
-    {
-      "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "published_at": "2026-09-01T17:35:37.000Z",
-      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "tags": [
-        "AI",
-        "Apps",
-        "canva",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Learn Excel Formulas and Functions",
