@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 313,
       "user": "PAICNI"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "GENEXIS-AI"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 632,
       "user": "GangTailorUpgrade"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 364,
       "user": "DavidCarliez"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1837,
       "user": "XiaoDuoYa"
     },
     {
@@ -807,8 +807,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "nateherkai"
+    },
+    {
+      "title": "LYiHub/Card-master-browser-extension-public - 一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
+      "published_at": "2026-08-26T08:01:41Z",
+      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
+      "source": "GitHub",
+      "stars": 279,
+      "user": "LYiHub"
     },
     {
       "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
@@ -822,8 +837,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 236,
       "user": "JordyZomer"
+    },
+    {
+      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
+      "url": "https://github.com/daffainfo/vol-rs",
+      "published_at": "2026-08-30T04:35:19Z",
+      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "daffainfo"
     },
     {
       "title": "VibeCoded AI-Slop License v1.0",
@@ -878,12 +908,73 @@
       "user": "Reid Litkauo"
     },
     {
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "published_at": "2026-09-01T00:30:00.000Z",
+      "description": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "tags": [
+        "Startups",
+        "Transportation",
+        "Lachy Groom",
+        "Together Fund"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "published_at": "2026-09-01T00:13:00.000Z",
+      "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "tags": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.&#8217;s investment fund",
+      "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "published_at": "2026-08-31T23:41:10.000Z",
+      "description": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+      "tags": [
+        "Fundraising",
+        "In Brief",
+        "Polymarket",
+        "prediction markets"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+      "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+      "published_at": "2026-08-31T22:14:05.000Z",
+      "description": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+      "tags": [
+        "Government & Policy",
+        "Venture",
+        "Andreessen Horowitz",
+        "greg brockman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "published_at": "2026-08-31T20:13:45.000Z",
       "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
       "tags": [
-        "AI"
+        "AI",
+        "ChatGPT",
+        "Grok"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -906,83 +997,35 @@
       "user": "Lauren Forristal"
     },
     {
-      "title": "Microsoft tests fix for latest hours-long Outlook outage",
-      "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
-      "published_at": "2026-08-31T18:56:41.000Z",
-      "description": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
-      "tags": [
-        "Enterprise",
-        "email",
-        "In Brief",
-        "Microsoft",
-        "Outage"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Kalshi bans George Santos for life over State of the Union bets",
-      "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
-      "published_at": "2026-08-31T18:53:41.000Z",
-      "description": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
-      "tags": [
-        "Fintech",
-        "George Santos",
-        "In Brief",
-        "insider trading",
-        "Kalshi"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "published_at": "2026-08-31T18:35:11.000Z",
-      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "title": "Learn the AI SDLC – The Complete Guide to Building Agent Skills",
+      "url": "https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/",
+      "published_at": "2026-08-31T14:20:31.000Z",
+      "description": "Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b",
       "tags": [
         "AI",
-        "Government & Policy",
-        "Startups",
-        "Las Olas Venture Capital",
-        "police"
+        "ai-sdlc",
+        "automation",
+        "MathJax"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "source": "freeCodeCamp",
+      "user": "Sarvesh Talele"
     },
     {
-      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-      "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-      "published_at": "2026-08-31T18:10:09.000Z",
-      "description": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
+      "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
+      "url": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
+      "published_at": "2026-08-31T14:19:48.000Z",
+      "description": "The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa",
       "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "healthcare"
+        "Software Testing",
+        "refactoring",
+        "legacy code",
+        "TypeScript",
+        "Artificial Intelligence"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-      "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-      "published_at": "2026-08-31T17:14:44.000Z",
-      "description": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
-      "tags": [
-        "Fintech",
-        "Startups",
-        "Bolt",
-        "Ryan Breslow"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
@@ -1073,35 +1116,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "The Paper That Created Modern AI: The Story Behind the Transformer",
-      "url": "https://www.freecodecamp.org/news/the-paper-that-created-modern-ai-the-story-behind-the-transformer/",
-      "published_at": "2026-08-27T13:46:14.000Z",
-      "description": "Every time you interact with a modern AI model you are relying on an architecture born from a single 2017 research paper titled \"Attention Is All You Need.\" Our latest video on the freeCodeCamp.org Yo",
-      "tags": [
-        "transformers",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Tell If Your Search Console Impressions Came From a Human or a Machine",
-      "url": "https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/",
-      "published_at": "2026-08-27T00:28:31.000Z",
-      "description": "Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c",
-      "tags": [
-        "SEO",
-        "Google Search Console",
-        "analytics",
-        "AI",
-        "Data Science"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chudi Nnorukam"
     }
   ],
   "JavaScript": [
@@ -1342,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "OnlyTerp"
     },
     {
@@ -1357,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 313,
       "user": "PAICNI"
     },
     {
@@ -1387,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "Sac-Y"
     },
     {
@@ -1402,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "GENEXIS-AI"
     },
     {
@@ -1417,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1837,
       "user": "XiaoDuoYa"
     },
     {
@@ -1432,23 +1446,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1141,
+      "stars": 1142,
       "user": "wide-trace"
-    },
-    {
-      "title": "jub0t/Concat - Free & Open-Source CapCut replacement. (formerly WolfCut)",
-      "url": "https://github.com/jub0t/Concat",
-      "published_at": "2026-08-25T18:34:47Z",
-      "description": "Free & Open-Source CapCut replacement. (formerly WolfCut)",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
-      "source": "GitHub",
-      "stars": 874,
-      "user": "jub0t"
     },
     {
       "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
@@ -1477,8 +1476,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "nateherkai"
+    },
+    {
+      "title": "LYiHub/Card-master-browser-extension-public - 一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
+      "published_at": "2026-08-26T08:01:41Z",
+      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
+      "source": "GitHub",
+      "stars": 279,
+      "user": "LYiHub"
+    },
+    {
+      "title": "How can I detect that an integer literal will lose precision in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
+      "published_at": "2026-08-31T13:33:48.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "json",
+        "floating-point",
+        "precision"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jack Smith"
     },
     {
       "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
@@ -1497,7 +1526,7 @@
       "title": "How to exchange usual html button with nice switch?",
       "url": "https://stackoverflow.com/questions/79999654/how-to-exchange-usual-html-button-with-nice-switch",
       "published_at": "2026-08-31T15:19:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -1506,6 +1535,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
+    },
+    {
+      "title": "Doesn't JavaScript have console input?",
+      "url": "https://stackoverflow.com/questions/79999469/doesnt-javascript-have-console-input",
+      "published_at": "2026-08-30T23:52:37.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
     },
     {
       "title": "Switch to minimize some icons on page",
@@ -1536,34 +1578,6 @@
       "user": "Alberto Benedetto"
     },
     {
-      "title": "How can I detect that an integer literal will lose precision in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
-      "published_at": "2026-08-31T13:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "json",
-        "floating-point",
-        "precision"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jack Smith"
-    },
-    {
-      "title": "Doesn't JavaScript have console input?",
-      "url": "https://stackoverflow.com/questions/79999469/doesnt-javascript-have-console-input",
-      "published_at": "2026-08-30T23:52:37.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
-      "tags": [
-        "advice",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
-    },
-    {
       "title": "How to accurately detect if our website is opened in mobile split-screen view?",
       "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
       "published_at": "2026-08-31T11:02:01.000Z",
@@ -1580,18 +1594,6 @@
       "user": "Sayan Majumder"
     },
     {
-      "title": "How can I preserve row order when mapping duplicate composite keys in TypeScript?",
-      "url": "https://stackoverflow.com/questions/79999607/how-can-i-preserve-row-order-when-mapping-duplicate-composite-keys-in-typescript",
-      "published_at": "2026-08-31T12:43:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "hitesh lassi"
-    },
-    {
       "title": "How do AI coding agents handle large codebases?",
       "url": "https://stackoverflow.com/questions/79999560/how-do-ai-coding-agents-handle-large-codebases",
       "published_at": "2026-08-31T09:25:22.000Z",
@@ -1606,6 +1608,18 @@
       "user": "Muhammad Adil"
     },
     {
+      "title": "How can I preserve row order when mapping duplicate composite keys in TypeScript?",
+      "url": "https://stackoverflow.com/questions/79999607/how-can-i-preserve-row-order-when-mapping-duplicate-composite-keys-in-typescript",
+      "published_at": "2026-08-31T12:43:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hitesh lassi"
+    },
+    {
       "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
       "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
       "published_at": "2026-08-31T10:44:56.000Z",
@@ -1618,6 +1632,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "August"
+    },
+    {
+      "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
+      "url": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
+      "published_at": "2026-08-31T14:19:48.000Z",
+      "description": "The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa",
+      "tags": [
+        "Software Testing",
+        "refactoring",
+        "legacy code",
+        "TypeScript",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How to Get Reliable Structured Data Out of an LLM",
@@ -1829,23 +1859,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 5443,
+      "stars": 5448,
       "user": "sapientinc"
-    },
-    {
-      "title": "Tencent/WeMM-Embedding - WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-      "url": "https://github.com/Tencent/WeMM-Embedding",
-      "published_at": "2026-08-25T02:46:10Z",
-      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
-      "source": "GitHub",
-      "stars": 1000,
-      "user": "Tencent"
     },
     {
       "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
@@ -1859,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "tradecatlabs"
     },
     {
@@ -1874,8 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 680,
       "user": "jprx"
+    },
+    {
+      "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "url": "https://github.com/damejan80/tokentab",
+      "published_at": "2026-08-27T14:16:09Z",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "damejan80"
     },
     {
       "title": "GangTailorUpgrade/CoomeRtool - Coomer Tool",
@@ -1889,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 632,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1908,7 +1938,7 @@
       "title": "Delete operation on frozendict",
       "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
       "published_at": "2026-08-31T15:09:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "immutability",
@@ -1917,6 +1947,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "wensveen"
+    },
+    {
+      "title": "Visual Studio Code does not show descriptions of ManyToManyField set and clear",
+      "url": "https://stackoverflow.com/questions/79999583/visual-studio-code-does-not-show-descriptions-of-manytomanyfield-set-and-clear",
+      "published_at": "2026-08-31T10:51:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "django",
+        "visual-studio-code",
+        "methods",
+        "docstring"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "IgorArnaut"
     },
     {
       "title": "Writing lines as a single string from other file",
@@ -1959,21 +2005,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reid Litkauo"
-    },
-    {
-      "title": "Visual Studio Code does not show docstring for ManyToManyField methods set and clear",
-      "url": "https://stackoverflow.com/questions/79999583/visual-studio-code-does-not-show-docstring-for-manytomanyfield-methods-set-and-c",
-      "published_at": "2026-08-31T10:51:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "django",
-        "visual-studio-code",
-        "docstring"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "IgorArnaut"
     },
     {
       "title": "Tkinter Canvas create_image() method not working",
@@ -2030,21 +2061,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ilya Nidelko"
-    },
-    {
-      "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
-      "url": "https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/",
-      "published_at": "2026-08-26T21:11:26.000Z",
-      "description": "Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive",
-      "tags": [
-        "Python",
-        "#Stock market",
-        "trading,",
-        "FastAPI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikhil Adithyan"
     }
   ],
   "DevOps": [
@@ -2346,7 +2362,7 @@
       "title": "How to exchange usual html button with nice switch?",
       "url": "https://stackoverflow.com/questions/79999654/how-to-exchange-usual-html-button-with-nice-switch",
       "published_at": "2026-08-31T15:19:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -2532,7 +2548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 680,
       "user": "jprx"
     },
     {
@@ -2771,7 +2787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 313,
       "user": "PAICNI"
     },
     {
@@ -2786,7 +2802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "Sac-Y"
     },
     {
@@ -2818,22 +2834,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "published_at": "2026-08-31T18:35:11.000Z",
-      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Startups",
-        "Las Olas Venture Capital",
-        "police"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.",
@@ -3166,22 +3166,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ucirello"
-    },
-    {
-      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-      "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-      "published_at": "2026-08-31T18:10:09.000Z",
-      "description": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "healthcare"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3368,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "OnlyTerp"
     },
     {
@@ -3383,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 313,
       "user": "PAICNI"
     },
     {
@@ -3413,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "Sac-Y"
     },
     {
@@ -3428,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "GENEXIS-AI"
     },
     {
@@ -3443,23 +3427,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 5443,
+      "stars": 5448,
       "user": "sapientinc"
-    },
-    {
-      "title": "Tencent/WeMM-Embedding - WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-      "url": "https://github.com/Tencent/WeMM-Embedding",
-      "published_at": "2026-08-25T02:46:10Z",
-      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
-      "source": "GitHub",
-      "stars": 1000,
-      "user": "Tencent"
     },
     {
       "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
@@ -3473,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "tradecatlabs"
     },
     {
@@ -3488,8 +3457,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 680,
       "user": "jprx"
+    },
+    {
+      "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "url": "https://github.com/damejan80/tokentab",
+      "published_at": "2026-08-27T14:16:09Z",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "damejan80"
     },
     {
       "title": "GangTailorUpgrade/CoomeRtool - Coomer Tool",
@@ -3503,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 632,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3518,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 666,
       "user": "chrisgreg"
     },
     {
@@ -3533,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 364,
       "user": "DavidCarliez"
     },
     {
@@ -3593,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1837,
       "user": "XiaoDuoYa"
     },
     {
@@ -3608,23 +3592,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1141,
+      "stars": 1142,
       "user": "wide-trace"
-    },
-    {
-      "title": "jub0t/Concat - Free & Open-Source CapCut replacement. (formerly WolfCut)",
-      "url": "https://github.com/jub0t/Concat",
-      "published_at": "2026-08-25T18:34:47Z",
-      "description": "Free & Open-Source CapCut replacement. (formerly WolfCut)",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
-      "source": "GitHub",
-      "stars": 874,
-      "user": "jub0t"
     },
     {
       "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
@@ -3653,8 +3622,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "nateherkai"
+    },
+    {
+      "title": "LYiHub/Card-master-browser-extension-public - 一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
+      "published_at": "2026-08-26T08:01:41Z",
+      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
+      "source": "GitHub",
+      "stars": 279,
+      "user": "LYiHub"
     },
     {
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
@@ -3668,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 746,
       "user": "crmne"
     },
     {
@@ -3683,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 538,
       "user": "soirihiroka"
     },
     {
@@ -3698,23 +3682,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 236,
       "user": "JordyZomer"
-    },
-    {
-      "title": "dragthelake/ambient-context - A menu bar app that keeps a written record of what you worked on.",
-      "url": "https://github.com/dragthelake/ambient-context",
-      "published_at": "2026-08-25T00:33:03Z",
-      "description": "A menu bar app that keeps a written record of what you worked on.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
-      "source": "GitHub",
-      "stars": 156,
-      "user": "dragthelake"
     },
     {
       "title": "pgrundev/pgterm - Postgres Terminal",
@@ -3728,8 +3697,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 142,
       "user": "pgrundev"
+    },
+    {
+      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
+      "url": "https://github.com/daffainfo/vol-rs",
+      "published_at": "2026-08-30T04:35:19Z",
+      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "daffainfo"
     },
     {
       "title": "How do AI coding agents handle large codebases?",
@@ -3767,43 +3751,29 @@
       "published_at": "2026-08-31T20:13:45.000Z",
       "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
       "tags": [
-        "AI"
+        "AI",
+        "ChatGPT",
+        "Grok"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
     },
     {
-      "title": "Microsoft tests fix for latest hours-long Outlook outage",
-      "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
-      "published_at": "2026-08-31T18:56:41.000Z",
-      "description": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
+      "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
+      "url": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
+      "published_at": "2026-08-31T14:19:48.000Z",
+      "description": "The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa",
       "tags": [
-        "Enterprise",
-        "email",
-        "In Brief",
-        "Microsoft",
-        "Outage"
+        "Software Testing",
+        "refactoring",
+        "legacy code",
+        "TypeScript",
+        "Artificial Intelligence"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "published_at": "2026-08-31T18:35:11.000Z",
-      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Startups",
-        "Las Olas Venture Capital",
-        "police"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
