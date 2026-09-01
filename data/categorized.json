@@ -14,6 +14,21 @@
       "user": "Jan-Felix Schmakeit"
     },
     {
+      "title": "Preptember is here!! Plan a Fest for your local community.",
+      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
+      "published_at": "2026-09-01T19:26:08Z",
+      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
+      "tags": [
+        "hacktoberfest",
+        "ai",
+        "hackathon",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
       "published_at": "2026-08-30T16:46:00Z",
@@ -25,21 +40,6 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
-      "url": "https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2",
-      "published_at": "2026-08-31T16:20:40Z",
-      "description": "How to use dart-sdk-skills to empower your AI coding agent to seamlessly migrate Flutter projects to standalone material_ui and cupertino_ui packages.",
-      "tags": [
-        "flutter",
-        "dart",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft27a6t77l888ompqg2y7.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -87,6 +87,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
+      "url": "https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2",
+      "published_at": "2026-08-31T16:20:40Z",
+      "description": "How to use dart-sdk-skills to empower your AI coding agent to seamlessly migrate Flutter projects to standalone material_ui and cupertino_ui packages.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft27a6t77l888ompqg2y7.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "What Do You Do While AI Codes?",
@@ -254,36 +269,6 @@
       "user": "xbill"
     },
     {
-      "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
-      "url": "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5",
-      "published_at": "2026-08-28T15:25:20Z",
-      "description": "Nvidia is worth more than most countries because we cannot figure out how to do cheap...",
-      "tags": [
-        "ai",
-        "gpu",
-        "movies",
-        "matrix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2sj1zjour931gewisl1.jpeg",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
-      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
-      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o",
-      "published_at": "2026-08-27T04:13:56Z",
-      "description": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
-      "tags": [
-        "ai",
-        "go",
-        "programming",
-        "refactoring"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnaugad5rry7u00pyg8wh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -341,21 +326,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
-      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
-      "published_at": "2026-08-22T20:29:26Z",
-      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -384,6 +354,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
+      "url": "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5",
+      "published_at": "2026-08-28T15:25:20Z",
+      "description": "Nvidia is worth more than most countries because we cannot figure out how to do cheap...",
+      "tags": [
+        "ai",
+        "gpu",
+        "movies",
+        "matrix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2sj1zjour931gewisl1.jpeg",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
@@ -491,6 +476,21 @@
       "user": "Jordan Smith"
     },
     {
+      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
+      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o",
+      "published_at": "2026-08-27T04:13:56Z",
+      "description": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
+      "tags": [
+        "ai",
+        "go",
+        "programming",
+        "refactoring"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnaugad5rry7u00pyg8wh.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Deploying a QAT Checkpoint Your Serving Stack Can't Load: Gemma 4 E2B in Pure JAX on One TPU",
       "url": "https://dev.to/gde/deploying-a-qat-checkpoint-your-serving-stack-cant-load-gemma-4-e2b-in-pure-jax-on-one-tpu-5cjm",
       "published_at": "2026-08-19T13:43:23Z",
@@ -504,6 +504,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkc4umpukqlmd6ltw88rh.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.",
+      "url": "https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0",
+      "published_at": "2026-08-25T00:15:18Z",
+      "description": "This is article 5 in a series about building PlannerCritic, an open-source engine where one LLM...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0dscma56ah2jztad350.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -685,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 459,
       "user": "PAICNI"
     },
     {
@@ -700,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1351,
       "user": "Nanako0129"
     },
     {
@@ -715,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 389,
       "user": "DavidCarliez"
     },
     {
@@ -730,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2119,
       "user": "XiaoDuoYa"
     },
     {
@@ -745,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "S1N6H"
     },
     {
@@ -779,19 +794,19 @@
       "user": "JordyZomer"
     },
     {
-      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
-      "url": "https://github.com/daffainfo/vol-rs",
-      "published_at": "2026-08-30T04:35:19Z",
-      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+      "url": "https://github.com/faisalkindi/DLSS5oneclick",
+      "published_at": "2026-08-31T02:12:29Z",
+      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 154,
-      "user": "daffainfo"
+      "stars": 158,
+      "user": "faisalkindi"
     },
     {
       "title": "Zuzai, a new word, indicates the absence of AI",
@@ -822,24 +837,10 @@
       "user": "kauddoc"
     },
     {
-      "title": "How do AI coding agents handle large codebases?",
-      "url": "https://stackoverflow.com/questions/79999560/how-do-ai-coding-agents-handle-large-codebases",
-      "published_at": "2026-08-31T09:25:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Adil"
-    },
-    {
       "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
       "url": "https://stackoverflow.com/questions/79999971/how-can-i-extract-and-split-pdf-content-into-logical-paragraphs-when-some-pages",
       "published_at": "2026-09-01T17:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "ocr"
@@ -860,6 +861,81 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "sai"
+    },
+    {
+      "title": "Open AI&#8217;s Astra model is on the way—and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "published_at": "2026-09-01T21:06:24.000Z",
+      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "published_at": "2026-09-01T20:53:05.000Z",
+      "description": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Android",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "X says attackers are targeting user accounts after the launch of X Money",
+      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "published_at": "2026-09-01T20:48:32.000Z",
+      "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+      "tags": [
+        "Security",
+        "Social",
+        "hacks",
+        "X",
+        "x money"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "published_at": "2026-09-01T19:39:22.000Z",
+      "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "fable",
+        "Mythos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Who is John Ternus, the new Apple CEO?",
+      "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+      "published_at": "2026-09-01T18:02:00.000Z",
+      "description": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "ceo",
+        "John Ternus",
+        "Tim Cook"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
@@ -908,83 +984,62 @@
       "user": "Sean O'Kane"
     },
     {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "published_at": "2026-09-01T16:31:04.000Z",
-      "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "title": "How to Protect Your Privacy While Browsing the Web",
+      "url": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
+      "published_at": "2026-09-01T15:48:48.000Z",
+      "description": "Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t",
       "tags": [
-        "AI",
-        "Enterprise",
-        "Startups",
-        "Sequoia Capital",
-        "SREs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "GoPro to be acquired for $285M, will remain a public company",
-      "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
-      "published_at": "2026-09-01T15:57:23.000Z",
-      "description": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
-      "tags": [
-        "Gadgets",
-        "GoPro",
-        "Mergers and Acquisitions",
-        "Nick Woodman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "published_at": "2026-09-01T15:51:55.000Z",
-      "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "Alexa",
-        "Amazon",
-        "e-commerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "published_at": "2026-09-01T15:45:51.000Z",
-      "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "tags": [
-        "AI",
+        "privacy",
         "Security",
-        "Startups",
-        "AI agents",
-        "ai security"
+        "Browsers"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
-      "title": "Fambot introduces an &#8216;AI chief of staff&#8217; for families",
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-      "published_at": "2026-09-01T15:10:58.000Z",
-      "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "title": "How to Build an AI File Analysis Agent with Python",
+      "url": "https://www.freecodecamp.org/news/build-an-ai-analysis-agent/",
+      "published_at": "2026-09-01T15:44:15.000Z",
+      "description": "If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper",
       "tags": [
         "AI",
-        "Apps",
-        "Startups",
-        "AI agents",
-        "families"
+        "Artificial Intelligence",
+        "software development",
+        "ai-agent",
+        "openai"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
+    },
+    {
+      "title": "Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design",
+      "url": "https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/",
+      "published_at": "2026-09-01T15:39:07.000Z",
+      "description": "In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta",
+      "tags": [
+        "CAP-Theorem",
+        "System Design",
+        "Architecture Design",
+        "systemdesign"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
+    },
+    {
+      "title": "Learn Excel Formulas and Functions",
+      "url": "https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/",
+      "published_at": "2026-09-01T15:03:24.000Z",
+      "description": "Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true",
+      "tags": [
+        "excel",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems",
@@ -1032,54 +1087,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Automate Your Tests in Express Using Vitest",
-      "url": "https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/",
-      "published_at": "2026-08-28T15:33:00.000Z",
-      "description": "Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app",
-      "tags": [
-        "vitest",
-        "unit testing",
-        "Integration Testing",
-        "Testing",
-        "mocking ai"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "jabo Landry"
-    },
-    {
-      "title": "From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved",
-      "url": "https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/",
-      "published_at": "2026-08-27T21:31:21.000Z",
-      "description": "In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab",
-      "tags": [
-        "kimi-k3",
-        "MistralAI",
-        "MoE",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Botao Deng"
-    },
-    {
-      "title": "How to Get Reliable Structured Data Out of an LLM",
-      "url": "https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/",
-      "published_at": "2026-08-27T18:56:03.000Z",
-      "description": "Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu",
-      "tags": [
-        "AI",
-        "llm",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vineeth Pawar"
     }
   ],
   "JavaScript": [
@@ -1320,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 459,
       "user": "PAICNI"
     },
     {
@@ -1335,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 405,
       "user": "OnlyTerp"
     },
     {
@@ -1350,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 303,
       "user": "subsy"
     },
     {
@@ -1369,19 +1376,19 @@
       "user": "Player-YN"
     },
     {
-      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
-      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
-      "published_at": "2026-08-29T12:59:43Z",
-      "description": "Trending GitHub Repository",
+      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "published_at": "2026-08-29T23:51:32Z",
+      "description": "DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 181,
-      "user": "Sac-Y"
+      "stars": 183,
+      "user": "rakanki911"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -1395,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2119,
       "user": "XiaoDuoYa"
     },
     {
@@ -1410,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1201,
       "user": "wide-trace"
     },
     {
@@ -1425,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 523,
       "user": "Git-Agni"
     },
     {
@@ -1440,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "S1N6H"
     },
     {
@@ -1457,6 +1464,21 @@
       "source": "GitHub",
       "stars": 301,
       "user": "nateherkai"
+    },
+    {
+      "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
+      "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
+      "published_at": "2026-09-01T18:39:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "google-maps",
+        "google-maps-api-3",
+        "geolocation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thomas Thomasclak"
     },
     {
       "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
@@ -1478,7 +1500,7 @@
       "title": "How can I quickly identify the font used on a webpage using JavaScript?",
       "url": "https://stackoverflow.com/questions/79999849/how-can-i-quickly-identify-the-font-used-on-a-webpage-using-javascript",
       "published_at": "2026-09-01T10:01:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1488,6 +1510,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shahbakht Khan"
+    },
+    {
+      "title": "Why doesn't JavaScript have a standard console input?",
+      "url": "https://stackoverflow.com/questions/79999469/why-doesnt-javascript-have-a-standard-console-input",
+      "published_at": "2026-08-30T23:52:37.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
     },
     {
       "title": "Why I can't import .ts file using express and typescript",
@@ -1548,19 +1583,6 @@
       "user": "Sayan Majumder"
     },
     {
-      "title": "Doesn't JavaScript have console input?",
-      "url": "https://stackoverflow.com/questions/79999469/doesnt-javascript-have-console-input",
-      "published_at": "2026-08-30T23:52:37.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
-      "tags": [
-        "advice",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
-    },
-    {
       "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
       "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
       "published_at": "2026-08-31T10:44:56.000Z",
@@ -1590,20 +1612,6 @@
       "user": "Visitor"
     },
     {
-      "title": "How do AI coding agents handle large codebases?",
-      "url": "https://stackoverflow.com/questions/79999560/how-do-ai-coding-agents-handle-large-codebases",
-      "published_at": "2026-08-31T09:25:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Adil"
-    },
-    {
       "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
       "url": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
       "published_at": "2026-08-31T14:19:48.000Z",
@@ -1618,22 +1626,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Get Reliable Structured Data Out of an LLM",
-      "url": "https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/",
-      "published_at": "2026-08-27T18:56:03.000Z",
-      "description": "Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu",
-      "tags": [
-        "AI",
-        "llm",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vineeth Pawar"
     }
   ],
   "Python": [
@@ -1814,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6028,
+      "stars": 6103,
       "user": "sapientinc"
     },
     {
@@ -1829,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1351,
       "user": "Nanako0129"
     },
     {
@@ -1844,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1132,
       "user": "damejan80"
     },
     {
@@ -1859,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 860,
       "user": "jprx"
     },
     {
@@ -1878,22 +1870,24 @@
       "user": "tradecatlabs"
     },
     {
-      "title": "How to extract only car models that begin with the letter 'V' from a CSV file",
-      "url": "https://stackoverflow.com/questions/79999954/how-to-extract-only-car-models-that-begin-with-the-letter-v-from-a-csv-file",
-      "published_at": "2026-09-01T16:47:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Learning Python OOP with classes. The 2 line procedural testframe appears, but the class iframe does not",
+      "url": "https://stackoverflow.com/questions/79999993/learning-python-oop-with-classes-the-2-line-procedural-testframe-appears-but-t",
+      "published_at": "2026-09-01T19:15:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
-        "python"
+        "python",
+        "oop",
+        "tkinter"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Liz H"
+      "user": "dlemper"
     },
     {
       "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
       "url": "https://stackoverflow.com/questions/79999971/how-can-i-extract-and-split-pdf-content-into-logical-paragraphs-when-some-pages",
       "published_at": "2026-09-01T17:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "ocr"
@@ -1916,10 +1910,23 @@
       "user": "sai"
     },
     {
+      "title": "Python script to download Barchart data is no longer working",
+      "url": "https://stackoverflow.com/questions/79999758/python-script-to-download-barchart-data-is-no-longer-working",
+      "published_at": "2026-09-01T01:29:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
+      "tags": [
+        "python",
+        "web-scraping"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ateene"
+    },
+    {
       "title": "Can't get virtual environment to activate from the terminal",
       "url": "https://stackoverflow.com/questions/79999867/cant-get-virtual-environment-to-activate-from-the-terminal",
       "published_at": "2026-09-01T11:06:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "linux",
@@ -1929,6 +1936,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shmuelt"
+    },
+    {
+      "title": "Delete operation on frozendict",
+      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
+      "published_at": "2026-08-31T15:09:27.000Z",
+      "description": "Stack Overflow question · 4 answers · score 5",
+      "tags": [
+        "python",
+        "immutability",
+        "python-3.15"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wensveen"
     },
     {
       "title": "GStreamer later version seems to mis-identify the prepare-window-handle message",
@@ -1943,33 +1964,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "paxdiablo"
-    },
-    {
-      "title": "Delete operation on frozendict",
-      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
-      "published_at": "2026-08-31T15:09:27.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
-      "tags": [
-        "python",
-        "immutability",
-        "python-3.15"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wensveen"
-    },
-    {
-      "title": "Python script to download Barchart data is no longer working",
-      "url": "https://stackoverflow.com/questions/79999758/python-script-to-download-barchart-data-is-no-longer-working",
-      "published_at": "2026-09-01T01:29:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "web-scraping"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ateene"
     },
     {
       "title": "Visual Studio Code does not show descriptions of ManyToManyField set and clear",
@@ -2003,7 +1997,7 @@
       "title": "Python match-case vs. dictionary performance internals",
       "url": "https://stackoverflow.com/questions/79999095/python-match-case-vs-dictionary-performance-internals",
       "published_at": "2026-08-28T23:09:53.000Z",
-      "description": "Stack Overflow question · 2 answers · score 10",
+      "description": "Stack Overflow question · 2 answers · score 11",
       "tags": [
         "python",
         "performance",
@@ -2014,6 +2008,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lowchess"
+    },
+    {
+      "title": "How to Build an AI File Analysis Agent with Python",
+      "url": "https://www.freecodecamp.org/news/build-an-ai-analysis-agent/",
+      "published_at": "2026-09-01T15:44:15.000Z",
+      "description": "If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "software development",
+        "ai-agent",
+        "openai"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     }
   ],
   "DevOps": [
@@ -2343,7 +2353,7 @@
       "title": "How can I quickly identify the font used on a webpage using JavaScript?",
       "url": "https://stackoverflow.com/questions/79999849/how-can-i-quickly-identify-the-font-used-on-a-webpage-using-javascript",
       "published_at": "2026-09-01T10:01:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2401,21 +2411,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
-      "url": "https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2",
-      "published_at": "2026-08-31T16:20:40Z",
-      "description": "How to use dart-sdk-skills to empower your AI coding agent to seamlessly migrate Flutter projects to standalone material_ui and cupertino_ui packages.",
-      "tags": [
-        "flutter",
-        "dart",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft27a6t77l888ompqg2y7.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
       "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
       "published_at": "2026-08-30T21:04:04Z",
@@ -2427,6 +2422,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
+      "url": "https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2",
+      "published_at": "2026-08-31T16:20:40Z",
+      "description": "How to use dart-sdk-skills to empower your AI coding agent to seamlessly migrate Flutter projects to standalone material_ui and cupertino_ui packages.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft27a6t77l888ompqg2y7.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2476,21 +2486,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
-      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
-      "published_at": "2026-08-22T20:29:26Z",
-      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
       "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911",
       "published_at": "2026-08-22T02:59:36Z",
@@ -2531,7 +2526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 860,
       "user": "jprx"
     },
     {
@@ -2546,8 +2541,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 523,
       "user": "Git-Agni"
+    },
+    {
+      "title": "\"iT woRKs BeTter in THe aPp!!\"",
+      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "published_at": "2026-09-01T10:33:30.846-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "mobile",
+        "rant"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "abnercoimbre"
     },
     {
       "title": "How to accurately detect if our website is opened in mobile split-screen view?",
@@ -2564,6 +2572,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sayan Majumder"
+    },
+    {
+      "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "published_at": "2026-09-01T20:53:05.000Z",
+      "description": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Android",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide",
+      "url": "https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/",
+      "published_at": "2026-09-01T15:46:00.000Z",
+      "description": "Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,",
+      "tags": [
+        "Android",
+        "android app development",
+        "Accessibility",
+        "Jetpack Compose",
+        "Kotlin"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vamsi Vaddavalli"
     }
   ],
   "Cloud": [
@@ -2718,16 +2758,6 @@
       "user": "xbill"
     },
     {
-      "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
-      "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
-      "published_at": "2026-08-24T17:33:07Z",
-      "description": "If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
       "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc",
       "published_at": "2026-08-20T13:37:59Z",
@@ -2769,23 +2799,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 459,
       "user": "PAICNI"
-    },
-    {
-      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
-      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
-      "published_at": "2026-08-29T12:59:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "Sac-Y"
     },
     {
       "title": "context-labs/cloudflared-operator - Cloudflare Tunnel's K8s Operator",
@@ -2801,20 +2816,6 @@
       "source": "GitHub",
       "stars": 56,
       "user": "context-labs"
-    },
-    {
-      "title": "I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.",
-      "url": "https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/",
-      "published_at": "2026-08-27T18:58:19.000Z",
-      "description": "Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c",
-      "tags": [
-        "performance",
-        "cloudflare",
-        "caching"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Javeed Shaik"
     }
   ],
   "Database": [
@@ -2935,6 +2936,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.",
+      "url": "https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0",
+      "published_at": "2026-08-25T00:15:18Z",
+      "description": "This is article 5 in a series about building PlannerCritic, an open-source engine where one LLM...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0dscma56ah2jztad350.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3080,51 +3096,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "S1N6H"
     },
     {
-      "title": "curl: a CVE dispute",
-      "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
-      "published_at": "2026-08-31T05:38:12.836-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "X says attackers are targeting user accounts after the launch of X Money",
+      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "published_at": "2026-09-01T20:48:32.000Z",
+      "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
       "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "eugeny"
-    },
-    {
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "published_at": "2026-09-01T15:45:51.000Z",
-      "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "tags": [
-        "AI",
         "Security",
-        "Startups",
-        "AI agents",
-        "ai security"
+        "Social",
+        "hacks",
+        "X",
+        "x money"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "user": "Sarah Perez"
     },
     {
-      "title": "Florida and Texas move to block Flock cameras over privacy concerns",
-      "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
-      "published_at": "2026-09-01T15:00:10.000Z",
-      "description": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
+      "title": "How to Protect Your Privacy While Browsing the Web",
+      "url": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
+      "published_at": "2026-09-01T15:48:48.000Z",
+      "description": "Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t",
       "tags": [
+        "privacy",
         "Security",
-        "Transportation",
-        "cybersecurity",
-        "Flock"
+        "Browsers"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     }
   ],
   "Tools": [
@@ -3204,21 +3207,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
-      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o",
-      "published_at": "2026-08-27T04:13:56Z",
-      "description": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
-      "tags": [
-        "ai",
-        "go",
-        "programming",
-        "refactoring"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnaugad5rry7u00pyg8wh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -3262,6 +3250,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
+      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o",
+      "published_at": "2026-08-27T04:13:56Z",
+      "description": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
+      "tags": [
+        "ai",
+        "go",
+        "programming",
+        "refactoring"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnaugad5rry7u00pyg8wh.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3311,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 459,
       "user": "PAICNI"
     },
     {
@@ -3326,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 405,
       "user": "OnlyTerp"
     },
     {
@@ -3341,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 303,
       "user": "subsy"
     },
     {
@@ -3360,19 +3363,19 @@
       "user": "Player-YN"
     },
     {
-      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
-      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
-      "published_at": "2026-08-29T12:59:43Z",
-      "description": "Trending GitHub Repository",
+      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "published_at": "2026-08-29T23:51:32Z",
+      "description": "DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 181,
-      "user": "Sac-Y"
+      "stars": 183,
+      "user": "rakanki911"
     },
     {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
@@ -3386,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6028,
+      "stars": 6103,
       "user": "sapientinc"
     },
     {
@@ -3401,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1351,
       "user": "Nanako0129"
     },
     {
@@ -3416,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1132,
       "user": "damejan80"
     },
     {
@@ -3431,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 860,
       "user": "jprx"
     },
     {
@@ -3461,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 676,
       "user": "chrisgreg"
     },
     {
@@ -3476,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 389,
       "user": "DavidCarliez"
     },
     {
@@ -3536,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2119,
       "user": "XiaoDuoYa"
     },
     {
@@ -3551,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1201,
       "user": "wide-trace"
     },
     {
@@ -3566,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 523,
       "user": "Git-Agni"
     },
     {
@@ -3581,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "S1N6H"
     },
     {
@@ -3611,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1437,
+      "stars": 1497,
       "user": "crmne"
     },
     {
@@ -3626,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 639,
       "user": "soirihiroka"
     },
     {
@@ -3660,33 +3663,19 @@
       "user": "mizorewww"
     },
     {
-      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
-      "url": "https://github.com/daffainfo/vol-rs",
-      "published_at": "2026-08-30T04:35:19Z",
-      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+      "url": "https://github.com/faisalkindi/DLSS5oneclick",
+      "published_at": "2026-08-31T02:12:29Z",
+      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 154,
-      "user": "daffainfo"
-    },
-    {
-      "title": "How do AI coding agents handle large codebases?",
-      "url": "https://stackoverflow.com/questions/79999560/how-do-ai-coding-agents-handle-large-codebases",
-      "published_at": "2026-08-31T09:25:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "typescript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Adil"
+      "stars": 158,
+      "user": "faisalkindi"
     },
     {
       "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
@@ -3704,6 +3693,19 @@
       "user": "Sarah Perez"
     },
     {
+      "title": "Learn Excel Formulas and Functions",
+      "url": "https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/",
+      "published_at": "2026-09-01T15:03:24.000Z",
+      "description": "Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true",
+      "tags": [
+        "excel",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
       "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
       "url": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
       "published_at": "2026-08-31T14:19:48.000Z",
@@ -3718,22 +3720,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Automate Your Tests in Express Using Vitest",
-      "url": "https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/",
-      "published_at": "2026-08-28T15:33:00.000Z",
-      "description": "Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app",
-      "tags": [
-        "vitest",
-        "unit testing",
-        "Integration Testing",
-        "Testing",
-        "mocking ai"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "jabo Landry"
     }
   ]
 }
