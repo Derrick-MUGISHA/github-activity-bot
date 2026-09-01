@@ -286,21 +286,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Greatness Is Forged by Limitation",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "published_at": "2026-08-19T13:04:47Z",
-      "description": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
-      "tags": [
-        "ai",
-        "programming",
-        "webdev",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
-      "source": "Dev.to",
-      "user": "Adam - The Developer ✨"
-    },
-    {
       "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
       "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
       "published_at": "2026-08-28T13:34:29Z",
@@ -538,126 +523,6 @@
       "user": "Debashish Ghosal"
     },
     {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "published_at": "2026-03-11T19:29:29Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "usefulposter"
-    },
-    {
-      "title": "Airfoil",
-      "url": "https://ciechanow.ski/airfoil/",
-      "published_at": "2024-02-27T16:32:49Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "todsacerdoti"
-    },
-    {
-      "title": "Open source AI is the path forward",
-      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
-      "published_at": "2024-07-23T15:08:41Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "atgctg"
-    },
-    {
-      "title": "My AI skeptic friends are all nuts",
-      "url": "https://fly.io/blog/youre-all-nuts/",
-      "published_at": "2025-06-02T21:09:53Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "tabletcorry"
-    },
-    {
-      "title": "An AI agent published a hit piece on me",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "published_at": "2026-02-12T16:23:24Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "scottshambaugh"
-    },
-    {
-      "title": "Gemini AI",
-      "url": "https://deepmind.google/technologies/gemini/",
-      "published_at": "2023-12-06T15:03:47Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "dmotz"
-    },
-    {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "published_at": "2026-05-15T20:26:47Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "reasonableklout"
-    },
-    {
-      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-      "published_at": "2026-02-24T12:16:45Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "Qem"
-    },
-    {
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "published_at": "2026-05-27T10:43:25Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "theorchid"
-    },
-    {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
-    },
-    {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
       "url": "https://www.armaansahni.com/game/",
       "published_at": "2024-12-03T22:08:16Z",
@@ -680,6 +545,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "indigodaddy"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
     },
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -717,7 +594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 441,
       "user": "PAICNI"
     },
     {
@@ -732,7 +609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 765,
       "user": "GangTailorUpgrade"
     },
     {
@@ -747,7 +624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 382,
       "user": "DavidCarliez"
     },
     {
@@ -762,7 +639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2101,
       "user": "XiaoDuoYa"
     },
     {
@@ -792,23 +669,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "nateherkai"
-    },
-    {
-      "title": "LYiHub/Card-master-browser-extension-public - 一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-      "published_at": "2026-08-26T08:01:41Z",
-      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
-      "source": "GitHub",
-      "stars": 290,
-      "user": "LYiHub"
     },
     {
       "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
@@ -822,7 +684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "JordyZomer"
     },
     {
@@ -837,7 +699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 154,
       "user": "daffainfo"
     },
     {
@@ -852,6 +714,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ktr"
+    },
+    {
+      "title": "Zuzai, a new word, indicates the absence of AI",
+      "url": "https://zuzai.org/",
+      "published_at": "2026-09-01T08:26:12.427-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
     },
     {
       "title": "I attended a conference recently and AI use by academics was absurd",
@@ -881,6 +755,19 @@
       "user": "Muhammad Adil"
     },
     {
+      "title": "How can i improve the readability and python style of certain problems?",
+      "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
+      "published_at": "2026-09-01T13:41:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "data-structures"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "sai"
+    },
+    {
       "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
       "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
       "published_at": "2026-08-31T06:17:52.000Z",
@@ -892,6 +779,51 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Reid Litkauo"
+    },
+    {
+      "title": "Fambot introduces an &#8216;AI chief of staff&#8217; for families",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "published_at": "2026-09-01T15:10:58.000Z",
+      "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "tags": [
+        "AI",
+        "Apps",
+        "families",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+      "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+      "published_at": "2026-09-01T14:52:12.000Z",
+      "description": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
+      "tags": [
+        "Climate",
+        "Fundraising",
+        "Startups",
+        "Transportation",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "India&#8217;s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+      "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+      "published_at": "2026-09-01T13:58:42.000Z",
+      "description": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
+      "tags": [
+        "Startups",
+        "Unacademy",
+        "UpGrad"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
@@ -921,50 +853,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.&#8217;s investment fund",
-      "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-      "published_at": "2026-08-31T23:41:10.000Z",
-      "description": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
-      "tags": [
-        "Fundraising",
-        "In Brief",
-        "Polymarket",
-        "prediction markets"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-      "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-      "published_at": "2026-08-31T22:14:05.000Z",
-      "description": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
-      "tags": [
-        "Government & Policy",
-        "Venture",
-        "Andreessen Horowitz",
-        "greg brockman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "published_at": "2026-08-31T20:13:45.000Z",
-      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "Grok"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems",
@@ -1300,7 +1188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 441,
       "user": "PAICNI"
     },
     {
@@ -1315,7 +1203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "OnlyTerp"
     },
     {
@@ -1330,8 +1218,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 266,
       "user": "subsy"
+    },
+    {
+      "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "published_at": "2026-08-28T10:56:56Z",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
+      "source": "GitHub",
+      "stars": 209,
+      "user": "Player-YN"
     },
     {
       "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
@@ -1345,23 +1248,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "Sac-Y"
-    },
-    {
-      "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
-      "url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
-      "published_at": "2026-08-27T09:54:07Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314929811?v=4",
-      "source": "GitHub",
-      "stars": 168,
-      "user": "Cleverfuxaqo1668"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -1375,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2101,
       "user": "XiaoDuoYa"
     },
     {
@@ -1390,8 +1278,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1180,
       "user": "wide-trace"
+    },
+    {
+      "title": "Git-Agni/prod-FARM-IOS-Core - A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+      "published_at": "2026-08-27T04:55:36Z",
+      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
+      "source": "GitHub",
+      "stars": 362,
+      "user": "Git-Agni"
     },
     {
       "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
@@ -1420,23 +1323,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "nateherkai"
-    },
-    {
-      "title": "LYiHub/Card-master-browser-extension-public - 一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-      "published_at": "2026-08-26T08:01:41Z",
-      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
-      "source": "GitHub",
-      "stars": 290,
-      "user": "LYiHub"
     },
     {
       "title": "How can I quickly identify the font used on a webpage using JavaScript?",
@@ -1457,7 +1345,7 @@
       "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
       "url": "https://stackoverflow.com/questions/79999665/how-can-i-prevent-duplicate-api-requests-when-multiple-react-components-need-the",
       "published_at": "2026-08-31T16:08:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "reactjs"
@@ -1465,22 +1353,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad"
-    },
-    {
-      "title": "How to accurately detect if our website is opened in mobile split-screen view?",
-      "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
-      "published_at": "2026-08-31T11:02:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "advice",
-        "javascript",
-        "android",
-        "browser",
-        "anti-cheat"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sayan Majumder"
     },
     {
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
@@ -1498,19 +1370,20 @@
       "user": "Jack Smith"
     },
     {
-      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
-      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
-      "published_at": "2026-08-31T10:44:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How to accurately detect if our website is opened in mobile split-screen view?",
+      "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
+      "published_at": "2026-08-31T11:02:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
-        "best-practices",
+        "advice",
         "javascript",
-        "html",
-        "css"
+        "android",
+        "browser",
+        "anti-cheat"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "August"
+      "user": "Sayan Majumder"
     },
     {
       "title": "Doesn't JavaScript have console input?",
@@ -1524,6 +1397,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Koolaid222"
+    },
+    {
+      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
+      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
+      "published_at": "2026-08-31T10:44:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "August"
     },
     {
       "title": "How to exchange usual html button with nice switch?",
@@ -1807,7 +1695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 5699,
+      "stars": 5898,
       "user": "sapientinc"
     },
     {
@@ -1822,7 +1710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 982,
       "user": "damejan80"
     },
     {
@@ -1837,7 +1725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 840,
       "user": "tradecatlabs"
     },
     {
@@ -1852,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 829,
       "user": "jprx"
     },
     {
@@ -1867,14 +1755,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 765,
       "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "How can i improve the readability and python style of certain problems?",
+      "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
+      "published_at": "2026-09-01T13:41:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "data-structures"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "sai"
+    },
+    {
+      "title": "Can't get virtual environment to activate from the terminal",
+      "url": "https://stackoverflow.com/questions/79999867/cant-get-virtual-environment-to-activate-from-the-terminal",
+      "published_at": "2026-09-01T11:06:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "linux",
+        "terminal",
+        "pycharm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shmuelt"
     },
     {
       "title": "GStreamer later version seems to mis-identify the prepare-window-handle message",
       "url": "https://stackoverflow.com/questions/79999813/gstreamer-later-version-seems-to-mis-identify-the-prepare-window-handle-message",
       "published_at": "2026-09-01T07:32:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "python-3.x",
@@ -1888,7 +1804,7 @@
       "title": "Python script to download Barchart data is no longer working",
       "url": "https://stackoverflow.com/questions/79999758/python-script-to-download-barchart-data-is-no-longer-working",
       "published_at": "2026-09-01T01:29:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "web-scraping"
@@ -1901,7 +1817,7 @@
       "title": "Delete operation on frozendict",
       "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
       "published_at": "2026-08-31T15:09:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 4",
       "tags": [
         "python",
         "immutability",
@@ -1912,18 +1828,6 @@
       "user": "wensveen"
     },
     {
-      "title": "Python code to convert .tdms to .csv or .xlsx",
-      "url": "https://stackoverflow.com/questions/79999725/python-code-to-convert-tdms-to-csv-or-xlsx",
-      "published_at": "2026-08-31T20:04:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Salisbury"
-    },
-    {
       "title": "Visual Studio Code does not show descriptions of ManyToManyField set and clear",
       "url": "https://stackoverflow.com/questions/79999583/visual-studio-code-does-not-show-descriptions-of-manytomanyfield-set-and-clear",
       "published_at": "2026-08-31T10:51:23.000Z",
@@ -1931,7 +1835,7 @@
       "tags": [
         "python",
         "django",
-        "visual-studio-code",
+        "vs-code",
         "methods",
         "docstring"
       ],
@@ -1940,17 +1844,16 @@
       "user": "IgorArnaut"
     },
     {
-      "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
-      "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
-      "published_at": "2026-08-31T06:17:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "Python code to convert .tdms to .csv or .xlsx",
+      "url": "https://stackoverflow.com/questions/79999725/python-code-to-convert-tdms-to-csv-or-xlsx",
+      "published_at": "2026-08-31T20:04:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
-        "python",
-        "pyside6"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Reid Litkauo"
+      "user": "Peter Salisbury"
     },
     {
       "title": "Python match-case vs. dictionary performance internals",
@@ -1969,6 +1872,19 @@
       "user": "lowchess"
     },
     {
+      "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
+      "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
+      "published_at": "2026-08-31T06:17:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Reid Litkauo"
+    },
+    {
       "title": "How can I efficiently store and retrieve multi-temporal satellite raster data on a low-storage offline system?",
       "url": "https://stackoverflow.com/questions/79999586/how-can-i-efficiently-store-and-retrieve-multi-temporal-satellite-raster-data-on",
       "published_at": "2026-08-31T10:57:51.000Z",
@@ -1983,33 +1899,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MARUDHU B"
-    },
-    {
-      "title": "Writing lines as a single string from other file",
-      "url": "https://stackoverflow.com/questions/79999608/writing-lines-as-a-single-string-from-other-file",
-      "published_at": "2026-08-31T12:46:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python",
-        "file-handling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hiba Naeem"
-    },
-    {
-      "title": "Tkinter Canvas create_image() method not working",
-      "url": "https://stackoverflow.com/questions/79999392/tkinter-canvas-create-image-method-not-working",
-      "published_at": "2026-08-30T14:50:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "tkinter",
-        "tkinter-canvas"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jody Barrett"
     }
   ],
   "DevOps": [
@@ -2116,126 +2005,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "The Big DevOps Misunderstanding",
-      "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
-      "published_at": "2021-12-19T20:07:33Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "WolfOliver"
-    },
-    {
-      "title": "Knightmare: A DevOps Cautionary Tale (2014)",
-      "url": "https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/",
-      "published_at": "2023-09-10T20:07:12Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "sathishmanohar"
-    },
-    {
-      "title": "DevOps Is Bullshit (2022)",
-      "url": "https://blog.massdriver.cloud/posts/devops-is-bullshit/",
-      "published_at": "2023-06-16T10:00:42Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "dijit"
-    },
-    {
-      "title": "Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?",
-      "url": "https://news.ycombinator.com/item?id=31580763",
-      "published_at": "2022-06-01T12:19:43Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "picozeta"
-    },
-    {
-      "title": "DevOps is broken",
-      "url": "https://blog.massdriver.cloud/devops-is-bullshit",
-      "published_at": "2022-10-20T14:16:22Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "davydog187"
-    },
-    {
-      "title": "A developer goes to a DevOps conference",
-      "url": "https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/",
-      "published_at": "2019-09-28T15:43:04Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "fanf2"
-    },
-    {
-      "title": "Nix is the ultimate DevOps toolkit",
-      "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
-      "published_at": "2021-04-09T10:20:33Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "rkrzr"
-    },
-    {
-      "title": "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
-      "url": "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/",
-      "published_at": "2023-02-28T03:21:53Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "mikece"
-    },
-    {
-      "title": "Ask HN: Solo-preneurs, how do you DevOps to save time?",
-      "url": "https://news.ycombinator.com/item?id=28838132",
-      "published_at": "2021-10-12T10:35:11Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "aristofun"
-    },
-    {
-      "title": "How 'DevOps' Is Killing The Developer",
-      "url": "http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/",
-      "published_at": "2014-04-15T15:25:42Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "jknupp"
     }
   ],
   "WebDev": [
@@ -2319,7 +2088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 180,
       "user": "mizorewww"
     },
     {
@@ -2528,14 +2297,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 829,
       "user": "jprx"
+    },
+    {
+      "title": "Git-Agni/prod-FARM-IOS-Core - A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+      "published_at": "2026-08-27T04:55:36Z",
+      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
+      "source": "GitHub",
+      "stars": 362,
+      "user": "Git-Agni"
     },
     {
       "title": "How to accurately detect if our website is opened in mobile split-screen view?",
       "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
       "published_at": "2026-08-31T11:02:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
         "advice",
         "javascript",
@@ -2751,7 +2535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 441,
       "user": "PAICNI"
     },
     {
@@ -2766,7 +2550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "Sac-Y"
     },
     {
@@ -2795,21 +2579,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
-      "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-      "published_at": "2026-08-31T20:20:25.000Z",
-      "description": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
-      "tags": [
-        "Commerce",
-        "Government & Policy",
-        "Amazon",
-        "Federal Trade Commission"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.",
@@ -2868,18 +2637,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "A Better SQL in 11 Lines of Code",
-      "url": "https://prela-lang.org/tutorial/",
-      "published_at": "2026-08-31T04:10:20.536-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mpweiher"
     },
     {
       "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
@@ -2988,30 +2745,6 @@
       "user": "Debashish Ghosal"
     },
     {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
-    },
-    {
-      "title": "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
-      "url": "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/",
-      "published_at": "2023-02-28T03:21:53Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "mikece"
-    },
-    {
       "title": "Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates",
       "url": "https://news.ycombinator.com/item?id=37392676",
       "published_at": "2023-09-05T15:07:21Z",
@@ -3034,6 +2767,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "_tk_"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
     },
     {
       "title": "Apple pulls data protection tool after UK government security row",
@@ -3145,6 +2890,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "eugeny"
+    },
+    {
+      "title": "Florida and Texas move to block Flock cameras over privacy concerns",
+      "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
+      "published_at": "2026-09-01T15:00:10.000Z",
+      "description": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "Flock"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3284,18 +3044,6 @@
       "user": "xbill"
     },
     {
-      "title": "Nix is the ultimate DevOps toolkit",
-      "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
-      "published_at": "2021-04-09T10:20:33Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "DevOps"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "rkrzr"
-    },
-    {
       "title": "Apple pulls data protection tool after UK government security row",
       "url": "https://www.bbc.com/news/articles/cgj54eq4vejo",
       "published_at": "2025-02-21T15:05:24Z",
@@ -3331,7 +3079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 441,
       "user": "PAICNI"
     },
     {
@@ -3346,7 +3094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "OnlyTerp"
     },
     {
@@ -3361,8 +3109,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 266,
       "user": "subsy"
+    },
+    {
+      "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "published_at": "2026-08-28T10:56:56Z",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
+      "source": "GitHub",
+      "stars": 209,
+      "user": "Player-YN"
     },
     {
       "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
@@ -3376,23 +3139,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "Sac-Y"
-    },
-    {
-      "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
-      "url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
-      "published_at": "2026-08-27T09:54:07Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314929811?v=4",
-      "source": "GitHub",
-      "stars": 168,
-      "user": "Cleverfuxaqo1668"
     },
     {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
@@ -3406,7 +3154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 5699,
+      "stars": 5898,
       "user": "sapientinc"
     },
     {
@@ -3421,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 982,
       "user": "damejan80"
     },
     {
@@ -3436,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 840,
       "user": "tradecatlabs"
     },
     {
@@ -3451,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 829,
       "user": "jprx"
     },
     {
@@ -3466,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 765,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3481,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "chrisgreg"
     },
     {
@@ -3496,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 382,
       "user": "DavidCarliez"
     },
     {
@@ -3511,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 76,
       "user": "tsouth89"
     },
     {
@@ -3556,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2101,
       "user": "XiaoDuoYa"
     },
     {
@@ -3571,8 +3319,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1180,
       "user": "wide-trace"
+    },
+    {
+      "title": "Git-Agni/prod-FARM-IOS-Core - A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+      "published_at": "2026-08-27T04:55:36Z",
+      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
+      "source": "GitHub",
+      "stars": 362,
+      "user": "Git-Agni"
     },
     {
       "title": "S1N6H/pentest-harness - Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
@@ -3601,23 +3364,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "nateherkai"
-    },
-    {
-      "title": "LYiHub/Card-master-browser-extension-public - 一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-      "published_at": "2026-08-26T08:01:41Z",
-      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
-      "source": "GitHub",
-      "stars": 290,
-      "user": "LYiHub"
     },
     {
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
@@ -3631,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1315,
       "user": "crmne"
     },
     {
@@ -3646,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 610,
       "user": "soirihiroka"
     },
     {
@@ -3661,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "JordyZomer"
     },
     {
@@ -3676,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 180,
       "user": "mizorewww"
     },
     {
@@ -3691,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 154,
       "user": "daffainfo"
     },
     {
@@ -3723,20 +3471,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MARUDHU B"
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "published_at": "2026-08-31T20:13:45.000Z",
-      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "Grok"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
