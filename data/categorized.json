@@ -717,23 +717,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 376,
       "user": "PAICNI"
-    },
-    {
-      "title": "GENEXIS-AI/gpt-image-skill - Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
-      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
-      "published_at": "2026-08-26T08:52:50Z",
-      "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "GENEXIS-AI"
     },
     {
       "title": "GangTailorUpgrade/CoomeRtool - Coomer Tool",
@@ -747,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 681,
       "user": "GangTailorUpgrade"
     },
     {
@@ -762,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 372,
       "user": "DavidCarliez"
     },
     {
@@ -777,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1943,
       "user": "XiaoDuoYa"
     },
     {
@@ -792,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 314,
       "user": "S1N6H"
     },
     {
@@ -807,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "nateherkai"
     },
     {
@@ -822,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 285,
       "user": "LYiHub"
     },
     {
@@ -837,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "JordyZomer"
     },
     {
@@ -852,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "daffainfo"
     },
     {
@@ -861,6 +846,7 @@
       "published_at": "2026-08-31T06:40:14.514-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "satire",
         "vibecoding"
       ],
       "cover_image": null,
@@ -997,6 +983,22 @@
       "user": "Lauren Forristal"
     },
     {
+      "title": "Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems",
+      "url": "https://www.freecodecamp.org/news/bloom-filters-explained/",
+      "published_at": "2026-08-31T22:01:13.000Z",
+      "description": "Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ",
+      "tags": [
+        "bloom filter",
+        "Bloom",
+        "System Design",
+        "System Architecture",
+        "distributed system"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
+    },
+    {
       "title": "Learn the AI SDLC – The Complete Guide to Building Agent Skills",
       "url": "https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/",
       "published_at": "2026-08-31T14:20:31.000Z",
@@ -1074,48 +1076,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vineeth Pawar"
-    },
-    {
-      "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
-      "url": "https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/",
-      "published_at": "2026-08-27T15:34:20.000Z",
-      "description": "The first time I was asked \"what's your test coverage?\" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "Testing",
-        "widget-testing",
-        "unit testing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gidudu Nicholas"
-    },
-    {
-      "title": "Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark",
-      "url": "https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/",
-      "published_at": "2026-08-27T13:57:06.000Z",
-      "description": "As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in",
-      "tags": [
-        "meta muse spark",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "Stop Building AI Slop: Build High-End Web Apps with AI",
-      "url": "https://www.freecodecamp.org/news/stop-building-ai-slop-build-high-end-web-apps-with-ai/",
-      "published_at": "2026-08-27T13:52:54.000Z",
-      "description": "Many developers use AI coding tools to generate generic, cookie-cutter interfaces that feel uninspired and incomplete. In our latest full course on the freeCodeCamp.org YouTube channel, instructor Eri",
-      "tags": [
-        "#ai-tools",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
@@ -1356,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "OnlyTerp"
     },
     {
@@ -1371,23 +1331,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 376,
       "user": "PAICNI"
     },
     {
-      "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
-      "url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
-      "published_at": "2026-08-27T09:54:07Z",
+      "title": "subsy/skill-cabinet - GitHub Repository",
+      "url": "https://github.com/subsy/skill-cabinet",
+      "published_at": "2026-08-31T12:17:01Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314929811?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 167,
-      "user": "Cleverfuxaqo1668"
+      "stars": 182,
+      "user": "subsy"
     },
     {
       "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
@@ -1401,23 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 174,
       "user": "Sac-Y"
     },
     {
-      "title": "GENEXIS-AI/gpt-image-skill - Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
-      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
-      "published_at": "2026-08-26T08:52:50Z",
-      "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
+      "url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
+      "published_at": "2026-08-27T09:54:07Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/314929811?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "GENEXIS-AI"
+      "stars": 168,
+      "user": "Cleverfuxaqo1668"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -1431,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1943,
       "user": "XiaoDuoYa"
     },
     {
@@ -1446,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1149,
       "user": "wide-trace"
     },
     {
@@ -1461,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 314,
       "user": "S1N6H"
     },
     {
@@ -1476,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "nateherkai"
     },
     {
@@ -1491,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 285,
       "user": "LYiHub"
     },
     {
@@ -1508,6 +1468,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jack Smith"
+    },
+    {
+      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
+      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
+      "published_at": "2026-08-31T10:44:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "August"
+    },
+    {
+      "title": "Doesn't JavaScript have console input?",
+      "url": "https://stackoverflow.com/questions/79999469/doesnt-javascript-have-console-input",
+      "published_at": "2026-08-30T23:52:37.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
     },
     {
       "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
@@ -1537,23 +1525,10 @@
       "user": "Visitor"
     },
     {
-      "title": "Doesn't JavaScript have console input?",
-      "url": "https://stackoverflow.com/questions/79999469/doesnt-javascript-have-console-input",
-      "published_at": "2026-08-30T23:52:37.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
-      "tags": [
-        "advice",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
-    },
-    {
       "title": "Switch to minimize some icons on page",
       "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
       "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1567,7 +1542,7 @@
       "title": "Why I can't import .ts file using express and typescript",
       "url": "https://stackoverflow.com/questions/79999639/why-i-cant-import-ts-file-using-express-and-typescript",
       "published_at": "2026-08-31T14:37:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "node.js",
@@ -1581,7 +1556,7 @@
       "title": "How to accurately detect if our website is opened in mobile split-screen view?",
       "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
       "published_at": "2026-08-31T11:02:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "advice",
         "javascript",
@@ -1618,20 +1593,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hitesh lassi"
-    },
-    {
-      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
-      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
-      "published_at": "2026-08-31T10:44:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "August"
     },
     {
       "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
@@ -1859,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 5466,
       "user": "sapientinc"
     },
     {
@@ -1874,23 +1835,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 832,
       "user": "tradecatlabs"
-    },
-    {
-      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "url": "https://github.com/jprx/darwin-vm",
-      "published_at": "2026-08-27T22:24:31Z",
-      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
-      "source": "GitHub",
-      "stars": 680,
-      "user": "jprx"
     },
     {
       "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
@@ -1904,8 +1850,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 743,
       "user": "damejan80"
+    },
+    {
+      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "url": "https://github.com/jprx/darwin-vm",
+      "published_at": "2026-08-27T22:24:31Z",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
+      "source": "GitHub",
+      "stars": 726,
+      "user": "jprx"
     },
     {
       "title": "GangTailorUpgrade/CoomeRtool - Coomer Tool",
@@ -1919,8 +1880,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 681,
       "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "Python script to download Barchart data is no longer working",
+      "url": "https://stackoverflow.com/questions/79999758/python-script-to-download-barchart-data-is-no-longer-working",
+      "published_at": "2026-09-01T01:29:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "web-scraping"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ateene"
+    },
+    {
+      "title": "Delete operation on frozendict",
+      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
+      "published_at": "2026-08-31T15:09:27.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "python",
+        "immutability",
+        "python-3.15"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wensveen"
     },
     {
       "title": "Python code to convert .tdms to .csv or .xlsx",
@@ -1933,20 +1921,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Salisbury"
-    },
-    {
-      "title": "Delete operation on frozendict",
-      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
-      "published_at": "2026-08-31T15:09:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "immutability",
-        "python-3.15"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wensveen"
     },
     {
       "title": "Visual Studio Code does not show descriptions of ManyToManyField set and clear",
@@ -1968,7 +1942,7 @@
       "title": "Writing lines as a single string from other file",
       "url": "https://stackoverflow.com/questions/79999608/writing-lines-as-a-single-string-from-other-file",
       "published_at": "2026-08-31T12:46:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "file-handling"
@@ -1976,6 +1950,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hiba Naeem"
+    },
+    {
+      "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
+      "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
+      "published_at": "2026-08-31T06:17:52.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Reid Litkauo"
     },
     {
       "title": "How can I efficiently store and retrieve multi-temporal satellite raster data on a low-storage offline system?",
@@ -1994,17 +1981,20 @@
       "user": "MARUDHU B"
     },
     {
-      "title": "How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?",
-      "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
-      "published_at": "2026-08-31T06:17:52.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "Python match-case vs. dictionary performance internals",
+      "url": "https://stackoverflow.com/questions/79999095/python-match-case-vs-dictionary-performance-internals",
+      "published_at": "2026-08-28T23:09:53.000Z",
+      "description": "Stack Overflow question · 2 answers · score 9",
       "tags": [
         "python",
-        "pyside6"
+        "performance",
+        "optimization",
+        "python-3.10",
+        "structural-pattern-matching"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Reid Litkauo"
+      "user": "lowchess"
     },
     {
       "title": "Tkinter Canvas create_image() method not working",
@@ -2033,34 +2023,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jason lo"
-    },
-    {
-      "title": "Why does NumPy slicing with a positive step return an empty array when start index is greater than end index?",
-      "url": "https://stackoverflow.com/questions/79999345/why-does-numpy-slicing-with-a-positive-step-return-an-empty-array-when-start-ind",
-      "published_at": "2026-08-30T09:12:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "arrays",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Arsh Kumar"
-    },
-    {
-      "title": "An error during using my FastAPI app. ValueError: [TypeError('object is not iterable'), TypeError('vars() argument must have __dict__ attribute')]",
-      "url": "https://stackoverflow.com/questions/79996706/an-error-during-using-my-fastapi-app-valueerror-typeerrorobject-is-not-iter",
-      "published_at": "2026-08-20T05:58:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "fastapi",
-        "pydantic"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ilya Nidelko"
     }
   ],
   "DevOps": [
@@ -2359,6 +2321,21 @@
       "user": "velmu"
     },
     {
+      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
+      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
+      "published_at": "2026-08-31T10:44:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "August"
+    },
+    {
       "title": "How to exchange usual html button with nice switch?",
       "url": "https://stackoverflow.com/questions/79999654/how-to-exchange-usual-html-button-with-nice-switch",
       "published_at": "2026-08-31T15:19:34.000Z",
@@ -2376,7 +2353,7 @@
       "title": "Switch to minimize some icons on page",
       "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
       "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2385,20 +2362,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
-    },
-    {
-      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
-      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
-      "published_at": "2026-08-31T10:44:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "August"
     }
   ],
   "Mobile": [
@@ -2548,14 +2511,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 726,
       "user": "jprx"
     },
     {
       "title": "How to accurately detect if our website is opened in mobile split-screen view?",
       "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
       "published_at": "2026-08-31T11:02:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "advice",
         "javascript",
@@ -2566,22 +2529,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sayan Majumder"
-    },
-    {
-      "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
-      "url": "https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/",
-      "published_at": "2026-08-27T15:34:20.000Z",
-      "description": "The first time I was asked \"what's your test coverage?\" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "Testing",
-        "widget-testing",
-        "unit testing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gidudu Nicholas"
     }
   ],
   "Cloud": [
@@ -2787,7 +2734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 376,
       "user": "PAICNI"
     },
     {
@@ -2802,7 +2749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 174,
       "user": "Sac-Y"
     },
     {
@@ -2904,6 +2851,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mpweiher"
+    },
+    {
+      "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
+      "url": "https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/",
+      "published_at": "2026-08-31T21:57:59.000Z",
+      "description": "Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf",
+      "tags": [
+        "firestore",
+        "NoSQL",
+        "crud",
+        "database"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Caleb Mintoumba"
     }
   ],
   "Security": [
@@ -3140,7 +3102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 314,
       "user": "S1N6H"
     },
     {
@@ -3154,18 +3116,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "eugeny"
-    },
-    {
-      "title": "Omarchy: Any User Process Can Escalate to Root",
-      "url": "https://0xcc.io/posts/omarchy-root-creds/",
-      "published_at": "2026-08-30T13:11:09.248-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ucirello"
     }
   ],
   "Tools": [
@@ -3352,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "OnlyTerp"
     },
     {
@@ -3367,23 +3317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212681820?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 376,
       "user": "PAICNI"
     },
     {
-      "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
-      "url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
-      "published_at": "2026-08-27T09:54:07Z",
+      "title": "subsy/skill-cabinet - GitHub Repository",
+      "url": "https://github.com/subsy/skill-cabinet",
+      "published_at": "2026-08-31T12:17:01Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314929811?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 167,
-      "user": "Cleverfuxaqo1668"
+      "stars": 182,
+      "user": "subsy"
     },
     {
       "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
@@ -3397,23 +3347,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 174,
       "user": "Sac-Y"
     },
     {
-      "title": "GENEXIS-AI/gpt-image-skill - Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
-      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
-      "published_at": "2026-08-26T08:52:50Z",
-      "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
+      "url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
+      "published_at": "2026-08-27T09:54:07Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131945398?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/314929811?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "GENEXIS-AI"
+      "stars": 168,
+      "user": "Cleverfuxaqo1668"
     },
     {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
@@ -3427,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 5466,
       "user": "sapientinc"
     },
     {
@@ -3442,23 +3392,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 832,
       "user": "tradecatlabs"
-    },
-    {
-      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "url": "https://github.com/jprx/darwin-vm",
-      "published_at": "2026-08-27T22:24:31Z",
-      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
-      "source": "GitHub",
-      "stars": 680,
-      "user": "jprx"
     },
     {
       "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
@@ -3472,8 +3407,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 743,
       "user": "damejan80"
+    },
+    {
+      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "url": "https://github.com/jprx/darwin-vm",
+      "published_at": "2026-08-27T22:24:31Z",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
+      "source": "GitHub",
+      "stars": 726,
+      "user": "jprx"
     },
     {
       "title": "GangTailorUpgrade/CoomeRtool - Coomer Tool",
@@ -3487,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 681,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3502,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 669,
       "user": "chrisgreg"
     },
     {
@@ -3517,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 372,
       "user": "DavidCarliez"
     },
     {
@@ -3532,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 68,
       "user": "tsouth89"
     },
     {
@@ -3562,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45679035?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 45,
       "user": "ih8d8"
     },
     {
@@ -3577,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1943,
       "user": "XiaoDuoYa"
     },
     {
@@ -3592,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1149,
       "user": "wide-trace"
     },
     {
@@ -3607,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89349529?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 314,
       "user": "S1N6H"
     },
     {
@@ -3622,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "nateherkai"
     },
     {
@@ -3637,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169660933?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 285,
       "user": "LYiHub"
     },
     {
@@ -3652,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 842,
       "user": "crmne"
     },
     {
@@ -3667,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 559,
       "user": "soirihiroka"
     },
     {
@@ -3682,8 +3632,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "JordyZomer"
+    },
+    {
+      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
+      "url": "https://github.com/daffainfo/vol-rs",
+      "published_at": "2026-08-30T04:35:19Z",
+      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "daffainfo"
     },
     {
       "title": "pgrundev/pgterm - Postgres Terminal",
@@ -3699,21 +3664,6 @@
       "source": "GitHub",
       "stars": 142,
       "user": "pgrundev"
-    },
-    {
-      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
-      "url": "https://github.com/daffainfo/vol-rs",
-      "published_at": "2026-08-30T04:35:19Z",
-      "description": "Volatility 3 ported to Rust. Same output, much faster.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "daffainfo"
     },
     {
       "title": "How do AI coding agents handle large codebases?",
@@ -3790,48 +3740,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "jabo Landry"
-    },
-    {
-      "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
-      "url": "https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/",
-      "published_at": "2026-08-27T15:34:20.000Z",
-      "description": "The first time I was asked \"what's your test coverage?\" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "Testing",
-        "widget-testing",
-        "unit testing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gidudu Nicholas"
-    },
-    {
-      "title": "Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark",
-      "url": "https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/",
-      "published_at": "2026-08-27T13:57:06.000Z",
-      "description": "As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in",
-      "tags": [
-        "meta muse spark",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "Stop Building AI Slop: Build High-End Web Apps with AI",
-      "url": "https://www.freecodecamp.org/news/stop-building-ai-slop-build-high-end-web-apps-with-ai/",
-      "published_at": "2026-08-27T13:52:54.000Z",
-      "description": "Many developers use AI coding tools to generate generic, cookie-cutter interfaces that feel uninspired and incomplete. In our latest full course on the freeCodeCamp.org YouTube channel, instructor Eri",
-      "tags": [
-        "#ai-tools",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ]
 }
