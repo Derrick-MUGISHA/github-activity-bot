@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-01 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-02 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -105,15 +105,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 11 | [Meme Monday](https://dev.to/ben/meme-monday-k1) | Dev.to |
 | 12 | [Automate Flutter's New Split Package Migration with AI Agent Skills](https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2) | Dev.to |
 | 13 | [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k) | Dev.to |
-| 14 | [Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor](https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg) | Dev.to |
-| 15 | [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8) | Dev.to |
-| 16 | [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md) | Dev.to |
-| 17 | [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2) | Dev.to |
-| 18 | [Why AI Websites All Look the Same and How to Build Something Different](https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan) | Dev.to |
-| 19 | [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9) | Dev.to |
-| 20 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
+| 14 | [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8) | Dev.to |
+| 15 | [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md) | Dev.to |
+| 16 | [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2) | Dev.to |
+| 17 | [Why AI Websites All Look the Same and How to Build Something Different](https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan) | Dev.to |
+| 18 | [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9) | Dev.to |
+| 19 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
+| 20 | [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l) | Dev.to |
 
-<sub>Last fetched: Tue, 01 Sep 2026 23:20:12 CAT</sub>
+<sub>Last fetched: Wed, 02 Sep 2026 01:27:29 CAT</sub>
 
 
 ---
@@ -122,18 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — Explain the Java memory model**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Heap, stack, garbage collection
-
-</details>
-
-**2. `DataStructures` — Implement LRU Cache**
+**1. `DataStructures` — Implement LRU Cache**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
@@ -144,14 +133,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**3. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Users, posts, relationships, indexes, partitioning
+
+</details>
+
+**3. `JavaScript` — What is the event loop and how does it work?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Call stack, callback queue, microtask queue
 
 </details>
 
@@ -165,7 +165,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 76 | 41.3% | `████████████████████` |
-| **Tools** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
@@ -194,12 +194,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.6%
-JavaScript      ██████████████████████████ 24.7%
-Python          ████████████████████ 18.8%
-Java            ███████████████████ 18.2%
-Rust            █████ 5.2%
-Kotlin          ██ 1.9%
+Go              ██████████████████████████████ 28.1%
+JavaScript      ██████████████████████████ 24.8%
+Python          ████████████████████ 19.0%
+Java            ████████████████████ 18.3%
+Rust            ██████ 5.2%
+Kotlin          ██ 2.0%
 Ruby            █ 1.3%
 Swift           █ 1.3%
 
@@ -207,7 +207,7 @@ Swift           █ 1.3%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 44
+    "Go" : 43
     "JavaScript" : 38
     "Python" : 29
     "Java" : 28
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 01 Sep 2026 21:20:13 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 01 Sep 2026 23:27:29 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
