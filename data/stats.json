@@ -10,30 +10,30 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 79,
+    "AI": 80,
     "JavaScript": 38,
     "Python": 31,
     "DevOps": 18,
-    "WebDev": 11,
-    "Mobile": 14,
+    "WebDev": 10,
+    "Mobile": 15,
     "Cloud": 14,
     "Database": 3,
     "Security": 18,
-    "Tools": 38
+    "Tools": 39
   },
   "by_language": {
-    "Go": 37,
+    "Go": 36,
     "Rust": 11,
     "Python": 31,
     "JavaScript": 38,
     "Ruby": 1,
     "Java": 28,
-    "Swift": 4,
+    "Swift": 5,
     "Kotlin": 1
   },
   "by_date": {
-    "2026-09-01": 22,
-    "2026-09-02": 37,
+    "2026-09-01": 21,
+    "2026-09-02": 38,
     "2026-08-30": 8,
     "2026-08-28": 11,
     "2026-08-27": 13,
@@ -126,13 +126,13 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "24.5",
+    "Go": "23.8",
     "Rust": "7.3",
     "Python": "20.5",
     "JavaScript": "25.2",
     "Ruby": "0.7",
     "Java": "18.5",
-    "Swift": "2.6",
+    "Swift": "3.3",
     "Kotlin": "0.7"
   }
 }

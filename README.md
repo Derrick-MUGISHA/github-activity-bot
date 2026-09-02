@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-02 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-03 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Step up to the Sheets: AI Eval Export and Illustrating Data](https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak) | Dev.to |
 | 20 | [Automate Flutter's New Split Package Migration with AI Agent Skills](https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2) | Dev.to |
 
-<sub>Last fetched: Wed, 02 Sep 2026 23:21:16 CAT</sub>
+<sub>Last fetched: Thu, 03 Sep 2026 01:26:28 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain decorators in Python with an example**
+**1. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**2. `DataStructures` — Implement a function to reverse a linked list**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**3. `NodeJS` — Explain middleware in Express.js**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Request/response cycle, next(), chain of functions
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 79 | 42.9% | `████████████████████` |
+| **AI** | 80 | 43.5% | `████████████████████` |
+| **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 38 | 20.7% | `██████████░░░░░░░░░░` |
-| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Mobile** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -195,11 +195,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ```
 JavaScript      ██████████████████████████████ 25.2%
-Go              █████████████████████████████ 24.5%
+Go              ████████████████████████████ 23.8%
 Python          ████████████████████████ 20.5%
 Java            ██████████████████████ 18.5%
 Rust            █████████ 7.3%
-Swift           ███ 2.6%
+Swift           ████ 3.3%
 Ruby            █ 0.7%
 Kotlin          █ 0.7%
 
@@ -208,11 +208,11 @@ Kotlin          █ 0.7%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 38
-    "Go" : 37
+    "Go" : 36
     "Python" : 31
     "Java" : 28
     "Rust" : 11
-    "Swift" : 4
+    "Swift" : 5
     "Ruby" : 1
     "Kotlin" : 1
 ```
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 02 Sep 2026 21:21:16 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 02 Sep 2026 23:26:28 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
