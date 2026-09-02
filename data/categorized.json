@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
       "published_at": "2026-08-30T16:46:00Z",
@@ -14,6 +29,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
+      "url": "https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp",
+      "published_at": "2026-09-02T01:29:20Z",
+      "description": "Turning 29k home weather stations and Gemini AI agents into a 15-minute volcanic warning...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Friu20dupakdtr8g1gedn.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "How to Design AI Evaluations You Can Actually Trust",
@@ -44,6 +69,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
+      "published_at": "2026-09-01T18:28:57Z",
+      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "tags": [
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
       "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
       "published_at": "2026-08-30T19:09:03Z",
@@ -57,6 +96,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Elevating Antigravity agent skills, Part 2: Image generation",
+      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
+      "published_at": "2026-09-01T16:51:26Z",
+      "description": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
+      "source": "Dev.to",
+      "user": "James O'Reilly"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -87,6 +140,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
+      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
+      "published_at": "2026-09-01T10:52:37Z",
+      "description": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
+      "tags": [
+        "angular",
+        "gemma",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
+      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
+      "published_at": "2026-09-01T07:00:00Z",
+      "description": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
+      "tags": [
+        "ai",
+        "python",
+        "datascience",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
     },
     {
       "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
@@ -461,51 +544,6 @@
       "user": "Jordan Smith"
     },
     {
-      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
-      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o",
-      "published_at": "2026-08-27T04:13:56Z",
-      "description": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
-      "tags": [
-        "ai",
-        "go",
-        "programming",
-        "refactoring"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnaugad5rry7u00pyg8wh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Deploying a QAT Checkpoint Your Serving Stack Can't Load: Gemma 4 E2B in Pure JAX on One TPU",
-      "url": "https://dev.to/gde/deploying-a-qat-checkpoint-your-serving-stack-cant-load-gemma-4-e2b-in-pure-jax-on-one-tpu-5cjm",
-      "published_at": "2026-08-19T13:43:23Z",
-      "description": "vLLM on TPU cannot load the Gemma 4 E2B QAT exports. So I served them from a hand-rolled JAX engine on a single v6e chip — and found that the thing that actually governs latency is not the model at all.",
-      "tags": [
-        "tpu",
-        "jax",
-        "llm",
-        "quantization"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkc4umpukqlmd6ltw88rh.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.",
-      "url": "https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0",
-      "published_at": "2026-08-25T00:15:18Z",
-      "description": "This is article 5 in a series about building PlannerCritic, an open-source engine where one LLM...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0dscma56ah2jztad350.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -674,6 +712,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "TetreesEX/TetreesAgent_EX - This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+      "url": "https://github.com/TetreesEX/TetreesAgent_EX",
+      "published_at": "2026-08-29T07:46:09Z",
+      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "TetreesEX"
+    },
+    {
       "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "published_at": "2026-08-28T05:56:49Z",
@@ -685,14 +738,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1423,
+      "stars": 1473,
       "user": "Nanako0129"
     },
     {
-      "title": "GangTailorUpgrade/undress-service - Coomer Tool",
+      "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
       "url": "https://github.com/GangTailorUpgrade/undress-service",
       "published_at": "2026-08-31T00:12:45Z",
-      "description": "Coomer Tool",
+      "description": "Dress AI Sponsor",
       "tags": [
         "python",
         "github",
@@ -700,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 901,
       "user": "GangTailorUpgrade"
     },
     {
@@ -730,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2253,
       "user": "XiaoDuoYa"
     },
     {
@@ -745,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "nateherkai"
     },
     {
@@ -760,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "useagenthq"
     },
     {
@@ -775,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "JordyZomer"
     },
     {
@@ -790,30 +843,16 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 214,
       "user": "faisalkindi"
     },
     {
-      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
-      "url": "https://github.com/daffainfo/vol-rs",
-      "published_at": "2026-08-30T04:35:19Z",
-      "description": "Volatility 3 ported to Rust. Same output, much faster.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
-      "source": "GitHub",
-      "stars": 156,
-      "user": "daffainfo"
-    },
-    {
-      "title": "Zuzai, a new word, indicates the absence of AI",
-      "url": "https://zuzai.org/",
-      "published_at": "2026-09-01T08:26:12.427-05:00",
+      "title": "Firefox’s AI Switch Is Off. Telemetry Isn’t",
+      "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
+      "published_at": "2026-09-02T07:50:14.843-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "browsers",
         "vibecoding"
       ],
       "cover_image": null,
@@ -821,10 +860,22 @@
       "user": "FedericoSchonborn"
     },
     {
+      "title": "How to capture original state of a container?",
+      "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
+      "published_at": "2026-09-02T14:24:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anto Abisheik J"
+    },
+    {
       "title": "Why does my React component fetch data again when I navigate back to the page?",
       "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
       "published_at": "2026-09-02T10:05:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "react-hooks"
@@ -848,6 +899,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kauddoc"
+    },
+    {
+      "title": "How to maintain session and authenticate for university portal API with Python requests?",
+      "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
+      "published_at": "2026-09-02T14:28:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "authentication",
+        "web-scraping",
+        "cookies",
+        "python-requests"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Arshia Shariati"
     },
     {
       "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
@@ -876,6 +943,83 @@
       "user": "sai"
     },
     {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "published_at": "2026-09-02T15:01:23.000Z",
+      "description": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Security",
+        "Delta-v Capital",
+        "HiddenLayer"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "PSA: Amazon&#8217;s shopping AI can now tell you if that message is a scam",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "published_at": "2026-09-02T14:56:34.000Z",
+      "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "Amazon",
+        "e-commerce"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "published_at": "2026-09-02T14:03:57.000Z",
+      "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+      "tags": [
+        "AI",
+        "Startups",
+        "Adobe",
+        "India",
+        "Mergers and Acquisitions"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Adobe is making its tools available in Slack",
+      "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+      "published_at": "2026-09-02T13:09:27.000Z",
+      "description": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+      "tags": [
+        "Apps",
+        "Adobe",
+        "Slack"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "published_at": "2026-09-02T12:09:42.000Z",
+      "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "tags": [
+        "AI",
+        "Chris Lehane",
+        "mass shooting",
+        "OpenAI",
+        "tumbler ridge"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Reliance&#8217;s JioHotstar takes its streaming empire global — without sports",
       "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
       "published_at": "2026-09-01T23:00:00.000Z",
@@ -902,82 +1046,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "published_at": "2026-09-01T22:08:24.000Z",
-      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "tags": [
-        "AI",
-        "Venture",
-        "In Brief",
-        "Y Combinator"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "published_at": "2026-09-01T21:06:24.000Z",
-      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "tags": [
-        "AI",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "published_at": "2026-09-01T20:53:05.000Z",
-      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Hardware",
-        "Android",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "published_at": "2026-09-01T20:48:32.000Z",
-      "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
-      "tags": [
-        "Security",
-        "Social",
-        "hacks",
-        "X",
-        "x money"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "published_at": "2026-09-01T19:39:22.000Z",
-      "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "fable",
-        "Mythos"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
@@ -1101,6 +1169,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
+      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
+      "published_at": "2026-09-01T10:52:37Z",
+      "description": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
+      "tags": [
+        "angular",
+        "gemma",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
@@ -1324,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "Player-YN"
     },
     {
@@ -1339,23 +1422,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "OnlyTerp"
-    },
-    {
-      "title": "subsy/skill-cabinet - GitHub Repository",
-      "url": "https://github.com/subsy/skill-cabinet",
-      "published_at": "2026-08-31T12:17:01Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "subsy"
     },
     {
       "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
@@ -1369,23 +1437,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 403,
       "user": "rakanki911"
     },
     {
-      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
-      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
-      "published_at": "2026-08-29T12:59:43Z",
+      "title": "subsy/skill-cabinet - GitHub Repository",
+      "url": "https://github.com/subsy/skill-cabinet",
+      "published_at": "2026-08-31T12:17:01Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 185,
-      "user": "Sac-Y"
+      "stars": 345,
+      "user": "subsy"
+    },
+    {
+      "title": "TetreesEX/TetreesAgent_EX - This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+      "url": "https://github.com/TetreesEX/TetreesAgent_EX",
+      "published_at": "2026-08-29T07:46:09Z",
+      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "TetreesEX"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -1399,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2253,
       "user": "XiaoDuoYa"
     },
     {
@@ -1414,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 716,
       "user": "Git-Agni"
     },
     {
@@ -1429,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "nateherkai"
     },
     {
@@ -1444,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "useagenthq"
     },
     {
@@ -1459,14 +1542,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 210,
       "user": "blendi-remade"
+    },
+    {
+      "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
+      "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
+      "published_at": "2026-09-02T14:16:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "http-status-code-429"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fengrong Han Bobb"
+    },
+    {
+      "title": "How to capture original state of a container?",
+      "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
+      "published_at": "2026-09-02T14:24:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anto Abisheik J"
     },
     {
       "title": "Why does my React component fetch data again when I navigate back to the page?",
       "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
       "published_at": "2026-09-02T10:05:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "react-hooks"
@@ -1495,7 +1604,7 @@
       "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
       "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
       "published_at": "2026-09-01T18:39:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "google-maps",
@@ -1505,6 +1614,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thomas Thomasclak"
+    },
+    {
+      "title": "Why doesn't JavaScript have a standard console input?",
+      "url": "https://stackoverflow.com/questions/79999469/why-doesnt-javascript-have-a-standard-console-input",
+      "published_at": "2026-08-30T23:52:37.000Z",
+      "description": "Stack Overflow question · 4 answers · score -1",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
     },
     {
       "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
@@ -1521,18 +1642,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kauddoc"
-    },
-    {
-      "title": "Why doesn't JavaScript have a standard console input?",
-      "url": "https://stackoverflow.com/questions/79999469/why-doesnt-javascript-have-a-standard-console-input",
-      "published_at": "2026-08-30T23:52:37.000Z",
-      "description": "Stack Overflow question · 5 answers · score -1",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
     },
     {
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
@@ -1579,35 +1688,6 @@
       "user": "Alberto Benedetto"
     },
     {
-      "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
-      "url": "https://stackoverflow.com/questions/79999665/how-can-i-prevent-duplicate-api-requests-when-multiple-react-components-need-the",
-      "published_at": "2026-08-31T16:08:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
-    },
-    {
-      "title": "How to accurately detect if our website is opened in mobile split-screen view?",
-      "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
-      "published_at": "2026-08-31T11:02:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "advice",
-        "javascript",
-        "android",
-        "browser",
-        "anti-cheat"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sayan Majumder"
-    },
-    {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
       "url": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
       "published_at": "2026-09-01T20:33:19.000Z",
@@ -1639,6 +1719,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
+      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
+      "published_at": "2026-09-01T07:00:00Z",
+      "description": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
+      "tags": [
+        "ai",
+        "python",
+        "datascience",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
     },
     {
       "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
@@ -1802,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6748,
+      "stars": 6785,
       "user": "sapientinc"
     },
     {
@@ -1817,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1423,
+      "stars": 1473,
       "user": "Nanako0129"
     },
     {
@@ -1847,14 +1942,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 923,
       "user": "jprx"
     },
     {
-      "title": "GangTailorUpgrade/undress-service - Coomer Tool",
+      "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
       "url": "https://github.com/GangTailorUpgrade/undress-service",
       "published_at": "2026-08-31T00:12:45Z",
-      "description": "Coomer Tool",
+      "description": "Dress AI Sponsor",
       "tags": [
         "python",
         "github",
@@ -1862,21 +1957,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 901,
       "user": "GangTailorUpgrade"
     },
     {
-      "title": "Hello world, automation trends",
-      "url": "https://stackoverflow.com/questions/80000113/hello-world-automation-trends",
-      "published_at": "2026-09-02T08:26:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "title": "How to maintain session and authenticate for university portal API with Python requests?",
+      "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
+      "published_at": "2026-09-02T14:28:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
-        "blender"
+        "authentication",
+        "web-scraping",
+        "cookies",
+        "python-requests"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Christian Hernandez"
+      "user": "Arshia Shariati"
+    },
+    {
+      "title": "Mapping np array to Fortran array in gdb using Python API",
+      "url": "https://stackoverflow.com/questions/80000166/mapping-np-array-to-fortran-array-in-gdb-using-python-api",
+      "published_at": "2026-09-02T11:17:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "fortran",
+        "gdb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aitzkora"
     },
     {
       "title": "CBC solver reports \"optimal\" solution but pyomo model variables are `None` valued",
@@ -1894,24 +2006,10 @@
       "user": "Bill"
     },
     {
-      "title": "Why am I getting a 404 error with python anywhere?",
-      "url": "https://stackoverflow.com/questions/80000043/why-am-i-getting-a-404-error-with-python-anywhere",
-      "published_at": "2026-09-02T00:40:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "django",
-        "pythonanywhere"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bmurray959"
-    },
-    {
       "title": "2 line procedural testframe appears, but the class iframe does not",
       "url": "https://stackoverflow.com/questions/79999993/2-line-procedural-testframe-appears-but-the-class-iframe-does-not",
       "published_at": "2026-09-01T19:15:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "oop",
@@ -1920,6 +2018,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dlemper"
+    },
+    {
+      "title": "Delete operation on frozendict",
+      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
+      "published_at": "2026-08-31T15:09:27.000Z",
+      "description": "Stack Overflow question · 4 answers · score 5",
+      "tags": [
+        "python",
+        "immutability",
+        "python-3.15"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wensveen"
     },
     {
       "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
@@ -1947,20 +2059,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "paxdiablo"
-    },
-    {
-      "title": "Delete operation on frozendict",
-      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
-      "published_at": "2026-08-31T15:09:27.000Z",
-      "description": "Stack Overflow question · 4 answers · score 5",
-      "tags": [
-        "python",
-        "immutability",
-        "python-3.15"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wensveen"
     },
     {
       "title": "How can i improve the readability and python style of certain problems?",
@@ -2304,21 +2402,6 @@
       "user": "Giorgi Kobaidze"
     },
     {
-      "title": "comiCSS #255: Yellow",
-      "url": "https://dev.to/alvaromontoro/comicss-255-yellow-1bj",
-      "published_at": "2026-08-24T23:10:34Z",
-      "description": "comiCSS cartoon for August 24, 2026",
-      "tags": [
-        "css",
-        "webdev",
-        "watercooler",
-        "humor"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8kj845st0ugfjtptp9h.png",
-      "source": "Dev.to",
-      "user": "Alvaro Montoro"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2342,7 +2425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "mizorewww"
     },
     {
@@ -2357,6 +2440,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "uncenter"
+    },
+    {
+      "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
+      "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
+      "published_at": "2026-09-02T14:16:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "http-status-code-429"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fengrong Han Bobb"
     },
     {
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
@@ -2423,21 +2520,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
-      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
-      "published_at": "2026-08-30T21:04:04Z",
-      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
       "url": "https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2",
       "published_at": "2026-08-31T16:20:40Z",
@@ -2464,6 +2546,21 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
+      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
+      "published_at": "2026-08-30T21:04:04Z",
+      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2538,7 +2635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 923,
       "user": "jprx"
     },
     {
@@ -2553,53 +2650,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 716,
       "user": "Git-Agni"
-    },
-    {
-      "title": "\"iT woRKs BeTter in THe aPp!!\"",
-      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
-      "published_at": "2026-09-01T10:33:30.846-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "mobile",
-        "rant"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "abnercoimbre"
-    },
-    {
-      "title": "How to accurately detect if our website is opened in mobile split-screen view?",
-      "url": "https://stackoverflow.com/questions/79999587/how-to-accurately-detect-if-our-website-is-opened-in-mobile-split-screen-view",
-      "published_at": "2026-08-31T11:02:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "advice",
-        "javascript",
-        "android",
-        "browser",
-        "anti-cheat"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sayan Majumder"
-    },
-    {
-      "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "published_at": "2026-09-01T20:53:05.000Z",
-      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Hardware",
-        "Android",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
@@ -2635,6 +2687,35 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
+      "published_at": "2026-09-01T18:28:57Z",
+      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "tags": [
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
     {
       "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
       "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
@@ -2816,21 +2897,6 @@
       "user": "xbill"
     },
     {
-      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
-      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
-      "published_at": "2026-08-29T12:59:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "Sac-Y"
-    },
-    {
       "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
       "url": "https://github.com/useagenthq/useagent",
       "published_at": "2026-08-29T21:14:31Z",
@@ -2842,8 +2908,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "useagenthq"
+    },
+    {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "published_at": "2026-09-02T12:09:42.000Z",
+      "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "tags": [
+        "AI",
+        "Chris Lehane",
+        "mass shooting",
+        "OpenAI",
+        "tumbler ridge"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     }
   ],
   "Database": [
@@ -2888,6 +2970,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Read your own writes, off the primary",
+      "url": "https://boringsql.com/posts/read-your-own-writes/",
+      "published_at": "2026-09-02T06:35:51.403-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "caius"
     },
     {
       "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
@@ -2964,21 +3058,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.",
-      "url": "https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0",
-      "published_at": "2026-08-25T00:15:18Z",
-      "description": "This is article 5 in a series about building PlannerCritic, an open-source engine where one LLM...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0dscma56ah2jztad350.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3113,20 +3192,52 @@
       "user": "ewenjo"
     },
     {
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "published_at": "2026-09-01T20:48:32.000Z",
-      "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+      "title": "How to maintain session and authenticate for university portal API with Python requests?",
+      "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
+      "published_at": "2026-09-02T14:28:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
+        "python",
+        "authentication",
+        "web-scraping",
+        "cookies",
+        "python-requests"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Arshia Shariati"
+    },
+    {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "published_at": "2026-09-02T15:01:23.000Z",
+      "description": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+      "tags": [
+        "AI",
+        "Fundraising",
         "Security",
-        "Social",
-        "hacks",
-        "X",
-        "x money"
+        "Delta-v Capital",
+        "HiddenLayer"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "Norway considers ban on camera-enabled wearable &#8216;pervert glasses&#8217;",
+      "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+      "published_at": "2026-09-02T13:11:47.000Z",
+      "description": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
+      "tags": [
+        "Government & Policy",
+        "Privacy",
+        "Security",
+        "TC",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Protect Your Privacy While Browsing the Web",
@@ -3144,6 +3255,36 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
+      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
+      "published_at": "2026-09-01T07:00:00Z",
+      "description": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
+      "tags": [
+        "ai",
+        "python",
+        "datascience",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
     {
       "title": "What Do You Do While AI Codes?",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
@@ -3250,21 +3391,6 @@
       "user": "xbill"
     },
     {
-      "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
-      "url": "https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o",
-      "published_at": "2026-08-27T04:13:56Z",
-      "description": "Background   In the AI era, even I delegate most of my code optimization or writing tasks...",
-      "tags": [
-        "ai",
-        "go",
-        "programming",
-        "refactoring"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnaugad5rry7u00pyg8wh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3312,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "Player-YN"
     },
     {
@@ -3327,23 +3453,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "OnlyTerp"
-    },
-    {
-      "title": "subsy/skill-cabinet - GitHub Repository",
-      "url": "https://github.com/subsy/skill-cabinet",
-      "published_at": "2026-08-31T12:17:01Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "subsy"
     },
     {
       "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
@@ -3357,23 +3468,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 403,
       "user": "rakanki911"
     },
     {
-      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
-      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
-      "published_at": "2026-08-29T12:59:43Z",
+      "title": "subsy/skill-cabinet - GitHub Repository",
+      "url": "https://github.com/subsy/skill-cabinet",
+      "published_at": "2026-08-31T12:17:01Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 185,
-      "user": "Sac-Y"
+      "stars": 345,
+      "user": "subsy"
+    },
+    {
+      "title": "TetreesEX/TetreesAgent_EX - This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+      "url": "https://github.com/TetreesEX/TetreesAgent_EX",
+      "published_at": "2026-08-29T07:46:09Z",
+      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "TetreesEX"
     },
     {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
@@ -3387,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6748,
+      "stars": 6785,
       "user": "sapientinc"
     },
     {
@@ -3402,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1423,
+      "stars": 1473,
       "user": "Nanako0129"
     },
     {
@@ -3432,14 +3558,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 923,
       "user": "jprx"
     },
     {
-      "title": "GangTailorUpgrade/undress-service - Coomer Tool",
+      "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
       "url": "https://github.com/GangTailorUpgrade/undress-service",
       "published_at": "2026-08-31T00:12:45Z",
-      "description": "Coomer Tool",
+      "description": "Dress AI Sponsor",
       "tags": [
         "python",
         "github",
@@ -3447,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 901,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3462,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 683,
       "user": "chrisgreg"
     },
     {
@@ -3477,8 +3603,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 86,
       "user": "tsouth89"
+    },
+    {
+      "title": "Slrrxx/binance-go - Production-ready unofficial Binance REST and WebSocket SDK for Go",
+      "url": "https://github.com/Slrrxx/binance-go",
+      "published_at": "2026-09-01T22:35:01Z",
+      "description": "Production-ready unofficial Binance REST and WebSocket SDK for Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314623774?v=4",
+      "source": "GitHub",
+      "stars": 52,
+      "user": "Slrrxx"
     },
     {
       "title": "ih8d8/yt-dlp-manager - Self-hosted yt-dlp download manager: web UI, TUI and CLI over one shared queue. Single Go binary.",
@@ -3511,21 +3652,6 @@
       "user": "basketikun"
     },
     {
-      "title": "Zulwatha/content-parity - Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.",
-      "url": "https://github.com/Zulwatha/content-parity",
-      "published_at": "2026-08-29T00:18:57Z",
-      "description": "Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120991694?v=4",
-      "source": "GitHub",
-      "stars": 32,
-      "user": "Zulwatha"
-    },
-    {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "published_at": "2026-08-28T12:57:24Z",
@@ -3537,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2253,
       "user": "XiaoDuoYa"
     },
     {
@@ -3552,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 716,
       "user": "Git-Agni"
     },
     {
@@ -3567,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "nateherkai"
     },
     {
@@ -3582,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "useagenthq"
     },
     {
@@ -3597,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 210,
       "user": "blendi-remade"
     },
     {
@@ -3612,7 +3738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1680,
+      "stars": 1747,
       "user": "crmne"
     },
     {
@@ -3627,7 +3753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "JordyZomer"
     },
     {
@@ -3642,7 +3768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "mizorewww"
     },
     {
@@ -3657,23 +3783,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 214,
       "user": "faisalkindi"
     },
     {
-      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
-      "url": "https://github.com/daffainfo/vol-rs",
-      "published_at": "2026-08-30T04:35:19Z",
-      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "title": "pgrundev/pgterm - Postgres Terminal",
+      "url": "https://github.com/pgrundev/pgterm",
+      "published_at": "2026-08-27T15:48:53Z",
+      "description": "Postgres Terminal",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 156,
-      "user": "daffainfo"
+      "stars": 158,
+      "user": "pgrundev"
+    },
+    {
+      "title": "Adobe is making its tools available in Slack",
+      "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+      "published_at": "2026-09-02T13:09:27.000Z",
+      "description": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+      "tags": [
+        "Apps",
+        "Adobe",
+        "Slack"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Learn Excel Formulas and Functions",
