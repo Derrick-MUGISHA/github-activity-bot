@@ -45,6 +45,21 @@
       "user": "Jan-Felix Schmakeit"
     },
     {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
+      "published_at": "2026-09-01T18:25:48Z",
+      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "tags": [
+        "aws",
+        "machinelearning",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
       "published_at": "2026-08-30T16:46:00Z",
@@ -85,19 +100,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
-      "published_at": "2026-09-01T16:35:00Z",
-      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
-      "tags": [
-        "ai",
-        "evals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
-    },
-    {
       "title": "Claude Fable 5.1 is now available on Agent Platform!",
       "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
       "published_at": "2026-09-01T18:28:57Z",
@@ -110,21 +112,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
-    },
-    {
-      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
-      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
-      "published_at": "2026-08-30T19:09:03Z",
-      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
@@ -184,6 +171,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
+      "published_at": "2026-09-01T16:35:00Z",
+      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "tags": [
+        "ai",
+        "evals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -366,6 +366,21 @@
       "user": "Caleb Duff"
     },
     {
+      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
+      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
+      "published_at": "2026-08-30T19:09:03Z",
+      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -511,36 +526,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
       "source": "Dev.to",
       "user": "Eugeniya Ivanova"
-    },
-    {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
-      "published_at": "2026-08-27T07:37:45Z",
-      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "vectordatabase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
-    {
-      "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
-      "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc",
-      "published_at": "2026-08-20T13:37:59Z",
-      "description": "All three hyperscalers now ship an agent framework, and all three speak A2A. The protocol page will...",
-      "tags": [
-        "a2a",
-        "aiagents",
-        "aws",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3fjkuqd3p2lygi59hcuj.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -737,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1529,
+      "stars": 1543,
       "user": "Nanako0129"
     },
     {
@@ -752,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 923,
       "user": "GangTailorUpgrade"
     },
     {
@@ -782,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2268,
       "user": "XiaoDuoYa"
     },
     {
@@ -797,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 481,
       "user": "shadcn-ui"
     },
     {
@@ -812,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "nateherkai"
     },
     {
@@ -827,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "useagenthq"
     },
     {
@@ -857,21 +842,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 246,
       "user": "faisalkindi"
-    },
-    {
-      "title": "Firefox’s AI Switch Is Off. Telemetry Isn’t",
-      "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
-      "published_at": "2026-09-02T07:50:14.843-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
     },
     {
       "title": "How to capture original state of a container?",
@@ -933,6 +905,36 @@
       "user": "Arshia Shariati"
     },
     {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "published_at": "2026-09-02T20:19:14.000Z",
+      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "tags": [
+        "AI",
+        "ai safety",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "published_at": "2026-09-02T19:35:09.000Z",
+      "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+      "tags": [
+        "Security",
+        "age verification",
+        "cybersecurity",
+        "data breach",
+        "identity theft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
       "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
       "published_at": "2026-09-02T17:18:13.000Z",
@@ -968,7 +970,7 @@
       "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
       "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "published_at": "2026-09-02T17:09:06.000Z",
-      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
       "tags": [
         "AI",
         "Government & Policy",
@@ -1024,53 +1026,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "published_at": "2026-09-02T15:01:23.000Z",
-      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Security",
-        "Delta-v Capital",
-        "HiddenLayer"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "PSA: Amazon&#8217;s shopping AI can now tell you if that message is a scam",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "published_at": "2026-09-02T14:56:34.000Z",
-      "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "Amazon",
-        "e-commerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "published_at": "2026-09-02T14:03:57.000Z",
-      "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "tags": [
-        "AI",
-        "Startups",
-        "Adobe",
-        "India",
-        "Mergers and Acquisitions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
@@ -1286,21 +1241,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
-      "published_at": "2026-08-27T07:37:45Z",
-      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "vectordatabase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1432,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 540,
       "user": "rakanki911"
     },
     {
@@ -1477,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "subsy"
     },
     {
@@ -1507,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2268,
       "user": "XiaoDuoYa"
     },
     {
@@ -1522,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 759,
       "user": "Git-Agni"
     },
     {
@@ -1537,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 481,
       "user": "shadcn-ui"
     },
     {
@@ -1552,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "nateherkai"
     },
     {
@@ -1567,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "useagenthq"
     },
     {
@@ -1630,7 +1570,7 @@
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
       "url": "https://stackoverflow.com/questions/80000036/text-alignment-on-a-dynamically-created-html-element-via-javascript-not-working",
       "published_at": "2026-09-01T23:33:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -1732,6 +1672,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
+      "published_at": "2026-09-01T18:25:48Z",
+      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "tags": [
+        "aws",
+        "machinelearning",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Cross Cloud A2A Agent Card Field Comparison",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
@@ -1924,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6790,
+      "stars": 6675,
       "user": "sapientinc"
     },
     {
@@ -1939,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1529,
+      "stars": 1543,
       "user": "Nanako0129"
     },
     {
@@ -1969,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 945,
       "user": "jprx"
     },
     {
@@ -1984,14 +1939,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 923,
       "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "How do I design a multi-purpose event handler without making it generic?",
+      "url": "https://stackoverflow.com/questions/80000298/how-do-i-design-a-multi-purpose-event-handler-without-making-it-generic",
+      "published_at": "2026-09-02T18:44:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "pylance"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
+      "title": "Pygames and coins",
+      "url": "https://stackoverflow.com/questions/80000310/pygames-and-coins",
+      "published_at": "2026-09-02T19:46:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "pygame",
+        "game-development",
+        "pygame-surface",
+        "flappy-bird-clone"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hannia"
     },
     {
       "title": "How to get unix-specific python modules working easily on Windows?",
       "url": "https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows",
       "published_at": "2026-09-02T17:17:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "windows",
@@ -2020,7 +2005,7 @@
       "title": "Canonical way to select data in SQLAlchemy",
       "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
       "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "best-practices",
         "python",
@@ -2079,7 +2064,7 @@
       "title": "Mapping np array to Fortran array in gdb using Python API",
       "url": "https://stackoverflow.com/questions/80000166/mapping-np-array-to-fortran-array-in-gdb-using-python-api",
       "published_at": "2026-09-02T11:17:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "fortran",
@@ -2105,34 +2090,6 @@
       "user": "Bill"
     },
     {
-      "title": "2 line procedural testframe appears, but the class iframe does not",
-      "url": "https://stackoverflow.com/questions/79999993/2-line-procedural-testframe-appears-but-the-class-iframe-does-not",
-      "published_at": "2026-09-01T19:15:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "oop",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dlemper"
-    },
-    {
-      "title": "Delete operation on frozendict",
-      "url": "https://stackoverflow.com/questions/79999651/delete-operation-on-frozendict",
-      "published_at": "2026-08-31T15:09:27.000Z",
-      "description": "Stack Overflow question · 4 answers · score 5",
-      "tags": [
-        "python",
-        "immutability",
-        "python-3.15"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wensveen"
-    },
-    {
       "title": "How to Build an AI File Analysis Agent with Python",
       "url": "https://www.freecodecamp.org/news/build-an-ai-analysis-agent/",
       "published_at": "2026-09-01T15:44:15.000Z",
@@ -2150,21 +2107,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
-      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
-      "published_at": "2026-08-30T19:09:03Z",
-      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
     {
       "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
       "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo",
@@ -2237,6 +2179,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
+      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
+      "published_at": "2026-08-30T19:09:03Z",
+      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2456,7 +2413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "mizorewww"
     },
     {
@@ -2504,7 +2461,7 @@
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
       "url": "https://stackoverflow.com/questions/80000036/text-alignment-on-a-dynamically-created-html-element-via-javascript-not-working",
       "published_at": "2026-09-01T23:33:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -2680,7 +2637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 945,
       "user": "jprx"
     },
     {
@@ -2695,14 +2652,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 759,
       "user": "Git-Agni"
+    },
+    {
+      "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
+      "url": "https://github.com/richiemcilroy/chippytea",
+      "published_at": "2026-08-31T11:06:58Z",
+      "description": "A native Mac app for making space and earning your tea. SwiftUI + Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
+      "source": "GitHub",
+      "stars": 181,
+      "user": "richiemcilroy"
     },
     {
       "title": "How to get unix-specific python modules working easily on Windows?",
       "url": "https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows",
       "published_at": "2026-09-02T17:17:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "windows",
@@ -2763,6 +2735,21 @@
       "user": "xbill"
     },
     {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
+      "published_at": "2026-09-01T18:25:48Z",
+      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "tags": [
+        "aws",
+        "machinelearning",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Claude Fable 5.1 is now available on Agent Platform!",
       "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
       "published_at": "2026-09-01T18:28:57Z",
@@ -2775,21 +2762,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
-    },
-    {
-      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
-      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
-      "published_at": "2026-08-30T19:09:03Z",
-      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2927,19 +2899,19 @@
       "user": "xbill"
     },
     {
-      "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
-      "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc",
-      "published_at": "2026-08-20T13:37:59Z",
-      "description": "All three hyperscalers now ship an agent framework, and all three speak A2A. The protocol page will...",
+      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
+      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
+      "published_at": "2026-08-30T19:09:03Z",
+      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
       "tags": [
-        "a2a",
-        "aiagents",
-        "aws",
-        "azure"
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3fjkuqd3p2lygi59hcuj.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
@@ -2953,26 +2925,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "useagenthq"
     }
   ],
   "Database": [
-    {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
-      "published_at": "2026-08-27T07:37:45Z",
-      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "vectordatabase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2989,7 +2946,7 @@
       "title": "Canonical way to select data in SQLAlchemy",
       "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
       "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "best-practices",
         "python",
@@ -3224,32 +3181,16 @@
       "user": "Arshia Shariati"
     },
     {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "published_at": "2026-09-02T15:01:23.000Z",
-      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "title": "It sure looks like hackers breached a major ID card verification service",
+      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+      "published_at": "2026-09-02T19:35:09.000Z",
+      "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
       "tags": [
-        "AI",
-        "Fundraising",
         "Security",
-        "Delta-v Capital",
-        "HiddenLayer"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "Norway considers ban on camera-enabled wearable &#8216;pervert glasses&#8217;",
-      "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
-      "published_at": "2026-09-02T13:11:47.000Z",
-      "description": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
-      "tags": [
-        "Government & Policy",
-        "Privacy",
-        "Security",
-        "TC",
-        "cybersecurity"
+        "age verification",
+        "cybersecurity",
+        "data breach",
+        "identity theft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3453,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 540,
       "user": "rakanki911"
     },
     {
@@ -3498,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 357,
       "user": "subsy"
     },
     {
@@ -3528,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6790,
+      "stars": 6675,
       "user": "sapientinc"
     },
     {
@@ -3543,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1529,
+      "stars": 1543,
       "user": "Nanako0129"
     },
     {
@@ -3573,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 945,
       "user": "jprx"
     },
     {
@@ -3588,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 923,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3618,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "tsouth89"
     },
     {
@@ -3678,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2264,
+      "stars": 2268,
       "user": "XiaoDuoYa"
     },
     {
@@ -3693,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 759,
       "user": "Git-Agni"
     },
     {
@@ -3708,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 481,
       "user": "shadcn-ui"
     },
     {
@@ -3723,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "nateherkai"
     },
     {
@@ -3738,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "useagenthq"
     },
     {
@@ -3753,7 +3694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1864,
+      "stars": 2105,
       "user": "crmne"
     },
     {
@@ -3783,7 +3724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 246,
       "user": "faisalkindi"
     },
     {
@@ -3798,39 +3739,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "mizorewww"
     },
     {
-      "title": "pgrundev/pgterm - Postgres Terminal",
-      "url": "https://github.com/pgrundev/pgterm",
-      "published_at": "2026-08-27T15:48:53Z",
-      "description": "Postgres Terminal",
+      "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
+      "url": "https://github.com/richiemcilroy/chippytea",
+      "published_at": "2026-08-31T11:06:58Z",
+      "description": "A native Mac app for making space and earning your tea. SwiftUI + Rust.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 162,
-      "user": "pgrundev"
-    },
-    {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "published_at": "2026-09-02T15:01:23.000Z",
-      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Security",
-        "Delta-v Capital",
-        "HiddenLayer"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "stars": 181,
+      "user": "richiemcilroy"
     },
     {
       "title": "Learn Excel Formulas and Functions",
