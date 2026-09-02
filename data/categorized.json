@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Preptember is here!! Plan a Fest for your local community.",
-      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
-      "published_at": "2026-09-01T19:26:08Z",
-      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
-      "tags": [
-        "hacktoberfest",
-        "ai",
-        "hackathon",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
       "published_at": "2026-08-30T16:46:00Z",
@@ -42,6 +27,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
       "source": "Dev.to",
       "user": "Jan-Felix Schmakeit"
+    },
+    {
+      "title": "Preptember is here!! Plan a Fest for your local community.",
+      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
+      "published_at": "2026-09-01T19:26:08Z",
+      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
+      "tags": [
+        "hacktoberfest",
+        "ai",
+        "hackathon",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
@@ -685,8 +685,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1375,
+      "stars": 1423,
       "user": "Nanako0129"
+    },
+    {
+      "title": "GangTailorUpgrade/undress-service - Coomer Tool",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "published_at": "2026-08-31T00:12:45Z",
+      "description": "Coomer Tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
+      "source": "GitHub",
+      "stars": 884,
+      "user": "GangTailorUpgrade"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -715,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2174,
+      "stars": 2227,
       "user": "XiaoDuoYa"
     },
     {
@@ -730,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 314,
       "user": "nateherkai"
     },
     {
@@ -760,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "JordyZomer"
     },
     {
@@ -775,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 200,
       "user": "faisalkindi"
     },
     {
@@ -790,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "daffainfo"
     },
     {
@@ -806,10 +821,23 @@
       "user": "FedericoSchonborn"
     },
     {
+      "title": "Why does my React component fetch data again when I navigate back to the page?",
+      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
+      "published_at": "2026-09-02T10:05:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "react-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
+    },
+    {
       "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
       "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
       "published_at": "2026-09-01T16:25:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "javascript",
@@ -825,7 +853,7 @@
       "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
       "url": "https://stackoverflow.com/questions/79999971/how-can-i-extract-and-split-pdf-content-into-logical-paragraphs-when-some-pages",
       "published_at": "2026-09-01T17:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "ocr"
@@ -1296,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 431,
       "user": "Player-YN"
     },
     {
@@ -1311,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "OnlyTerp"
     },
     {
@@ -1326,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 336,
       "user": "subsy"
     },
     {
@@ -1341,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 336,
       "user": "rakanki911"
     },
     {
@@ -1371,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2174,
+      "stars": 2227,
       "user": "XiaoDuoYa"
     },
     {
@@ -1386,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 699,
       "user": "Git-Agni"
     },
     {
@@ -1401,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 314,
       "user": "nateherkai"
     },
     {
@@ -1431,14 +1459,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 207,
       "user": "blendi-remade"
+    },
+    {
+      "title": "Why does my React component fetch data again when I navigate back to the page?",
+      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
+      "published_at": "2026-09-02T10:05:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "react-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
     },
     {
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
       "url": "https://stackoverflow.com/questions/80000036/text-alignment-on-a-dynamically-created-html-element-via-javascript-not-working",
       "published_at": "2026-09-01T23:33:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -1454,7 +1495,7 @@
       "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
       "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
       "published_at": "2026-09-01T18:39:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "google-maps",
@@ -1469,7 +1510,7 @@
       "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
       "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
       "published_at": "2026-09-01T16:25:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "javascript",
@@ -1494,25 +1535,10 @@
       "user": "Koolaid222"
     },
     {
-      "title": "How can I quickly identify the font used on a webpage using JavaScript?",
-      "url": "https://stackoverflow.com/questions/79999849/how-can-i-quickly-identify-the-font-used-on-a-webpage-using-javascript",
-      "published_at": "2026-09-01T10:01:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "fonts"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shahbakht Khan"
-    },
-    {
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
       "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
       "published_at": "2026-08-31T13:33:48.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "json",
@@ -1522,6 +1548,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jack Smith"
+    },
+    {
+      "title": "How can I quickly identify the font used on a webpage using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999849/how-can-i-quickly-identify-the-font-used-on-a-webpage-using-javascript",
+      "published_at": "2026-09-01T10:01:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "fonts"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shahbakht Khan"
     },
     {
       "title": "Why I can't import .ts file using express and typescript",
@@ -1565,21 +1606,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sayan Majumder"
-    },
-    {
-      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
-      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
-      "published_at": "2026-08-31T10:44:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "August"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -1776,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6335,
+      "stars": 6748,
       "user": "sapientinc"
     },
     {
@@ -1791,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1375,
+      "stars": 1423,
       "user": "Nanako0129"
     },
     {
@@ -1806,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1142,
       "user": "damejan80"
     },
     {
@@ -1821,29 +1847,57 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 912,
       "user": "jprx"
     },
     {
-      "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
-      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
-      "published_at": "2026-08-27T18:02:35Z",
-      "description": "Trending GitHub Repository",
+      "title": "GangTailorUpgrade/undress-service - Coomer Tool",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "published_at": "2026-08-31T00:12:45Z",
+      "description": "Coomer Tool",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 851,
-      "user": "tradecatlabs"
+      "stars": 884,
+      "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "Hello world, automation trends",
+      "url": "https://stackoverflow.com/questions/80000113/hello-world-automation-trends",
+      "published_at": "2026-09-02T08:26:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "python",
+        "blender"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Christian Hernandez"
+    },
+    {
+      "title": "CBC solver reports \"optimal\" solution but pyomo model variables are `None` valued",
+      "url": "https://stackoverflow.com/questions/80000103/cbc-solver-reports-optimal-solution-but-pyomo-model-variables-are-none-value",
+      "published_at": "2026-09-02T08:00:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "linear-programming",
+        "pyomo",
+        "coin-or-cbc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bill"
     },
     {
       "title": "Why am I getting a 404 error with python anywhere?",
       "url": "https://stackoverflow.com/questions/80000043/why-am-i-getting-a-404-error-with-python-anywhere",
       "published_at": "2026-09-02T00:40:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "django",
@@ -1871,7 +1925,7 @@
       "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
       "url": "https://stackoverflow.com/questions/79999971/how-can-i-extract-and-split-pdf-content-into-logical-paragraphs-when-some-pages",
       "published_at": "2026-09-01T17:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "ocr"
@@ -1925,7 +1979,7 @@
       "title": "Python script to download Barchart data is no longer working",
       "url": "https://stackoverflow.com/questions/79999758/python-script-to-download-barchart-data-is-no-longer-working",
       "published_at": "2026-09-01T01:29:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "web-scraping"
@@ -1948,38 +2002,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shmuelt"
-    },
-    {
-      "title": "Python match-case vs. dictionary performance internals",
-      "url": "https://stackoverflow.com/questions/79999095/python-match-case-vs-dictionary-performance-internals",
-      "published_at": "2026-08-28T23:09:53.000Z",
-      "description": "Stack Overflow question · 2 answers · score 11",
-      "tags": [
-        "python",
-        "performance",
-        "optimization",
-        "python-3.10",
-        "structural-pattern-matching"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lowchess"
-    },
-    {
-      "title": "Visual Studio Code does not show descriptions of ManyToManyField set and clear",
-      "url": "https://stackoverflow.com/questions/79999583/visual-studio-code-does-not-show-descriptions-of-manytomanyfield-set-and-clear",
-      "published_at": "2026-08-31T10:51:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "django",
-        "vs-code",
-        "methods",
-        "docstring"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "IgorArnaut"
     },
     {
       "title": "How to Build an AI File Analysis Agent with Python",
@@ -2320,7 +2342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 214,
       "user": "mizorewww"
     },
     {
@@ -2340,7 +2362,7 @@
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
       "url": "https://stackoverflow.com/questions/80000036/text-alignment-on-a-dynamically-created-html-element-via-javascript-not-working",
       "published_at": "2026-09-01T23:33:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -2356,7 +2378,7 @@
       "title": "How can I quickly identify the font used on a webpage using JavaScript?",
       "url": "https://stackoverflow.com/questions/79999849/how-can-i-quickly-identify-the-font-used-on-a-webpage-using-javascript",
       "published_at": "2026-09-01T10:01:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2366,21 +2388,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shahbakht Khan"
-    },
-    {
-      "title": "How do I show the header logo and footer when I open a full-screen nav menu?",
-      "url": "https://stackoverflow.com/questions/79999582/how-do-i-show-the-header-logo-and-footer-when-i-open-a-full-screen-nav-menu",
-      "published_at": "2026-08-31T10:44:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "August"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -2531,7 +2538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 912,
       "user": "jprx"
     },
     {
@@ -2546,7 +2553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 699,
       "user": "Git-Agni"
     },
     {
@@ -3305,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 431,
       "user": "Player-YN"
     },
     {
@@ -3320,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "OnlyTerp"
     },
     {
@@ -3335,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 336,
       "user": "subsy"
     },
     {
@@ -3350,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 336,
       "user": "rakanki911"
     },
     {
@@ -3380,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6335,
+      "stars": 6748,
       "user": "sapientinc"
     },
     {
@@ -3395,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1375,
+      "stars": 1423,
       "user": "Nanako0129"
     },
     {
@@ -3410,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1142,
       "user": "damejan80"
     },
     {
@@ -3425,23 +3432,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 912,
       "user": "jprx"
     },
     {
-      "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
-      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
-      "published_at": "2026-08-27T18:02:35Z",
-      "description": "Trending GitHub Repository",
+      "title": "GangTailorUpgrade/undress-service - Coomer Tool",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "published_at": "2026-08-31T00:12:45Z",
+      "description": "Coomer Tool",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 851,
-      "user": "tradecatlabs"
+      "stars": 884,
+      "user": "GangTailorUpgrade"
     },
     {
       "title": "chrisgreg/boop - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
@@ -3455,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 680,
       "user": "chrisgreg"
     },
     {
@@ -3470,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 84,
       "user": "tsouth89"
     },
     {
@@ -3530,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2174,
+      "stars": 2227,
       "user": "XiaoDuoYa"
     },
     {
@@ -3545,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 699,
       "user": "Git-Agni"
     },
     {
@@ -3560,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 314,
       "user": "nateherkai"
     },
     {
@@ -3590,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 207,
       "user": "blendi-remade"
     },
     {
@@ -3605,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1597,
+      "stars": 1680,
       "user": "crmne"
     },
     {
@@ -3620,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "JordyZomer"
     },
     {
@@ -3635,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 214,
       "user": "mizorewww"
     },
     {
@@ -3650,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 200,
       "user": "faisalkindi"
     },
     {
@@ -3665,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "daffainfo"
     },
     {
