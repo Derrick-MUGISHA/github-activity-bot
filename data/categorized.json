@@ -16,6 +16,35 @@
       "user": "xbill"
     },
     {
+      "title": "What is harness engineering and why should I care?",
+      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+      "published_at": "2026-09-02T15:28:05Z",
+      "description": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
+      "tags": [
+        "ai",
+        "agents",
+        "programming",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz6prrbe2g8r5m1h79agh.gif",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+      "published_at": "2026-09-02T16:35:00Z",
+      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "tags": [
+        "ai",
+        "evals",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
+    },
+    {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
       "published_at": "2026-08-30T16:46:00Z",
@@ -29,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Preptember is here!! Plan a Fest for your local community.",
+      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
+      "published_at": "2026-09-01T19:26:08Z",
+      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
+      "tags": [
+        "hacktoberfest",
+        "ai",
+        "hackathon",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
@@ -52,21 +96,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
       "source": "Dev.to",
       "user": "Jan-Felix Schmakeit"
-    },
-    {
-      "title": "Preptember is here!! Plan a Fest for your local community.",
-      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
-      "published_at": "2026-09-01T19:26:08Z",
-      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
-      "tags": [
-        "hacktoberfest",
-        "ai",
-        "hackathon",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Claude Fable 5.1 is now available on Agent Platform!",
@@ -514,36 +543,6 @@
       "user": "xbill"
     },
     {
-      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
-      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9",
-      "published_at": "2026-08-20T13:25:09Z",
-      "description": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "a2a",
-        "aiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
-      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p",
-      "published_at": "2026-08-25T17:04:18Z",
-      "description": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
-      "tags": [
-        "ai",
-        "mongodb",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi8rf5ve9fr028joiw51.png",
-      "source": "Dev.to",
-      "user": "Jordan Smith"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -738,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1529,
       "user": "Nanako0129"
     },
     {
@@ -753,7 +752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 920,
       "user": "GangTailorUpgrade"
     },
     {
@@ -783,8 +782,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2253,
+      "stars": 2264,
       "user": "XiaoDuoYa"
+    },
+    {
+      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "url": "https://github.com/shadcn-ui/cn",
+      "published_at": "2026-08-31T07:04:03Z",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 366,
+      "user": "shadcn-ui"
     },
     {
       "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
@@ -798,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "nateherkai"
     },
     {
@@ -828,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 259,
       "user": "JordyZomer"
     },
     {
@@ -843,7 +857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 226,
       "user": "faisalkindi"
     },
     {
@@ -863,9 +877,11 @@
       "title": "How to capture original state of a container?",
       "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
       "published_at": "2026-09-02T14:24:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "javascript"
+        "javascript",
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -904,7 +920,7 @@
       "title": "How to maintain session and authenticate for university portal API with Python requests?",
       "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
       "published_at": "2026-09-02T14:28:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "authentication",
@@ -917,36 +933,103 @@
       "user": "Arshia Shariati"
     },
     {
-      "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
-      "url": "https://stackoverflow.com/questions/79999971/how-can-i-extract-and-split-pdf-content-into-logical-paragraphs-when-some-pages",
-      "published_at": "2026-09-01T17:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "published_at": "2026-09-02T17:18:13.000Z",
+      "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
       "tags": [
-        "python",
-        "ocr"
+        "AI",
+        "Startups",
+        "AI detection",
+        "Equity Video",
+        "Substack"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohammad Nizam Uddin Imran"
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
     },
     {
-      "title": "How can i improve the readability and python style of certain problems?",
-      "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
-      "published_at": "2026-09-01T13:41:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "published_at": "2026-09-02T17:12:27.000Z",
+      "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
       "tags": [
-        "python",
-        "data-structures"
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Creators",
+        "payments"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sai"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "published_at": "2026-09-02T17:09:06.000Z",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+      "published_at": "2026-09-02T16:54:23.000Z",
+      "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+      "tags": [
+        "Climate",
+        "Fervo Energy",
+        "geothermal energy",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "published_at": "2026-09-02T16:04:10.000Z",
+      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "Startups",
+        "Forward deployed engineers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "India&#8217;s richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "published_at": "2026-09-02T16:01:48.000Z",
+      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "jio",
+        "JioPC",
+        "reliance jio"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
       "published_at": "2026-09-02T15:01:23.000Z",
-      "description": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
       "tags": [
         "AI",
         "Fundraising",
@@ -988,64 +1071,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Adobe is making its tools available in Slack",
-      "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-      "published_at": "2026-09-02T13:09:27.000Z",
-      "description": "Users will be able to access Express, Premiere, and Acrobat in Slack",
-      "tags": [
-        "Apps",
-        "Adobe",
-        "Slack"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "published_at": "2026-09-02T12:09:42.000Z",
-      "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "tags": [
-        "AI",
-        "Chris Lehane",
-        "mass shooting",
-        "OpenAI",
-        "tumbler ridge"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Reliance&#8217;s JioHotstar takes its streaming empire global — without sports",
-      "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
-      "published_at": "2026-09-01T23:00:00.000Z",
-      "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
-      "tags": [
-        "Apps",
-        "India",
-        "JioHotstar",
-        "reliance"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta, Jagmeet Singh"
-    },
-    {
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "published_at": "2026-09-01T22:13:34.000Z",
-      "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
@@ -1396,6 +1421,21 @@
       "user": "velmu"
     },
     {
+      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "published_at": "2026-08-29T23:51:32Z",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
+      "source": "GitHub",
+      "stars": 499,
+      "user": "rakanki911"
+    },
+    {
       "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
       "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
       "published_at": "2026-08-28T10:56:56Z",
@@ -1422,23 +1462,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "OnlyTerp"
-    },
-    {
-      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper",
-      "published_at": "2026-08-29T23:51:32Z",
-      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
-      "source": "GitHub",
-      "stars": 403,
-      "user": "rakanki911"
     },
     {
       "title": "subsy/skill-cabinet - GitHub Repository",
@@ -1452,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 354,
       "user": "subsy"
     },
     {
@@ -1482,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2253,
+      "stars": 2264,
       "user": "XiaoDuoYa"
     },
     {
@@ -1497,8 +1522,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 744,
       "user": "Git-Agni"
+    },
+    {
+      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "url": "https://github.com/shadcn-ui/cn",
+      "published_at": "2026-08-31T07:04:03Z",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 366,
+      "user": "shadcn-ui"
     },
     {
       "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
@@ -1512,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "nateherkai"
     },
     {
@@ -1531,25 +1571,24 @@
       "user": "useagenthq"
     },
     {
-      "title": "blendi-remade/interdimensional-game - GitHub Repository",
-      "url": "https://github.com/blendi-remade/interdimensional-game",
-      "published_at": "2026-08-31T06:13:54Z",
-      "description": "Trending GitHub Repository",
+      "title": "How to capture original state of a container?",
+      "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
+      "published_at": "2026-09-02T14:24:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "html",
+        "css"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "blendi-remade"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anto Abisheik J"
     },
     {
       "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
       "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
       "published_at": "2026-09-02T14:16:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1558,18 +1597,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fengrong Han Bobb"
-    },
-    {
-      "title": "How to capture original state of a container?",
-      "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
-      "published_at": "2026-09-02T14:24:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anto Abisheik J"
     },
     {
       "title": "Why does my React component fetch data again when I navigate back to the page?",
@@ -1583,6 +1610,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad"
+    },
+    {
+      "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
+      "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
+      "published_at": "2026-09-01T18:39:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "google-maps",
+        "google-maps-api-3",
+        "geolocation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thomas Thomasclak"
     },
     {
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
@@ -1601,25 +1643,10 @@
       "user": "Nomad1004"
     },
     {
-      "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
-      "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
-      "published_at": "2026-09-01T18:39:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "google-maps",
-        "google-maps-api-3",
-        "geolocation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thomas Thomasclak"
-    },
-    {
       "title": "Why doesn't JavaScript have a standard console input?",
       "url": "https://stackoverflow.com/questions/79999469/why-doesnt-javascript-have-a-standard-console-input",
       "published_at": "2026-08-30T23:52:37.000Z",
-      "description": "Stack Overflow question · 4 answers · score -1",
+      "description": "Stack Overflow question · 4 answers · score 0",
       "tags": [
         "javascript"
       ],
@@ -1897,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6785,
+      "stars": 6790,
       "user": "sapientinc"
     },
     {
@@ -1912,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1529,
       "user": "Nanako0129"
     },
     {
@@ -1927,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1144,
       "user": "damejan80"
     },
     {
@@ -1942,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 937,
       "user": "jprx"
     },
     {
@@ -1957,14 +1984,86 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 920,
       "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "How to get unix-specific python modules working easily on Windows?",
+      "url": "https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows",
+      "published_at": "2026-09-02T17:17:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "windows",
+        "pty",
+        "termios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JaecadeJnight"
+    },
+    {
+      "title": "How to make a Toplevel window over a Tk window in Python Tkinter?",
+      "url": "https://stackoverflow.com/questions/80000254/how-to-make-a-toplevel-window-over-a-tk-window-in-python-tkinter",
+      "published_at": "2026-09-02T15:35:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "tkinter",
+        "toplevel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "best-practices",
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John Gordon"
+    },
+    {
+      "title": "Creating Presentations with Python: OpenOffice Impress Compatibility",
+      "url": "https://stackoverflow.com/questions/80000263/creating-presentations-with-python-openoffice-impress-compatibility",
+      "published_at": "2026-09-02T16:30:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "powerpoint",
+        "python-pptx",
+        "openoffice-impress",
+        "libreoffice-impress"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user3204810"
+    },
+    {
+      "title": "Loading lugh/ClinicalT5-base",
+      "url": "https://stackoverflow.com/questions/80000246/loading-lugh-clinicalt5-base",
+      "published_at": "2026-09-02T15:16:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "huggingface-transformers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ace-of-spades"
     },
     {
       "title": "How to maintain session and authenticate for university portal API with Python requests?",
       "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
       "published_at": "2026-09-02T14:28:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "authentication",
@@ -2032,74 +2131,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "wensveen"
-    },
-    {
-      "title": "How can I extract and split PDF content into logical paragraphs when some pages contain text and others contain images?",
-      "url": "https://stackoverflow.com/questions/79999971/how-can-i-extract-and-split-pdf-content-into-logical-paragraphs-when-some-pages",
-      "published_at": "2026-09-01T17:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "ocr"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohammad Nizam Uddin Imran"
-    },
-    {
-      "title": "GStreamer later version seems to mis-identify the prepare-window-handle message",
-      "url": "https://stackoverflow.com/questions/79999813/gstreamer-later-version-seems-to-mis-identify-the-prepare-window-handle-message",
-      "published_at": "2026-09-01T07:32:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-3.x",
-        "gstreamer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "paxdiablo"
-    },
-    {
-      "title": "How can i improve the readability and python style of certain problems?",
-      "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
-      "published_at": "2026-09-01T13:41:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "data-structures"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sai"
-    },
-    {
-      "title": "Python script to download Barchart data is no longer working",
-      "url": "https://stackoverflow.com/questions/79999758/python-script-to-download-barchart-data-is-no-longer-working",
-      "published_at": "2026-09-01T01:29:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "web-scraping"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ateene"
-    },
-    {
-      "title": "Can't get virtual environment to activate from the terminal",
-      "url": "https://stackoverflow.com/questions/79999867/cant-get-virtual-environment-to-activate-from-the-terminal",
-      "published_at": "2026-09-01T11:06:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "linux",
-        "terminal",
-        "pycharm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shmuelt"
     },
     {
       "title": "How to Build an AI File Analysis Agent with Python",
@@ -2425,7 +2456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "mizorewww"
     },
     {
@@ -2442,10 +2473,24 @@
       "user": "uncenter"
     },
     {
+      "title": "How to capture original state of a container?",
+      "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
+      "published_at": "2026-09-02T14:24:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anto Abisheik J"
+    },
+    {
       "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
       "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
       "published_at": "2026-09-02T14:16:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2635,7 +2680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 937,
       "user": "jprx"
     },
     {
@@ -2650,8 +2695,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 744,
       "user": "Git-Agni"
+    },
+    {
+      "title": "How to get unix-specific python modules working easily on Windows?",
+      "url": "https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows",
+      "published_at": "2026-09-02T17:17:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "windows",
+        "pty",
+        "termios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JaecadeJnight"
     },
     {
       "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
@@ -2882,21 +2942,6 @@
       "user": "xbill"
     },
     {
-      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
-      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9",
-      "published_at": "2026-08-20T13:25:09Z",
-      "description": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "a2a",
-        "aiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
       "url": "https://github.com/useagenthq/useagent",
       "published_at": "2026-08-29T21:14:31Z",
@@ -2910,22 +2955,6 @@
       "source": "GitHub",
       "stars": 273,
       "user": "useagenthq"
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "published_at": "2026-09-02T12:09:42.000Z",
-      "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "tags": [
-        "AI",
-        "Chris Lehane",
-        "mass shooting",
-        "OpenAI",
-        "tumbler ridge"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     }
   ],
   "Database": [
@@ -2945,21 +2974,6 @@
       "user": "Ben Greenberg"
     },
     {
-      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
-      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p",
-      "published_at": "2026-08-25T17:04:18Z",
-      "description": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
-      "tags": [
-        "ai",
-        "mongodb",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi8rf5ve9fr028joiw51.png",
-      "source": "Dev.to",
-      "user": "Jordan Smith"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -2972,16 +2986,18 @@
       "user": "iancarroll"
     },
     {
-      "title": "Read your own writes, off the primary",
-      "url": "https://boringsql.com/posts/read-your-own-writes/",
-      "published_at": "2026-09-02T06:35:51.403-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
-        "databases"
+        "best-practices",
+        "python",
+        "sqlalchemy"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "caius"
+      "source": "StackOverflow",
+      "user": "John Gordon"
     },
     {
       "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
@@ -3195,7 +3211,7 @@
       "title": "How to maintain session and authenticate for university portal API with Python requests?",
       "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
       "published_at": "2026-09-02T14:28:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "authentication",
@@ -3211,7 +3227,7 @@
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
       "published_at": "2026-09-02T15:01:23.000Z",
-      "description": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
       "tags": [
         "AI",
         "Fundraising",
@@ -3269,6 +3285,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+      "published_at": "2026-09-02T16:35:00Z",
+      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "tags": [
+        "ai",
+        "evals",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -3376,21 +3406,6 @@
       "user": "marcosomma"
     },
     {
-      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
-      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9",
-      "published_at": "2026-08-20T13:25:09Z",
-      "description": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "a2a",
-        "aiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3427,6 +3442,21 @@
       "user": "pabs3"
     },
     {
+      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "url": "https://github.com/rakanki911/DLSS5-Swapper",
+      "published_at": "2026-08-29T23:51:32Z",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
+      "source": "GitHub",
+      "stars": 499,
+      "user": "rakanki911"
+    },
+    {
       "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
       "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
       "published_at": "2026-08-28T10:56:56Z",
@@ -3453,23 +3483,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "OnlyTerp"
-    },
-    {
-      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper",
-      "published_at": "2026-08-29T23:51:32Z",
-      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
-      "source": "GitHub",
-      "stars": 403,
-      "user": "rakanki911"
     },
     {
       "title": "subsy/skill-cabinet - GitHub Repository",
@@ -3483,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 354,
       "user": "subsy"
     },
     {
@@ -3513,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6785,
+      "stars": 6790,
       "user": "sapientinc"
     },
     {
@@ -3528,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1529,
       "user": "Nanako0129"
     },
     {
@@ -3543,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1144,
       "user": "damejan80"
     },
     {
@@ -3558,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 937,
       "user": "jprx"
     },
     {
@@ -3573,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 920,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3588,14 +3603,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 686,
       "user": "chrisgreg"
     },
     {
-      "title": "tsouth89/try-omarchy-windows - Use Omarchy Linux on Windows 11 without any hassle.",
+      "title": "tsouth89/try-omarchy-windows - Use Omarchy Linux on Windows without any hassle.",
       "url": "https://github.com/tsouth89/try-omarchy-windows",
       "published_at": "2026-08-28T00:13:28Z",
-      "description": "Use Omarchy Linux on Windows 11 without any hassle.",
+      "description": "Use Omarchy Linux on Windows without any hassle.",
       "tags": [
         "go",
         "github",
@@ -3603,23 +3618,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 89,
       "user": "tsouth89"
-    },
-    {
-      "title": "Slrrxx/binance-go - Production-ready unofficial Binance REST and WebSocket SDK for Go",
-      "url": "https://github.com/Slrrxx/binance-go",
-      "published_at": "2026-09-01T22:35:01Z",
-      "description": "Production-ready unofficial Binance REST and WebSocket SDK for Go",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314623774?v=4",
-      "source": "GitHub",
-      "stars": 52,
-      "user": "Slrrxx"
     },
     {
       "title": "ih8d8/yt-dlp-manager - Self-hosted yt-dlp download manager: web UI, TUI and CLI over one shared queue. Single Go binary.",
@@ -3652,6 +3652,21 @@
       "user": "basketikun"
     },
     {
+      "title": "Zulwatha/content-parity - Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.",
+      "url": "https://github.com/Zulwatha/content-parity",
+      "published_at": "2026-08-29T00:18:57Z",
+      "description": "Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120991694?v=4",
+      "source": "GitHub",
+      "stars": 32,
+      "user": "Zulwatha"
+    },
+    {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "published_at": "2026-08-28T12:57:24Z",
@@ -3663,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2253,
+      "stars": 2264,
       "user": "XiaoDuoYa"
     },
     {
@@ -3678,8 +3693,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 744,
       "user": "Git-Agni"
+    },
+    {
+      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "url": "https://github.com/shadcn-ui/cn",
+      "published_at": "2026-08-31T07:04:03Z",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 366,
+      "user": "shadcn-ui"
     },
     {
       "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
@@ -3693,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "nateherkai"
     },
     {
@@ -3712,21 +3742,6 @@
       "user": "useagenthq"
     },
     {
-      "title": "blendi-remade/interdimensional-game - GitHub Repository",
-      "url": "https://github.com/blendi-remade/interdimensional-game",
-      "published_at": "2026-08-31T06:13:54Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "blendi-remade"
-    },
-    {
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "url": "https://github.com/crmne/fastpotify",
       "published_at": "2026-08-27T12:46:32Z",
@@ -3738,7 +3753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1747,
+      "stars": 1864,
       "user": "crmne"
     },
     {
@@ -3753,23 +3768,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 259,
       "user": "JordyZomer"
-    },
-    {
-      "title": "mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "url": "https://github.com/mizorewww/course2md",
-      "published_at": "2026-08-31T01:56:25Z",
-      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "mizorewww"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -3783,8 +3783,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 226,
       "user": "faisalkindi"
+    },
+    {
+      "title": "mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
+      "url": "https://github.com/mizorewww/course2md",
+      "published_at": "2026-08-31T01:56:25Z",
+      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 221,
+      "user": "mizorewww"
     },
     {
       "title": "pgrundev/pgterm - Postgres Terminal",
@@ -3798,22 +3813,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 162,
       "user": "pgrundev"
     },
     {
-      "title": "Adobe is making its tools available in Slack",
-      "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-      "published_at": "2026-09-02T13:09:27.000Z",
-      "description": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "published_at": "2026-09-02T15:01:23.000Z",
+      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
       "tags": [
-        "Apps",
-        "Adobe",
-        "Slack"
+        "AI",
+        "Fundraising",
+        "Security",
+        "Delta-v Capital",
+        "HiddenLayer"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Ram Iyer"
     },
     {
       "title": "Learn Excel Formulas and Functions",
