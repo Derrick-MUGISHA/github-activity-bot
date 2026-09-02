@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1552,
       "user": "Nanako0129"
     },
     {
@@ -737,7 +737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 926,
       "user": "GangTailorUpgrade"
     },
     {
@@ -767,7 +767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2268,
+      "stars": 2273,
       "user": "XiaoDuoYa"
     },
     {
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 532,
       "user": "shadcn-ui"
     },
     {
@@ -842,8 +842,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 254,
       "user": "faisalkindi"
+    },
+    {
+      "title": "The holy grail of nixpkgs: version ranges",
+      "url": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
+      "published_at": "2026-09-02T14:22:37.305-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "nix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "diktomat"
     },
     {
       "title": "How to capture original state of a container?",
@@ -903,6 +915,67 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Arshia Shariati"
+    },
+    {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-02T23:01:00.000Z",
+      "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "published_at": "2026-09-02T22:44:56.000Z",
+      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "Mergers and Acquisitions",
+        "palo alto networks"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "published_at": "2026-09-02T22:24:09.000Z",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "tags": [
+        "AI",
+        "Colossal Biosciences",
+        "nvidia",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "published_at": "2026-09-02T21:38:34.000Z",
+      "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "tags": [
+        "Government & Policy",
+        "Google",
+        "Search"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -965,67 +1038,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "published_at": "2026-09-02T17:09:06.000Z",
-      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-      "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-      "published_at": "2026-09-02T16:54:23.000Z",
-      "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
-      "tags": [
-        "Climate",
-        "Fervo Energy",
-        "geothermal energy",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "published_at": "2026-09-02T16:04:10.000Z",
-      "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Fundraising",
-        "Startups",
-        "Forward deployed engineers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "India&#8217;s richest man now wants to turn aging computers into AI-ready PCs",
-      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "published_at": "2026-09-02T16:01:48.000Z",
-      "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "jio",
-        "JioPC",
-        "reliance jio"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
@@ -1372,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 575,
       "user": "rakanki911"
     },
     {
@@ -1402,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "OnlyTerp"
     },
     {
@@ -1417,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 361,
       "user": "subsy"
     },
     {
@@ -1447,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2268,
+      "stars": 2273,
       "user": "XiaoDuoYa"
     },
     {
@@ -1462,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 764,
       "user": "Git-Agni"
     },
     {
@@ -1477,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 532,
       "user": "shadcn-ui"
     },
     {
@@ -1539,19 +1551,6 @@
       "user": "Fengrong Han Bobb"
     },
     {
-      "title": "Why does my React component fetch data again when I navigate back to the page?",
-      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
-      "published_at": "2026-09-02T10:05:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "react-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
-    },
-    {
       "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
       "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
       "published_at": "2026-09-01T18:39:06.000Z",
@@ -1565,6 +1564,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thomas Thomasclak"
+    },
+    {
+      "title": "Why does my React component fetch data again when I navigate back to the page?",
+      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
+      "published_at": "2026-09-02T10:05:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "react-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
     },
     {
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
@@ -1879,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6675,
+      "stars": 6677,
       "user": "sapientinc"
     },
     {
@@ -1894,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1552,
       "user": "Nanako0129"
     },
     {
@@ -1924,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "jprx"
     },
     {
@@ -1939,18 +1951,46 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 926,
       "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",
+      "url": "https://stackoverflow.com/questions/80000338/in-the-python-socket-module-i-am-trying-to-send-http-status-codes-to-my-client",
+      "published_at": "2026-09-02T22:46:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "sockets"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joshua White"
+    },
+    {
+      "title": "Python asyncio raw TCP server on Fly.io drops external client connections while internal health checks pass",
+      "url": "https://stackoverflow.com/questions/80000328/python-asyncio-raw-tcp-server-on-fly-io-drops-external-client-connections-while",
+      "published_at": "2026-09-02T21:33:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "network-programming",
+        "tcp",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CARTOON WORLD"
     },
     {
       "title": "How do I design a multi-purpose event handler without making it generic?",
       "url": "https://stackoverflow.com/questions/80000298/how-do-i-design-a-multi-purpose-event-handler-without-making-it-generic",
       "published_at": "2026-09-02T18:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "python-typing",
-        "pylance"
+        "pyright"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1988,20 +2028,6 @@
       "user": "JaecadeJnight"
     },
     {
-      "title": "How to make a Toplevel window over a Tk window in Python Tkinter?",
-      "url": "https://stackoverflow.com/questions/80000254/how-to-make-a-toplevel-window-over-a-tk-window-in-python-tkinter",
-      "published_at": "2026-09-02T15:35:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "tkinter",
-        "toplevel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
-    },
-    {
       "title": "Canonical way to select data in SQLAlchemy",
       "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
       "published_at": "2026-09-02T15:49:13.000Z",
@@ -2014,6 +2040,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "John Gordon"
+    },
+    {
+      "title": "How to make a Toplevel window over a Tk window in Python Tkinter?",
+      "url": "https://stackoverflow.com/questions/80000254/how-to-make-a-toplevel-window-over-a-tk-window-in-python-tkinter",
+      "published_at": "2026-09-02T15:35:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "tkinter",
+        "toplevel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
     },
     {
       "title": "Creating Presentations with Python: OpenOffice Impress Compatibility",
@@ -2059,35 +2099,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Arshia Shariati"
-    },
-    {
-      "title": "Mapping np array to Fortran array in gdb using Python API",
-      "url": "https://stackoverflow.com/questions/80000166/mapping-np-array-to-fortran-array-in-gdb-using-python-api",
-      "published_at": "2026-09-02T11:17:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "fortran",
-        "gdb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aitzkora"
-    },
-    {
-      "title": "CBC solver reports \"optimal\" solution but pyomo model variables are `None` valued",
-      "url": "https://stackoverflow.com/questions/80000103/cbc-solver-reports-optimal-solution-but-pyomo-model-variables-are-none-value",
-      "published_at": "2026-09-02T08:00:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "linear-programming",
-        "pyomo",
-        "coin-or-cbc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bill"
     },
     {
       "title": "How to Build an AI File Analysis Agent with Python",
@@ -2413,21 +2424,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "mizorewww"
-    },
-    {
-      "title": "Is Minifying CSS Necessary? (2023)",
-      "url": "https://shivjm.blog/is-minifying-css-necessary/",
-      "published_at": "2026-09-01T10:42:44.571-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "css",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "uncenter"
     },
     {
       "title": "How to capture original state of a container?",
@@ -2637,7 +2635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "jprx"
     },
     {
@@ -2652,7 +2650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 764,
       "user": "Git-Agni"
     },
     {
@@ -2667,7 +2665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 188,
       "user": "richiemcilroy"
     },
     {
@@ -2684,6 +2682,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JaecadeJnight"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "published_at": "2026-09-02T22:24:09.000Z",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "tags": [
+        "AI",
+        "Colossal Biosciences",
+        "nvidia",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
@@ -3394,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 575,
       "user": "rakanki911"
     },
     {
@@ -3424,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "OnlyTerp"
     },
     {
@@ -3439,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 361,
       "user": "subsy"
     },
     {
@@ -3469,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6675,
+      "stars": 6677,
       "user": "sapientinc"
     },
     {
@@ -3484,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1552,
       "user": "Nanako0129"
     },
     {
@@ -3514,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "jprx"
     },
     {
@@ -3529,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 926,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3574,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45679035?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "ih8d8"
     },
     {
@@ -3619,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2268,
+      "stars": 2273,
       "user": "XiaoDuoYa"
     },
     {
@@ -3634,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 764,
       "user": "Git-Agni"
     },
     {
@@ -3649,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 532,
       "user": "shadcn-ui"
     },
     {
@@ -3694,7 +3707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 2105,
+      "stars": 2195,
       "user": "crmne"
     },
     {
@@ -3724,7 +3737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 254,
       "user": "faisalkindi"
     },
     {
@@ -3739,7 +3752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "mizorewww"
     },
     {
@@ -3754,8 +3767,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 188,
       "user": "richiemcilroy"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "published_at": "2026-09-02T22:24:09.000Z",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "tags": [
+        "AI",
+        "Colossal Biosciences",
+        "nvidia",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "Learn Excel Formulas and Functions",
