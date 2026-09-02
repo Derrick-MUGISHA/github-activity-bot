@@ -1,19 +1,6 @@
 {
   "AI": [
     {
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
-      "published_at": "2026-09-01T16:35:00Z",
-      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
-      "tags": [
-        "ai",
-        "evals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
-    },
-    {
       "title": "Preptember is here!! Plan a Fest for your local community.",
       "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
       "published_at": "2026-09-01T19:26:08Z",
@@ -42,6 +29,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
+      "published_at": "2026-09-01T16:35:00Z",
+      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "tags": [
+        "ai",
+        "evals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
@@ -147,21 +147,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Why AI Websites All Look the Same and How to Build Something Different",
-      "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan",
-      "published_at": "2026-08-29T01:38:54Z",
-      "description": "If you've built a website with AI recently, there is a good chance it looks familiar. Maybe you have...",
-      "tags": [
-        "ai",
-        "webdev",
-        "design",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F14u0rkyv2g9bzxrkv1wu.png",
-      "source": "Dev.to",
-      "user": "Mfonobong Umondia"
     },
     {
       "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
@@ -700,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1357,
+      "stars": 1375,
       "user": "Nanako0129"
     },
     {
@@ -715,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "basketikun"
     },
     {
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2137,
+      "stars": 2174,
       "user": "XiaoDuoYa"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 308,
       "user": "nateherkai"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "useagenthq"
     },
     {
@@ -775,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "JordyZomer"
     },
     {
@@ -790,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 183,
       "user": "faisalkindi"
     },
     {
@@ -824,7 +809,7 @@
       "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
       "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
       "published_at": "2026-09-01T16:25:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "advice",
         "javascript",
@@ -870,8 +855,8 @@
       "tags": [
         "Apps",
         "India",
-        "reliance",
-        "JioHotstar"
+        "JioHotstar",
+        "reliance"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1300,6 +1285,21 @@
       "user": "velmu"
     },
     {
+      "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "published_at": "2026-08-28T10:56:56Z",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
+      "source": "GitHub",
+      "stars": 430,
+      "user": "Player-YN"
+    },
+    {
       "title": "OnlyTerp/opengrok - Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
       "url": "https://github.com/OnlyTerp/opengrok",
       "published_at": "2026-08-27T18:30:44Z",
@@ -1311,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 410,
       "user": "OnlyTerp"
     },
     {
@@ -1326,29 +1326,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 328,
       "user": "subsy"
     },
     {
-      "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
-      "published_at": "2026-08-28T10:56:56Z",
-      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
-      "source": "GitHub",
-      "stars": 314,
-      "user": "Player-YN"
-    },
-    {
-      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
+      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
       "url": "https://github.com/rakanki911/DLSS5-Swapper",
       "published_at": "2026-08-29T23:51:32Z",
-      "description": "DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
       "tags": [
         "javascript",
         "github",
@@ -1356,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 266,
       "user": "rakanki911"
     },
     {
@@ -1371,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 185,
       "user": "Sac-Y"
     },
     {
@@ -1386,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2137,
+      "stars": 2174,
       "user": "XiaoDuoYa"
     },
     {
@@ -1401,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 657,
       "user": "Git-Agni"
     },
     {
@@ -1416,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 308,
       "user": "nateherkai"
     },
     {
@@ -1431,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "useagenthq"
     },
     {
@@ -1446,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 201,
       "user": "blendi-remade"
     },
     {
@@ -1484,7 +1469,7 @@
       "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
       "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
       "published_at": "2026-09-01T16:25:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "advice",
         "javascript",
@@ -1539,19 +1524,6 @@
       "user": "Jack Smith"
     },
     {
-      "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
-      "url": "https://stackoverflow.com/questions/79999665/how-can-i-prevent-duplicate-api-requests-when-multiple-react-components-need-the",
-      "published_at": "2026-08-31T16:08:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
-    },
-    {
       "title": "Why I can't import .ts file using express and typescript",
       "url": "https://stackoverflow.com/questions/79999639/why-i-cant-import-ts-file-using-express-and-typescript",
       "published_at": "2026-08-31T14:37:24.000Z",
@@ -1564,6 +1536,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alberto Benedetto"
+    },
+    {
+      "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
+      "url": "https://stackoverflow.com/questions/79999665/how-can-i-prevent-duplicate-api-requests-when-multiple-react-components-need-the",
+      "published_at": "2026-08-31T16:08:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
     },
     {
       "title": "How to accurately detect if our website is opened in mobile split-screen view?",
@@ -1791,7 +1776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6192,
+      "stars": 6335,
       "user": "sapientinc"
     },
     {
@@ -1806,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1357,
+      "stars": 1375,
       "user": "Nanako0129"
     },
     {
@@ -1821,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1140,
       "user": "damejan80"
     },
     {
@@ -1836,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 896,
       "user": "jprx"
     },
     {
@@ -1851,14 +1836,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 851,
       "user": "tradecatlabs"
     },
     {
       "title": "Why am I getting a 404 error with python anywhere?",
       "url": "https://stackoverflow.com/questions/80000043/why-am-i-getting-a-404-error-with-python-anywhere",
       "published_at": "2026-09-02T00:40:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "django",
@@ -1869,8 +1854,8 @@
       "user": "bmurray959"
     },
     {
-      "title": "Learning Python OOP with classes. The 2 line procedural testframe appears, but the class iframe does not",
-      "url": "https://stackoverflow.com/questions/79999993/learning-python-oop-with-classes-the-2-line-procedural-testframe-appears-but-t",
+      "title": "2 line procedural testframe appears, but the class iframe does not",
+      "url": "https://stackoverflow.com/questions/79999993/2-line-procedural-testframe-appears-but-the-class-iframe-does-not",
       "published_at": "2026-09-01T19:15:34.000Z",
       "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
@@ -1899,7 +1884,7 @@
       "title": "GStreamer later version seems to mis-identify the prepare-window-handle message",
       "url": "https://stackoverflow.com/questions/79999813/gstreamer-later-version-seems-to-mis-identify-the-prepare-window-handle-message",
       "published_at": "2026-09-01T07:32:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-3.x",
@@ -1908,19 +1893,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "paxdiablo"
-    },
-    {
-      "title": "How can i improve the readability and python style of certain problems?",
-      "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
-      "published_at": "2026-09-01T13:41:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "data-structures"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sai"
     },
     {
       "title": "Delete operation on frozendict",
@@ -1935,6 +1907,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "wensveen"
+    },
+    {
+      "title": "How can i improve the readability and python style of certain problems?",
+      "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
+      "published_at": "2026-09-01T13:41:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "data-structures"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "sai"
     },
     {
       "title": "Python script to download Barchart data is no longer working",
@@ -1965,6 +1950,22 @@
       "user": "Shmuelt"
     },
     {
+      "title": "Python match-case vs. dictionary performance internals",
+      "url": "https://stackoverflow.com/questions/79999095/python-match-case-vs-dictionary-performance-internals",
+      "published_at": "2026-08-28T23:09:53.000Z",
+      "description": "Stack Overflow question · 2 answers · score 11",
+      "tags": [
+        "python",
+        "performance",
+        "optimization",
+        "python-3.10",
+        "structural-pattern-matching"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lowchess"
+    },
+    {
       "title": "Visual Studio Code does not show descriptions of ManyToManyField set and clear",
       "url": "https://stackoverflow.com/questions/79999583/visual-studio-code-does-not-show-descriptions-of-manytomanyfield-set-and-clear",
       "published_at": "2026-08-31T10:51:23.000Z",
@@ -1979,18 +1980,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "IgorArnaut"
-    },
-    {
-      "title": "Python code to convert .tdms to .csv or .xlsx",
-      "url": "https://stackoverflow.com/questions/79999725/python-code-to-convert-tdms-to-csv-or-xlsx",
-      "published_at": "2026-08-31T20:04:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Salisbury"
     },
     {
       "title": "How to Build an AI File Analysis Agent with Python",
@@ -2246,7 +2235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "basketikun"
     }
   ],
@@ -2331,7 +2320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 197,
       "user": "mizorewww"
     },
     {
@@ -2542,7 +2531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 896,
       "user": "jprx"
     },
     {
@@ -2557,7 +2546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 657,
       "user": "Git-Agni"
     },
     {
@@ -2831,7 +2820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 185,
       "user": "Sac-Y"
     },
     {
@@ -2846,7 +2835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "useagenthq"
     }
   ],
@@ -3164,21 +3153,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Why AI Websites All Look the Same and How to Build Something Different",
-      "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan",
-      "published_at": "2026-08-29T01:38:54Z",
-      "description": "If you've built a website with AI recently, there is a good chance it looks familiar. Maybe you have...",
-      "tags": [
-        "ai",
-        "webdev",
-        "design",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F14u0rkyv2g9bzxrkv1wu.png",
-      "source": "Dev.to",
-      "user": "Mfonobong Umondia"
-    },
-    {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
       "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
       "published_at": "2026-08-23T20:09:04Z",
@@ -3320,6 +3294,21 @@
       "user": "pabs3"
     },
     {
+      "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "published_at": "2026-08-28T10:56:56Z",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
+      "source": "GitHub",
+      "stars": 430,
+      "user": "Player-YN"
+    },
+    {
       "title": "OnlyTerp/opengrok - Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
       "url": "https://github.com/OnlyTerp/opengrok",
       "published_at": "2026-08-27T18:30:44Z",
@@ -3331,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 410,
       "user": "OnlyTerp"
     },
     {
@@ -3346,29 +3335,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 328,
       "user": "subsy"
     },
     {
-      "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
-      "published_at": "2026-08-28T10:56:56Z",
-      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
-      "source": "GitHub",
-      "stars": 314,
-      "user": "Player-YN"
-    },
-    {
-      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
+      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
       "url": "https://github.com/rakanki911/DLSS5-Swapper",
       "published_at": "2026-08-29T23:51:32Z",
-      "description": "DLSS 5 Swapper A powerful, easy-to-use tool for installing and managing DLSS 5 across your games, with automatic game detection and support for DX12, DX11, and DX9 even bringing DLSS to compatible games without native DLSS support.",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
       "tags": [
         "javascript",
         "github",
@@ -3376,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 266,
       "user": "rakanki911"
     },
     {
@@ -3391,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 185,
       "user": "Sac-Y"
     },
     {
@@ -3406,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 6192,
+      "stars": 6335,
       "user": "sapientinc"
     },
     {
@@ -3421,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1357,
+      "stars": 1375,
       "user": "Nanako0129"
     },
     {
@@ -3436,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1140,
       "user": "damejan80"
     },
     {
@@ -3451,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 896,
       "user": "jprx"
     },
     {
@@ -3466,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 851,
       "user": "tradecatlabs"
     },
     {
@@ -3481,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 679,
       "user": "chrisgreg"
     },
     {
@@ -3496,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 81,
       "user": "tsouth89"
     },
     {
@@ -3526,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "basketikun"
     },
     {
@@ -3556,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2137,
+      "stars": 2174,
       "user": "XiaoDuoYa"
     },
     {
@@ -3571,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 657,
       "user": "Git-Agni"
     },
     {
@@ -3586,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 308,
       "user": "nateherkai"
     },
     {
@@ -3601,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "useagenthq"
     },
     {
@@ -3616,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 201,
       "user": "blendi-remade"
     },
     {
@@ -3631,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1597,
       "user": "crmne"
     },
     {
@@ -3646,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "JordyZomer"
     },
     {
@@ -3661,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 197,
       "user": "mizorewww"
     },
     {
@@ -3676,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 183,
       "user": "faisalkindi"
     },
     {
