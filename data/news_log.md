@@ -47930,3 +47930,995 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-09-03 13:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (67 articles)
+
+#### 1. [How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations](https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp)
+📅 Wed, 02 Sep 2026 16:35:00 GMT
+👤 By: Jan-Felix Schmakeit | 📌 Source: Dev.to
+
+![How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png)
+
+Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...
+
+🏷️ Tags: `ai`, `evals`, `testing`
+
+---
+
+#### 2. [What is harness engineering and why should I care?](https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0)
+📅 Wed, 02 Sep 2026 15:28:05 GMT
+👤 By: Shir Meir Lador | 📌 Source: Dev.to
+
+![What is harness engineering and why should I care?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz6prrbe2g8r5m1h79agh.gif)
+
+How do you ship a software product with 0 lines of manually-written code?  A friend...
+
+🏷️ Tags: `ai`, `agents`, `programming`, `softwareengineering`
+
+---
+
+#### 3. [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf)
+📅 Sun, 30 Aug 2026 16:46:00 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png)
+
+Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `statemanagement`
+
+---
+
+#### 4. [Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves](https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp)
+📅 Wed, 02 Sep 2026 01:29:20 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Friu20dupakdtr8g1gedn.png)
+
+Turning 29k home weather stations and Gemini AI agents into a 15-minute volcanic warning...
+
+---
+
+#### 5. [Claude Fable 5.1 is now available on Agent Platform!](https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16)
+📅 Tue, 01 Sep 2026 18:28:57 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Fable 5.1 is now available on Agent Platform!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png)
+
+Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...
+
+🏷️ Tags: `claude`, `googlecloud`, `developer`
+
+---
+
+#### 6. [Streamline Publishing with a Claude Code Skill](https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn)
+📅 Tue, 01 Sep 2026 14:37:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Streamline Publishing with a Claude Code Skill](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg)
+
+A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.
+
+🏷️ Tags: `claudecode`, `writing`, `devtools`, `ai`
+
+---
+
+#### 7. [Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't](https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3)
+📅 Tue, 01 Sep 2026 18:25:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg)
+
+vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.
+
+🏷️ Tags: `aws`, `machinelearning`, `benchmarking`, `python`
+
+---
+
+#### 8. [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l)
+📅 Thu, 27 Aug 2026 17:56:45 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png)
+
+Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 9. [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod)
+📅 Thu, 27 Aug 2026 15:00:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud A2A Agent Card Field Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg)
+
+Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...
+
+🏷️ Tags: `a2a`, `multicloud`, `ai`, `python`
+
+---
+
+#### 10. [Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc)
+📅 Tue, 01 Sep 2026 10:52:37 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png)
+
+In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...
+
+🏷️ Tags: `angular`, `gemma`, `firebase`, `webdev`
+
+---
+
+### 🏷️ JavaScript (33 articles)
+
+#### 1. [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf)
+📅 Sun, 30 Aug 2026 16:46:00 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png)
+
+Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `statemanagement`
+
+---
+
+#### 2. [Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc)
+📅 Tue, 01 Sep 2026 10:52:37 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png)
+
+In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...
+
+🏷️ Tags: `angular`, `gemma`, `firebase`, `webdev`
+
+---
+
+#### 3. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (29 articles)
+
+#### 1. [Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't](https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3)
+📅 Tue, 01 Sep 2026 18:25:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg)
+
+vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.
+
+🏷️ Tags: `aws`, `machinelearning`, `benchmarking`, `python`
+
+---
+
+#### 2. [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod)
+📅 Thu, 27 Aug 2026 15:00:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud A2A Agent Card Field Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg)
+
+Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...
+
+🏷️ Tags: `a2a`, `multicloud`, `ai`, `python`
+
+---
+
+#### 3. [Step up to the Sheets: AI Eval Export and Illustrating Data](https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak)
+📅 Tue, 01 Sep 2026 07:00:00 GMT
+👤 By: Katie McLaughlin | 📌 Source: Dev.to
+
+![Step up to the Sheets: AI Eval Export and Illustrating Data](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp)
+
+Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...
+
+🏷️ Tags: `ai`, `python`, `datascience`, `productivity`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (16 articles)
+
+#### 1. [Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo)
+📅 Fri, 28 Aug 2026 11:28:35 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftit6xe2xjosdrrja6dkc.png)
+
+Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.
+
+🏷️ Tags: `gubernator`, `docker`, `antigravity`, `orquestador`
+
+---
+
+#### 2. [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l)
+📅 Thu, 27 Aug 2026 17:56:45 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png)
+
+Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md)
+📅 Sat, 29 Aug 2026 18:57:42 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png)
+
+Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 4. [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2)
+📅 Sat, 29 Aug 2026 05:03:06 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png)
+
+Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 5. [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+📅 Tue, 25 Aug 2026 20:44:29 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png)
+
+Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 6. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (7 articles)
+
+#### 1. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 2. [mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.](https://github.com/mizorewww/course2md)
+📅 Mon, 31 Aug 2026 01:56:25 GMT
+👤 By: mizorewww | 📌 Source: GitHub
+
+![mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.](https://avatars.githubusercontent.com/u/252857002?v=4)
+
+Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 232
+
+---
+
+#### 3. [Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?](https://stackoverflow.com/questions/80000410/canvas-click-hit-testing-vs-devicepixelratio-scaling-why-doesnt-click-code-ne)
+📅 Thu, 03 Sep 2026 07:26:53 GMT
+👤 By: Arthur Davies | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 0
+
+🏷️ Tags: `javascript`, `css`, `canvas`, `html5-canvas`
+
+---
+
+#### 4. [How to capture original state of a container?](https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container)
+📅 Wed, 02 Sep 2026 14:24:56 GMT
+👤 By: Anto Abisheik J | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -3
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 5. [Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not](https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e)
+📅 Wed, 02 Sep 2026 14:16:16 GMT
+👤 By: Fengrong Han Bobb | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -3
+
+🏷️ Tags: `javascript`, `html`, `http-status-code-429`
+
+---
+
+#### 6. [Text alignment on a dynamically created HTML element via JavaScript not working](https://stackoverflow.com/questions/80000036/text-alignment-on-a-dynamically-created-html-element-via-javascript-not-working)
+📅 Tue, 01 Sep 2026 23:33:54 GMT
+👤 By: Nomad1004 | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 2
+
+🏷️ Tags: `javascript`, `html`, `text`, `dynamic`, `alignment`
+
+---
+
+#### 7. [Why You Should Never Send Emails Inside Your API Requests](https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/)
+📅 Tue, 01 Sep 2026 20:33:19 GMT
+👤 By: Chinedu Otutu | 📌 Source: freeCodeCamp
+
+Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio
+
+🏷️ Tags: `Node.js`, `api`, `backend`, `architecture`, `JavaScript`
+
+---
+
+### 🏷️ Mobile (8 articles)
+
+#### 1. [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf)
+📅 Sun, 30 Aug 2026 16:46:00 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png)
+
+Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `statemanagement`
+
+---
+
+#### 2. [Automate Flutter's New Split Package Migration with AI Agent Skills](https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2)
+📅 Mon, 31 Aug 2026 16:20:40 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Automate Flutter's New Split Package Migration with AI Agent Skills](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft27a6t77l888ompqg2y7.png)
+
+How to use dart-sdk-skills to empower your AI coding agent to seamlessly migrate Flutter projects to standalone material_ui and cupertino_ui packages.
+
+🏷️ Tags: `flutter`, `dart`, `ai`, `webdev`
+
+---
+
+#### 3. [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8)
+📅 Sun, 30 Aug 2026 01:27:54 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png)
+
+Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and Riverpod now operate as first-class bidirectional peers at the Grand Central State Terminal.
+
+🏷️ Tags: `flutter`, `dart`, `riverpod`, `architecture`
+
+---
+
+#### 4. [richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.](https://github.com/richiemcilroy/chippytea)
+📅 Mon, 31 Aug 2026 11:06:58 GMT
+👤 By: richiemcilroy | 📌 Source: GitHub
+
+![richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.](https://avatars.githubusercontent.com/u/33632126?v=4)
+
+A native Mac app for making space and earning your tea. SwiftUI + Rust.
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 191
+
+---
+
+#### 5. [How to get unix-specific python modules working easily on Windows?](https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows)
+📅 Wed, 02 Sep 2026 17:17:08 GMT
+👤 By: JaecadeJnight | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 0
+
+🏷️ Tags: `python`, `windows`, `pty`, `termios`
+
+---
+
+#### 6. [TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)
+📅 Wed, 02 Sep 2026 22:24:09 GMT
+👤 By: TechCrunch Events | 📌 Source: TechCrunch
+
+On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
+
+🏷️ Tags: `AI`, `Colossal Biosciences`, `nvidia`, `TechCrunch Disrupt`
+
+---
+
+#### 7. [Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features](https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/)
+📅 Tue, 01 Sep 2026 22:42:18 GMT
+👤 By: Oluwaseyi Fatunmole | 📌 Source: freeCodeCamp
+
+As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t
+
+🏷️ Tags: `engineering-management`, `software development`, `DDD`, `#Domain-Driven-Design`, `Clean Architecture`
+
+---
+
+#### 8. [How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide](https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/)
+📅 Tue, 01 Sep 2026 15:46:00 GMT
+👤 By: Vamsi Vaddavalli | 📌 Source: freeCodeCamp
+
+Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,
+
+🏷️ Tags: `Android`, `android app development`, `Accessibility`, `Jetpack Compose`, `Kotlin`
+
+---
+
+### 🏷️ Cloud (12 articles)
+
+#### 1. [Claude Fable 5.1 is now available on Agent Platform!](https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16)
+📅 Tue, 01 Sep 2026 18:28:57 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Fable 5.1 is now available on Agent Platform!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png)
+
+Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...
+
+🏷️ Tags: `claude`, `googlecloud`, `developer`
+
+---
+
+#### 2. [Streamline Publishing with a Claude Code Skill](https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn)
+📅 Tue, 01 Sep 2026 14:37:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Streamline Publishing with a Claude Code Skill](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg)
+
+A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.
+
+🏷️ Tags: `claudecode`, `writing`, `devtools`, `ai`
+
+---
+
+#### 3. [Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't](https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3)
+📅 Tue, 01 Sep 2026 18:25:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg)
+
+vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.
+
+🏷️ Tags: `aws`, `machinelearning`, `benchmarking`, `python`
+
+---
+
+#### 4. [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l)
+📅 Thu, 27 Aug 2026 17:56:45 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png)
+
+Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 5. [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod)
+📅 Thu, 27 Aug 2026 15:00:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud A2A Agent Card Field Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg)
+
+Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...
+
+🏷️ Tags: `a2a`, `multicloud`, `ai`, `python`
+
+---
+
+#### 6. [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md)
+📅 Sat, 29 Aug 2026 18:57:42 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png)
+
+Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 7. [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2)
+📅 Sat, 29 Aug 2026 05:03:06 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png)
+
+Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 8. [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9)
+📅 Tue, 25 Aug 2026 03:18:30 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gajwucxkidvoba2xphx.png)
+
+Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...
+
+🏷️ Tags: `ai`, `gcp`, `neo4j`, `mcp`
+
+---
+
+#### 9. [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
+📅 Sun, 23 Aug 2026 20:12:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: One Agent, Three Clouds, One Protocol](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png)
+
+The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Container Apps — all speaking A2A v1.0. Where the platforms differ, where the models differ, and what has to be held constant before either is readable.
+
+🏷️ Tags: `a2a`, `aiagents`, `aws`, `azure`
+
+---
+
+#### 10. [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+📅 Tue, 25 Aug 2026 20:44:29 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png)
+
+Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [Canonical way to select data in SQLAlchemy](https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy)
+📅 Wed, 02 Sep 2026 15:49:13 GMT
+👤 By: John Gordon | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 2
+
+🏷️ Tags: `best-practices`, `python`, `sqlalchemy`
+
+---
+
+### 🏷️ Security (15 articles)
+
+#### 1. [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+📅 Tue, 25 Aug 2026 20:44:29 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png)
+
+Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 4. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Google Security Team Member on NSA: "Fuck These Guys"](https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k)
+📅 Wed, 06 Nov 2013 04:51:41 GMT
+👤 By: cdvonstinkpot | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (35 articles)
+
+#### 1. [How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations](https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp)
+📅 Wed, 02 Sep 2026 16:35:00 GMT
+👤 By: Jan-Felix Schmakeit | 📌 Source: Dev.to
+
+![How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png)
+
+Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...
+
+🏷️ Tags: `ai`, `evals`, `testing`
+
+---
+
+#### 2. [Streamline Publishing with a Claude Code Skill](https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn)
+📅 Tue, 01 Sep 2026 14:37:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Streamline Publishing with a Claude Code Skill](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg)
+
+A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.
+
+🏷️ Tags: `claudecode`, `writing`, `devtools`, `ai`
+
+---
+
+#### 3. [Step up to the Sheets: AI Eval Export and Illustrating Data](https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak)
+📅 Tue, 01 Sep 2026 07:00:00 GMT
+👤 By: Katie McLaughlin | 📌 Source: Dev.to
+
+![Step up to the Sheets: AI Eval Export and Illustrating Data](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp)
+
+Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...
+
+🏷️ Tags: `ai`, `python`, `datascience`, `productivity`
+
+---
+
+#### 4. [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)
+📅 Tue, 25 Aug 2026 13:36:11 GMT
+👤 By: Ashley Childress | 📌 Source: Dev.to
+
+![What Do You Do While AI Codes?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png)
+
+AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one "quick" habit that makes you the bottleneck.
+
+🏷️ Tags: `discuss`, `ai`, `productivity`, `devex`
+
+---
+
+#### 5. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.](https://github.com/rakanki911/DLSS5-Swapper)
+📅 Sat, 29 Aug 2026 23:51:32 GMT
+👤 By: rakanki911 | 📌 Source: GitHub
+
+![rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.](https://avatars.githubusercontent.com/u/199753947?v=4)
+
+DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 809
+
+---
+
+#### 9. [Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.](https://github.com/Player-YN/PawWork_ZhuaZhua)
+📅 Fri, 28 Aug 2026 10:56:56 GMT
+👤 By: Player-YN | 📌 Source: GitHub
+
+![Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.](https://avatars.githubusercontent.com/u/293915860?v=4)
+
+Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 663
+
+---
+
+#### 10. [subsy/skill-cabinet - GitHub Repository](https://github.com/subsy/skill-cabinet)
+📅 Mon, 31 Aug 2026 12:17:01 GMT
+👤 By: subsy | 📌 Source: GitHub
+
+![subsy/skill-cabinet - GitHub Repository](https://avatars.githubusercontent.com/u/7700461?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 374
+
+---
+
