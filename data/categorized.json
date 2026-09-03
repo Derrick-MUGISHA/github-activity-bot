@@ -45,30 +45,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
-      "url": "https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp",
-      "published_at": "2026-09-02T01:29:20Z",
-      "description": "Turning 29k home weather stations and Gemini AI agents into a 15-minute volcanic warning...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Friu20dupakdtr8g1gedn.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
-      "published_at": "2026-09-01T18:28:57Z",
-      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "tags": [
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Streamline Publishing with a Claude Code Skill",
       "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
       "published_at": "2026-09-01T14:37:08Z",
@@ -159,6 +135,16 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
+      "url": "https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp",
+      "published_at": "2026-09-02T01:29:20Z",
+      "description": "Turning 29k home weather stations and Gemini AI agents into a 15-minute volcanic warning...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Friu20dupakdtr8g1gedn.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "How to Design AI Evaluations You Can Actually Trust",
       "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
       "published_at": "2026-09-01T16:35:00Z",
@@ -215,6 +201,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
+      "published_at": "2026-09-01T18:28:57Z",
+      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "tags": [
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
@@ -500,7 +500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 275,
       "user": "TetreesEX"
     },
     {
@@ -515,7 +515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1749,
+      "stars": 1815,
       "user": "Nanako0129"
     },
     {
@@ -530,7 +530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1302,
       "user": "anthropics"
     },
     {
@@ -545,7 +545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 993,
       "user": "GangTailorUpgrade"
     },
     {
@@ -560,7 +560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 700,
       "user": "2akouwu"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2355,
       "user": "XiaoDuoYa"
     },
     {
@@ -605,23 +605,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 844,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 277,
-      "user": "useagenthq"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -635,8 +620,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 306,
       "user": "lnkiai"
+    },
+    {
+      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "url": "https://github.com/useagenthq/useagent",
+      "published_at": "2026-08-29T21:14:31Z",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "useagenthq"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -650,7 +650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 305,
       "user": "faisalkindi"
     },
     {
@@ -665,20 +665,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 168,
       "user": "daffainfo"
-    },
-    {
-      "title": "The holy grail of nixpkgs: version ranges",
-      "url": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
-      "published_at": "2026-09-02T14:22:37.305-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "nix"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "diktomat"
     },
     {
       "title": "How to capture original state of a container?",
@@ -708,20 +696,47 @@
       "user": "Muhammad"
     },
     {
-      "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
-      "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
-      "published_at": "2026-09-01T16:25:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Google&#8217;s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "published_at": "2026-09-03T15:00:00.000Z",
+      "description": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learni",
       "tags": [
-        "advice",
-        "javascript",
-        "node.js",
-        "debugging",
-        "stack-trace"
+        "AI"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kauddoc"
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "published_at": "2026-09-03T12:42:45.000Z",
+      "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "tags": [
+        "AI",
+        "Hugging Face",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Amazon&#8217;s Zoox expands its robotaxi service to Las Vegas airport",
+      "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "published_at": "2026-09-03T12:12:56.000Z",
+      "description": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
+      "tags": [
+        "Transportation",
+        "autonomous ride-hail",
+        "autonomous vehicles",
+        "robotaxis",
+        "zoox"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
@@ -797,54 +812,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "It sure looks like hackers breached a major ID card verification service",
-      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-      "published_at": "2026-09-02T19:35:09.000Z",
-      "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
-      "tags": [
-        "Security",
-        "age verification",
-        "cybersecurity",
-        "data breach",
-        "identity theft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "published_at": "2026-09-02T17:18:13.000Z",
-      "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
-      "tags": [
-        "AI",
-        "Startups",
-        "AI detection",
-        "Equity Video",
-        "Substack"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "X shifts US creator payouts from Stripe to X Money",
-      "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-      "published_at": "2026-09-02T17:12:27.000Z",
-      "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Social",
-        "Creators",
-        "payments"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
@@ -1116,7 +1083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 893,
       "user": "rakanki911"
     },
     {
@@ -1146,7 +1113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 378,
       "user": "subsy"
     },
     {
@@ -1161,7 +1128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 325,
       "user": "PhiloLabs"
     },
     {
@@ -1176,7 +1143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 275,
       "user": "TetreesEX"
     },
     {
@@ -1191,7 +1158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2355,
       "user": "XiaoDuoYa"
     },
     {
@@ -1206,23 +1173,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 844,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 277,
-      "user": "useagenthq"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1236,8 +1188,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 306,
       "user": "lnkiai"
+    },
+    {
+      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "url": "https://github.com/useagenthq/useagent",
+      "published_at": "2026-08-29T21:14:31Z",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "useagenthq"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -1251,7 +1218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 225,
       "user": "blendi-remade"
     },
     {
@@ -1260,7 +1227,6 @@
       "published_at": "2026-09-03T10:37:04.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "advice",
         "javascript"
       ],
       "cover_image": null,
@@ -1271,7 +1237,7 @@
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
       "url": "https://stackoverflow.com/questions/80000410/canvas-click-hit-testing-vs-devicepixelratio-scaling-why-doesnt-click-code-ne",
       "published_at": "2026-09-03T07:26:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "css",
@@ -1342,6 +1308,20 @@
       "user": "Nomad1004"
     },
     {
+      "title": "Switch to minimize some icons on page",
+      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
+      "published_at": "2026-08-31T13:42:04.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Visitor"
+    },
+    {
       "title": "Why does my React component fetch data again when I navigate back to the page?",
       "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
       "published_at": "2026-09-02T10:05:09.000Z",
@@ -1380,22 +1360,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jack Smith"
-    },
-    {
-      "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
-      "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
-      "published_at": "2026-09-01T16:25:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "advice",
-        "javascript",
-        "node.js",
-        "debugging",
-        "stack-trace"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kauddoc"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -1592,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1749,
+      "stars": 1815,
       "user": "Nanako0129"
     },
     {
@@ -1607,7 +1571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1302,
       "user": "anthropics"
     },
     {
@@ -1622,7 +1586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 993,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1637,7 +1601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 700,
       "user": "2akouwu"
     },
     {
@@ -1652,14 +1616,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217579079?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 411,
       "user": "fanhao375"
+    },
+    {
+      "title": "Opened .txt file seems to be empty after a for in function",
+      "url": "https://stackoverflow.com/questions/80000505/opened-txt-file-seems-to-be-empty-after-a-for-in-function",
+      "published_at": "2026-09-03T12:58:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "string",
+        "for-loop",
+        "empty-list"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tommaso Bartalesi"
     },
     {
       "title": "How can I make numpy arrays the same shape before doing conditional computations?",
       "url": "https://stackoverflow.com/questions/80000438/how-can-i-make-numpy-arrays-the-same-shape-before-doing-conditional-computations",
       "published_at": "2026-09-03T09:01:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "numpy",
@@ -1674,7 +1653,7 @@
       "title": "How can I test Stack Overflow API write operations?",
       "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
       "published_at": "2026-09-03T08:10:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "advice",
         "python"
@@ -1687,7 +1666,7 @@
       "title": "How to call a Python script from Octave using system()",
       "url": "https://stackoverflow.com/questions/80000342/how-to-call-a-python-script-from-octave-using-system",
       "published_at": "2026-09-02T23:06:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "octave"
@@ -1724,19 +1703,18 @@
       "user": "Joshua White"
     },
     {
-      "title": "Python asyncio raw TCP server on Fly.io drops external client connections while internal health checks pass",
-      "url": "https://stackoverflow.com/questions/80000328/python-asyncio-raw-tcp-server-on-fly-io-drops-external-client-connections-while",
-      "published_at": "2026-09-02T21:33:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How to make a Toplevel window over a Tk window in Python Tkinter?",
+      "url": "https://stackoverflow.com/questions/80000254/how-to-make-a-toplevel-window-over-a-tk-window-in-python-tkinter",
+      "published_at": "2026-09-02T15:35:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
-        "network-programming",
-        "tcp",
-        "python-asyncio"
+        "tkinter",
+        "toplevel"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "CARTOON WORLD"
+      "user": "Zeubollisk Wu"
     },
     {
       "title": "How do I design a multi-purpose event handler without making it generic?",
@@ -1753,18 +1731,19 @@
       "user": "iamthebull"
     },
     {
-      "title": "How to make a Toplevel window over a Tk window in Python Tkinter?",
-      "url": "https://stackoverflow.com/questions/80000254/how-to-make-a-toplevel-window-over-a-tk-window-in-python-tkinter",
-      "published_at": "2026-09-02T15:35:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "title": "Python asyncio raw TCP server on Fly.io drops external client connections while internal health checks pass",
+      "url": "https://stackoverflow.com/questions/80000328/python-asyncio-raw-tcp-server-on-fly-io-drops-external-client-connections-while",
+      "published_at": "2026-09-02T21:33:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
-        "tkinter",
-        "toplevel"
+        "network-programming",
+        "tcp",
+        "python-asyncio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
+      "user": "CARTOON WORLD"
     },
     {
       "title": "How to get unix-specific python modules working easily on Windows?",
@@ -1780,22 +1759,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JaecadeJnight"
-    },
-    {
-      "title": "Pygames and coins",
-      "url": "https://stackoverflow.com/questions/80000310/pygames-and-coins",
-      "published_at": "2026-09-02T19:46:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "pygame",
-        "game-development",
-        "pygame-surface",
-        "flappy-bird-clone"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hannia"
     },
     {
       "title": "How to Build an AI File Analysis Agent with Python",
@@ -2051,14 +2014,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 238,
       "user": "mizorewww"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
       "url": "https://stackoverflow.com/questions/80000410/canvas-click-hit-testing-vs-devicepixelratio-scaling-why-doesnt-click-code-ne",
       "published_at": "2026-09-03T07:26:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "css",
@@ -2112,6 +2075,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nomad1004"
+    },
+    {
+      "title": "Switch to minimize some icons on page",
+      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
+      "published_at": "2026-08-31T13:42:04.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Visitor"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -2188,7 +2165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 192,
       "user": "richiemcilroy"
     },
     {
@@ -2256,20 +2233,6 @@
   ],
   "Cloud": [
     {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
-      "published_at": "2026-09-01T18:28:57Z",
-      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "tags": [
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Streamline Publishing with a Claude Code Skill",
       "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
       "published_at": "2026-09-01T14:37:08Z",
@@ -2328,6 +2291,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
+      "published_at": "2026-09-01T18:28:57Z",
+      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "tags": [
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
@@ -2431,7 +2408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 278,
       "user": "useagenthq"
     }
   ],
@@ -2624,22 +2601,6 @@
       "user": "df"
     },
     {
-      "title": "It sure looks like hackers breached a major ID card verification service",
-      "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-      "published_at": "2026-09-02T19:35:09.000Z",
-      "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
-      "tags": [
-        "Security",
-        "age verification",
-        "cybersecurity",
-        "data breach",
-        "identity theft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Protect Your Privacy While Browsing the Web",
       "url": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
       "published_at": "2026-09-01T15:48:48.000Z",
@@ -2762,7 +2723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 893,
       "user": "rakanki911"
     },
     {
@@ -2792,7 +2753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 378,
       "user": "subsy"
     },
     {
@@ -2807,7 +2768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 325,
       "user": "PhiloLabs"
     },
     {
@@ -2822,7 +2783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 275,
       "user": "TetreesEX"
     },
     {
@@ -2837,7 +2798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1749,
+      "stars": 1815,
       "user": "Nanako0129"
     },
     {
@@ -2852,7 +2813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1302,
       "user": "anthropics"
     },
     {
@@ -2867,7 +2828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 993,
       "user": "GangTailorUpgrade"
     },
     {
@@ -2882,7 +2843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 700,
       "user": "2akouwu"
     },
     {
@@ -2897,7 +2858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217579079?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 411,
       "user": "fanhao375"
     },
     {
@@ -2912,7 +2873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 695,
       "user": "chrisgreg"
     },
     {
@@ -2927,8 +2888,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 96,
       "user": "tsouth89"
+    },
+    {
+      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
+      "url": "https://github.com/pgrundev/pgbook",
+      "published_at": "2026-09-02T16:55:32Z",
+      "description": "Postgres Book, one topic at a time.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 56,
+      "user": "pgrundev"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -2944,21 +2920,6 @@
       "source": "GitHub",
       "stars": 52,
       "user": "basketikun"
-    },
-    {
-      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
-      "url": "https://github.com/pgrundev/pgbook",
-      "published_at": "2026-09-02T16:55:32Z",
-      "description": "Postgres Book, one topic at a time.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 50,
-      "user": "pgrundev"
     },
     {
       "title": "ih8d8/yt-dlp-manager - Self-hosted yt-dlp download manager: web UI, TUI and CLI over one shared queue. Single Go binary.",
@@ -2987,7 +2948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2355,
       "user": "XiaoDuoYa"
     },
     {
@@ -3002,23 +2963,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 844,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 277,
-      "user": "useagenthq"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -3032,8 +2978,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 306,
       "user": "lnkiai"
+    },
+    {
+      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "url": "https://github.com/useagenthq/useagent",
+      "published_at": "2026-08-29T21:14:31Z",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "useagenthq"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -3047,7 +3008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 225,
       "user": "blendi-remade"
     },
     {
@@ -3062,7 +3023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 305,
       "user": "faisalkindi"
     },
     {
@@ -3077,7 +3038,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 238,
       "user": "mizorewww"
     },
     {
@@ -3092,7 +3053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 192,
       "user": "richiemcilroy"
     },
     {
@@ -3107,7 +3068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17118095?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 175,
       "user": "lgse"
     },
     {
@@ -3122,14 +3083,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 168,
       "user": "daffainfo"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
       "url": "https://stackoverflow.com/questions/80000410/canvas-click-hit-testing-vs-devicepixelratio-scaling-why-doesnt-click-code-ne",
       "published_at": "2026-09-03T07:26:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "css",
