@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "What is harness engineering and why should I care?",
       "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
       "published_at": "2026-09-02T15:28:05Z",
@@ -43,21 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
       "source": "Dev.to",
       "user": "Jan-Felix Schmakeit"
-    },
-    {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
-      "published_at": "2026-09-01T18:25:48Z",
-      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
-      "tags": [
-        "aws",
-        "machinelearning",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
@@ -126,6 +96,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
       "source": "Dev.to",
       "user": "James O'Reilly"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
+      "published_at": "2026-09-01T18:25:48Z",
+      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "tags": [
+        "aws",
+        "machinelearning",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1552,
+      "stars": 1584,
       "user": "Nanako0129"
     },
     {
@@ -737,8 +737,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 933,
       "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "url": "https://github.com/2akouwu/reverify",
+      "published_at": "2026-08-31T01:02:18Z",
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
+      "source": "GitHub",
+      "stars": 584,
+      "user": "2akouwu"
+    },
+    {
+      "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "published_at": "2026-09-01T12:30:12Z",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "source": "GitHub",
+      "stars": 380,
+      "user": "anthropics"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -752,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 47,
       "user": "basketikun"
     },
     {
@@ -767,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2276,
       "user": "XiaoDuoYa"
     },
     {
@@ -782,23 +812,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 565,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
-      "url": "https://github.com/nateherkai/snagtime",
-      "published_at": "2026-08-27T21:43:06Z",
-      "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "nateherkai"
     },
     {
       "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
@@ -816,21 +831,6 @@
       "user": "useagenthq"
     },
     {
-      "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-      "url": "https://github.com/JordyZomer/lemmalog",
-      "published_at": "2026-08-27T07:06:55Z",
-      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "JordyZomer"
-    },
-    {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
       "url": "https://github.com/faisalkindi/DLSS5oneclick",
       "published_at": "2026-08-31T02:12:29Z",
@@ -842,8 +842,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 260,
       "user": "faisalkindi"
+    },
+    {
+      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
+      "url": "https://github.com/daffainfo/vol-rs",
+      "published_at": "2026-08-30T04:35:19Z",
+      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "daffainfo"
     },
     {
       "title": "The holy grail of nixpkgs: version ranges",
@@ -899,22 +914,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kauddoc"
-    },
-    {
-      "title": "How to maintain session and authenticate for university portal API with Python requests?",
-      "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
-      "published_at": "2026-09-02T14:28:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "authentication",
-        "web-scraping",
-        "cookies",
-        "python-requests"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Arshia Shariati"
     },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
@@ -1384,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 608,
       "user": "rakanki911"
     },
     {
@@ -1399,23 +1398,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 522,
       "user": "Player-YN"
-    },
-    {
-      "title": "OnlyTerp/opengrok - Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "url": "https://github.com/OnlyTerp/opengrok",
-      "published_at": "2026-08-27T18:30:44Z",
-      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
-      "source": "GitHub",
-      "stars": 416,
-      "user": "OnlyTerp"
     },
     {
       "title": "subsy/skill-cabinet - GitHub Repository",
@@ -1429,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 362,
       "user": "subsy"
     },
     {
@@ -1448,6 +1432,21 @@
       "user": "TetreesEX"
     },
     {
+      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
+      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
+      "published_at": "2026-08-29T12:59:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "source": "GitHub",
+      "stars": 185,
+      "user": "Sac-Y"
+    },
+    {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "published_at": "2026-08-28T12:57:24Z",
@@ -1459,23 +1458,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2276,
       "user": "XiaoDuoYa"
-    },
-    {
-      "title": "Git-Agni/prod-FARM-IOS-Core - A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
-      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
-      "published_at": "2026-08-27T04:55:36Z",
-      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
-      "source": "GitHub",
-      "stars": 764,
-      "user": "Git-Agni"
     },
     {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
@@ -1489,23 +1473,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 565,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
-      "url": "https://github.com/nateherkai/snagtime",
-      "published_at": "2026-08-27T21:43:06Z",
-      "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "nateherkai"
     },
     {
       "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
@@ -1521,6 +1490,36 @@
       "source": "GitHub",
       "stars": 274,
       "user": "useagenthq"
+    },
+    {
+      "title": "blendi-remade/interdimensional-game - GitHub Repository",
+      "url": "https://github.com/blendi-remade/interdimensional-game",
+      "published_at": "2026-08-31T06:13:54Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "source": "GitHub",
+      "stars": 212,
+      "user": "blendi-remade"
+    },
+    {
+      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
+      "published_at": "2026-09-01T11:04:18Z",
+      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
+      "source": "GitHub",
+      "stars": 172,
+      "user": "mahdidavoodi7"
     },
     {
       "title": "How to capture original state of a container?",
@@ -1607,6 +1606,21 @@
       "user": "Koolaid222"
     },
     {
+      "title": "How can I detect that an integer literal will lose precision in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
+      "published_at": "2026-08-31T13:33:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "json",
+        "floating-point",
+        "precision"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jack Smith"
+    },
+    {
       "title": "How can I trace the root cause of a Node.js error when the stack trace only shows the final failure?",
       "url": "https://stackoverflow.com/questions/79999951/how-can-i-trace-the-root-cause-of-a-node-js-error-when-the-stack-trace-only-show",
       "published_at": "2026-09-01T16:25:14.000Z",
@@ -1621,21 +1635,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kauddoc"
-    },
-    {
-      "title": "How can I detect that an integer literal will lose precision in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
-      "published_at": "2026-08-31T13:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "json",
-        "floating-point",
-        "precision"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jack Smith"
     },
     {
       "title": "How can I quickly identify the font used on a webpage using JavaScript?",
@@ -1880,21 +1879,6 @@
       "user": "arathore"
     },
     {
-      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "published_at": "2026-08-27T14:20:58Z",
-      "description": "Autonomous research system for measurable, computer-executable research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
-      "source": "GitHub",
-      "stars": 6677,
-      "user": "sapientinc"
-    },
-    {
       "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "published_at": "2026-08-28T05:56:49Z",
@@ -1906,38 +1890,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1552,
+      "stars": 1584,
       "user": "Nanako0129"
-    },
-    {
-      "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "url": "https://github.com/damejan80/tokentab",
-      "published_at": "2026-08-27T14:16:09Z",
-      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
-      "source": "GitHub",
-      "stars": 1144,
-      "user": "damejan80"
-    },
-    {
-      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "url": "https://github.com/jprx/darwin-vm",
-      "published_at": "2026-08-27T22:24:31Z",
-      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
-      "source": "GitHub",
-      "stars": 949,
-      "user": "jprx"
     },
     {
       "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
@@ -1951,8 +1905,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 933,
       "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "url": "https://github.com/2akouwu/reverify",
+      "published_at": "2026-08-31T01:02:18Z",
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
+      "source": "GitHub",
+      "stars": 584,
+      "user": "2akouwu"
+    },
+    {
+      "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "published_at": "2026-09-01T12:30:12Z",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "source": "GitHub",
+      "stars": 380,
+      "user": "anthropics"
+    },
+    {
+      "title": "fanhao375/microduck-replica - Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+      "url": "https://github.com/fanhao375/microduck-replica",
+      "published_at": "2026-08-28T13:42:48Z",
+      "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/217579079?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "fanhao375"
+    },
+    {
+      "title": "How to call a Python script from Octave using system()",
+      "url": "https://stackoverflow.com/questions/80000342/how-to-call-a-python-script-from-octave-using-system",
+      "published_at": "2026-09-02T23:06:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "octave"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "babelproofreader"
     },
     {
       "title": "In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",
@@ -1971,7 +1983,7 @@
       "title": "Python asyncio raw TCP server on Fly.io drops external client connections while internal health checks pass",
       "url": "https://stackoverflow.com/questions/80000328/python-asyncio-raw-tcp-server-on-fly-io-drops-external-client-connections-while",
       "published_at": "2026-09-02T21:33:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "network-programming",
@@ -2000,7 +2012,7 @@
       "title": "Pygames and coins",
       "url": "https://stackoverflow.com/questions/80000310/pygames-and-coins",
       "published_at": "2026-09-02T19:46:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "pygame",
@@ -2011,21 +2023,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hannia"
-    },
-    {
-      "title": "How to get unix-specific python modules working easily on Windows?",
-      "url": "https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows",
-      "published_at": "2026-09-02T17:17:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "windows",
-        "pty",
-        "termios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JaecadeJnight"
     },
     {
       "title": "Canonical way to select data in SQLAlchemy",
@@ -2056,6 +2053,21 @@
       "user": "Zeubollisk Wu"
     },
     {
+      "title": "How to get unix-specific python modules working easily on Windows?",
+      "url": "https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows",
+      "published_at": "2026-09-02T17:17:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "windows",
+        "pty",
+        "termios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JaecadeJnight"
+    },
+    {
       "title": "Creating Presentations with Python: OpenOffice Impress Compatibility",
       "url": "https://stackoverflow.com/questions/80000263/creating-presentations-with-python-openoffice-impress-compatibility",
       "published_at": "2026-09-02T16:30:54.000Z",
@@ -2075,7 +2087,7 @@
       "title": "Loading lugh/ClinicalT5-base",
       "url": "https://stackoverflow.com/questions/80000246/loading-lugh-clinicalt5-base",
       "published_at": "2026-09-02T15:16:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "huggingface-transformers"
@@ -2083,22 +2095,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ace-of-spades"
-    },
-    {
-      "title": "How to maintain session and authenticate for university portal API with Python requests?",
-      "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
-      "published_at": "2026-09-02T14:28:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "authentication",
-        "web-scraping",
-        "cookies",
-        "python-requests"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Arshia Shariati"
     },
     {
       "title": "How to Build an AI File Analysis Agent with Python",
@@ -2354,7 +2350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 47,
       "user": "basketikun"
     }
   ],
@@ -2424,7 +2420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "mizorewww"
     },
     {
@@ -2624,34 +2620,19 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "url": "https://github.com/jprx/darwin-vm",
-      "published_at": "2026-08-27T22:24:31Z",
-      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
-      "source": "GitHub",
-      "stars": 949,
-      "user": "jprx"
-    },
-    {
-      "title": "Git-Agni/prod-FARM-IOS-Core - A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
-      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
-      "published_at": "2026-08-27T04:55:36Z",
-      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
+      "published_at": "2026-09-01T11:04:18Z",
+      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
       "source": "GitHub",
-      "stars": 764,
-      "user": "Git-Agni"
+      "stars": 172,
+      "user": "mahdidavoodi7"
     },
     {
       "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
@@ -2733,6 +2714,20 @@
   ],
   "Cloud": [
     {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
+      "published_at": "2026-09-01T18:28:57Z",
+      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "tags": [
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Streamline Publishing with a Claude Code Skill",
       "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
       "published_at": "2026-09-01T14:37:08Z",
@@ -2761,20 +2756,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
-      "published_at": "2026-09-01T18:28:57Z",
-      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "tags": [
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2927,6 +2908,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
+      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
+      "published_at": "2026-08-29T12:59:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "source": "GitHub",
+      "stars": 185,
+      "user": "Sac-Y"
+    },
+    {
       "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
       "url": "https://github.com/useagenthq/useagent",
       "published_at": "2026-08-29T21:14:31Z",
@@ -2968,21 +2964,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "John Gordon"
-    },
-    {
-      "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
-      "url": "https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/",
-      "published_at": "2026-08-31T21:57:59.000Z",
-      "description": "Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf",
-      "tags": [
-        "firestore",
-        "NoSQL",
-        "crud",
-        "database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Caleb Mintoumba"
     }
   ],
   "Security": [
@@ -3178,22 +3159,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "How to maintain session and authenticate for university portal API with Python requests?",
-      "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
-      "published_at": "2026-09-02T14:28:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "authentication",
-        "web-scraping",
-        "cookies",
-        "python-requests"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Arshia Shariati"
-    },
-    {
       "title": "It sure looks like hackers breached a major ID card verification service",
       "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
       "published_at": "2026-09-02T19:35:09.000Z",
@@ -3226,6 +3191,20 @@
   ],
   "Tools": [
     {
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+      "published_at": "2026-09-02T16:35:00Z",
+      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "tags": [
+        "ai",
+        "evals",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
+    },
+    {
       "title": "Streamline Publishing with a Claude Code Skill",
       "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
       "published_at": "2026-09-01T14:37:08Z",
@@ -3239,20 +3218,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "published_at": "2026-09-02T16:35:00Z",
-      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "tags": [
-        "ai",
-        "evals",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -3407,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 608,
       "user": "rakanki911"
     },
     {
@@ -3422,23 +3387,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 522,
       "user": "Player-YN"
-    },
-    {
-      "title": "OnlyTerp/opengrok - Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "url": "https://github.com/OnlyTerp/opengrok",
-      "published_at": "2026-08-27T18:30:44Z",
-      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
-      "source": "GitHub",
-      "stars": 416,
-      "user": "OnlyTerp"
     },
     {
       "title": "subsy/skill-cabinet - GitHub Repository",
@@ -3452,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 362,
       "user": "subsy"
     },
     {
@@ -3471,19 +3421,19 @@
       "user": "TetreesEX"
     },
     {
-      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "published_at": "2026-08-27T14:20:58Z",
-      "description": "Autonomous research system for measurable, computer-executable research.",
+      "title": "Sac-Y/MiniMax-H3-Cloud - GitHub Repository",
+      "url": "https://github.com/Sac-Y/MiniMax-H3-Cloud",
+      "published_at": "2026-08-29T12:59:43Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 6677,
-      "user": "sapientinc"
+      "stars": 185,
+      "user": "Sac-Y"
     },
     {
       "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
@@ -3497,38 +3447,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1552,
+      "stars": 1584,
       "user": "Nanako0129"
-    },
-    {
-      "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "url": "https://github.com/damejan80/tokentab",
-      "published_at": "2026-08-27T14:16:09Z",
-      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15242181?v=4",
-      "source": "GitHub",
-      "stars": 1144,
-      "user": "damejan80"
-    },
-    {
-      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "url": "https://github.com/jprx/darwin-vm",
-      "published_at": "2026-08-27T22:24:31Z",
-      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
-      "source": "GitHub",
-      "stars": 949,
-      "user": "jprx"
     },
     {
       "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
@@ -3542,8 +3462,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 933,
       "user": "GangTailorUpgrade"
+    },
+    {
+      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "url": "https://github.com/2akouwu/reverify",
+      "published_at": "2026-08-31T01:02:18Z",
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
+      "source": "GitHub",
+      "stars": 584,
+      "user": "2akouwu"
+    },
+    {
+      "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "published_at": "2026-09-01T12:30:12Z",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "source": "GitHub",
+      "stars": 380,
+      "user": "anthropics"
+    },
+    {
+      "title": "fanhao375/microduck-replica - Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+      "url": "https://github.com/fanhao375/microduck-replica",
+      "published_at": "2026-08-28T13:42:48Z",
+      "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/217579079?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "fanhao375"
     },
     {
       "title": "chrisgreg/boop - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
@@ -3557,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 687,
       "user": "chrisgreg"
     },
     {
@@ -3576,6 +3541,21 @@
       "user": "tsouth89"
     },
     {
+      "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
+      "url": "https://github.com/basketikun/claude2api",
+      "published_at": "2026-08-31T13:25:40Z",
+      "description": " Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "basketikun"
+    },
+    {
       "title": "ih8d8/yt-dlp-manager - Self-hosted yt-dlp download manager: web UI, TUI and CLI over one shared queue. Single Go binary.",
       "url": "https://github.com/ih8d8/yt-dlp-manager",
       "published_at": "2026-08-30T05:35:51Z",
@@ -3589,21 +3569,6 @@
       "source": "GitHub",
       "stars": 46,
       "user": "ih8d8"
-    },
-    {
-      "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
-      "url": "https://github.com/basketikun/claude2api",
-      "published_at": "2026-08-31T13:25:40Z",
-      "description": " Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
-      "source": "GitHub",
-      "stars": 45,
-      "user": "basketikun"
     },
     {
       "title": "Zulwatha/content-parity - Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.",
@@ -3632,23 +3597,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2276,
       "user": "XiaoDuoYa"
-    },
-    {
-      "title": "Git-Agni/prod-FARM-IOS-Core - A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
-      "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
-      "published_at": "2026-08-27T04:55:36Z",
-      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187279291?v=4",
-      "source": "GitHub",
-      "stars": 764,
-      "user": "Git-Agni"
     },
     {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
@@ -3662,23 +3612,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 565,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "nateherkai/snagtime - Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
-      "url": "https://github.com/nateherkai/snagtime",
-      "published_at": "2026-08-27T21:43:06Z",
-      "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 318,
-      "user": "nateherkai"
     },
     {
       "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
@@ -3696,34 +3631,34 @@
       "user": "useagenthq"
     },
     {
-      "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-      "url": "https://github.com/crmne/fastpotify",
-      "published_at": "2026-08-27T12:46:32Z",
-      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "title": "blendi-remade/interdimensional-game - GitHub Repository",
+      "url": "https://github.com/blendi-remade/interdimensional-game",
+      "published_at": "2026-08-31T06:13:54Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 2195,
-      "user": "crmne"
+      "stars": 212,
+      "user": "blendi-remade"
     },
     {
-      "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-      "url": "https://github.com/JordyZomer/lemmalog",
-      "published_at": "2026-08-27T07:06:55Z",
-      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
+      "published_at": "2026-09-01T11:04:18Z",
+      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
       "source": "GitHub",
-      "stars": 259,
-      "user": "JordyZomer"
+      "stars": 172,
+      "user": "mahdidavoodi7"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -3737,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 260,
       "user": "faisalkindi"
     },
     {
@@ -3752,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "mizorewww"
     },
     {
@@ -3769,6 +3704,36 @@
       "source": "GitHub",
       "stars": 188,
       "user": "richiemcilroy"
+    },
+    {
+      "title": "lgse/strata - A fast, keyboard-first file manager for Linux",
+      "url": "https://github.com/lgse/strata",
+      "published_at": "2026-08-28T22:41:07Z",
+      "description": "A fast, keyboard-first file manager for Linux",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17118095?v=4",
+      "source": "GitHub",
+      "stars": 162,
+      "user": "lgse"
+    },
+    {
+      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
+      "url": "https://github.com/daffainfo/vol-rs",
+      "published_at": "2026-08-30T04:35:19Z",
+      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "daffainfo"
     },
     {
       "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
