@@ -21,17 +21,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-03 3:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-03 7:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4x55dkk7rhgamnb7lnn.png" width="200" alt="The job description already changed. We're not coders anymore, but couriers." />
+    <a href="https://dev.to/devteam/introducing-community-gems-celebrating-human-curation-and-the-best-of-our-community-58c8">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9hmdm0o3syrpwxi5j4iv.png" width="200" alt="💎 Introducing Community Gems: Celebrating Human Curation and the Best of Our Community" />
       <br/>
-      <b>The job description already changed. We're not cod...</b>
+      <b>💎 Introducing Community Gems: Celebrating Human C...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png" width="200" alt="How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations" />
+      <br/>
+      <b>How to Write Reliable Rubrics for LLM-as-a-Judge E...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -45,40 +54,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/introducing-community-gems-celebrating-human-curation-and-the-best-of-our-community-58c8">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9hmdm0o3syrpwxi5j4iv.png" width="200" alt="💎 Introducing Community Gems: Celebrating Human Curation and the Best of Our Community" />
-      <br/>
-      <b>💎 Introducing Community Gems: Celebrating Human C...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png" width="200" alt="How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations" />
-      <br/>
-      <b>How to Write Reliable Rubrics for LLM-as-a-Judge E...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/sloan/welcome-thread-v391-13l0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fourvocxx1z4hb0yer7q1.jpeg" width="200" alt="Welcome Thread - v391" />
-      <br/>
-      <b>Welcome Thread - v391</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png" width="200" alt="Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter" />
       <br/>
       <b>Overcoming Dart's Single Inheritance Wall: Composa...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png" width="200" alt="Preptember is here!! Plan a Fest for your local community." />
+      <br/>
+      <b>Preptember is here!! Plan a Fest for your local co...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Friu20dupakdtr8g1gedn.png" width="200" alt="Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves" />
+      <br/>
+      <b>Hearing the Mountain's Roar: How Antigravity CLI's...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,28 +92,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [The job description already changed. We're not coders anymore, but couriers.](https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg) | Dev.to |
-| 2 | [What is harness engineering and why should I care?](https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0) | Dev.to |
-| 3 | [💎 Introducing Community Gems: Celebrating Human Curation and the Best of Our Community](https://dev.to/devteam/introducing-community-gems-celebrating-human-curation-and-the-best-of-our-community-58c8) | Dev.to |
-| 4 | [How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations](https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp) | Dev.to |
-| 5 | [Welcome Thread - v391](https://dev.to/sloan/welcome-thread-v391-13l0) | Dev.to |
-| 6 | [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf) | Dev.to |
-| 7 | [Preptember is here!! Plan a Fest for your local community.](https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3) | Dev.to |
-| 8 | [Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves](https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp) | Dev.to |
-| 9 | [Claude Fable 5.1 is now available on Agent Platform!](https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16) | Dev.to |
-| 10 | [Elevating Antigravity agent skills, Part 2: Image generation](https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno) | Dev.to |
-| 11 | [Streamline Publishing with a Claude Code Skill](https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn) | Dev.to |
-| 12 | [Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo) | Dev.to |
-| 13 | [Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't](https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3) | Dev.to |
-| 14 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
-| 15 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
-| 16 | [Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc) | Dev.to |
+| 1 | [💎 Introducing Community Gems: Celebrating Human Curation and the Best of Our Community](https://dev.to/devteam/introducing-community-gems-celebrating-human-curation-and-the-best-of-our-community-58c8) | Dev.to |
+| 2 | [How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations](https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp) | Dev.to |
+| 3 | [What is harness engineering and why should I care?](https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0) | Dev.to |
+| 4 | [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf) | Dev.to |
+| 5 | [Preptember is here!! Plan a Fest for your local community.](https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3) | Dev.to |
+| 6 | [Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves](https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp) | Dev.to |
+| 7 | [Welcome Thread - v391](https://dev.to/sloan/welcome-thread-v391-13l0) | Dev.to |
+| 8 | [Claude Fable 5.1 is now available on Agent Platform!](https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16) | Dev.to |
+| 9 | [Elevating Antigravity agent skills, Part 2: Image generation](https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno) | Dev.to |
+| 10 | [Streamline Publishing with a Claude Code Skill](https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn) | Dev.to |
+| 11 | [Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo) | Dev.to |
+| 12 | [Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't](https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3) | Dev.to |
+| 13 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
+| 14 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
+| 15 | [Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini](https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc) | Dev.to |
+| 16 | [The job description already changed. We're not coders anymore, but couriers.](https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg) | Dev.to |
 | 17 | [How to Design AI Evaluations You Can Actually Trust](https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3) | Dev.to |
 | 18 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2aic) | Dev.to |
 | 19 | [Step up to the Sheets: AI Eval Export and Illustrating Data](https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak) | Dev.to |
 | 20 | [Automate Flutter's New Split Package Migration with AI Agent Skills](https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2) | Dev.to |
 
-<sub>Last fetched: Thu, 03 Sep 2026 03:20:42 CAT</sub>
+<sub>Last fetched: Thu, 03 Sep 2026 07:59:08 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — What is the difference between list and tuple in Python?**
+**1. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**2. `Python` — Explain decorators in Python with an example**
+**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> Execution timing, event loop phases
 
 </details>
 
-**3. `React` — What is the Virtual DOM and how does React use it?**
+**3. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -171,7 +171,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
 | **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -194,27 +194,27 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.0%
-Go              ████████████████████████████ 23.0%
-Python          ████████████████████████ 20.4%
-Java            ███████████████████████ 19.1%
-Rust            █████████ 7.9%
-Swift           ███ 2.6%
-Kotlin          ██ 1.3%
+JavaScript      ██████████████████████████████ 25.7%
+Go              ███████████████████████████ 23.0%
+Python          ████████████████████████ 20.9%
+Java            ██████████████████████ 18.9%
+Rust            █████████ 8.1%
+Swift           ██ 2.0%
 Ruby            █ 0.7%
+Kotlin          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 38
-    "Go" : 35
+    "Go" : 34
     "Python" : 31
-    "Java" : 29
+    "Java" : 28
     "Rust" : 12
-    "Swift" : 4
-    "Kotlin" : 2
+    "Swift" : 3
     "Ruby" : 1
+    "Kotlin" : 1
 ```
 
 
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 03 Sep 2026 01:20:42 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 03 Sep 2026 05:59:08 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
