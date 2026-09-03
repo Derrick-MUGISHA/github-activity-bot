@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+      "published_at": "2026-09-02T16:35:00Z",
+      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "tags": [
+        "ai",
+        "evals",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
+    },
+    {
       "title": "What is harness engineering and why should I care?",
       "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
       "published_at": "2026-09-02T15:28:05Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz6prrbe2g8r5m1h79agh.gif",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
-    },
-    {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "published_at": "2026-09-02T16:35:00Z",
-      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "tags": [
-        "ai",
-        "evals",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
@@ -336,21 +336,6 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't",
-      "url": "https://dev.to/gde/gemma-4-in-pure-jax-what-ports-from-tpu-to-gpu-and-what-doesnt-3m09",
-      "published_at": "2026-08-29T00:39:38Z",
-      "description": "This article is about running a hand-written Gemma 4 port in pure JAX on three different...",
-      "tags": [
-        "gemma",
-        "jax",
-        "googleai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ozdxe9qfrcngto433nc.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
       "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
       "published_at": "2026-08-29T12:58:53Z",
@@ -481,6 +466,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't",
+      "url": "https://dev.to/gde/gemma-4-in-pure-jax-what-ports-from-tpu-to-gpu-and-what-doesnt-3m09",
+      "published_at": "2026-08-29T00:39:38Z",
+      "description": "This article is about running a hand-written Gemma 4 port in pure JAX on three different...",
+      "tags": [
+        "gemma",
+        "jax",
+        "googleai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ozdxe9qfrcngto433nc.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
@@ -722,7 +722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1584,
+      "stars": 1677,
       "user": "Nanako0129"
     },
     {
@@ -737,23 +737,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 945,
       "user": "GangTailorUpgrade"
-    },
-    {
-      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-      "url": "https://github.com/2akouwu/reverify",
-      "published_at": "2026-08-31T01:02:18Z",
-      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
-      "source": "GitHub",
-      "stars": 584,
-      "user": "2akouwu"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -767,8 +752,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 703,
       "user": "anthropics"
+    },
+    {
+      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "url": "https://github.com/2akouwu/reverify",
+      "published_at": "2026-08-31T01:02:18Z",
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
+      "source": "GitHub",
+      "stars": 603,
+      "user": "2akouwu"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -782,7 +782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 48,
       "user": "basketikun"
     },
     {
@@ -797,7 +797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2276,
+      "stars": 2296,
       "user": "XiaoDuoYa"
     },
     {
@@ -812,7 +812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 665,
       "user": "shadcn-ui"
     },
     {
@@ -827,7 +827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "useagenthq"
     },
     {
@@ -842,7 +842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 269,
       "user": "faisalkindi"
     },
     {
@@ -857,7 +857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 165,
       "user": "daffainfo"
     },
     {
@@ -1383,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 714,
       "user": "rakanki911"
     },
     {
@@ -1398,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 660,
       "user": "Player-YN"
     },
     {
@@ -1413,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 369,
       "user": "subsy"
     },
     {
@@ -1458,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2276,
+      "stars": 2296,
       "user": "XiaoDuoYa"
     },
     {
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 665,
       "user": "shadcn-ui"
     },
     {
@@ -1488,14 +1488,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "useagenthq"
     },
     {
-      "title": "blendi-remade/interdimensional-game - GitHub Repository",
+      "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
       "url": "https://github.com/blendi-remade/interdimensional-game",
       "published_at": "2026-08-31T06:13:54Z",
-      "description": "Trending GitHub Repository",
+      "description": "Create your own adventure with realtime video!",
       "tags": [
         "typescript",
         "github",
@@ -1503,23 +1503,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 214,
       "user": "blendi-remade"
     },
     {
-      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
-      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
-      "published_at": "2026-09-01T11:04:18Z",
-      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "title": "profullstack/hqtui - High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "url": "https://github.com/profullstack/hqtui",
+      "published_at": "2026-08-30T05:09:53Z",
+      "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
       "source": "GitHub",
-      "stars": 172,
-      "user": "mahdidavoodi7"
+      "stars": 183,
+      "user": "profullstack"
     },
     {
       "title": "How to capture original state of a container?",
@@ -1652,18 +1652,17 @@
       "user": "Shahbakht Khan"
     },
     {
-      "title": "Why I can't import .ts file using express and typescript",
-      "url": "https://stackoverflow.com/questions/79999639/why-i-cant-import-ts-file-using-express-and-typescript",
-      "published_at": "2026-08-31T14:37:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "How can I prevent duplicate API requests when multiple React components need the same data?",
+      "url": "https://stackoverflow.com/questions/79999665/how-can-i-prevent-duplicate-api-requests-when-multiple-react-components-need-the",
+      "published_at": "2026-08-31T16:08:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
-        "node.js",
-        "express"
+        "reactjs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alberto Benedetto"
+      "user": "Muhammad"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -1890,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1584,
+      "stars": 1677,
       "user": "Nanako0129"
     },
     {
@@ -1905,23 +1904,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 945,
       "user": "GangTailorUpgrade"
-    },
-    {
-      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-      "url": "https://github.com/2akouwu/reverify",
-      "published_at": "2026-08-31T01:02:18Z",
-      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
-      "source": "GitHub",
-      "stars": 584,
-      "user": "2akouwu"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -1935,8 +1919,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 703,
       "user": "anthropics"
+    },
+    {
+      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "url": "https://github.com/2akouwu/reverify",
+      "published_at": "2026-08-31T01:02:18Z",
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
+      "source": "GitHub",
+      "stars": 603,
+      "user": "2akouwu"
     },
     {
       "title": "fanhao375/microduck-replica - Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
@@ -1950,8 +1949,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217579079?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 375,
       "user": "fanhao375"
+    },
+    {
+      "title": "In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",
+      "url": "https://stackoverflow.com/questions/80000338/in-the-python-socket-module-i-am-trying-to-send-http-status-codes-to-my-client",
+      "published_at": "2026-09-02T22:46:58.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "sockets"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joshua White"
     },
     {
       "title": "How to call a Python script from Octave using system()",
@@ -1965,19 +1977,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "babelproofreader"
-    },
-    {
-      "title": "In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",
-      "url": "https://stackoverflow.com/questions/80000338/in-the-python-socket-module-i-am-trying-to-send-http-status-codes-to-my-client",
-      "published_at": "2026-09-02T22:46:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "sockets"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joshua White"
     },
     {
       "title": "Python asyncio raw TCP server on Fly.io drops external client connections while internal health checks pass",
@@ -1998,7 +1997,7 @@
       "title": "How do I design a multi-purpose event handler without making it generic?",
       "url": "https://stackoverflow.com/questions/80000298/how-do-i-design-a-multi-purpose-event-handler-without-making-it-generic",
       "published_at": "2026-09-02T18:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "python-typing",
@@ -2007,22 +2006,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "Pygames and coins",
-      "url": "https://stackoverflow.com/questions/80000310/pygames-and-coins",
-      "published_at": "2026-09-02T19:46:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "pygame",
-        "game-development",
-        "pygame-surface",
-        "flappy-bird-clone"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hannia"
     },
     {
       "title": "Canonical way to select data in SQLAlchemy",
@@ -2039,10 +2022,26 @@
       "user": "John Gordon"
     },
     {
+      "title": "Pygames and coins",
+      "url": "https://stackoverflow.com/questions/80000310/pygames-and-coins",
+      "published_at": "2026-09-02T19:46:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python",
+        "pygame",
+        "game-development",
+        "pygame-surface",
+        "flappy-bird-clone"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hannia"
+    },
+    {
       "title": "How to make a Toplevel window over a Tk window in Python Tkinter?",
       "url": "https://stackoverflow.com/questions/80000254/how-to-make-a-toplevel-window-over-a-tk-window-in-python-tkinter",
       "published_at": "2026-09-02T15:35:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "tkinter",
@@ -2087,7 +2086,7 @@
       "title": "Loading lugh/ClinicalT5-base",
       "url": "https://stackoverflow.com/questions/80000246/loading-lugh-clinicalt5-base",
       "published_at": "2026-09-02T15:16:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "huggingface-transformers"
@@ -2350,7 +2349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 48,
       "user": "basketikun"
     }
   ],
@@ -2420,7 +2419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 228,
       "user": "mizorewww"
     },
     {
@@ -2620,21 +2619,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
-      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
-      "published_at": "2026-09-01T11:04:18Z",
-      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
-      "source": "GitHub",
-      "stars": 172,
-      "user": "mahdidavoodi7"
-    },
-    {
       "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
       "url": "https://github.com/richiemcilroy/chippytea",
       "published_at": "2026-08-31T11:06:58Z",
@@ -2646,7 +2630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "richiemcilroy"
     },
     {
@@ -2934,7 +2918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "useagenthq"
     }
   ],
@@ -3372,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 714,
       "user": "rakanki911"
     },
     {
@@ -3387,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 660,
       "user": "Player-YN"
     },
     {
@@ -3402,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 369,
       "user": "subsy"
     },
     {
@@ -3447,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1584,
+      "stars": 1677,
       "user": "Nanako0129"
     },
     {
@@ -3462,23 +3446,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 945,
       "user": "GangTailorUpgrade"
-    },
-    {
-      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-      "url": "https://github.com/2akouwu/reverify",
-      "published_at": "2026-08-31T01:02:18Z",
-      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
-      "source": "GitHub",
-      "stars": 584,
-      "user": "2akouwu"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -3492,8 +3461,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 703,
       "user": "anthropics"
+    },
+    {
+      "title": "2akouwu/reverify - Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "url": "https://github.com/2akouwu/reverify",
+      "published_at": "2026-08-31T01:02:18Z",
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
+      "source": "GitHub",
+      "stars": 603,
+      "user": "2akouwu"
     },
     {
       "title": "fanhao375/microduck-replica - Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
@@ -3507,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217579079?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 375,
       "user": "fanhao375"
     },
     {
@@ -3522,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 688,
       "user": "chrisgreg"
     },
     {
@@ -3552,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 48,
       "user": "basketikun"
     },
     {
@@ -3571,19 +3555,19 @@
       "user": "ih8d8"
     },
     {
-      "title": "Zulwatha/content-parity - Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.",
-      "url": "https://github.com/Zulwatha/content-parity",
-      "published_at": "2026-08-29T00:18:57Z",
-      "description": "Measure what a website serves to machine readers. Fetches any page as several honest identities, including a cryptographically signed agent, and reports what each one received.",
+      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
+      "url": "https://github.com/pgrundev/pgbook",
+      "published_at": "2026-09-02T16:55:32Z",
+      "description": "Postgres Book, one topic at a time.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120991694?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 32,
-      "user": "Zulwatha"
+      "stars": 39,
+      "user": "pgrundev"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -3597,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2276,
+      "stars": 2296,
       "user": "XiaoDuoYa"
     },
     {
@@ -3612,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 665,
       "user": "shadcn-ui"
     },
     {
@@ -3627,14 +3611,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "useagenthq"
     },
     {
-      "title": "blendi-remade/interdimensional-game - GitHub Repository",
+      "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
       "url": "https://github.com/blendi-remade/interdimensional-game",
       "published_at": "2026-08-31T06:13:54Z",
-      "description": "Trending GitHub Repository",
+      "description": "Create your own adventure with realtime video!",
       "tags": [
         "typescript",
         "github",
@@ -3642,23 +3626,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 214,
       "user": "blendi-remade"
     },
     {
-      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
-      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
-      "published_at": "2026-09-01T11:04:18Z",
-      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "title": "profullstack/hqtui - High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "url": "https://github.com/profullstack/hqtui",
+      "published_at": "2026-08-30T05:09:53Z",
+      "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
       "source": "GitHub",
-      "stars": 172,
-      "user": "mahdidavoodi7"
+      "stars": 183,
+      "user": "profullstack"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -3672,7 +3656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 269,
       "user": "faisalkindi"
     },
     {
@@ -3687,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 228,
       "user": "mizorewww"
     },
     {
@@ -3702,7 +3686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "richiemcilroy"
     },
     {
@@ -3717,7 +3701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17118095?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 170,
       "user": "lgse"
     },
     {
@@ -3732,7 +3716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 165,
       "user": "daffainfo"
     },
     {
