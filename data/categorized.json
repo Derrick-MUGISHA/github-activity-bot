@@ -16,20 +16,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "AI-assisted genealogy",
       "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
       "published_at": "2026-09-03T09:02:00Z",
@@ -58,6 +44,21 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
+      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
+      "published_at": "2026-09-03T15:18:58Z",
+      "description": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, flex skins a bare-metal Debian desktop to look like one. The split exists because Crostini's guest kernel can't load the NVIDIA driver.",
+      "tags": [
+        "chromeos",
+        "linux",
+        "debian",
+        "gnome"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
       "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
       "published_at": "2026-09-03T15:54:57Z",
@@ -68,6 +69,20 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
+      "published_at": "2026-09-03T15:52:29Z",
+      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -85,20 +100,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F33ax9l8y7x22l8g8c8we.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "published_at": "2026-09-02T16:35:00Z",
-      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "tags": [
-        "ai",
-        "evals",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "What is harness engineering and why should I care?",
@@ -129,21 +130,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
@@ -204,6 +190,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+      "published_at": "2026-09-02T16:35:00Z",
+      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "tags": [
+        "ai",
+        "evals",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Preptember is here!! Plan a Fest for your local community.",
@@ -315,6 +315,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
       "source": "Dev.to",
       "user": "James O'Reilly"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
@@ -508,21 +523,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
-    },
-    {
-      "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
-      "url": "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5",
-      "published_at": "2026-08-28T15:25:20Z",
-      "description": "Nvidia is worth more than most countries because we cannot figure out how to do cheap...",
-      "tags": [
-        "ai",
-        "gpu",
-        "movies",
-        "matrix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2sj1zjour931gewisl1.jpeg",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1849,
+      "stars": 1855,
       "user": "Nanako0129"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1500,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1008,
+      "stars": 1013,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 737,
       "user": "2akouwu"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2374,
+      "stars": 2381,
       "user": "XiaoDuoYa"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 934,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 435,
       "user": "lnkiai"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 328,
       "user": "faisalkindi"
     },
     {
@@ -887,19 +887,6 @@
       "user": "Anto Abisheik J"
     },
     {
-      "title": "Why does my React component fetch data again when I navigate back to the page?",
-      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
-      "published_at": "2026-09-02T10:05:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "react-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
-    },
-    {
       "title": "How to maintain session and authenticate for university portal API with Python requests?",
       "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
       "published_at": "2026-09-02T14:28:07.000Z",
@@ -916,10 +903,71 @@
       "user": "Arshia Shariati"
     },
     {
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "published_at": "2026-09-03T20:59:23.000Z",
+      "description": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+      "tags": [
+        "Enterprise",
+        "Startups",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "published_at": "2026-09-03T19:36:29.000Z",
+      "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Accel",
+        "In Brief",
+        "Mira Murati"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "published_at": "2026-09-03T19:29:16.000Z",
+      "description": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
+      "tags": [
+        "Climate",
+        "Startups",
+        "fusion power",
+        "Realta Fusion",
+        "utilities"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "published_at": "2026-09-03T18:37:57.000Z",
+      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "tags": [
+        "AI",
+        "Security",
+        "ai safety",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Meta is paying to peek at how you use their latest AI model",
       "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
       "published_at": "2026-09-03T18:19:56.000Z",
-      "description": "Most AI tools allow you to opt-out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount averaging out to about 95",
+      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
       "tags": [
         "AI",
         "Meta"
@@ -957,52 +1005,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "published_at": "2026-09-03T16:00:00.000Z",
-      "description": "Users can search for emails or draft documents using the new conversational feature.",
-      "tags": [
-        "Apps",
-        "TC",
-        "gemini",
-        "Google",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Google&#8217;s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "published_at": "2026-09-03T15:00:00.000Z",
-      "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "tags": [
-        "AI",
-        "Google",
-        "weather forecasting"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "published_at": "2026-09-03T12:42:45.000Z",
-      "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "tags": [
-        "AI",
-        "Hugging Face",
-        "Jensen Huang",
-        "Mergers and Acquisitions",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How AI Chips Are Made",
@@ -1111,6 +1113,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
+      "published_at": "2026-09-03T17:31:52Z",
+      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
@@ -1319,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1038,
       "user": "rakanki911"
     },
     {
@@ -1364,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 365,
       "user": "PhiloLabs"
     },
     {
@@ -1394,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2374,
+      "stars": 2381,
       "user": "XiaoDuoYa"
     },
     {
@@ -1409,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 934,
       "user": "shadcn-ui"
     },
     {
@@ -1424,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 435,
       "user": "lnkiai"
     },
     {
@@ -1458,10 +1475,37 @@
       "user": "blendi-remade"
     },
     {
+      "title": "why am I getting this error? Uncaught ReferenceError: cost is not defined",
+      "url": "https://stackoverflow.com/questions/80000623/why-am-i-getting-this-error-uncaught-referenceerror-cost-is-not-defined",
+      "published_at": "2026-09-03T19:48:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dodoprospy3"
+    },
+    {
+      "title": "How should a React app handle API data when the user navigates away before the request finishes?",
+      "url": "https://stackoverflow.com/questions/80000605/how-should-a-react-app-handle-api-data-when-the-user-navigates-away-before-the-r",
+      "published_at": "2026-09-03T18:20:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
+    },
+    {
       "title": "Why does React render an intermediate state between two setState calls?",
       "url": "https://stackoverflow.com/questions/80000593/why-does-react-render-an-intermediate-state-between-two-setstate-calls",
       "published_at": "2026-09-03T17:46:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "javascript",
         "reactjs"
@@ -1569,31 +1613,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nomad1004"
-    },
-    {
-      "title": "Why does my React component fetch data again when I navigate back to the page?",
-      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
-      "published_at": "2026-09-02T10:05:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "react-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
-    },
-    {
-      "title": "Why doesn't JavaScript have a standard console input?",
-      "url": "https://stackoverflow.com/questions/79999469/why-doesnt-javascript-have-a-standard-console-input",
-      "published_at": "2026-08-30T23:52:37.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -1805,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1849,
+      "stars": 1855,
       "user": "Nanako0129"
     },
     {
@@ -1820,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1500,
       "user": "anthropics"
     },
     {
@@ -1835,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1008,
+      "stars": 1013,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1850,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 737,
       "user": "2akouwu"
     },
     {
@@ -1867,6 +1886,19 @@
       "source": "GitHub",
       "stars": 414,
       "user": "fanhao375"
+    },
+    {
+      "title": "Python Library/Module Won't Import While Others Do",
+      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
+      "published_at": "2026-09-03T19:37:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "macos"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe Borgione"
     },
     {
       "title": "Opened .txt file seems to be empty after a for in function",
@@ -1994,21 +2026,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "How to get unix-specific python modules working easily on Windows?",
-      "url": "https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows",
-      "published_at": "2026-09-02T17:17:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "windows",
-        "pty",
-        "termios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JaecadeJnight"
     },
     {
       "title": "How to Build an AI File Analysis Agent with Python",
@@ -2300,19 +2317,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
-      "published_at": "2026-08-09T19:42:53Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
-      "tags": [
-        "devchallenge",
-        "bugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2336,7 +2340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "mizorewww"
     },
     {
@@ -2350,6 +2354,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "MatheusRich"
+    },
+    {
+      "title": "why am I getting this error? Uncaught ReferenceError: cost is not defined",
+      "url": "https://stackoverflow.com/questions/80000623/why-am-i-getting-this-error-uncaught-referenceerror-cost-is-not-defined",
+      "published_at": "2026-09-03T19:48:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dodoprospy3"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
@@ -2443,6 +2460,36 @@
   ],
   "Mobile": [
     {
+      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
+      "published_at": "2026-09-03T12:47:27Z",
+      "description": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and discover how BlocSignal solves rapid scrolling race conditions streamlessly with droppable().",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
+      "published_at": "2026-09-03T17:31:52Z",
+      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
       "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
       "published_at": "2026-08-30T16:46:00Z",
@@ -2533,21 +2580,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
-      "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911",
-      "published_at": "2026-08-22T02:59:36Z",
-      "description": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, CubitSignal, BlocSignal, and persistence mixins.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8k6g7hk6o9p26vjedyz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
       "url": "https://github.com/richiemcilroy/chippytea",
       "published_at": "2026-08-31T11:06:58Z",
@@ -2559,23 +2591,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "richiemcilroy"
-    },
-    {
-      "title": "How to get unix-specific python modules working easily on Windows?",
-      "url": "https://stackoverflow.com/questions/80000272/how-to-get-unix-specific-python-modules-working-easily-on-windows",
-      "published_at": "2026-09-02T17:17:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "windows",
-        "pty",
-        "termios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JaecadeJnight"
     },
     {
       "title": "How to Use Skills in Agentic Flutter Development: A Handbook for Devs",
@@ -2643,20 +2660,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
       "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
       "published_at": "2026-09-03T15:54:57Z",
@@ -2671,19 +2674,18 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
+      "published_at": "2026-09-03T15:52:29Z",
+      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
       "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
+        "agents",
+        "ai",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
@@ -2743,6 +2745,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
@@ -3116,6 +3133,21 @@
       "user": "Arshia Shariati"
     },
     {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "published_at": "2026-09-03T18:37:57.000Z",
+      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "tags": [
+        "AI",
+        "Security",
+        "ai safety",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "How to Protect Your Privacy While Browsing the Web",
       "url": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
       "published_at": "2026-09-01T15:48:48.000Z",
@@ -3146,21 +3178,6 @@
       "user": "Jan-Felix Schmakeit"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
       "published_at": "2026-09-01T07:00:00Z",
@@ -3189,6 +3206,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -3298,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1038,
       "user": "rakanki911"
     },
     {
@@ -3343,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 365,
       "user": "PhiloLabs"
     },
     {
@@ -3373,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1849,
+      "stars": 1855,
       "user": "Nanako0129"
     },
     {
@@ -3388,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1500,
       "user": "anthropics"
     },
     {
@@ -3403,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1008,
+      "stars": 1013,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3418,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 737,
       "user": "2akouwu"
     },
     {
@@ -3448,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 701,
       "user": "chrisgreg"
     },
     {
@@ -3463,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 108,
       "user": "tsouth89"
     },
     {
@@ -3508,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45679035?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 47,
       "user": "ih8d8"
     },
     {
@@ -3523,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2374,
+      "stars": 2381,
       "user": "XiaoDuoYa"
     },
     {
@@ -3538,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 934,
       "user": "shadcn-ui"
     },
     {
@@ -3553,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 435,
       "user": "lnkiai"
     },
     {
@@ -3598,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 328,
       "user": "faisalkindi"
     },
     {
@@ -3613,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "mizorewww"
     },
     {
@@ -3628,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "richiemcilroy"
     },
     {
@@ -3643,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17118095?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 186,
       "user": "lgse"
     },
     {
@@ -3677,17 +3709,19 @@
       "user": "Arthur Davies"
     },
     {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "published_at": "2026-09-03T18:19:56.000Z",
-      "description": "Most AI tools allow you to opt-out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount averaging out to about 95",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "published_at": "2026-09-03T18:37:57.000Z",
+      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
       "tags": [
         "AI",
-        "Meta"
+        "Security",
+        "ai safety",
+        "cybersecurity"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Tim Fernholz"
+      "user": "Rebecca Bellan"
     }
   ]
 }
