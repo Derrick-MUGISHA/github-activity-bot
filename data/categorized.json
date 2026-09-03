@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1862,
       "user": "Nanako0129"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1500,
+      "stars": 1526,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1014,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 751,
       "user": "2akouwu"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2381,
+      "stars": 2390,
       "user": "XiaoDuoYa"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 948,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 462,
       "user": "lnkiai"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "useagenthq"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 333,
       "user": "faisalkindi"
     },
     {
@@ -887,6 +887,34 @@
       "user": "Anto Abisheik J"
     },
     {
+      "title": "Why does my React component fetch data again when I navigate back to the page?",
+      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
+      "published_at": "2026-09-02T10:05:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "react-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
+    },
+    {
+      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
+      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
+      "published_at": "2026-09-03T21:14:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "garbage-collection",
+        "python-asyncio",
+        "weak-references"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "YKT"
+    },
+    {
       "title": "How to maintain session and authenticate for university portal API with Python requests?",
       "url": "https://stackoverflow.com/questions/80000232/how-to-maintain-session-and-authenticate-for-university-portal-api-with-python-r",
       "published_at": "2026-09-02T14:28:07.000Z",
@@ -909,8 +937,7 @@
       "description": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
       "tags": [
         "Enterprise",
-        "Startups",
-        "TC"
+        "Startups"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -992,19 +1019,20 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "published_at": "2026-09-03T16:09:01.000Z",
-      "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "title": "How to Build AI Systems That Know When They Don't Know: A Practical Guide",
+      "url": "https://www.freecodecamp.org/news/how-to-build-ai-systems-that-know-when-they-don-t-know/",
+      "published_at": "2026-09-03T18:09:36.000Z",
+      "description": "Large Language Models (LLMs) have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can synthesize complex corporate data, an",
       "tags": [
-        "AI",
-        "Startups",
-        "AI assistant",
-        "ollie"
+        "Artificial Intelligence",
+        "llm",
+        "large language models",
+        "generative ai",
+        "mlops"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Chidiebere Njoku"
     },
     {
       "title": "How AI Chips Are Made",
@@ -1080,22 +1108,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build an AI File Analysis Agent with Python",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-analysis-agent/",
-      "published_at": "2026-09-01T15:44:15.000Z",
-      "description": "If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "software development",
-        "ai-agent",
-        "openai"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "JavaScript": [
@@ -1336,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1066,
       "user": "rakanki911"
     },
     {
@@ -1351,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 802,
       "user": "Player-YN"
     },
     {
@@ -1381,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 370,
       "user": "PhiloLabs"
     },
     {
@@ -1411,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2381,
+      "stars": 2390,
       "user": "XiaoDuoYa"
     },
     {
@@ -1426,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 948,
       "user": "shadcn-ui"
     },
     {
@@ -1441,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 462,
       "user": "lnkiai"
     },
     {
@@ -1456,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "useagenthq"
     },
     {
@@ -1471,21 +1483,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "blendi-remade"
-    },
-    {
-      "title": "why am I getting this error? Uncaught ReferenceError: cost is not defined",
-      "url": "https://stackoverflow.com/questions/80000623/why-am-i-getting-this-error-uncaught-referenceerror-cost-is-not-defined",
-      "published_at": "2026-09-03T19:48:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dodoprospy3"
     },
     {
       "title": "How should a React app handle API data when the user navigates away before the request finishes?",
@@ -1518,7 +1517,7 @@
       "title": "is JSEvent a macro task or synchronous task？",
       "url": "https://stackoverflow.com/questions/80000471/is-jsevent-a-macro-task-or-synchronous-task",
       "published_at": "2026-09-03T10:37:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript"
       ],
@@ -1613,6 +1612,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nomad1004"
+    },
+    {
+      "title": "Why does my React component fetch data again when I navigate back to the page?",
+      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
+      "published_at": "2026-09-02T10:05:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "react-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -1824,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1862,
       "user": "Nanako0129"
     },
     {
@@ -1839,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1500,
+      "stars": 1526,
       "user": "anthropics"
     },
     {
@@ -1854,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1014,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1869,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 751,
       "user": "2akouwu"
     },
     {
@@ -1886,6 +1898,21 @@
       "source": "GitHub",
       "stars": 414,
       "user": "fanhao375"
+    },
+    {
+      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
+      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
+      "published_at": "2026-09-03T21:14:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "garbage-collection",
+        "python-asyncio",
+        "weak-references"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "YKT"
     },
     {
       "title": "Python Library/Module Won't Import While Others Do",
@@ -1931,6 +1958,33 @@
       "user": "schtandard"
     },
     {
+      "title": "In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",
+      "url": "https://stackoverflow.com/questions/80000338/in-the-python-socket-module-i-am-trying-to-send-http-status-codes-to-my-client",
+      "published_at": "2026-09-02T22:46:58.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "sockets"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joshua White"
+    },
+    {
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
+      "tags": [
+        "best-practices",
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John Gordon"
+    },
+    {
       "title": "How can I test Stack Overflow API write operations?",
       "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
       "published_at": "2026-09-03T08:10:34.000Z",
@@ -1944,20 +1998,6 @@
       "user": "AmSurya"
     },
     {
-      "title": "Canonical way to select data in SQLAlchemy",
-      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
-      "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "best-practices",
-        "python",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John Gordon"
-    },
-    {
       "title": "How to call a Python script from Octave using system()",
       "url": "https://stackoverflow.com/questions/80000342/how-to-call-a-python-script-from-octave-using-system",
       "published_at": "2026-09-02T23:06:54.000Z",
@@ -1969,19 +2009,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "babelproofreader"
-    },
-    {
-      "title": "In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",
-      "url": "https://stackoverflow.com/questions/80000338/in-the-python-socket-module-i-am-trying-to-send-http-status-codes-to-my-client",
-      "published_at": "2026-09-02T22:46:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "sockets"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joshua White"
     },
     {
       "title": "How to maintain session and authenticate for university portal API with Python requests?",
@@ -2012,36 +2039,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zeubollisk Wu"
-    },
-    {
-      "title": "How do I design a multi-purpose event handler without making it generic?",
-      "url": "https://stackoverflow.com/questions/80000298/how-do-i-design-a-multi-purpose-event-handler-without-making-it-generic",
-      "published_at": "2026-09-02T18:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
-      "title": "How to Build an AI File Analysis Agent with Python",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-analysis-agent/",
-      "published_at": "2026-09-01T15:44:15.000Z",
-      "description": "If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "software development",
-        "ai-agent",
-        "openai"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "DevOps": [
@@ -2354,19 +2351,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "MatheusRich"
-    },
-    {
-      "title": "why am I getting this error? Uncaught ReferenceError: cost is not defined",
-      "url": "https://stackoverflow.com/questions/80000623/why-am-i-getting-this-error-uncaught-referenceerror-cost-is-not-defined",
-      "published_at": "2026-09-03T19:48:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dodoprospy3"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
@@ -2893,7 +2877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "useagenthq"
     },
     {
@@ -2930,7 +2914,7 @@
       "title": "Canonical way to select data in SQLAlchemy",
       "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
       "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "best-practices",
         "python",
@@ -3330,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1066,
       "user": "rakanki911"
     },
     {
@@ -3345,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 802,
       "user": "Player-YN"
     },
     {
@@ -3375,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 370,
       "user": "PhiloLabs"
     },
     {
@@ -3405,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1862,
       "user": "Nanako0129"
     },
     {
@@ -3420,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1500,
+      "stars": 1526,
       "user": "anthropics"
     },
     {
@@ -3435,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1014,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3450,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 751,
       "user": "2akouwu"
     },
     {
@@ -3480,12 +3464,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "chrisgreg"
     },
     {
-      "title": "tsouth89/try-omarchy-windows - Use Omarchy Linux on Windows without any hassle.",
-      "url": "https://github.com/tsouth89/try-omarchy-windows",
+      "title": "omacom/try-omarchy-windows - Use Omarchy Linux on Windows without any hassle.",
+      "url": "https://github.com/omacom/try-omarchy-windows",
       "published_at": "2026-08-28T00:13:28Z",
       "description": "Use Omarchy Linux on Windows without any hassle.",
       "tags": [
@@ -3493,10 +3477,10 @@
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219015873?v=4",
       "source": "GitHub",
-      "stars": 108,
-      "user": "tsouth89"
+      "stars": 110,
+      "user": "omacom"
     },
     {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
@@ -3555,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 2381,
+      "stars": 2390,
       "user": "XiaoDuoYa"
     },
     {
@@ -3570,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 948,
       "user": "shadcn-ui"
     },
     {
@@ -3585,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 462,
       "user": "lnkiai"
     },
     {
@@ -3600,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 281,
       "user": "useagenthq"
     },
     {
@@ -3615,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "blendi-remade"
     },
     {
@@ -3630,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 333,
       "user": "faisalkindi"
     },
     {
@@ -3675,7 +3659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17118095?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 187,
       "user": "lgse"
     },
     {
