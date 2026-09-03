@@ -10,20 +10,20 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 67,
+    "AI": 65,
     "JavaScript": 33,
     "Python": 29,
     "DevOps": 16,
-    "WebDev": 7,
+    "WebDev": 8,
     "Mobile": 8,
     "Cloud": 12,
     "Database": 2,
-    "Security": 15,
+    "Security": 14,
     "Tools": 35
   },
   "by_language": {
-    "Go": 24,
-    "Rust": 9,
+    "Go": 27,
+    "Rust": 8,
     "JavaScript": 33,
     "Python": 29,
     "Ruby": 1,
@@ -32,12 +32,12 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-09-02": 37,
+    "2026-09-02": 28,
     "2026-08-30": 6,
-    "2026-09-01": 21,
+    "2026-09-01": 20,
     "2026-08-28": 9,
     "2026-08-27": 2,
-    "2026-08-31": 12,
+    "2026-08-31": 13,
     "2026-08-25": 3,
     "2026-08-29": 5,
     "2026-08-17": 1,
@@ -91,39 +91,39 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-09-03": 8
+    "2026-09-03": 17
   },
   "top_tags": {
     "github": 25,
     "open-source": 25,
     "python": 18,
     "ai": 16,
-    "AI": 15,
+    "AI": 16,
     "javascript": 15,
-    "Security": 12,
+    "Security": 11,
     "JavaScript": 11,
     "Python": 10,
     "DevOps": 10,
+    "go": 6,
     "googlecloud": 5,
-    "go": 5,
     "typescript": 5,
     "rust": 5,
     "kubernetes": 4,
     "gke": 4,
+    "html": 4,
     "flutter": 3,
     "dart": 3,
-    "architecture": 3,
-    "antigravity": 3
+    "architecture": 3
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "18.9",
-    "Rust": "7.1",
-    "JavaScript": "26.0",
-    "Python": "22.8",
+    "Go": "20.9",
+    "Rust": "6.2",
+    "JavaScript": "25.6",
+    "Python": "22.5",
     "Ruby": "0.8",
-    "Java": "21.3",
-    "Swift": "2.4",
+    "Java": "20.9",
+    "Swift": "2.3",
     "Kotlin": "0.8"
   }
 }
