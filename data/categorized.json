@@ -76,20 +76,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
       "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
       "published_at": "2026-09-03T15:52:29Z",
@@ -175,6 +161,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "published_at": "2026-09-03T15:54:57Z",
+      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1878,
+      "stars": 1898,
       "user": "anthropics"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1047,
       "user": "GangTailorUpgrade"
     },
     {
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 873,
       "user": "2akouwu"
     },
     {
@@ -766,8 +766,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 482,
       "user": "Merserk"
+    },
+    {
+      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "published_at": "2026-09-02T17:00:13Z",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "source": "GitHub",
+      "stars": 448,
+      "user": "nahrek"
     },
     {
       "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
@@ -826,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1353,
+      "stars": 1573,
       "user": "lnkiai"
     },
     {
@@ -841,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1089,
       "user": "shadcn-ui"
     },
     {
@@ -856,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 391,
       "user": "Albert-Weasker"
     },
     {
@@ -886,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 376,
       "user": "faisalkindi"
     },
     {
@@ -929,7 +944,7 @@
       "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
       "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
       "published_at": "2026-09-04T17:40:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "typechecking",
@@ -1044,18 +1059,20 @@
       "user": "TechCrunch Events"
     },
     {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "published_at": "2026-09-04T04:21:03.000Z",
-      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
+      "url": "https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/",
+      "published_at": "2026-09-04T16:13:09.000Z",
+      "description": "A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese",
       "tags": [
-        "AI",
-        "Exclusive",
-        "Generative AI"
+        "Developer Tools",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Devops",
+        "ai agents"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "Claude Code Observability with OpenTelemetry",
@@ -1149,20 +1166,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chinedu Otutu"
-    },
-    {
-      "title": "How to Protect Your Privacy While Browsing the Web",
-      "url": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
-      "published_at": "2026-09-01T15:48:48.000Z",
-      "description": "Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t",
-      "tags": [
-        "privacy",
-        "Security",
-        "Browsers"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "JavaScript": [
@@ -1388,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1419,
+      "stars": 1458,
       "user": "rakanki911"
     },
     {
@@ -1418,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "subsy"
     },
     {
@@ -1433,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 308,
       "user": "ahujasid"
     },
     {
@@ -1448,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 295,
       "user": "dreamers-laboratory"
     },
     {
@@ -1463,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1353,
+      "stars": 1573,
       "user": "lnkiai"
     },
     {
@@ -1478,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1089,
       "user": "shadcn-ui"
     },
     {
@@ -1493,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 391,
       "user": "Albert-Weasker"
     },
     {
@@ -1530,7 +1533,7 @@
       "title": "javascript accessing object value or name",
       "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
       "published_at": "2026-09-04T15:18:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "javascript-objects"
@@ -1543,7 +1546,7 @@
       "title": "Fast client-side video compression in React — alternatives to FFmpeg.wasm?",
       "url": "https://stackoverflow.com/questions/80000811/fast-client-side-video-compression-in-react-alternatives-to-ffmpeg-wasm",
       "published_at": "2026-09-04T13:40:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -1573,7 +1576,7 @@
       "title": "How can I work with multiple variables in one Function in Javascript",
       "url": "https://stackoverflow.com/questions/80000714/how-can-i-work-with-multiple-variables-in-one-function-in-javascript",
       "published_at": "2026-09-04T07:32:46.000Z",
-      "description": "Stack Overflow question · 2 answers · score -8",
+      "description": "Stack Overflow question · 2 answers · score -9",
       "tags": [
         "javascript",
         "function"
@@ -1651,19 +1654,17 @@
       "user": "Visitor"
     },
     {
-      "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
-      "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
-      "published_at": "2026-09-01T18:39:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "title": "Check if a variable is a string in JavaScript",
+      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
+      "published_at": "2010-10-30T14:36:34.000Z",
+      "description": "Stack Overflow question · 34 answers · score 2883",
       "tags": [
         "javascript",
-        "google-maps",
-        "google-maps-api-3",
-        "geolocation"
+        "string"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Thomas Thomasclak"
+      "user": "Olical"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -1860,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1878,
+      "stars": 1898,
       "user": "anthropics"
     },
     {
@@ -1875,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1047,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1890,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 873,
       "user": "2akouwu"
     },
     {
@@ -1905,29 +1906,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 482,
       "user": "Merserk"
     },
     {
-      "title": "Human-Agent-Society/reef - Continual learning infra for self-improving agents",
-      "url": "https://github.com/Human-Agent-Society/reef",
-      "published_at": "2026-08-31T01:39:18Z",
-      "description": "Continual learning infra for self-improving agents",
+      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "published_at": "2026-09-02T17:00:13Z",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 388,
-      "user": "Human-Agent-Society"
+      "stars": 448,
+      "user": "nahrek"
     },
     {
       "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
       "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
       "published_at": "2026-09-04T17:40:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "typechecking",
@@ -1941,27 +1942,13 @@
       "title": "I can't figure out how to make this BMI calculator work",
       "url": "https://stackoverflow.com/questions/80000846/i-cant-figure-out-how-to-make-this-bmi-calculator-work",
       "published_at": "2026-09-04T16:56:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BRANDON BRANDSTETTER"
-    },
-    {
-      "title": "Best practice for (simple) searching item in a list",
-      "url": "https://stackoverflow.com/questions/80000828/best-practice-for-simple-searching-item-in-a-list",
-      "published_at": "2026-09-04T15:35:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "best-practices",
-        "python",
-        "list"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Max Z."
     },
     {
       "title": "How to type-hint a function that returns as many values as in its input?",
@@ -1976,6 +1963,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "schtandard"
+    },
+    {
+      "title": "Best practice for (simple) searching item in a list",
+      "url": "https://stackoverflow.com/questions/80000828/best-practice-for-simple-searching-item-in-a-list",
+      "published_at": "2026-09-04T15:35:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "best-practices",
+        "python",
+        "list"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Max Z."
     },
     {
       "title": "Buildozer cannot build APKs again",
@@ -1993,19 +1994,6 @@
       "user": "Pappy38"
     },
     {
-      "title": "Python Library/Module Won't Import While Others Do",
-      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
-      "published_at": "2026-09-03T19:37:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "macos"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe Borgione"
-    },
-    {
       "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
       "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
       "published_at": "2026-09-03T21:14:26.000Z",
@@ -2019,6 +2007,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "YKT"
+    },
+    {
+      "title": "Python Library/Module Won't Import While Others Do",
+      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
+      "published_at": "2026-09-03T19:37:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "macos"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe Borgione"
     },
     {
       "title": "Opened .txt file seems to be empty after a for in function",
@@ -2306,6 +2307,22 @@
       "user": "basketikun"
     },
     {
+      "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
+      "url": "https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/",
+      "published_at": "2026-09-04T16:13:09.000Z",
+      "description": "A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese",
+      "tags": [
+        "Developer Tools",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Devops",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
+    },
+    {
       "title": "How OpenTelemetry Works: A Complete Guide",
       "url": "https://www.freecodecamp.org/news/how-opentelemetry-works/",
       "published_at": "2026-09-03T15:41:52.000Z",
@@ -2347,7 +2364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "mizorewww"
     },
     {
@@ -2610,20 +2627,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
       "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
       "published_at": "2026-09-03T15:52:29Z",
@@ -2651,6 +2654,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "published_at": "2026-09-03T15:54:57Z",
+      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2877,6 +2894,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "published_at": "2026-09-02T17:00:13Z",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "source": "GitHub",
+      "stars": 448,
+      "user": "nahrek"
+    },
+    {
       "title": "Canonical way to select data in SQLAlchemy",
       "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
       "published_at": "2026-09-02T15:49:13.000Z",
@@ -3094,20 +3126,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "How to Protect Your Privacy While Browsing the Web",
-      "url": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
-      "published_at": "2026-09-01T15:48:48.000Z",
-      "description": "Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t",
-      "tags": [
-        "privacy",
-        "Security",
-        "Browsers"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Tools": [
@@ -3263,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1419,
+      "stars": 1458,
       "user": "rakanki911"
     },
     {
@@ -3293,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "subsy"
     },
     {
@@ -3308,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 308,
       "user": "ahujasid"
     },
     {
@@ -3323,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 295,
       "user": "dreamers-laboratory"
     },
     {
@@ -3338,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1878,
+      "stars": 1898,
       "user": "anthropics"
     },
     {
@@ -3353,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1047,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3368,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 873,
       "user": "2akouwu"
     },
     {
@@ -3383,23 +3401,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 482,
       "user": "Merserk"
     },
     {
-      "title": "Human-Agent-Society/reef - Continual learning infra for self-improving agents",
-      "url": "https://github.com/Human-Agent-Society/reef",
-      "published_at": "2026-08-31T01:39:18Z",
-      "description": "Continual learning infra for self-improving agents",
+      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "published_at": "2026-09-02T17:00:13Z",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 388,
-      "user": "Human-Agent-Society"
+      "stars": 448,
+      "user": "nahrek"
+    },
+    {
+      "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
+      "url": "https://github.com/Adytm404/whatsapp-web.view",
+      "published_at": "2026-09-03T04:04:47Z",
+      "description": "Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "Adytm404"
     },
     {
       "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
@@ -3417,21 +3450,6 @@
       "user": "cocoyes"
     },
     {
-      "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
-      "url": "https://github.com/Adytm404/whatsapp-web.view",
-      "published_at": "2026-09-03T04:04:47Z",
-      "description": "Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
-      "source": "GitHub",
-      "stars": 66,
-      "user": "Adytm404"
-    },
-    {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
       "url": "https://github.com/pgrundev/pgbook",
       "published_at": "2026-09-02T16:55:32Z",
@@ -3443,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "pgrundev"
     },
     {
@@ -3488,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1353,
+      "stars": 1573,
       "user": "lnkiai"
     },
     {
@@ -3503,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1089,
       "user": "shadcn-ui"
     },
     {
@@ -3518,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 391,
       "user": "Albert-Weasker"
     },
     {
@@ -3563,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 376,
       "user": "faisalkindi"
     },
     {
@@ -3578,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "mizorewww"
     },
     {
@@ -3608,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "pipicat613"
     },
     {
@@ -3623,14 +3641,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 182,
       "user": "what1f"
     },
     {
       "title": "Fast client-side video compression in React — alternatives to FFmpeg.wasm?",
       "url": "https://stackoverflow.com/questions/80000811/fast-client-side-video-compression-in-react-alternatives-to-ffmpeg-wasm",
       "published_at": "2026-09-04T13:40:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -3656,6 +3674,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Arthur Davies"
+    },
+    {
+      "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
+      "url": "https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/",
+      "published_at": "2026-09-04T16:13:09.000Z",
+      "description": "A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese",
+      "tags": [
+        "Developer Tools",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Devops",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "Claude Code Observability with OpenTelemetry",

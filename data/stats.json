@@ -13,17 +13,17 @@
     "AI": 82,
     "JavaScript": 37,
     "Python": 28,
-    "DevOps": 19,
+    "DevOps": 20,
     "WebDev": 6,
     "Mobile": 11,
     "Cloud": 19,
-    "Database": 2,
-    "Security": 17,
-    "Tools": 38
+    "Database": 3,
+    "Security": 16,
+    "Tools": 39
   },
   "by_language": {
+    "Go": 37,
     "JavaScript": 37,
-    "Go": 36,
     "Python": 28,
     "Rust": 7,
     "Ruby": 1,
@@ -31,14 +31,14 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-09-03": 28,
-    "2026-09-04": 33,
-    "2026-09-02": 14,
+    "2026-09-03": 27,
+    "2026-09-04": 35,
+    "2026-09-02": 15,
     "2026-08-30": 6,
     "2026-08-28": 3,
-    "2026-09-01": 16,
+    "2026-09-01": 14,
     "2026-08-27": 2,
-    "2026-08-31": 15,
+    "2026-08-31": 14,
     "2026-08-25": 3,
     "2026-08-29": 5,
     "2026-08-17": 2,
@@ -95,7 +95,8 @@
     "2024-02-21": 1,
     "2013-11-06": 1,
     "2017-11-08": 1,
-    "2024-10-09": 1
+    "2024-10-09": 1,
+    "2010-10-30": 1
   },
   "top_tags": {
     "ai": 27,
@@ -103,8 +104,8 @@
     "open-source": 25,
     "python": 18,
     "javascript": 15,
-    "AI": 14,
-    "Security": 12,
+    "AI": 13,
+    "Security": 11,
     "JavaScript": 11,
     "googlecloud": 10,
     "Python": 10,
@@ -116,17 +117,17 @@
     "dart": 8,
     "statemanagement": 6,
     "kubernetes": 6,
-    "programming": 6,
+    "programming": 5,
     "gke": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "27.2",
-    "Go": "26.5",
-    "Python": "20.6",
+    "Go": "27.0",
+    "JavaScript": "27.0",
+    "Python": "20.4",
     "Rust": "5.1",
     "Ruby": "0.7",
-    "Java": "19.1",
+    "Java": "19.0",
     "Swift": "0.7"
   }
 }
