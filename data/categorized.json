@@ -31,19 +31,6 @@
       "user": "Nicolas Fränkel"
     },
     {
-      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
-      "published_at": "2026-09-03T15:53:27Z",
-      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
       "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
       "published_at": "2026-09-03T15:18:58Z",
@@ -83,6 +70,19 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
+      "published_at": "2026-09-03T15:53:27Z",
+      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
+      "tags": [
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -708,21 +708,6 @@
       "user": "TetreesEX"
     },
     {
-      "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "url": "https://github.com/Nanako0129/sepia",
-      "published_at": "2026-08-28T05:56:49Z",
-      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
-      "source": "GitHub",
-      "stars": 1862,
-      "user": "Nanako0129"
-    },
-    {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
       "published_at": "2026-09-01T12:30:12Z",
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1526,
+      "stars": 1564,
       "user": "anthropics"
     },
     {
@@ -749,14 +734,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1017,
       "user": "GangTailorUpgrade"
     },
     {
-      "title": "2akouwu/reverify - AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+      "title": "2akouwu/reverify - Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
       "published_at": "2026-08-31T01:02:18Z",
-      "description": "AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
       "tags": [
         "python",
         "github",
@@ -764,8 +749,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 783,
       "user": "2akouwu"
+    },
+    {
+      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "published_at": "2026-08-30T19:45:52Z",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
+      "source": "GitHub",
+      "stars": 395,
+      "user": "Merserk"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -779,23 +779,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 55,
       "user": "basketikun"
-    },
-    {
-      "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "published_at": "2026-08-28T12:57:24Z",
-      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
-      "source": "GitHub",
-      "stars": 2390,
-      "user": "XiaoDuoYa"
     },
     {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 959,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 485,
       "user": "lnkiai"
     },
     {
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "useagenthq"
     },
     {
@@ -854,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 338,
       "user": "faisalkindi"
     },
     {
@@ -929,6 +914,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Arshia Shariati"
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "published_at": "2026-09-04T00:48:42.000Z",
+      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "tags": [
+        "AI",
+        "TC",
+        "Venture",
+        "crusoe"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Startup ARR is less secure than ever, new research shows",
@@ -1348,23 +1348,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1094,
       "user": "rakanki911"
-    },
-    {
-      "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
-      "published_at": "2026-08-28T10:56:56Z",
-      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
-      "source": "GitHub",
-      "stars": 802,
-      "user": "Player-YN"
     },
     {
       "title": "subsy/skill-cabinet - GitHub Repository",
@@ -1393,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 377,
       "user": "PhiloLabs"
     },
     {
@@ -1412,19 +1397,19 @@
       "user": "TetreesEX"
     },
     {
-      "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "published_at": "2026-08-28T12:57:24Z",
-      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+      "published_at": "2026-09-02T06:38:31Z",
+      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 2390,
-      "user": "XiaoDuoYa"
+      "stars": 242,
+      "user": "dreamers-laboratory"
     },
     {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
@@ -1438,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 959,
       "user": "shadcn-ui"
     },
     {
@@ -1453,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 485,
       "user": "lnkiai"
     },
     {
@@ -1468,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "useagenthq"
     },
     {
@@ -1483,8 +1468,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "blendi-remade"
+    },
+    {
+      "title": "profullstack/hqtui - High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "url": "https://github.com/profullstack/hqtui",
+      "published_at": "2026-08-30T05:09:53Z",
+      "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
+      "source": "GitHub",
+      "stars": 192,
+      "user": "profullstack"
     },
     {
       "title": "How should a React app handle API data when the user navigates away before the request finishes?",
@@ -1504,7 +1504,7 @@
       "title": "Why does React render an intermediate state between two setState calls?",
       "url": "https://stackoverflow.com/questions/80000593/why-does-react-render-an-intermediate-state-between-two-setstate-calls",
       "published_at": "2026-09-03T17:46:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "reactjs"
@@ -1555,20 +1555,6 @@
       "user": "Anto Abisheik J"
     },
     {
-      "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
-      "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
-      "published_at": "2026-09-02T14:16:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "http-status-code-429"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fengrong Han Bobb"
-    },
-    {
       "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
       "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
       "published_at": "2026-09-01T18:39:06.000Z",
@@ -1596,6 +1582,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
+    },
+    {
+      "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
+      "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
+      "published_at": "2026-09-02T14:16:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "http-status-code-429"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fengrong Han Bobb"
     },
     {
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
@@ -1825,21 +1825,6 @@
       "user": "arathore"
     },
     {
-      "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "url": "https://github.com/Nanako0129/sepia",
-      "published_at": "2026-08-28T05:56:49Z",
-      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
-      "source": "GitHub",
-      "stars": 1862,
-      "user": "Nanako0129"
-    },
-    {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
       "published_at": "2026-09-01T12:30:12Z",
@@ -1851,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1526,
+      "stars": 1564,
       "user": "anthropics"
     },
     {
@@ -1866,14 +1851,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1017,
       "user": "GangTailorUpgrade"
     },
     {
-      "title": "2akouwu/reverify - AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+      "title": "2akouwu/reverify - Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
       "published_at": "2026-08-31T01:02:18Z",
-      "description": "AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
       "tags": [
         "python",
         "github",
@@ -1881,23 +1866,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 783,
       "user": "2akouwu"
     },
     {
-      "title": "fanhao375/microduck-replica - Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
-      "url": "https://github.com/fanhao375/microduck-replica",
-      "published_at": "2026-08-28T13:42:48Z",
-      "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "published_at": "2026-08-30T19:45:52Z",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/217579079?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 414,
-      "user": "fanhao375"
+      "stars": 395,
+      "user": "Merserk"
+    },
+    {
+      "title": "siknet/FreePEP - 人教社电子教材下载器",
+      "url": "https://github.com/siknet/FreePEP",
+      "published_at": "2026-08-31T02:21:10Z",
+      "description": "人教社电子教材下载器",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32444042?v=4",
+      "source": "GitHub",
+      "stars": 322,
+      "user": "siknet"
     },
     {
       "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
@@ -1926,6 +1926,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe Borgione"
+    },
+    {
+      "title": "How should I start to learn gRPC using Python?",
+      "url": "https://stackoverflow.com/questions/80000444/how-should-i-start-to-learn-grpc-using-python",
+      "published_at": "2026-09-03T09:14:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohammed Shahid S"
     },
     {
       "title": "Opened .txt file seems to be empty after a for in function",
@@ -2025,20 +2038,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Arshia Shariati"
-    },
-    {
-      "title": "How to make a Toplevel window over a Tk window in Python Tkinter?",
-      "url": "https://stackoverflow.com/questions/80000254/how-to-make-a-toplevel-window-over-a-tk-window-in-python-tkinter",
-      "published_at": "2026-09-02T15:35:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "tkinter",
-        "toplevel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
     }
   ],
   "DevOps": [
@@ -2264,7 +2263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 55,
       "user": "basketikun"
     },
     {
@@ -2337,7 +2336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "mizorewww"
     },
     {
@@ -2382,20 +2381,6 @@
       "user": "Anto Abisheik J"
     },
     {
-      "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
-      "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
-      "published_at": "2026-09-02T14:16:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "http-status-code-429"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fengrong Han Bobb"
-    },
-    {
       "title": "Switch to minimize some icons on page",
       "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
       "published_at": "2026-08-31T13:42:04.000Z",
@@ -2408,6 +2393,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
+    },
+    {
+      "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
+      "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
+      "published_at": "2026-09-02T14:16:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "http-status-code-429"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fengrong Han Bobb"
     },
     {
       "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
@@ -2444,21 +2443,6 @@
   ],
   "Mobile": [
     {
-      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
-      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
-      "published_at": "2026-09-03T12:47:27Z",
-      "description": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and discover how BlocSignal solves rapid scrolling race conditions streamlessly with droppable().",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
       "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
       "published_at": "2026-09-03T17:31:52Z",
@@ -2470,6 +2454,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
+      "published_at": "2026-09-03T12:47:27Z",
+      "description": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and discover how BlocSignal solves rapid scrolling race conditions streamlessly with droppable().",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2877,7 +2876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "useagenthq"
     },
     {
@@ -3314,23 +3313,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1094,
       "user": "rakanki911"
-    },
-    {
-      "title": "Player-YN/PawWork_ZhuaZhua - Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
-      "published_at": "2026-08-28T10:56:56Z",
-      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293915860?v=4",
-      "source": "GitHub",
-      "stars": 802,
-      "user": "Player-YN"
     },
     {
       "title": "subsy/skill-cabinet - GitHub Repository",
@@ -3359,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 377,
       "user": "PhiloLabs"
     },
     {
@@ -3378,19 +3362,19 @@
       "user": "TetreesEX"
     },
     {
-      "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "url": "https://github.com/Nanako0129/sepia",
-      "published_at": "2026-08-28T05:56:49Z",
-      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+      "published_at": "2026-09-02T06:38:31Z",
+      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/44753291?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 1862,
-      "user": "Nanako0129"
+      "stars": 242,
+      "user": "dreamers-laboratory"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -3404,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1526,
+      "stars": 1564,
       "user": "anthropics"
     },
     {
@@ -3419,14 +3403,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1017,
       "user": "GangTailorUpgrade"
     },
     {
-      "title": "2akouwu/reverify - AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+      "title": "2akouwu/reverify - Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
       "published_at": "2026-08-31T01:02:18Z",
-      "description": "AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true — AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
       "tags": [
         "python",
         "github",
@@ -3434,53 +3418,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 783,
       "user": "2akouwu"
     },
     {
-      "title": "fanhao375/microduck-replica - Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
-      "url": "https://github.com/fanhao375/microduck-replica",
-      "published_at": "2026-08-28T13:42:48Z",
-      "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck",
+      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "published_at": "2026-08-30T19:45:52Z",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/217579079?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 414,
-      "user": "fanhao375"
+      "stars": 395,
+      "user": "Merserk"
     },
     {
-      "title": "chrisgreg/boop - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
-      "url": "https://github.com/chrisgreg/boop",
-      "published_at": "2026-08-28T15:38:33Z",
-      "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "title": "siknet/FreePEP - 人教社电子教材下载器",
+      "url": "https://github.com/siknet/FreePEP",
+      "published_at": "2026-08-31T02:21:10Z",
+      "description": "人教社电子教材下载器",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32444042?v=4",
       "source": "GitHub",
-      "stars": 703,
-      "user": "chrisgreg"
-    },
-    {
-      "title": "omacom/try-omarchy-windows - Use Omarchy Linux on Windows without any hassle.",
-      "url": "https://github.com/omacom/try-omarchy-windows",
-      "published_at": "2026-08-28T00:13:28Z",
-      "description": "Use Omarchy Linux on Windows without any hassle.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219015873?v=4",
-      "source": "GitHub",
-      "stars": 110,
-      "user": "omacom"
+      "stars": 322,
+      "user": "siknet"
     },
     {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
@@ -3494,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "pgrundev"
     },
     {
@@ -3509,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 55,
       "user": "basketikun"
     },
     {
@@ -3528,19 +3497,34 @@
       "user": "ih8d8"
     },
     {
-      "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "published_at": "2026-08-28T12:57:24Z",
-      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "title": "qianyubtc/BinancePayTool - 一款基于币安支付的个人收款网关",
+      "url": "https://github.com/qianyubtc/BinancePayTool",
+      "published_at": "2026-09-02T06:08:42Z",
+      "description": "一款基于币安支付的个人收款网关",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78684016?v=4",
       "source": "GitHub",
-      "stars": 2390,
-      "user": "XiaoDuoYa"
+      "stars": 44,
+      "user": "qianyubtc"
+    },
+    {
+      "title": "Slrrxx/binance-go - Production-ready unofficial Binance REST and WebSocket SDK for Go",
+      "url": "https://github.com/Slrrxx/binance-go",
+      "published_at": "2026-09-01T22:35:01Z",
+      "description": "Production-ready unofficial Binance REST and WebSocket SDK for Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314623774?v=4",
+      "source": "GitHub",
+      "stars": 41,
+      "user": "Slrrxx"
     },
     {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
@@ -3554,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 948,
+      "stars": 959,
       "user": "shadcn-ui"
     },
     {
@@ -3569,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 485,
       "user": "lnkiai"
     },
     {
@@ -3584,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "useagenthq"
     },
     {
@@ -3599,8 +3583,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "blendi-remade"
+    },
+    {
+      "title": "profullstack/hqtui - High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "url": "https://github.com/profullstack/hqtui",
+      "published_at": "2026-08-30T05:09:53Z",
+      "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
+      "source": "GitHub",
+      "stars": 192,
+      "user": "profullstack"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -3614,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 338,
       "user": "faisalkindi"
     },
     {
@@ -3629,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "mizorewww"
     },
     {
@@ -3648,21 +3647,6 @@
       "user": "richiemcilroy"
     },
     {
-      "title": "lgse/strata - A fast, keyboard-first file manager for Linux",
-      "url": "https://github.com/lgse/strata",
-      "published_at": "2026-08-28T22:41:07Z",
-      "description": "A fast, keyboard-first file manager for Linux",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17118095?v=4",
-      "source": "GitHub",
-      "stars": 187,
-      "user": "lgse"
-    },
-    {
       "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
       "url": "https://github.com/daffainfo/vol-rs",
       "published_at": "2026-08-30T04:35:19Z",
@@ -3676,6 +3660,21 @@
       "source": "GitHub",
       "stars": 168,
       "user": "daffainfo"
+    },
+    {
+      "title": "what1f/kitter - A local-first Skill manager: one library, only what each project needs.",
+      "url": "https://github.com/what1f/kitter",
+      "published_at": "2026-09-02T15:44:45Z",
+      "description": "A local-first Skill manager: one library, only what each project needs.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "what1f"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
