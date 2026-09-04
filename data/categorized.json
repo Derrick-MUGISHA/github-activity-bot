@@ -46,20 +46,6 @@
       "user": "xbill"
     },
     {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
       "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
       "published_at": "2026-09-04T01:59:20Z",
@@ -75,34 +61,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
-      "published_at": "2026-09-03T15:53:27Z",
-      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
-      "url": "https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh",
-      "published_at": "2026-09-03T04:27:12Z",
-      "description": "When Messages Can Be Taken Back: Building a \"Shapeshifting\" LINE Group Buying Bot with Edit...",
-      "tags": [
-        "api",
-        "development",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F33ax9l8y7x22l8g8c8we.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
       "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
       "published_at": "2026-09-03T15:54:57Z",
@@ -113,6 +71,33 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
+      "published_at": "2026-09-03T15:52:29Z",
+      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
+      "published_at": "2026-09-03T15:53:27Z",
+      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
+      "tags": [
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -207,6 +192,21 @@
       "user": "Connie Leung"
     },
     {
+      "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
+      "url": "https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh",
+      "published_at": "2026-09-03T04:27:12Z",
+      "description": "When Messages Can Be Taken Back: Building a \"Shapeshifting\" LINE Group Buying Bot with Edit...",
+      "tags": [
+        "api",
+        "development",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F33ax9l8y7x22l8g8c8we.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
       "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
       "published_at": "2026-09-02T16:35:00Z",
@@ -219,21 +219,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
       "source": "Dev.to",
       "user": "Jan-Felix Schmakeit"
-    },
-    {
-      "title": "Preptember is here!! Plan a Fest for your local community.",
-      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
-      "published_at": "2026-09-01T19:26:08Z",
-      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
-      "tags": [
-        "hacktoberfest",
-        "ai",
-        "hackathon",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
@@ -317,6 +302,227 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
       "source": "Dev.to",
       "user": "James O'Reilly"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
+      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
+      "published_at": "2026-08-29T18:57:42Z",
+      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
+      "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
+      "published_at": "2026-08-29T05:03:06Z",
+      "description": "Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
+      "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9",
+      "published_at": "2026-08-25T03:18:30Z",
+      "description": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
+      "tags": [
+        "ai",
+        "gcp",
+        "neo4j",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gajwucxkidvoba2xphx.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
+      "published_at": "2026-08-17T20:12:46Z",
+      "description": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "tags": [
+        "agents",
+        "ai",
+        "coding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
+      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
+      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
+      "published_at": "2026-08-23T20:12:24Z",
+      "description": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Container Apps — all speaking A2A v1.0. Where the platforms differ, where the models differ, and what has to be held constant before either is readable.",
+      "tags": [
+        "a2a",
+        "aiagents",
+        "aws",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Preptember is here!! Plan a Fest for your local community.",
+      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
+      "published_at": "2026-09-01T19:26:08Z",
+      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
+      "tags": [
+        "hacktoberfest",
+        "ai",
+        "hackathon",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
+      "published_at": "2026-09-01T16:35:00Z",
+      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "tags": [
+        "ai",
+        "evals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
+    },
+    {
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
+      "published_at": "2026-08-23T20:09:04Z",
+      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
+      "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
+      "published_at": "2026-08-29T12:58:53Z",
+      "description": "If you've tried an \"agentic\" AI coding tool recently, there's a good chance it asked you to switch...",
+      "tags": [
+        "antigravity",
+        "vscode",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
+    {
+      "title": "Greatness Is Forged by Limitation",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
+      "published_at": "2026-08-19T13:04:47Z",
+      "description": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
+      "tags": [
+        "ai",
+        "programming",
+        "webdev",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
+      "source": "Dev.to",
+      "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
+      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
+      "published_at": "2026-08-30T19:09:03Z",
+      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
+      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
+      "published_at": "2026-08-25T07:00:00Z",
+      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
+      "tags": [
+        "ai",
+        "llm",
+        "datascience",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -513,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1794,
       "user": "anthropics"
     },
     {
@@ -528,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1031,
       "user": "GangTailorUpgrade"
     },
     {
@@ -543,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 842,
       "user": "2akouwu"
     },
     {
@@ -558,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 433,
       "user": "Merserk"
     },
     {
@@ -588,8 +794,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 60,
       "user": "cocoyes"
+    },
+    {
+      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
+      "url": "https://github.com/gesta-run/subpool",
+      "published_at": "2026-09-02T08:27:21Z",
+      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "gesta-run"
     },
     {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
@@ -603,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1028,
       "user": "shadcn-ui"
     },
     {
@@ -618,23 +839,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 915,
       "user": "lnkiai"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 282,
-      "user": "useagenthq"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -648,8 +854,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 295,
       "user": "Albert-Weasker"
+    },
+    {
+      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "url": "https://github.com/useagenthq/useagent",
+      "published_at": "2026-08-29T21:14:31Z",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
+      "source": "GitHub",
+      "stars": 284,
+      "user": "useagenthq"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -663,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 359,
       "user": "faisalkindi"
     },
     {
@@ -699,7 +920,7 @@
       "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
       "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
       "published_at": "2026-09-03T21:14:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
         "garbage-collection",
@@ -982,6 +1203,51 @@
       "user": "Connie Leung"
     },
     {
+      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
+      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
+      "published_at": "2026-08-30T21:04:04Z",
+      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal",
+      "url": "https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf",
+      "published_at": "2026-08-28T21:32:56Z",
+      "description": "Learn how BlocSignal 1.1.0 introduces symmetrical .toBlocSignal() and .toAsyncBlocSignal() adapters for Signals, Futures, and Streams—making the migration away from FutureBuilder and StreamBuilder completely mechanical, type-safe, and 0ms reactive.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk7eqboky9quitbvythao.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
+      "published_at": "2026-08-16T13:31:22Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
+      "source": "Dev.to",
+      "user": "Gamya "
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1113,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1253,
       "user": "rakanki911"
     },
     {
@@ -1128,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 410,
       "user": "PhiloLabs"
     },
     {
@@ -1143,8 +1409,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "subsy"
+    },
+    {
+      "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+      "published_at": "2026-09-02T06:38:31Z",
+      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "dreamers-laboratory"
     },
     {
       "title": "TetreesEX/TetreesAgent_EX - This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
@@ -1162,21 +1443,6 @@
       "user": "TetreesEX"
     },
     {
-      "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
-      "published_at": "2026-09-02T06:38:31Z",
-      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
-      "source": "GitHub",
-      "stars": 250,
-      "user": "dreamers-laboratory"
-    },
-    {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
       "url": "https://github.com/shadcn-ui/cn",
       "published_at": "2026-08-31T07:04:03Z",
@@ -1188,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1028,
       "user": "shadcn-ui"
     },
     {
@@ -1203,23 +1469,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 915,
       "user": "lnkiai"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 282,
-      "user": "useagenthq"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -1233,8 +1484,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 295,
       "user": "Albert-Weasker"
+    },
+    {
+      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "url": "https://github.com/useagenthq/useagent",
+      "published_at": "2026-08-29T21:14:31Z",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
+      "source": "GitHub",
+      "stars": 284,
+      "user": "useagenthq"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -1248,24 +1514,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 232,
       "user": "blendi-remade"
     },
     {
-      "title": "Fix user interface (UI)",
-      "url": "https://stackoverflow.com/questions/80000659/fix-user-interface-ui",
-      "published_at": "2026-09-04T01:45:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "How can I work with multiple variables in one Function in Javascript",
+      "url": "https://stackoverflow.com/questions/80000714/how-can-i-work-with-multiple-variables-in-one-function-in-javascript",
+      "published_at": "2026-09-04T07:32:46.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "javascript",
-        "html",
-        "css",
-        "github",
-        "interface"
+        "function"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jaybee365"
+      "user": "Jethro Bege Moses"
     },
     {
       "title": "How should a React app handle API data when the user navigates away before the request finishes?",
@@ -1379,20 +1642,17 @@
       "user": "Fengrong Han Bobb"
     },
     {
-      "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
-      "url": "https://stackoverflow.com/questions/80000036/text-alignment-on-a-dynamically-created-html-element-via-javascript-not-working",
-      "published_at": "2026-09-01T23:33:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "title": "Check if a variable is a string in JavaScript",
+      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
+      "published_at": "2010-10-30T14:36:34.000Z",
+      "description": "Stack Overflow question · 34 answers · score 2883",
       "tags": [
         "javascript",
-        "html",
-        "text",
-        "dynamic",
-        "alignment"
+        "string"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Nomad1004"
+      "user": "Olical"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -1454,6 +1714,21 @@
         "productivity"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
+    {
+      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
+      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
+      "published_at": "2026-08-25T07:00:00Z",
+      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
+      "tags": [
+        "ai",
+        "llm",
+        "datascience",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
     },
@@ -1589,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1794,
       "user": "anthropics"
     },
     {
@@ -1604,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1031,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1619,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 842,
       "user": "2akouwu"
     },
     {
@@ -1634,36 +1909,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 433,
       "user": "Merserk"
     },
     {
-      "title": "siknet/FreePEP - 人教社电子教材下载器",
-      "url": "https://github.com/siknet/FreePEP",
-      "published_at": "2026-08-31T02:21:10Z",
-      "description": "人教社电子教材下载器",
+      "title": "Human-Agent-Society/reef - Continual learning infra for self-improving agents",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "published_at": "2026-08-31T01:39:18Z",
+      "description": "Continual learning infra for self-improving agents",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32444042?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 322,
-      "user": "siknet"
+      "stars": 350,
+      "user": "Human-Agent-Society"
     },
     {
-      "title": "Object of type list[(input: str) -> bool] is not assignable to (str, /) -> bool",
-      "url": "https://stackoverflow.com/questions/80000678/object-of-type-listinput-str-bool-is-not-assignable-to-str-bool",
-      "published_at": "2026-09-04T04:45:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Learning Django - what steps should I take?",
+      "url": "https://stackoverflow.com/questions/80000761/learning-django-what-steps-should-i-take",
+      "published_at": "2026-09-04T10:23:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
+        "advice",
         "python",
-        "types"
+        "django",
+        "django-rest-framework"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "isgin01"
+      "user": "Dawid"
+    },
+    {
+      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
+      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
+      "published_at": "2026-09-03T21:14:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "garbage-collection",
+        "python-asyncio",
+        "weak-references"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "YKT"
     },
     {
       "title": "PySide6 Custom widget with Enum property",
@@ -1678,34 +1970,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gee3107"
-    },
-    {
-      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
-      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
-      "published_at": "2026-09-03T21:14:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "garbage-collection",
-        "python-asyncio",
-        "weak-references"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "YKT"
-    },
-    {
-      "title": "Python Library/Module Won't Import While Others Do",
-      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
-      "published_at": "2026-09-03T19:37:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "macos"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe Borgione"
     },
     {
       "title": "Opened .txt file seems to be empty after a for in function",
@@ -1723,6 +1987,32 @@
       "user": "Tommaso Bartalesi"
     },
     {
+      "title": "Python Library/Module Won't Import While Others Do",
+      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
+      "published_at": "2026-09-03T19:37:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "macos"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe Borgione"
+    },
+    {
+      "title": "How to call a Python script from Octave using system()",
+      "url": "https://stackoverflow.com/questions/80000342/how-to-call-a-python-script-from-octave-using-system",
+      "published_at": "2026-09-02T23:06:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "octave"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "babelproofreader"
+    },
+    {
       "title": "How should I start to learn gRPC using Python?",
       "url": "https://stackoverflow.com/questions/80000444/how-should-i-start-to-learn-grpc-using-python",
       "published_at": "2026-09-03T09:14:47.000Z",
@@ -1734,6 +2024,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mohammed Shahid S"
+    },
+    {
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "best-practices",
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John Gordon"
     },
     {
       "title": "How can I make numpy arrays the same shape before doing conditional computations?",
@@ -1751,20 +2055,6 @@
       "user": "schtandard"
     },
     {
-      "title": "Canonical way to select data in SQLAlchemy",
-      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
-      "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "best-practices",
-        "python",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John Gordon"
-    },
-    {
       "title": "In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",
       "url": "https://stackoverflow.com/questions/80000338/in-the-python-socket-module-i-am-trying-to-send-http-status-codes-to-my-client",
       "published_at": "2026-09-02T22:46:58.000Z",
@@ -1776,19 +2066,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joshua White"
-    },
-    {
-      "title": "How can I test Stack Overflow API write operations?",
-      "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
-      "published_at": "2026-09-03T08:10:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "advice",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AmSurya"
     }
   ],
   "DevOps": [
@@ -1834,6 +2111,66 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
+      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
+      "published_at": "2026-08-29T18:57:42Z",
+      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
+      "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
+      "published_at": "2026-08-29T05:03:06Z",
+      "description": "Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
+      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
+      "published_at": "2026-08-30T19:09:03Z",
+      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -1991,6 +2328,47 @@
   ],
   "WebDev": [
     {
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
+      "published_at": "2026-08-16T13:31:22Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
+      "source": "Dev.to",
+      "user": "Gamya "
+    },
+    {
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
+      "published_at": "2026-08-09T19:42:53Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
+      "tags": [
+        "devchallenge",
+        "bugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2018,6 +2396,19 @@
       "user": "mizorewww"
     },
     {
+      "title": "The asteroid currently hitting frontend web development",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "published_at": "2026-09-03T22:40:21.698-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "education",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cgrinds"
+    },
+    {
       "title": "You Don't Need Initial-Scale In Your HTML",
       "url": "https://vale.rocks/micros/20260902-1350",
       "published_at": "2026-09-03T09:03:31.735-05:00",
@@ -2028,22 +2419,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "MatheusRich"
-    },
-    {
-      "title": "Fix user interface (UI)",
-      "url": "https://stackoverflow.com/questions/80000659/fix-user-interface-ui",
-      "published_at": "2026-09-04T01:45:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "github",
-        "interface"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jaybee365"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
@@ -2103,22 +2478,6 @@
       "user": "Fengrong Han Bobb"
     },
     {
-      "title": "Text alignment on a dynamically created HTML element via JavaScript not working",
-      "url": "https://stackoverflow.com/questions/80000036/text-alignment-on-a-dynamically-created-html-element-via-javascript-not-working",
-      "published_at": "2026-09-01T23:33:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "text",
-        "dynamic",
-        "alignment"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nomad1004"
-    },
-    {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
       "url": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
       "published_at": "2026-09-01T20:33:19.000Z",
@@ -2137,21 +2496,6 @@
   ],
   "Mobile": [
     {
-      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
-      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
-      "published_at": "2026-09-03T17:31:52Z",
-      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
       "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
       "published_at": "2026-09-03T12:47:27Z",
@@ -2163,6 +2507,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
+      "published_at": "2026-09-03T17:31:52Z",
+      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2197,6 +2556,66 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
+      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8",
+      "published_at": "2026-08-30T01:27:54Z",
+      "description": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and Riverpod now operate as first-class bidirectional peers at the Grand Central State Terminal.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
+      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
+      "published_at": "2026-08-30T21:04:04Z",
+      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views",
+      "url": "https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g",
+      "published_at": "2026-08-26T23:09:28Z",
+      "description": "Discover why using FutureBuilder and StreamBuilder inside Flutter widget trees breaks separation of concerns, triggers accidental refetches, creates layout shift cascades, and hinders testability—and learn how to quarantine async at the perimeter using AsyncSignal and BlocSignal.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjvm7orcmfpr5wcyxtv1f.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal",
+      "url": "https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf",
+      "published_at": "2026-08-28T21:32:56Z",
+      "description": "Learn how BlocSignal 1.1.0 introduces symmetrical .toBlocSignal() and .toAsyncBlocSignal() adapters for Signals, Futures, and Streams—making the migration away from FutureBuilder and StreamBuilder completely mechanical, type-safe, and 0ms reactive.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk7eqboky9quitbvythao.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
       "url": "https://github.com/richiemcilroy/chippytea",
       "published_at": "2026-08-31T11:06:58Z",
@@ -2208,7 +2627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 199,
       "user": "richiemcilroy"
     },
     {
@@ -2261,20 +2680,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
       "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
       "published_at": "2026-09-04T01:59:20Z",
@@ -2300,6 +2705,20 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
+      "published_at": "2026-09-03T15:52:29Z",
+      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -2363,6 +2782,141 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
+      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
+      "published_at": "2026-08-29T18:57:42Z",
+      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
+      "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
+      "published_at": "2026-08-29T05:03:06Z",
+      "description": "Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
+      "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9",
+      "published_at": "2026-08-25T03:18:30Z",
+      "description": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
+      "tags": [
+        "ai",
+        "gcp",
+        "neo4j",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gajwucxkidvoba2xphx.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
+      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
+      "published_at": "2026-08-23T20:12:24Z",
+      "description": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Container Apps — all speaking A2A v1.0. Where the platforms differ, where the models differ, and what has to be held constant before either is readable.",
+      "tags": [
+        "a2a",
+        "aiagents",
+        "aws",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
+      "url": "https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp",
+      "published_at": "2026-08-30T07:45:24Z",
+      "description": "Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...",
+      "tags": [
+        "googleappsscript",
+        "gemini",
+        "antigravity",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8ydhpymfaq4bw5lly2zv.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
+      "published_at": "2026-08-23T20:09:04Z",
+      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
+      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
+      "published_at": "2026-08-30T19:09:03Z",
+      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
       "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
       "url": "https://github.com/useagenthq/useagent",
       "published_at": "2026-08-29T21:14:31Z",
@@ -2374,7 +2928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "useagenthq"
     },
     {
@@ -2411,7 +2965,7 @@
       "title": "Canonical way to select data in SQLAlchemy",
       "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
       "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "best-practices",
         "python",
@@ -2437,6 +2991,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2571,16 +3140,16 @@
       "user": "ewenjo"
     },
     {
-      "title": "I Think the Military Commissary Freezers Were Hacked",
-      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "published_at": "2026-09-02T22:20:07.952-05:00",
+      "title": "The NX bit is not just about security",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "published_at": "2026-09-04T01:27:04.169-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "security"
+        "assembly"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "df"
+      "user": "fanf"
     },
     {
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
@@ -2658,6 +3227,66 @@
       "user": "Ashley Childress"
     },
     {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
+      "published_at": "2026-08-23T20:09:04Z",
+      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Git Gud!",
+      "url": "https://dev.to/francistrdev/git-gud-4e6g",
+      "published_at": "2026-08-17T14:40:58Z",
+      "description": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
+      "tags": [
+        "discuss",
+        "community",
+        "git",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgx172uk117loqmhycay.gif",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
+      "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
+      "published_at": "2026-08-29T12:58:53Z",
+      "description": "If you've tried an \"agentic\" AI coding tool recently, there's a good chance it asked you to switch...",
+      "tags": [
+        "antigravity",
+        "vscode",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -2705,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1253,
       "user": "rakanki911"
     },
     {
@@ -2720,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 410,
       "user": "PhiloLabs"
     },
     {
@@ -2735,8 +3364,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "subsy"
+    },
+    {
+      "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+      "published_at": "2026-09-02T06:38:31Z",
+      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "dreamers-laboratory"
     },
     {
       "title": "TetreesEX/TetreesAgent_EX - This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
@@ -2754,21 +3398,6 @@
       "user": "TetreesEX"
     },
     {
-      "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
-      "published_at": "2026-09-02T06:38:31Z",
-      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
-      "source": "GitHub",
-      "stars": 250,
-      "user": "dreamers-laboratory"
-    },
-    {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
       "published_at": "2026-09-01T12:30:12Z",
@@ -2780,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1794,
       "user": "anthropics"
     },
     {
@@ -2795,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1031,
       "user": "GangTailorUpgrade"
     },
     {
@@ -2810,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 842,
       "user": "2akouwu"
     },
     {
@@ -2825,23 +3454,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 433,
       "user": "Merserk"
     },
     {
-      "title": "siknet/FreePEP - 人教社电子教材下载器",
-      "url": "https://github.com/siknet/FreePEP",
-      "published_at": "2026-08-31T02:21:10Z",
-      "description": "人教社电子教材下载器",
+      "title": "Human-Agent-Society/reef - Continual learning infra for self-improving agents",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "published_at": "2026-08-31T01:39:18Z",
+      "description": "Continual learning infra for self-improving agents",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32444042?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 322,
-      "user": "siknet"
+      "stars": 350,
+      "user": "Human-Agent-Society"
     },
     {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
@@ -2855,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "pgrundev"
     },
     {
@@ -2874,6 +3503,36 @@
       "user": "basketikun"
     },
     {
+      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
+      "published_at": "2026-08-31T10:23:49Z",
+      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "cocoyes"
+    },
+    {
+      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
+      "url": "https://github.com/gesta-run/subpool",
+      "published_at": "2026-09-02T08:27:21Z",
+      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "gesta-run"
+    },
+    {
       "title": "ih8d8/yt-dlp-manager - Self-hosted yt-dlp download manager: web UI, TUI and CLI over one shared queue. Single Go binary.",
       "url": "https://github.com/ih8d8/yt-dlp-manager",
       "published_at": "2026-08-30T05:35:51Z",
@@ -2889,36 +3548,6 @@
       "user": "ih8d8"
     },
     {
-      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
-      "published_at": "2026-08-31T10:23:49Z",
-      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
-      "source": "GitHub",
-      "stars": 46,
-      "user": "cocoyes"
-    },
-    {
-      "title": "qianyubtc/BinancePayTool - 一款基于币安支付的个人收款网关",
-      "url": "https://github.com/qianyubtc/BinancePayTool",
-      "published_at": "2026-09-02T06:08:42Z",
-      "description": "一款基于币安支付的个人收款网关",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78684016?v=4",
-      "source": "GitHub",
-      "stars": 44,
-      "user": "qianyubtc"
-    },
-    {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
       "url": "https://github.com/shadcn-ui/cn",
       "published_at": "2026-08-31T07:04:03Z",
@@ -2930,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1028,
       "user": "shadcn-ui"
     },
     {
@@ -2945,23 +3574,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 915,
       "user": "lnkiai"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 282,
-      "user": "useagenthq"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -2975,8 +3589,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 295,
       "user": "Albert-Weasker"
+    },
+    {
+      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "url": "https://github.com/useagenthq/useagent",
+      "published_at": "2026-08-29T21:14:31Z",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
+      "source": "GitHub",
+      "stars": 284,
+      "user": "useagenthq"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -2990,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 232,
       "user": "blendi-remade"
     },
     {
@@ -3005,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 359,
       "user": "faisalkindi"
     },
     {
@@ -3035,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 199,
       "user": "richiemcilroy"
     },
     {
@@ -3065,24 +3694,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 150,
       "user": "what1f"
-    },
-    {
-      "title": "Fix user interface (UI)",
-      "url": "https://stackoverflow.com/questions/80000659/fix-user-interface-ui",
-      "published_at": "2026-09-04T01:45:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "github",
-        "interface"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jaybee365"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
