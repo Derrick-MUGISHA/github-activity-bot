@@ -721,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1898,
+      "stars": 1917,
       "user": "anthropics"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1051,
       "user": "GangTailorUpgrade"
     },
     {
@@ -751,23 +751,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 877,
       "user": "2akouwu"
-    },
-    {
-      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "published_at": "2026-08-30T19:45:52Z",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "Merserk"
     },
     {
       "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
@@ -781,8 +766,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 517,
       "user": "nahrek"
+    },
+    {
+      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "published_at": "2026-08-30T19:45:52Z",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
+      "source": "GitHub",
+      "stars": 484,
+      "user": "Merserk"
     },
     {
       "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
@@ -841,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1782,
       "user": "lnkiai"
     },
     {
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1100,
       "user": "shadcn-ui"
     },
     {
@@ -871,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 398,
       "user": "Albert-Weasker"
     },
     {
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 380,
       "user": "faisalkindi"
     },
     {
@@ -944,7 +944,7 @@
       "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
       "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
       "published_at": "2026-09-04T17:40:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "typechecking",
@@ -983,6 +983,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "YKT"
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "published_at": "2026-09-04T21:12:11.000Z",
+      "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "tags": [
+        "AI",
+        "compute",
+        "nscale",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "What will Apple&#8217;s John Ternus era look like?",
@@ -1057,6 +1072,35 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
+    },
+    {
+      "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
+      "url": "https://www.freecodecamp.org/news/how-ai-receptionists-work-the-architecture-behind-ai-phone-agents/",
+      "published_at": "2026-09-04T20:07:46.000Z",
+      "description": "An AI receptionist may sound simple from the outside: a caller speaks, the system responds, and the conversation continues until the caller gets an answer or reaches a person. Behind that conversation",
+      "tags": [
+        "AI",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
+      "url": "https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/",
+      "published_at": "2026-09-04T16:19:46.000Z",
+      "description": "When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin",
+      "tags": [
+        "Artificial Intelligence",
+        "cybersecurity",
+        "Vulnerability management",
+        "Patch management",
+        "DevSecOps"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
     },
     {
       "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
@@ -1134,38 +1178,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Atuoha Anthony"
-    },
-    {
-      "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
-      "url": "https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/",
-      "published_at": "2026-09-01T22:42:18.000Z",
-      "description": "As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t",
-      "tags": [
-        "engineering-management",
-        "software development",
-        "DDD",
-        "#Domain-Driven-Design",
-        "Clean Architecture"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "Why You Should Never Send Emails Inside Your API Requests",
-      "url": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
-      "published_at": "2026-09-01T20:33:19.000Z",
-      "description": "Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio",
-      "tags": [
-        "Node.js",
-        "api",
-        "backend",
-        "architecture",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinedu Otutu"
     }
   ],
   "JavaScript": [
@@ -1391,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1458,
+      "stars": 1476,
       "user": "rakanki911"
     },
     {
@@ -1406,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "PhiloLabs"
     },
     {
@@ -1421,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "subsy"
     },
     {
@@ -1436,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 314,
       "user": "ahujasid"
     },
     {
@@ -1451,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "dreamers-laboratory"
     },
     {
@@ -1466,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1782,
       "user": "lnkiai"
     },
     {
@@ -1481,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1100,
       "user": "shadcn-ui"
     },
     {
@@ -1496,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 398,
       "user": "Albert-Weasker"
     },
     {
@@ -1530,10 +1542,24 @@
       "user": "blendi-remade"
     },
     {
+      "title": "Input value for total number of pages in a REDCap survey?",
+      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
+      "published_at": "2026-09-04T20:50:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "redcap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bcarothers"
+    },
+    {
       "title": "javascript accessing object value or name",
       "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
       "published_at": "2026-09-04T15:18:25.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "javascript",
         "javascript-objects"
@@ -1562,7 +1588,7 @@
       "title": "Google Maps Distance Matrix API returning ZERO_RESULTS for valid local US addresses in JavaScript fetch",
       "url": "https://stackoverflow.com/questions/80000773/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-us-addres",
       "published_at": "2026-09-04T11:14:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "google-maps",
@@ -1652,35 +1678,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
-    },
-    {
-      "title": "Check if a variable is a string in JavaScript",
-      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
-      "published_at": "2010-10-30T14:36:34.000Z",
-      "description": "Stack Overflow question · 34 answers · score 2883",
-      "tags": [
-        "javascript",
-        "string"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Olical"
-    },
-    {
-      "title": "Why You Should Never Send Emails Inside Your API Requests",
-      "url": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
-      "published_at": "2026-09-01T20:33:19.000Z",
-      "description": "Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio",
-      "tags": [
-        "Node.js",
-        "api",
-        "backend",
-        "architecture",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinedu Otutu"
     }
   ],
   "Python": [
@@ -1861,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1898,
+      "stars": 1917,
       "user": "anthropics"
     },
     {
@@ -1876,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1051,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1891,23 +1888,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 877,
       "user": "2akouwu"
-    },
-    {
-      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "published_at": "2026-08-30T19:45:52Z",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "Merserk"
     },
     {
       "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
@@ -1921,14 +1903,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 517,
       "user": "nahrek"
+    },
+    {
+      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "published_at": "2026-08-30T19:45:52Z",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
+      "source": "GitHub",
+      "stars": 484,
+      "user": "Merserk"
+    },
+    {
+      "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working?",
+      "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create",
+      "published_at": "2026-09-04T20:44:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "subprocess",
+        "popen"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Power of Wilson"
     },
     {
       "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
       "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
       "published_at": "2026-09-04T17:40:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "typechecking",
@@ -1937,6 +1948,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "How to type-hint a function that returns as many values as in its input?",
+      "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
+      "published_at": "2026-09-04T12:38:48.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "python",
+        "python-typing",
+        "variadic-functions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "schtandard"
     },
     {
       "title": "I can't figure out how to make this BMI calculator work",
@@ -1949,20 +1974,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BRANDON BRANDSTETTER"
-    },
-    {
-      "title": "How to type-hint a function that returns as many values as in its input?",
-      "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
-      "published_at": "2026-09-04T12:38:48.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "python-typing",
-        "variadic-functions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "schtandard"
     },
     {
       "title": "Best practice for (simple) searching item in a list",
@@ -2035,20 +2046,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tommaso Bartalesi"
-    },
-    {
-      "title": "PySide6 Custom widget with Enum property",
-      "url": "https://stackoverflow.com/questions/80000657/pyside6-custom-widget-with-enum-property",
-      "published_at": "2026-09-04T01:27:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "qt-designer",
-        "pyside6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gee3107"
     },
     {
       "title": "Canonical way to select data in SQLAlchemy",
@@ -2381,6 +2378,20 @@
       "user": "cgrinds"
     },
     {
+      "title": "Input value for total number of pages in a REDCap survey?",
+      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
+      "published_at": "2026-09-04T20:50:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "redcap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bcarothers"
+    },
+    {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
       "url": "https://stackoverflow.com/questions/80000410/canvas-click-hit-testing-vs-devicepixelratio-scaling-why-doesnt-click-code-ne",
       "published_at": "2026-09-03T07:26:53.000Z",
@@ -2408,22 +2419,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
-    },
-    {
-      "title": "Why You Should Never Send Emails Inside Your API Requests",
-      "url": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
-      "published_at": "2026-09-01T20:33:19.000Z",
-      "description": "Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio",
-      "tags": [
-        "Node.js",
-        "api",
-        "backend",
-        "architecture",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinedu Otutu"
     }
   ],
   "Mobile": [
@@ -2577,22 +2572,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Atuoha Anthony"
-    },
-    {
-      "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
-      "url": "https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/",
-      "published_at": "2026-09-01T22:42:18.000Z",
-      "description": "As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t",
-      "tags": [
-        "engineering-management",
-        "software development",
-        "DDD",
-        "#Domain-Driven-Design",
-        "Clean Architecture"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Cloud": [
@@ -2905,7 +2884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 517,
       "user": "nahrek"
     },
     {
@@ -3126,6 +3105,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
+      "url": "https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/",
+      "published_at": "2026-09-04T16:19:46.000Z",
+      "description": "When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin",
+      "tags": [
+        "Artificial Intelligence",
+        "cybersecurity",
+        "Vulnerability management",
+        "Patch management",
+        "DevSecOps"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
     }
   ],
   "Tools": [
@@ -3281,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1458,
+      "stars": 1476,
       "user": "rakanki911"
     },
     {
@@ -3296,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "PhiloLabs"
     },
     {
@@ -3311,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "subsy"
     },
     {
@@ -3326,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 314,
       "user": "ahujasid"
     },
     {
@@ -3341,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "dreamers-laboratory"
     },
     {
@@ -3356,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1898,
+      "stars": 1917,
       "user": "anthropics"
     },
     {
@@ -3371,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1051,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3386,23 +3381,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 877,
       "user": "2akouwu"
-    },
-    {
-      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "published_at": "2026-08-30T19:45:52Z",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "Merserk"
     },
     {
       "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
@@ -3416,8 +3396,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 517,
       "user": "nahrek"
+    },
+    {
+      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+      "published_at": "2026-08-30T19:45:52Z",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
+      "source": "GitHub",
+      "stars": 484,
+      "user": "Merserk"
     },
     {
       "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
@@ -3461,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 66,
       "user": "pgrundev"
     },
     {
@@ -3506,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1782,
       "user": "lnkiai"
     },
     {
@@ -3521,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1100,
       "user": "shadcn-ui"
     },
     {
@@ -3536,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 398,
       "user": "Albert-Weasker"
     },
     {
@@ -3581,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 380,
       "user": "faisalkindi"
     },
     {
@@ -3626,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 186,
       "user": "pipicat613"
     },
     {
@@ -3641,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "what1f"
     },
     {
