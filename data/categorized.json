@@ -16,6 +16,36 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
+      "published_at": "2026-09-04T09:24:10Z",
+      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "tags": [
+        "ai",
+        "agents",
+        "softwaredevelopment",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
+      "source": "Dev.to",
+      "user": "ujja"
+    },
+    {
+      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
+      "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
+      "published_at": "2026-09-03T15:32:52Z",
+      "description": "A senior software engineer who knew nothing about hardware, a BACnet MS/TP thermostat, and an RS-485 bus. How I ended up with an ESP32-S3 gateway on a DIN rail, wired into Home Assistant, in 15 evenings.",
+      "tags": [
+        "bacnet",
+        "esp32",
+        "iot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv09zfq5acat27lmo2hmm.jpg",
+      "source": "Dev.to",
+      "user": "Felice Lombardi"
+    },
+    {
       "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
       "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
       "published_at": "2026-09-03T15:18:58Z",
@@ -276,6 +306,21 @@
       "user": "Ashley Childress"
     },
     {
+      "title": "How the internet actually works, and why nobody is in charge of it",
+      "url": "https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8",
+      "published_at": "2026-09-01T18:46:58Z",
+      "description": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
+      "tags": [
+        "networking",
+        "webdev",
+        "programming",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxnd7iq7dc3kzby7m3qz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
+    },
+    {
       "title": "Claude Fable 5.1 is now available on Agent Platform!",
       "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
       "published_at": "2026-09-01T18:28:57Z",
@@ -497,34 +542,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
-      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
-      "published_at": "2026-08-25T07:00:00Z",
-      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
-      "tags": [
-        "ai",
-        "llm",
-        "datascience",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -693,21 +710,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "TetreesEX/TetreesAgent_EX - This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
-      "url": "https://github.com/TetreesEX/TetreesAgent_EX",
-      "published_at": "2026-08-29T07:46:09Z",
-      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "TetreesEX"
-    },
-    {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
       "published_at": "2026-09-01T12:30:12Z",
@@ -719,7 +721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1839,
+      "stars": 1878,
       "user": "anthropics"
     },
     {
@@ -734,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1041,
       "user": "GangTailorUpgrade"
     },
     {
@@ -749,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 865,
       "user": "2akouwu"
     },
     {
@@ -764,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 476,
       "user": "Merserk"
     },
     {
@@ -779,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 67,
       "user": "cocoyes"
     },
     {
@@ -824,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1353,
       "user": "lnkiai"
     },
     {
@@ -839,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1068,
       "user": "shadcn-ui"
     },
     {
@@ -854,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 378,
       "user": "Albert-Weasker"
     },
     {
@@ -884,23 +886,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 373,
       "user": "faisalkindi"
-    },
-    {
-      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
-      "url": "https://github.com/daffainfo/vol-rs",
-      "published_at": "2026-08-30T04:35:19Z",
-      "description": "Volatility 3 ported to Rust. Same output, much faster.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
-      "source": "GitHub",
-      "stars": 169,
-      "user": "daffainfo"
     },
     {
       "title": "Surviving Code Reviews in the era of AI",
@@ -927,18 +914,30 @@
       "user": "addison"
     },
     {
-      "title": "How to capture original state of a container?",
-      "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
-      "published_at": "2026-09-02T14:24:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Is AI ruining my brain?",
+      "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+      "published_at": "2026-09-04T09:41:18.640-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "html",
-        "css"
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "MatheusRich"
+    },
+    {
+      "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
+      "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
+      "published_at": "2026-09-04T17:40:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "typechecking",
+        "pyright"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Anto Abisheik J"
+      "user": "iamthebull"
     },
     {
       "title": "Buildozer cannot build APKs again",
@@ -971,6 +970,64 @@
       "user": "YKT"
     },
     {
+      "title": "What will Apple&#8217;s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "published_at": "2026-09-04T17:18:00.000Z",
+      "description": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+      "tags": [
+        "AI",
+        "Apple",
+        "John Ternus",
+        "nvidia",
+        "Tesla"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "published_at": "2026-09-04T16:21:11.000Z",
+      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+      "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+      "published_at": "2026-09-04T15:00:00.000Z",
+      "description": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
+      "tags": [
+        "Hardware",
+        "Media & Entertainment",
+        "Compact Disc"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "published_at": "2026-09-04T14:47:11.000Z",
+      "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "tags": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google Photos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
       "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
       "published_at": "2026-09-04T14:00:00.000Z",
@@ -993,56 +1050,12 @@
       "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
       "tags": [
         "AI",
-        "Exclusive"
+        "Exclusive",
+        "Generative AI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "published_at": "2026-09-04T00:48:42.000Z",
-      "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "tags": [
-        "AI",
-        "Venture",
-        "crusoe",
-        "data centers",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Startup ARR is less secure than ever, new research shows",
-      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "published_at": "2026-09-03T20:59:23.000Z",
-      "description": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-      "tags": [
-        "Enterprise",
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "published_at": "2026-09-03T19:36:29.000Z",
-      "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Accel",
-        "In Brief",
-        "Mira Murati"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "Claude Code Observability with OpenTelemetry",
@@ -1244,21 +1257,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
-      "published_at": "2026-08-16T13:31:22Z",
-      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
-      "source": "Dev.to",
-      "user": "Gamya "
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1390,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1419,
       "user": "rakanki911"
     },
     {
@@ -1405,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 424,
       "user": "PhiloLabs"
     },
     {
@@ -1420,8 +1418,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 387,
       "user": "subsy"
+    },
+    {
+      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "published_at": "2026-09-03T10:34:30Z",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
+      "source": "GitHub",
+      "stars": 299,
+      "user": "ahujasid"
     },
     {
       "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
@@ -1435,23 +1448,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 292,
       "user": "dreamers-laboratory"
-    },
-    {
-      "title": "TetreesEX/TetreesAgent_EX - This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
-      "url": "https://github.com/TetreesEX/TetreesAgent_EX",
-      "published_at": "2026-08-29T07:46:09Z",
-      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "TetreesEX"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1465,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1353,
       "user": "lnkiai"
     },
     {
@@ -1480,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1068,
       "user": "shadcn-ui"
     },
     {
@@ -1495,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 378,
       "user": "Albert-Weasker"
     },
     {
@@ -1527,6 +1525,35 @@
       "source": "GitHub",
       "stars": 234,
       "user": "blendi-remade"
+    },
+    {
+      "title": "javascript accessing object value or name",
+      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
+      "published_at": "2026-09-04T15:18:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "javascript-objects"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JKomp"
+    },
+    {
+      "title": "Fast client-side video compression in React — alternatives to FFmpeg.wasm?",
+      "url": "https://stackoverflow.com/questions/80000811/fast-client-side-video-compression-in-react-alternatives-to-ffmpeg-wasm",
+      "published_at": "2026-09-04T13:40:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "ffmpeg",
+        "webassembly",
+        "video-compression"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aman Ali"
     },
     {
       "title": "Google Maps Distance Matrix API returning ZERO_RESULTS for valid local US addresses in JavaScript fetch",
@@ -1639,33 +1666,6 @@
       "user": "Thomas Thomasclak"
     },
     {
-      "title": "How to capture original state of a container?",
-      "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
-      "published_at": "2026-09-02T14:24:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anto Abisheik J"
-    },
-    {
-      "title": "Check if a variable is a string in JavaScript",
-      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
-      "published_at": "2010-10-30T14:36:34.000Z",
-      "description": "Stack Overflow question · 34 answers · score 2883",
-      "tags": [
-        "javascript",
-        "string"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Olical"
-    },
-    {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
       "url": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
       "published_at": "2026-09-01T20:33:19.000Z",
@@ -1725,21 +1725,6 @@
         "productivity"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
-      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
-      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
-      "published_at": "2026-08-25T07:00:00Z",
-      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
-      "tags": [
-        "ai",
-        "llm",
-        "datascience",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
     },
@@ -1875,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1839,
+      "stars": 1878,
       "user": "anthropics"
     },
     {
@@ -1890,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1041,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1905,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 865,
       "user": "2akouwu"
     },
     {
@@ -1920,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 476,
       "user": "Merserk"
     },
     {
@@ -1935,18 +1920,58 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 388,
       "user": "Human-Agent-Society"
+    },
+    {
+      "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
+      "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
+      "published_at": "2026-09-04T17:40:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "typechecking",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
+      "title": "I can't figure out how to make this BMI calculator work",
+      "url": "https://stackoverflow.com/questions/80000846/i-cant-figure-out-how-to-make-this-bmi-calculator-work",
+      "published_at": "2026-09-04T16:56:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BRANDON BRANDSTETTER"
+    },
+    {
+      "title": "Best practice for (simple) searching item in a list",
+      "url": "https://stackoverflow.com/questions/80000828/best-practice-for-simple-searching-item-in-a-list",
+      "published_at": "2026-09-04T15:35:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "best-practices",
+        "python",
+        "list"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Max Z."
     },
     {
       "title": "How to type-hint a function that returns as many values as in its input?",
       "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
       "published_at": "2026-09-04T12:38:48.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
-        "variadic-functions",
-        "type-hinting"
+        "python-typing",
+        "variadic-functions"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1968,19 +1993,17 @@
       "user": "Pappy38"
     },
     {
-      "title": "Learning Django - what steps should I take?",
-      "url": "https://stackoverflow.com/questions/80000761/learning-django-what-steps-should-i-take",
-      "published_at": "2026-09-04T10:23:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Python Library/Module Won't Import While Others Do",
+      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
+      "published_at": "2026-09-03T19:37:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
-        "advice",
         "python",
-        "django",
-        "django-rest-framework"
+        "macos"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Dawid"
+      "user": "Joe Borgione"
     },
     {
       "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
@@ -1996,19 +2019,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "YKT"
-    },
-    {
-      "title": "Python Library/Module Won't Import While Others Do",
-      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
-      "published_at": "2026-09-03T19:37:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "macos"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe Borgione"
     },
     {
       "title": "Opened .txt file seems to be empty after a for in function",
@@ -2052,34 +2062,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "John Gordon"
-    },
-    {
-      "title": "How to call a Python script from Octave using system()",
-      "url": "https://stackoverflow.com/questions/80000342/how-to-call-a-python-script-from-octave-using-system",
-      "published_at": "2026-09-02T23:06:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "octave"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "babelproofreader"
-    },
-    {
-      "title": "How can I make numpy arrays the same shape before doing conditional computations?",
-      "url": "https://stackoverflow.com/questions/80000438/how-can-i-make-numpy-arrays-the-same-shape-before-doing-conditional-computations",
-      "published_at": "2026-09-03T09:01:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "numpy",
-        "array-broadcasting",
-        "numpy-ufunc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "schtandard"
     }
   ],
   "DevOps": [
@@ -2342,47 +2324,6 @@
   ],
   "WebDev": [
     {
-      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
-      "published_at": "2026-08-16T13:31:22Z",
-      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
-      "source": "Dev.to",
-      "user": "Gamya "
-    },
-    {
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
-      "published_at": "2026-08-09T19:42:53Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
-      "tags": [
-        "devchallenge",
-        "bugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2406,7 +2347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "mizorewww"
     },
     {
@@ -2450,20 +2391,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
-    },
-    {
-      "title": "How to capture original state of a container?",
-      "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
-      "published_at": "2026-09-02T14:24:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anto Abisheik J"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -2615,7 +2542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "richiemcilroy"
     },
     {
@@ -3140,6 +3067,19 @@
       "user": "fanf"
     },
     {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "published_at": "2026-09-04T16:21:11.000Z",
+      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
       "title": "US military disabled ad tracking on troops&#8217; devices following reports of targeted attacks",
       "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
       "published_at": "2026-09-04T13:21:37.000Z",
@@ -3323,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1419,
       "user": "rakanki911"
     },
     {
@@ -3338,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 424,
       "user": "PhiloLabs"
     },
     {
@@ -3353,8 +3293,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 387,
       "user": "subsy"
+    },
+    {
+      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "published_at": "2026-09-03T10:34:30Z",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
+      "source": "GitHub",
+      "stars": 299,
+      "user": "ahujasid"
     },
     {
       "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
@@ -3368,23 +3323,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 292,
       "user": "dreamers-laboratory"
-    },
-    {
-      "title": "TetreesEX/TetreesAgent_EX - This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
-      "url": "https://github.com/TetreesEX/TetreesAgent_EX",
-      "published_at": "2026-08-29T07:46:09Z",
-      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322403924?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "TetreesEX"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -3398,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1839,
+      "stars": 1878,
       "user": "anthropics"
     },
     {
@@ -3413,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1041,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3428,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 865,
       "user": "2akouwu"
     },
     {
@@ -3443,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 476,
       "user": "Merserk"
     },
     {
@@ -3458,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 388,
       "user": "Human-Agent-Society"
     },
     {
@@ -3473,8 +3413,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 67,
       "user": "cocoyes"
+    },
+    {
+      "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
+      "url": "https://github.com/Adytm404/whatsapp-web.view",
+      "published_at": "2026-09-03T04:04:47Z",
+      "description": "Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
+      "source": "GitHub",
+      "stars": 66,
+      "user": "Adytm404"
     },
     {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
@@ -3507,21 +3462,6 @@
       "user": "basketikun"
     },
     {
-      "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
-      "url": "https://github.com/Adytm404/whatsapp-web.view",
-      "published_at": "2026-09-03T04:04:47Z",
-      "description": "Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
-      "source": "GitHub",
-      "stars": 57,
-      "user": "Adytm404"
-    },
-    {
       "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
       "url": "https://github.com/gesta-run/subpool",
       "published_at": "2026-09-02T08:27:21Z",
@@ -3548,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1353,
       "user": "lnkiai"
     },
     {
@@ -3563,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1068,
       "user": "shadcn-ui"
     },
     {
@@ -3578,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 378,
       "user": "Albert-Weasker"
     },
     {
@@ -3623,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 373,
       "user": "faisalkindi"
     },
     {
@@ -3638,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 250,
       "user": "mizorewww"
     },
     {
@@ -3653,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "richiemcilroy"
     },
     {
@@ -3668,23 +3608,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 182,
       "user": "pipicat613"
     },
     {
-      "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
-      "url": "https://github.com/daffainfo/vol-rs",
-      "published_at": "2026-08-30T04:35:19Z",
-      "description": "Volatility 3 ported to Rust. Same output, much faster.",
+      "title": "what1f/kitter - A local-first Skill manager: one library, only what each project needs.",
+      "url": "https://github.com/what1f/kitter",
+      "published_at": "2026-09-02T15:44:45Z",
+      "description": "A local-first Skill manager: one library, only what each project needs.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 169,
-      "user": "daffainfo"
+      "stars": 179,
+      "user": "what1f"
+    },
+    {
+      "title": "Fast client-side video compression in React — alternatives to FFmpeg.wasm?",
+      "url": "https://stackoverflow.com/questions/80000811/fast-client-side-video-compression-in-react-alternatives-to-ffmpeg-wasm",
+      "published_at": "2026-09-04T13:40:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "ffmpeg",
+        "webassembly",
+        "video-compression"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aman Ali"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
