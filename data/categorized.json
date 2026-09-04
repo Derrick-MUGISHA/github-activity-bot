@@ -16,21 +16,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "AI-assisted genealogy",
-      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
-      "published_at": "2026-09-03T09:02:00Z",
-      "description": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
-      "tags": [
-        "ai",
-        "codingassistant",
-        "genealogy",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
-      "source": "Dev.to",
-      "user": "Nicolas Fränkel"
-    },
-    {
       "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
       "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
       "published_at": "2026-09-03T15:18:58Z",
@@ -100,6 +85,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "AI-assisted genealogy",
+      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
+      "published_at": "2026-09-03T09:02:00Z",
+      "description": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
+      "tags": [
+        "ai",
+        "codingassistant",
+        "genealogy",
+        "claude"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
+      "source": "Dev.to",
+      "user": "Nicolas Fränkel"
     },
     {
       "title": "What is harness engineering and why should I care?",
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1794,
+      "stars": 1839,
       "user": "anthropics"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1031,
+      "stars": 1037,
       "user": "GangTailorUpgrade"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 858,
       "user": "2akouwu"
     },
     {
@@ -764,8 +764,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 456,
       "user": "Merserk"
+    },
+    {
+      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
+      "published_at": "2026-08-31T10:23:49Z",
+      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
+      "source": "GitHub",
+      "stars": 63,
+      "user": "cocoyes"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -783,21 +798,6 @@
       "user": "basketikun"
     },
     {
-      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
-      "published_at": "2026-08-31T10:23:49Z",
-      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "cocoyes"
-    },
-    {
       "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
       "url": "https://github.com/gesta-run/subpool",
       "published_at": "2026-09-02T08:27:21Z",
@@ -813,21 +813,6 @@
       "user": "gesta-run"
     },
     {
-      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "url": "https://github.com/shadcn-ui/cn",
-      "published_at": "2026-08-31T07:04:03Z",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 1028,
-      "user": "shadcn-ui"
-    },
-    {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "published_at": "2026-09-02T04:36:34Z",
@@ -839,8 +824,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 1128,
       "user": "lnkiai"
+    },
+    {
+      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "url": "https://github.com/shadcn-ui/cn",
+      "published_at": "2026-08-31T07:04:03Z",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 1051,
+      "user": "shadcn-ui"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 344,
       "user": "Albert-Weasker"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 367,
       "user": "faisalkindi"
     },
     {
@@ -899,8 +899,32 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "daffainfo"
+    },
+    {
+      "title": "Surviving Code Reviews in the era of AI",
+      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+      "published_at": "2026-09-04T08:11:47.640-05:00",
+      "description": "My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.\r\n\r\nIt's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.\r\n\r\nI'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.",
+      "tags": [
+        "ask"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mrpossoms"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "published_at": "2026-09-04T06:43:06.812-05:00",
+      "description": "Originally: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "addison"
     },
     {
       "title": "How to capture original state of a container?",
@@ -917,6 +941,21 @@
       "user": "Anto Abisheik J"
     },
     {
+      "title": "Buildozer cannot build APKs again",
+      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
+      "published_at": "2026-09-04T09:29:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "archlinux",
+        "buildozer",
+        "python-3.12"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pappy38"
+    },
+    {
       "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
       "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
       "published_at": "2026-09-03T21:14:26.000Z",
@@ -930,6 +969,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "YKT"
+    },
+    {
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "published_at": "2026-09-04T14:00:00.000Z",
+      "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "tags": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "Media & Entertainment"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
@@ -988,50 +1043,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-      "published_at": "2026-09-03T19:29:16.000Z",
-      "description": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
-      "tags": [
-        "Climate",
-        "Startups",
-        "fusion power",
-        "Realta Fusion",
-        "utilities"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "published_at": "2026-09-03T18:37:57.000Z",
-      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "tags": [
-        "AI",
-        "Security",
-        "ai safety",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "published_at": "2026-09-03T18:19:56.000Z",
-      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "tags": [
-        "AI",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "Claude Code Observability with OpenTelemetry",
@@ -1379,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1352,
       "user": "rakanki911"
     },
     {
@@ -1394,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 415,
       "user": "PhiloLabs"
     },
     {
@@ -1409,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "subsy"
     },
     {
@@ -1424,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 284,
       "user": "dreamers-laboratory"
     },
     {
@@ -1443,21 +1454,6 @@
       "user": "TetreesEX"
     },
     {
-      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "url": "https://github.com/shadcn-ui/cn",
-      "published_at": "2026-08-31T07:04:03Z",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 1028,
-      "user": "shadcn-ui"
-    },
-    {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "published_at": "2026-09-02T04:36:34Z",
@@ -1469,8 +1465,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 1128,
       "user": "lnkiai"
+    },
+    {
+      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "url": "https://github.com/shadcn-ui/cn",
+      "published_at": "2026-08-31T07:04:03Z",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 1051,
+      "user": "shadcn-ui"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -1484,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 344,
       "user": "Albert-Weasker"
     },
     {
@@ -1514,14 +1525,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 234,
       "user": "blendi-remade"
+    },
+    {
+      "title": "Google Maps Distance Matrix API returning ZERO_RESULTS for valid local US addresses in JavaScript fetch",
+      "url": "https://stackoverflow.com/questions/80000773/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-us-addres",
+      "published_at": "2026-09-04T11:14:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-maps",
+        "google-maps-api-3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thomas Thomasclak"
     },
     {
       "title": "How can I work with multiple variables in one Function in Javascript",
       "url": "https://stackoverflow.com/questions/80000714/how-can-i-work-with-multiple-variables-in-one-function-in-javascript",
       "published_at": "2026-09-04T07:32:46.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -8",
       "tags": [
         "javascript",
         "function"
@@ -1585,6 +1610,20 @@
       "user": "Arthur Davies"
     },
     {
+      "title": "Switch to minimize some icons on page",
+      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
+      "published_at": "2026-08-31T13:42:04.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Visitor"
+    },
+    {
       "title": "Google Maps Distance Matrix API returning 'ZERO_RESULTS' for valid local addresses in JavaScript",
       "url": "https://stackoverflow.com/questions/79999987/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-address",
       "published_at": "2026-09-01T18:39:06.000Z",
@@ -1600,20 +1639,6 @@
       "user": "Thomas Thomasclak"
     },
     {
-      "title": "Switch to minimize some icons on page",
-      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
-      "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Visitor"
-    },
-    {
       "title": "How to capture original state of a container?",
       "url": "https://stackoverflow.com/questions/80000230/how-to-capture-original-state-of-a-container",
       "published_at": "2026-09-02T14:24:56.000Z",
@@ -1626,20 +1651,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anto Abisheik J"
-    },
-    {
-      "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
-      "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
-      "published_at": "2026-09-02T14:16:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "http-status-code-429"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fengrong Han Bobb"
     },
     {
       "title": "Check if a variable is a string in JavaScript",
@@ -1864,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1794,
+      "stars": 1839,
       "user": "anthropics"
     },
     {
@@ -1879,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1031,
+      "stars": 1037,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1894,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 858,
       "user": "2akouwu"
     },
     {
@@ -1909,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 456,
       "user": "Merserk"
     },
     {
@@ -1924,14 +1935,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 373,
       "user": "Human-Agent-Society"
+    },
+    {
+      "title": "How to type-hint a function that returns as many values as in its input?",
+      "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
+      "published_at": "2026-09-04T12:38:48.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "variadic-functions",
+        "type-hinting"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "schtandard"
+    },
+    {
+      "title": "Buildozer cannot build APKs again",
+      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
+      "published_at": "2026-09-04T09:29:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "archlinux",
+        "buildozer",
+        "python-3.12"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pappy38"
     },
     {
       "title": "Learning Django - what steps should I take?",
       "url": "https://stackoverflow.com/questions/80000761/learning-django-what-steps-should-i-take",
       "published_at": "2026-09-04T10:23:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -1958,18 +1998,17 @@
       "user": "YKT"
     },
     {
-      "title": "PySide6 Custom widget with Enum property",
-      "url": "https://stackoverflow.com/questions/80000657/pyside6-custom-widget-with-enum-property",
-      "published_at": "2026-09-04T01:27:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Python Library/Module Won't Import While Others Do",
+      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
+      "published_at": "2026-09-03T19:37:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
-        "qt-designer",
-        "pyside6"
+        "macos"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "gee3107"
+      "user": "Joe Borgione"
     },
     {
       "title": "Opened .txt file seems to be empty after a for in function",
@@ -1987,17 +2026,32 @@
       "user": "Tommaso Bartalesi"
     },
     {
-      "title": "Python Library/Module Won't Import While Others Do",
-      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
-      "published_at": "2026-09-03T19:37:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "PySide6 Custom widget with Enum property",
+      "url": "https://stackoverflow.com/questions/80000657/pyside6-custom-widget-with-enum-property",
+      "published_at": "2026-09-04T01:27:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "macos"
+        "qt-designer",
+        "pyside6"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Joe Borgione"
+      "user": "gee3107"
+    },
+    {
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
+      "tags": [
+        "best-practices",
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John Gordon"
     },
     {
       "title": "How to call a Python script from Octave using system()",
@@ -2013,33 +2067,6 @@
       "user": "babelproofreader"
     },
     {
-      "title": "How should I start to learn gRPC using Python?",
-      "url": "https://stackoverflow.com/questions/80000444/how-should-i-start-to-learn-grpc-using-python",
-      "published_at": "2026-09-03T09:14:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohammed Shahid S"
-    },
-    {
-      "title": "Canonical way to select data in SQLAlchemy",
-      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
-      "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "best-practices",
-        "python",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John Gordon"
-    },
-    {
       "title": "How can I make numpy arrays the same shape before doing conditional computations?",
       "url": "https://stackoverflow.com/questions/80000438/how-can-i-make-numpy-arrays-the-same-shape-before-doing-conditional-computations",
       "published_at": "2026-09-03T09:01:10.000Z",
@@ -2053,19 +2080,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "schtandard"
-    },
-    {
-      "title": "In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",
-      "url": "https://stackoverflow.com/questions/80000338/in-the-python-socket-module-i-am-trying-to-send-http-status-codes-to-my-client",
-      "published_at": "2026-09-02T22:46:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "sockets"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joshua White"
     }
   ],
   "DevOps": [
@@ -2392,7 +2406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "mizorewww"
     },
     {
@@ -2407,18 +2421,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cgrinds"
-    },
-    {
-      "title": "You Don't Need Initial-Scale In Your HTML",
-      "url": "https://vale.rocks/micros/20260902-1350",
-      "published_at": "2026-09-03T09:03:31.735-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "MatheusRich"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
@@ -2462,20 +2464,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anto Abisheik J"
-    },
-    {
-      "title": "Dynamically inserting many <img> elements with JavaScript causes HTTP 429, but equivalent static HTML does not",
-      "url": "https://stackoverflow.com/questions/80000226/dynamically-inserting-many-img-elements-with-javascript-causes-http-429-but-e",
-      "published_at": "2026-09-02T14:16:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "http-status-code-429"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fengrong Han Bobb"
     },
     {
       "title": "Why You Should Never Send Emails Inside Your API Requests",
@@ -2627,7 +2615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "richiemcilroy"
     },
     {
@@ -2965,7 +2953,7 @@
       "title": "Canonical way to select data in SQLAlchemy",
       "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
       "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "best-practices",
         "python",
@@ -3152,19 +3140,20 @@
       "user": "fanf"
     },
     {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "published_at": "2026-09-03T18:37:57.000Z",
-      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "title": "US military disabled ad tracking on troops&#8217; devices following reports of targeted attacks",
+      "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+      "published_at": "2026-09-04T13:21:37.000Z",
+      "description": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
       "tags": [
-        "AI",
         "Security",
-        "ai safety",
-        "cybersecurity"
+        "cybersecurity",
+        "data brokers",
+        "location data",
+        "us military"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Protect Your Privacy While Browsing the Web",
@@ -3334,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1352,
       "user": "rakanki911"
     },
     {
@@ -3349,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 415,
       "user": "PhiloLabs"
     },
     {
@@ -3364,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "subsy"
     },
     {
@@ -3379,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 284,
       "user": "dreamers-laboratory"
     },
     {
@@ -3409,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1794,
+      "stars": 1839,
       "user": "anthropics"
     },
     {
@@ -3424,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1031,
+      "stars": 1037,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3439,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 858,
       "user": "2akouwu"
     },
     {
@@ -3454,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 456,
       "user": "Merserk"
     },
     {
@@ -3469,8 +3458,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 373,
       "user": "Human-Agent-Society"
+    },
+    {
+      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
+      "published_at": "2026-08-31T10:23:49Z",
+      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
+      "source": "GitHub",
+      "stars": 63,
+      "user": "cocoyes"
     },
     {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
@@ -3503,19 +3507,19 @@
       "user": "basketikun"
     },
     {
-      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
-      "published_at": "2026-08-31T10:23:49Z",
-      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
+      "url": "https://github.com/Adytm404/whatsapp-web.view",
+      "published_at": "2026-09-03T04:04:47Z",
+      "description": "Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 60,
-      "user": "cocoyes"
+      "stars": 57,
+      "user": "Adytm404"
     },
     {
       "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
@@ -3533,19 +3537,19 @@
       "user": "gesta-run"
     },
     {
-      "title": "ih8d8/yt-dlp-manager - Self-hosted yt-dlp download manager: web UI, TUI and CLI over one shared queue. Single Go binary.",
-      "url": "https://github.com/ih8d8/yt-dlp-manager",
-      "published_at": "2026-08-30T05:35:51Z",
-      "description": "Self-hosted yt-dlp download manager: web UI, TUI and CLI over one shared queue. Single Go binary.",
+      "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "published_at": "2026-09-02T04:36:34Z",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "tags": [
-        "go",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45679035?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 47,
-      "user": "ih8d8"
+      "stars": 1128,
+      "user": "lnkiai"
     },
     {
       "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
@@ -3559,23 +3563,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1051,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "published_at": "2026-09-02T04:36:34Z",
-      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
-      "source": "GitHub",
-      "stars": 915,
-      "user": "lnkiai"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -3589,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 344,
       "user": "Albert-Weasker"
     },
     {
@@ -3619,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 234,
       "user": "blendi-remade"
     },
     {
@@ -3634,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 367,
       "user": "faisalkindi"
     },
     {
@@ -3649,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "mizorewww"
     },
     {
@@ -3664,8 +3653,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "richiemcilroy"
+    },
+    {
+      "title": "pipicat613/MuToolsProject - 一站式 MuMu12 模拟器安装与优化工具",
+      "url": "https://github.com/pipicat613/MuToolsProject",
+      "published_at": "2026-08-31T03:59:44Z",
+      "description": "一站式 MuMu12 模拟器安装与优化工具",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "pipicat613"
     },
     {
       "title": "daffainfo/vol-rs - Volatility 3 ported to Rust. Same output, much faster.",
@@ -3679,23 +3683,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36522826?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "daffainfo"
-    },
-    {
-      "title": "what1f/kitter - A local-first Skill manager: one library, only what each project needs.",
-      "url": "https://github.com/what1f/kitter",
-      "published_at": "2026-09-02T15:44:45Z",
-      "description": "A local-first Skill manager: one library, only what each project needs.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
-      "source": "GitHub",
-      "stars": 150,
-      "user": "what1f"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
@@ -3711,21 +3700,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Arthur Davies"
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "published_at": "2026-09-03T18:37:57.000Z",
-      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "tags": [
-        "AI",
-        "Security",
-        "ai safety",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "Claude Code Observability with OpenTelemetry",
