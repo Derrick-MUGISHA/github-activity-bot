@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2045,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1087,
+      "stars": 1088,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 922,
       "user": "2akouwu"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 541,
       "user": "Merserk"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3572,
+      "stars": 3614,
       "user": "lnkiai"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 445,
       "user": "faisalkindi"
     },
     {
@@ -914,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 214,
       "user": "inclusionAI"
     },
     {
@@ -955,6 +955,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mrpossoms"
+    },
+    {
+      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "published_at": "2026-09-05T02:09:14.682-05:00",
+      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vrypan"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -1031,19 +1044,20 @@
       "user": "YKT"
     },
     {
-      "title": "Buildozer cannot build APKs again",
-      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
-      "published_at": "2026-09-04T09:29:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "published_at": "2026-09-05T22:49:55.000Z",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
       "tags": [
-        "python",
-        "archlinux",
-        "buildozer",
-        "python-3.12"
+        "AI",
+        "Media & Entertainment",
+        "Microsoft",
+        "Newsday",
+        "OpenAI"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pappy38"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -1439,6 +1453,21 @@
       "user": "yczz"
     },
     {
+      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "published_at": "2026-09-03T10:34:30Z",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "ahujasid"
+    },
+    {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
       "published_at": "2026-09-02T18:19:55Z",
@@ -1452,21 +1481,6 @@
       "source": "GitHub",
       "stars": 437,
       "user": "PhiloLabs"
-    },
-    {
-      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
-      "url": "https://github.com/ahujasid/camera-to-blender",
-      "published_at": "2026-09-03T10:34:30Z",
-      "description": "Take a photo of real objects, and paste them in Blender",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "ahujasid"
     },
     {
       "title": "subsy/skill-cabinet - GitHub Repository",
@@ -1510,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3572,
+      "stars": 3614,
       "user": "lnkiai"
     },
     {
@@ -1555,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 311,
       "user": "ashemag"
     },
     {
@@ -1570,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "blendi-remade"
     },
     {
@@ -1923,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2045,
       "user": "anthropics"
     },
     {
@@ -1938,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1087,
+      "stars": 1088,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1953,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 922,
       "user": "2akouwu"
     },
     {
@@ -1983,14 +1997,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 541,
       "user": "Merserk"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
       "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
       "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "pytest",
@@ -2114,19 +2128,17 @@
       "user": "YKT"
     },
     {
-      "title": "Buildozer cannot build APKs again",
-      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
-      "published_at": "2026-09-04T09:29:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Python Library/Module Won't Import While Others Do",
+      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
+      "published_at": "2026-09-03T19:37:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
-        "archlinux",
-        "buildozer",
-        "python-3.12"
+        "macos"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Pappy38"
+      "user": "Joe Borgione"
     }
   ],
   "DevOps": [
@@ -2454,7 +2466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "mizorewww"
     },
     {
@@ -3073,6 +3085,19 @@
       "user": "MarkMLl"
     },
     {
+      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "published_at": "2026-09-05T02:09:14.682-05:00",
+      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vrypan"
+    },
+    {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "published_at": "2026-09-05T18:05:27.000Z",
@@ -3275,6 +3300,21 @@
       "user": "yczz"
     },
     {
+      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "published_at": "2026-09-03T10:34:30Z",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "ahujasid"
+    },
+    {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
       "published_at": "2026-09-02T18:19:55Z",
@@ -3288,21 +3328,6 @@
       "source": "GitHub",
       "stars": 437,
       "user": "PhiloLabs"
-    },
-    {
-      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
-      "url": "https://github.com/ahujasid/camera-to-blender",
-      "published_at": "2026-09-03T10:34:30Z",
-      "description": "Take a photo of real objects, and paste them in Blender",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "ahujasid"
     },
     {
       "title": "subsy/skill-cabinet - GitHub Repository",
@@ -3346,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2045,
       "user": "anthropics"
     },
     {
@@ -3361,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1087,
+      "stars": 1088,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3376,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 922,
       "user": "2akouwu"
     },
     {
@@ -3406,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 541,
       "user": "Merserk"
     },
     {
@@ -3496,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3572,
+      "stars": 3614,
       "user": "lnkiai"
     },
     {
@@ -3541,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 311,
       "user": "ashemag"
     },
     {
@@ -3556,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "blendi-remade"
     },
     {
@@ -3571,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 445,
       "user": "faisalkindi"
     },
     {
@@ -3586,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 279,
       "user": "pipicat613"
     },
     {
@@ -3601,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "mizorewww"
     },
     {
@@ -3616,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 214,
       "user": "inclusionAI"
     },
     {
