@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2035,
+      "stars": 2041,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1087,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "2akouwu"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "Merserk"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "gesta-run"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3523,
+      "stars": 3572,
       "user": "lnkiai"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1168,
       "user": "shadcn-ui"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "Albert-Weasker"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 438,
       "user": "faisalkindi"
     },
     {
@@ -914,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 208,
       "user": "inclusionAI"
     },
     {
@@ -932,18 +932,6 @@
       "user": "MarkMLl"
     },
     {
-      "title": "Surviving Code Reviews in the era of AI",
-      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
-      "published_at": "2026-09-04T08:11:47.640-05:00",
-      "description": "My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.\r\n\r\nIt's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.\r\n\r\nI'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.",
-      "tags": [
-        "ask"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mrpossoms"
-    },
-    {
       "title": "What filesystem are you running on your NAS/Backups, and why?",
       "url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
       "published_at": "2026-09-05T10:46:13.266-05:00",
@@ -957,29 +945,16 @@
       "user": "tffr"
     },
     {
-      "title": "Is AI ruining my brain?",
-      "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-      "published_at": "2026-09-04T09:41:18.640-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Surviving Code Reviews in the era of AI",
+      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+      "published_at": "2026-09-04T08:11:47.640-05:00",
+      "description": "My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.\r\n\r\nIt's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.\r\n\r\nI'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.",
       "tags": [
-        "vibecoding"
+        "ask"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "MatheusRich"
-    },
-    {
-      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
-      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "published_at": "2026-09-05T02:09:14.682-05:00",
-      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
-      "tags": [
-        "programming",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vrypan"
+      "user": "mrpossoms"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -995,6 +970,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Player Possum"
+    },
+    {
+      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
+      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
+      "published_at": "2026-02-06T02:01:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "testing",
+        "automation",
+        "automated-tests",
+        "tooling-recommendation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohd Shakir"
     },
     {
       "title": "Send an email from Outlook account using Python",
@@ -1053,6 +1044,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pappy38"
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "published_at": "2026-09-05T19:35:24.000Z",
+      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "tags": [
+        "AI",
+        "gemini",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -1129,19 +1134,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "published_at": "2026-09-04T16:21:11.000Z",
-      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
@@ -1443,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "yczz"
     },
     {
@@ -1458,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "PhiloLabs"
     },
     {
@@ -1473,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 436,
       "user": "ahujasid"
     },
     {
@@ -1518,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3523,
+      "stars": 3572,
       "user": "lnkiai"
     },
     {
@@ -1533,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1168,
       "user": "shadcn-ui"
     },
     {
@@ -1548,8 +1540,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "Albert-Weasker"
+    },
+    {
+      "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "url": "https://github.com/ashemag/human-atlas",
+      "published_at": "2026-09-05T00:24:43Z",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "ashemag"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -1565,21 +1572,6 @@
       "source": "GitHub",
       "stars": 236,
       "user": "blendi-remade"
-    },
-    {
-      "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "url": "https://github.com/ashemag/human-atlas",
-      "published_at": "2026-09-05T00:24:43Z",
-      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "ashemag"
     },
     {
       "title": "How do I trigger a dialog Form by clicking a table row?",
@@ -1665,20 +1657,6 @@
       "user": "Thomas Thomasclak"
     },
     {
-      "title": "How should a React app handle API data when the user navigates away before the request finishes?",
-      "url": "https://stackoverflow.com/questions/80000605/how-should-a-react-app-handle-api-data-when-the-user-navigates-away-before-the-r",
-      "published_at": "2026-09-03T18:20:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
-    },
-    {
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
       "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
       "published_at": "2026-08-31T13:33:48.000Z",
@@ -1718,6 +1696,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Olical"
+    },
+    {
+      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
+      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
+      "published_at": "2026-02-06T02:01:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "testing",
+        "automation",
+        "automated-tests",
+        "tooling-recommendation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohd Shakir"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1929,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2035,
+      "stars": 2041,
       "user": "anthropics"
     },
     {
@@ -1944,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1087,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1959,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "2akouwu"
     },
     {
@@ -1989,8 +1983,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "Merserk"
+    },
+    {
+      "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
+      "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
+      "published_at": "2026-09-05T20:20:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "pytest",
+        "static-analysis",
+        "hypothesis-test"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "k-L-a"
     },
     {
       "title": "When installing requests with UV, VS code cannot find requests module, but the script runs successfully from the command line",
@@ -2118,19 +2127,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pappy38"
-    },
-    {
-      "title": "Python Library/Module Won't Import While Others Do",
-      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
-      "published_at": "2026-09-03T19:37:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "macos"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe Borgione"
     }
   ],
   "DevOps": [
@@ -3077,19 +3073,6 @@
       "user": "MarkMLl"
     },
     {
-      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
-      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "published_at": "2026-09-05T02:09:14.682-05:00",
-      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
-      "tags": [
-        "programming",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vrypan"
-    },
-    {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "published_at": "2026-09-05T18:05:27.000Z",
@@ -3102,19 +3085,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "published_at": "2026-09-04T16:21:11.000Z",
-      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
@@ -3301,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "yczz"
     },
     {
@@ -3316,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "PhiloLabs"
     },
     {
@@ -3331,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 436,
       "user": "ahujasid"
     },
     {
@@ -3376,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2035,
+      "stars": 2041,
       "user": "anthropics"
     },
     {
@@ -3391,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1087,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3406,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "2akouwu"
     },
     {
@@ -3436,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 540,
       "user": "Merserk"
     },
     {
@@ -3496,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "gesta-run"
     },
     {
@@ -3526,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3523,
+      "stars": 3572,
       "user": "lnkiai"
     },
     {
@@ -3541,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1168,
       "user": "shadcn-ui"
     },
     {
@@ -3556,8 +3526,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "Albert-Weasker"
+    },
+    {
+      "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "url": "https://github.com/ashemag/human-atlas",
+      "published_at": "2026-09-05T00:24:43Z",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "ashemag"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -3575,21 +3560,6 @@
       "user": "blendi-remade"
     },
     {
-      "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "url": "https://github.com/ashemag/human-atlas",
-      "published_at": "2026-09-05T00:24:43Z",
-      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "ashemag"
-    },
-    {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
       "url": "https://github.com/faisalkindi/DLSS5oneclick",
       "published_at": "2026-08-31T02:12:29Z",
@@ -3601,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 438,
       "user": "faisalkindi"
     },
     {
@@ -3616,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "pipicat613"
     },
     {
@@ -3646,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 208,
       "user": "inclusionAI"
     },
     {
@@ -3663,6 +3633,22 @@
       "source": "GitHub",
       "stars": 202,
       "user": "richiemcilroy"
+    },
+    {
+      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
+      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
+      "published_at": "2026-02-06T02:01:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "testing",
+        "automation",
+        "automated-tests",
+        "tooling-recommendation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohd Shakir"
     },
     {
       "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
