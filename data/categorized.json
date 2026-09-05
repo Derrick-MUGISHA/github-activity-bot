@@ -31,21 +31,6 @@
       "user": "ujja"
     },
     {
-      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
-      "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
-      "published_at": "2026-09-03T15:32:52Z",
-      "description": "A senior software engineer who knew nothing about hardware, a BACnet MS/TP thermostat, and an RS-485 bus. How I ended up with an ESP32-S3 gateway on a DIN rail, wired into Home Assistant, in 15 evenings.",
-      "tags": [
-        "bacnet",
-        "esp32",
-        "iot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv09zfq5acat27lmo2hmm.jpg",
-      "source": "Dev.to",
-      "user": "Felice Lombardi"
-    },
-    {
       "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
       "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
       "published_at": "2026-09-03T15:18:58Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
+    },
+    {
+      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
+      "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
+      "published_at": "2026-09-03T15:32:52Z",
+      "description": "A senior software engineer who knew nothing about hardware, a BACnet MS/TP thermostat, and an RS-485 bus. How I ended up with an ESP32-S3 gateway on a DIN rail, wired into Home Assistant, in 15 evenings.",
+      "tags": [
+        "bacnet",
+        "esp32",
+        "iot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv09zfq5acat27lmo2hmm.jpg",
+      "source": "Dev.to",
+      "user": "Felice Lombardi"
     },
     {
       "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -710,6 +710,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "gozen3ji/consulting-pptx-skill - AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
+      "published_at": "2026-09-02T11:53:05Z",
+      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
+      "source": "GitHub",
+      "stars": 215,
+      "user": "gozen3ji"
+    },
+    {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
       "published_at": "2026-09-01T12:30:12Z",
@@ -721,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1917,
+      "stars": 1926,
       "user": "anthropics"
     },
     {
@@ -736,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1054,
       "user": "GangTailorUpgrade"
     },
     {
@@ -751,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 879,
       "user": "2akouwu"
     },
     {
@@ -766,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 577,
       "user": "nahrek"
     },
     {
@@ -781,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "Merserk"
     },
     {
@@ -826,7 +841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "gesta-run"
     },
     {
@@ -841,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1782,
+      "stars": 1918,
       "user": "lnkiai"
     },
     {
@@ -856,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1106,
       "user": "shadcn-ui"
     },
     {
@@ -871,23 +886,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 402,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "useagenthq"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "faisalkindi"
     },
     {
@@ -917,18 +917,6 @@
       "user": "mrpossoms"
     },
     {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "published_at": "2026-09-04T06:43:06.812-05:00",
-      "description": "Originally: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "addison"
-    },
-    {
       "title": "Is AI ruining my brain?",
       "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
       "published_at": "2026-09-04T09:41:18.640-05:00",
@@ -939,6 +927,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "MatheusRich"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "published_at": "2026-09-04T06:43:06.812-05:00",
+      "description": "Originally: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "addison"
     },
     {
       "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
@@ -973,7 +973,7 @@
       "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
       "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
       "published_at": "2026-09-03T21:14:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "description": "Stack Overflow question · 1 answers · score 5",
       "tags": [
         "python",
         "garbage-collection",
@@ -985,15 +985,46 @@
       "user": "YKT"
     },
     {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "published_at": "2026-09-04T23:36:14.000Z",
+      "description": "The round is being raised just months after the robot data startup exited from stealth.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "8VC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "published_at": "2026-09-04T23:15:11.000Z",
+      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "tags": [
+        "AI",
+        "breach",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "published_at": "2026-09-04T21:12:11.000Z",
       "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
       "tags": [
         "AI",
+        "nvidia",
+        "In Brief",
         "compute",
-        "nscale",
-        "nvidia"
+        "nscale"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1056,22 +1087,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "published_at": "2026-09-04T14:00:00.000Z",
-      "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-      "tags": [
-        "Startups",
-        "Fintech",
-        "Biotech & Health",
-        "Venture",
-        "Media & Entertainment"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
@@ -1392,21 +1407,6 @@
       "user": "velmu"
     },
     {
-      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper",
-      "published_at": "2026-08-29T23:51:32Z",
-      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
-      "source": "GitHub",
-      "stars": 1476,
-      "user": "rakanki911"
-    },
-    {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
       "published_at": "2026-09-02T18:19:55Z",
@@ -1448,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 327,
       "user": "ahujasid"
     },
     {
@@ -1463,8 +1463,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "dreamers-laboratory"
+    },
+    {
+      "title": "gozen3ji/consulting-pptx-skill - AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
+      "published_at": "2026-09-02T11:53:05Z",
+      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
+      "source": "GitHub",
+      "stars": 215,
+      "user": "gozen3ji"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1478,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1782,
+      "stars": 1918,
       "user": "lnkiai"
     },
     {
@@ -1493,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1106,
       "user": "shadcn-ui"
     },
     {
@@ -1508,23 +1523,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 402,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "useagenthq"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -1542,6 +1542,34 @@
       "user": "blendi-remade"
     },
     {
+      "title": "profullstack/hqtui - High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "url": "https://github.com/profullstack/hqtui",
+      "published_at": "2026-08-30T05:09:53Z",
+      "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
+      "source": "GitHub",
+      "stars": 199,
+      "user": "profullstack"
+    },
+    {
+      "title": "javascript accessing object value or name",
+      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
+      "published_at": "2026-09-04T15:18:25.000Z",
+      "description": "Stack Overflow question · 3 answers · score 4",
+      "tags": [
+        "javascript",
+        "javascript-objects"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JKomp"
+    },
+    {
       "title": "Input value for total number of pages in a REDCap survey?",
       "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
       "published_at": "2026-09-04T20:50:43.000Z",
@@ -1554,19 +1582,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bcarothers"
-    },
-    {
-      "title": "javascript accessing object value or name",
-      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
-      "published_at": "2026-09-04T15:18:25.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "javascript",
-        "javascript-objects"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JKomp"
     },
     {
       "title": "Fast client-side video compression in React — alternatives to FFmpeg.wasm?",
@@ -1626,6 +1641,18 @@
       "user": "Muhammad"
     },
     {
+      "title": "is JSEvent a macro task or synchronous task？",
+      "url": "https://stackoverflow.com/questions/80000471/is-jsevent-a-macro-task-or-synchronous-task",
+      "published_at": "2026-09-03T10:37:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Evergreen"
+    },
+    {
       "title": "Why does React render an intermediate state between two setState calls?",
       "url": "https://stackoverflow.com/questions/80000593/why-does-react-render-an-intermediate-state-between-two-setstate-calls",
       "published_at": "2026-09-03T17:46:16.000Z",
@@ -1637,18 +1664,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Light Yagami"
-    },
-    {
-      "title": "is JSEvent a macro task or synchronous task？",
-      "url": "https://stackoverflow.com/questions/80000471/is-jsevent-a-macro-task-or-synchronous-task",
-      "published_at": "2026-09-03T10:37:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Evergreen"
     },
     {
       "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn't click code need the ratio?",
@@ -1858,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1917,
+      "stars": 1926,
       "user": "anthropics"
     },
     {
@@ -1873,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1054,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1888,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 879,
       "user": "2akouwu"
     },
     {
@@ -1903,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 577,
       "user": "nahrek"
     },
     {
@@ -1918,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "Merserk"
     },
     {
@@ -1936,20 +1951,6 @@
       "user": "Power of Wilson"
     },
     {
-      "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
-      "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
-      "published_at": "2026-09-04T17:40:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "typechecking",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
       "title": "How to type-hint a function that returns as many values as in its input?",
       "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
       "published_at": "2026-09-04T12:38:48.000Z",
@@ -1962,6 +1963,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "schtandard"
+    },
+    {
+      "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
+      "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
+      "published_at": "2026-09-04T17:40:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "typechecking",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "I can't figure out how to make this BMI calculator work",
@@ -1979,7 +1994,7 @@
       "title": "Best practice for (simple) searching item in a list",
       "url": "https://stackoverflow.com/questions/80000828/best-practice-for-simple-searching-item-in-a-list",
       "published_at": "2026-09-04T15:35:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "best-practices",
         "python",
@@ -2008,7 +2023,7 @@
       "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
       "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
       "published_at": "2026-09-03T21:14:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "description": "Stack Overflow question · 1 answers · score 5",
       "tags": [
         "python",
         "garbage-collection",
@@ -2828,21 +2843,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "useagenthq"
-    },
-    {
       "title": "How OpenTelemetry Works: A Complete Guide",
       "url": "https://www.freecodecamp.org/news/how-opentelemetry-works/",
       "published_at": "2026-09-03T15:41:52.000Z",
@@ -2884,7 +2884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 577,
       "user": "nahrek"
     },
     {
@@ -3091,22 +3091,6 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "US military disabled ad tracking on troops&#8217; devices following reports of targeted attacks",
-      "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
-      "published_at": "2026-09-04T13:21:37.000Z",
-      "description": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "data brokers",
-        "location data",
-        "us military"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
       "url": "https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/",
       "published_at": "2026-09-04T16:19:46.000Z",
@@ -3265,21 +3249,6 @@
       "user": "pabs3"
     },
     {
-      "title": "rakanki911/DLSS5-Swapper - DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "url": "https://github.com/rakanki911/DLSS5-Swapper",
-      "published_at": "2026-08-29T23:51:32Z",
-      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/199753947?v=4",
-      "source": "GitHub",
-      "stars": 1476,
-      "user": "rakanki911"
-    },
-    {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
       "published_at": "2026-09-02T18:19:55Z",
@@ -3321,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 327,
       "user": "ahujasid"
     },
     {
@@ -3336,8 +3305,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "dreamers-laboratory"
+    },
+    {
+      "title": "gozen3ji/consulting-pptx-skill - AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
+      "published_at": "2026-09-02T11:53:05Z",
+      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
+      "source": "GitHub",
+      "stars": 215,
+      "user": "gozen3ji"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -3351,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1917,
+      "stars": 1926,
       "user": "anthropics"
     },
     {
@@ -3366,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1054,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3381,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 879,
       "user": "2akouwu"
     },
     {
@@ -3396,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 577,
       "user": "nahrek"
     },
     {
@@ -3411,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 488,
       "user": "Merserk"
     },
     {
@@ -3430,6 +3414,21 @@
       "user": "Adytm404"
     },
     {
+      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
+      "url": "https://github.com/pgrundev/pgbook",
+      "published_at": "2026-09-02T16:55:32Z",
+      "description": "Postgres Book, one topic at a time.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 67,
+      "user": "pgrundev"
+    },
+    {
       "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
       "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
       "published_at": "2026-08-31T10:23:49Z",
@@ -3443,21 +3442,6 @@
       "source": "GitHub",
       "stars": 67,
       "user": "cocoyes"
-    },
-    {
-      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
-      "url": "https://github.com/pgrundev/pgbook",
-      "published_at": "2026-09-02T16:55:32Z",
-      "description": "Postgres Book, one topic at a time.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 66,
-      "user": "pgrundev"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -3486,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "gesta-run"
     },
     {
@@ -3501,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1782,
+      "stars": 1918,
       "user": "lnkiai"
     },
     {
@@ -3516,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1106,
       "user": "shadcn-ui"
     },
     {
@@ -3531,23 +3515,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 402,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "useagenthq/useagent - The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "url": "https://github.com/useagenthq/useagent",
-      "published_at": "2026-08-29T21:14:31Z",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319538230?v=4",
-      "source": "GitHub",
-      "stars": 284,
-      "user": "useagenthq"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -3565,6 +3534,21 @@
       "user": "blendi-remade"
     },
     {
+      "title": "profullstack/hqtui - High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "url": "https://github.com/profullstack/hqtui",
+      "published_at": "2026-08-30T05:09:53Z",
+      "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
+      "source": "GitHub",
+      "stars": 199,
+      "user": "profullstack"
+    },
+    {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
       "url": "https://github.com/faisalkindi/DLSS5oneclick",
       "published_at": "2026-08-31T02:12:29Z",
@@ -3576,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "faisalkindi"
     },
     {
@@ -3621,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 190,
       "user": "pipicat613"
     },
     {
@@ -3636,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 185,
       "user": "what1f"
     },
     {
