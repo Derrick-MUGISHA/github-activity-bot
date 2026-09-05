@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
-      "published_at": "2026-09-03T06:44:57Z",
-      "description": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fez62u2w0ldk0fec35ytb.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
       "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
       "published_at": "2026-09-04T09:24:10Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
       "source": "Dev.to",
       "user": "ujja"
+    },
+    {
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
+      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
+      "published_at": "2026-09-03T06:44:57Z",
+      "description": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fez62u2w0ldk0fec35ytb.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
@@ -364,21 +364,6 @@
       "user": "xbill"
     },
     {
-      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
-      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
-      "published_at": "2026-08-29T18:57:42Z",
-      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
       "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
       "published_at": "2026-08-29T05:03:06Z",
@@ -439,21 +424,6 @@
       "user": "xbill"
     },
     {
-      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
-      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
-      "published_at": "2026-08-25T20:44:29Z",
-      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Preptember is here!! Plan a Fest for your local community.",
       "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
       "published_at": "2026-09-01T19:26:08Z",
@@ -467,6 +437,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "How to Design AI Evaluations You Can Actually Trust",
@@ -555,6 +540,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -725,21 +723,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "gozen3ji/consulting-pptx-skill - AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
-      "published_at": "2026-09-02T11:53:05Z",
-      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
-      "source": "GitHub",
-      "stars": 223,
-      "user": "gozen3ji"
-    },
-    {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
       "published_at": "2026-09-01T12:30:12Z",
@@ -751,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1947,
+      "stars": 1971,
       "user": "anthropics"
     },
     {
@@ -766,14 +749,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1068,
       "user": "GangTailorUpgrade"
     },
     {
-      "title": "2akouwu/reverify - Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "title": "2akouwu/reverify - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
       "published_at": "2026-08-31T01:02:18Z",
-      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "tags": [
         "python",
         "github",
@@ -781,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 909,
       "user": "2akouwu"
     },
     {
@@ -811,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 499,
       "user": "Merserk"
     },
     {
@@ -826,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 72,
       "user": "cocoyes"
     },
     {
@@ -856,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "gesta-run"
     },
     {
@@ -871,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 2211,
+      "stars": 2671,
       "user": "lnkiai"
     },
     {
@@ -886,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1127,
       "user": "shadcn-ui"
     },
     {
@@ -901,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 427,
       "user": "Albert-Weasker"
     },
     {
@@ -916,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 404,
       "user": "faisalkindi"
     },
     {
@@ -954,6 +937,48 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "addison"
+    },
+    {
+      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "published_at": "2026-09-05T02:09:14.682-05:00",
+      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vrypan"
+    },
+    {
+      "title": "TransitionGroup smooth move causing container height to decrease",
+      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
+      "published_at": "2026-09-05T06:11:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "vue.js",
+        "vuejs-transition-group"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Player Possum"
+    },
+    {
+      "title": "Send an email from Outlook account using Python",
+      "url": "https://stackoverflow.com/questions/80000948/send-an-email-from-outlook-account-using-python",
+      "published_at": "2026-09-05T08:05:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "email",
+        "outlook"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lakshit Sharma"
     },
     {
       "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
@@ -1433,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "subsy"
     },
     {
@@ -1448,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 369,
       "user": "ahujasid"
     },
     {
@@ -1467,19 +1492,19 @@
       "user": "dreamers-laboratory"
     },
     {
-      "title": "gozen3ji/consulting-pptx-skill - AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
-      "published_at": "2026-09-02T11:53:05Z",
-      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 223,
-      "user": "gozen3ji"
+      "stars": 236,
+      "user": "KJGX66F"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1493,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 2211,
+      "stars": 2671,
       "user": "lnkiai"
     },
     {
@@ -1508,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1127,
       "user": "shadcn-ui"
     },
     {
@@ -1523,7 +1548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 427,
       "user": "Albert-Weasker"
     },
     {
@@ -1538,7 +1563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "blendi-remade"
     },
     {
@@ -1555,6 +1580,21 @@
       "source": "GitHub",
       "stars": 201,
       "user": "profullstack"
+    },
+    {
+      "title": "TransitionGroup smooth move causing container height to decrease",
+      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
+      "published_at": "2026-09-05T06:11:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "vue.js",
+        "vuejs-transition-group"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Player Possum"
     },
     {
       "title": "javascript accessing object value or name",
@@ -1617,7 +1657,7 @@
       "title": "How can I work with multiple variables in one Function in Javascript",
       "url": "https://stackoverflow.com/questions/80000714/how-can-i-work-with-multiple-variables-in-one-function-in-javascript",
       "published_at": "2026-09-04T07:32:46.000Z",
-      "description": "Stack Overflow question · 2 answers · score -9",
+      "description": "Stack Overflow question · 1 answers · score -9",
       "tags": [
         "javascript",
         "function"
@@ -1679,20 +1719,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Arthur Davies"
-    },
-    {
-      "title": "Switch to minimize some icons on page",
-      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
-      "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Visitor"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1904,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1947,
+      "stars": 1971,
       "user": "anthropics"
     },
     {
@@ -1919,14 +1945,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1068,
       "user": "GangTailorUpgrade"
     },
     {
-      "title": "2akouwu/reverify - Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "title": "2akouwu/reverify - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
       "published_at": "2026-08-31T01:02:18Z",
-      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "tags": [
         "python",
         "github",
@@ -1934,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 909,
       "user": "2akouwu"
     },
     {
@@ -1964,14 +1990,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 499,
       "user": "Merserk"
+    },
+    {
+      "title": "Send an email from Outlook account using Python",
+      "url": "https://stackoverflow.com/questions/80000948/send-an-email-from-outlook-account-using-python",
+      "published_at": "2026-09-05T08:05:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "email",
+        "outlook"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lakshit Sharma"
     },
     {
       "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
       "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create",
       "published_at": "2026-09-04T20:44:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "subprocess",
@@ -2027,7 +2067,7 @@
       "title": "I can't figure out how to make this BMI calculator work",
       "url": "https://stackoverflow.com/questions/80000846/i-cant-figure-out-how-to-make-this-bmi-calculator-work",
       "published_at": "2026-09-04T16:56:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python"
       ],
@@ -2092,20 +2132,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tommaso Bartalesi"
-    },
-    {
-      "title": "Canonical way to select data in SQLAlchemy",
-      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
-      "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "best-practices",
-        "python",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John Gordon"
     }
   ],
   "DevOps": [
@@ -2151,21 +2177,6 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
-      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
-      "published_at": "2026-08-29T18:57:42Z",
-      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2412,6 +2423,19 @@
       "user": "Giorgi Kobaidze"
     },
     {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2435,21 +2459,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 257,
       "user": "mizorewww"
     },
     {
-      "title": "The asteroid currently hitting frontend web development",
-      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-      "published_at": "2026-09-03T22:40:21.698-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "TransitionGroup smooth move causing container height to decrease",
+      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
+      "published_at": "2026-09-05T06:11:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "education",
-        "vibecoding"
+        "javascript",
+        "css",
+        "vue.js",
+        "vuejs-transition-group"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cgrinds"
+      "source": "StackOverflow",
+      "user": "Player Possum"
     },
     {
       "title": "Input value for total number of pages in a REDCap survey?",
@@ -2479,20 +2505,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Arthur Davies"
-    },
-    {
-      "title": "Switch to minimize some icons on page",
-      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
-      "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Visitor"
     }
   ],
   "Mobile": [
@@ -2737,21 +2749,6 @@
       "user": "xbill"
     },
     {
-      "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
-      "url": "https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md",
-      "published_at": "2026-08-29T18:57:42Z",
-      "description": "Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
       "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
       "published_at": "2026-08-29T05:03:06Z",
@@ -2857,6 +2854,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
+      "source": "GitHub",
+      "stars": 236,
+      "user": "KJGX66F"
+    },
+    {
       "title": "How OpenTelemetry Works: A Complete Guide",
       "url": "https://www.freecodecamp.org/news/how-opentelemetry-works/",
       "published_at": "2026-09-03T15:41:52.000Z",
@@ -2900,20 +2912,6 @@
       "source": "GitHub",
       "stars": 614,
       "user": "nahrek"
-    },
-    {
-      "title": "Canonical way to select data in SQLAlchemy",
-      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
-      "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "best-practices",
-        "python",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John Gordon"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -3094,6 +3092,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "published_at": "2026-09-05T02:09:14.682-05:00",
+      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vrypan"
     },
     {
       "title": "The NX bit is not just about security",
@@ -3305,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "subsy"
     },
     {
@@ -3320,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 369,
       "user": "ahujasid"
     },
     {
@@ -3339,19 +3350,19 @@
       "user": "dreamers-laboratory"
     },
     {
-      "title": "gozen3ji/consulting-pptx-skill - AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
-      "published_at": "2026-09-02T11:53:05Z",
-      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 223,
-      "user": "gozen3ji"
+      "stars": 236,
+      "user": "KJGX66F"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -3365,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1947,
+      "stars": 1971,
       "user": "anthropics"
     },
     {
@@ -3380,14 +3391,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1068,
       "user": "GangTailorUpgrade"
     },
     {
-      "title": "2akouwu/reverify - Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "title": "2akouwu/reverify - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "url": "https://github.com/2akouwu/reverify",
       "published_at": "2026-08-31T01:02:18Z",
-      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "tags": [
         "python",
         "github",
@@ -3395,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 909,
       "user": "2akouwu"
     },
     {
@@ -3425,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 499,
       "user": "Merserk"
     },
     {
@@ -3440,8 +3451,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 74,
       "user": "Adytm404"
+    },
+    {
+      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
+      "published_at": "2026-08-31T10:23:49Z",
+      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
+      "source": "GitHub",
+      "stars": 72,
+      "user": "cocoyes"
     },
     {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
@@ -3457,21 +3483,6 @@
       "source": "GitHub",
       "stars": 70,
       "user": "pgrundev"
-    },
-    {
-      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
-      "published_at": "2026-08-31T10:23:49Z",
-      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
-      "source": "GitHub",
-      "stars": 69,
-      "user": "cocoyes"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -3500,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "gesta-run"
     },
     {
@@ -3515,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 2211,
+      "stars": 2671,
       "user": "lnkiai"
     },
     {
@@ -3530,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1127,
       "user": "shadcn-ui"
     },
     {
@@ -3545,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 427,
       "user": "Albert-Weasker"
     },
     {
@@ -3560,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "blendi-remade"
     },
     {
@@ -3590,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 404,
       "user": "faisalkindi"
     },
     {
@@ -3605,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 257,
       "user": "mizorewww"
     },
     {
@@ -3620,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 233,
       "user": "pipicat613"
     },
     {
@@ -3650,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 189,
       "user": "what1f"
     },
     {
