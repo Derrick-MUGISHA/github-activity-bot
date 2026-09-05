@@ -192,21 +192,6 @@
       "user": "xbill"
     },
     {
-      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
-      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
-      "published_at": "2026-09-01T10:52:37Z",
-      "description": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
-      "tags": [
-        "angular",
-        "gemma",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
       "url": "https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh",
       "published_at": "2026-09-03T04:27:12Z",
@@ -542,6 +527,21 @@
       "user": "Katie McLaughlin"
     },
     {
+      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
+      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
+      "published_at": "2026-09-01T10:52:37Z",
+      "description": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
+      "tags": [
+        "angular",
+        "gemma",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
       "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
       "published_at": "2026-08-22T10:55:26Z",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2027,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1079,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 920,
       "user": "2akouwu"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "nahrek"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 530,
       "user": "Merserk"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 63,
       "user": "gesta-run"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "basketikun"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3293,
+      "stars": 3452,
       "user": "lnkiai"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1161,
       "user": "shadcn-ui"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 452,
       "user": "Albert-Weasker"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 424,
       "user": "faisalkindi"
     },
     {
@@ -914,20 +914,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 200,
       "user": "inclusionAI"
-    },
-    {
-      "title": "Surviving Code Reviews in the era of AI",
-      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
-      "published_at": "2026-09-04T08:11:47.640-05:00",
-      "description": "My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.\r\n\r\nIt's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.\r\n\r\nI'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.",
-      "tags": [
-        "ask"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mrpossoms"
     },
     {
       "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
@@ -944,16 +932,16 @@
       "user": "MarkMLl"
     },
     {
-      "title": "Is AI ruining my brain?",
-      "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-      "published_at": "2026-09-04T09:41:18.640-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Surviving Code Reviews in the era of AI",
+      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+      "published_at": "2026-09-04T08:11:47.640-05:00",
+      "description": "My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.\r\n\r\nIt's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.\r\n\r\nI'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.",
       "tags": [
-        "vibecoding"
+        "ask"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "MatheusRich"
+      "user": "mrpossoms"
     },
     {
       "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
@@ -969,16 +957,16 @@
       "user": "vrypan"
     },
     {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "published_at": "2026-09-05T06:50:24.422-05:00",
+      "title": "Is AI ruining my brain?",
+      "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+      "published_at": "2026-09-04T09:41:18.640-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "rust"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "ettolrach"
+      "user": "MatheusRich"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -1296,21 +1284,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
-      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
-      "published_at": "2026-09-01T10:52:37Z",
-      "description": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
-      "tags": [
-        "angular",
-        "gemma",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
       "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
       "published_at": "2026-08-16T13:31:22Z",
@@ -1324,6 +1297,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
       "source": "Dev.to",
       "user": "Gamya "
+    },
+    {
+      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
+      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
+      "published_at": "2026-09-01T10:52:37Z",
+      "description": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
+      "tags": [
+        "angular",
+        "gemma",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1457,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "yczz"
     },
     {
@@ -1472,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "PhiloLabs"
     },
     {
@@ -1487,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 429,
       "user": "ahujasid"
     },
     {
@@ -1502,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 393,
       "user": "subsy"
     },
     {
@@ -1532,7 +1520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3293,
+      "stars": 3452,
       "user": "lnkiai"
     },
     {
@@ -1547,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1161,
       "user": "shadcn-ui"
     },
     {
@@ -1562,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 452,
       "user": "Albert-Weasker"
     },
     {
@@ -1943,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2027,
       "user": "anthropics"
     },
     {
@@ -1958,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1079,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1973,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 920,
       "user": "2akouwu"
     },
     {
@@ -1988,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "nahrek"
     },
     {
@@ -2003,8 +1991,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 530,
       "user": "Merserk"
+    },
+    {
+      "title": "When installing requests with UV, VS code cannot find requests module, but the script runs successfully from the command line",
+      "url": "https://stackoverflow.com/questions/80001008/when-installing-requests-with-uv-vs-code-cannot-find-requests-module-but-the-s",
+      "published_at": "2026-09-05T15:26:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "pip",
+        "python-requests",
+        "uv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lance M"
     },
     {
       "title": "Send an email from Outlook account using Python",
@@ -2130,19 +2133,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe Borgione"
-    },
-    {
-      "title": "How can I test Stack Overflow API write operations?",
-      "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
-      "published_at": "2026-09-03T08:10:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "advice",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AmSurya"
     }
   ],
   "DevOps": [
@@ -2368,7 +2358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "basketikun"
     },
     {
@@ -2470,7 +2460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 268,
       "user": "mizorewww"
     },
     {
@@ -2905,7 +2895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "nahrek"
     },
     {
@@ -3298,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "yczz"
     },
     {
@@ -3313,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "PhiloLabs"
     },
     {
@@ -3328,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 429,
       "user": "ahujasid"
     },
     {
@@ -3343,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 393,
       "user": "subsy"
     },
     {
@@ -3373,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2027,
       "user": "anthropics"
     },
     {
@@ -3388,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1079,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3403,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 920,
       "user": "2akouwu"
     },
     {
@@ -3418,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 619,
       "user": "nahrek"
     },
     {
@@ -3433,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 530,
       "user": "Merserk"
     },
     {
@@ -3448,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "Adytm404"
     },
     {
@@ -3493,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 63,
       "user": "gesta-run"
     },
     {
@@ -3508,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "basketikun"
     },
     {
@@ -3523,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3293,
+      "stars": 3452,
       "user": "lnkiai"
     },
     {
@@ -3538,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1161,
       "user": "shadcn-ui"
     },
     {
@@ -3553,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 452,
       "user": "Albert-Weasker"
     },
     {
@@ -3598,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 424,
       "user": "faisalkindi"
     },
     {
@@ -3613,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "pipicat613"
     },
     {
@@ -3628,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 268,
       "user": "mizorewww"
     },
     {
@@ -3658,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 200,
       "user": "inclusionAI"
     },
     {
