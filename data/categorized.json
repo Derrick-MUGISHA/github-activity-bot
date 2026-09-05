@@ -31,21 +31,6 @@
       "user": "ujja"
     },
     {
-      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
-      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
-      "published_at": "2026-09-03T15:18:58Z",
-      "description": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, flex skins a bare-metal Debian desktop to look like one. The split exists because Crostini's guest kernel can't load the NVIDIA driver.",
-      "tags": [
-        "chromeos",
-        "linux",
-        "debian",
-        "gnome"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
       "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
       "published_at": "2026-09-04T01:59:20Z",
@@ -146,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
+      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
+      "published_at": "2026-09-03T15:18:58Z",
+      "description": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, flex skins a bare-metal Debian desktop to look like one. The split exists because Crostini's guest kernel can't load the NVIDIA driver.",
+      "tags": [
+        "chromeos",
+        "linux",
+        "debian",
+        "gnome"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
@@ -542,6 +542,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
+      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
+      "published_at": "2026-08-25T07:00:00Z",
+      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
+      "tags": [
+        "ai",
+        "llm",
+        "datascience",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -721,7 +736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 223,
       "user": "gozen3ji"
     },
     {
@@ -736,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1926,
+      "stars": 1947,
       "user": "anthropics"
     },
     {
@@ -751,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1062,
       "user": "GangTailorUpgrade"
     },
     {
@@ -766,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 890,
       "user": "2akouwu"
     },
     {
@@ -781,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 614,
       "user": "nahrek"
     },
     {
@@ -796,7 +811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "Merserk"
     },
     {
@@ -811,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 69,
       "user": "cocoyes"
     },
     {
@@ -841,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "gesta-run"
     },
     {
@@ -856,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 2211,
       "user": "lnkiai"
     },
     {
@@ -871,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1113,
       "user": "shadcn-ui"
     },
     {
@@ -886,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 416,
       "user": "Albert-Weasker"
     },
     {
@@ -901,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 395,
       "user": "faisalkindi"
     },
     {
@@ -1257,34 +1272,19 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
-      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
-      "published_at": "2026-08-30T21:04:04Z",
-      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
+      "published_at": "2026-08-16T13:31:22Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
       "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal",
-      "url": "https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf",
-      "published_at": "2026-08-28T21:32:56Z",
-      "description": "Learn how BlocSignal 1.1.0 introduces symmetrical .toBlocSignal() and .toAsyncBlocSignal() adapters for Signals, Futures, and Streams—making the migration away from FutureBuilder and StreamBuilder completely mechanical, type-safe, and 0ms reactive.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk7eqboky9quitbvythao.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Gamya "
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1418,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "PhiloLabs"
     },
     {
@@ -1448,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 347,
       "user": "ahujasid"
     },
     {
@@ -1463,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 301,
       "user": "dreamers-laboratory"
     },
     {
@@ -1478,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 223,
       "user": "gozen3ji"
     },
     {
@@ -1493,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 2211,
       "user": "lnkiai"
     },
     {
@@ -1508,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1113,
       "user": "shadcn-ui"
     },
     {
@@ -1523,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 416,
       "user": "Albert-Weasker"
     },
     {
@@ -1553,14 +1553,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "profullstack"
     },
     {
       "title": "javascript accessing object value or name",
       "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
       "published_at": "2026-09-04T15:18:25.000Z",
-      "description": "Stack Overflow question · 3 answers · score 4",
+      "description": "Stack Overflow question · 4 answers · score 4",
       "tags": [
         "javascript",
         "javascript-objects"
@@ -1573,7 +1573,7 @@
       "title": "Input value for total number of pages in a REDCap survey?",
       "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
       "published_at": "2026-09-04T20:50:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1693,6 +1693,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
+    },
+    {
+      "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/",
+      "published_at": "2026-09-04T20:44:35.000Z",
+      "description": "Scholarship hunting is a research job, not a single search box. You filter awards by field, GPA, citizenship, and deadline. You keep a shortlist. You write notes about essays and recommenders. Then yo",
+      "tags": [
+        "mcp",
+        "Model Context Protocol",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinedu Otutu"
     }
   ],
   "Python": [
@@ -1738,6 +1754,21 @@
         "productivity"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
+    {
+      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
+      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
+      "published_at": "2026-08-25T07:00:00Z",
+      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
+      "tags": [
+        "ai",
+        "llm",
+        "datascience",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
     },
@@ -1873,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1926,
+      "stars": 1947,
       "user": "anthropics"
     },
     {
@@ -1888,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1062,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1903,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 890,
       "user": "2akouwu"
     },
     {
@@ -1918,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 614,
       "user": "nahrek"
     },
     {
@@ -1933,14 +1964,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "Merserk"
     },
     {
-      "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working?",
+      "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
       "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create",
       "published_at": "2026-09-04T20:44:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "subprocess",
@@ -1979,6 +2010,20 @@
       "user": "iamthebull"
     },
     {
+      "title": "Best practice for (simple) searching item in a list",
+      "url": "https://stackoverflow.com/questions/80000828/best-practice-for-simple-searching-item-in-a-list",
+      "published_at": "2026-09-04T15:35:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "best-practices",
+        "python",
+        "list"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Max Z."
+    },
+    {
       "title": "I can't figure out how to make this BMI calculator work",
       "url": "https://stackoverflow.com/questions/80000846/i-cant-figure-out-how-to-make-this-bmi-calculator-work",
       "published_at": "2026-09-04T16:56:05.000Z",
@@ -1989,20 +2034,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BRANDON BRANDSTETTER"
-    },
-    {
-      "title": "Best practice for (simple) searching item in a list",
-      "url": "https://stackoverflow.com/questions/80000828/best-practice-for-simple-searching-item-in-a-list",
-      "published_at": "2026-09-04T15:35:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "best-practices",
-        "python",
-        "list"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Max Z."
     },
     {
       "title": "Buildozer cannot build APKs again",
@@ -2038,7 +2069,7 @@
       "title": "Python Library/Module Won't Import While Others Do",
       "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
       "published_at": "2026-09-03T19:37:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "macos"
@@ -2353,6 +2384,34 @@
   ],
   "WebDev": [
     {
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
+      "published_at": "2026-08-16T13:31:22Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
+      "source": "Dev.to",
+      "user": "Gamya "
+    },
+    {
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
+      "published_at": "2026-08-09T19:42:53Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
+      "tags": [
+        "devchallenge",
+        "bugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2376,7 +2435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "mizorewww"
     },
     {
@@ -2396,7 +2455,7 @@
       "title": "Input value for total number of pages in a REDCap survey?",
       "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
       "published_at": "2026-09-04T20:50:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2509,51 +2568,6 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
-      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
-      "published_at": "2026-08-30T21:04:04Z",
-      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views",
-      "url": "https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g",
-      "published_at": "2026-08-26T23:09:28Z",
-      "description": "Discover why using FutureBuilder and StreamBuilder inside Flutter widget trees breaks separation of concerns, triggers accidental refetches, creates layout shift cascades, and hinders testability—and learn how to quarantine async at the perimeter using AsyncSignal and BlocSignal.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjvm7orcmfpr5wcyxtv1f.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal",
-      "url": "https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf",
-      "published_at": "2026-08-28T21:32:56Z",
-      "description": "Learn how BlocSignal 1.1.0 introduces symmetrical .toBlocSignal() and .toAsyncBlocSignal() adapters for Signals, Futures, and Streams—making the migration away from FutureBuilder and StreamBuilder completely mechanical, type-safe, and 0ms reactive.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk7eqboky9quitbvythao.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2884,7 +2898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 614,
       "user": "nahrek"
     },
     {
@@ -2900,6 +2914,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "John Gordon"
+    },
+    {
+      "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/",
+      "published_at": "2026-09-04T20:44:35.000Z",
+      "description": "Scholarship hunting is a research job, not a single search box. You filter awards by field, GPA, citizenship, and deadline. You keep a shortlist. You write notes about essays and recommenders. Then yo",
+      "tags": [
+        "mcp",
+        "Model Context Protocol",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinedu Otutu"
     }
   ],
   "Security": [
@@ -3260,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "PhiloLabs"
     },
     {
@@ -3290,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 347,
       "user": "ahujasid"
     },
     {
@@ -3305,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 301,
       "user": "dreamers-laboratory"
     },
     {
@@ -3320,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32775031?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 223,
       "user": "gozen3ji"
     },
     {
@@ -3335,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1926,
+      "stars": 1947,
       "user": "anthropics"
     },
     {
@@ -3350,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1062,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3365,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 890,
       "user": "2akouwu"
     },
     {
@@ -3380,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 614,
       "user": "nahrek"
     },
     {
@@ -3395,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "Merserk"
     },
     {
@@ -3410,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 73,
       "user": "Adytm404"
     },
     {
@@ -3425,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 70,
       "user": "pgrundev"
     },
     {
@@ -3440,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 69,
       "user": "cocoyes"
     },
     {
@@ -3470,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "gesta-run"
     },
     {
@@ -3485,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 2211,
       "user": "lnkiai"
     },
     {
@@ -3500,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1113,
       "user": "shadcn-ui"
     },
     {
@@ -3515,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 416,
       "user": "Albert-Weasker"
     },
     {
@@ -3545,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 201,
       "user": "profullstack"
     },
     {
@@ -3560,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 395,
       "user": "faisalkindi"
     },
     {
@@ -3575,8 +3605,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "mizorewww"
+    },
+    {
+      "title": "pipicat613/MuToolsProject - 一站式 MuMu12 模拟器安装与优化工具",
+      "url": "https://github.com/pipicat613/MuToolsProject",
+      "published_at": "2026-08-31T03:59:44Z",
+      "description": "一站式 MuMu12 模拟器安装与优化工具",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
+      "source": "GitHub",
+      "stars": 210,
+      "user": "pipicat613"
     },
     {
       "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
@@ -3594,21 +3639,6 @@
       "user": "richiemcilroy"
     },
     {
-      "title": "pipicat613/MuToolsProject - 一站式 MuMu12 模拟器安装与优化工具",
-      "url": "https://github.com/pipicat613/MuToolsProject",
-      "published_at": "2026-08-31T03:59:44Z",
-      "description": "一站式 MuMu12 模拟器安装与优化工具",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
-      "source": "GitHub",
-      "stars": 190,
-      "user": "pipicat613"
-    },
-    {
       "title": "what1f/kitter - A local-first Skill manager: one library, only what each project needs.",
       "url": "https://github.com/what1f/kitter",
       "published_at": "2026-09-02T15:44:45Z",
@@ -3620,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "what1f"
     },
     {
