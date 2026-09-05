@@ -46,21 +46,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
-      "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
-      "published_at": "2026-09-03T15:32:52Z",
-      "description": "A senior software engineer who knew nothing about hardware, a BACnet MS/TP thermostat, and an RS-485 bus. How I ended up with an ESP32-S3 gateway on a DIN rail, wired into Home Assistant, in 15 evenings.",
-      "tags": [
-        "bacnet",
-        "esp32",
-        "iot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv09zfq5acat27lmo2hmm.jpg",
-      "source": "Dev.to",
-      "user": "Felice Lombardi"
-    },
-    {
       "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
       "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
       "published_at": "2026-09-03T15:53:27Z",
@@ -87,65 +72,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
       "source": "Dev.to",
       "user": "Nicolas Fränkel"
-    },
-    {
-      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
-      "published_at": "2026-08-30T16:46:00Z",
-      "description": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
-      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
-      "published_at": "2026-09-03T15:18:58Z",
-      "description": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, flex skins a bare-metal Debian desktop to look like one. The split exists because Crostini's guest kernel can't load the NVIDIA driver.",
-      "tags": [
-        "chromeos",
-        "linux",
-        "debian",
-        "gnome"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
-      "published_at": "2026-09-01T18:25:48Z",
-      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
-      "tags": [
-        "aws",
-        "machinelearning",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -190,6 +116,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
+      "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
+      "published_at": "2026-09-03T15:32:52Z",
+      "description": "A senior software engineer who knew nothing about hardware, a BACnet MS/TP thermostat, and an RS-485 bus. How I ended up with an ESP32-S3 gateway on a DIN rail, wired into Home Assistant, in 15 evenings.",
+      "tags": [
+        "bacnet",
+        "esp32",
+        "iot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv09zfq5acat27lmo2hmm.jpg",
+      "source": "Dev.to",
+      "user": "Felice Lombardi"
     },
     {
       "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
@@ -276,21 +217,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "How the internet actually works, and why nobody is in charge of it",
-      "url": "https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8",
-      "published_at": "2026-09-01T18:46:58Z",
-      "description": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
-      "tags": [
-        "networking",
-        "webdev",
-        "programming",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxnd7iq7dc3kzby7m3qz.png",
-      "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
-    },
-    {
       "title": "Claude Fable 5.1 is now available on Agent Platform!",
       "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
       "published_at": "2026-09-01T18:28:57Z",
@@ -334,6 +260,21 @@
       "user": "xbill"
     },
     {
+      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
+      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
+      "published_at": "2026-09-03T15:18:58Z",
+      "description": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, flex skins a bare-metal Debian desktop to look like one. The split exists because Crostini's guest kernel can't load the NVIDIA driver.",
+      "tags": [
+        "chromeos",
+        "linux",
+        "debian",
+        "gnome"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
       "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
       "published_at": "2026-08-29T05:03:06Z",
@@ -362,6 +303,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gajwucxkidvoba2xphx.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "published_at": "2026-09-03T15:54:57Z",
+      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Coding agents got boring the moment we built a really good one.",
@@ -512,6 +467,36 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "How the internet actually works, and why nobody is in charge of it",
+      "url": "https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8",
+      "published_at": "2026-09-01T18:46:58Z",
+      "description": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
+      "tags": [
+        "networking",
+        "webdev",
+        "programming",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxnd7iq7dc3kzby7m3qz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
+    },
+    {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
+      "published_at": "2026-09-01T18:25:48Z",
+      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "tags": [
+        "aws",
+        "machinelearning",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
       "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
       "published_at": "2026-08-25T07:00:00Z",
@@ -553,6 +538,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2035,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1081,
       "user": "GangTailorUpgrade"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 534,
       "user": "Merserk"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "gesta-run"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3452,
+      "stars": 3523,
       "user": "lnkiai"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1163,
       "user": "shadcn-ui"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "Albert-Weasker"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 431,
       "user": "faisalkindi"
     },
     {
@@ -914,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 203,
       "user": "inclusionAI"
     },
     {
@@ -944,17 +944,17 @@
       "user": "mrpossoms"
     },
     {
-      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
-      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "published_at": "2026-09-05T02:09:14.682-05:00",
-      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
+      "title": "What filesystem are you running on your NAS/Backups, and why?",
+      "url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
+      "published_at": "2026-09-05T10:46:13.266-05:00",
+      "description": "What filesystem are you running on your NAS/Backups, and why?\r\n\r\nAnd if you're using multiple disks/devices, how do you manage them (filesystem's RAID, mdadm or other software solutions, hardware RAID)?",
       "tags": [
-        "programming",
-        "vibecoding"
+        "ask",
+        "linux"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "vrypan"
+      "user": "tffr"
     },
     {
       "title": "Is AI ruining my brain?",
@@ -967,6 +967,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "MatheusRich"
+    },
+    {
+      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "published_at": "2026-09-05T02:09:14.682-05:00",
+      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vrypan"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -1012,6 +1025,21 @@
       "user": "iamthebull"
     },
     {
+      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
+      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
+      "published_at": "2026-09-03T21:14:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 5",
+      "tags": [
+        "python",
+        "garbage-collection",
+        "python-asyncio",
+        "weak-references"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "YKT"
+    },
+    {
       "title": "Buildozer cannot build APKs again",
       "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
       "published_at": "2026-09-04T09:29:14.000Z",
@@ -1027,19 +1055,18 @@
       "user": "Pappy38"
     },
     {
-      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
-      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
-      "published_at": "2026-09-03T21:14:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "published_at": "2026-09-05T18:05:27.000Z",
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
       "tags": [
-        "python",
-        "garbage-collection",
-        "python-asyncio",
-        "weak-references"
+        "AI",
+        "Security",
+        "OpenAI"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "YKT"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -1115,20 +1142,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-      "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-      "published_at": "2026-09-04T15:00:00.000Z",
-      "description": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
-      "tags": [
-        "Hardware",
-        "Media & Entertainment",
-        "Compact Disc"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
@@ -1239,21 +1252,6 @@
   ],
   "JavaScript": [
     {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-      "published_at": "2026-09-03T15:24:18Z",
-      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
-      "tags": [
-        "discuss",
-        "aws",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
       "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
       "published_at": "2026-09-03T17:31:52Z",
@@ -1269,19 +1267,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
-      "published_at": "2026-08-30T16:46:00Z",
-      "description": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.",
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
+      "published_at": "2026-09-03T15:24:18Z",
+      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
       "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
+        "discuss",
+        "aws",
+        "beginners",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
@@ -1460,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "PhiloLabs"
     },
     {
@@ -1475,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "ahujasid"
     },
     {
@@ -1520,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3452,
+      "stars": 3523,
       "user": "lnkiai"
     },
     {
@@ -1535,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1163,
       "user": "shadcn-ui"
     },
     {
@@ -1550,7 +1548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "Albert-Weasker"
     },
     {
@@ -1569,19 +1567,33 @@
       "user": "blendi-remade"
     },
     {
-      "title": "profullstack/hqtui - High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
-      "url": "https://github.com/profullstack/hqtui",
-      "published_at": "2026-08-30T05:09:53Z",
-      "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "url": "https://github.com/ashemag/human-atlas",
+      "published_at": "2026-09-05T00:24:43Z",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 202,
-      "user": "profullstack"
+      "stars": 204,
+      "user": "ashemag"
+    },
+    {
+      "title": "How do I trigger a dialog Form by clicking a table row?",
+      "url": "https://stackoverflow.com/questions/80000947/how-do-i-trigger-a-dialog-form-by-clicking-a-table-row",
+      "published_at": "2026-09-05T08:03:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "shadcnui"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marco Pasquali"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -1667,19 +1679,6 @@
       "user": "Muhammad"
     },
     {
-      "title": "Why does React render an intermediate state between two setState calls?",
-      "url": "https://stackoverflow.com/questions/80000593/why-does-react-render-an-intermediate-state-between-two-setstate-calls",
-      "published_at": "2026-09-03T17:46:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Light Yagami"
-    },
-    {
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
       "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
       "published_at": "2026-08-31T13:33:48.000Z",
@@ -1695,20 +1694,6 @@
       "user": "Jack Smith"
     },
     {
-      "title": "Switch to minimize some icons on page",
-      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
-      "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Visitor"
-    },
-    {
       "title": "Making a Chrome extension trigger on the Manage Extensions page",
       "url": "https://stackoverflow.com/questions/79997903/making-a-chrome-extension-trigger-on-the-manage-extensions-page",
       "published_at": "2026-08-24T20:46:28.000Z",
@@ -1720,6 +1705,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Samuel Bond"
+    },
+    {
+      "title": "Check if a variable is a string in JavaScript",
+      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
+      "published_at": "2010-10-30T14:36:34.000Z",
+      "description": "Stack Overflow question · 34 answers · score 2883",
+      "tags": [
+        "javascript",
+        "string"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Olical"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1739,21 +1737,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
-      "published_at": "2026-09-01T18:25:48Z",
-      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
-      "tags": [
-        "aws",
-        "machinelearning",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Cross Cloud A2A Agent Card Field Comparison",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
@@ -1783,6 +1766,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
+    },
+    {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
+      "published_at": "2026-09-01T18:25:48Z",
+      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "tags": [
+        "aws",
+        "machinelearning",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
@@ -1931,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2035,
       "user": "anthropics"
     },
     {
@@ -1946,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1081,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1991,14 +1989,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 534,
       "user": "Merserk"
     },
     {
       "title": "When installing requests with UV, VS code cannot find requests module, but the script runs successfully from the command line",
       "url": "https://stackoverflow.com/questions/80001008/when-installing-requests-with-uv-vs-code-cannot-find-requests-module-but-the-s",
       "published_at": "2026-09-05T15:26:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "pip",
@@ -2092,21 +2090,6 @@
       "user": "BRANDON BRANDSTETTER"
     },
     {
-      "title": "Buildozer cannot build APKs again",
-      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
-      "published_at": "2026-09-04T09:29:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "archlinux",
-        "buildozer",
-        "python-3.12"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pappy38"
-    },
-    {
       "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
       "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
       "published_at": "2026-09-03T21:14:26.000Z",
@@ -2120,6 +2103,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "YKT"
+    },
+    {
+      "title": "Buildozer cannot build APKs again",
+      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
+      "published_at": "2026-09-04T09:29:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "archlinux",
+        "buildozer",
+        "python-3.12"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pappy38"
     },
     {
       "title": "Python Library/Module Won't Import While Others Do",
@@ -2460,7 +2458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 270,
       "user": "mizorewww"
     },
     {
@@ -2491,38 +2489,9 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bcarothers"
-    },
-    {
-      "title": "Switch to minimize some icons on page",
-      "url": "https://stackoverflow.com/questions/79999624/switch-to-minimize-some-icons-on-page",
-      "published_at": "2026-08-31T13:42:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Visitor"
     }
   ],
   "Mobile": [
-    {
-      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
-      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
-      "published_at": "2026-09-03T12:47:27Z",
-      "description": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and discover how BlocSignal solves rapid scrolling race conditions streamlessly with droppable().",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
     {
       "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
       "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
@@ -2535,21 +2504,6 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
-      "published_at": "2026-08-30T16:46:00Z",
-      "description": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2580,6 +2534,21 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
+      "published_at": "2026-09-03T12:47:27Z",
+      "description": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and discover how BlocSignal solves rapid scrolling race conditions streamlessly with droppable().",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2617,21 +2586,6 @@
   ],
   "Cloud": [
     {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-      "published_at": "2026-09-03T15:24:18Z",
-      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
-      "tags": [
-        "discuss",
-        "aws",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
       "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
       "published_at": "2026-09-04T01:59:20Z",
@@ -2647,33 +2601,19 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
-      "published_at": "2026-09-01T18:25:48Z",
-      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
+      "published_at": "2026-09-03T15:24:18Z",
+      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
       "tags": [
+        "discuss",
         "aws",
-        "machinelearning",
-        "benchmarking",
-        "python"
+        "beginners",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -2779,6 +2719,20 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "published_at": "2026-09-03T15:54:57Z",
+      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -2852,6 +2806,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
+      "published_at": "2026-09-01T18:25:48Z",
+      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "tags": [
+        "aws",
+        "machinelearning",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How OpenTelemetry Works: A Complete Guide",
@@ -2945,6 +2914,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3106,6 +3090,20 @@
       "user": "vrypan"
     },
     {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "published_at": "2026-09-05T18:05:27.000Z",
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "tags": [
+        "AI",
+        "Security",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "published_at": "2026-09-04T16:21:11.000Z",
@@ -3241,6 +3239,21 @@
       "user": "Caleb Duff"
     },
     {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3303,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "PhiloLabs"
     },
     {
@@ -3318,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "ahujasid"
     },
     {
@@ -3363,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2035,
       "user": "anthropics"
     },
     {
@@ -3378,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1081,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3423,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 534,
       "user": "Merserk"
     },
     {
@@ -3442,6 +3455,21 @@
       "user": "Adytm404"
     },
     {
+      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
+      "url": "https://github.com/pgrundev/pgbook",
+      "published_at": "2026-09-02T16:55:32Z",
+      "description": "Postgres Book, one topic at a time.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "pgrundev"
+    },
+    {
       "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
       "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
       "published_at": "2026-08-31T10:23:49Z",
@@ -3457,21 +3485,6 @@
       "user": "cocoyes"
     },
     {
-      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
-      "url": "https://github.com/pgrundev/pgbook",
-      "published_at": "2026-09-02T16:55:32Z",
-      "description": "Postgres Book, one topic at a time.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 75,
-      "user": "pgrundev"
-    },
-    {
       "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
       "url": "https://github.com/gesta-run/subpool",
       "published_at": "2026-09-02T08:27:21Z",
@@ -3483,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "gesta-run"
     },
     {
@@ -3513,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3452,
+      "stars": 3523,
       "user": "lnkiai"
     },
     {
@@ -3528,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1163,
       "user": "shadcn-ui"
     },
     {
@@ -3543,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "Albert-Weasker"
     },
     {
@@ -3562,19 +3575,19 @@
       "user": "blendi-remade"
     },
     {
-      "title": "profullstack/hqtui - High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
-      "url": "https://github.com/profullstack/hqtui",
-      "published_at": "2026-08-30T05:09:53Z",
-      "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies.",
+      "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "url": "https://github.com/ashemag/human-atlas",
+      "published_at": "2026-09-05T00:24:43Z",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 202,
-      "user": "profullstack"
+      "stars": 204,
+      "user": "ashemag"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -3588,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 431,
       "user": "faisalkindi"
     },
     {
@@ -3603,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 276,
       "user": "pipicat613"
     },
     {
@@ -3618,8 +3631,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 270,
       "user": "mizorewww"
+    },
+    {
+      "title": "inclusionAI/Choruz - GitHub Repository",
+      "url": "https://github.com/inclusionAI/Choruz",
+      "published_at": "2026-09-02T06:46:09Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
+      "source": "GitHub",
+      "stars": 203,
+      "user": "inclusionAI"
     },
     {
       "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
@@ -3635,21 +3663,6 @@
       "source": "GitHub",
       "stars": 202,
       "user": "richiemcilroy"
-    },
-    {
-      "title": "inclusionAI/Choruz - GitHub Repository",
-      "url": "https://github.com/inclusionAI/Choruz",
-      "published_at": "2026-09-02T06:46:09Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
-      "source": "GitHub",
-      "stars": 200,
-      "user": "inclusionAI"
     },
     {
       "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
