@@ -46,20 +46,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
       "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
       "published_at": "2026-09-03T15:32:52Z",
@@ -101,21 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
       "source": "Dev.to",
       "user": "Nicolas Fränkel"
-    },
-    {
-      "title": "What is harness engineering and why should I care?",
-      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "published_at": "2026-09-02T15:28:05Z",
-      "description": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
-      "tags": [
-        "ai",
-        "agents",
-        "programming",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz6prrbe2g8r5m1h79agh.gif",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
@@ -173,6 +144,20 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
+      "published_at": "2026-09-03T15:52:29Z",
+      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -422,6 +407,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "What is harness engineering and why should I care?",
+      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+      "published_at": "2026-09-02T15:28:05Z",
+      "description": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
+      "tags": [
+        "ai",
+        "agents",
+        "programming",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz6prrbe2g8r5m1h79agh.gif",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Preptember is here!! Plan a Fest for your local community.",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1990,
+      "stars": 2018,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1076,
+      "stars": 1077,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 917,
       "user": "2akouwu"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "nahrek"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 520,
       "user": "Merserk"
     },
     {
@@ -809,8 +809,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "cocoyes"
+    },
+    {
+      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
+      "url": "https://github.com/gesta-run/subpool",
+      "published_at": "2026-09-02T08:27:21Z",
+      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "gesta-run"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -828,21 +843,6 @@
       "user": "basketikun"
     },
     {
-      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
-      "url": "https://github.com/gesta-run/subpool",
-      "published_at": "2026-09-02T08:27:21Z",
-      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "gesta-run"
-    },
-    {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "published_at": "2026-09-02T04:36:34Z",
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3005,
+      "stars": 3293,
       "user": "lnkiai"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1159,
       "user": "shadcn-ui"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 450,
       "user": "Albert-Weasker"
     },
     {
@@ -899,8 +899,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 422,
       "user": "faisalkindi"
+    },
+    {
+      "title": "inclusionAI/Choruz - GitHub Repository",
+      "url": "https://github.com/inclusionAI/Choruz",
+      "published_at": "2026-09-02T06:46:09Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
+      "source": "GitHub",
+      "stars": 194,
+      "user": "inclusionAI"
     },
     {
       "title": "Surviving Code Reviews in the era of AI",
@@ -913,6 +928,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mrpossoms"
+    },
+    {
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "published_at": "2026-09-05T05:58:49.333-05:00",
+      "description": "\"Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers. We show that it is not.\"\r\n\r\nA few weeks ago I came across this https://www.teamten.com/lawrence/writings/coding-machines/ : it's clearly fictional (and furthermore is \"pre-AI\" in that it was written in 2009) but is interesting in that it raises the question of whether one or more *computers* could- without \"intention\" embed code meeting the \"trusting trust\" criteria in GCC.",
+      "tags": [
+        "linux",
+        "nix",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "MarkMLl"
     },
     {
       "title": "Is AI ruining my brain?",
@@ -940,30 +969,16 @@
       "user": "vrypan"
     },
     {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "published_at": "2026-09-04T06:43:06.812-05:00",
-      "description": "Originally: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "published_at": "2026-09-05T06:50:24.422-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "vibecoding"
+        "rust"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "addison"
-    },
-    {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "published_at": "2026-09-05T05:58:49.333-05:00",
-      "description": "\"Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers. We show that it is not.\"\r\n\r\nA few weeks ago I came across this https://www.teamten.com/lawrence/writings/coding-machines/ : it's clearly fictional (and furthermore is \"pre-AI\" in that it was written in 2009) but is interesting in that it raises the question of whether one or more *computers* could- without \"intention\" embed code meeting the \"trusting trust\" criteria in GCC.",
-      "tags": [
-        "linux",
-        "nix",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "MarkMLl"
+      "user": "ettolrach"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -1122,21 +1137,6 @@
         "Hardware",
         "Media & Entertainment",
         "Compact Disc"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "published_at": "2026-09-04T14:47:11.000Z",
-      "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "tags": [
-        "AI",
-        "Apps",
-        "gemini",
-        "Google Photos"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1457,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 820,
       "user": "yczz"
     },
     {
@@ -1472,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "PhiloLabs"
     },
     {
@@ -1487,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 416,
       "user": "ahujasid"
     },
     {
@@ -1502,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 392,
       "user": "subsy"
     },
     {
@@ -1532,7 +1532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3005,
+      "stars": 3293,
       "user": "lnkiai"
     },
     {
@@ -1547,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1159,
       "user": "shadcn-ui"
     },
     {
@@ -1562,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 450,
       "user": "Albert-Weasker"
     },
     {
@@ -1577,7 +1577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "blendi-remade"
     },
     {
@@ -1592,7 +1592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "profullstack"
     },
     {
@@ -1611,6 +1611,20 @@
       "user": "Player Possum"
     },
     {
+      "title": "Input value for total number of pages in a REDCap survey?",
+      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
+      "published_at": "2026-09-04T20:50:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "redcap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bcarothers"
+    },
+    {
       "title": "javascript accessing object value or name",
       "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
       "published_at": "2026-09-04T15:18:25.000Z",
@@ -1622,20 +1636,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JKomp"
-    },
-    {
-      "title": "Input value for total number of pages in a REDCap survey?",
-      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
-      "published_at": "2026-09-04T20:50:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "redcap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bcarothers"
     },
     {
       "title": "How can I work with multiple variables in one Function in Javascript",
@@ -1668,7 +1668,7 @@
       "title": "How should a React app handle API data when the user navigates away before the request finishes?",
       "url": "https://stackoverflow.com/questions/80000605/how-should-a-react-app-handle-api-data-when-the-user-navigates-away-before-the-r",
       "published_at": "2026-09-03T18:20:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "best-practices",
         "javascript",
@@ -1677,18 +1677,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad"
-    },
-    {
-      "title": "is JSEvent a macro task or synchronous task？",
-      "url": "https://stackoverflow.com/questions/80000471/is-jsevent-a-macro-task-or-synchronous-task",
-      "published_at": "2026-09-03T10:37:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Evergreen"
     },
     {
       "title": "Why does React render an intermediate state between two setState calls?",
@@ -1731,6 +1719,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Visitor"
+    },
+    {
+      "title": "Making a Chrome extension trigger on the Manage Extensions page",
+      "url": "https://stackoverflow.com/questions/79997903/making-a-chrome-extension-trigger-on-the-manage-extensions-page",
+      "published_at": "2026-08-24T20:46:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "google-chrome-extension"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Samuel Bond"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1942,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1990,
+      "stars": 2018,
       "user": "anthropics"
     },
     {
@@ -1957,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1076,
+      "stars": 1077,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1972,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 917,
       "user": "2akouwu"
     },
     {
@@ -1987,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "nahrek"
     },
     {
@@ -2002,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 520,
       "user": "Merserk"
     },
     {
@@ -2469,7 +2470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 264,
       "user": "mizorewww"
     },
     {
@@ -2491,7 +2492,7 @@
       "title": "Input value for total number of pages in a REDCap survey?",
       "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
       "published_at": "2026-09-04T20:50:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -2656,20 +2657,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
       "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
       "published_at": "2026-09-01T18:25:48Z",
@@ -2695,6 +2682,20 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
+      "published_at": "2026-09-03T15:52:29Z",
+      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
     },
@@ -2904,7 +2905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "nahrek"
     },
     {
@@ -3088,19 +3089,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
-      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "published_at": "2026-09-05T02:09:14.682-05:00",
-      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
-      "tags": [
-        "programming",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vrypan"
-    },
-    {
       "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
       "url": "https://arxiv.org/abs/2607.24888",
       "published_at": "2026-09-05T05:58:49.333-05:00",
@@ -3113,6 +3101,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "MarkMLl"
+    },
+    {
+      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "published_at": "2026-09-05T02:09:14.682-05:00",
+      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vrypan"
     },
     {
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
@@ -3297,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 820,
       "user": "yczz"
     },
     {
@@ -3312,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "PhiloLabs"
     },
     {
@@ -3327,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 416,
       "user": "ahujasid"
     },
     {
@@ -3342,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 392,
       "user": "subsy"
     },
     {
@@ -3372,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 1990,
+      "stars": 2018,
       "user": "anthropics"
     },
     {
@@ -3387,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1076,
+      "stars": 1077,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3402,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 917,
       "user": "2akouwu"
     },
     {
@@ -3417,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "nahrek"
     },
     {
@@ -3432,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 520,
       "user": "Merserk"
     },
     {
@@ -3447,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "Adytm404"
     },
     {
@@ -3462,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "cocoyes"
     },
     {
@@ -3477,8 +3478,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 75,
       "user": "pgrundev"
+    },
+    {
+      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
+      "url": "https://github.com/gesta-run/subpool",
+      "published_at": "2026-09-02T08:27:21Z",
+      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "gesta-run"
     },
     {
       "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
@@ -3496,21 +3512,6 @@
       "user": "basketikun"
     },
     {
-      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
-      "url": "https://github.com/gesta-run/subpool",
-      "published_at": "2026-09-02T08:27:21Z",
-      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "gesta-run"
-    },
-    {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "published_at": "2026-09-02T04:36:34Z",
@@ -3522,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3005,
+      "stars": 3293,
       "user": "lnkiai"
     },
     {
@@ -3537,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1159,
       "user": "shadcn-ui"
     },
     {
@@ -3552,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 450,
       "user": "Albert-Weasker"
     },
     {
@@ -3567,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "blendi-remade"
     },
     {
@@ -3582,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/44715329?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "profullstack"
     },
     {
@@ -3597,23 +3598,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 422,
       "user": "faisalkindi"
-    },
-    {
-      "title": "mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "url": "https://github.com/mizorewww/course2md",
-      "published_at": "2026-08-31T01:56:25Z",
-      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "mizorewww"
     },
     {
       "title": "pipicat613/MuToolsProject - 一站式 MuMu12 模拟器安装与优化工具",
@@ -3627,8 +3613,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 270,
       "user": "pipicat613"
+    },
+    {
+      "title": "mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
+      "url": "https://github.com/mizorewww/course2md",
+      "published_at": "2026-08-31T01:56:25Z",
+      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 264,
+      "user": "mizorewww"
     },
     {
       "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
@@ -3646,19 +3647,19 @@
       "user": "richiemcilroy"
     },
     {
-      "title": "what1f/kitter - A local-first Skill manager: one library, only what each project needs.",
-      "url": "https://github.com/what1f/kitter",
-      "published_at": "2026-09-02T15:44:45Z",
-      "description": "A local-first Skill manager: one library, only what each project needs.",
+      "title": "inclusionAI/Choruz - GitHub Repository",
+      "url": "https://github.com/inclusionAI/Choruz",
+      "published_at": "2026-09-02T06:46:09Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 190,
-      "user": "what1f"
+      "stars": 194,
+      "user": "inclusionAI"
     },
     {
       "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
