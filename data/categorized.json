@@ -46,34 +46,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
-      "published_at": "2026-09-03T15:53:27Z",
-      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "AI-assisted genealogy",
-      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
-      "published_at": "2026-09-03T09:02:00Z",
-      "description": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
-      "tags": [
-        "ai",
-        "codingassistant",
-        "genealogy",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
-      "source": "Dev.to",
-      "user": "Nicolas Fränkel"
-    },
-    {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
       "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
       "published_at": "2026-09-03T15:52:29Z",
@@ -148,18 +120,19 @@
       "user": "Evan Lin"
     },
     {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "published_at": "2026-09-02T16:35:00Z",
-      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "title": "AI-assisted genealogy",
+      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
+      "published_at": "2026-09-03T09:02:00Z",
+      "description": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
       "tags": [
         "ai",
-        "evals",
-        "testing"
+        "codingassistant",
+        "genealogy",
+        "claude"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
       "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
+      "user": "Nicolas Fränkel"
     },
     {
       "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
@@ -305,6 +278,20 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "published_at": "2026-09-03T15:54:57Z",
+      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
       "published_at": "2026-08-17T20:12:46Z",
@@ -350,21 +337,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Preptember is here!! Plan a Fest for your local community.",
-      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
-      "published_at": "2026-09-01T19:26:08Z",
-      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
-      "tags": [
-        "hacktoberfest",
-        "ai",
-        "hackathon",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
       "published_at": "2026-08-25T20:44:29Z",
@@ -380,15 +352,44 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
-      "published_at": "2026-09-01T16:35:00Z",
-      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "title": "Preptember is here!! Plan a Fest for your local community.",
+      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
+      "published_at": "2026-09-01T19:26:08Z",
+      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
+      "tags": [
+        "hacktoberfest",
+        "ai",
+        "hackathon",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
+      "published_at": "2026-09-03T15:53:27Z",
+      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
       "tags": [
         "ai",
-        "evals"
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+      "published_at": "2026-09-02T16:35:00Z",
+      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "tags": [
+        "ai",
+        "evals",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
       "source": "Dev.to",
       "user": "Jan-Felix Schmakeit"
     },
@@ -511,6 +512,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
+      "published_at": "2026-09-01T16:35:00Z",
+      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "tags": [
+        "ai",
+        "evals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
@@ -720,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2050,
+      "stars": 2094,
       "user": "anthropics"
     },
     {
@@ -735,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1090,
+      "stars": 1104,
       "user": "GangTailorUpgrade"
     },
     {
@@ -750,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 925,
       "user": "2akouwu"
     },
     {
@@ -769,6 +783,21 @@
       "user": "nahrek"
     },
     {
+      "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "published_at": "2026-09-05T21:26:04Z",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "okf-memory"
+    },
+    {
       "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
       "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
       "published_at": "2026-08-31T10:23:49Z",
@@ -780,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "cocoyes"
     },
     {
@@ -799,21 +828,6 @@
       "user": "gesta-run"
     },
     {
-      "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
-      "url": "https://github.com/basketikun/claude2api",
-      "published_at": "2026-08-31T13:25:40Z",
-      "description": " Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
-      "source": "GitHub",
-      "stars": 63,
-      "user": "basketikun"
-    },
-    {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "published_at": "2026-09-02T04:36:34Z",
@@ -825,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3685,
+      "stars": 3865,
       "user": "lnkiai"
     },
     {
@@ -840,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1178,
       "user": "shadcn-ui"
     },
     {
@@ -855,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "Albert-Weasker"
     },
     {
@@ -870,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 460,
       "user": "faisalkindi"
     },
     {
@@ -885,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 248,
       "user": "inclusionAI"
     },
     {
@@ -926,19 +940,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mrpossoms"
-    },
-    {
-      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
-      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "published_at": "2026-09-05T02:09:14.682-05:00",
-      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
-      "tags": [
-        "programming",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vrypan"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -1404,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 823,
       "user": "yczz"
     },
     {
@@ -1419,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 448,
       "user": "ahujasid"
     },
     {
@@ -1434,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "PhiloLabs"
     },
     {
@@ -1449,23 +1450,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 396,
       "user": "subsy"
     },
     {
-      "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
-      "published_at": "2026-09-02T06:38:31Z",
-      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 302,
-      "user": "dreamers-laboratory"
+      "stars": 349,
+      "user": "KJGX66F"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1479,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3685,
+      "stars": 3865,
       "user": "lnkiai"
     },
     {
@@ -1494,23 +1495,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1178,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "published_at": "2026-09-03T15:55:54Z",
-      "description": "Open-source AI brand visibility and competitor reports",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
-      "source": "GitHub",
-      "stars": 459,
-      "user": "Albert-Weasker"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -1524,8 +1510,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 560,
       "user": "ashemag"
+    },
+    {
+      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "published_at": "2026-09-03T15:55:54Z",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
+      "source": "GitHub",
+      "stars": 466,
+      "user": "Albert-Weasker"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -1546,7 +1547,7 @@
       "title": "Does it bother you that print commands don't have any graphing?",
       "url": "https://stackoverflow.com/questions/80001070/does-it-bother-you-that-print-commands-dont-have-any-graphing",
       "published_at": "2026-09-05T23:48:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "vs-code",
@@ -1670,17 +1671,16 @@
       "user": "Samuel Bond"
     },
     {
-      "title": "Check if a variable is a string in JavaScript",
-      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
-      "published_at": "2010-10-30T14:36:34.000Z",
-      "description": "Stack Overflow question · 34 answers · score 2883",
+      "title": "Vue 3 Reactivity + shallowRef",
+      "url": "https://stackoverflow.com/questions/80000995/vue-3-reactivity-shallowref",
+      "published_at": "2026-08-27T11:42:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "javascript",
-        "string"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Olical"
+      "user": "Maulik Paneliya"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1892,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2050,
+      "stars": 2094,
       "user": "anthropics"
     },
     {
@@ -1907,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1090,
+      "stars": 1104,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1922,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 925,
       "user": "2akouwu"
     },
     {
@@ -1952,14 +1952,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 502,
       "user": "Human-Agent-Society"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
       "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
       "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "pytest",
@@ -2000,20 +2000,6 @@
       "user": "Lakshit Sharma"
     },
     {
-      "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
-      "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create",
-      "published_at": "2026-09-04T20:44:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "subprocess",
-        "popen"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Power of Wilson"
-    },
-    {
       "title": "How to type-hint a function that returns as many values as in its input?",
       "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
       "published_at": "2026-09-04T12:38:48.000Z",
@@ -2026,6 +2012,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "schtandard"
+    },
+    {
+      "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
+      "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create",
+      "published_at": "2026-09-04T20:44:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "subprocess",
+        "popen"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Power of Wilson"
     },
     {
       "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
@@ -2308,21 +2308,6 @@
       "user": "jknupp"
     },
     {
-      "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
-      "url": "https://github.com/basketikun/claude2api",
-      "published_at": "2026-08-31T13:25:40Z",
-      "description": " Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
-      "source": "GitHub",
-      "stars": 63,
-      "user": "basketikun"
-    },
-    {
       "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
       "url": "https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/",
       "published_at": "2026-09-04T16:13:09.000Z",
@@ -2421,7 +2406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 276,
       "user": "mizorewww"
     },
     {
@@ -2682,6 +2667,20 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "published_at": "2026-09-03T15:54:57Z",
+      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -2772,6 +2771,21 @@
       "user": "xbill"
     },
     {
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "KJGX66F"
+    },
+    {
       "title": "How OpenTelemetry Works: A Complete Guide",
       "url": "https://www.freecodecamp.org/news/how-opentelemetry-works/",
       "published_at": "2026-09-03T15:41:52.000Z",
@@ -2815,6 +2829,21 @@
       "source": "GitHub",
       "stars": 620,
       "user": "nahrek"
+    },
+    {
+      "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "published_at": "2026-09-05T21:26:04Z",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "okf-memory"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -3026,19 +3055,6 @@
       "user": "MarkMLl"
     },
     {
-      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
-      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "published_at": "2026-09-05T02:09:14.682-05:00",
-      "description": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it returns a long list of serious ones.\r\n\r\nEven if you hate AI-generated code, you can use an AI to identify issues and you can fix them yourself. Think of it as an advanced linter or something.",
-      "tags": [
-        "programming",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vrypan"
-    },
-    {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "published_at": "2026-09-05T18:05:27.000Z",
@@ -3070,20 +3086,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "published_at": "2026-09-02T16:35:00Z",
-      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "tags": [
-        "ai",
-        "evals",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
-    },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
@@ -3128,6 +3130,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
+      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
+      "published_at": "2026-09-02T16:35:00Z",
+      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
+      "tags": [
+        "ai",
+        "evals",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -3237,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 823,
       "user": "yczz"
     },
     {
@@ -3252,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 448,
       "user": "ahujasid"
     },
     {
@@ -3267,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "PhiloLabs"
     },
     {
@@ -3282,23 +3298,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 396,
       "user": "subsy"
     },
     {
-      "title": "dreamers-laboratory/image-to-3d-pipeline - Reconstruct 3D meshes from images with several open-source models and score which did it best.",
-      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
-      "published_at": "2026-09-02T06:38:31Z",
-      "description": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26134839?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 302,
-      "user": "dreamers-laboratory"
+      "stars": 349,
+      "user": "KJGX66F"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -3312,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2050,
+      "stars": 2094,
       "user": "anthropics"
     },
     {
@@ -3327,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1090,
+      "stars": 1104,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3342,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 925,
       "user": "2akouwu"
     },
     {
@@ -3372,8 +3388,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 502,
       "user": "Human-Agent-Society"
+    },
+    {
+      "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "published_at": "2026-09-05T21:26:04Z",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
+      "source": "GitHub",
+      "stars": 124,
+      "user": "okf-memory"
+    },
+    {
+      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
+      "published_at": "2026-08-31T10:23:49Z",
+      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "cocoyes"
     },
     {
       "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
@@ -3387,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "Adytm404"
     },
     {
@@ -3406,21 +3452,6 @@
       "user": "pgrundev"
     },
     {
-      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
-      "published_at": "2026-08-31T10:23:49Z",
-      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
-      "source": "GitHub",
-      "stars": 77,
-      "user": "cocoyes"
-    },
-    {
       "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
       "url": "https://github.com/gesta-run/subpool",
       "published_at": "2026-09-02T08:27:21Z",
@@ -3436,21 +3467,6 @@
       "user": "gesta-run"
     },
     {
-      "title": "basketikun/claude2api -  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
-      "url": "https://github.com/basketikun/claude2api",
-      "published_at": "2026-08-31T13:25:40Z",
-      "description": " Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
-      "source": "GitHub",
-      "stars": 63,
-      "user": "basketikun"
-    },
-    {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "published_at": "2026-09-02T04:36:34Z",
@@ -3462,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3685,
+      "stars": 3865,
       "user": "lnkiai"
     },
     {
@@ -3477,23 +3493,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1178,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "published_at": "2026-09-03T15:55:54Z",
-      "description": "Open-source AI brand visibility and competitor reports",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
-      "source": "GitHub",
-      "stars": 459,
-      "user": "Albert-Weasker"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -3507,8 +3508,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 560,
       "user": "ashemag"
+    },
+    {
+      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "published_at": "2026-09-03T15:55:54Z",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
+      "source": "GitHub",
+      "stars": 466,
+      "user": "Albert-Weasker"
     },
     {
       "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
@@ -3537,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 460,
       "user": "faisalkindi"
     },
     {
@@ -3552,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 304,
       "user": "pipicat613"
     },
     {
@@ -3567,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 276,
       "user": "mizorewww"
     },
     {
@@ -3582,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 248,
       "user": "inclusionAI"
     },
     {
@@ -3604,7 +3620,7 @@
       "title": "Does it bother you that print commands don't have any graphing?",
       "url": "https://stackoverflow.com/questions/80001070/does-it-bother-you-that-print-commands-dont-have-any-graphing",
       "published_at": "2026-09-05T23:48:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "vs-code",
