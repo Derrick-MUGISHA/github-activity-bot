@@ -352,21 +352,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Preptember is here!! Plan a Fest for your local community.",
-      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
-      "published_at": "2026-09-01T19:26:08Z",
-      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
-      "tags": [
-        "hacktoberfest",
-        "ai",
-        "hackathon",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
       "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
       "published_at": "2026-09-03T15:53:27Z",
@@ -512,6 +497,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Preptember is here!! Plan a Fest for your local community.",
+      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
+      "published_at": "2026-09-01T19:26:08Z",
+      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
+      "tags": [
+        "hacktoberfest",
+        "ai",
+        "hackathon",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "How to Design AI Evaluations You Can Actually Trust",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2133,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1111,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 932,
       "user": "2akouwu"
     },
     {
@@ -783,6 +783,21 @@
       "user": "nahrek"
     },
     {
+      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "published_at": "2026-09-04T15:00:53Z",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
+      "source": "GitHub",
+      "stars": 538,
+      "user": "Rion-Wu-tech"
+    },
+    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 165,
       "user": "okf-memory"
     },
     {
@@ -809,23 +824,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "cocoyes"
-    },
-    {
-      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
-      "url": "https://github.com/gesta-run/subpool",
-      "published_at": "2026-09-02T08:27:21Z",
-      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
-      "source": "GitHub",
-      "stars": 65,
-      "user": "gesta-run"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3865,
+      "stars": 4034,
       "user": "lnkiai"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1178,
+      "stars": 1189,
       "user": "shadcn-ui"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 527,
       "user": "Albert-Weasker"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 479,
       "user": "faisalkindi"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 261,
       "user": "inclusionAI"
     },
     {
@@ -930,18 +930,6 @@
       "user": "tffr"
     },
     {
-      "title": "Surviving Code Reviews in the era of AI",
-      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
-      "published_at": "2026-09-04T08:11:47.640-05:00",
-      "description": "My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff.\r\n\r\nIt's well established that even PRs an order of magnitude smaller than this are too big to be effectively reviewed. I'm still clinging to the idea that us humans should understand how the systems we are building work, so I'm hesitant to use AI for reviews aside from more general question answering. Much of what it produces in the way of explanations are difficult to follow and overly verbose anyway.\r\n\r\nI'm sure I'm not the only person here who has been dealing with this problem, so I'm curious if anyone here has found any strategies (organizational or personal) which have helped weather this maelstrom.",
-      "tags": [
-        "ask"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mrpossoms"
-    },
-    {
       "title": "TransitionGroup smooth move causing container height to decrease",
       "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
       "published_at": "2026-09-05T06:11:17.000Z",
@@ -955,6 +943,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Player Possum"
+    },
+    {
+      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
+      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
+      "published_at": "2026-02-06T02:01:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "testing",
+        "automation",
+        "automated-tests",
+        "tooling-recommendation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohd Shakir"
     },
     {
       "title": "Send an email from Outlook account using Python",
@@ -983,21 +987,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
-      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
-      "published_at": "2026-09-03T21:14:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
-      "tags": [
-        "python",
-        "garbage-collection",
-        "python-asyncio",
-        "weak-references"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "YKT"
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -1405,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 826,
       "user": "yczz"
     },
     {
@@ -1420,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 454,
       "user": "ahujasid"
     },
     {
@@ -1465,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 383,
       "user": "KJGX66F"
     },
     {
@@ -1480,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3865,
+      "stars": 4034,
       "user": "lnkiai"
     },
     {
@@ -1495,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1178,
+      "stars": 1189,
       "user": "shadcn-ui"
     },
     {
@@ -1510,7 +1499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 779,
       "user": "ashemag"
     },
     {
@@ -1525,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 527,
       "user": "Albert-Weasker"
     },
     {
@@ -1542,22 +1531,6 @@
       "source": "GitHub",
       "stars": 237,
       "user": "blendi-remade"
-    },
-    {
-      "title": "Does it bother you that print commands don't have any graphing?",
-      "url": "https://stackoverflow.com/questions/80001070/does-it-bother-you-that-print-commands-dont-have-any-graphing",
-      "published_at": "2026-09-05T23:48:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "vs-code",
-        "debugging",
-        "testing",
-        "computer-science"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
     },
     {
       "title": "How do I trigger a dialog Form by clicking a table row?",
@@ -1616,19 +1589,6 @@
       "user": "JKomp"
     },
     {
-      "title": "How can I work with multiple variables in one Function in Javascript",
-      "url": "https://stackoverflow.com/questions/80000714/how-can-i-work-with-multiple-variables-in-one-function-in-javascript",
-      "published_at": "2026-09-04T07:32:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -9",
-      "tags": [
-        "javascript",
-        "function"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jethro Bege Moses"
-    },
-    {
       "title": "Google Maps Distance Matrix API returning ZERO_RESULTS for valid local US addresses in JavaScript fetch",
       "url": "https://stackoverflow.com/questions/80000773/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-us-addres",
       "published_at": "2026-09-04T11:14:14.000Z",
@@ -1681,6 +1641,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Maulik Paneliya"
+    },
+    {
+      "title": "Check if a variable is a string in JavaScript",
+      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
+      "published_at": "2010-10-30T14:36:34.000Z",
+      "description": "Stack Overflow question · 34 answers · score 2883",
+      "tags": [
+        "javascript",
+        "string"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Olical"
+    },
+    {
+      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
+      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
+      "published_at": "2026-02-06T02:01:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "testing",
+        "automation",
+        "automated-tests",
+        "tooling-recommendation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohd Shakir"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1892,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2133,
       "user": "anthropics"
     },
     {
@@ -1907,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1111,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1922,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 932,
       "user": "2akouwu"
     },
     {
@@ -1941,30 +1930,30 @@
       "user": "nahrek"
     },
     {
-      "title": "Human-Agent-Society/reef - Continual learning infra for self-improving agents",
-      "url": "https://github.com/Human-Agent-Society/reef",
-      "published_at": "2026-08-31T01:39:18Z",
-      "description": "Continual learning infra for self-improving agents",
+      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "published_at": "2026-09-04T15:00:53Z",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 502,
-      "user": "Human-Agent-Society"
+      "stars": 538,
+      "user": "Rion-Wu-tech"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
       "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
       "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
+        "testing",
         "pytest",
-        "static-analysis",
-        "hypothesis-test"
+        "static-analysis"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2068,19 +2057,18 @@
       "user": "BRANDON BRANDSTETTER"
     },
     {
-      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
-      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
-      "published_at": "2026-09-03T21:14:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
+        "best-practices",
         "python",
-        "garbage-collection",
-        "python-asyncio",
-        "weak-references"
+        "sqlalchemy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "YKT"
+      "user": "John Gordon"
     },
     {
       "title": "Python Library/Module Won't Import While Others Do",
@@ -2406,7 +2394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "mizorewww"
     },
     {
@@ -2512,7 +2500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "richiemcilroy"
     },
     {
@@ -2782,7 +2770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 383,
       "user": "KJGX66F"
     },
     {
@@ -2842,8 +2830,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 165,
       "user": "okf-memory"
+    },
+    {
+      "title": "Beyond ORMs",
+      "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+      "published_at": "2026-09-05T23:52:05.266-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "ruby"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "noteflakes"
+    },
+    {
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
+      "tags": [
+        "best-practices",
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John Gordon"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -3253,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 826,
       "user": "yczz"
     },
     {
@@ -3268,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 454,
       "user": "ahujasid"
     },
     {
@@ -3313,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 383,
       "user": "KJGX66F"
     },
     {
@@ -3328,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2133,
       "user": "anthropics"
     },
     {
@@ -3343,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1111,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3358,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 932,
       "user": "2akouwu"
     },
     {
@@ -3377,19 +3392,19 @@
       "user": "nahrek"
     },
     {
-      "title": "Human-Agent-Society/reef - Continual learning infra for self-improving agents",
-      "url": "https://github.com/Human-Agent-Society/reef",
-      "published_at": "2026-08-31T01:39:18Z",
-      "description": "Continual learning infra for self-improving agents",
+      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "published_at": "2026-09-04T15:00:53Z",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 502,
-      "user": "Human-Agent-Society"
+      "stars": 538,
+      "user": "Rion-Wu-tech"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3403,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 165,
       "user": "okf-memory"
     },
     {
@@ -3418,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 82,
       "user": "cocoyes"
     },
     {
@@ -3433,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "Adytm404"
     },
     {
@@ -3452,19 +3467,19 @@
       "user": "pgrundev"
     },
     {
-      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
-      "url": "https://github.com/gesta-run/subpool",
-      "published_at": "2026-09-02T08:27:21Z",
-      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+      "title": "chrisgreg/glance - A tiny, self-hosted web analytics service. ",
+      "url": "https://github.com/chrisgreg/glance",
+      "published_at": "2026-09-03T23:52:08Z",
+      "description": "A tiny, self-hosted web analytics service. ",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 65,
-      "user": "gesta-run"
+      "stars": 70,
+      "user": "chrisgreg"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -3478,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3865,
+      "stars": 4034,
       "user": "lnkiai"
     },
     {
@@ -3493,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1178,
+      "stars": 1189,
       "user": "shadcn-ui"
     },
     {
@@ -3508,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 779,
       "user": "ashemag"
     },
     {
@@ -3523,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 527,
       "user": "Albert-Weasker"
     },
     {
@@ -3553,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 479,
       "user": "faisalkindi"
     },
     {
@@ -3568,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 323,
       "user": "pipicat613"
     },
     {
@@ -3583,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "mizorewww"
     },
     {
@@ -3598,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 261,
       "user": "inclusionAI"
     },
     {
@@ -3613,24 +3628,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "richiemcilroy"
     },
     {
-      "title": "Does it bother you that print commands don't have any graphing?",
-      "url": "https://stackoverflow.com/questions/80001070/does-it-bother-you-that-print-commands-dont-have-any-graphing",
-      "published_at": "2026-09-05T23:48:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
+      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
+      "published_at": "2026-02-06T02:01:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "vs-code",
-        "debugging",
         "testing",
-        "computer-science"
+        "automation",
+        "automated-tests",
+        "tooling-recommendation"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Koolaid222"
+      "user": "Mohd Shakir"
+    },
+    {
+      "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
+      "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
+      "published_at": "2026-09-05T20:20:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python",
+        "testing",
+        "pytest",
+        "static-analysis"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "k-L-a"
     },
     {
       "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
