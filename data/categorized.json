@@ -454,21 +454,6 @@
       "user": "xbill"
     },
     {
-      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
-      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
-      "published_at": "2026-08-25T07:00:00Z",
-      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
-      "tags": [
-        "ai",
-        "llm",
-        "datascience",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
       "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
       "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
       "published_at": "2026-09-01T10:52:37Z",
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2185,
+      "stars": 2195,
       "user": "anthropics"
     },
     {
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1129,
       "user": "GangTailorUpgrade"
     },
     {
@@ -749,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 953,
       "user": "2akouwu"
     },
     {
@@ -764,23 +749,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 818,
       "user": "Rion-Wu-tech"
     },
     {
-      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "published_at": "2026-09-02T17:00:13Z",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "title": "pierrenade/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "published_at": "2026-09-05T11:55:18Z",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 620,
-      "user": "nahrek"
+      "stars": 667,
+      "user": "pierrenade"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 308,
       "user": "okf-memory"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 90,
       "user": "cocoyes"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4185,
+      "stars": 4218,
       "user": "lnkiai"
     },
     {
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1204,
       "user": "shadcn-ui"
     },
     {
@@ -854,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 605,
       "user": "Albert-Weasker"
     },
     {
@@ -869,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 498,
       "user": "faisalkindi"
     },
     {
@@ -884,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 292,
       "user": "inclusionAI"
     },
     {
@@ -899,6 +884,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tmcb"
+    },
+    {
+      "title": "Who said a tech addict can't be comfortable far from home?",
+      "url": "https://a.l3x.in/blog/my-travel-setup",
+      "published_at": "2026-09-06T07:41:25.842-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "hardware"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Al3xFor"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -930,18 +927,20 @@
       "user": "Lakshit Sharma"
     },
     {
-      "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
-      "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
-      "published_at": "2026-09-04T17:40:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "published_at": "2026-09-06T16:45:00.000Z",
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "tags": [
-        "python",
-        "typechecking",
-        "pyright"
+        "Startups",
+        "Transportation",
+        "AI",
+        "Travis Kalanick",
+        "Uber"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
@@ -1218,6 +1217,21 @@
       "user": "Connie Leung"
     },
     {
+      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
+      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
+      "published_at": "2026-08-30T21:04:04Z",
+      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1349,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 829,
       "user": "yczz"
     },
     {
@@ -1364,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 498,
       "user": "KJGX66F"
     },
     {
@@ -1379,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "ahujasid"
     },
     {
@@ -1394,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "PhiloLabs"
     },
     {
@@ -1424,23 +1438,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4185,
+      "stars": 4218,
       "user": "lnkiai"
-    },
-    {
-      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "url": "https://github.com/shadcn-ui/cn",
-      "published_at": "2026-08-31T07:04:03Z",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 1202,
-      "user": "shadcn-ui"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -1454,8 +1453,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1204,
       "user": "ashemag"
+    },
+    {
+      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "url": "https://github.com/shadcn-ui/cn",
+      "published_at": "2026-08-31T07:04:03Z",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 1204,
+      "user": "shadcn-ui"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -1469,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 605,
       "user": "Albert-Weasker"
     },
     {
@@ -1484,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 245,
       "user": "Appllama"
     },
     {
@@ -1531,6 +1545,19 @@
       "user": "AncientSwordRage"
     },
     {
+      "title": "javascript accessing object value or name",
+      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
+      "published_at": "2026-09-04T15:18:25.000Z",
+      "description": "Stack Overflow question · 4 answers · score 4",
+      "tags": [
+        "javascript",
+        "javascript-objects"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JKomp"
+    },
+    {
       "title": "How do I trigger a dialog Form by clicking a table row?",
       "url": "https://stackoverflow.com/questions/80000947/how-do-i-trigger-a-dialog-form-by-clicking-a-table-row",
       "published_at": "2026-09-05T08:03:01.000Z",
@@ -1543,19 +1570,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marco Pasquali"
-    },
-    {
-      "title": "javascript accessing object value or name",
-      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
-      "published_at": "2026-09-04T15:18:25.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
-      "tags": [
-        "javascript",
-        "javascript-objects"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JKomp"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -1627,6 +1641,22 @@
       "user": "Maulik Paneliya"
     },
     {
+      "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
+      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
+      "published_at": "2026-07-15T10:40:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "json",
+        "pandas",
+        "fastapi",
+        "nan"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Masum Abbas"
+    },
+    {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/",
       "published_at": "2026-09-04T20:44:35.000Z",
@@ -1688,21 +1718,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
-      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
-      "published_at": "2026-08-25T07:00:00Z",
-      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
-      "tags": [
-        "ai",
-        "llm",
-        "datascience",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1836,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2185,
+      "stars": 2195,
       "user": "anthropics"
     },
     {
@@ -1851,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1129,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1866,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 953,
       "user": "2akouwu"
     },
     {
@@ -1881,29 +1896,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 818,
       "user": "Rion-Wu-tech"
     },
     {
-      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "published_at": "2026-09-02T17:00:13Z",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "title": "pierrenade/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "published_at": "2026-09-05T11:55:18Z",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 620,
-      "user": "nahrek"
+      "stars": 667,
+      "user": "pierrenade"
+    },
+    {
+      "title": "why can i not install pygame on the vs developer powershell",
+      "url": "https://stackoverflow.com/questions/80001204/why-can-i-not-install-pygame-on-the-vs-developer-powershell",
+      "published_at": "2026-09-06T17:14:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "pip",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CleanReptile228"
+    },
+    {
+      "title": "Gemini 3.1 flash preview voice lagging sometimes it response fast but it takes minutes which is not bearable in real call",
+      "url": "https://stackoverflow.com/questions/80001192/gemini-3-1-flash-preview-voice-lagging-sometimes-it-response-fast-but-it-takes-m",
+      "published_at": "2026-09-06T16:09:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "google-gemini"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hasnain Ali"
     },
     {
       "title": "Pygbag: NotImplementedError: set_timer is not implemented on WASM yet",
       "url": "https://stackoverflow.com/questions/80001158/pygbag-notimplementederror-set-timer-is-not-implemented-on-wasm-yet",
       "published_at": "2026-09-06T11:11:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "python-3.x",
@@ -1960,20 +2002,6 @@
       "user": "Lakshit Sharma"
     },
     {
-      "title": "How to type-hint a function that returns as many values as in its input?",
-      "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
-      "published_at": "2026-09-04T12:38:48.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "python",
-        "python-typing",
-        "variadic-functions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "schtandard"
-    },
-    {
       "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
       "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create",
       "published_at": "2026-09-04T20:44:49.000Z",
@@ -1988,46 +2016,6 @@
       "user": "Power of Wilson"
     },
     {
-      "title": "Why isn't my type checker (Pyright) complaining about a clear type violation?",
-      "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
-      "published_at": "2026-09-04T17:40:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "typechecking",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
-      "title": "Best practice for (simple) searching item in a list",
-      "url": "https://stackoverflow.com/questions/80000828/best-practice-for-simple-searching-item-in-a-list",
-      "published_at": "2026-09-04T15:35:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "best-practices",
-        "python",
-        "list"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Max Z."
-    },
-    {
-      "title": "I can't figure out how to make this BMI calculator work",
-      "url": "https://stackoverflow.com/questions/80000846/i-cant-figure-out-how-to-make-this-bmi-calculator-work",
-      "published_at": "2026-09-04T16:56:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BRANDON BRANDSTETTER"
-    },
-    {
       "title": "How can I test Stack Overflow API write operations?",
       "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
       "published_at": "2026-09-03T08:10:34.000Z",
@@ -2039,6 +2027,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AmSurya"
+    },
+    {
+      "title": "Can't get virtual environment to activate from the terminal",
+      "url": "https://stackoverflow.com/questions/79999867/cant-get-virtual-environment-to-activate-from-the-terminal",
+      "published_at": "2026-09-01T11:06:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score 3",
+      "tags": [
+        "python",
+        "linux",
+        "terminal",
+        "pycharm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shmuelt"
+    },
+    {
+      "title": "FastAPI returning \"Out of range float values are not JSON compliant\" with Pandas NaN values",
+      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
+      "published_at": "2026-07-15T10:40:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "json",
+        "pandas",
+        "fastapi",
+        "nan"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Masum Abbas"
     }
   ],
   "DevOps": [
@@ -2351,7 +2370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "mizorewww"
     },
     {
@@ -2442,6 +2461,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
+      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
+      "published_at": "2026-08-30T21:04:04Z",
+      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2697,7 +2731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 498,
       "user": "KJGX66F"
     },
     {
@@ -2731,21 +2765,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "published_at": "2026-09-02T17:00:13Z",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
-      "source": "GitHub",
-      "stars": 620,
-      "user": "nahrek"
-    },
-    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -2757,7 +2776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 308,
       "user": "okf-memory"
     },
     {
@@ -3154,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 829,
       "user": "yczz"
     },
     {
@@ -3169,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 498,
       "user": "KJGX66F"
     },
     {
@@ -3184,7 +3203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "ahujasid"
     },
     {
@@ -3199,7 +3218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "PhiloLabs"
     },
     {
@@ -3229,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2185,
+      "stars": 2195,
       "user": "anthropics"
     },
     {
@@ -3244,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1129,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3259,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 953,
       "user": "2akouwu"
     },
     {
@@ -3274,23 +3293,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 818,
       "user": "Rion-Wu-tech"
     },
     {
-      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "published_at": "2026-09-02T17:00:13Z",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "title": "pierrenade/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "published_at": "2026-09-05T11:55:18Z",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 620,
-      "user": "nahrek"
+      "stars": 667,
+      "user": "pierrenade"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3304,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 308,
       "user": "okf-memory"
     },
     {
@@ -3319,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 90,
       "user": "cocoyes"
     },
     {
@@ -3379,23 +3398,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4185,
+      "stars": 4218,
       "user": "lnkiai"
-    },
-    {
-      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "url": "https://github.com/shadcn-ui/cn",
-      "published_at": "2026-08-31T07:04:03Z",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 1202,
-      "user": "shadcn-ui"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -3409,8 +3413,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1204,
       "user": "ashemag"
+    },
+    {
+      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "url": "https://github.com/shadcn-ui/cn",
+      "published_at": "2026-08-31T07:04:03Z",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 1204,
+      "user": "shadcn-ui"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -3424,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 605,
       "user": "Albert-Weasker"
     },
     {
@@ -3439,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 245,
       "user": "Appllama"
     },
     {
@@ -3454,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 498,
       "user": "faisalkindi"
     },
     {
@@ -3469,23 +3488,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "pipicat613"
-    },
-    {
-      "title": "mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "url": "https://github.com/mizorewww/course2md",
-      "published_at": "2026-08-31T01:56:25Z",
-      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
-      "source": "GitHub",
-      "stars": 283,
-      "user": "mizorewww"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -3499,14 +3503,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 292,
       "user": "inclusionAI"
     },
     {
-      "title": "what1f/kitter - A local-first Skill manager: one library, only what each project needs.",
+      "title": "mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
+      "url": "https://github.com/mizorewww/course2md",
+      "published_at": "2026-08-31T01:56:25Z",
+      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "mizorewww"
+    },
+    {
+      "title": "what1f/kitter - A lightweight Agent Skill manager: one library, just what each project needs.",
       "url": "https://github.com/what1f/kitter",
       "published_at": "2026-09-02T15:44:45Z",
-      "description": "A local-first Skill manager: one library, only what each project needs.",
+      "description": "A lightweight Agent Skill manager: one library, just what each project needs.",
       "tags": [
         "rust",
         "github",
@@ -3514,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 219,
       "user": "what1f"
     },
     {
