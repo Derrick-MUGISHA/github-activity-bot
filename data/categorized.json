@@ -218,21 +218,6 @@
       "user": "James O'Reilly"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
       "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
       "published_at": "2026-09-03T15:18:58Z",
@@ -261,21 +246,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
-      "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9",
-      "published_at": "2026-08-25T03:18:30Z",
-      "description": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
-      "tags": [
-        "ai",
-        "gcp",
-        "neo4j",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gajwucxkidvoba2xphx.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
@@ -452,6 +422,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxnd7iq7dc3kzby7m3qz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2168,
+      "stars": 2185,
       "user": "anthropics"
     },
     {
@@ -749,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1123,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,8 +749,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 946,
       "user": "2akouwu"
+    },
+    {
+      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "published_at": "2026-09-04T15:00:53Z",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
+      "source": "GitHub",
+      "stars": 736,
+      "user": "Rion-Wu-tech"
     },
     {
       "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
@@ -783,21 +783,6 @@
       "user": "nahrek"
     },
     {
-      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "published_at": "2026-09-04T15:00:53Z",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
-      "source": "GitHub",
-      "stars": 581,
-      "user": "Rion-Wu-tech"
-    },
-    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 292,
       "user": "okf-memory"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 86,
       "user": "cocoyes"
     },
     {
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4117,
+      "stars": 4185,
       "user": "lnkiai"
     },
     {
@@ -854,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1202,
       "user": "shadcn-ui"
     },
     {
@@ -869,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 591,
       "user": "Albert-Weasker"
     },
     {
@@ -884,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "faisalkindi"
     },
     {
@@ -899,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 282,
       "user": "inclusionAI"
     },
     {
@@ -908,26 +893,12 @@
       "published_at": "2026-09-06T02:45:24.038-05:00",
       "description": "I recommend reading the whole thread, but I linked to the part I found the most relevant. I believe the same is true for programming.",
       "tags": [
-        "ai",
-        "math"
+        "math",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tmcb"
-    },
-    {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "published_at": "2026-09-05T05:58:49.333-05:00",
-      "description": "\"Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers. We show that it is not.\"\r\n\r\nA few weeks ago I came across this https://www.teamten.com/lawrence/writings/coding-machines/ : it's clearly fictional (and furthermore is \"pre-AI\" in that it was written in 2009) but is interesting in that it raises the question of whether one or more *computers* could- without \"intention\" embed code meeting the \"trusting trust\" criteria in GCC.",
-      "tags": [
-        "linux",
-        "nix",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "MarkMLl"
     },
     {
       "title": "TransitionGroup smooth move causing container height to decrease",
@@ -973,19 +944,20 @@
       "user": "iamthebull"
     },
     {
-      "title": "Buildozer cannot build APKs again",
-      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
-      "published_at": "2026-09-04T09:29:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "published_at": "2026-09-06T16:08:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "tags": [
-        "python",
-        "archlinux",
-        "buildozer",
-        "python-3.12"
+        "Transportation",
+        "Tesla",
+        "robotaxi",
+        "techcrunch mobility",
+        "cybercab"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pappy38"
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -1076,22 +1048,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "What will Apple&#8217;s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "published_at": "2026-09-04T17:18:00.000Z",
-      "description": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
-      "tags": [
-        "AI",
-        "Apple",
-        "John Ternus",
-        "nvidia",
-        "Tesla"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
@@ -1393,23 +1349,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 828,
       "user": "yczz"
-    },
-    {
-      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
-      "url": "https://github.com/ahujasid/camera-to-blender",
-      "published_at": "2026-09-03T10:34:30Z",
-      "description": "Take a photo of real objects, and paste them in Blender",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
-      "source": "GitHub",
-      "stars": 457,
-      "user": "ahujasid"
     },
     {
       "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
@@ -1423,8 +1364,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 485,
       "user": "KJGX66F"
+    },
+    {
+      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "published_at": "2026-09-03T10:34:30Z",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
+      "source": "GitHub",
+      "stars": 462,
+      "user": "ahujasid"
     },
     {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
@@ -1438,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 444,
       "user": "PhiloLabs"
     },
     {
@@ -1468,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4117,
+      "stars": 4185,
       "user": "lnkiai"
     },
     {
@@ -1483,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1202,
       "user": "shadcn-ui"
     },
     {
@@ -1498,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 1134,
       "user": "ashemag"
     },
     {
@@ -1513,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 591,
       "user": "Albert-Weasker"
     },
     {
@@ -1528,8 +1484,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 241,
       "user": "Appllama"
+    },
+    {
+      "title": "How to customize sony dualshock 2 via node-hid",
+      "url": "https://stackoverflow.com/questions/80001162/how-to-customize-sony-dualshock-2-via-node-hid",
+      "published_at": "2026-09-06T11:41:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "model-view-controller",
+        "joystick",
+        "piano"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Saeed"
     },
     {
       "title": "Add joint limits in matterjs",
@@ -1573,6 +1545,19 @@
       "user": "Marco Pasquali"
     },
     {
+      "title": "javascript accessing object value or name",
+      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
+      "published_at": "2026-09-04T15:18:25.000Z",
+      "description": "Stack Overflow question · 4 answers · score 4",
+      "tags": [
+        "javascript",
+        "javascript-objects"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JKomp"
+    },
+    {
       "title": "TransitionGroup smooth move causing container height to decrease",
       "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
       "published_at": "2026-09-05T06:11:17.000Z",
@@ -1600,33 +1585,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bcarothers"
-    },
-    {
-      "title": "javascript accessing object value or name",
-      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
-      "published_at": "2026-09-04T15:18:25.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
-      "tags": [
-        "javascript",
-        "javascript-objects"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JKomp"
-    },
-    {
-      "title": "Google Maps Distance Matrix API returning ZERO_RESULTS for valid local US addresses in JavaScript fetch",
-      "url": "https://stackoverflow.com/questions/80000773/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-us-addres",
-      "published_at": "2026-09-04T11:14:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "google-maps",
-        "google-maps-api-3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thomas Thomasclak"
     },
     {
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
@@ -1878,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2168,
+      "stars": 2185,
       "user": "anthropics"
     },
     {
@@ -1893,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1123,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1908,8 +1866,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 946,
       "user": "2akouwu"
+    },
+    {
+      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "published_at": "2026-09-04T15:00:53Z",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
+      "source": "GitHub",
+      "stars": 736,
+      "user": "Rion-Wu-tech"
     },
     {
       "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
@@ -1927,25 +1900,10 @@
       "user": "nahrek"
     },
     {
-      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "published_at": "2026-09-04T15:00:53Z",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
-      "source": "GitHub",
-      "stars": 581,
-      "user": "Rion-Wu-tech"
-    },
-    {
       "title": "Pygbag: NotImplementedError: set_timer is not implemented on WASM yet",
       "url": "https://stackoverflow.com/questions/80001158/pygbag-notimplementederror-set-timer-is-not-implemented-on-wasm-yet",
       "published_at": "2026-09-06T11:11:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "python-3.x",
@@ -1961,7 +1919,7 @@
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
       "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
       "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
+      "description": "Stack Overflow question · 2 answers · score -7",
       "tags": [
         "python",
         "testing",
@@ -2070,19 +2028,17 @@
       "user": "BRANDON BRANDSTETTER"
     },
     {
-      "title": "Buildozer cannot build APKs again",
-      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
-      "published_at": "2026-09-04T09:29:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "How can I test Stack Overflow API write operations?",
+      "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
+      "published_at": "2026-09-03T08:10:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
-        "python",
-        "archlinux",
-        "buildozer",
-        "python-3.12"
+        "advice",
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Pappy38"
+      "user": "AmSurya"
     }
   ],
   "DevOps": [
@@ -2395,7 +2351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "mizorewww"
     },
     {
@@ -2596,21 +2552,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
       "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
       "published_at": "2026-08-29T05:03:06Z",
@@ -2624,21 +2565,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
-      "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9",
-      "published_at": "2026-08-25T03:18:30Z",
-      "description": "Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...",
-      "tags": [
-        "ai",
-        "gcp",
-        "neo4j",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gajwucxkidvoba2xphx.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
@@ -2730,6 +2656,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
       "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
       "published_at": "2026-09-01T18:25:48Z",
@@ -2756,7 +2697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 485,
       "user": "KJGX66F"
     },
     {
@@ -2816,7 +2757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 292,
       "user": "okf-memory"
     },
     {
@@ -3015,20 +2956,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "published_at": "2026-09-05T05:58:49.333-05:00",
-      "description": "\"Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers. We show that it is not.\"\r\n\r\nA few weeks ago I came across this https://www.teamten.com/lawrence/writings/coding-machines/ : it's clearly fictional (and furthermore is \"pre-AI\" in that it was written in 2009) but is interesting in that it raises the question of whether one or more *computers* could- without \"intention\" embed code meeting the \"trusting trust\" criteria in GCC.",
-      "tags": [
-        "linux",
-        "nix",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "MarkMLl"
-    },
-    {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "published_at": "2026-09-05T18:05:27.000Z",
@@ -3091,21 +3018,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
       "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
       "published_at": "2026-09-02T16:35:00Z",
@@ -3163,6 +3075,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
       "source": "Dev.to",
       "user": "Caleb Duff"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
@@ -3227,23 +3154,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 828,
       "user": "yczz"
-    },
-    {
-      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
-      "url": "https://github.com/ahujasid/camera-to-blender",
-      "published_at": "2026-09-03T10:34:30Z",
-      "description": "Take a photo of real objects, and paste them in Blender",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
-      "source": "GitHub",
-      "stars": 457,
-      "user": "ahujasid"
     },
     {
       "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
@@ -3257,8 +3169,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 485,
       "user": "KJGX66F"
+    },
+    {
+      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
+      "url": "https://github.com/ahujasid/camera-to-blender",
+      "published_at": "2026-09-03T10:34:30Z",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
+      "source": "GitHub",
+      "stars": 462,
+      "user": "ahujasid"
     },
     {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
@@ -3272,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 444,
       "user": "PhiloLabs"
     },
     {
@@ -3302,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2168,
+      "stars": 2185,
       "user": "anthropics"
     },
     {
@@ -3317,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1123,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3332,8 +3259,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 946,
       "user": "2akouwu"
+    },
+    {
+      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "published_at": "2026-09-04T15:00:53Z",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
+      "source": "GitHub",
+      "stars": 736,
+      "user": "Rion-Wu-tech"
     },
     {
       "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
@@ -3351,21 +3293,6 @@
       "user": "nahrek"
     },
     {
-      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "published_at": "2026-09-04T15:00:53Z",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
-      "source": "GitHub",
-      "stars": 581,
-      "user": "Rion-Wu-tech"
-    },
-    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -3377,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 292,
       "user": "okf-memory"
     },
     {
@@ -3392,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 86,
       "user": "cocoyes"
     },
     {
@@ -3407,23 +3334,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "Adytm404"
-    },
-    {
-      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
-      "url": "https://github.com/pgrundev/pgbook",
-      "published_at": "2026-09-02T16:55:32Z",
-      "description": "Postgres Book, one topic at a time.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 77,
-      "user": "pgrundev"
     },
     {
       "title": "chrisgreg/glance - A tiny, self-hosted web analytics service. ",
@@ -3437,8 +3349,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 79,
       "user": "chrisgreg"
+    },
+    {
+      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
+      "url": "https://github.com/pgrundev/pgbook",
+      "published_at": "2026-09-02T16:55:32Z",
+      "description": "Postgres Book, one topic at a time.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "pgrundev"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -3452,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4117,
+      "stars": 4185,
       "user": "lnkiai"
     },
     {
@@ -3467,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1202,
       "user": "shadcn-ui"
     },
     {
@@ -3482,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 1134,
       "user": "ashemag"
     },
     {
@@ -3497,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 591,
       "user": "Albert-Weasker"
     },
     {
@@ -3512,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 241,
       "user": "Appllama"
     },
     {
@@ -3527,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 495,
       "user": "faisalkindi"
     },
     {
@@ -3542,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 341,
       "user": "pipicat613"
     },
     {
@@ -3557,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 283,
       "user": "mizorewww"
     },
     {
@@ -3572,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 282,
       "user": "inclusionAI"
     },
     {
@@ -3587,14 +3514,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 212,
       "user": "what1f"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
       "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
       "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
+      "description": "Stack Overflow question · 2 answers · score -7",
       "tags": [
         "python",
         "testing",
