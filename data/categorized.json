@@ -16,21 +16,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
-      "published_at": "2026-09-04T09:24:10Z",
-      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
-      "tags": [
-        "ai",
-        "agents",
-        "software",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
       "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
       "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
       "published_at": "2026-09-04T01:59:20Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
+      "published_at": "2026-09-04T09:24:10Z",
+      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "tags": [
+        "ai",
+        "agents",
+        "software",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
+      "source": "Dev.to",
+      "user": "ujja"
     },
     {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2168,
       "user": "anthropics"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1119,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 939,
       "user": "2akouwu"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 581,
       "user": "Rion-Wu-tech"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 231,
       "user": "okf-memory"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "cocoyes"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4034,
+      "stars": 4117,
       "user": "lnkiai"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1193,
       "user": "shadcn-ui"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 566,
       "user": "Albert-Weasker"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 488,
       "user": "faisalkindi"
     },
     {
@@ -899,8 +899,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 272,
       "user": "inclusionAI"
+    },
+    {
+      "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+      "url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "published_at": "2026-09-06T02:45:24.038-05:00",
+      "description": "I recommend reading the whole thread, but I linked to the part I found the most relevant. I believe the same is true for programming.",
+      "tags": [
+        "ai",
+        "math"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tmcb"
     },
     {
       "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
@@ -917,19 +930,6 @@
       "user": "MarkMLl"
     },
     {
-      "title": "What filesystem are you running on your NAS/Backups, and why?",
-      "url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
-      "published_at": "2026-09-05T10:46:13.266-05:00",
-      "description": "What filesystem are you running on your NAS/Backups, and why?\r\n\r\nAnd if you're using multiple disks/devices, how do you manage them (filesystem's RAID, mdadm or other software solutions, hardware RAID)?",
-      "tags": [
-        "ask",
-        "linux"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "tffr"
-    },
-    {
       "title": "TransitionGroup smooth move causing container height to decrease",
       "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
       "published_at": "2026-09-05T06:11:17.000Z",
@@ -943,22 +943,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Player Possum"
-    },
-    {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohd Shakir"
     },
     {
       "title": "Send an email from Outlook account using Python",
@@ -987,6 +971,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "Buildozer cannot build APKs again",
+      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
+      "published_at": "2026-09-04T09:29:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "archlinux",
+        "buildozer",
+        "python-3.12"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pappy38"
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -1409,8 +1408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 457,
       "user": "ahujasid"
+    },
+    {
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "KJGX66F"
     },
     {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
@@ -1439,23 +1453,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "subsy"
-    },
-    {
-      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "published_at": "2026-09-04T01:15:28Z",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
-      "source": "GitHub",
-      "stars": 383,
-      "user": "KJGX66F"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1469,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4034,
+      "stars": 4117,
       "user": "lnkiai"
     },
     {
@@ -1484,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1193,
       "user": "shadcn-ui"
     },
     {
@@ -1499,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 969,
       "user": "ashemag"
     },
     {
@@ -1514,23 +1513,50 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 566,
       "user": "Albert-Weasker"
     },
     {
-      "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
-      "url": "https://github.com/blendi-remade/interdimensional-game",
-      "published_at": "2026-08-31T06:13:54Z",
-      "description": "Create your own adventure with realtime video!",
+      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "published_at": "2026-09-05T06:38:46Z",
+      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
       "stars": 237,
-      "user": "blendi-remade"
+      "user": "Appllama"
+    },
+    {
+      "title": "Add joint limits in matterjs",
+      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
+      "published_at": "2026-09-06T09:50:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "matter.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wadskays26"
+    },
+    {
+      "title": "Can pnpm be configured so I can optionally run with a 'cutting edge dependency' while I'm working on a branch?",
+      "url": "https://stackoverflow.com/questions/80001156/can-pnpm-be-configured-so-i-can-optionally-run-with-a-cutting-edge-dependency",
+      "published_at": "2026-09-06T10:56:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "dependencies",
+        "pnpm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AncientSwordRage"
     },
     {
       "title": "How do I trigger a dialog Form by clicking a table row?",
@@ -1565,7 +1591,7 @@
       "title": "Input value for total number of pages in a REDCap survey?",
       "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
       "published_at": "2026-09-04T20:50:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1641,35 +1667,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Maulik Paneliya"
-    },
-    {
-      "title": "Check if a variable is a string in JavaScript",
-      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
-      "published_at": "2010-10-30T14:36:34.000Z",
-      "description": "Stack Overflow question · 34 answers · score 2883",
-      "tags": [
-        "javascript",
-        "string"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Olical"
-    },
-    {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohd Shakir"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1881,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2168,
       "user": "anthropics"
     },
     {
@@ -1896,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1119,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1911,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 939,
       "user": "2akouwu"
     },
     {
@@ -1941,14 +1938,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 581,
       "user": "Rion-Wu-tech"
+    },
+    {
+      "title": "Pygbag: NotImplementedError: set_timer is not implemented on WASM yet",
+      "url": "https://stackoverflow.com/questions/80001158/pygbag-notimplementederror-set-timer-is-not-implemented-on-wasm-yet",
+      "published_at": "2026-09-06T11:11:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pygame",
+        "webassembly",
+        "pygbag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rubinosław"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
       "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
       "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 2 answers · score -6",
       "tags": [
         "python",
         "testing",
@@ -2057,31 +2070,19 @@
       "user": "BRANDON BRANDSTETTER"
     },
     {
-      "title": "Canonical way to select data in SQLAlchemy",
-      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
-      "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "title": "Buildozer cannot build APKs again",
+      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
+      "published_at": "2026-09-04T09:29:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
-        "best-practices",
         "python",
-        "sqlalchemy"
+        "archlinux",
+        "buildozer",
+        "python-3.12"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "John Gordon"
-    },
-    {
-      "title": "Python Library/Module Won't Import While Others Do",
-      "url": "https://stackoverflow.com/questions/80000620/python-library-module-wont-import-while-others-do",
-      "published_at": "2026-09-03T19:37:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "macos"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe Borgione"
+      "user": "Pappy38"
     }
   ],
   "DevOps": [
@@ -2394,7 +2395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "mizorewww"
     },
     {
@@ -2416,7 +2417,7 @@
       "title": "Input value for total number of pages in a REDCap survey?",
       "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
       "published_at": "2026-09-04T20:50:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2487,21 +2488,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
-      "url": "https://github.com/richiemcilroy/chippytea",
-      "published_at": "2026-08-31T11:06:58Z",
-      "description": "A native Mac app for making space and earning your tea. SwiftUI + Rust.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
-      "source": "GitHub",
-      "stars": 203,
-      "user": "richiemcilroy"
     },
     {
       "title": "How to Use Skills in Agentic Flutter Development: A Handbook for Devs",
@@ -2770,7 +2756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 442,
       "user": "KJGX66F"
     },
     {
@@ -2830,35 +2816,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 231,
       "user": "okf-memory"
-    },
-    {
-      "title": "Beyond ORMs",
-      "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
-      "published_at": "2026-09-05T23:52:05.266-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "ruby"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "noteflakes"
-    },
-    {
-      "title": "Canonical way to select data in SQLAlchemy",
-      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
-      "published_at": "2026-09-02T15:49:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "best-practices",
-        "python",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John Gordon"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -3283,8 +3242,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 457,
       "user": "ahujasid"
+    },
+    {
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "KJGX66F"
     },
     {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
@@ -3313,23 +3287,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "subsy"
-    },
-    {
-      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "published_at": "2026-09-04T01:15:28Z",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
-      "source": "GitHub",
-      "stars": 383,
-      "user": "KJGX66F"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -3343,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2133,
+      "stars": 2168,
       "user": "anthropics"
     },
     {
@@ -3358,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1111,
+      "stars": 1119,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3373,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 939,
       "user": "2akouwu"
     },
     {
@@ -3403,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 581,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3418,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 231,
       "user": "okf-memory"
     },
     {
@@ -3433,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "cocoyes"
     },
     {
@@ -3478,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 74,
       "user": "chrisgreg"
     },
     {
@@ -3493,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4034,
+      "stars": 4117,
       "user": "lnkiai"
     },
     {
@@ -3508,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1193,
       "user": "shadcn-ui"
     },
     {
@@ -3523,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 969,
       "user": "ashemag"
     },
     {
@@ -3538,23 +3497,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 566,
       "user": "Albert-Weasker"
     },
     {
-      "title": "blendi-remade/interdimensional-game - Create your own adventure with realtime video!",
-      "url": "https://github.com/blendi-remade/interdimensional-game",
-      "published_at": "2026-08-31T06:13:54Z",
-      "description": "Create your own adventure with realtime video!",
+      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "published_at": "2026-09-05T06:38:46Z",
+      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
       "stars": 237,
-      "user": "blendi-remade"
+      "user": "Appllama"
     },
     {
       "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
@@ -3568,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 488,
       "user": "faisalkindi"
     },
     {
@@ -3583,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 333,
       "user": "pipicat613"
     },
     {
@@ -3598,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "mizorewww"
     },
     {
@@ -3613,45 +3572,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 272,
       "user": "inclusionAI"
     },
     {
-      "title": "richiemcilroy/chippytea - A native Mac app for making space and earning your tea. SwiftUI + Rust.",
-      "url": "https://github.com/richiemcilroy/chippytea",
-      "published_at": "2026-08-31T11:06:58Z",
-      "description": "A native Mac app for making space and earning your tea. SwiftUI + Rust.",
+      "title": "what1f/kitter - A local-first Skill manager: one library, only what each project needs.",
+      "url": "https://github.com/what1f/kitter",
+      "published_at": "2026-09-02T15:44:45Z",
+      "description": "A local-first Skill manager: one library, only what each project needs.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/33632126?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 203,
-      "user": "richiemcilroy"
-    },
-    {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohd Shakir"
+      "stars": 208,
+      "user": "what1f"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
       "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
       "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 2 answers · score -6",
       "tags": [
         "python",
         "testing",
