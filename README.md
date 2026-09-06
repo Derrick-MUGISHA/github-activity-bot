@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-06 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-07 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k) | Dev.to |
 | 20 | [Claude Fable 5.1 is now available on Agent Platform!](https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16) | Dev.to |
 
-<sub>Last fetched: Sun, 06 Sep 2026 22:44:16 CAT</sub>
+<sub>Last fetched: Mon, 07 Sep 2026 00:27:08 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — How do you handle errors in async/await?**
+**1. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> B-tree, trade-offs, query performance
 
 </details>
 
-**2. `Java` — What is the difference between abstract class and interface?**
+**2. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Token bucket, sliding window, Redis
 
 </details>
 
-**3. `Python` — Implement a context manager using __enter__ and __exit__**
+**3. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 81 | 44.0% | `████████████████████` |
+| **AI** | 79 | 42.9% | `████████████████████` |
 | **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 36 | 19.6% | `█████████░░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `███████░░░░░░░░░░░░░` |
-| **DevOps** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,29 +194,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.0%
-JavaScript      █████████████████████████████ 26.3%
-Python          ████████████████████████ 21.2%
-Java            █████████████████████ 19.0%
-Rust            ██████ 5.8%
+Go              ██████████████████████████████ 27.3%
+JavaScript      ████████████████████████████ 25.9%
+Python          ███████████████████████ 20.9%
+Java            █████████████████████ 18.7%
+Rust            ███████ 6.5%
 Ruby            █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 37
+    "Go" : 38
     "JavaScript" : 36
     "Python" : 29
     "Java" : 26
-    "Rust" : 8
+    "Rust" : 9
     "Ruby" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 06 Sep 2026 20:44:16 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 06 Sep 2026 22:27:08 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
