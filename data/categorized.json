@@ -305,20 +305,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
       "published_at": "2026-08-17T20:12:46Z",
@@ -734,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2045,
+      "stars": 2050,
       "user": "anthropics"
     },
     {
@@ -749,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1090,
       "user": "GangTailorUpgrade"
     },
     {
@@ -764,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 923,
       "user": "2akouwu"
     },
     {
@@ -779,23 +765,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "nahrek"
-    },
-    {
-      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "published_at": "2026-08-30T19:45:52Z",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
-      "source": "GitHub",
-      "stars": 541,
-      "user": "Merserk"
     },
     {
       "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
@@ -809,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "cocoyes"
     },
     {
@@ -839,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "basketikun"
     },
     {
@@ -854,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3614,
+      "stars": 3685,
       "user": "lnkiai"
     },
     {
@@ -869,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1169,
       "user": "shadcn-ui"
     },
     {
@@ -884,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 459,
       "user": "Albert-Weasker"
     },
     {
@@ -899,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 447,
       "user": "faisalkindi"
     },
     {
@@ -914,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 218,
       "user": "inclusionAI"
     },
     {
@@ -983,22 +954,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Player Possum"
-    },
-    {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohd Shakir"
     },
     {
       "title": "Send an email from Outlook account using Python",
@@ -1464,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 444,
       "user": "ahujasid"
     },
     {
@@ -1524,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3614,
+      "stars": 3685,
       "user": "lnkiai"
     },
     {
@@ -1539,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1169,
       "user": "shadcn-ui"
     },
     {
@@ -1554,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 459,
       "user": "Albert-Weasker"
     },
     {
@@ -1569,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 365,
       "user": "ashemag"
     },
     {
@@ -1586,6 +1541,22 @@
       "source": "GitHub",
       "stars": 237,
       "user": "blendi-remade"
+    },
+    {
+      "title": "Does it bother you that print commands don't have any graphing?",
+      "url": "https://stackoverflow.com/questions/80001070/does-it-bother-you-that-print-commands-dont-have-any-graphing",
+      "published_at": "2026-09-05T23:48:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "vs-code",
+        "debugging",
+        "testing",
+        "computer-science"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
     },
     {
       "title": "How do I trigger a dialog Form by clicking a table row?",
@@ -1710,22 +1681,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Olical"
-    },
-    {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohd Shakir"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1937,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2045,
+      "stars": 2050,
       "user": "anthropics"
     },
     {
@@ -1952,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1090,
       "user": "GangTailorUpgrade"
     },
     {
@@ -1967,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 923,
       "user": "2akouwu"
     },
     {
@@ -1982,23 +1937,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "nahrek"
     },
     {
-      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "published_at": "2026-08-30T19:45:52Z",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "title": "Human-Agent-Society/reef - Continual learning infra for self-improving agents",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "published_at": "2026-08-31T01:39:18Z",
+      "description": "Continual learning infra for self-improving agents",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 541,
-      "user": "Merserk"
+      "stars": 481,
+      "user": "Human-Agent-Society"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
@@ -2364,7 +2319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "basketikun"
     },
     {
@@ -2466,7 +2421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "mizorewww"
     },
     {
@@ -2727,20 +2682,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -2872,7 +2813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "nahrek"
     },
     {
@@ -3311,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 444,
       "user": "ahujasid"
     },
     {
@@ -3371,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2045,
+      "stars": 2050,
       "user": "anthropics"
     },
     {
@@ -3386,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1090,
       "user": "GangTailorUpgrade"
     },
     {
@@ -3401,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 923,
       "user": "2akouwu"
     },
     {
@@ -3416,23 +3357,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "nahrek"
     },
     {
-      "title": "Merserk/dlss5-visual-enhancer - DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-      "url": "https://github.com/Merserk/dlss5-visual-enhancer",
-      "published_at": "2026-08-30T19:45:52Z",
-      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "title": "Human-Agent-Society/reef - Continual learning infra for self-improving agents",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "published_at": "2026-08-31T01:39:18Z",
+      "description": "Continual learning infra for self-improving agents",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119538451?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268553699?v=4",
       "source": "GitHub",
-      "stars": 541,
-      "user": "Merserk"
+      "stars": 481,
+      "user": "Human-Agent-Society"
     },
     {
       "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
@@ -3476,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "cocoyes"
     },
     {
@@ -3506,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114481029?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "basketikun"
     },
     {
@@ -3521,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 3614,
+      "stars": 3685,
       "user": "lnkiai"
     },
     {
@@ -3536,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1169,
       "user": "shadcn-ui"
     },
     {
@@ -3551,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 459,
       "user": "Albert-Weasker"
     },
     {
@@ -3566,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 365,
       "user": "ashemag"
     },
     {
@@ -3596,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 447,
       "user": "faisalkindi"
     },
     {
@@ -3611,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 282,
       "user": "pipicat613"
     },
     {
@@ -3626,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 273,
       "user": "mizorewww"
     },
     {
@@ -3641,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 218,
       "user": "inclusionAI"
     },
     {
@@ -3660,20 +3601,20 @@
       "user": "richiemcilroy"
     },
     {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Does it bother you that print commands don't have any graphing?",
+      "url": "https://stackoverflow.com/questions/80001070/does-it-bother-you-that-print-commands-dont-have-any-graphing",
+      "published_at": "2026-09-05T23:48:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
+        "vs-code",
+        "debugging",
         "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
+        "computer-science"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Mohd Shakir"
+      "user": "Koolaid222"
     },
     {
       "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
