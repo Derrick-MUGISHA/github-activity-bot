@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--09--06-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-06 2:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-06 7:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -46,10 +46,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png" width="200" alt="Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-1mo8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6qeeaa1xv77jsfu0u0ji.jpg" width="200" alt="What was your win this week?" />
       <br/>
-      <b>Taming Flutter Infinite Scroll (Part 2): Turning S...</b>
+      <b>What was your win this week?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -57,10 +57,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-1mo8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6qeeaa1xv77jsfu0u0ji.jpg" width="200" alt="What was your win this week?" />
+    <a href="https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png" width="200" alt="Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin" />
       <br/>
-      <b>What was your win this week?</b>
+      <b>Taming Flutter Infinite Scroll (Part 2): Turning S...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -94,26 +94,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |---|----------|--------|
 | 1 | [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) | Dev.to |
 | 2 | [AI Engineering Is Easy. Changing How We Work Is Hard](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4) | Dev.to |
-| 3 | [Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin](https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh) | Dev.to |
-| 4 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1mo8) | Dev.to |
+| 3 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1mo8) | Dev.to |
+| 4 | [Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin](https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh) | Dev.to |
 | 5 | [Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)](https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o) | Dev.to |
 | 6 | [Gemini Agentic Video Isn't Always Cheaper: A 24-Run Benchmark](https://dev.to/gde/gemini-agentic-video-isnt-always-cheaper-a-24-run-benchmark-4ge3) | Dev.to |
-| 7 | [Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK](https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp) | Dev.to |
-| 8 | [AI-assisted genealogy](https://dev.to/nfrankel/ai-assisted-genealogy-9cn) | Dev.to |
-| 9 | [I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things](https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg) | Dev.to |
-| 10 | [Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo) | Dev.to |
-| 11 | [Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK](https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k) | Dev.to |
-| 12 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
-| 13 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
-| 14 | [My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.](https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p) | Dev.to |
-| 15 | [Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en) | Dev.to |
-| 16 | [The job description already changed. We're not coders anymore, but couriers.](https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg) | Dev.to |
-| 17 | [[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks](https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh) | Dev.to |
-| 18 | [How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations](https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp) | Dev.to |
-| 19 | [Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves](https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp) | Dev.to |
-| 20 | [Step up to the Sheets: AI Eval Export and Illustrating Data](https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak) | Dev.to |
+| 7 | [I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things](https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg) | Dev.to |
+| 8 | [Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo) | Dev.to |
+| 9 | [Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK](https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k) | Dev.to |
+| 10 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
+| 11 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
+| 12 | [My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.](https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p) | Dev.to |
+| 13 | [The job description already changed. We're not coders anymore, but couriers.](https://dev.to/canro91/the-job-description-already-changed-were-not-coders-anymore-but-couriers-40eg) | Dev.to |
+| 14 | [[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks](https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh) | Dev.to |
+| 15 | [AI-assisted genealogy](https://dev.to/nfrankel/ai-assisted-genealogy-9cn) | Dev.to |
+| 16 | [Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves](https://dev.to/gde/hearing-the-mountains-roar-how-antigravity-clis-ai-agents-iot-data-track-volcanic-shockwaves-13hp) | Dev.to |
+| 17 | [Step up to the Sheets: AI Eval Export and Illustrating Data](https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak) | Dev.to |
+| 18 | [Automate Flutter's New Split Package Migration with AI Agent Skills](https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2) | Dev.to |
+| 19 | [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k) | Dev.to |
+| 20 | [Claude Fable 5.1 is now available on Agent Platform!](https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16) | Dev.to |
 
-<sub>Last fetched: Sun, 06 Sep 2026 02:54:24 CAT</sub>
+<sub>Last fetched: Sun, 06 Sep 2026 07:25:57 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — How would you design a rate limiter?**
+**1. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> useState, useEffect, loading states, error handling
 
 </details>
 
-**2. `React` — Explain the difference between state and props**
+**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> Execution timing, event loop phases
 
 </details>
 
-**3. `SystemDesign` — Design a URL shortening service like bit.ly**
+**3. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 85 | 46.4% | `████████████████████` |
-| **Tools** | 39 | 21.3% | `█████████░░░░░░░░░░░` |
-| **JavaScript** | 35 | 19.1% | `████████░░░░░░░░░░░░` |
+| **AI** | 85 | 46.2% | `████████████████████` |
+| **Tools** | 39 | 21.2% | `█████████░░░░░░░░░░░` |
+| **JavaScript** | 35 | 19.0% | `████████░░░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `███████░░░░░░░░░░░░░` |
-| **DevOps** | 19 | 10.4% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 59 |
+| Dev.to | 60 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.8%
-JavaScript      ████████████████████████████ 25.4%
-Python          ████████████████████████ 21.0%
-Java            █████████████████████ 18.8%
+Go              ██████████████████████████████ 27.3%
+JavaScript      ████████████████████████████ 25.2%
+Python          ███████████████████████ 20.9%
+Java            █████████████████████ 18.7%
 Rust            ███████ 6.5%
 Ruby            █ 0.7%
 Swift           █ 0.7%
@@ -206,7 +206,7 @@ Swift           █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 37
+    "Go" : 38
     "JavaScript" : 35
     "Python" : 29
     "Java" : 26
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-46-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 06 Sep 2026 00:54:24 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 06 Sep 2026 05:25:57 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
