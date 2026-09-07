@@ -75,35 +75,6 @@
       "user": "James Anderson"
     },
     {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -292,6 +263,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
       "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
       "published_at": "2026-09-03T15:54:57Z",
@@ -336,21 +322,6 @@
       "user": "xbill"
     },
     {
-      "title": "What is harness engineering and why should I care?",
-      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "published_at": "2026-09-02T15:28:05Z",
-      "description": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
-      "tags": [
-        "ai",
-        "agents",
-        "programming",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz6prrbe2g8r5m1h79agh.gif",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
       "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
       "published_at": "2026-08-31T19:21:38Z",
@@ -364,6 +335,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmhfcuzbrbwh981r7fnr.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "What is harness engineering and why should I care?",
+      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+      "published_at": "2026-09-02T15:28:05Z",
+      "description": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
+      "tags": [
+        "ai",
+        "agents",
+        "programming",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz6prrbe2g8r5m1h79agh.gif",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
@@ -396,19 +382,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
-      "published_at": "2026-09-03T15:53:27Z",
-      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
       "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
       "published_at": "2026-08-23T20:09:04Z",
@@ -437,21 +410,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
       "source": "Dev.to",
       "user": "Nicolas Fränkel"
-    },
-    {
-      "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
-      "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
-      "published_at": "2026-08-29T12:58:53Z",
-      "description": "If you've tried an \"agentic\" AI coding tool recently, there's a good chance it asked you to switch...",
-      "tags": [
-        "antigravity",
-        "vscode",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
     },
     {
       "title": "Greatness Is Forged by Limitation",
@@ -514,6 +472,20 @@
       "user": "xbill"
     },
     {
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
+      "published_at": "2026-09-03T15:52:29Z",
+      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
       "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
       "published_at": "2026-09-01T18:25:48Z",
@@ -527,6 +499,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Context anchoring works. Files, not a service.",
+      "url": "https://dev.to/bojantomic/context-anchoring-works-files-not-a-service-5ek2",
+      "published_at": "2026-09-02T11:49:54Z",
+      "description": "Rahul Garg's context anchoring article names something I already do. Here is the measurement that convinced me files beat a hosted memory service, and the failure mode nobody covers.",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv62khswisuu0gowuy1k5.png",
+      "source": "Dev.to",
+      "user": "Bojan Tomic"
     },
     {
       "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
@@ -570,6 +557,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
       "source": "Dev.to",
       "user": "Jan-Felix Schmakeit"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -751,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2368,
+      "stars": 2383,
       "user": "anthropics"
     },
     {
@@ -766,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1747,
       "user": "Rion-Wu-tech"
     },
     {
@@ -781,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1157,
       "user": "pierrenade"
     },
     {
@@ -796,7 +796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 758,
       "user": "EverettFish"
     },
     {
@@ -826,7 +826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 451,
       "user": "okf-memory"
     },
     {
@@ -856,7 +856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4580,
+      "stars": 4624,
       "user": "lnkiai"
     },
     {
@@ -871,7 +871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 667,
       "user": "Albert-Weasker"
     },
     {
@@ -886,7 +886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 347,
       "user": "BoardUI"
     },
     {
@@ -901,7 +901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 365,
       "user": "inclusionAI"
     },
     {
@@ -916,7 +916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 146,
       "user": "flectar"
     },
     {
@@ -931,7 +931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "icodesign"
     },
     {
@@ -950,22 +950,6 @@
       "user": "Player Possum"
     },
     {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohd Shakir"
-    },
-    {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
       "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
       "published_at": "2026-09-07T02:22:25.000Z",
@@ -978,6 +962,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GEO"
+    },
+    {
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "published_at": "2026-09-07T18:02:29.000Z",
+      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "tags": [
+        "Media & Entertainment",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "What we expect from the upcoming Apple launch",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "published_at": "2026-09-07T15:58:00.000Z",
+      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "iPhone"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -1067,21 +1078,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "published_at": "2026-09-04T23:36:14.000Z",
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Startups",
-        "8VC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
@@ -1387,21 +1383,6 @@
       "user": "yczz"
     },
     {
-      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "published_at": "2026-09-04T01:15:28Z",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
-      "source": "GitHub",
-      "stars": 591,
-      "user": "KJGX66F"
-    },
-    {
       "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
       "url": "https://github.com/ahujasid/camera-to-blender",
       "published_at": "2026-09-03T10:34:30Z",
@@ -1413,8 +1394,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 611,
       "user": "ahujasid"
+    },
+    {
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
+      "source": "GitHub",
+      "stars": 597,
+      "user": "KJGX66F"
     },
     {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
@@ -1428,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 463,
       "user": "PhiloLabs"
     },
     {
@@ -1443,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 454,
       "user": "byJoey"
     },
     {
@@ -1458,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 758,
       "user": "EverettFish"
     },
     {
@@ -1473,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4580,
+      "stars": 4624,
       "user": "lnkiai"
     },
     {
@@ -1488,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1834,
+      "stars": 1932,
       "user": "ashemag"
     },
     {
@@ -1503,7 +1499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 667,
       "user": "Albert-Weasker"
     },
     {
@@ -1518,23 +1514,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 347,
       "user": "BoardUI"
     },
     {
-      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
-      "url": "https://github.com/Appllama/liquid-glass-screens",
-      "published_at": "2026-09-05T06:38:46Z",
-      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "title": "Mantitup-Org/vista - GitHub Repository",
+      "url": "https://github.com/Mantitup-Org/vista",
+      "published_at": "2026-09-04T06:20:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 260,
-      "user": "Appllama"
+      "stars": 326,
+      "user": "Mantitup-Org"
     },
     {
       "title": "Two Tiny Utils for the Result Pattern",
@@ -1552,7 +1548,7 @@
       "title": "Pass Websocket from server side to client side",
       "url": "https://stackoverflow.com/questions/80001435/pass-websocket-from-server-side-to-client-side",
       "published_at": "2026-09-07T14:54:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "node.js"
@@ -1646,20 +1642,6 @@
       "user": "JKomp"
     },
     {
-      "title": "How do I trigger a dialog Form by clicking a table row?",
-      "url": "https://stackoverflow.com/questions/80000947/how-do-i-trigger-a-dialog-form-by-clicking-a-table-row",
-      "published_at": "2026-09-05T08:03:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "shadcnui"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marco Pasquali"
-    },
-    {
       "title": "How to set persistent values for a TM userscript from elements on the page the script is running in?",
       "url": "https://stackoverflow.com/questions/79945175/how-to-set-persistent-values-for-a-tm-userscript-from-elements-on-the-page-the-s",
       "published_at": "2026-05-22T11:55:07.000Z",
@@ -1676,20 +1658,31 @@
       "user": "Gerold Broser"
     },
     {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Get the element with the highest occurrence in an array",
+      "url": "https://stackoverflow.com/questions/1053843/get-the-element-with-the-highest-occurrence-in-an-array",
+      "published_at": "2009-06-27T23:14:43.000Z",
+      "description": "Stack Overflow question · 46 answers · score 129",
       "tags": [
         "javascript",
-        "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
+        "mode"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Mohd Shakir"
+      "user": "vise"
+    },
+    {
+      "title": "Rerouting to new page with parameters and fetching from API results in API fetch loop",
+      "url": "https://stackoverflow.com/questions/79756559/rerouting-to-new-page-with-parameters-and-fetching-from-api-results-in-api-fetch",
+      "published_at": "2025-09-05T08:34:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "zack_falcon"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1886,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2368,
+      "stars": 2383,
       "user": "anthropics"
     },
     {
@@ -1901,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1747,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1916,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1157,
       "user": "pierrenade"
     },
     {
@@ -1931,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 758,
       "user": "EverettFish"
     },
     {
@@ -1964,22 +1957,10 @@
       "user": "aleyan"
     },
     {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "published_at": "2026-09-06T18:04:21.496-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "compilers"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "azhenley"
-    },
-    {
       "title": "Type hint a default return type used unless more specific overload exists",
       "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
       "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "python-typing"
@@ -1992,7 +1973,7 @@
       "title": "How to deal with implicit transformation into parent type when using a TypeVar?",
       "url": "https://stackoverflow.com/questions/80001386/how-to-deal-with-implicit-transformation-into-parent-type-when-using-a-typevar",
       "published_at": "2026-09-07T11:12:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "python-typing"
@@ -2014,6 +1995,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GEO"
+    },
+    {
+      "title": "Problems with getting variables via lifespan context manager in Fastapi",
+      "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi",
+      "published_at": "2026-09-06T18:36:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "sqlalchemy",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Liomtr"
     },
     {
       "title": "iPython Running Old Version of Script",
@@ -2041,20 +2036,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hasnain Ali"
-    },
-    {
-      "title": "Problems with getting variables via lifespan context manager in Fastapi",
-      "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi",
-      "published_at": "2026-09-06T18:36:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
     },
     {
       "title": "why can i not install pygame on the vs developer powershell",
@@ -2390,6 +2371,19 @@
       "user": "Giorgi Kobaidze"
     },
     {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2462,21 +2456,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Automate Flutter's New Split Package Migration with AI Agent Skills",
       "url": "https://dev.to/gde/automate-flutters-new-split-package-migration-with-ai-agent-skills-bn2",
       "published_at": "2026-08-31T16:20:40Z",
@@ -2507,6 +2486,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
       "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
       "published_at": "2026-09-03T12:47:27Z",
@@ -2533,7 +2527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "icodesign"
     },
     {
@@ -2583,35 +2577,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2686,6 +2651,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
@@ -2807,6 +2787,20 @@
       "user": "xbill"
     },
     {
+      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
+      "published_at": "2026-09-03T15:52:29Z",
+      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
       "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
       "published_at": "2026-09-01T18:25:48Z",
@@ -2833,7 +2827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 597,
       "user": "KJGX66F"
     },
     {
@@ -2848,7 +2842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 454,
       "user": "byJoey"
     },
     {
@@ -2908,7 +2902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 451,
       "user": "okf-memory"
     },
     {
@@ -3131,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "Apeireth"
     },
     {
@@ -3227,21 +3221,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor",
-      "url": "https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg",
-      "published_at": "2026-08-29T12:58:53Z",
-      "description": "If you've tried an \"agentic\" AI coding tool recently, there's a good chance it asked you to switch...",
-      "tags": [
-        "antigravity",
-        "vscode",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
       "title": "Streamline Publishing with a Claude Code Skill",
       "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
       "published_at": "2026-09-01T14:37:08Z",
@@ -3255,6 +3234,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Context anchoring works. Files, not a service.",
+      "url": "https://dev.to/bojantomic/context-anchoring-works-files-not-a-service-5ek2",
+      "published_at": "2026-09-02T11:49:54Z",
+      "description": "Rahul Garg's context anchoring article names something I already do. Here is the measurement that convinced me files beat a hosted memory service, and the failure mode nobody covers.",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv62khswisuu0gowuy1k5.png",
+      "source": "Dev.to",
+      "user": "Bojan Tomic"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3308,21 +3302,6 @@
       "user": "yczz"
     },
     {
-      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "published_at": "2026-09-04T01:15:28Z",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
-      "source": "GitHub",
-      "stars": 591,
-      "user": "KJGX66F"
-    },
-    {
       "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
       "url": "https://github.com/ahujasid/camera-to-blender",
       "published_at": "2026-09-03T10:34:30Z",
@@ -3334,8 +3313,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 611,
       "user": "ahujasid"
+    },
+    {
+      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "url": "https://github.com/KJGX66F/usque-custom-pro",
+      "published_at": "2026-09-04T01:15:28Z",
+      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
+      "source": "GitHub",
+      "stars": 597,
+      "user": "KJGX66F"
     },
     {
       "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
@@ -3349,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 463,
       "user": "PhiloLabs"
     },
     {
@@ -3364,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 454,
       "user": "byJoey"
     },
     {
@@ -3379,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2368,
+      "stars": 2383,
       "user": "anthropics"
     },
     {
@@ -3394,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1747,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3409,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1157,
       "user": "pierrenade"
     },
     {
@@ -3424,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 758,
       "user": "EverettFish"
     },
     {
@@ -3454,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 451,
       "user": "okf-memory"
     },
     {
@@ -3469,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "chrisgreg"
     },
     {
@@ -3484,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 83,
       "user": "Adytm404"
     },
     {
@@ -3499,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "pgrundev"
     },
     {
@@ -3529,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4580,
+      "stars": 4624,
       "user": "lnkiai"
     },
     {
@@ -3544,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1834,
+      "stars": 1932,
       "user": "ashemag"
     },
     {
@@ -3559,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 667,
       "user": "Albert-Weasker"
     },
     {
@@ -3574,23 +3568,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 347,
       "user": "BoardUI"
     },
     {
-      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
-      "url": "https://github.com/Appllama/liquid-glass-screens",
-      "published_at": "2026-09-05T06:38:46Z",
-      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "title": "Mantitup-Org/vista - GitHub Repository",
+      "url": "https://github.com/Mantitup-Org/vista",
+      "published_at": "2026-09-04T06:20:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 260,
-      "user": "Appllama"
+      "stars": 326,
+      "user": "Mantitup-Org"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -3604,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 365,
       "user": "inclusionAI"
     },
     {
@@ -3619,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 267,
       "user": "what1f"
     },
     {
@@ -3634,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 146,
       "user": "flectar"
     },
     {
@@ -3649,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "Apeireth"
     },
     {
@@ -3664,24 +3658,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "icodesign"
     },
     {
-      "title": "AI tool to generate test cases from English requirements and convert them into executable code with debugging support",
-      "url": "https://stackoverflow.com/questions/79883978/ai-tool-to-generate-test-cases-from-english-requirements-and-convert-them-into-e",
-      "published_at": "2026-02-06T02:01:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "published_at": "2026-09-07T11:17:46.001-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
         "testing",
-        "automation",
-        "automated-tests",
-        "tooling-recommendation"
+        "vibecoding"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohd Shakir"
+      "source": "Lobste.rs",
+      "user": "hwayne"
     },
     {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
