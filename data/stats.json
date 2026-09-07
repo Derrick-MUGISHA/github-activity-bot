@@ -1,7 +1,7 @@
 {
-  "total": 184,
+  "total": 180,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 56,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,43 +10,44 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 83,
-    "JavaScript": 37,
+    "AI": 81,
+    "JavaScript": 36,
     "Python": 29,
-    "DevOps": 18,
+    "DevOps": 17,
     "WebDev": 6,
-    "Mobile": 8,
+    "Mobile": 5,
     "Cloud": 21,
     "Database": 6,
     "Security": 16,
     "Tools": 39
   },
   "by_language": {
-    "JavaScript": 37,
-    "Go": 35,
+    "JavaScript": 36,
+    "Go": 36,
     "Python": 29,
     "Ruby": 2,
     "Java": 27,
     "Rust": 8,
     "Swift": 1,
-    "Kotlin": 1
+    "Kotlin": 1,
+    "CSharp": 1
   },
   "by_date": {
     "2026-09-06": 17,
-    "2026-09-07": 17,
-    "2026-09-03": 19,
+    "2026-09-07": 21,
+    "2026-09-03": 15,
     "2026-09-04": 18,
     "2026-09-01": 14,
     "2026-08-28": 2,
     "2026-08-27": 2,
-    "2026-09-02": 13,
-    "2026-08-31": 2,
     "2026-08-25": 2,
     "2026-08-30": 3,
     "2026-08-29": 1,
-    "2026-09-05": 10,
+    "2026-09-05": 9,
     "2026-08-17": 2,
     "2026-08-23": 2,
+    "2026-09-02": 11,
+    "2026-08-31": 1,
     "2026-08-19": 1,
     "2026-08-10": 2,
     "2026-08-18": 1,
@@ -108,9 +109,9 @@
     "2025-09-05": 1
   },
   "top_tags": {
-    "ai": 25,
     "github": 25,
     "open-source": 25,
+    "ai": 24,
     "python": 19,
     "javascript": 17,
     "AI": 16,
@@ -120,24 +121,25 @@
     "Python": 10,
     "DevOps": 10,
     "discuss": 8,
-    "webdev": 8,
     "agents": 7,
+    "webdev": 7,
     "rust": 7,
     "devchallenge": 6,
-    "flutter": 6,
-    "dart": 6,
-    "architecture": 6,
-    "programming": 6
+    "gemini": 5,
+    "architecture": 5,
+    "kubernetes": 5,
+    "programming": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "26.4",
-    "Go": "25.0",
-    "Python": "20.7",
+    "JavaScript": "25.5",
+    "Go": "25.5",
+    "Python": "20.6",
     "Ruby": "1.4",
-    "Java": "19.3",
+    "Java": "19.1",
     "Rust": "5.7",
     "Swift": "0.7",
-    "Kotlin": "0.7"
+    "Kotlin": "0.7",
+    "CSharp": "0.7"
   }
 }
