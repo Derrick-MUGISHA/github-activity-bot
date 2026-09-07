@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
-      "published_at": "2026-09-03T06:44:57Z",
-      "description": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fez62u2w0ldk0fec35ytb.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
       "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
       "published_at": "2026-09-06T16:51:54Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
+      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
+      "published_at": "2026-09-03T06:44:57Z",
+      "description": "Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fez62u2w0ldk0fec35ytb.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2255,
+      "stars": 2317,
       "user": "anthropics"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1541,
       "user": "Rion-Wu-tech"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1137,
       "user": "pierrenade"
     },
     {
@@ -798,6 +798,21 @@
       "user": "nahrek"
     },
     {
+      "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "published_at": "2026-09-07T00:41:18Z",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
+      "source": "GitHub",
+      "stars": 511,
+      "user": "EverettFish"
+    },
+    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 413,
       "user": "okf-memory"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "gesta-run"
     },
     {
@@ -839,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4359,
+      "stars": 4474,
       "user": "lnkiai"
     },
     {
@@ -854,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 634,
       "user": "Albert-Weasker"
     },
     {
@@ -869,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 299,
       "user": "BoardUI"
     },
     {
@@ -884,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 327,
       "user": "inclusionAI"
     },
     {
@@ -903,19 +918,19 @@
       "user": "icodesign"
     },
     {
-      "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
-      "url": "https://github.com/truespar/paddock",
-      "published_at": "2026-09-03T19:52:35Z",
-      "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+      "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
+      "url": "https://github.com/flectar/mail",
+      "published_at": "2026-09-03T00:12:32Z",
+      "description": "Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 50,
-      "user": "truespar"
+      "stars": 74,
+      "user": "flectar"
     },
     {
       "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
@@ -934,7 +949,7 @@
       "title": "TransitionGroup smooth move causing container height to decrease",
       "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
       "published_at": "2026-09-05T06:11:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "css",
@@ -958,20 +973,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GEO"
-    },
-    {
-      "title": "Send an email from Outlook account using Python",
-      "url": "https://stackoverflow.com/questions/80000948/send-an-email-from-outlook-account-using-python",
-      "published_at": "2026-09-05T08:05:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "email",
-        "outlook"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lakshit Sharma"
     },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -1377,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 844,
       "user": "yczz"
     },
     {
@@ -1392,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 569,
       "user": "KJGX66F"
     },
     {
@@ -1407,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 492,
       "user": "ahujasid"
     },
     {
@@ -1422,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 458,
       "user": "PhiloLabs"
     },
     {
@@ -1437,8 +1438,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 419,
       "user": "byJoey"
+    },
+    {
+      "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "published_at": "2026-09-07T00:41:18Z",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
+      "source": "GitHub",
+      "stars": 511,
+      "user": "EverettFish"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1452,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4359,
+      "stars": 4474,
       "user": "lnkiai"
     },
     {
@@ -1467,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1467,
+      "stars": 1668,
       "user": "ashemag"
     },
     {
@@ -1482,23 +1498,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 634,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
-      "url": "https://github.com/Appllama/liquid-glass-screens",
-      "published_at": "2026-09-05T06:38:46Z",
-      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
-      "source": "GitHub",
-      "stars": 257,
-      "user": "Appllama"
     },
     {
       "title": "BoardUI/boardui - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
@@ -1512,14 +1513,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 299,
       "user": "BoardUI"
+    },
+    {
+      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "published_at": "2026-09-05T06:38:46Z",
+      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "source": "GitHub",
+      "stars": 258,
+      "user": "Appllama"
     },
     {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html"
@@ -1532,7 +1548,7 @@
       "title": "Add joint limits in matterjs",
       "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
       "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "matter.js"
@@ -1545,7 +1561,7 @@
       "title": "How to customize sony dualshock 2 via node-hid",
       "url": "https://stackoverflow.com/questions/80001162/how-to-customize-sony-dualshock-2-via-node-hid",
       "published_at": "2026-09-06T11:41:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "node.js",
@@ -1570,6 +1586,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AncientSwordRage"
+    },
+    {
+      "title": "TransitionGroup smooth move causing container height to decrease",
+      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
+      "published_at": "2026-09-05T06:11:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "vue.js",
+        "vuejs-transition-group"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Player Possum"
     },
     {
       "title": "javascript accessing object value or name",
@@ -1597,21 +1628,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marco Pasquali"
-    },
-    {
-      "title": "TransitionGroup smooth move causing container height to decrease",
-      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
-      "published_at": "2026-09-05T06:11:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "vue.js",
-        "vuejs-transition-group"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Player Possum"
     },
     {
       "title": "Input value for total number of pages in a REDCap survey?",
@@ -1850,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2255,
+      "stars": 2317,
       "user": "anthropics"
     },
     {
@@ -1865,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1541,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1880,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1137,
       "user": "pierrenade"
     },
     {
@@ -1899,19 +1915,19 @@
       "user": "nahrek"
     },
     {
-      "title": "tigerless-labs/agent-memory - GitHub Repository",
-      "url": "https://github.com/tigerless-labs/agent-memory",
-      "published_at": "2026-09-01T21:52:29Z",
-      "description": "Trending GitHub Repository",
+      "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "published_at": "2026-09-07T00:41:18Z",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285825190?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 386,
-      "user": "tigerless-labs"
+      "stars": 511,
+      "user": "EverettFish"
     },
     {
       "title": "Python Iceberg",
@@ -1926,18 +1942,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "aleyan"
-    },
-    {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "published_at": "2026-09-06T18:04:21.496-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "compilers"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "azhenley"
     },
     {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
@@ -1957,7 +1961,7 @@
       "title": "iPython Running Old Version of Script",
       "url": "https://stackoverflow.com/questions/80001264/ipython-running-old-version-of-script",
       "published_at": "2026-09-06T22:32:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "ipython",
@@ -1971,7 +1975,7 @@
       "title": "Gemini 3.5 flash preview voice lagging sometimes it response fast but it takes minutes which is not bearable in real call",
       "url": "https://stackoverflow.com/questions/80001192/gemini-3-5-flash-preview-voice-lagging-sometimes-it-response-fast-but-it-takes-m",
       "published_at": "2026-09-06T16:09:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "google-gemini"
@@ -1984,7 +1988,7 @@
       "title": "Problems with getting variables via lifespan context manager in Fastapi",
       "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi",
       "published_at": "2026-09-06T18:36:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "sqlalchemy",
@@ -1998,7 +2002,7 @@
       "title": "why can i not install pygame on the vs developer powershell",
       "url": "https://stackoverflow.com/questions/80001204/why-can-i-not-install-pygame-on-the-vs-developer-powershell",
       "published_at": "2026-09-06T17:14:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "pip",
@@ -2055,32 +2059,32 @@
       "user": "Lance M"
     },
     {
-      "title": "Send an email from Outlook account using Python",
-      "url": "https://stackoverflow.com/questions/80000948/send-an-email-from-outlook-account-using-python",
-      "published_at": "2026-09-05T08:05:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How can I test Stack Overflow API write operations?",
+      "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
+      "published_at": "2026-09-03T08:10:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
-        "python",
-        "email",
-        "outlook"
+        "advice",
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Lakshit Sharma"
+      "user": "AmSurya"
     },
     {
-      "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
-      "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create",
-      "published_at": "2026-09-04T20:44:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "Can't get virtual environment to activate from the terminal",
+      "url": "https://stackoverflow.com/questions/79999867/cant-get-virtual-environment-to-activate-from-the-terminal",
+      "published_at": "2026-09-01T11:06:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
-        "subprocess",
-        "popen"
+        "linux",
+        "terminal",
+        "pycharm"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Power of Wilson"
+      "user": "Shmuelt"
     }
   ],
   "DevOps": [
@@ -2385,7 +2389,7 @@
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html"
@@ -2398,7 +2402,7 @@
       "title": "TransitionGroup smooth move causing container height to decrease",
       "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
       "published_at": "2026-09-05T06:11:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "css",
@@ -2827,7 +2831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 569,
       "user": "KJGX66F"
     },
     {
@@ -2842,7 +2846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 419,
       "user": "byJoey"
     },
     {
@@ -2902,14 +2906,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 413,
       "user": "okf-memory"
     },
     {
       "title": "Problems with getting variables via lifespan context manager in Fastapi",
       "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi",
       "published_at": "2026-09-06T18:36:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "sqlalchemy",
@@ -3111,7 +3115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 98,
       "user": "Apeireth"
     },
     {
@@ -3284,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 844,
       "user": "yczz"
     },
     {
@@ -3299,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 569,
       "user": "KJGX66F"
     },
     {
@@ -3314,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 492,
       "user": "ahujasid"
     },
     {
@@ -3329,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 458,
       "user": "PhiloLabs"
     },
     {
@@ -3344,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 419,
       "user": "byJoey"
     },
     {
@@ -3359,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2255,
+      "stars": 2317,
       "user": "anthropics"
     },
     {
@@ -3374,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1541,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3389,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1137,
       "user": "pierrenade"
     },
     {
@@ -3408,19 +3412,19 @@
       "user": "nahrek"
     },
     {
-      "title": "tigerless-labs/agent-memory - GitHub Repository",
-      "url": "https://github.com/tigerless-labs/agent-memory",
-      "published_at": "2026-09-01T21:52:29Z",
-      "description": "Trending GitHub Repository",
+      "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "published_at": "2026-09-07T00:41:18Z",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285825190?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 386,
-      "user": "tigerless-labs"
+      "stars": 511,
+      "user": "EverettFish"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3434,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 413,
       "user": "okf-memory"
     },
     {
@@ -3449,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 85,
       "user": "chrisgreg"
     },
     {
@@ -3494,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "gesta-run"
     },
     {
@@ -3509,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4359,
+      "stars": 4474,
       "user": "lnkiai"
     },
     {
@@ -3524,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1467,
+      "stars": 1668,
       "user": "ashemag"
     },
     {
@@ -3539,23 +3543,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 634,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
-      "url": "https://github.com/Appllama/liquid-glass-screens",
-      "published_at": "2026-09-05T06:38:46Z",
-      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
-      "source": "GitHub",
-      "stars": 257,
-      "user": "Appllama"
     },
     {
       "title": "BoardUI/boardui - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
@@ -3569,8 +3558,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 299,
       "user": "BoardUI"
+    },
+    {
+      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "published_at": "2026-09-05T06:38:46Z",
+      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "source": "GitHub",
+      "stars": 258,
+      "user": "Appllama"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -3584,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 327,
       "user": "inclusionAI"
     },
     {
@@ -3599,8 +3603,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 253,
       "user": "what1f"
+    },
+    {
+      "title": "Apeireth/Apeireth - Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "url": "https://github.com/Apeireth/Apeireth",
+      "published_at": "2026-09-04T08:55:31Z",
+      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "Apeireth"
     },
     {
       "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
@@ -3618,34 +3637,19 @@
       "user": "icodesign"
     },
     {
-      "title": "Apeireth/Apeireth - Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
-      "url": "https://github.com/Apeireth/Apeireth",
-      "published_at": "2026-09-04T08:55:31Z",
-      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
+      "url": "https://github.com/flectar/mail",
+      "published_at": "2026-09-03T00:12:32Z",
+      "description": "Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 94,
-      "user": "Apeireth"
-    },
-    {
-      "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
-      "url": "https://github.com/truespar/paddock",
-      "published_at": "2026-09-03T19:52:35Z",
-      "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
-      "source": "GitHub",
-      "stars": 50,
-      "user": "truespar"
+      "stars": 74,
+      "user": "flectar"
     },
     {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
