@@ -1,7 +1,7 @@
 {
-  "total": 184,
+  "total": 182,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 58,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -11,34 +11,36 @@
   },
   "by_category": {
     "AI": 79,
-    "JavaScript": 36,
+    "JavaScript": 35,
     "Python": 29,
     "DevOps": 18,
-    "WebDev": 7,
-    "Mobile": 6,
-    "Cloud": 17,
-    "Database": 4,
-    "Security": 16,
+    "WebDev": 6,
+    "Mobile": 7,
+    "Cloud": 18,
+    "Database": 5,
+    "Security": 17,
     "Tools": 39
   },
   "by_language": {
-    "JavaScript": 36,
-    "Go": 38,
+    "JavaScript": 35,
+    "Go": 39,
     "Python": 29,
     "Ruby": 1,
     "Rust": 9,
-    "Java": 26
+    "Java": 27,
+    "Swift": 2,
+    "Kotlin": 2
   },
   "by_date": {
-    "2026-09-03": 20,
-    "2026-09-04": 17,
+    "2026-09-03": 21,
+    "2026-09-04": 19,
     "2026-08-28": 3,
     "2026-08-27": 3,
     "2026-09-01": 13,
-    "2026-09-02": 10,
-    "2026-08-31": 11,
+    "2026-09-02": 13,
+    "2026-08-31": 3,
     "2026-08-25": 2,
-    "2026-08-30": 4,
+    "2026-08-30": 3,
     "2026-08-29": 2,
     "2026-08-17": 2,
     "2026-08-23": 2,
@@ -101,7 +103,7 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2026-09-05": 15,
-    "2026-09-06": 20,
+    "2026-09-06": 21,
     "2026-08-24": 1
   },
   "top_tags": {
@@ -122,17 +124,19 @@
     "go": 6,
     "rust": 6,
     "vibecoding": 6,
-    "flutter": 5,
-    "dart": 5,
-    "kubernetes": 5
+    "kubernetes": 5,
+    "programming": 5,
+    "typescript": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "25.9",
-    "Go": "27.3",
-    "Python": "20.9",
+    "JavaScript": "24.3",
+    "Go": "27.1",
+    "Python": "20.1",
     "Ruby": "0.7",
-    "Rust": "6.5",
-    "Java": "18.7"
+    "Rust": "6.3",
+    "Java": "18.8",
+    "Swift": "1.4",
+    "Kotlin": "1.4"
   }
 }

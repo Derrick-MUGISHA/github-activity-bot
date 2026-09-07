@@ -704,38 +704,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2199,
+      "stars": 2204,
       "user": "anthropics"
-    },
-    {
-      "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
-      "url": "https://github.com/GangTailorUpgrade/undress-service",
-      "published_at": "2026-08-31T00:12:45Z",
-      "description": "Dress AI Sponsor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
-      "source": "GitHub",
-      "stars": 1134,
-      "user": "GangTailorUpgrade"
-    },
-    {
-      "title": "2akouwu/reverify - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "url": "https://github.com/2akouwu/reverify",
-      "published_at": "2026-08-31T01:02:18Z",
-      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
-      "source": "GitHub",
-      "stars": 960,
-      "user": "2akouwu"
     },
     {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
@@ -749,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 963,
       "user": "Rion-Wu-tech"
     },
     {
@@ -764,8 +734,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 841,
       "user": "pierrenade"
+    },
+    {
+      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "published_at": "2026-09-02T17:00:13Z",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "source": "GitHub",
+      "stars": 620,
+      "user": "nahrek"
+    },
+    {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 356,
+      "user": "op7418"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -779,23 +779,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "okf-memory"
     },
     {
-      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
-      "published_at": "2026-08-31T10:23:49Z",
-      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
+      "url": "https://github.com/gesta-run/subpool",
+      "published_at": "2026-09-02T08:27:21Z",
+      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 95,
-      "user": "cocoyes"
+      "stars": 65,
+      "user": "gesta-run"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -809,23 +809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4255,
+      "stars": 4269,
       "user": "lnkiai"
-    },
-    {
-      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "url": "https://github.com/shadcn-ui/cn",
-      "published_at": "2026-08-31T07:04:03Z",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 1212,
-      "user": "shadcn-ui"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -839,23 +824,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 607,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
-      "url": "https://github.com/faisalkindi/DLSS5oneclick",
-      "published_at": "2026-08-31T02:12:29Z",
-      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
-      "source": "GitHub",
-      "stars": 509,
-      "user": "faisalkindi"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -869,8 +839,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "inclusionAI"
+    },
+    {
+      "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "url": "https://github.com/icodesign/remote-installer",
+      "published_at": "2026-09-02T10:47:41Z",
+      "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "icodesign"
+    },
+    {
+      "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+      "url": "https://github.com/truespar/paddock",
+      "published_at": "2026-09-03T19:52:35Z",
+      "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "source": "GitHub",
+      "stars": 49,
+      "user": "truespar"
     },
     {
       "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
@@ -1187,21 +1187,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
-      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
-      "published_at": "2026-08-30T21:04:04Z",
-      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 513,
       "user": "KJGX66F"
     },
     {
@@ -1378,23 +1363,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 448,
       "user": "PhiloLabs"
     },
     {
-      "title": "subsy/skill-cabinet - GitHub Repository",
-      "url": "https://github.com/subsy/skill-cabinet",
-      "published_at": "2026-08-31T12:17:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "url": "https://github.com/byJoey/warp-masque-actions",
+      "published_at": "2026-09-04T17:21:26Z",
+      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 397,
-      "user": "subsy"
+      "stars": 359,
+      "user": "byJoey"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1408,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4255,
+      "stars": 4269,
       "user": "lnkiai"
     },
     {
@@ -1423,23 +1408,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1298,
+      "stars": 1332,
       "user": "ashemag"
-    },
-    {
-      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "url": "https://github.com/shadcn-ui/cn",
-      "published_at": "2026-08-31T07:04:03Z",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 1212,
-      "user": "shadcn-ui"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -1453,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 607,
       "user": "Albert-Weasker"
     },
     {
@@ -1468,14 +1438,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "Appllama"
+    },
+    {
+      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
+      "published_at": "2026-09-01T11:04:18Z",
+      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
+      "source": "GitHub",
+      "stars": 198,
+      "user": "mahdidavoodi7"
     },
     {
       "title": "Add joint limits in matterjs",
       "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
       "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "matter.js"
@@ -1805,38 +1790,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2199,
+      "stars": 2204,
       "user": "anthropics"
-    },
-    {
-      "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
-      "url": "https://github.com/GangTailorUpgrade/undress-service",
-      "published_at": "2026-08-31T00:12:45Z",
-      "description": "Dress AI Sponsor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
-      "source": "GitHub",
-      "stars": 1134,
-      "user": "GangTailorUpgrade"
-    },
-    {
-      "title": "2akouwu/reverify - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "url": "https://github.com/2akouwu/reverify",
-      "published_at": "2026-08-31T01:02:18Z",
-      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
-      "source": "GitHub",
-      "stars": 960,
-      "user": "2akouwu"
     },
     {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
@@ -1850,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 963,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1865,8 +1820,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 841,
       "user": "pierrenade"
+    },
+    {
+      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "published_at": "2026-09-02T17:00:13Z",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "source": "GitHub",
+      "stars": 620,
+      "user": "nahrek"
+    },
+    {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 356,
+      "user": "op7418"
     },
     {
       "title": "Python Iceberg",
@@ -1881,6 +1866,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "aleyan"
+    },
+    {
+      "title": "iPython Running Old Version of Script",
+      "url": "https://stackoverflow.com/questions/80001264/ipython-running-old-version-of-script",
+      "published_at": "2026-09-06T22:32:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "python-3.x",
+        "ipython",
+        "psychopy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lili Hauser"
     },
     {
       "title": "Problems with getting variables via lifespan context manager in Fastapi",
@@ -2009,21 +2009,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AmSurya"
-    },
-    {
-      "title": "Can't get virtual environment to activate from the terminal",
-      "url": "https://stackoverflow.com/questions/79999867/cant-get-virtual-environment-to-activate-from-the-terminal",
-      "published_at": "2026-09-01T11:06:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "linux",
-        "terminal",
-        "pycharm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shmuelt"
     }
   ],
   "DevOps": [
@@ -2325,21 +2310,6 @@
       "user": "velmu"
     },
     {
-      "title": "mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "url": "https://github.com/mizorewww/course2md",
-      "published_at": "2026-08-31T01:56:25Z",
-      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "mizorewww"
-    },
-    {
       "title": "TransitionGroup smooth move causing container height to decrease",
       "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
       "published_at": "2026-09-05T06:11:17.000Z",
@@ -2431,19 +2401,34 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Production Flutter Networking Without the Boilerplate: Reactive Repositories with BlocSignal",
-      "url": "https://dev.to/gde/production-flutter-networking-without-the-boilerplate-reactive-repositories-with-blocsignal-4c3c",
-      "published_at": "2026-08-30T21:04:04Z",
-      "description": "Learn how to structure production-grade networking in Flutter without the traditional boilerplate. Combine Dio or HTTP clients with CubitSignalMixin, HydratedMixin, and .toAsyncBlocSignal() for zero-race-condition, offline-cached reactive architecture.",
+      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
+      "published_at": "2026-09-01T11:04:18Z",
+      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
       "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
+        "typescript",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febiwd1env59hlvwpshj9.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
+      "source": "GitHub",
+      "stars": 198,
+      "user": "mahdidavoodi7"
+    },
+    {
+      "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "url": "https://github.com/icodesign/remote-installer",
+      "published_at": "2026-09-02T10:47:41Z",
+      "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "icodesign"
     },
     {
       "title": "How to Use Skills in Agentic Flutter Development: A Handbook for Devs",
@@ -2697,8 +2682,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 513,
       "user": "KJGX66F"
+    },
+    {
+      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "url": "https://github.com/byJoey/warp-masque-actions",
+      "published_at": "2026-09-04T17:21:26Z",
+      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 359,
+      "user": "byJoey"
     },
     {
       "title": "How OpenTelemetry Works: A Complete Guide",
@@ -2731,6 +2731,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "published_at": "2026-09-02T17:00:13Z",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "source": "GitHub",
+      "stars": 620,
+      "user": "nahrek"
+    },
+    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -2742,7 +2757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "okf-memory"
     },
     {
@@ -2953,6 +2968,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "Apeireth/Apeireth - Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "url": "https://github.com/Apeireth/Apeireth",
+      "published_at": "2026-09-04T08:55:31Z",
+      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
+      "source": "GitHub",
+      "stars": 92,
+      "user": "Apeireth"
     },
     {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -3168,7 +3198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 513,
       "user": "KJGX66F"
     },
     {
@@ -3198,23 +3228,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 448,
       "user": "PhiloLabs"
     },
     {
-      "title": "subsy/skill-cabinet - GitHub Repository",
-      "url": "https://github.com/subsy/skill-cabinet",
-      "published_at": "2026-08-31T12:17:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "url": "https://github.com/byJoey/warp-masque-actions",
+      "published_at": "2026-09-04T17:21:26Z",
+      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7700461?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 397,
-      "user": "subsy"
+      "stars": 359,
+      "user": "byJoey"
     },
     {
       "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
@@ -3228,38 +3258,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2199,
+      "stars": 2204,
       "user": "anthropics"
-    },
-    {
-      "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
-      "url": "https://github.com/GangTailorUpgrade/undress-service",
-      "published_at": "2026-08-31T00:12:45Z",
-      "description": "Dress AI Sponsor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270958586?v=4",
-      "source": "GitHub",
-      "stars": 1134,
-      "user": "GangTailorUpgrade"
-    },
-    {
-      "title": "2akouwu/reverify - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "url": "https://github.com/2akouwu/reverify",
-      "published_at": "2026-08-31T01:02:18Z",
-      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14812897?v=4",
-      "source": "GitHub",
-      "stars": 960,
-      "user": "2akouwu"
     },
     {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
@@ -3273,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 963,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3288,8 +3288,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 841,
       "user": "pierrenade"
+    },
+    {
+      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "url": "https://github.com/nahrek/polyledger",
+      "published_at": "2026-09-02T17:00:13Z",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
+      "source": "GitHub",
+      "stars": 620,
+      "user": "nahrek"
+    },
+    {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 356,
+      "user": "op7418"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3303,23 +3333,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "okf-memory"
-    },
-    {
-      "title": "cocoyes/zhizhi-agent-runtime - A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
-      "published_at": "2026-08-31T10:23:49Z",
-      "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24385018?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "cocoyes"
     },
     {
       "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
@@ -3367,6 +3382,21 @@
       "user": "pgrundev"
     },
     {
+      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
+      "url": "https://github.com/gesta-run/subpool",
+      "published_at": "2026-09-02T08:27:21Z",
+      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "gesta-run"
+    },
+    {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "published_at": "2026-09-02T04:36:34Z",
@@ -3378,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4255,
+      "stars": 4269,
       "user": "lnkiai"
     },
     {
@@ -3393,23 +3423,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1298,
+      "stars": 1332,
       "user": "ashemag"
-    },
-    {
-      "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "url": "https://github.com/shadcn-ui/cn",
-      "published_at": "2026-08-31T07:04:03Z",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 1212,
-      "user": "shadcn-ui"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -3423,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 607,
       "user": "Albert-Weasker"
     },
     {
@@ -3438,38 +3453,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "Appllama"
     },
     {
-      "title": "faisalkindi/DLSS5oneclick - One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
-      "url": "https://github.com/faisalkindi/DLSS5oneclick",
-      "published_at": "2026-08-31T02:12:29Z",
-      "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
+      "published_at": "2026-09-01T11:04:18Z",
+      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246171974?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
       "source": "GitHub",
-      "stars": 509,
-      "user": "faisalkindi"
-    },
-    {
-      "title": "pipicat613/MuToolsProject - 一站式 MuMu12 模拟器安装与优化工具",
-      "url": "https://github.com/pipicat613/MuToolsProject",
-      "published_at": "2026-08-31T03:59:44Z",
-      "description": "一站式 MuMu12 模拟器安装与优化工具",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/157259184?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "pipicat613"
+      "stars": 198,
+      "user": "mahdidavoodi7"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -3483,23 +3483,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "inclusionAI"
-    },
-    {
-      "title": "mizorewww/course2md - Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "url": "https://github.com/mizorewww/course2md",
-      "published_at": "2026-08-31T01:56:25Z",
-      "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
-      "source": "GitHub",
-      "stars": 285,
-      "user": "mizorewww"
     },
     {
       "title": "what1f/kitter - A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs.",
@@ -3513,8 +3498,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 225,
       "user": "what1f"
+    },
+    {
+      "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "url": "https://github.com/icodesign/remote-installer",
+      "published_at": "2026-09-02T10:47:41Z",
+      "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "icodesign"
+    },
+    {
+      "title": "Apeireth/Apeireth - Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "url": "https://github.com/Apeireth/Apeireth",
+      "published_at": "2026-09-04T08:55:31Z",
+      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
+      "source": "GitHub",
+      "stars": 92,
+      "user": "Apeireth"
+    },
+    {
+      "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+      "url": "https://github.com/truespar/paddock",
+      "published_at": "2026-09-03T19:52:35Z",
+      "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "source": "GitHub",
+      "stars": 49,
+      "user": "truespar"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
