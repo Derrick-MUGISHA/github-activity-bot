@@ -16,19 +16,19 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
-      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
-      "published_at": "2026-09-04T01:59:20Z",
-      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
+      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
+      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
+      "published_at": "2026-09-06T16:51:54Z",
+      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
       "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "security"
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
       "source": "Dev.to",
-      "user": "Saurabh Mishra"
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
@@ -44,6 +44,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
       "source": "Dev.to",
       "user": "ujja"
+    },
+    {
+      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
+      "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
+      "published_at": "2026-09-01T05:53:57Z",
+      "description": "Let me describe a moment you might recognize.  You had an idea for an app. You didn't know how to...",
+      "tags": [
+        "ai",
+        "beginners",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuc75v5ty3hnp04jrkryj.png",
+      "source": "Dev.to",
+      "user": "James Anderson"
+    },
+    {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -105,21 +134,6 @@
       "user": "Felice Lombardi"
     },
     {
-      "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
-      "url": "https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh",
-      "published_at": "2026-09-03T04:27:12Z",
-      "description": "When Messages Can Be Taken Back: Building a \"Shapeshifting\" LINE Group Buying Bot with Edit...",
-      "tags": [
-        "api",
-        "development",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F33ax9l8y7x22l8g8c8we.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "AI-assisted genealogy",
       "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
       "published_at": "2026-09-03T09:02:00Z",
@@ -133,6 +147,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
       "source": "Dev.to",
       "user": "Nicolas Fränkel"
+    },
+    {
+      "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
+      "url": "https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh",
+      "published_at": "2026-09-03T04:27:12Z",
+      "description": "When Messages Can Be Taken Back: Building a \"Shapeshifting\" LINE Group Buying Bot with Edit...",
+      "tags": [
+        "api",
+        "development",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F33ax9l8y7x22l8g8c8we.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves",
@@ -233,6 +262,21 @@
       "user": "xbill"
     },
     {
+      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
+      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
+      "published_at": "2026-09-04T18:29:02Z",
+      "description": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, Horizon and OneLake — comparing what each catalog declares it supports against what it actually serves.",
+      "tags": [
+        "iceberg",
+        "lakehouse",
+        "dataengineering",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
       "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
       "published_at": "2026-08-29T05:03:06Z",
@@ -307,6 +351,21 @@
       "user": "Shir Meir Lador"
     },
     {
+      "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
+      "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
+      "published_at": "2026-08-31T19:21:38Z",
+      "description": "How we eliminated subtle stylesheet caching glitches during deployments on DEV without a massive rewrite.",
+      "tags": [
+        "webdev",
+        "architecture",
+        "webperf",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmhfcuzbrbwh981r7fnr.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
       "published_at": "2026-08-25T20:44:29Z",
@@ -322,6 +381,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
+      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
+      "published_at": "2026-09-04T01:59:20Z",
+      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
       "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
       "published_at": "2026-09-03T15:53:27Z",
@@ -333,20 +407,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
       "source": "Dev.to",
       "user": "Shir Meir Lador"
-    },
-    {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "published_at": "2026-09-02T16:35:00Z",
-      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "tags": [
-        "ai",
-        "evals",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -508,21 +568,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
       "source": "Dev.to",
       "user": "Alexandra"
-    },
-    {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "gatekeeper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -704,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2204,
+      "stars": 2255,
       "user": "anthropics"
     },
     {
@@ -719,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 1315,
       "user": "Rion-Wu-tech"
     },
     {
@@ -734,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 999,
       "user": "pierrenade"
     },
     {
@@ -753,21 +798,6 @@
       "user": "nahrek"
     },
     {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
-      "source": "GitHub",
-      "stars": 356,
-      "user": "op7418"
-    },
-    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -779,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 381,
       "user": "okf-memory"
     },
     {
@@ -794,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 67,
       "user": "gesta-run"
     },
     {
@@ -809,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4269,
+      "stars": 4359,
       "user": "lnkiai"
     },
     {
@@ -824,8 +854,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 616,
       "user": "Albert-Weasker"
+    },
+    {
+      "title": "BoardUI/boardui - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+      "url": "https://github.com/BoardUI/boardui",
+      "published_at": "2026-09-01T23:26:56Z",
+      "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
+      "source": "GitHub",
+      "stars": 237,
+      "user": "BoardUI"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -839,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 316,
       "user": "inclusionAI"
     },
     {
@@ -854,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "icodesign"
     },
     {
@@ -869,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 50,
       "user": "truespar"
     },
     {
@@ -899,6 +944,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Player Possum"
+    },
+    {
+      "title": "pwntool process is none [Starting remote process None: Process creation failed]",
+      "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
+      "published_at": "2026-09-07T02:22:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "ctf",
+        "pwntools"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "GEO"
     },
     {
       "title": "Send an email from Outlook account using Python",
@@ -1318,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 841,
       "user": "yczz"
     },
     {
@@ -1333,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 545,
       "user": "KJGX66F"
     },
     {
@@ -1348,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 470,
       "user": "ahujasid"
     },
     {
@@ -1363,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 455,
       "user": "PhiloLabs"
     },
     {
@@ -1378,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 377,
       "user": "byJoey"
     },
     {
@@ -1393,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4269,
+      "stars": 4359,
       "user": "lnkiai"
     },
     {
@@ -1408,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1332,
+      "stars": 1467,
       "user": "ashemag"
     },
     {
@@ -1423,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 616,
       "user": "Albert-Weasker"
     },
     {
@@ -1438,23 +1497,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 257,
       "user": "Appllama"
     },
     {
-      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
-      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
-      "published_at": "2026-09-01T11:04:18Z",
-      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "title": "BoardUI/boardui - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+      "url": "https://github.com/BoardUI/boardui",
+      "published_at": "2026-09-01T23:26:56Z",
+      "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
       "source": "GitHub",
-      "stars": 198,
-      "user": "mahdidavoodi7"
+      "stars": 237,
+      "user": "BoardUI"
+    },
+    {
+      "title": "Get the playPause function to switch icons in the browser",
+      "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
+      "published_at": "2026-09-07T02:35:49.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "neil"
     },
     {
       "title": "Add joint limits in matterjs",
@@ -1582,18 +1654,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Samuel Bond"
-    },
-    {
-      "title": "Vue 3 Reactivity + shallowRef",
-      "url": "https://stackoverflow.com/questions/80000995/vue-3-reactivity-shallowref",
-      "published_at": "2026-08-27T11:42:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Maulik Paneliya"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1790,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2204,
+      "stars": 2255,
       "user": "anthropics"
     },
     {
@@ -1805,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 1315,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1820,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 999,
       "user": "pierrenade"
     },
     {
@@ -1839,19 +1899,19 @@
       "user": "nahrek"
     },
     {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "title": "tigerless-labs/agent-memory - GitHub Repository",
+      "url": "https://github.com/tigerless-labs/agent-memory",
+      "published_at": "2026-09-01T21:52:29Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285825190?v=4",
       "source": "GitHub",
-      "stars": 356,
-      "user": "op7418"
+      "stars": 386,
+      "user": "tigerless-labs"
     },
     {
       "title": "Python Iceberg",
@@ -1868,19 +1928,57 @@
       "user": "aleyan"
     },
     {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "published_at": "2026-09-06T18:04:21.496-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "compilers"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "azhenley"
+    },
+    {
+      "title": "pwntool process is none [Starting remote process None: Process creation failed]",
+      "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
+      "published_at": "2026-09-07T02:22:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "ctf",
+        "pwntools"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "GEO"
+    },
+    {
       "title": "iPython Running Old Version of Script",
       "url": "https://stackoverflow.com/questions/80001264/ipython-running-old-version-of-script",
       "published_at": "2026-09-06T22:32:05.000Z",
       "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "python-3.x",
         "ipython",
         "psychopy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lili Hauser"
+    },
+    {
+      "title": "Gemini 3.5 flash preview voice lagging sometimes it response fast but it takes minutes which is not bearable in real call",
+      "url": "https://stackoverflow.com/questions/80001192/gemini-3-5-flash-preview-voice-lagging-sometimes-it-response-fast-but-it-takes-m",
+      "published_at": "2026-09-06T16:09:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "google-gemini"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hasnain Ali"
     },
     {
       "title": "Problems with getting variables via lifespan context manager in Fastapi",
@@ -1897,19 +1995,6 @@
       "user": "Liomtr"
     },
     {
-      "title": "Gemini 3.1 flash preview voice lagging sometimes it response fast but it takes minutes which is not bearable in real call",
-      "url": "https://stackoverflow.com/questions/80001192/gemini-3-1-flash-preview-voice-lagging-sometimes-it-response-fast-but-it-takes-m",
-      "published_at": "2026-09-06T16:09:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "google-gemini"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hasnain Ali"
-    },
-    {
       "title": "why can i not install pygame on the vs developer powershell",
       "url": "https://stackoverflow.com/questions/80001204/why-can-i-not-install-pygame-on-the-vs-developer-powershell",
       "published_at": "2026-09-06T17:14:27.000Z",
@@ -1922,6 +2007,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "CleanReptile228"
+    },
+    {
+      "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
+      "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
+      "published_at": "2026-09-05T20:20:42.000Z",
+      "description": "Stack Overflow question · 2 answers · score -7",
+      "tags": [
+        "python",
+        "testing",
+        "pytest",
+        "static-analysis"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "k-L-a"
     },
     {
       "title": "Pygbag: NotImplementedError: set_timer is not implemented on WASM yet",
@@ -1938,21 +2038,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rubinosław"
-    },
-    {
-      "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
-      "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
-      "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -7",
-      "tags": [
-        "python",
-        "testing",
-        "pytest",
-        "static-analysis"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "k-L-a"
     },
     {
       "title": "When installing requests with UV, VS code cannot find requests module, but the script runs successfully from the command line",
@@ -1996,37 +2081,9 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Power of Wilson"
-    },
-    {
-      "title": "How can I test Stack Overflow API write operations?",
-      "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
-      "published_at": "2026-09-03T08:10:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "advice",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AmSurya"
     }
   ],
   "DevOps": [
-    {
-      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
-      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
-      "published_at": "2026-09-04T01:59:20Z",
-      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
     {
       "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
       "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo",
@@ -2086,6 +2143,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
+      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
+      "published_at": "2026-09-04T01:59:20Z",
+      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
@@ -2310,6 +2382,19 @@
       "user": "velmu"
     },
     {
+      "title": "Get the playPause function to switch icons in the browser",
+      "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
+      "published_at": "2026-09-07T02:35:49.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "neil"
+    },
+    {
       "title": "TransitionGroup smooth move causing container height to decrease",
       "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
       "published_at": "2026-09-05T06:11:17.000Z",
@@ -2341,6 +2426,21 @@
   ],
   "Mobile": [
     {
+      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
+      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
+      "published_at": "2026-09-06T16:51:54Z",
+      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
       "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
       "published_at": "2026-09-03T17:31:52Z",
@@ -2352,6 +2452,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2401,21 +2516,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
-      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
-      "published_at": "2026-09-01T11:04:18Z",
-      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
-      "source": "GitHub",
-      "stars": 198,
-      "user": "mahdidavoodi7"
-    },
-    {
       "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
       "url": "https://github.com/icodesign/remote-installer",
       "published_at": "2026-09-02T10:47:41Z",
@@ -2427,7 +2527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "icodesign"
     },
     {
@@ -2449,19 +2549,19 @@
   ],
   "Cloud": [
     {
-      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
-      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
-      "published_at": "2026-09-04T01:59:20Z",
-      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
+      "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
+      "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
+      "published_at": "2026-09-06T07:35:05Z",
+      "description": "Turn Google Sheets into a Petabyte Lakehouse with Sub-Second ACID Queries.             ...",
       "tags": [
-        "ai",
+        "googleworkspace",
         "googlecloud",
-        "kubernetes",
-        "security"
+        "bigquery",
+        "apacheiceberg"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq3o7rjtqj3wecjfjtxe8.png",
       "source": "Dev.to",
-      "user": "Saurabh Mishra"
+      "user": "Tanaike"
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
@@ -2477,6 +2577,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -2537,6 +2652,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
+      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
+      "published_at": "2026-09-04T18:29:02Z",
+      "description": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, Horizon and OneLake — comparing what each catalog declares it supports against what it actually serves.",
+      "tags": [
+        "iceberg",
+        "lakehouse",
+        "dataengineering",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
       "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
       "published_at": "2026-08-29T05:03:06Z",
@@ -2594,6 +2724,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
+      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
+      "published_at": "2026-09-04T01:59:20Z",
+      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
@@ -2682,7 +2827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 545,
       "user": "KJGX66F"
     },
     {
@@ -2697,7 +2842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 377,
       "user": "byJoey"
     },
     {
@@ -2757,7 +2902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 381,
       "user": "okf-memory"
     },
     {
@@ -2793,21 +2938,6 @@
   ],
   "Security": [
     {
-      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
-      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
-      "published_at": "2026-09-04T01:59:20Z",
-      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
       "published_at": "2026-08-25T20:44:29Z",
@@ -2823,19 +2953,19 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
+      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
+      "published_at": "2026-09-04T01:59:20Z",
+      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
       "tags": [
         "ai",
-        "agents",
-        "security",
-        "gatekeeper"
+        "googlecloud",
+        "kubernetes",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
       "source": "Dev.to",
-      "user": "Debashish Ghosal"
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2981,7 +3111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 94,
       "user": "Apeireth"
     },
     {
@@ -3047,20 +3177,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "published_at": "2026-09-02T16:35:00Z",
-      "description": "Follow up to Part 1: How to Design AI Evaluations You Can Actually Trust  At Google, we are...",
-      "tags": [
-        "ai",
-        "evals",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi03iqx5qk9ij76qcuqfb.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
-    },
-    {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
       "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
       "published_at": "2026-08-23T20:09:04Z",
@@ -3121,21 +3237,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "gatekeeper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3183,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 841,
       "user": "yczz"
     },
     {
@@ -3198,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 545,
       "user": "KJGX66F"
     },
     {
@@ -3213,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 470,
       "user": "ahujasid"
     },
     {
@@ -3228,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 455,
       "user": "PhiloLabs"
     },
     {
@@ -3243,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 377,
       "user": "byJoey"
     },
     {
@@ -3258,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 2204,
+      "stars": 2255,
       "user": "anthropics"
     },
     {
@@ -3273,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 1315,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3288,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 999,
       "user": "pierrenade"
     },
     {
@@ -3307,19 +3408,19 @@
       "user": "nahrek"
     },
     {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "title": "tigerless-labs/agent-memory - GitHub Repository",
+      "url": "https://github.com/tigerless-labs/agent-memory",
+      "published_at": "2026-09-01T21:52:29Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285825190?v=4",
       "source": "GitHub",
-      "stars": 356,
-      "user": "op7418"
+      "stars": 386,
+      "user": "tigerless-labs"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3333,8 +3434,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 381,
       "user": "okf-memory"
+    },
+    {
+      "title": "chrisgreg/glance - A tiny, self-hosted web analytics service. ",
+      "url": "https://github.com/chrisgreg/glance",
+      "published_at": "2026-09-03T23:52:08Z",
+      "description": "A tiny, self-hosted web analytics service. ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
+      "source": "GitHub",
+      "stars": 83,
+      "user": "chrisgreg"
     },
     {
       "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
@@ -3350,21 +3466,6 @@
       "source": "GitHub",
       "stars": 81,
       "user": "Adytm404"
-    },
-    {
-      "title": "chrisgreg/glance - A tiny, self-hosted web analytics service. ",
-      "url": "https://github.com/chrisgreg/glance",
-      "published_at": "2026-09-03T23:52:08Z",
-      "description": "A tiny, self-hosted web analytics service. ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
-      "source": "GitHub",
-      "stars": 80,
-      "user": "chrisgreg"
     },
     {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
@@ -3393,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 67,
       "user": "gesta-run"
     },
     {
@@ -3408,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4269,
+      "stars": 4359,
       "user": "lnkiai"
     },
     {
@@ -3423,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1332,
+      "stars": 1467,
       "user": "ashemag"
     },
     {
@@ -3438,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 616,
       "user": "Albert-Weasker"
     },
     {
@@ -3453,23 +3554,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 257,
       "user": "Appllama"
     },
     {
-      "title": "mahdidavoodi7/react-native-continued-task - Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
-      "url": "https://github.com/mahdidavoodi7/react-native-continued-task",
-      "published_at": "2026-09-01T11:04:18Z",
-      "description": "Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps iOS 26 BGContinuedProcessingTask (Live Activity) and Android WorkManager foreground services behind one typed API. Swift + Kotlin via Nitro Modules.",
+      "title": "BoardUI/boardui - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+      "url": "https://github.com/BoardUI/boardui",
+      "published_at": "2026-09-01T23:26:56Z",
+      "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29153345?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
       "source": "GitHub",
-      "stars": 198,
-      "user": "mahdidavoodi7"
+      "stars": 237,
+      "user": "BoardUI"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -3483,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 316,
       "user": "inclusionAI"
     },
     {
@@ -3498,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 244,
       "user": "what1f"
     },
     {
@@ -3513,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "icodesign"
     },
     {
@@ -3528,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 94,
       "user": "Apeireth"
     },
     {
@@ -3543,8 +3644,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 50,
       "user": "truespar"
+    },
+    {
+      "title": "pwntool process is none [Starting remote process None: Process creation failed]",
+      "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
+      "published_at": "2026-09-07T02:22:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "ctf",
+        "pwntools"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "GEO"
     },
     {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
