@@ -253,20 +253,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
       "published_at": "2026-08-17T20:12:46Z",
@@ -460,6 +446,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "published_at": "2026-09-03T15:54:57Z",
+      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
     },
     {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1935,
+      "stars": 1937,
       "user": "Rion-Wu-tech"
     },
     {
@@ -758,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1115,
+      "stars": 1120,
       "user": "EverettFish"
     },
     {
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "nahrek"
     },
     {
@@ -788,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "okf-memory"
     },
     {
@@ -803,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 104,
       "user": "Stocist"
     },
     {
@@ -818,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 5170,
+      "stars": 5194,
       "user": "lnkiai"
     },
     {
@@ -848,7 +848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 437,
       "user": "inclusionAI"
     },
     {
@@ -863,7 +863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "flectar"
     },
     {
@@ -908,16 +908,62 @@
       "user": "GEO"
     },
     {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "published_at": "2026-09-08T21:10:27.000Z",
+      "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "hackers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "published_at": "2026-09-08T21:04:06.000Z",
+      "description": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Valuations",
+        "cursor",
+        "coding assistants"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+      "published_at": "2026-09-08T20:47:34.000Z",
+      "description": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+      "tags": [
+        "Fundraising",
+        "Space",
+        "SpaceX",
+        "The Exploration Company"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
       "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
       "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
       "published_at": "2026-09-08T19:00:00.000Z",
       "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
       "tags": [
+        "TC",
         "AI",
         "Apps",
         "Social",
-        "TC",
-        "ai apps"
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -994,37 +1040,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anna Heim"
-    },
-    {
-      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "published_at": "2026-09-08T14:10:17.000Z",
-      "description": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "bluecore",
-        "nuclear energy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-      "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-      "published_at": "2026-09-08T13:00:00.000Z",
-      "description": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Transportation",
-        "airborne cargo",
-        "autonomous aircraft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -1297,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 774,
       "user": "ahujasid"
     },
     {
@@ -1312,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 672,
       "user": "KJGX66F"
     },
     {
@@ -1372,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1115,
+      "stars": 1120,
       "user": "EverettFish"
     },
     {
@@ -1387,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 104,
       "user": "Stocist"
     },
     {
@@ -1402,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 5170,
+      "stars": 5194,
       "user": "lnkiai"
     },
     {
@@ -1417,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2428,
+      "stars": 2450,
       "user": "ashemag"
     },
     {
@@ -1482,7 +1497,7 @@
       "title": "localStorage data is removed when opening a Bootstrap modal",
       "url": "https://stackoverflow.com/questions/80001710/localstorage-data-is-removed-when-opening-a-bootstrap-modal",
       "published_at": "2026-09-08T16:37:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "jquery",
@@ -1545,6 +1560,20 @@
       "user": "neil"
     },
     {
+      "title": "How do I trigger a dialog Form by clicking a table row?",
+      "url": "https://stackoverflow.com/questions/80000947/how-do-i-trigger-a-dialog-form-by-clicking-a-table-row",
+      "published_at": "2026-09-05T08:03:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "shadcnui"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marco Pasquali"
+    },
+    {
       "title": "Add joint limits in matterjs",
       "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
       "published_at": "2026-09-06T09:50:45.000Z",
@@ -1586,21 +1615,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gerold Broser"
-    },
-    {
-      "title": "How can I split a string into segments of n characters?",
-      "url": "https://stackoverflow.com/questions/6259515/how-can-i-split-a-string-into-segments-of-n-characters",
-      "published_at": "2011-06-07T00:25:55.000Z",
-      "description": "Stack Overflow question · 21 answers · score 327",
-      "tags": [
-        "javascript",
-        "arrays",
-        "string",
-        "split"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ben"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -1844,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1935,
+      "stars": 1937,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1859,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1115,
+      "stars": 1120,
       "user": "EverettFish"
     },
     {
@@ -1874,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 703,
       "user": "kajisho5"
     },
     {
@@ -1889,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "nahrek"
     },
     {
@@ -1904,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 398,
       "user": "donvito"
     },
     {
@@ -1921,18 +1935,6 @@
       "user": "Dimitrios Desyllas"
     },
     {
-      "title": "os.path.isfile() does not work with ~ prefix",
-      "url": "https://stackoverflow.com/questions/80001679/os-path-isfile-does-not-work-with-prefix",
-      "published_at": "2026-09-08T14:09:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rundekugel"
-    },
-    {
       "title": "World generation visual glitch",
       "url": "https://stackoverflow.com/questions/80001652/world-generation-visual-glitch",
       "published_at": "2026-09-08T12:17:47.000Z",
@@ -1944,6 +1946,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "streamz gamer"
+    },
+    {
+      "title": "os.path.isfile() does not work with ~ prefix",
+      "url": "https://stackoverflow.com/questions/80001679/os-path-isfile-does-not-work-with-prefix",
+      "published_at": "2026-09-08T14:09:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rundekugel"
     },
     {
       "title": "Type hint a default return type used unless more specific overload exists",
@@ -1962,7 +1976,7 @@
       "title": "Is there a way to make scipy.optimize.minimize(method='trust-constr') accurate?",
       "url": "https://stackoverflow.com/questions/80001416/is-there-a-way-to-make-scipy-optimize-minimizemethod-trust-constr-accurate",
       "published_at": "2026-09-07T13:42:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "scipy",
@@ -2610,20 +2624,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -2729,6 +2729,20 @@
       "user": "xbill"
     },
     {
+      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "published_at": "2026-09-03T15:54:57Z",
+      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
+      "tags": [
+        "agents",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
       "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
       "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
       "published_at": "2026-09-03T15:52:29Z",
@@ -2769,7 +2783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 672,
       "user": "KJGX66F"
     },
     {
@@ -2888,7 +2902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "nahrek"
     },
     {
@@ -2903,7 +2917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "okf-memory"
     },
     {
@@ -3173,22 +3187,6 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
-      "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-      "published_at": "2026-09-08T14:11:29.000Z",
-      "description": "The latest heist is one of the largest thefts of cryptocurrency to date.",
-      "tags": [
-        "Security",
-        "Bitcoin",
-        "hack",
-        "cybersecurity",
-        "cryptocurrency"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
       "url": "https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/",
       "published_at": "2026-09-04T16:19:46.000Z",
@@ -3359,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 774,
       "user": "ahujasid"
     },
     {
@@ -3374,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 672,
       "user": "KJGX66F"
     },
     {
@@ -3434,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1935,
+      "stars": 1937,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3449,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1115,
+      "stars": 1120,
       "user": "EverettFish"
     },
     {
@@ -3464,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 703,
       "user": "kajisho5"
     },
     {
@@ -3479,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "nahrek"
     },
     {
@@ -3494,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 398,
       "user": "donvito"
     },
     {
@@ -3509,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "okf-memory"
     },
     {
@@ -3524,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 104,
       "user": "Stocist"
     },
     {
@@ -3539,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "Adytm404"
     },
     {
@@ -3584,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 5170,
+      "stars": 5194,
       "user": "lnkiai"
     },
     {
@@ -3599,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2428,
+      "stars": 2450,
       "user": "ashemag"
     },
     {
@@ -3659,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 437,
       "user": "inclusionAI"
     },
     {
@@ -3689,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "flectar"
     },
     {
