@@ -532,6 +532,34 @@
       "user": "Alexandra"
     },
     {
+      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
+      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
+      "published_at": "2026-09-03T15:53:27Z",
+      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
+      "tags": [
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
+      "source": "Dev.to",
+      "user": "Shir Meir Lador"
+    },
+    {
+      "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
+      "url": "https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh",
+      "published_at": "2026-09-03T04:27:12Z",
+      "description": "When Messages Can Be Taken Back: Building a \"Shapeshifting\" LINE Group Buying Bot with Edit...",
+      "tags": [
+        "api",
+        "development",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F33ax9l8y7x22l8g8c8we.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -700,19 +728,19 @@
       "user": "caseyf7"
     },
     {
-      "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "url": "https://github.com/anthropics/commerce-agents",
-      "published_at": "2026-09-01T12:30:12Z",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "title": "adtexterry-lgtm/unigit-ecosystem - UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "published_at": "2026-09-02T10:08:01Z",
+      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 2390,
-      "user": "anthropics"
+      "stars": 323,
+      "user": "adtexterry-lgtm"
     },
     {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
@@ -726,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1782,
       "user": "Rion-Wu-tech"
     },
     {
@@ -741,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1169,
       "user": "pierrenade"
     },
     {
@@ -756,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 810,
       "user": "EverettFish"
     },
     {
@@ -775,6 +803,21 @@
       "user": "nahrek"
     },
     {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 371,
+      "user": "op7418"
+    },
+    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -786,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 458,
       "user": "okf-memory"
     },
     {
@@ -816,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4646,
+      "stars": 4660,
       "user": "lnkiai"
     },
     {
@@ -831,23 +874,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 673,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "BoardUI/boardui - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-      "url": "https://github.com/BoardUI/boardui",
-      "published_at": "2026-09-01T23:26:56Z",
-      "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "BoardUI"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -861,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "inclusionAI"
     },
     {
@@ -876,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 161,
       "user": "flectar"
     },
     {
@@ -906,21 +934,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "pushcx"
-    },
-    {
-      "title": "TransitionGroup smooth move causing container height to decrease",
-      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
-      "published_at": "2026-09-05T06:11:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "css",
-        "vue.js",
-        "vuejs-transition-group"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Player Possum"
     },
     {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
@@ -1178,6 +1191,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
+      "published_at": "2026-09-03T17:31:52Z",
+      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
       "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
       "published_at": "2026-08-16T13:31:22Z",
@@ -1328,21 +1356,6 @@
       "user": "velmu"
     },
     {
-      "title": "yczz/oc-english - 养成类游戏英语学习",
-      "url": "https://github.com/yczz/oc-english",
-      "published_at": "2026-09-01T23:45:27Z",
-      "description": "养成类游戏英语学习",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
-      "source": "GitHub",
-      "stars": 848,
-      "user": "yczz"
-    },
-    {
       "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
       "url": "https://github.com/ahujasid/camera-to-blender",
       "published_at": "2026-09-03T10:34:30Z",
@@ -1354,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 659,
       "user": "ahujasid"
     },
     {
@@ -1369,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "KJGX66F"
     },
     {
@@ -1384,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "PhiloLabs"
     },
     {
@@ -1403,6 +1416,21 @@
       "user": "byJoey"
     },
     {
+      "title": "adtexterry-lgtm/unigit-ecosystem - UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "published_at": "2026-09-02T10:08:01Z",
+      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "adtexterry-lgtm"
+    },
+    {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "published_at": "2026-09-07T00:41:18Z",
@@ -1414,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 810,
       "user": "EverettFish"
     },
     {
@@ -1429,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4646,
+      "stars": 4660,
       "user": "lnkiai"
     },
     {
@@ -1444,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1987,
+      "stars": 2011,
       "user": "ashemag"
     },
     {
@@ -1459,23 +1487,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 673,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "BoardUI/boardui - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-      "url": "https://github.com/BoardUI/boardui",
-      "published_at": "2026-09-01T23:26:56Z",
-      "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "BoardUI"
     },
     {
       "title": "Mantitup-Org/vista - GitHub Repository",
@@ -1489,8 +1502,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 355,
       "user": "Mantitup-Org"
+    },
+    {
+      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "published_at": "2026-09-05T06:38:46Z",
+      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "Appllama"
     },
     {
       "title": "Two Tiny Utils for the Result Pattern",
@@ -1508,7 +1536,7 @@
       "title": "Pass Websocket from server side to client side",
       "url": "https://stackoverflow.com/questions/80001435/pass-websocket-from-server-side-to-client-side",
       "published_at": "2026-09-07T14:54:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "node.js"
@@ -1574,21 +1602,6 @@
       "user": "AncientSwordRage"
     },
     {
-      "title": "TransitionGroup smooth move causing container height to decrease",
-      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
-      "published_at": "2026-09-05T06:11:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "css",
-        "vue.js",
-        "vuejs-transition-group"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Player Possum"
-    },
-    {
       "title": "javascript accessing object value or name",
       "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
       "published_at": "2026-09-04T15:18:25.000Z",
@@ -1643,6 +1656,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "zack_falcon"
+    },
+    {
+      "title": "How to preload images in React.js?",
+      "url": "https://stackoverflow.com/questions/42615556/how-to-preload-images-in-react-js",
+      "published_at": "2017-03-05T23:59:20.000Z",
+      "description": "Stack Overflow question · 18 answers · score 72",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ľubom&#237;r"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1828,21 +1854,6 @@
       "user": "arathore"
     },
     {
-      "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "url": "https://github.com/anthropics/commerce-agents",
-      "published_at": "2026-09-01T12:30:12Z",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
-      "source": "GitHub",
-      "stars": 2390,
-      "user": "anthropics"
-    },
-    {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "published_at": "2026-09-04T15:00:53Z",
@@ -1854,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1782,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1869,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1169,
       "user": "pierrenade"
     },
     {
@@ -1884,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 810,
       "user": "EverettFish"
     },
     {
@@ -1901,6 +1912,21 @@
       "source": "GitHub",
       "stars": 621,
       "user": "nahrek"
+    },
+    {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 371,
+      "user": "op7418"
     },
     {
       "title": "Python Iceberg",
@@ -2014,20 +2040,6 @@
       "user": "Hasnain Ali"
     },
     {
-      "title": "why can i not install pygame on the vs developer powershell",
-      "url": "https://stackoverflow.com/questions/80001204/why-can-i-not-install-pygame-on-the-vs-developer-powershell",
-      "published_at": "2026-09-06T17:14:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "pip",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "CleanReptile228"
-    },
-    {
       "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
       "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
       "published_at": "2026-09-05T20:20:42.000Z",
@@ -2041,6 +2053,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "k-L-a"
+    },
+    {
+      "title": "why can i not install pygame on the vs developer powershell",
+      "url": "https://stackoverflow.com/questions/80001204/why-can-i-not-install-pygame-on-the-vs-developer-powershell",
+      "published_at": "2026-09-06T17:14:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "pip",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CleanReptile228"
     },
     {
       "title": "Pygbag: NotImplementedError: set_timer is not implemented on WASM yet",
@@ -2353,21 +2379,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "neil"
-    },
-    {
-      "title": "TransitionGroup smooth move causing container height to decrease",
-      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
-      "published_at": "2026-09-05T06:11:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "css",
-        "vue.js",
-        "vuejs-transition-group"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Player Possum"
     }
   ],
   "Mobile": [
@@ -2432,6 +2443,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
+      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
+      "published_at": "2026-09-03T17:31:52Z",
+      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
       "url": "https://github.com/icodesign/remote-installer",
       "published_at": "2026-09-02T10:47:41Z",
@@ -2448,21 +2474,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-      "published_at": "2026-09-03T15:24:18Z",
-      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
-      "tags": [
-        "discuss",
-        "aws",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
     {
       "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
       "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
@@ -2566,6 +2577,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
+      "published_at": "2026-09-03T15:24:18Z",
+      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
+      "tags": [
+        "discuss",
+        "aws",
+        "beginners",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
@@ -2727,7 +2753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "KJGX66F"
     },
     {
@@ -2801,7 +2827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 458,
       "user": "okf-memory"
     },
     {
@@ -3023,7 +3049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "Apeireth"
     },
     {
@@ -3185,21 +3211,6 @@
       "user": "pabs3"
     },
     {
-      "title": "yczz/oc-english - 养成类游戏英语学习",
-      "url": "https://github.com/yczz/oc-english",
-      "published_at": "2026-09-01T23:45:27Z",
-      "description": "养成类游戏英语学习",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8897432?v=4",
-      "source": "GitHub",
-      "stars": 848,
-      "user": "yczz"
-    },
-    {
       "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
       "url": "https://github.com/ahujasid/camera-to-blender",
       "published_at": "2026-09-03T10:34:30Z",
@@ -3211,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 659,
       "user": "ahujasid"
     },
     {
@@ -3226,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "KJGX66F"
     },
     {
@@ -3241,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "PhiloLabs"
     },
     {
@@ -3260,19 +3271,19 @@
       "user": "byJoey"
     },
     {
-      "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "url": "https://github.com/anthropics/commerce-agents",
-      "published_at": "2026-09-01T12:30:12Z",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "title": "adtexterry-lgtm/unigit-ecosystem - UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+      "published_at": "2026-09-02T10:08:01Z",
+      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 2390,
-      "user": "anthropics"
+      "stars": 323,
+      "user": "adtexterry-lgtm"
     },
     {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
@@ -3286,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1782,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3301,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1169,
       "user": "pierrenade"
     },
     {
@@ -3316,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 810,
       "user": "EverettFish"
     },
     {
@@ -3335,6 +3346,21 @@
       "user": "nahrek"
     },
     {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 371,
+      "user": "op7418"
+    },
+    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -3346,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 458,
       "user": "okf-memory"
     },
     {
@@ -3376,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "Adytm404"
     },
     {
@@ -3421,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4646,
+      "stars": 4660,
       "user": "lnkiai"
     },
     {
@@ -3436,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 1987,
+      "stars": 2011,
       "user": "ashemag"
     },
     {
@@ -3451,23 +3477,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 673,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "BoardUI/boardui - React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-      "url": "https://github.com/BoardUI/boardui",
-      "published_at": "2026-09-01T23:26:56Z",
-      "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/323819593?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "BoardUI"
     },
     {
       "title": "Mantitup-Org/vista - GitHub Repository",
@@ -3481,8 +3492,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 355,
       "user": "Mantitup-Org"
+    },
+    {
+      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "published_at": "2026-09-05T06:38:46Z",
+      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "Appllama"
     },
     {
       "title": "inclusionAI/Choruz - GitHub Repository",
@@ -3496,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "inclusionAI"
     },
     {
@@ -3526,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 161,
       "user": "flectar"
     },
     {
@@ -3541,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "Apeireth"
     },
     {
