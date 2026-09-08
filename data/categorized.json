@@ -31,21 +31,6 @@
       "user": "Fayaz"
     },
     {
-      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
-      "published_at": "2026-09-04T09:24:10Z",
-      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
-      "tags": [
-        "ai",
-        "agents",
-        "software",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
       "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
       "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
       "published_at": "2026-09-06T16:51:54Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
+      "published_at": "2026-09-04T09:24:10Z",
+      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "tags": [
+        "ai",
+        "agents",
+        "software",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
+      "source": "Dev.to",
+      "user": "ujja"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -560,6 +560,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -739,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 418,
       "user": "adtexterry-lgtm"
     },
     {
@@ -754,23 +769,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1896,
+      "stars": 1915,
       "user": "Rion-Wu-tech"
-    },
-    {
-      "title": "pierrenade/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "url": "https://github.com/pierrenade/short-video-generator-AI",
-      "published_at": "2026-09-05T11:55:18Z",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
-      "source": "GitHub",
-      "stars": 1208,
-      "user": "pierrenade"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -784,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1068,
       "user": "EverettFish"
     },
     {
@@ -803,6 +803,21 @@
       "user": "nahrek"
     },
     {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "op7418"
+    },
+    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -814,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 482,
       "user": "okf-memory"
     },
     {
@@ -844,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4846,
+      "stars": 4999,
       "user": "lnkiai"
     },
     {
@@ -859,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 1277,
       "user": "Albert-Weasker"
     },
     {
@@ -874,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 421,
       "user": "inclusionAI"
     },
     {
@@ -889,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "flectar"
     },
     {
@@ -904,21 +919,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "icodesign"
     },
     {
-      "title": "What are you using as a task manager and as a people manager?",
-      "url": "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as",
-      "published_at": "2026-09-07T19:50:16.588-05:00",
-      "description": "What’s your tool or method for your daily and then more open tasks? How do you stay on top of everything at work and at home? A program, pen and paper, just your head like Aristotle?\r\n\r\nHow do you keep up with your work contacts and friends? I feel this is tasks related as one must remember to keep up with people as well but these tasks rarely enter task manager spaces.",
+      "title": "Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "published_at": "2026-09-08T03:14:40.000-05:00",
+      "description": "Tristan's original post, which includes links to the proofs themselves: https://mastodon.social/@tristanbuckmaster/117233413705701198",
       "tags": [
-        "ask",
-        "philosophy"
+        "math",
+        "pdf",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "oceanhaiyang"
+      "user": "pie_flavor"
+    },
+    {
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "published_at": "2026-09-08T04:24:16.963-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "freddyb"
     },
     {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
@@ -933,6 +961,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GEO"
+    },
+    {
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "published_at": "2026-09-08T13:00:00.000Z",
+      "description": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+      "tags": [
+        "Startups",
+        "Transportation",
+        "Fundraising",
+        "Exclusive",
+        "poseidon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "published_at": "2026-09-08T09:00:00.000Z",
+      "description": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+      "tags": [
+        "Fundraising",
+        "Space",
+        "rockets",
+        "SpaceX",
+        "stoke space"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor crunch",
@@ -1037,37 +1097,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "published_at": "2026-09-05T22:49:55.000Z",
-      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "In Brief",
-        "Microsoft",
-        "Newsday"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "published_at": "2026-09-05T19:35:24.000Z",
-      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "tags": [
-        "AI",
-        "gemini",
-        "Google",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -1340,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 765,
       "user": "ahujasid"
     },
     {
@@ -1355,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 657,
       "user": "KJGX66F"
     },
     {
@@ -1370,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 498,
       "user": "byJoey"
     },
     {
@@ -1385,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "PhiloLabs"
     },
     {
@@ -1400,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 418,
       "user": "adtexterry-lgtm"
     },
     {
@@ -1415,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1068,
       "user": "EverettFish"
     },
     {
@@ -1430,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4846,
+      "stars": 4999,
       "user": "lnkiai"
     },
     {
@@ -1445,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2235,
+      "stars": 2333,
       "user": "ashemag"
     },
     {
@@ -1460,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 1277,
       "user": "Albert-Weasker"
     },
     {
@@ -1475,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 442,
       "user": "Mantitup-Org"
     },
     {
@@ -1492,6 +1521,32 @@
       "source": "GitHub",
       "stars": 265,
       "user": "Appllama"
+    },
+    {
+      "title": "How to set a value of html text element with javascript",
+      "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
+      "published_at": "2026-09-08T12:14:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Friedrich Novak"
+    },
+    {
+      "title": "string() function doesn't work in document.evaluate",
+      "url": "https://stackoverflow.com/questions/80001644/string-function-doesnt-work-in-document-evaluate",
+      "published_at": "2026-09-08T11:55:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "xpath"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Melab"
     },
     {
       "title": "Pass Websocket from server side to client side",
@@ -1533,20 +1588,6 @@
       "user": "wadskays26"
     },
     {
-      "title": "Can pnpm be configured so I can optionally run with a 'cutting edge dependency' while I'm working on a branch?",
-      "url": "https://stackoverflow.com/questions/80001156/can-pnpm-be-configured-so-i-can-optionally-run-with-a-cutting-edge-dependency",
-      "published_at": "2026-09-06T10:56:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "dependencies",
-        "pnpm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AncientSwordRage"
-    },
-    {
       "title": "javascript accessing object value or name",
       "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
       "published_at": "2026-09-04T15:18:25.000Z",
@@ -1558,6 +1599,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JKomp"
+    },
+    {
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "apollo-server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
     },
     {
       "title": "How to set persistent values for a TM userscript from elements on the page the script is running in?",
@@ -1591,19 +1646,6 @@
       "user": "Ben"
     },
     {
-      "title": "Get the element with the highest occurrence in an array",
-      "url": "https://stackoverflow.com/questions/1053843/get-the-element-with-the-highest-occurrence-in-an-array",
-      "published_at": "2009-06-27T23:14:43.000Z",
-      "description": "Stack Overflow question · 46 answers · score 129",
-      "tags": [
-        "javascript",
-        "mode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "vise"
-    },
-    {
       "title": "Rerouting to new page with parameters and fetching from API results in API fetch loop",
       "url": "https://stackoverflow.com/questions/79756559/rerouting-to-new-page-with-parameters-and-fetching-from-api-results-in-api-fetch",
       "published_at": "2025-09-05T08:34:06.000Z",
@@ -1616,19 +1658,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "zack_falcon"
-    },
-    {
-      "title": "How to preload images in React.js?",
-      "url": "https://stackoverflow.com/questions/42615556/how-to-preload-images-in-react-js",
-      "published_at": "2017-03-05T23:59:20.000Z",
-      "description": "Stack Overflow question · 18 answers · score 73",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ľubom&#237;r"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -1857,23 +1886,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1896,
+      "stars": 1915,
       "user": "Rion-Wu-tech"
-    },
-    {
-      "title": "pierrenade/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "url": "https://github.com/pierrenade/short-video-generator-AI",
-      "published_at": "2026-09-05T11:55:18Z",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
-      "source": "GitHub",
-      "stars": 1208,
-      "user": "pierrenade"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -1887,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1068,
       "user": "EverettFish"
     },
     {
@@ -1917,14 +1931,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 525,
       "user": "kajisho5"
+    },
+    {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "op7418"
+    },
+    {
+      "title": "World generation visual glitch",
+      "url": "https://stackoverflow.com/questions/80001652/world-generation-visual-glitch",
+      "published_at": "2026-09-08T12:17:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "streamz gamer"
     },
     {
       "title": "Type hint a default return type used unless more specific overload exists",
       "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
       "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "python",
         "python-typing"
@@ -1937,7 +1979,7 @@
       "title": "Documentation of pandas DataFrame.replace with series as input",
       "url": "https://stackoverflow.com/questions/80001493/documentation-of-pandas-dataframe-replace-with-series-as-input",
       "published_at": "2026-09-07T20:00:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "pandas",
@@ -2043,40 +2085,9 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "CleanReptile228"
-    },
-    {
-      "title": "Pygbag: NotImplementedError: set_timer is not implemented on WASM yet",
-      "url": "https://stackoverflow.com/questions/80001158/pygbag-notimplementederror-set-timer-is-not-implemented-on-wasm-yet",
-      "published_at": "2026-09-06T11:11:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "python-3.x",
-        "pygame",
-        "webassembly",
-        "pygbag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rubinosław"
     }
   ],
   "DevOps": [
-    {
-      "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
-      "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo",
-      "published_at": "2026-08-28T11:28:35Z",
-      "description": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
-      "tags": [
-        "gubernator",
-        "docker",
-        "antigravity",
-        "orquestador"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftit6xe2xjosdrrja6dkc.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
@@ -2328,6 +2339,19 @@
       "user": "velmu"
     },
     {
+      "title": "How to set a value of html text element with javascript",
+      "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
+      "published_at": "2026-09-08T12:14:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Friedrich Novak"
+    },
+    {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
@@ -2445,26 +2469,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "icodesign"
     }
   ],
   "Cloud": [
-    {
-      "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
-      "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
-      "published_at": "2026-09-06T07:35:05Z",
-      "description": "Turn Google Sheets into a Petabyte Lakehouse with Sub-Second ACID Queries.             ...",
-      "tags": [
-        "googleworkspace",
-        "googlecloud",
-        "bigquery",
-        "apacheiceberg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq3o7rjtqj3wecjfjtxe8.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
@@ -2508,6 +2517,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
+      "published_at": "2026-09-03T15:24:18Z",
+      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
+      "tags": [
+        "discuss",
+        "aws",
+        "beginners",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
@@ -2555,19 +2579,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-      "published_at": "2026-09-03T15:24:18Z",
-      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
+      "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
+      "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
+      "published_at": "2026-09-06T07:35:05Z",
+      "description": "Turn Google Sheets into a Petabyte Lakehouse with Sub-Second ACID Queries.             ...",
       "tags": [
-        "discuss",
-        "aws",
-        "beginners",
-        "agents"
+        "googleworkspace",
+        "googlecloud",
+        "bigquery",
+        "apacheiceberg"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq3o7rjtqj3wecjfjtxe8.png",
       "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
+      "user": "Tanaike"
     },
     {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
@@ -2729,7 +2753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 657,
       "user": "KJGX66F"
     },
     {
@@ -2744,7 +2768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 498,
       "user": "byJoey"
     },
     {
@@ -2847,8 +2871,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 482,
       "user": "okf-memory"
+    },
+    {
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "apollo-server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
     },
     {
       "title": "Problems with getting variables via lifespan context manager in Fastapi",
@@ -2927,6 +2965,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3072,20 +3125,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 112,
       "user": "Apeireth"
-    },
-    {
-      "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "published_at": "2026-09-07T23:05:34.645-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "zg"
     },
     {
       "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
@@ -3196,6 +3237,21 @@
       "user": "Bojan Tomic"
     },
     {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3243,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 765,
       "user": "ahujasid"
     },
     {
@@ -3258,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 657,
       "user": "KJGX66F"
     },
     {
@@ -3273,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 498,
       "user": "byJoey"
     },
     {
@@ -3288,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "PhiloLabs"
     },
     {
@@ -3303,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 418,
       "user": "adtexterry-lgtm"
     },
     {
@@ -3318,23 +3374,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1896,
+      "stars": 1915,
       "user": "Rion-Wu-tech"
-    },
-    {
-      "title": "pierrenade/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "url": "https://github.com/pierrenade/short-video-generator-AI",
-      "published_at": "2026-09-05T11:55:18Z",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
-      "source": "GitHub",
-      "stars": 1208,
-      "user": "pierrenade"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -3348,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1068,
       "user": "EverettFish"
     },
     {
@@ -3378,8 +3419,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 525,
       "user": "kajisho5"
+    },
+    {
+      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "url": "https://github.com/op7418/guizang-yingzao-skill",
+      "published_at": "2026-09-02T11:54:57Z",
+      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "op7418"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3393,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 482,
       "user": "okf-memory"
     },
     {
@@ -3468,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4846,
+      "stars": 4999,
       "user": "lnkiai"
     },
     {
@@ -3483,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2235,
+      "stars": 2333,
       "user": "ashemag"
     },
     {
@@ -3498,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 1277,
       "user": "Albert-Weasker"
     },
     {
@@ -3513,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 442,
       "user": "Mantitup-Org"
     },
     {
@@ -3543,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 421,
       "user": "inclusionAI"
     },
     {
@@ -3558,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 274,
       "user": "what1f"
     },
     {
@@ -3573,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "flectar"
     },
     {
@@ -3588,7 +3644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 112,
       "user": "Apeireth"
     },
     {
@@ -3603,21 +3659,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "icodesign"
     },
     {
-      "title": "What are you using as a task manager and as a people manager?",
-      "url": "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as",
-      "published_at": "2026-09-07T19:50:16.588-05:00",
-      "description": "What’s your tool or method for your daily and then more open tasks? How do you stay on top of everything at work and at home? A program, pen and paper, just your head like Aristotle?\r\n\r\nHow do you keep up with your work contacts and friends? I feel this is tasks related as one must remember to keep up with people as well but these tasks rarely enter task manager spaces.",
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "ask",
-        "philosophy"
+        "javascript",
+        "postgresql",
+        "apollo-server"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "oceanhaiyang"
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
     },
     {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
