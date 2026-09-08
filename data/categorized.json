@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "Interactive AI Eval Dashboards with Data Studio",
+      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
+      "published_at": "2026-09-08T07:00:00Z",
+      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
+      "tags": [
+        "ai",
+        "datascience",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
+    {
+      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
+      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
+      "published_at": "2026-09-08T05:06:23Z",
+      "description": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
+      "tags": [
+        "googleworkspace",
+        "googlecloud",
+        "bigquery",
+        "apacheiceberg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
       "published_at": "2026-09-03T06:44:57Z",
@@ -29,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
       "source": "Dev.to",
       "user": "Fayaz"
-    },
-    {
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
-      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
-      "published_at": "2026-09-06T16:51:54Z",
-      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
@@ -147,6 +162,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
+      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
+      "published_at": "2026-09-06T16:51:54Z",
+      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
@@ -519,62 +549,6 @@
       "user": "Jan-Felix Schmakeit"
     },
     {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
-      "title": "Your First Multi-agent system: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-multi-agent-system-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-48jp",
-      "published_at": "2026-09-03T15:53:27Z",
-      "description": "Welcome back to our series on building the ultimate AI research assistant for our AI agent podcast!...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futj3kk2aykjj8hq68qmi.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "[AI in Practice] Building a Dynamic LINE Group Buying Bot with Edit and Unsend Webhooks",
-      "url": "https://dev.to/gde/ai-in-practice-building-a-dynamic-line-group-buying-bot-with-edit-and-unsend-webhooks-1clh",
-      "published_at": "2026-09-03T04:27:12Z",
-      "description": "When Messages Can Be Taken Back: Building a \"Shapeshifting\" LINE Group Buying Bot with Edit...",
-      "tags": [
-        "api",
-        "development",
-        "programming",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F33ax9l8y7x22l8g8c8we.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "gatekeeper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -754,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "adtexterry-lgtm"
     },
     {
@@ -769,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1915,
+      "stars": 1932,
       "user": "Rion-Wu-tech"
     },
     {
@@ -784,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1112,
       "user": "EverettFish"
     },
     {
@@ -799,23 +773,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 622,
       "user": "nahrek"
-    },
-    {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
-      "source": "GitHub",
-      "stars": 384,
-      "user": "op7418"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -829,23 +788,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 489,
       "user": "okf-memory"
     },
     {
-      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
-      "url": "https://github.com/gesta-run/subpool",
-      "published_at": "2026-09-02T08:27:21Z",
-      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+      "title": "Stocist/Tailtab - A Tailscale node for each browser profile.",
+      "url": "https://github.com/Stocist/Tailtab",
+      "published_at": "2026-09-03T09:44:17Z",
+      "description": "A Tailscale node for each browser profile.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 70,
-      "user": "gesta-run"
+      "stars": 90,
+      "user": "Stocist"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -859,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4999,
+      "stars": 5124,
       "user": "lnkiai"
     },
     {
@@ -874,7 +833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 2030,
       "user": "Albert-Weasker"
     },
     {
@@ -889,7 +848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 428,
       "user": "inclusionAI"
     },
     {
@@ -904,7 +863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 187,
       "user": "flectar"
     },
     {
@@ -923,32 +882,6 @@
       "user": "icodesign"
     },
     {
-      "title": "Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "published_at": "2026-09-08T03:14:40.000-05:00",
-      "description": "Tristan's original post, which includes links to the proofs themselves: https://mastodon.social/@tristanbuckmaster/117233413705701198",
-      "tags": [
-        "math",
-        "pdf",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pie_flavor"
-    },
-    {
-      "title": "How to get a free .arpa domain",
-      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-      "published_at": "2026-09-08T04:24:16.963-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
-    },
-    {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
       "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
       "published_at": "2026-09-07T02:22:25.000Z",
@@ -963,16 +896,103 @@
       "user": "GEO"
     },
     {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "published_at": "2026-09-08T17:32:15.000Z",
+      "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "tags": [
+        "AI",
+        "mathematics"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "published_at": "2026-09-08T16:20:31.000Z",
+      "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Accenture",
+        "Enterprise AI",
+        "FDE"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "published_at": "2026-09-08T15:25:35.000Z",
+      "description": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+      "tags": [
+        "Climate",
+        "Google",
+        "NextEra Energy",
+        "nuclear power"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "published_at": "2026-09-08T15:04:09.000Z",
+      "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "tags": [
+        "Security",
+        "AI",
+        "Chrome"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "published_at": "2026-09-08T14:17:48.000Z",
+      "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "tags": [
+        "AI",
+        "Mistral AI",
+        "Samsung Electronics"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+      "published_at": "2026-09-08T14:10:17.000Z",
+      "description": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "bluecore",
+        "nuclear energy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
       "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
       "published_at": "2026-09-08T13:00:00.000Z",
       "description": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
       "tags": [
+        "Fundraising",
         "Startups",
         "Transportation",
-        "Fundraising",
-        "Exclusive",
-        "poseidon"
+        "airborne cargo",
+        "autonomous aircraft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1008,95 +1028,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published_at": "2026-09-07T19:24:00.000Z",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "tags": [
-        "AI",
-        "artificial intelligence",
-        "evergreens",
-        "Glossary"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek"
-    },
-    {
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-      "published_at": "2026-09-07T18:02:29.000Z",
-      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-      "tags": [
-        "Media & Entertainment",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "What we expect from the upcoming Apple launch",
-      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-      "published_at": "2026-09-07T15:58:00.000Z",
-      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-      "tags": [
-        "Hardware",
-        "Apple",
-        "iPhone"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "published_at": "2026-09-06T20:47:37.000Z",
-      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Anthropic",
-        "copyright infringement"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "published_at": "2026-09-06T16:45:00.000Z",
-      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "tags": [
-        "AI",
-        "Startups",
-        "Transportation",
-        "atoms",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "published_at": "2026-09-06T16:08:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "Transportation",
-        "Tesla",
-        "robotaxi",
-        "techcrunch mobility",
-        "cybercab"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -1369,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 770,
       "user": "ahujasid"
     },
     {
@@ -1384,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 670,
       "user": "KJGX66F"
     },
     {
@@ -1399,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 507,
       "user": "byJoey"
     },
     {
@@ -1429,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "adtexterry-lgtm"
     },
     {
@@ -1444,8 +1375,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1112,
       "user": "EverettFish"
+    },
+    {
+      "title": "Stocist/Tailtab - A Tailscale node for each browser profile.",
+      "url": "https://github.com/Stocist/Tailtab",
+      "published_at": "2026-09-03T09:44:17Z",
+      "description": "A Tailscale node for each browser profile.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "Stocist"
     },
     {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
@@ -1459,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4999,
+      "stars": 5124,
       "user": "lnkiai"
     },
     {
@@ -1474,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2333,
+      "stars": 2404,
       "user": "ashemag"
     },
     {
@@ -1489,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 2030,
       "user": "Albert-Weasker"
     },
     {
@@ -1504,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 551,
       "user": "Mantitup-Org"
     },
     {
@@ -1519,14 +1465,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "Appllama"
+    },
+    {
+      "title": "localStorage data is removed when opening a Bootstrap modal",
+      "url": "https://stackoverflow.com/questions/80001710/localstorage-data-is-removed-when-opening-a-bootstrap-modal",
+      "published_at": "2026-09-08T16:37:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "jquery",
+        "laravel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shadir Amjard"
     },
     {
       "title": "How to set a value of html text element with javascript",
       "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
       "published_at": "2026-09-08T12:14:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html"
@@ -1539,7 +1499,7 @@
       "title": "string() function doesn't work in document.evaluate",
       "url": "https://stackoverflow.com/questions/80001644/string-function-doesnt-work-in-document-evaluate",
       "published_at": "2026-09-08T11:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "xpath"
@@ -1588,23 +1548,10 @@
       "user": "wadskays26"
     },
     {
-      "title": "javascript accessing object value or name",
-      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
-      "published_at": "2026-09-04T15:18:25.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
-      "tags": [
-        "javascript",
-        "javascript-objects"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JKomp"
-    },
-    {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
       "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
       "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "postgresql",
@@ -1709,6 +1656,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+      "published_at": "2026-09-07T22:31:01Z",
+      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
+      "tags": [
+        "docker",
+        "googlecloud",
+        "python",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3c3vtadwae55ojkojtgs.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
     {
       "title": "Cross Cloud A2A Agent Card Field Comparison",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
@@ -1886,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1915,
+      "stars": 1932,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1901,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1112,
       "user": "EverettFish"
     },
     {
@@ -1916,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 622,
       "user": "nahrek"
     },
     {
@@ -1931,29 +1893,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 621,
       "user": "kajisho5"
     },
     {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "published_at": "2026-09-05T16:03:06Z",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 384,
-      "user": "op7418"
+      "stars": 390,
+      "user": "donvito"
+    },
+    {
+      "title": "Efficient singular extensions in a Python/Numba chess engine without killing search speed",
+      "url": "https://stackoverflow.com/questions/80001720/efficient-singular-extensions-in-a-python-numba-chess-engine-without-killing-sea",
+      "published_at": "2026-09-08T17:17:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "machine-learning",
+        "artificial-intelligence",
+        "chess"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sandesh"
+    },
+    {
+      "title": "os.path.isfile() does not work with ~ prefix",
+      "url": "https://stackoverflow.com/questions/80001679/os-path-isfile-does-not-work-with-prefix",
+      "published_at": "2026-09-08T14:09:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rundekugel"
     },
     {
       "title": "World generation visual glitch",
       "url": "https://stackoverflow.com/questions/80001652/world-generation-visual-glitch",
       "published_at": "2026-09-08T12:17:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "pygame"
@@ -1961,19 +1950,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "streamz gamer"
-    },
-    {
-      "title": "Type hint a default return type used unless more specific overload exists",
-      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
-      "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "schtandard"
     },
     {
       "title": "Documentation of pandas DataFrame.replace with series as input",
@@ -1988,6 +1964,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33098110"
+    },
+    {
+      "title": "Type hint a default return type used unless more specific overload exists",
+      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
+      "published_at": "2026-09-07T14:58:51.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "schtandard"
     },
     {
       "title": "How to deal with implicit transformation into parent type when using a TypeVar?",
@@ -2056,38 +2045,24 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hasnain Ali"
-    },
-    {
-      "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
-      "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
-      "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -8",
-      "tags": [
-        "python",
-        "testing",
-        "pytest",
-        "static-analysis"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "k-L-a"
-    },
-    {
-      "title": "why can i not install pygame on the vs developer powershell",
-      "url": "https://stackoverflow.com/questions/80001204/why-can-i-not-install-pygame-on-the-vs-developer-powershell",
-      "published_at": "2026-09-06T17:14:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "pip",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "CleanReptile228"
     }
   ],
   "DevOps": [
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+      "published_at": "2026-09-07T22:31:01Z",
+      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
+      "tags": [
+        "docker",
+        "googlecloud",
+        "python",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3c3vtadwae55ojkojtgs.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
@@ -2314,19 +2289,6 @@
       "user": "Giorgi Kobaidze"
     },
     {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2342,7 +2304,7 @@
       "title": "How to set a value of html text element with javascript",
       "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
       "published_at": "2026-09-08T12:14:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html"
@@ -2474,6 +2436,51 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+      "published_at": "2026-09-07T22:31:01Z",
+      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
+      "tags": [
+        "docker",
+        "googlecloud",
+        "python",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3c3vtadwae55ojkojtgs.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
+      "url": "https://dev.to/gde/bidirectional-writeback-for-apache-iceberg-via-google-sheets-serverless-lakehouse-console-14ic",
+      "published_at": "2026-09-08T06:41:28Z",
+      "description": "Turn Google Sheets into a Fully Interactive, Differential ACID Mutation Console for Apache Iceberg...",
+      "tags": [
+        "googleworkspace",
+        "googlecloud",
+        "bigquery",
+        "apacheiceberg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F42gvm5cb8zdcmu22zurn.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
+      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
+      "published_at": "2026-09-08T05:06:23Z",
+      "description": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
+      "tags": [
+        "googleworkspace",
+        "googlecloud",
+        "bigquery",
+        "apacheiceberg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
@@ -2753,7 +2760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 670,
       "user": "KJGX66F"
     },
     {
@@ -2768,20 +2775,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 507,
       "user": "byJoey"
     },
     {
-      "title": "The state of European cloud providers in 2026",
-      "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
-      "published_at": "2026-09-08T02:20:16.336-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "published_at": "2026-09-08T16:20:31.000Z",
+      "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
       "tags": [
-        "scaling"
+        "AI",
+        "Enterprise",
+        "Accenture",
+        "Enterprise AI",
+        "FDE"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "morj"
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -2856,7 +2867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 622,
       "user": "nahrek"
     },
     {
@@ -2871,14 +2882,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 489,
       "user": "okf-memory"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
       "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
       "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "postgresql",
@@ -2965,21 +2976,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "gatekeeper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3125,8 +3121,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "Apeireth"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "published_at": "2026-09-08T15:04:09.000Z",
+      "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "tags": [
+        "Security",
+        "AI",
+        "Chrome"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+      "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+      "published_at": "2026-09-08T14:11:29.000Z",
+      "description": "The latest heist is one of the largest thefts of cryptocurrency to date.",
+      "tags": [
+        "Security",
+        "Bitcoin",
+        "hack",
+        "cybersecurity",
+        "cryptocurrency"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
@@ -3146,6 +3172,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Interactive AI Eval Dashboards with Data Studio",
+      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
+      "published_at": "2026-09-08T07:00:00Z",
+      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
+      "tags": [
+        "ai",
+        "datascience",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
@@ -3237,21 +3278,6 @@
       "user": "Bojan Tomic"
     },
     {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "gatekeeper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3299,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 770,
       "user": "ahujasid"
     },
     {
@@ -3314,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 670,
       "user": "KJGX66F"
     },
     {
@@ -3329,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 507,
       "user": "byJoey"
     },
     {
@@ -3359,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "adtexterry-lgtm"
     },
     {
@@ -3374,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1915,
+      "stars": 1932,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3389,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1112,
       "user": "EverettFish"
     },
     {
@@ -3404,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 622,
       "user": "nahrek"
     },
     {
@@ -3419,23 +3445,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 621,
       "user": "kajisho5"
     },
     {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "published_at": "2026-09-05T16:03:06Z",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 384,
-      "user": "op7418"
+      "stars": 390,
+      "user": "donvito"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3449,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 489,
       "user": "okf-memory"
     },
     {
@@ -3464,8 +3490,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "Adytm404"
+    },
+    {
+      "title": "Stocist/Tailtab - A Tailscale node for each browser profile.",
+      "url": "https://github.com/Stocist/Tailtab",
+      "published_at": "2026-09-03T09:44:17Z",
+      "description": "A Tailscale node for each browser profile.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "Stocist"
     },
     {
       "title": "chrisgreg/glance - A tiny, self-hosted web analytics service. ",
@@ -3498,21 +3539,6 @@
       "user": "pgrundev"
     },
     {
-      "title": "gesta-run/subpool -   A lightweight, self-hosted AI subscription pool for teams.",
-      "url": "https://github.com/gesta-run/subpool",
-      "published_at": "2026-09-02T08:27:21Z",
-      "description": "  A lightweight, self-hosted AI subscription pool for teams.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
-      "source": "GitHub",
-      "stars": 70,
-      "user": "gesta-run"
-    },
-    {
       "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
       "url": "https://github.com/lnkiai/m3e-canvas",
       "published_at": "2026-09-02T04:36:34Z",
@@ -3524,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4999,
+      "stars": 5124,
       "user": "lnkiai"
     },
     {
@@ -3539,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2333,
+      "stars": 2404,
       "user": "ashemag"
     },
     {
@@ -3554,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 1277,
+      "stars": 2030,
       "user": "Albert-Weasker"
     },
     {
@@ -3569,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 551,
       "user": "Mantitup-Org"
     },
     {
@@ -3584,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "Appllama"
     },
     {
@@ -3599,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 428,
       "user": "inclusionAI"
     },
     {
@@ -3614,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "what1f"
     },
     {
@@ -3629,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 187,
       "user": "flectar"
     },
     {
@@ -3644,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "Apeireth"
     },
     {
@@ -3666,7 +3692,7 @@
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
       "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
       "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "postgresql",
@@ -3689,21 +3715,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GEO"
-    },
-    {
-      "title": "Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",
-      "url": "https://stackoverflow.com/questions/80001048/python-discount-function-returns-negative-value-and-passes-all-linters-mypy-ba",
-      "published_at": "2026-09-05T20:20:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -8",
-      "tags": [
-        "python",
-        "testing",
-        "pytest",
-        "static-analysis"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "k-L-a"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
