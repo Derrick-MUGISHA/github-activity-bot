@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-08 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-09 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8) | Dev.to |
 | 20 | [I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things](https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg) | Dev.to |
 
-<sub>Last fetched: Tue, 08 Sep 2026 22:22:26 CAT</sub>
+<sub>Last fetched: Wed, 09 Sep 2026 00:50:53 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
+**1. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Scope, hoisting, and reassignment capabilities
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**2. `Python` — Explain decorators in Python with an example**
+**2. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
-**3. `Python` — Explain decorators in Python with an example**
+**3. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -164,12 +164,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 41.8% | `████████████████████` |
+| **AI** | 78 | 42.4% | `████████████████████` |
 | **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
-| **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
+| **Python** | 29 | 15.8% | `███████░░░░░░░░░░░░░` |
 | **Cloud** | 28 | 15.2% | `███████░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.4%
 JavaScript      ██████████████████████████████ 26.4%
+Go              █████████████████████████████ 25.7%
 Python          ██████████████████████ 19.6%
 Java            █████████████████████ 18.2%
-Rust            ██████ 5.4%
+Rust            ███████ 6.1%
 Ruby            ██ 1.4%
 Swift           █ 0.7%
 Kotlin          █ 0.7%
@@ -209,11 +209,11 @@ CSharp          █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 39
     "JavaScript" : 39
+    "Go" : 38
     "Python" : 29
     "Java" : 27
-    "Rust" : 8
+    "Rust" : 9
     "Ruby" : 2
     "Swift" : 1
     "Kotlin" : 1
@@ -222,7 +222,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
 
 
 ---
@@ -274,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 08 Sep 2026 20:22:26 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 08 Sep 2026 22:50:53 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
