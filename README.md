@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-174-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-10-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--09--08-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-08 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-08 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8) | Dev.to |
 | 20 | [I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things](https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg) | Dev.to |
 
-<sub>Last fetched: Tue, 08 Sep 2026 19:45:19 CAT</sub>
+<sub>Last fetched: Tue, 08 Sep 2026 22:22:26 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design a distributed cache system**
+**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**2. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Function wrappers, @syntax, practical uses
 
 </details>
 
-**3. `React` — How would you optimize a React app's performance?**
+**3. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 44.3% | `████████████████████` |
-| **JavaScript** | 39 | 22.4% | `██████████░░░░░░░░░░` |
-| **Tools** | 38 | 21.8% | `██████████░░░░░░░░░░` |
-| **Python** | 29 | 16.7% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 27 | 15.5% | `███████░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.8% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 16 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Database** | 7 | 4.0% | `██░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 6 | 3.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **AI** | 77 | 41.8% | `████████████████████` |
+| **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
+| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
+| **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
+| **Cloud** | 28 | 15.2% | `███████░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -185,6 +185,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Dev.to | 60 |
 | HackerNews | 49 |
 | GitHub | 25 |
+| Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
 | freeCodeCamp | 10 |
@@ -193,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.2%
-JavaScript      █████████████████████████████ 26.5%
-Python          ██████████████████████ 19.7%
-Java            ████████████████████ 18.4%
-Rust            █████ 4.1%
+Go              ██████████████████████████████ 26.4%
+JavaScript      ██████████████████████████████ 26.4%
+Python          ██████████████████████ 19.6%
+Java            █████████████████████ 18.2%
+Rust            ██████ 5.4%
 Ruby            ██ 1.4%
 Swift           █ 0.7%
 Kotlin          █ 0.7%
@@ -208,11 +209,11 @@ CSharp          █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 40
+    "Go" : 39
     "JavaScript" : 39
     "Python" : 29
     "Java" : 27
-    "Rust" : 6
+    "Rust" : 8
     "Ruby" : 2
     "Swift" : 1
     "Kotlin" : 1
@@ -221,7 +222,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 08 Sep 2026 17:45:19 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 08 Sep 2026 20:22:26 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
