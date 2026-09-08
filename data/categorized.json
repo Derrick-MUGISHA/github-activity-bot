@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
-      "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
-      "published_at": "2026-09-07T06:37:45Z",
-      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   I built...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
-      "source": "Dev.to",
-      "user": "Fayaz"
-    },
-    {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
       "published_at": "2026-09-03T06:44:57Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fez62u2w0ldk0fec35ytb.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
+      "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
+      "published_at": "2026-09-07T06:37:45Z",
+      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   I built...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "ai",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
+      "source": "Dev.to",
+      "user": "Fayaz"
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 413,
       "user": "adtexterry-lgtm"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1782,
+      "stars": 1863,
       "user": "Rion-Wu-tech"
     },
     {
@@ -769,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1185,
       "user": "pierrenade"
     },
     {
@@ -784,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 925,
       "user": "EverettFish"
     },
     {
@@ -814,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 378,
       "user": "op7418"
     },
     {
@@ -829,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 471,
       "user": "okf-memory"
     },
     {
@@ -844,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "gesta-run"
     },
     {
@@ -859,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4660,
+      "stars": 4759,
       "user": "lnkiai"
     },
     {
@@ -874,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 684,
       "user": "Albert-Weasker"
     },
     {
@@ -889,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 384,
       "user": "inclusionAI"
     },
     {
@@ -904,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 171,
       "user": "flectar"
     },
     {
@@ -923,13 +923,25 @@
       "user": "icodesign"
     },
     {
-      "title": "The Dataflow Model Revisited",
-      "url": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf",
-      "published_at": "2026-09-07T12:11:49.400-05:00",
-      "description": "Abstract\r\n\r\nEleven years ago, the Dataflow Model paper argued that unbounded, out-of-order data was the new normal, and that we must stop waiting for data to ever become complete. It proposed a unified model (windowing, triggers, watermarks, and retractions) for freely trading off correctness, latency, and cost across batch and streaming engines. On the occasion of its VLDB Test of Time award, we grade our own work—a paper about streaming analytics, in truth if not in name—on what aged well, what aged badly, and what we missed. We find the paper’s core foundations largely sound: the primacy of event time, the futility of waiting for completeness, and the insistence on strong consistency aged well. But we got important parts of the analytical interface wrong: (1) we let windowing and triggering, whose semantics were tangled with operational concerns, dominate the exposition beyond their due, (2) triggers were an over-engineered answer to a question users should never have faced, and (3) the stream-centric worldview missed a deeper truth: streams and tables are two representations of the same object with different access semantics. The mechanisms that delivered on the paper’s analytical goals ultimately evolved out of the database playbook: SQL, incremental view maintenance, and materialized views with explicit freshness contracts. We focused too much on the mechanics of streaming instead of finishing what the database community started but never completed: making the complexity of analytical streaming disappear almost entirely. Still, the verdict is not all confession. We explore how the completeness principle split into two successful forms: watermarks (where streams stay visible) and snapshot-consistent refresh (where they do not); we trace why the latter reached far more users by asking far less of them, and generalize the former into declared constraints on change. We also (1) find the batch-versus-streaming debate was mostly semantic, (2) watch low-latency demand bifurcate along the old OLTP/OLAP line, leaving analytics happily at gentler freshness, (3) adopt the framing we wish we had started with (leave in, leave out, push harder), and (4) ponder the eventual disappearance of streaming beyond analytics.",
+      "title": "What are you using as a task manager and as a people manager?",
+      "url": "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as",
+      "published_at": "2026-09-07T19:50:16.588-05:00",
+      "description": "What’s your tool or method for your daily and then more open tasks? How do you stay on top of everything at work and at home? A program, pen and paper, just your head like Aristotle?\r\n\r\nHow do you keep up with your work contacts and friends? I feel this is tasks related as one must remember to keep up with people as well but these tasks rarely enter task manager spaces.",
       "tags": [
-        "databases",
-        "pdf"
+        "ask",
+        "philosophy"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "oceanhaiyang"
+    },
+    {
+      "title": "Hardening Container Images",
+      "url": "https://www.grepular.com/Hardening_Container_Images",
+      "published_at": "2026-09-07T16:39:21.998-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -948,6 +960,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GEO"
+    },
+    {
+      "title": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor crunch",
+      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "published_at": "2026-09-08T02:16:39.000Z",
+      "description": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla ",
+      "tags": [
+        "Real estate",
+        "TC",
+        "Eric Wu",
+        "OpenDoor"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -1070,18 +1097,52 @@
       "user": "Anthony Ha"
     },
     {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "published_at": "2026-09-05T18:05:27.000Z",
-      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/",
+      "published_at": "2026-09-07T22:35:39.000Z",
+      "description": "A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t",
       "tags": [
         "AI",
-        "Security",
-        "OpenAI"
+        "aitools",
+        "Vercel",
+        "gemini",
+        "chatbot development"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "source": "freeCodeCamp",
+      "user": "Johnson Samuel"
+    },
+    {
+      "title": "How a System Call Actually Works in Linux",
+      "url": "https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/",
+      "published_at": "2026-09-07T22:07:56.000Z",
+      "description": "Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include  #include  #include  int main(void) {     struct timespe",
+      "tags": [
+        "Kernel",
+        "Linux",
+        "Systems Programming",
+        "operating system",
+        "linux kernel"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chris Roy"
+    },
+    {
+      "title": "How to Refactor a Legacy Application Before Migrating It",
+      "url": "https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/",
+      "published_at": "2026-09-07T22:04:51.000Z",
+      "description": "The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud",
+      "tags": [
+        "legacy code",
+        "refactoring",
+        "software architecture",
+        "Software Engineering",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
@@ -1111,67 +1172,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Reetain Raina"
-    },
-    {
-      "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
-      "url": "https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/",
-      "published_at": "2026-09-04T16:13:09.000Z",
-      "description": "A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese",
-      "tags": [
-        "Developer Tools",
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Devops",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
-    },
-    {
-      "title": "Claude Code Observability with OpenTelemetry",
-      "url": "https://www.freecodecamp.org/news/claude-code-observability-with-opentelemetry/",
-      "published_at": "2026-09-04T00:15:51.000Z",
-      "description": "Agentic coding tools like Claude Code, OpenAI Codex, Google Antigravity, and Cursor have become ubiquitous for everyday software development. As agentic systems mature, much of the work developers hav",
-      "tags": [
-        "OpenTelemetry",
-        "claude",
-        "#prometheus",
-        "distributed tracing",
-        "observability"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Puneet Singh"
-    },
-    {
-      "title": "How to Build AI Systems That Know When They Don't Know: A Practical Guide",
-      "url": "https://www.freecodecamp.org/news/how-to-build-ai-systems-that-know-when-they-don-t-know/",
-      "published_at": "2026-09-03T18:09:36.000Z",
-      "description": "Large Language Models (LLMs) have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can synthesize complex corporate data, an",
-      "tags": [
-        "Artificial Intelligence",
-        "llm",
-        "large language models",
-        "generative ai",
-        "mlops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chidiebere Njoku"
-    },
-    {
-      "title": "How AI Chips Are Made",
-      "url": "https://www.freecodecamp.org/news/how-ai-chips-are-made/",
-      "published_at": "2026-09-03T15:44:48.000Z",
-      "description": "We just published a comprehensive, first-principles course on the semiconductor supply chain on the freeCodeCamp.org YouTube channel. Taught by hardware specialist Kian Kyars, this deep dive explains",
-      "tags": [
-        "ai chips",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
@@ -1367,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 715,
       "user": "ahujasid"
     },
     {
@@ -1382,23 +1382,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 623,
       "user": "KJGX66F"
-    },
-    {
-      "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "published_at": "2026-09-02T18:19:55Z",
-      "description": "worlds via code, from fable 5.1",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
-      "source": "GitHub",
-      "stars": 465,
-      "user": "PhiloLabs"
     },
     {
       "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
@@ -1412,8 +1397,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 469,
       "user": "byJoey"
+    },
+    {
+      "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "published_at": "2026-09-02T18:19:55Z",
+      "description": "worlds via code, from fable 5.1",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
+      "source": "GitHub",
+      "stars": 466,
+      "user": "PhiloLabs"
     },
     {
       "title": "adtexterry-lgtm/unigit-ecosystem - UNIGIT public brand and ecosystem hub — AI should work for everyone.",
@@ -1427,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 413,
       "user": "adtexterry-lgtm"
     },
     {
@@ -1442,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 925,
       "user": "EverettFish"
     },
     {
@@ -1457,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4660,
+      "stars": 4759,
       "user": "lnkiai"
     },
     {
@@ -1472,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2011,
+      "stars": 2103,
       "user": "ashemag"
     },
     {
@@ -1487,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 684,
       "user": "Albert-Weasker"
     },
     {
@@ -1502,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 367,
       "user": "Mantitup-Org"
     },
     {
@@ -1517,7 +1517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "Appllama"
     },
     {
@@ -1570,22 +1570,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "wadskays26"
-    },
-    {
-      "title": "How to customize sony dualshock 2 via node-hid",
-      "url": "https://stackoverflow.com/questions/80001162/how-to-customize-sony-dualshock-2-via-node-hid",
-      "published_at": "2026-09-06T11:41:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "node.js",
-        "model-view-controller",
-        "joystick",
-        "piano"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Saeed"
     },
     {
       "title": "Can pnpm be configured so I can optionally run with a 'cutting edge dependency' while I'm working on a branch?",
@@ -1661,7 +1645,7 @@
       "title": "How to preload images in React.js?",
       "url": "https://stackoverflow.com/questions/42615556/how-to-preload-images-in-react-js",
       "published_at": "2017-03-05T23:59:20.000Z",
-      "description": "Stack Overflow question · 18 answers · score 72",
+      "description": "Stack Overflow question · 18 answers · score 73",
       "tags": [
         "javascript",
         "reactjs"
@@ -1669,6 +1653,52 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ľubom&#237;r"
+    },
+    {
+      "title": "Memory Leak in Next.js Application – How to Diagnose and Fix?",
+      "url": "https://stackoverflow.com/questions/79166826/memory-leak-in-next-js-application-how-to-diagnose-and-fix",
+      "published_at": "2024-11-07T14:10:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "next.js",
+        "memory-leaks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ігор"
+    },
+    {
+      "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
+      "url": "https://www.freecodecamp.org/news/gamepad-api-javascript-guide/",
+      "published_at": "2026-09-07T22:39:45.000Z",
+      "description": "The Gamepad API is one of the smallest browser APIs you'll ever use. Four properties, one function, and no permissions prompt. You can have a controller drawn on screen in about fifteen lines. Those f",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "Browsers",
+        "APIs",
+        "Game Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "taimoor bamazai"
+    },
+    {
+      "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/",
+      "published_at": "2026-09-07T22:35:39.000Z",
+      "description": "A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t",
+      "tags": [
+        "AI",
+        "aitools",
+        "Vercel",
+        "gemini",
+        "chatbot development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Johnson Samuel"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -1865,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1782,
+      "stars": 1863,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1880,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1185,
       "user": "pierrenade"
     },
     {
@@ -1895,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 925,
       "user": "EverettFish"
     },
     {
@@ -1925,22 +1955,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 378,
       "user": "op7418"
-    },
-    {
-      "title": "Python Iceberg",
-      "url": "https://aleyan.com/projects/python-iceberg/",
-      "published_at": "2026-09-06T13:46:54.409-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python",
-        "vibecoding",
-        "visualization"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aleyan"
     },
     {
       "title": "Documentation of pandas DataFrame.replace with series as input",
@@ -1948,11 +1964,9 @@
       "published_at": "2026-09-07T20:00:32.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "best-practices",
         "python",
         "pandas",
-        "dataframe",
-        "replace"
+        "dataframe"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2297,20 +2311,16 @@
       "user": "jknupp"
     },
     {
-      "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
-      "url": "https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/",
-      "published_at": "2026-09-04T16:13:09.000Z",
-      "description": "A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese",
+      "title": "Hardening Container Images",
+      "url": "https://www.grepular.com/Hardening_Container_Images",
+      "published_at": "2026-09-07T16:39:21.998-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "Developer Tools",
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Devops",
-        "ai agents"
+        "devops"
       ],
       "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
+      "source": "Lobste.rs",
+      "user": "pushcx"
     }
   ],
   "WebDev": [
@@ -2379,6 +2389,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "neil"
+    },
+    {
+      "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
+      "url": "https://www.freecodecamp.org/news/gamepad-api-javascript-guide/",
+      "published_at": "2026-09-07T22:39:45.000Z",
+      "description": "The Gamepad API is one of the smallest browser APIs you'll ever use. Four properties, one function, and no permissions prompt. You can have a controller drawn on screen in about fifteen lines. Those f",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "Browsers",
+        "APIs",
+        "Game Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "taimoor bamazai"
     }
   ],
   "Mobile": [
@@ -2753,7 +2779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 623,
       "user": "KJGX66F"
     },
     {
@@ -2768,8 +2794,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 469,
       "user": "byJoey"
+    },
+    {
+      "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/",
+      "published_at": "2026-09-07T22:35:39.000Z",
+      "description": "A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t",
+      "tags": [
+        "AI",
+        "aitools",
+        "Vercel",
+        "gemini",
+        "chatbot development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Johnson Samuel"
+    },
+    {
+      "title": "How to Refactor a Legacy Application Before Migrating It",
+      "url": "https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/",
+      "published_at": "2026-09-07T22:04:51.000Z",
+      "description": "The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud",
+      "tags": [
+        "legacy code",
+        "refactoring",
+        "software architecture",
+        "Software Engineering",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "AWS Cloud Cost Monitoring, Alerting, and Optimization: A Guide for Devs",
@@ -2827,21 +2885,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 471,
       "user": "okf-memory"
-    },
-    {
-      "title": "The Dataflow Model Revisited",
-      "url": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf",
-      "published_at": "2026-09-07T12:11:49.400-05:00",
-      "description": "Abstract\r\n\r\nEleven years ago, the Dataflow Model paper argued that unbounded, out-of-order data was the new normal, and that we must stop waiting for data to ever become complete. It proposed a unified model (windowing, triggers, watermarks, and retractions) for freely trading off correctness, latency, and cost across batch and streaming engines. On the occasion of its VLDB Test of Time award, we grade our own work—a paper about streaming analytics, in truth if not in name—on what aged well, what aged badly, and what we missed. We find the paper’s core foundations largely sound: the primacy of event time, the futility of waiting for completeness, and the insistence on strong consistency aged well. But we got important parts of the analytical interface wrong: (1) we let windowing and triggering, whose semantics were tangled with operational concerns, dominate the exposition beyond their due, (2) triggers were an over-engineered answer to a question users should never have faced, and (3) the stream-centric worldview missed a deeper truth: streams and tables are two representations of the same object with different access semantics. The mechanisms that delivered on the paper’s analytical goals ultimately evolved out of the database playbook: SQL, incremental view maintenance, and materialized views with explicit freshness contracts. We focused too much on the mechanics of streaming instead of finishing what the database community started but never completed: making the complexity of analytical streaming disappear almost entirely. Still, the verdict is not all confession. We explore how the completeness principle split into two successful forms: watermarks (where streams stay visible) and snapshot-consistent refresh (where they do not); we trace why the latter reached far more users by asking far less of them, and generalize the former into declared constraints on change. We also (1) find the batch-versus-streaming debate was mostly semantic, (2) watch low-latency demand bifurcate along the old OLTP/OLAP line, leaving analytics happily at gentler freshness, (3) adopt the framing we wish we had started with (leave in, leave out, push harder), and (4) ponder the eventual disappearance of streaming beyond analytics.",
-      "tags": [
-        "databases",
-        "pdf"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     },
     {
       "title": "Problems with getting variables via lifespan context manager in Fastapi",
@@ -2856,6 +2901,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
+    },
+    {
+      "title": "How to Refactor a Legacy Application Before Migrating It",
+      "url": "https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/",
+      "published_at": "2026-09-07T22:04:51.000Z",
+      "description": "The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud",
+      "tags": [
+        "legacy code",
+        "refactoring",
+        "software architecture",
+        "Software Engineering",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
@@ -3049,22 +3110,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "Apeireth"
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "published_at": "2026-09-05T18:05:27.000Z",
-      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "tags": [
-        "AI",
-        "Security",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
@@ -3222,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 715,
       "user": "ahujasid"
     },
     {
@@ -3237,23 +3284,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 623,
       "user": "KJGX66F"
-    },
-    {
-      "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "published_at": "2026-09-02T18:19:55Z",
-      "description": "worlds via code, from fable 5.1",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
-      "source": "GitHub",
-      "stars": 465,
-      "user": "PhiloLabs"
     },
     {
       "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
@@ -3267,8 +3299,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 469,
       "user": "byJoey"
+    },
+    {
+      "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "published_at": "2026-09-02T18:19:55Z",
+      "description": "worlds via code, from fable 5.1",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
+      "source": "GitHub",
+      "stars": 466,
+      "user": "PhiloLabs"
     },
     {
       "title": "adtexterry-lgtm/unigit-ecosystem - UNIGIT public brand and ecosystem hub — AI should work for everyone.",
@@ -3282,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 413,
       "user": "adtexterry-lgtm"
     },
     {
@@ -3297,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1782,
+      "stars": 1863,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3312,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1185,
       "user": "pierrenade"
     },
     {
@@ -3327,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 925,
       "user": "EverettFish"
     },
     {
@@ -3357,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 378,
       "user": "op7418"
     },
     {
@@ -3372,8 +3419,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 471,
       "user": "okf-memory"
+    },
+    {
+      "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
+      "url": "https://github.com/Adytm404/whatsapp-web.view",
+      "published_at": "2026-09-03T04:04:47Z",
+      "description": "Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "Adytm404"
     },
     {
       "title": "chrisgreg/glance - A tiny, self-hosted web analytics service. ",
@@ -3391,21 +3453,6 @@
       "user": "chrisgreg"
     },
     {
-      "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
-      "url": "https://github.com/Adytm404/whatsapp-web.view",
-      "published_at": "2026-09-03T04:04:47Z",
-      "description": "Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
-      "source": "GitHub",
-      "stars": 84,
-      "user": "Adytm404"
-    },
-    {
       "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
       "url": "https://github.com/pgrundev/pgbook",
       "published_at": "2026-09-02T16:55:32Z",
@@ -3417,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "pgrundev"
     },
     {
@@ -3432,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "gesta-run"
     },
     {
@@ -3447,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4660,
+      "stars": 4759,
       "user": "lnkiai"
     },
     {
@@ -3462,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2011,
+      "stars": 2103,
       "user": "ashemag"
     },
     {
@@ -3477,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 684,
       "user": "Albert-Weasker"
     },
     {
@@ -3492,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 367,
       "user": "Mantitup-Org"
     },
     {
@@ -3507,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "Appllama"
     },
     {
@@ -3522,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 384,
       "user": "inclusionAI"
     },
     {
@@ -3537,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 271,
       "user": "what1f"
     },
     {
@@ -3552,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 171,
       "user": "flectar"
     },
     {
@@ -3567,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "Apeireth"
     },
     {
@@ -3584,6 +3631,19 @@
       "source": "GitHub",
       "stars": 97,
       "user": "icodesign"
+    },
+    {
+      "title": "What are you using as a task manager and as a people manager?",
+      "url": "https://lobste.rs/s/0t6c5f/what_are_you_using_as_task_manager_as",
+      "published_at": "2026-09-07T19:50:16.588-05:00",
+      "description": "What’s your tool or method for your daily and then more open tasks? How do you stay on top of everything at work and at home? A program, pen and paper, just your head like Aristotle?\r\n\r\nHow do you keep up with your work contacts and friends? I feel this is tasks related as one must remember to keep up with people as well but these tasks rarely enter task manager spaces.",
+      "tags": [
+        "ask",
+        "philosophy"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "oceanhaiyang"
     },
     {
       "title": "How well do agents use test/verification techniques?",
@@ -3628,36 +3688,20 @@
       "user": "k-L-a"
     },
     {
-      "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
-      "url": "https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/",
-      "published_at": "2026-09-04T16:13:09.000Z",
-      "description": "A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese",
+      "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/",
+      "published_at": "2026-09-07T22:35:39.000Z",
+      "description": "A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t",
       "tags": [
-        "Developer Tools",
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Devops",
-        "ai agents"
+        "AI",
+        "aitools",
+        "Vercel",
+        "gemini",
+        "chatbot development"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
-    },
-    {
-      "title": "Claude Code Observability with OpenTelemetry",
-      "url": "https://www.freecodecamp.org/news/claude-code-observability-with-opentelemetry/",
-      "published_at": "2026-09-04T00:15:51.000Z",
-      "description": "Agentic coding tools like Claude Code, OpenAI Codex, Google Antigravity, and Cursor have become ubiquitous for everyday software development. As agentic systems mature, much of the work developers hav",
-      "tags": [
-        "OpenTelemetry",
-        "claude",
-        "#prometheus",
-        "distributed tracing",
-        "observability"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Puneet Singh"
+      "user": "Johnson Samuel"
     }
   ]
 }
