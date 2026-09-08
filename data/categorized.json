@@ -105,21 +105,6 @@
       "user": "xbill"
     },
     {
-      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
-      "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
-      "published_at": "2026-09-03T15:32:52Z",
-      "description": "A senior software engineer who knew nothing about hardware, a BACnet MS/TP thermostat, and an RS-485 bus. How I ended up with an ESP32-S3 gateway on a DIN rail, wired into Home Assistant, in 15 evenings.",
-      "tags": [
-        "bacnet",
-        "esp32",
-        "iot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv09zfq5acat27lmo2hmm.jpg",
-      "source": "Dev.to",
-      "user": "Felice Lombardi"
-    },
-    {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
       "published_at": "2026-09-01T07:00:00Z",
@@ -340,6 +325,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
+      "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
+      "published_at": "2026-09-03T15:32:52Z",
+      "description": "A senior software engineer who knew nothing about hardware, a BACnet MS/TP thermostat, and an RS-485 bus. How I ended up with an ESP32-S3 gateway on a DIN rail, wired into Home Assistant, in 15 evenings.",
+      "tags": [
+        "bacnet",
+        "esp32",
+        "iot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv09zfq5acat27lmo2hmm.jpg",
+      "source": "Dev.to",
+      "user": "Felice Lombardi"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "adtexterry-lgtm"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1863,
+      "stars": 1896,
       "user": "Rion-Wu-tech"
     },
     {
@@ -769,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1208,
       "user": "pierrenade"
     },
     {
@@ -784,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 996,
       "user": "EverettFish"
     },
     {
@@ -803,21 +803,6 @@
       "user": "nahrek"
     },
     {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "op7418"
-    },
-    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -829,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 476,
       "user": "okf-memory"
     },
     {
@@ -844,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "gesta-run"
     },
     {
@@ -859,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4759,
+      "stars": 4846,
       "user": "lnkiai"
     },
     {
@@ -874,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 703,
       "user": "Albert-Weasker"
     },
     {
@@ -889,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 414,
       "user": "inclusionAI"
     },
     {
@@ -904,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "flectar"
     },
     {
@@ -934,18 +919,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "oceanhaiyang"
-    },
-    {
-      "title": "Hardening Container Images",
-      "url": "https://www.grepular.com/Hardening_Container_Images",
-      "published_at": "2026-09-07T16:39:21.998-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     },
     {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
@@ -1367,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 754,
       "user": "ahujasid"
     },
     {
@@ -1382,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 644,
       "user": "KJGX66F"
     },
     {
@@ -1397,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 488,
       "user": "byJoey"
     },
     {
@@ -1412,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 469,
       "user": "PhiloLabs"
     },
     {
@@ -1427,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "adtexterry-lgtm"
     },
     {
@@ -1442,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 996,
       "user": "EverettFish"
     },
     {
@@ -1457,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4759,
+      "stars": 4846,
       "user": "lnkiai"
     },
     {
@@ -1472,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2103,
+      "stars": 2235,
       "user": "ashemag"
     },
     {
@@ -1487,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 703,
       "user": "Albert-Weasker"
     },
     {
@@ -1502,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 393,
       "user": "Mantitup-Org"
     },
     {
@@ -1517,20 +1490,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "Appllama"
-    },
-    {
-      "title": "Two Tiny Utils for the Result Pattern",
-      "url": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
-      "published_at": "2026-09-07T09:07:45.962-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "confusedalex"
     },
     {
       "title": "Pass Websocket from server side to client side",
@@ -1549,7 +1510,7 @@
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -1562,7 +1523,7 @@
       "title": "Add joint limits in matterjs",
       "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
       "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "matter.js"
@@ -1575,7 +1536,7 @@
       "title": "Can pnpm be configured so I can optionally run with a 'cutting edge dependency' while I'm working on a branch?",
       "url": "https://stackoverflow.com/questions/80001156/can-pnpm-be-configured-so-i-can-optionally-run-with-a-cutting-edge-dependency",
       "published_at": "2026-09-06T10:56:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "dependencies",
@@ -1613,6 +1574,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gerold Broser"
+    },
+    {
+      "title": "How can I split a string into segments of n characters?",
+      "url": "https://stackoverflow.com/questions/6259515/how-can-i-split-a-string-into-segments-of-n-characters",
+      "published_at": "2011-06-07T00:25:55.000Z",
+      "description": "Stack Overflow question · 21 answers · score 327",
+      "tags": [
+        "javascript",
+        "arrays",
+        "string",
+        "split"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben"
     },
     {
       "title": "Get the element with the highest occurrence in an array",
@@ -1653,20 +1629,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ľubom&#237;r"
-    },
-    {
-      "title": "Memory Leak in Next.js Application – How to Diagnose and Fix?",
-      "url": "https://stackoverflow.com/questions/79166826/memory-leak-in-next-js-application-how-to-diagnose-and-fix",
-      "published_at": "2024-11-07T14:10:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "next.js",
-        "memory-leaks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ігор"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -1895,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1863,
+      "stars": 1896,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1910,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1208,
       "user": "pierrenade"
     },
     {
@@ -1925,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 996,
       "user": "EverettFish"
     },
     {
@@ -1944,25 +1906,38 @@
       "user": "nahrek"
     },
     {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "title": "kajisho5/ffmpeg-skill - GitHub Repository",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "published_at": "2026-09-03T14:33:38Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 378,
-      "user": "op7418"
+      "stars": 415,
+      "user": "kajisho5"
+    },
+    {
+      "title": "Type hint a default return type used unless more specific overload exists",
+      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
+      "published_at": "2026-09-07T14:58:51.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "schtandard"
     },
     {
       "title": "Documentation of pandas DataFrame.replace with series as input",
       "url": "https://stackoverflow.com/questions/80001493/documentation-of-pandas-dataframe-replace-with-series-as-input",
       "published_at": "2026-09-07T20:00:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "pandas",
@@ -1971,19 +1946,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33098110"
-    },
-    {
-      "title": "Type hint a default return type used unless more specific overload exists",
-      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
-      "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "schtandard"
     },
     {
       "title": "How to deal with implicit transformation into parent type when using a TypeVar?",
@@ -2309,18 +2271,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "Hardening Container Images",
-      "url": "https://www.grepular.com/Hardening_Container_Images",
-      "published_at": "2026-09-07T16:39:21.998-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     }
   ],
   "WebDev": [
@@ -2381,7 +2331,7 @@
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -2779,7 +2729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 644,
       "user": "KJGX66F"
     },
     {
@@ -2794,8 +2744,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 488,
       "user": "byJoey"
+    },
+    {
+      "title": "The state of European cloud providers in 2026",
+      "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+      "published_at": "2026-09-08T02:20:16.336-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "scaling"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "morj"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -2885,7 +2847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 476,
       "user": "okf-memory"
     },
     {
@@ -3110,8 +3072,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 110,
       "user": "Apeireth"
+    },
+    {
+      "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "published_at": "2026-09-07T23:05:34.645-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "zg"
     },
     {
       "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
@@ -3269,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 754,
       "user": "ahujasid"
     },
     {
@@ -3284,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 644,
       "user": "KJGX66F"
     },
     {
@@ -3299,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 488,
       "user": "byJoey"
     },
     {
@@ -3314,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 469,
       "user": "PhiloLabs"
     },
     {
@@ -3329,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "adtexterry-lgtm"
     },
     {
@@ -3344,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1863,
+      "stars": 1896,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3359,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121039398?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1208,
       "user": "pierrenade"
     },
     {
@@ -3374,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 996,
       "user": "EverettFish"
     },
     {
@@ -3393,19 +3367,19 @@
       "user": "nahrek"
     },
     {
-      "title": "op7418/guizang-yingzao-skill - 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-      "url": "https://github.com/op7418/guizang-yingzao-skill",
-      "published_at": "2026-09-02T11:54:57Z",
-      "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
+      "title": "kajisho5/ffmpeg-skill - GitHub Repository",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "published_at": "2026-09-03T14:33:38Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 378,
-      "user": "op7418"
+      "stars": 415,
+      "user": "kajisho5"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3419,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 476,
       "user": "okf-memory"
     },
     {
@@ -3434,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "Adytm404"
     },
     {
@@ -3479,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304205673?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "gesta-run"
     },
     {
@@ -3494,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
       "source": "GitHub",
-      "stars": 4759,
+      "stars": 4846,
       "user": "lnkiai"
     },
     {
@@ -3509,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2103,
+      "stars": 2235,
       "user": "ashemag"
     },
     {
@@ -3524,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 703,
       "user": "Albert-Weasker"
     },
     {
@@ -3539,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 393,
       "user": "Mantitup-Org"
     },
     {
@@ -3554,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "Appllama"
     },
     {
@@ -3569,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 414,
       "user": "inclusionAI"
     },
     {
@@ -3584,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "what1f"
     },
     {
@@ -3599,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "flectar"
     },
     {
@@ -3614,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 110,
       "user": "Apeireth"
     },
     {
@@ -3644,19 +3618,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "oceanhaiyang"
-    },
-    {
-      "title": "How well do agents use test/verification techniques?",
-      "url": "https://danluu.com/agentic-testing/",
-      "published_at": "2026-09-07T11:17:46.001-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "testing",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hwayne"
     },
     {
       "title": "pwntool process is none [Starting remote process None: Process creation failed]",
