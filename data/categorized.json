@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Interactive AI Eval Dashboards with Data Studio",
-      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
-      "published_at": "2026-09-08T07:00:00Z",
-      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
-      "tags": [
-        "ai",
-        "datascience",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
       "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
       "published_at": "2026-09-08T05:06:23Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Interactive AI Eval Dashboards with Data Studio",
+      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
+      "published_at": "2026-09-08T07:00:00Z",
+      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
+      "tags": [
+        "ai",
+        "datascience",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
@@ -717,21 +717,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "adtexterry-lgtm/unigit-ecosystem - UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-      "published_at": "2026-09-02T10:08:01Z",
-      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
-      "source": "GitHub",
-      "stars": 419,
-      "user": "adtexterry-lgtm"
-    },
-    {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "published_at": "2026-09-04T15:00:53Z",
@@ -743,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1937,
+      "stars": 1939,
       "user": "Rion-Wu-tech"
     },
     {
@@ -758,23 +743,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1124,
       "user": "EverettFish"
-    },
-    {
-      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "published_at": "2026-09-02T17:00:13Z",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
-      "source": "GitHub",
-      "stars": 623,
-      "user": "nahrek"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -788,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "okf-memory"
     },
     {
@@ -803,23 +773,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 118,
       "user": "Stocist"
-    },
-    {
-      "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "published_at": "2026-09-02T04:36:34Z",
-      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
-      "source": "GitHub",
-      "stars": 5194,
-      "user": "lnkiai"
     },
     {
       "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -833,23 +788,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2161,
+      "stars": 2166,
       "user": "Albert-Weasker"
-    },
-    {
-      "title": "inclusionAI/Choruz - GitHub Repository",
-      "url": "https://github.com/inclusionAI/Choruz",
-      "published_at": "2026-09-02T06:46:09Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
-      "source": "GitHub",
-      "stars": 437,
-      "user": "inclusionAI"
     },
     {
       "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
@@ -863,23 +803,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 196,
       "user": "flectar"
     },
     {
-      "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-      "url": "https://github.com/icodesign/remote-installer",
-      "published_at": "2026-09-02T10:47:41Z",
-      "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+      "url": "https://github.com/truespar/paddock",
+      "published_at": "2026-09-03T19:52:35Z",
+      "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 99,
-      "user": "icodesign"
+      "stars": 72,
+      "user": "truespar"
     },
     {
       "title": "How to get a free .arpa domain",
@@ -906,6 +846,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GEO"
+    },
+    {
+      "title": "White House takes down &#8216;Build the Wall&#8217; game after the Tetris Company complains",
+      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "published_at": "2026-09-08T23:23:23.000Z",
+      "description": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "tags": [
+        "Gaming",
+        "In Brief",
+        "tetris",
+        "Trump Administration"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
@@ -1026,20 +981,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "published_at": "2026-09-08T14:17:48.000Z",
-      "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-      "tags": [
-        "AI",
-        "Mistral AI",
-        "Samsung Electronics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -1312,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 775,
       "user": "ahujasid"
     },
     {
@@ -1327,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "KJGX66F"
     },
     {
@@ -1342,38 +1283,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 512,
       "user": "byJoey"
     },
     {
-      "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "published_at": "2026-09-02T18:19:55Z",
-      "description": "worlds via code, from fable 5.1",
+      "title": "bjarneo/omarchy-workspace-layout - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+      "url": "https://github.com/bjarneo/omarchy-workspace-layout",
+      "published_at": "2026-09-04T06:26:22Z",
+      "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 470,
-      "user": "PhiloLabs"
+      "stars": 183,
+      "user": "bjarneo"
     },
     {
-      "title": "adtexterry-lgtm/unigit-ecosystem - UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-      "published_at": "2026-09-02T10:08:01Z",
-      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "url": "https://github.com/LerSent001/holo-card",
+      "published_at": "2026-09-07T16:18:45Z",
+      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 419,
-      "user": "adtexterry-lgtm"
+      "stars": 170,
+      "user": "LerSent001"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -1387,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1124,
       "user": "EverettFish"
     },
     {
@@ -1402,23 +1343,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 118,
       "user": "Stocist"
-    },
-    {
-      "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "published_at": "2026-09-02T04:36:34Z",
-      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
-      "source": "GitHub",
-      "stars": 5194,
-      "user": "lnkiai"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -1432,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2450,
+      "stars": 2458,
       "user": "ashemag"
     },
     {
@@ -1447,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2161,
+      "stars": 2166,
       "user": "Albert-Weasker"
     },
     {
@@ -1481,10 +1407,25 @@
       "user": "Appllama"
     },
     {
+      "title": "hsandhu/mobilecode - mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "url": "https://github.com/hsandhu/mobilecode",
+      "published_at": "2026-09-05T03:26:31Z",
+      "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "hsandhu"
+    },
+    {
       "title": "I have two elements with JavaScript: one is inside of another and they are layering",
       "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
       "published_at": "2026-09-08T17:59:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -1858,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1937,
+      "stars": 1939,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1873,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1124,
       "user": "EverettFish"
     },
     {
@@ -1888,23 +1829,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 727,
       "user": "kajisho5"
-    },
-    {
-      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "published_at": "2026-09-02T17:00:13Z",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
-      "source": "GitHub",
-      "stars": 623,
-      "user": "nahrek"
     },
     {
       "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
@@ -1918,8 +1844,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 403,
       "user": "donvito"
+    },
+    {
+      "title": "0x6rss/instagram-private-graph - Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.",
+      "url": "https://github.com/0x6rss/instagram-private-graph",
+      "published_at": "2026-09-03T13:36:30Z",
+      "description": "Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58754583?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "0x6rss"
     },
     {
       "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
@@ -2032,7 +1973,7 @@
       "title": "Problems with getting variables via lifespan context manager in Fastapi",
       "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi",
       "published_at": "2026-09-06T18:36:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "sqlalchemy",
@@ -2043,18 +1984,18 @@
       "user": "Liomtr"
     },
     {
-      "title": "iPython Running Old Version of Script",
-      "url": "https://stackoverflow.com/questions/80001264/ipython-running-old-version-of-script",
-      "published_at": "2026-09-06T22:32:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
+        "best-practices",
         "python",
-        "ipython",
-        "psychopy"
+        "sqlalchemy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Lili Hauser"
+      "user": "John Gordon"
     }
   ],
   "DevOps": [
@@ -2314,7 +2255,7 @@
       "title": "I have two elements with JavaScript: one is inside of another and they are layering",
       "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
       "published_at": "2026-09-08T17:59:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -2443,19 +2384,34 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-      "url": "https://github.com/icodesign/remote-installer",
-      "published_at": "2026-09-02T10:47:41Z",
-      "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "title": "bjarneo/omarchy-workspace-layout - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+      "url": "https://github.com/bjarneo/omarchy-workspace-layout",
+      "published_at": "2026-09-04T06:26:22Z",
+      "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
       "tags": [
-        "rust",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 99,
-      "user": "icodesign"
+      "stars": 183,
+      "user": "bjarneo"
+    },
+    {
+      "title": "hsandhu/mobilecode - mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "url": "https://github.com/hsandhu/mobilecode",
+      "published_at": "2026-09-05T03:26:31Z",
+      "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "hsandhu"
     }
   ],
   "Cloud": [
@@ -2783,7 +2739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "KJGX66F"
     },
     {
@@ -2798,7 +2754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 512,
       "user": "byJoey"
     },
     {
@@ -2891,21 +2847,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "published_at": "2026-09-02T17:00:13Z",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
-      "source": "GitHub",
-      "stars": 623,
-      "user": "nahrek"
-    },
-    {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "published_at": "2026-09-05T21:26:04Z",
@@ -2917,7 +2858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "okf-memory"
     },
     {
@@ -2938,7 +2879,7 @@
       "title": "Problems with getting variables via lifespan context manager in Fastapi",
       "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi",
       "published_at": "2026-09-06T18:36:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "sqlalchemy",
@@ -2947,6 +2888,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
+    },
+    {
+      "title": "Canonical way to select data in SQLAlchemy",
+      "url": "https://stackoverflow.com/questions/80000257/canonical-way-to-select-data-in-sqlalchemy",
+      "published_at": "2026-09-02T15:49:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
+      "tags": [
+        "best-practices",
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John Gordon"
     },
     {
       "title": "How to Refactor a Legacy Application Before Migrating It",
@@ -3156,7 +3111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "Apeireth"
     },
     {
@@ -3357,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 775,
       "user": "ahujasid"
     },
     {
@@ -3372,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "KJGX66F"
     },
     {
@@ -3387,38 +3342,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 512,
       "user": "byJoey"
     },
     {
-      "title": "PhiloLabs/fable51-worlds - worlds via code, from fable 5.1",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "published_at": "2026-09-02T18:19:55Z",
-      "description": "worlds via code, from fable 5.1",
+      "title": "bjarneo/omarchy-workspace-layout - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+      "url": "https://github.com/bjarneo/omarchy-workspace-layout",
+      "published_at": "2026-09-04T06:26:22Z",
+      "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/260782224?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 470,
-      "user": "PhiloLabs"
+      "stars": 183,
+      "user": "bjarneo"
     },
     {
-      "title": "adtexterry-lgtm/unigit-ecosystem - UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-      "published_at": "2026-09-02T10:08:01Z",
-      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "url": "https://github.com/LerSent001/holo-card",
+      "published_at": "2026-09-07T16:18:45Z",
+      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317701536?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 419,
-      "user": "adtexterry-lgtm"
+      "stars": 170,
+      "user": "LerSent001"
     },
     {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
@@ -3432,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1937,
+      "stars": 1939,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3447,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1124,
       "user": "EverettFish"
     },
     {
@@ -3462,23 +3417,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 727,
       "user": "kajisho5"
-    },
-    {
-      "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "url": "https://github.com/nahrek/polyledger",
-      "published_at": "2026-09-02T17:00:13Z",
-      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/138802404?v=4",
-      "source": "GitHub",
-      "stars": 623,
-      "user": "nahrek"
     },
     {
       "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
@@ -3492,8 +3432,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 403,
       "user": "donvito"
+    },
+    {
+      "title": "0x6rss/instagram-private-graph - Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.",
+      "url": "https://github.com/0x6rss/instagram-private-graph",
+      "published_at": "2026-09-03T13:36:30Z",
+      "description": "Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58754583?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "0x6rss"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3507,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "okf-memory"
     },
     {
@@ -3522,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 118,
       "user": "Stocist"
     },
     {
@@ -3556,34 +3511,19 @@
       "user": "chrisgreg"
     },
     {
-      "title": "pgrundev/pgbook - Postgres Book, one topic at a time.",
-      "url": "https://github.com/pgrundev/pgbook",
-      "published_at": "2026-09-02T16:55:32Z",
-      "description": "Postgres Book, one topic at a time.",
+      "title": "vianziro/Whatsapp-Dekstop - An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
+      "url": "https://github.com/vianziro/Whatsapp-Dekstop",
+      "published_at": "2026-09-07T08:13:04Z",
+      "description": "An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9649104?v=4",
       "source": "GitHub",
-      "stars": 83,
-      "user": "pgrundev"
-    },
-    {
-      "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "published_at": "2026-09-02T04:36:34Z",
-      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187016380?v=4",
-      "source": "GitHub",
-      "stars": 5194,
-      "user": "lnkiai"
+      "stars": 72,
+      "user": "vianziro"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -3597,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2450,
+      "stars": 2458,
       "user": "ashemag"
     },
     {
@@ -3612,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2161,
+      "stars": 2166,
       "user": "Albert-Weasker"
     },
     {
@@ -3646,34 +3586,19 @@
       "user": "Appllama"
     },
     {
-      "title": "inclusionAI/Choruz - GitHub Repository",
-      "url": "https://github.com/inclusionAI/Choruz",
-      "published_at": "2026-09-02T06:46:09Z",
-      "description": "Trending GitHub Repository",
+      "title": "hsandhu/mobilecode - mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "url": "https://github.com/hsandhu/mobilecode",
+      "published_at": "2026-09-05T03:26:31Z",
+      "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/199075982?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
       "source": "GitHub",
-      "stars": 437,
-      "user": "inclusionAI"
-    },
-    {
-      "title": "what1f/kitter - A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs.",
-      "url": "https://github.com/what1f/kitter",
-      "published_at": "2026-09-02T15:44:45Z",
-      "description": "A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/61998747?v=4",
-      "source": "GitHub",
-      "stars": 276,
-      "user": "what1f"
+      "stars": 223,
+      "user": "hsandhu"
     },
     {
       "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
@@ -3687,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 196,
       "user": "flectar"
     },
     {
@@ -3702,23 +3627,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "Apeireth"
     },
     {
-      "title": "icodesign/remote-installer - Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
-      "url": "https://github.com/icodesign/remote-installer",
-      "published_at": "2026-09-02T10:47:41Z",
-      "description": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+      "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+      "url": "https://github.com/truespar/paddock",
+      "published_at": "2026-09-03T19:52:35Z",
+      "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1148601?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 99,
-      "user": "icodesign"
+      "stars": 72,
+      "user": "truespar"
+    },
+    {
+      "title": "TravellingEngineer/barney - Content Journey - Package Tool",
+      "url": "https://github.com/TravellingEngineer/barney",
+      "published_at": "2026-09-05T10:34:15Z",
+      "description": "Content Journey - Package Tool",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
+      "source": "GitHub",
+      "stars": 70,
+      "user": "TravellingEngineer"
+    },
+    {
+      "title": "dtDhruv/ytkew - A terminal YouTube Music player inspired by kew.",
+      "url": "https://github.com/dtDhruv/ytkew",
+      "published_at": "2026-09-05T05:46:20Z",
+      "description": "A terminal YouTube Music player inspired by kew.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/126741154?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "dtDhruv"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
