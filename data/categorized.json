@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2016,
+      "stars": 2018,
       "user": "Rion-Wu-tech"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1233,
       "user": "EverettFish"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "AI-FanGe"
     },
     {
@@ -758,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "okf-memory"
     },
     {
@@ -788,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2245,
+      "stars": 2247,
       "user": "Albert-Weasker"
     },
     {
@@ -803,8 +803,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "flectar"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "published_at": "2026-09-09T10:22:32.302-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "plt"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "drmorr"
     },
     {
       "title": "Better AI code comment detector",
@@ -821,16 +833,20 @@
       "user": "kqr"
     },
     {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "published_at": "2026-09-09T10:22:32.302-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Implementing a 3-layer neural network from scratch with gradient descent for tabular regression",
+      "url": "https://stackoverflow.com/questions/80002001/implementing-a-3-layer-neural-network-from-scratch-with-gradient-descent-for-tab",
+      "published_at": "2026-09-09T21:43:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "plt"
+        "python",
+        "numpy",
+        "machine-learning",
+        "neural-network",
+        "gradient-descent"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "drmorr"
+      "source": "StackOverflow",
+      "user": "Anonymous Tech"
     },
     {
       "title": "DEX arbitrages for EVM and solana chains",
@@ -850,7 +866,7 @@
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "best-practices",
         "python",
@@ -859,6 +875,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Baharvand"
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "published_at": "2026-09-09T22:25:22.000Z",
+      "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "published_at": "2026-09-09T21:43:34.000Z",
+      "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "tags": [
+        "AI",
+        "Climate",
+        "clean energy",
+        "data centers",
+        "massachusetts"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening",
@@ -952,48 +997,20 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-      "published_at": "2026-09-09T18:08:46.000Z",
-      "description": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+      "title": "What a Machine Learning Model is and How to Make One",
+      "url": "https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/",
+      "published_at": "2026-09-09T19:46:10.000Z",
+      "description": "Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math",
       "tags": [
-        "Gadgets",
-        "Hardware",
-        "Apple",
-        "Apple Watch"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "published_at": "2026-09-09T18:08:35.000Z",
-      "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "tags": [
+        "ML",
+        "Artificial Intelligence",
         "AI",
-        "Apple",
-        "iPhone"
+        "software development",
+        "Software Engineering"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
-      "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-      "published_at": "2026-09-09T18:06:40.000Z",
-      "description": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "AirPods",
-        "Apple"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "Learn Python Interactively",
@@ -1055,19 +1072,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
-      "url": "https://www.freecodecamp.org/news/how-ai-receptionists-work-the-architecture-behind-ai-phone-agents/",
-      "published_at": "2026-09-04T20:07:46.000Z",
-      "description": "An AI receptionist may sound simple from the outside: a caller speaks, the system responds, and the conversation continues until the caller gets an answer or reaches a person. Behind that conversation",
-      "tags": [
-        "AI",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "JavaScript": [
@@ -1263,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 789,
       "user": "ahujasid"
     },
     {
@@ -1278,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "KJGX66F"
     },
     {
@@ -1293,8 +1297,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "byJoey"
+    },
+    {
+      "title": "achimala/dream-loop - Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "url": "https://github.com/achimala/dream-loop",
+      "published_at": "2026-09-07T14:19:20Z",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
+      "source": "GitHub",
+      "stars": 435,
+      "user": "achimala"
     },
     {
       "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
@@ -1312,21 +1331,6 @@
       "user": "LerSent001"
     },
     {
-      "title": "bjarneo/omarchy-workspace-layout - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
-      "url": "https://github.com/bjarneo/omarchy-workspace-layout",
-      "published_at": "2026-09-04T06:26:22Z",
-      "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "bjarneo"
-    },
-    {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "published_at": "2026-09-07T00:41:18Z",
@@ -1338,8 +1342,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1233,
       "user": "EverettFish"
+    },
+    {
+      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "url": "https://github.com/rhevorn/shape",
+      "published_at": "2026-09-03T12:27:18Z",
+      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "rhevorn"
     },
     {
       "title": "Stocist/Tailtab - A Tailscale node for each browser profile.",
@@ -1357,21 +1376,6 @@
       "user": "Stocist"
     },
     {
-      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "url": "https://github.com/rhevorn/shape",
-      "published_at": "2026-09-03T12:27:18Z",
-      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "rhevorn"
-    },
-    {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "url": "https://github.com/ashemag/human-atlas",
       "published_at": "2026-09-05T00:24:43Z",
@@ -1383,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2822,
+      "stars": 2832,
       "user": "ashemag"
     },
     {
@@ -1398,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2245,
+      "stars": 2247,
       "user": "Albert-Weasker"
     },
     {
@@ -1428,23 +1432,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 299,
       "user": "nagisanzenin"
     },
     {
-      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
-      "url": "https://github.com/Appllama/liquid-glass-screens",
-      "published_at": "2026-09-05T06:38:46Z",
-      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
+      "url": "https://github.com/LBEILC/RhineLabUI",
+      "published_at": "2026-09-07T18:16:23Z",
+      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
       "stars": 274,
-      "user": "Appllama"
+      "user": "LBEILC"
     },
     {
       "title": "Blue and orange React icons on VS Code explorer",
@@ -1500,20 +1504,6 @@
       "user": "xtimex mail"
     },
     {
-      "title": "localStorage data is removed when opening a Bootstrap modal",
-      "url": "https://stackoverflow.com/questions/80001710/localstorage-data-is-removed-when-opening-a-bootstrap-modal",
-      "published_at": "2026-09-08T16:37:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "jquery",
-        "laravel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shadir Amjard"
-    },
-    {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
@@ -1527,6 +1517,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "neil"
+    },
+    {
+      "title": "localStorage data is removed when opening a Bootstrap modal",
+      "url": "https://stackoverflow.com/questions/80001710/localstorage-data-is-removed-when-opening-a-bootstrap-modal",
+      "published_at": "2026-09-08T16:37:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "jquery",
+        "laravel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shadir Amjard"
     },
     {
       "title": "How to set a value of html text element with javascript",
@@ -1629,22 +1633,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Johnson Samuel"
-    },
-    {
-      "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/",
-      "published_at": "2026-09-04T20:44:35.000Z",
-      "description": "Scholarship hunting is a research job, not a single search box. You filter awards by field, GPA, citizenship, and deadline. You keep a shortlist. You write notes about essays and recommenders. Then yo",
-      "tags": [
-        "mcp",
-        "Model Context Protocol",
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinedu Otutu"
     }
   ],
   "Python": [
@@ -1840,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2016,
+      "stars": 2018,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1855,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1233,
       "user": "EverettFish"
     },
     {
@@ -1870,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 877,
       "user": "kajisho5"
     },
     {
@@ -1885,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 686,
       "user": "donvito"
     },
     {
@@ -1900,8 +1888,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "AI-FanGe"
+    },
+    {
+      "title": "PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__'",
+      "url": "https://stackoverflow.com/questions/80001996/pycharm-type-hint-warning-member-none-of-any-none-does-not-have-attribute",
+      "published_at": "2026-09-09T21:12:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pycharm",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "Implementing a 3-layer neural network from scratch with gradient descent for tabular regression",
+      "url": "https://stackoverflow.com/questions/80002001/implementing-a-3-layer-neural-network-from-scratch-with-gradient-descent-for-tab",
+      "published_at": "2026-09-09T21:43:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "numpy",
+        "machine-learning",
+        "neural-network",
+        "gradient-descent"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anonymous Tech"
     },
     {
       "title": "Empty datetime() and type-hint errors",
@@ -1964,7 +1982,7 @@
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "best-practices",
         "python",
@@ -2017,32 +2035,19 @@
       "user": "iamthebull"
     },
     {
-      "title": "Type hint a default return type used unless more specific overload exists",
-      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
-      "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
+      "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
+      "url": "https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/",
+      "published_at": "2026-09-09T18:09:51.000Z",
+      "description": "Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr",
       "tags": [
-        "python",
-        "python-typing"
+        "gradio",
+        "software development",
+        "Python",
+        "book"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "schtandard"
-    },
-    {
-      "title": "Is there a way to make scipy.optimize.minimize(method='trust-constr') accurate?",
-      "url": "https://stackoverflow.com/questions/80001416/is-there-a-way-to-make-scipy-optimize-minimizemethod-trust-constr-accurate",
-      "published_at": "2026-09-07T13:42:08.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "scipy",
-        "scipy-optimize",
-        "scipy-optimize-minimize"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Don Hatch"
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "Learn Python Interactively",
@@ -2431,21 +2436,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "bjarneo/omarchy-workspace-layout - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
-      "url": "https://github.com/bjarneo/omarchy-workspace-layout",
-      "published_at": "2026-09-04T06:26:22Z",
-      "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "bjarneo"
-    },
-    {
       "title": "denialwm/droidloom - Droidloom - weaving Android into Linux. Run Android Apps inside your Wayland session! Supports arm64 and x86_64 platforms, running arm64-only apps on x86_64 without closed source libraries.",
       "url": "https://github.com/denialwm/droidloom",
       "published_at": "2026-09-06T18:48:29Z",
@@ -2457,7 +2447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "denialwm"
     },
     {
@@ -2475,6 +2465,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "calvin"
+    },
+    {
+      "title": "The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface",
+      "url": "https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/",
+      "published_at": "2026-09-09T18:10:26.000Z",
+      "description": "Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo",
+      "tags": [
+        "composite-desing-pattern",
+        "Composite",
+        "design patterns",
+        "design principles",
+        "Dart"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Cloud": [
@@ -2787,7 +2793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "KJGX66F"
     },
     {
@@ -2802,7 +2808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "byJoey"
     },
     {
@@ -2836,21 +2842,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "AWS Cloud Cost Monitoring, Alerting, and Optimization: A Guide for Devs",
-      "url": "https://www.freecodecamp.org/news/aws-cloud-cost-monitoring-alerting-and-optimization-a-guide-for-devs/",
-      "published_at": "2026-09-07T16:41:30.000Z",
-      "description": "There's a common conversation that happens in engineering teams every month. Someone forwards a screenshot of the AWS bill. The number is higher than last month. Everyone nods and agrees it should be",
-      "tags": [
-        "Cloud Computing",
-        "AWS",
-        "monitoring",
-        "optimization"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ayobami Adejumo"
     }
   ],
   "Database": [
@@ -2878,8 +2869,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "okf-memory"
+    },
+    {
+      "title": "ID design and primary keys",
+      "url": "https://anchorsandlinks.com/posts/primary-keys/",
+      "published_at": "2026-09-09T13:31:44.973-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "squadette"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
@@ -2910,22 +2913,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/",
-      "published_at": "2026-09-04T20:44:35.000Z",
-      "description": "Scholarship hunting is a research job, not a single search box. You filter awards by field, GPA, citizenship, and deadline. You keep a shortlist. You write notes about essays and recommenders. Then yo",
-      "tags": [
-        "mcp",
-        "Model Context Protocol",
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinedu Otutu"
     }
   ],
   "Security": [
@@ -3274,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 789,
       "user": "ahujasid"
     },
     {
@@ -3289,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "KJGX66F"
     },
     {
@@ -3304,8 +3291,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "byJoey"
+    },
+    {
+      "title": "achimala/dream-loop - Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "url": "https://github.com/achimala/dream-loop",
+      "published_at": "2026-09-07T14:19:20Z",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
+      "source": "GitHub",
+      "stars": 435,
+      "user": "achimala"
     },
     {
       "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
@@ -3323,21 +3325,6 @@
       "user": "LerSent001"
     },
     {
-      "title": "bjarneo/omarchy-workspace-layout - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
-      "url": "https://github.com/bjarneo/omarchy-workspace-layout",
-      "published_at": "2026-09-04T06:26:22Z",
-      "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
-      "source": "GitHub",
-      "stars": 185,
-      "user": "bjarneo"
-    },
-    {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "published_at": "2026-09-04T15:00:53Z",
@@ -3349,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2016,
+      "stars": 2018,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3364,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1233,
       "user": "EverettFish"
     },
     {
@@ -3379,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 877,
       "user": "kajisho5"
     },
     {
@@ -3394,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 686,
       "user": "donvito"
     },
     {
@@ -3409,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "AI-FanGe"
     },
     {
@@ -3424,8 +3411,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "okf-memory"
+    },
+    {
+      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "url": "https://github.com/rhevorn/shape",
+      "published_at": "2026-09-03T12:27:18Z",
+      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "rhevorn"
     },
     {
       "title": "Stocist/Tailtab - A Tailscale node for each browser profile.",
@@ -3441,21 +3443,6 @@
       "source": "GitHub",
       "stars": 164,
       "user": "Stocist"
-    },
-    {
-      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "url": "https://github.com/rhevorn/shape",
-      "published_at": "2026-09-03T12:27:18Z",
-      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "rhevorn"
     },
     {
       "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
@@ -3499,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2822,
+      "stars": 2832,
       "user": "ashemag"
     },
     {
@@ -3514,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2245,
+      "stars": 2247,
       "user": "Albert-Weasker"
     },
     {
@@ -3544,23 +3531,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 299,
       "user": "nagisanzenin"
     },
     {
-      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
-      "url": "https://github.com/Appllama/liquid-glass-screens",
-      "published_at": "2026-09-05T06:38:46Z",
-      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
+      "url": "https://github.com/LBEILC/RhineLabUI",
+      "published_at": "2026-09-07T18:16:23Z",
+      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
       "stars": 274,
-      "user": "Appllama"
+      "user": "LBEILC"
     },
     {
       "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
@@ -3574,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "flectar"
     },
     {
@@ -3619,23 +3606,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "denialwm"
     },
     {
-      "title": "TravellingEngineer/barney - Content Journey - Package Tool",
-      "url": "https://github.com/TravellingEngineer/barney",
-      "published_at": "2026-09-05T10:34:15Z",
-      "description": "Content Journey - Package Tool",
+      "title": "lantunnel/lantunnel - Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own LANs — no port forwarding, no public URLs.",
+      "url": "https://github.com/lantunnel/lantunnel",
+      "published_at": "2026-09-03T07:00:29Z",
+      "description": "Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own LANs — no port forwarding, no public URLs.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285861879?v=4",
       "source": "GitHub",
-      "stars": 83,
-      "user": "TravellingEngineer"
+      "stars": 84,
+      "user": "lantunnel"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
