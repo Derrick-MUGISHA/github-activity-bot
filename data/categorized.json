@@ -31,21 +31,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
-      "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
-      "published_at": "2026-09-07T06:37:45Z",
-      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   I built...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
-      "source": "Dev.to",
-      "user": "Fayaz"
-    },
-    {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
       "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
       "published_at": "2026-09-08T05:06:23Z",
@@ -208,19 +193,19 @@
       "user": "xbill"
     },
     {
-      "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
-      "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
-      "published_at": "2026-08-29T05:03:06Z",
-      "description": "Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.",
+      "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
+      "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
+      "published_at": "2026-09-07T06:37:45Z",
+      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   I built...",
       "tags": [
-        "kubernetes",
+        "devchallenge",
+        "weekendchallenge",
         "ai",
-        "gke",
-        "googlecloud"
+        "gamedev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Fayaz"
     },
     {
       "title": "Coding agents got boring the moment we built a really good one.",
@@ -403,21 +388,6 @@
       "user": "Athreya aka Maneshwar"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
       "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
       "published_at": "2026-09-04T18:29:02Z",
@@ -446,6 +416,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
@@ -534,6 +519,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "How to Design AI Evaluations You Can Actually Trust",
+      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
+      "published_at": "2026-09-01T16:35:00Z",
+      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
+      "tags": [
+        "ai",
+        "evals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
+      "source": "Dev.to",
+      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -715,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2014,
+      "stars": 2016,
       "user": "Rion-Wu-tech"
     },
     {
@@ -730,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1232,
       "user": "EverettFish"
     },
     {
@@ -745,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 522,
       "user": "AI-FanGe"
     },
     {
@@ -760,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 515,
       "user": "okf-memory"
     },
     {
@@ -775,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "Stocist"
     },
     {
@@ -790,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2226,
+      "stars": 2245,
       "user": "Albert-Weasker"
     },
     {
@@ -805,8 +803,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 260,
       "user": "flectar"
+    },
+    {
+      "title": "Better AI code comment detector",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "published_at": "2026-09-09T13:27:24.767-05:00",
+      "description": "(I used both AI and vibecoding tags because the article describes training a logistic regression on LLM output. I thought there was a statistics tag that would have been appropriate but apparently not!)",
+      "tags": [
+        "ai",
+        "math",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kqr"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "published_at": "2026-09-09T10:22:32.302-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "plt"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "drmorr"
     },
     {
       "title": "DEX arbitrages for EVM and solana chains",
@@ -837,138 +861,139 @@
       "user": "Baharvand"
     },
     {
-      "title": "Apple unveils its first foldable, the iPhone Duo",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-      "published_at": "2026-09-09T17:58:14.000Z",
-      "description": "Apple today introduced its first foldable device, named the iPhone Duo, at its &#8220;Surprise and Shine&#8221; iPhone event held in Cupertino. The phone is the first marquee device launched under the company&#8217;s new CEO, John Ternus. The company said that the new device was &#8220;Inspired by t",
+      "title": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "published_at": "2026-09-09T20:24:48.000Z",
+      "description": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
       "tags": [
-        "Gadgets",
+        "AI",
+        "Privacy",
         "Apple",
-        "iPhone"
+        "privacy"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Sarah Perez"
     },
     {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "published_at": "2026-09-09T17:36:05.000Z",
-      "description": "The company also argued that its on-device models offer consumers more privacy.",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "published_at": "2026-09-09T20:03:43.000Z",
+      "description": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
       "tags": [
         "AI",
+        "Gadgets",
+        "Hardware",
+        "AirPods",
         "Apple"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
-      "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-      "published_at": "2026-09-09T16:44:21.000Z",
-      "description": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust [&#8230",
-      "tags": [
-        "Government & Policy",
-        "Media & Entertainment",
-        "Mergers and Acquisitions",
-        "roku"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Superintelligence is coming. Should we let it?",
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "published_at": "2026-09-09T16:05:35.000Z",
-      "description": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans",
-      "tags": [
-        "AI",
-        "AI regulation",
-        "Hugging Face",
-        "superintelligence"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "published_at": "2026-09-09T15:13:12.000Z",
-      "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "tags": [
-        "AI",
-        "AI assistant",
-        "instinct"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-      "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-      "published_at": "2026-09-09T15:10:41.000Z",
-      "description": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
-      "tags": [
-        "Transportation",
-        "Exclusive",
-        "indrive",
-        "Uber"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "&#8216;Gambling with our lives&#8217;: Anthropic researcher quits, warns against self-improving AI",
-      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "published_at": "2026-09-09T15:02:47.000Z",
-      "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Security",
-        "Anthropic",
-        "existential risk"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-      "published_at": "2026-09-09T14:51:45.000Z",
-      "description": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
-      "tags": [
-        "AI",
-        "Apps",
-        "AI shopping assistant",
-        "In Brief",
-        "shipt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
     },
     {
-      "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
-      "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
-      "published_at": "2026-09-09T14:38:41.000Z",
-      "description": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+      "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+      "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+      "published_at": "2026-09-09T19:56:18.000Z",
+      "description": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
       "tags": [
-        "Startups",
-        "Transportation",
-        "fleet management",
-        "ride-hailing",
-        "Uber"
+        "Hardware",
+        "Apple",
+        "iPhone"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "The hinge for Apple&#8217;s new foldable phone was built with AI",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "published_at": "2026-09-09T19:21:48.000Z",
+      "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "tags": [
+        "AI",
+        "Apple",
+        "Duo",
+        "phones"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+      "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+      "published_at": "2026-09-09T18:34:24.000Z",
+      "description": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Harvey"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Apple&#8217;s revamped Health app will calculate your &#8216;health age&#8217; and readiness score",
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "published_at": "2026-09-09T18:16:29.000Z",
+      "description": "The update uses Apple Intelligence to make better sense of your health data.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Gadgets",
+        "Apple",
+        "Apple Health"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+      "published_at": "2026-09-09T18:08:46.000Z",
+      "description": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "Apple",
+        "Apple Watch"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "published_at": "2026-09-09T18:08:35.000Z",
+      "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "tags": [
+        "AI",
+        "Apple",
+        "iPhone"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+      "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+      "published_at": "2026-09-09T18:06:40.000Z",
+      "description": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "AirPods",
+        "Apple"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Learn Python Interactively",
@@ -1238,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 788,
       "user": "ahujasid"
     },
     {
@@ -1253,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 716,
       "user": "KJGX66F"
     },
     {
@@ -1268,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 538,
       "user": "byJoey"
     },
     {
@@ -1313,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1232,
       "user": "EverettFish"
     },
     {
@@ -1328,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "Stocist"
     },
     {
@@ -1343,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 164,
       "user": "rhevorn"
     },
     {
@@ -1358,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2796,
+      "stars": 2822,
       "user": "ashemag"
     },
     {
@@ -1373,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2226,
+      "stars": 2245,
       "user": "Albert-Weasker"
     },
     {
@@ -1403,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 291,
       "user": "nagisanzenin"
     },
     {
@@ -1418,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "Appllama"
     },
     {
@@ -1815,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2014,
+      "stars": 2016,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1830,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1232,
       "user": "EverettFish"
     },
     {
@@ -1845,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 874,
       "user": "kajisho5"
     },
     {
@@ -1860,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 645,
       "user": "donvito"
     },
     {
@@ -1875,8 +1900,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 522,
       "user": "AI-FanGe"
+    },
+    {
+      "title": "Empty datetime() and type-hint errors",
+      "url": "https://stackoverflow.com/questions/80001989/empty-datetime-and-type-hint-errors",
+      "published_at": "2026-09-09T19:54:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "datetime",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "Many-to-many relation creates new items after migration",
+      "url": "https://stackoverflow.com/questions/80001980/many-to-many-relation-creates-new-items-after-migration",
+      "published_at": "2026-09-09T18:29:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "django"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Obalouch"
     },
     {
       "title": "DEX arbitrages for EVM and solana chains",
@@ -1923,6 +1975,19 @@
       "user": "Baharvand"
     },
     {
+      "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
+      "url": "https://stackoverflow.com/questions/80001733/why-is-python-able-to-perform-a-bitwise-and-on-lsb-of-16-bit-value-instead-of-th",
+      "published_at": "2026-09-08T18:20:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "bitwise-operators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dimitrios Desyllas"
+    },
+    {
       "title": "Using df.styler with df.to_latex() and longtable",
       "url": "https://stackoverflow.com/questions/80001851/using-df-styler-with-df-to-latex-and-longtable",
       "published_at": "2026-09-09T07:06:38.000Z",
@@ -1939,23 +2004,10 @@
       "user": "gjmb"
     },
     {
-      "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
-      "url": "https://stackoverflow.com/questions/80001733/why-is-python-able-to-perform-a-bitwise-and-on-lsb-of-16-bit-value-instead-of-th",
-      "published_at": "2026-09-08T18:20:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "bitwise-operators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
-    },
-    {
       "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
       "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
       "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "debugpy"
@@ -1991,31 +2043,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Don Hatch"
-    },
-    {
-      "title": "World generation visual glitch",
-      "url": "https://stackoverflow.com/questions/80001652/world-generation-visual-glitch",
-      "published_at": "2026-09-08T12:17:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "streamz gamer"
-    },
-    {
-      "title": "os.path.isfile() does not work with ~ prefix",
-      "url": "https://stackoverflow.com/questions/80001679/os-path-isfile-does-not-work-with-prefix",
-      "published_at": "2026-09-08T14:09:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rundekugel"
     },
     {
       "title": "Learn Python Interactively",
@@ -2059,21 +2086,6 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
-      "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
-      "published_at": "2026-08-29T05:03:06Z",
-      "description": "Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2445,7 +2457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 96,
       "user": "denialwm"
     },
     {
@@ -2571,21 +2583,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
-      "url": "https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2",
-      "published_at": "2026-08-29T05:03:06Z",
-      "description": "Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
       "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
       "published_at": "2026-09-06T07:35:05Z",
@@ -2691,21 +2688,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
       "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
       "published_at": "2026-09-04T18:29:02Z",
@@ -2734,6 +2716,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Streamline Publishing with a Claude Code Skill",
+      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
+      "published_at": "2026-09-01T14:37:08Z",
+      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
+      "tags": [
+        "claudecode",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
@@ -2790,7 +2787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 716,
       "user": "KJGX66F"
     },
     {
@@ -2805,7 +2802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 538,
       "user": "byJoey"
     },
     {
@@ -2881,7 +2878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 515,
       "user": "okf-memory"
     },
     {
@@ -3106,7 +3103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 114,
       "user": "Apeireth"
     },
     {
@@ -3121,22 +3118,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "soulcutter"
-    },
-    {
-      "title": "&#8216;Gambling with our lives&#8217;: Anthropic researcher quits, warns against self-improving AI",
-      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "published_at": "2026-09-09T15:02:47.000Z",
-      "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Security",
-        "Anthropic",
-        "existential risk"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     }
   ],
   "Tools": [
@@ -3293,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 788,
       "user": "ahujasid"
     },
     {
@@ -3308,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 716,
       "user": "KJGX66F"
     },
     {
@@ -3323,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 538,
       "user": "byJoey"
     },
     {
@@ -3368,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2014,
+      "stars": 2016,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3383,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1232,
       "user": "EverettFish"
     },
     {
@@ -3398,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 874,
       "user": "kajisho5"
     },
     {
@@ -3413,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 645,
       "user": "donvito"
     },
     {
@@ -3428,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 522,
       "user": "AI-FanGe"
     },
     {
@@ -3443,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 515,
       "user": "okf-memory"
     },
     {
@@ -3458,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "Stocist"
     },
     {
@@ -3473,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 164,
       "user": "rhevorn"
     },
     {
@@ -3518,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2796,
+      "stars": 2822,
       "user": "ashemag"
     },
     {
@@ -3533,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2226,
+      "stars": 2245,
       "user": "Albert-Weasker"
     },
     {
@@ -3563,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 291,
       "user": "nagisanzenin"
     },
     {
@@ -3578,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "Appllama"
     },
     {
@@ -3593,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 260,
       "user": "flectar"
     },
     {
@@ -3608,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 153,
       "user": "rust-alert"
     },
     {
@@ -3623,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 114,
       "user": "Apeireth"
     },
     {
@@ -3638,23 +3619,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 96,
       "user": "denialwm"
     },
     {
-      "title": "lantunnel/lantunnel - Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own LANs — no port forwarding, no public URLs.",
-      "url": "https://github.com/lantunnel/lantunnel",
-      "published_at": "2026-09-03T07:00:29Z",
-      "description": "Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own LANs — no port forwarding, no public URLs.",
+      "title": "TravellingEngineer/barney - Content Journey - Package Tool",
+      "url": "https://github.com/TravellingEngineer/barney",
+      "published_at": "2026-09-05T10:34:15Z",
+      "description": "Content Journey - Package Tool",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285861879?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
-      "stars": 81,
-      "user": "lantunnel"
+      "stars": 83,
+      "user": "TravellingEngineer"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
