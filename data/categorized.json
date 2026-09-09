@@ -150,20 +150,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
-      "published_at": "2026-09-01T18:28:57Z",
-      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "tags": [
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
       "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
       "published_at": "2026-09-06T16:51:54Z",
@@ -177,6 +163,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
+      "published_at": "2026-09-01T18:28:57Z",
+      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "tags": [
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
@@ -221,21 +221,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Coding agents got boring the moment we built a really good one.",
@@ -446,6 +431,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2014,
       "user": "Rion-Wu-tech"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1230,
       "user": "EverettFish"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 517,
       "user": "AI-FanGe"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 511,
       "user": "okf-memory"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "Stocist"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2216,
+      "stars": 2226,
       "user": "Albert-Weasker"
     },
     {
@@ -805,29 +805,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 253,
       "user": "flectar"
-    },
-    {
-      "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
-      "url": "https://github.com/truespar/paddock",
-      "published_at": "2026-09-03T19:52:35Z",
-      "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
-      "source": "GitHub",
-      "stars": 74,
-      "user": "truespar"
     },
     {
       "title": "DEX arbitrages for EVM and solana chains",
       "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
       "published_at": "2026-09-09T12:15:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "node.js",
@@ -841,7 +826,7 @@
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "best-practices",
         "python",
@@ -852,118 +837,151 @@
       "user": "Baharvand"
     },
     {
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-      "published_at": "2026-09-09T14:18:34.000Z",
-      "description": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "title": "Apple unveils its first foldable, the iPhone Duo",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+      "published_at": "2026-09-09T17:58:14.000Z",
+      "description": "Apple today introduced its first foldable device, named the iPhone Duo, at its &#8220;Surprise and Shine&#8221; iPhone event held in Cupertino. The phone is the first marquee device launched under the company&#8217;s new CEO, John Ternus. The company said that the new device was &#8220;Inspired by t",
       "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "published_at": "2026-09-09T13:00:00.000Z",
-      "description": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "tags": [
-        "AI",
-        "Apps"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
-      "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
-      "published_at": "2026-09-09T13:00:00.000Z",
-      "description": "Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.",
-      "tags": [
-        "Transportation",
-        "Autonomy",
-        "electric vehicles",
-        "EVs",
-        "scott painter"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "published_at": "2026-09-09T13:00:00.000Z",
-      "description": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-      "tags": [
-        "Enterprise",
-        "Startups",
-        "Security",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "published_at": "2026-09-09T12:30:00.000Z",
-      "description": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to ",
-      "tags": [
-        "Space",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "published_at": "2026-09-09T12:05:34.000Z",
-      "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "ai copyright lawsuits",
-        "ai music",
-        "suno"
+        "Gadgets",
+        "Apple",
+        "iPhone"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
     },
     {
-      "title": "CloudNC raises $20M to automate manufacturing&#8217;s most pressing bottlenecks",
-      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "published_at": "2026-09-09T04:01:00.000Z",
-      "description": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "published_at": "2026-09-09T17:36:05.000Z",
+      "description": "The company also argued that its on-device models offer consumers more privacy.",
       "tags": [
-        "Startups",
-        "Hardware",
-        "Venture"
+        "AI",
+        "Apple"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "user": "Sarah Perez"
     },
     {
-      "title": "White House takes down &#8216;Build the Wall&#8217; game after the Tetris Company complains",
-      "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-      "published_at": "2026-09-08T23:23:23.000Z",
-      "description": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
+      "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+      "published_at": "2026-09-09T16:44:21.000Z",
+      "description": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust [&#8230",
       "tags": [
-        "Gaming",
-        "In Brief",
-        "tetris",
-        "Trump Administration"
+        "Government & Policy",
+        "Media & Entertainment",
+        "Mergers and Acquisitions",
+        "roku"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "published_at": "2026-09-09T16:05:35.000Z",
+      "description": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans",
+      "tags": [
+        "AI",
+        "AI regulation",
+        "Hugging Face",
+        "superintelligence"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "published_at": "2026-09-09T15:13:12.000Z",
+      "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      "tags": [
+        "AI",
+        "AI assistant",
+        "instinct"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+      "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+      "published_at": "2026-09-09T15:10:41.000Z",
+      "description": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+      "tags": [
+        "Transportation",
+        "Exclusive",
+        "indrive",
+        "Uber"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "&#8216;Gambling with our lives&#8217;: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "published_at": "2026-09-09T15:02:47.000Z",
+      "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Security",
+        "Anthropic",
+        "existential risk"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "published_at": "2026-09-09T14:51:45.000Z",
+      "description": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+      "tags": [
+        "AI",
+        "Apps",
+        "AI shopping assistant",
+        "In Brief",
+        "shipt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+      "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+      "published_at": "2026-09-09T14:38:41.000Z",
+      "description": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+      "tags": [
+        "Startups",
+        "Transportation",
+        "fleet management",
+        "ride-hailing",
+        "Uber"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Learn Python Interactively",
+      "url": "https://www.freecodecamp.org/news/learn-python-interactively/",
+      "published_at": "2026-09-09T13:56:17.000Z",
+      "description": "Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We",
+      "tags": [
+        "Python",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -1025,22 +1043,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
-      "url": "https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/",
-      "published_at": "2026-09-04T16:19:46.000Z",
-      "description": "When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin",
-      "tags": [
-        "Artificial Intelligence",
-        "cybersecurity",
-        "Vulnerability management",
-        "Patch management",
-        "DevSecOps"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Reetain Raina"
     }
   ],
   "JavaScript": [
@@ -1236,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 786,
       "user": "ahujasid"
     },
     {
@@ -1251,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 715,
       "user": "KJGX66F"
     },
     {
@@ -1266,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 536,
       "user": "byJoey"
     },
     {
@@ -1296,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "bjarneo"
     },
     {
@@ -1311,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1230,
       "user": "EverettFish"
     },
     {
@@ -1326,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "Stocist"
     },
     {
@@ -1341,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 150,
       "user": "rhevorn"
     },
     {
@@ -1356,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2720,
+      "stars": 2796,
       "user": "ashemag"
     },
     {
@@ -1371,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2216,
+      "stars": 2226,
       "user": "Albert-Weasker"
     },
     {
@@ -1386,8 +1388,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 614,
       "user": "Mantitup-Org"
+    },
+    {
+      "title": "nagisanzenin/truanayangi - CS:GO-style lunch roulette. Mở hòm, chốt món ăn trưa.",
+      "url": "https://github.com/nagisanzenin/truanayangi",
+      "published_at": "2026-09-08T08:50:53Z",
+      "description": "CS:GO-style lunch roulette. Mở hòm, chốt món ăn trưa.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
+      "source": "GitHub",
+      "stars": 274,
+      "user": "nagisanzenin"
     },
     {
       "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
@@ -1401,32 +1418,16 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "Appllama"
-    },
-    {
-      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
-      "url": "https://github.com/LBEILC/RhineLabUI",
-      "published_at": "2026-09-07T18:16:23Z",
-      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "LBEILC"
     },
     {
       "title": "Blue and orange React icons on VS Code explorer",
       "url": "https://stackoverflow.com/questions/80001938/blue-and-orange-react-icons-on-vs-code-explorer",
       "published_at": "2026-09-09T13:12:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
-        "reactjs",
         "vs-code"
       ],
       "cover_image": null,
@@ -1477,7 +1478,7 @@
       "title": "localStorage data is removed when opening a Bootstrap modal",
       "url": "https://stackoverflow.com/questions/80001710/localstorage-data-is-removed-when-opening-a-bootstrap-modal",
       "published_at": "2026-09-08T16:37:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "jquery",
@@ -1486,19 +1487,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shadir Amjard"
-    },
-    {
-      "title": "How to set a value of html text element with javascript",
-      "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
-      "published_at": "2026-09-08T12:14:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Friedrich Novak"
     },
     {
       "title": "Get the playPause function to switch icons in the browser",
@@ -1516,17 +1504,17 @@
       "user": "neil"
     },
     {
-      "title": "Pass Websocket from server side to client side",
-      "url": "https://stackoverflow.com/questions/80001435/pass-websocket-from-server-side-to-client-side",
-      "published_at": "2026-09-07T14:54:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "How to set a value of html text element with javascript",
+      "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
+      "published_at": "2026-09-08T12:14:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
-        "node.js"
+        "html"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "kitsaras"
+      "user": "Friedrich Novak"
     },
     {
       "title": "How do I trigger a dialog Form by clicking a table row?",
@@ -1543,23 +1531,39 @@
       "user": "Marco Pasquali"
     },
     {
-      "title": "Add joint limits in matterjs",
-      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
-      "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "matter.js"
+        "postgresql",
+        "apollo-server"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "wadskays26"
+      "user": "erkanunluturk"
+    },
+    {
+      "title": "How can I split a string into segments of n characters?",
+      "url": "https://stackoverflow.com/questions/6259515/how-can-i-split-a-string-into-segments-of-n-characters",
+      "published_at": "2011-06-07T00:25:55.000Z",
+      "description": "Stack Overflow question · 21 answers · score 327",
+      "tags": [
+        "javascript",
+        "arrays",
+        "string",
+        "split"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ben"
     },
     {
       "title": "DEX arbitrages for EVM and solana chains",
       "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
       "published_at": "2026-09-09T12:15:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "node.js",
@@ -1811,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2014,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1826,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1230,
       "user": "EverettFish"
     },
     {
@@ -1841,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 848,
+      "stars": 863,
       "user": "kajisho5"
     },
     {
@@ -1856,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 596,
       "user": "donvito"
     },
     {
@@ -1871,14 +1875,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 517,
       "user": "AI-FanGe"
     },
     {
       "title": "DEX arbitrages for EVM and solana chains",
       "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
       "published_at": "2026-09-09T12:15:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "node.js",
@@ -1908,7 +1912,7 @@
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "best-practices",
         "python",
@@ -1951,7 +1955,7 @@
       "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
       "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
       "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "debugpy"
@@ -1964,7 +1968,7 @@
       "title": "Type hint a default return type used unless more specific overload exists",
       "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
       "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 5",
       "tags": [
         "python",
         "python-typing"
@@ -1972,19 +1976,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "schtandard"
-    },
-    {
-      "title": "World generation visual glitch",
-      "url": "https://stackoverflow.com/questions/80001652/world-generation-visual-glitch",
-      "published_at": "2026-09-08T12:17:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "streamz gamer"
     },
     {
       "title": "Is there a way to make scipy.optimize.minimize(method='trust-constr') accurate?",
@@ -2002,6 +1993,19 @@
       "user": "Don Hatch"
     },
     {
+      "title": "World generation visual glitch",
+      "url": "https://stackoverflow.com/questions/80001652/world-generation-visual-glitch",
+      "published_at": "2026-09-08T12:17:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "streamz gamer"
+    },
+    {
       "title": "os.path.isfile() does not work with ~ prefix",
       "url": "https://stackoverflow.com/questions/80001679/os-path-isfile-does-not-work-with-prefix",
       "published_at": "2026-09-08T14:09:16.000Z",
@@ -2012,6 +2016,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "rundekugel"
+    },
+    {
+      "title": "Learn Python Interactively",
+      "url": "https://www.freecodecamp.org/news/learn-python-interactively/",
+      "published_at": "2026-09-09T13:56:17.000Z",
+      "description": "Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We",
+      "tags": [
+        "Python",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     }
   ],
   "DevOps": [
@@ -2281,19 +2298,6 @@
       "user": "xtimex mail"
     },
     {
-      "title": "How to set a value of html text element with javascript",
-      "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
-      "published_at": "2026-09-08T12:14:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Friedrich Novak"
-    },
-    {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
@@ -2307,6 +2311,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "neil"
+    },
+    {
+      "title": "How to set a value of html text element with javascript",
+      "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
+      "published_at": "2026-09-08T12:14:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Friedrich Novak"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -2357,21 +2374,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
       "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
       "published_at": "2026-09-03T12:47:27Z",
@@ -2383,6 +2385,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2413,7 +2430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "bjarneo"
     },
     {
@@ -2428,8 +2445,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 91,
       "user": "denialwm"
+    },
+    {
+      "title": "Apple Event for September 9th, 2026",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "published_at": "2026-09-09T11:54:31.267-05:00",
+      "description": "Out with the Tim, in with the John. Who knows if they'll fold?",
+      "tags": [
+        "event",
+        "hardware",
+        "ios",
+        "mac",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "calvin"
     }
   ],
   "Cloud": [
@@ -2551,21 +2584,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
@@ -2703,6 +2721,21 @@
       "user": "xbill"
     },
     {
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
+      "published_at": "2026-09-05T02:42:20Z",
+      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
       "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
       "published_at": "2026-09-03T15:54:57Z",
@@ -2757,7 +2790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 715,
       "user": "KJGX66F"
     },
     {
@@ -2772,50 +2805,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 536,
       "user": "byJoey"
-    },
-    {
-      "title": "The state of European cloud providers in 2026",
-      "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
-      "published_at": "2026-09-08T02:20:16.336-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "scaling"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "morj"
-    },
-    {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "published_at": "2026-09-09T12:05:34.000Z",
-      "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "ai copyright lawsuits",
-        "ai music",
-        "suno"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "CloudNC raises $20M to automate manufacturing&#8217;s most pressing bottlenecks",
-      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "published_at": "2026-09-09T04:01:00.000Z",
-      "description": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
-      "tags": [
-        "Startups",
-        "Hardware",
-        "Venture"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -2890,8 +2881,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 511,
       "user": "okf-memory"
+    },
+    {
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "apollo-server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
     },
     {
       "title": "How to Refactor a Legacy Application Before Migrating It",
@@ -3101,7 +3106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 115,
       "user": "Apeireth"
     },
     {
@@ -3118,51 +3123,20 @@
       "user": "soulcutter"
     },
     {
-      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
-      "url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
-      "published_at": "2026-09-09T13:01:00.000Z",
-      "description": "The three Indian companies are accused of using hackers to steal information used to sway litigation.",
+      "title": "&#8216;Gambling with our lives&#8217;: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "published_at": "2026-09-09T15:02:47.000Z",
+      "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
       "tags": [
-        "Security",
+        "AI",
         "Government & Policy",
-        "Exclusive",
-        "Ron Wyden",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "published_at": "2026-09-09T13:00:00.000Z",
-      "description": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-      "tags": [
-        "Enterprise",
-        "Startups",
         "Security",
-        "AI"
+        "Anthropic",
+        "existential risk"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
-      "url": "https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/",
-      "published_at": "2026-09-04T16:19:46.000Z",
-      "description": "When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin",
-      "tags": [
-        "Artificial Intelligence",
-        "cybersecurity",
-        "Vulnerability management",
-        "Patch management",
-        "DevSecOps"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Reetain Raina"
+      "user": "Rebecca Bellan"
     }
   ],
   "Tools": [
@@ -3319,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 786,
       "user": "ahujasid"
     },
     {
@@ -3334,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 715,
       "user": "KJGX66F"
     },
     {
@@ -3349,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 536,
       "user": "byJoey"
     },
     {
@@ -3379,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1419214?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "bjarneo"
     },
     {
@@ -3394,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2014,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3409,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1218,
+      "stars": 1230,
       "user": "EverettFish"
     },
     {
@@ -3424,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 848,
+      "stars": 863,
       "user": "kajisho5"
     },
     {
@@ -3439,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 596,
       "user": "donvito"
     },
     {
@@ -3454,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 517,
       "user": "AI-FanGe"
     },
     {
@@ -3469,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 511,
       "user": "okf-memory"
     },
     {
@@ -3484,8 +3458,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "Stocist"
+    },
+    {
+      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "url": "https://github.com/rhevorn/shape",
+      "published_at": "2026-09-03T12:27:18Z",
+      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "rhevorn"
     },
     {
       "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
@@ -3518,21 +3507,6 @@
       "user": "chrisgreg"
     },
     {
-      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "url": "https://github.com/rhevorn/shape",
-      "published_at": "2026-09-03T12:27:18Z",
-      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
-      "source": "GitHub",
-      "stars": 87,
-      "user": "rhevorn"
-    },
-    {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "url": "https://github.com/ashemag/human-atlas",
       "published_at": "2026-09-05T00:24:43Z",
@@ -3544,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2720,
+      "stars": 2796,
       "user": "ashemag"
     },
     {
@@ -3559,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2216,
+      "stars": 2226,
       "user": "Albert-Weasker"
     },
     {
@@ -3574,8 +3548,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 614,
       "user": "Mantitup-Org"
+    },
+    {
+      "title": "nagisanzenin/truanayangi - CS:GO-style lunch roulette. Mở hòm, chốt món ăn trưa.",
+      "url": "https://github.com/nagisanzenin/truanayangi",
+      "published_at": "2026-09-08T08:50:53Z",
+      "description": "CS:GO-style lunch roulette. Mở hòm, chốt món ăn trưa.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
+      "source": "GitHub",
+      "stars": 274,
+      "user": "nagisanzenin"
     },
     {
       "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
@@ -3589,23 +3578,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "Appllama"
-    },
-    {
-      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
-      "url": "https://github.com/LBEILC/RhineLabUI",
-      "published_at": "2026-09-07T18:16:23Z",
-      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "LBEILC"
     },
     {
       "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
@@ -3619,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 253,
       "user": "flectar"
     },
     {
@@ -3634,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 149,
       "user": "rust-alert"
     },
     {
@@ -3649,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 115,
       "user": "Apeireth"
     },
     {
@@ -3664,37 +3638,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 91,
       "user": "denialwm"
     },
     {
-      "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
-      "url": "https://github.com/truespar/paddock",
-      "published_at": "2026-09-03T19:52:35Z",
-      "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
+      "title": "lantunnel/lantunnel - Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own LANs — no port forwarding, no public URLs.",
+      "url": "https://github.com/lantunnel/lantunnel",
+      "published_at": "2026-09-03T07:00:29Z",
+      "description": "Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own LANs — no port forwarding, no public URLs.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285861879?v=4",
       "source": "GitHub",
-      "stars": 74,
-      "user": "truespar"
+      "stars": 81,
+      "user": "lantunnel"
     },
     {
-      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "published_at": "2026-09-09T06:00:00.000Z",
-      "description": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "Climate",
-        "Exclusive",
-        "fusion power"
+        "javascript",
+        "postgresql",
+        "apollo-server"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
