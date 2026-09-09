@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
-      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
-      "published_at": "2026-09-08T05:06:23Z",
-      "description": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
-      "tags": [
-        "googleworkspace",
-        "googlecloud",
-        "bigquery",
-        "apacheiceberg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Interactive AI Eval Dashboards with Data Studio",
       "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
       "published_at": "2026-09-08T07:00:00Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
       "source": "Dev.to",
       "user": "Fayaz"
+    },
+    {
+      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
+      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
+      "published_at": "2026-09-08T05:06:23Z",
+      "description": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
+      "tags": [
+        "googleworkspace",
+        "googlecloud",
+        "bigquery",
+        "apacheiceberg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
@@ -204,21 +204,6 @@
         "gnome"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
-      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
-      "published_at": "2026-09-04T18:29:02Z",
-      "description": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, Horizon and OneLake — comparing what each catalog declares it supports against what it actually serves.",
-      "tags": [
-        "iceberg",
-        "lakehouse",
-        "dataengineering",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -448,6 +433,21 @@
       "user": "xbill"
     },
     {
+      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
+      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
+      "published_at": "2026-09-04T18:29:02Z",
+      "description": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, Horizon and OneLake — comparing what each catalog declares it supports against what it actually serves.",
+      "tags": [
+        "iceberg",
+        "lakehouse",
+        "dataengineering",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
       "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
       "published_at": "2026-09-03T15:54:57Z",
@@ -476,21 +476,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
-      "published_at": "2026-09-01T18:25:48Z",
-      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
-      "tags": [
-        "aws",
-        "machinelearning",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Context anchoring works. Files, not a service.",
       "url": "https://dev.to/bojantomic/context-anchoring-works-files-not-a-service-5ek2",
       "published_at": "2026-09-02T11:49:54Z",
@@ -504,6 +489,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv62khswisuu0gowuy1k5.png",
       "source": "Dev.to",
       "user": "Bojan Tomic"
+    },
+    {
+      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
+      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
+      "published_at": "2026-09-01T18:25:48Z",
+      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
+      "tags": [
+        "aws",
+        "machinelearning",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
@@ -534,19 +534,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
-      "published_at": "2026-09-01T16:35:00Z",
-      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
-      "tags": [
-        "ai",
-        "evals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -728,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2009,
       "user": "Rion-Wu-tech"
     },
     {
@@ -743,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1218,
       "user": "EverettFish"
     },
     {
@@ -758,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 500,
       "user": "AI-FanGe"
     },
     {
@@ -773,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 506,
       "user": "okf-memory"
     },
     {
@@ -788,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 162,
       "user": "Stocist"
     },
     {
@@ -803,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2195,
+      "stars": 2216,
       "user": "Albert-Weasker"
     },
     {
@@ -818,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 242,
       "user": "flectar"
     },
     {
@@ -833,26 +820,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 74,
       "user": "truespar"
     },
     {
-      "title": "How to get a free .arpa domain",
-      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-      "published_at": "2026-09-08T04:24:16.963-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "DEX arbitrages for EVM and solana chains",
+      "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
+      "published_at": "2026-09-09T12:15:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
-        "networking"
+        "python",
+        "node.js",
+        "rust"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
+      "source": "StackOverflow",
+      "user": "AMPEREZA BENJAMEN TWINOMUGISHA"
     },
     {
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "best-practices",
         "python",
@@ -861,6 +850,91 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Baharvand"
+    },
+    {
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "published_at": "2026-09-09T14:18:34.000Z",
+      "description": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "published_at": "2026-09-09T13:00:00.000Z",
+      "description": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "tags": [
+        "AI",
+        "Apps"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+      "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+      "published_at": "2026-09-09T13:00:00.000Z",
+      "description": "Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.",
+      "tags": [
+        "Transportation",
+        "Autonomy",
+        "electric vehicles",
+        "EVs",
+        "scott painter"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "published_at": "2026-09-09T13:00:00.000Z",
+      "description": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "tags": [
+        "Enterprise",
+        "Startups",
+        "Security",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "published_at": "2026-09-09T12:30:00.000Z",
+      "description": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to ",
+      "tags": [
+        "Space",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "published_at": "2026-09-09T12:05:34.000Z",
+      "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "ai copyright lawsuits",
+        "ai music",
+        "suno"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "CloudNC raises $20M to automate manufacturing&#8217;s most pressing bottlenecks",
@@ -890,97 +964,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "published_at": "2026-09-08T21:10:27.000Z",
-      "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "tags": [
-        "AI",
-        "TC",
-        "Anthropic",
-        "hackers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "published_at": "2026-09-08T21:04:06.000Z",
-      "description": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "tags": [
-        "Startups",
-        "AI",
-        "Valuations",
-        "cursor",
-        "coding assistants"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-      "published_at": "2026-09-08T20:47:34.000Z",
-      "description": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
-      "tags": [
-        "Fundraising",
-        "Space",
-        "SpaceX",
-        "The Exploration Company"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "published_at": "2026-09-08T19:00:00.000Z",
-      "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-      "tags": [
-        "TC",
-        "AI",
-        "Apps",
-        "Social",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "published_at": "2026-09-08T17:32:15.000Z",
-      "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "tags": [
-        "AI",
-        "mathematics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "published_at": "2026-09-08T16:20:31.000Z",
-      "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Accenture",
-        "Enterprise AI",
-        "FDE"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -1253,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 781,
       "user": "ahujasid"
     },
     {
@@ -1268,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 708,
       "user": "KJGX66F"
     },
     {
@@ -1283,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 531,
       "user": "byJoey"
     },
     {
@@ -1298,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "LerSent001"
     },
     {
@@ -1328,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1218,
       "user": "EverettFish"
     },
     {
@@ -1343,8 +1326,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 162,
       "user": "Stocist"
+    },
+    {
+      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "url": "https://github.com/rhevorn/shape",
+      "published_at": "2026-09-03T12:27:18Z",
+      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
+      "source": "GitHub",
+      "stars": 87,
+      "user": "rhevorn"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -1358,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2630,
+      "stars": 2720,
       "user": "ashemag"
     },
     {
@@ -1373,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2195,
+      "stars": 2216,
       "user": "Albert-Weasker"
     },
     {
@@ -1388,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "Mantitup-Org"
     },
     {
@@ -1403,23 +1401,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 272,
       "user": "Appllama"
     },
     {
-      "title": "hsandhu/mobilecode - mobilecode is a fork of opencode that builds and previews iOS and Android projects",
-      "url": "https://github.com/hsandhu/mobilecode",
-      "published_at": "2026-09-05T03:26:31Z",
-      "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
+      "url": "https://github.com/LBEILC/RhineLabUI",
+      "published_at": "2026-09-07T18:16:23Z",
+      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 226,
-      "user": "hsandhu"
+      "stars": 249,
+      "user": "LBEILC"
+    },
+    {
+      "title": "Blue and orange React icons on VS Code explorer",
+      "url": "https://stackoverflow.com/questions/80001938/blue-and-orange-react-icons-on-vs-code-explorer",
+      "published_at": "2026-09-09T13:12:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "vs-code"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leshiy"
     },
     {
       "title": "React client doesn't catch the socket.on() signal from the server using setInterval",
@@ -1452,7 +1464,7 @@
       "title": "I have two elements with JavaScript: one is inside of another and they are layering",
       "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
       "published_at": "2026-09-08T17:59:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html"
@@ -1479,7 +1491,7 @@
       "title": "How to set a value of html text element with javascript",
       "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
       "published_at": "2026-09-08T12:14:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -1544,18 +1556,18 @@
       "user": "wadskays26"
     },
     {
-      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
-      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
-      "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "DEX arbitrages for EVM and solana chains",
+      "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
+      "published_at": "2026-09-09T12:15:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
-        "javascript",
-        "postgresql",
-        "apollo-server"
+        "python",
+        "node.js",
+        "rust"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "erkanunluturk"
+      "user": "AMPEREZA BENJAMEN TWINOMUGISHA"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -1799,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2009,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1814,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1218,
       "user": "EverettFish"
     },
     {
@@ -1829,23 +1841,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 848,
       "user": "kajisho5"
-    },
-    {
-      "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
-      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
-      "published_at": "2026-09-04T17:18:43Z",
-      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
-      "source": "GitHub",
-      "stars": 464,
-      "user": "AI-FanGe"
     },
     {
       "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
@@ -1859,14 +1856,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 509,
       "user": "donvito"
+    },
+    {
+      "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
+      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+      "published_at": "2026-09-04T17:18:43Z",
+      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "AI-FanGe"
+    },
+    {
+      "title": "DEX arbitrages for EVM and solana chains",
+      "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
+      "published_at": "2026-09-09T12:15:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "node.js",
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AMPEREZA BENJAMEN TWINOMUGISHA"
     },
     {
       "title": "Write sequence of null chars to file",
       "url": "https://stackoverflow.com/questions/80001870/write-sequence-of-null-chars-to-file",
       "published_at": "2026-09-09T08:30:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "utf-8",
@@ -1882,7 +1908,7 @@
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "best-practices",
         "python",
@@ -1896,7 +1922,7 @@
       "title": "Using df.styler with df.to_latex() and longtable",
       "url": "https://stackoverflow.com/questions/80001851/using-df-styler-with-df-to-latex-and-longtable",
       "published_at": "2026-09-09T07:06:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "pandas",
@@ -1907,19 +1933,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gjmb"
-    },
-    {
-      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
-      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
-      "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "debugpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
@@ -1935,6 +1948,32 @@
       "user": "Dimitrios Desyllas"
     },
     {
+      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
+      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
+      "published_at": "2026-09-09T03:32:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "debugpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
+      "title": "Type hint a default return type used unless more specific overload exists",
+      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
+      "published_at": "2026-09-07T14:58:51.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "schtandard"
+    },
+    {
       "title": "World generation visual glitch",
       "url": "https://stackoverflow.com/questions/80001652/world-generation-visual-glitch",
       "published_at": "2026-09-08T12:17:47.000Z",
@@ -1946,18 +1985,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "streamz gamer"
-    },
-    {
-      "title": "os.path.isfile() does not work with ~ prefix",
-      "url": "https://stackoverflow.com/questions/80001679/os-path-isfile-does-not-work-with-prefix",
-      "published_at": "2026-09-08T14:09:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rundekugel"
     },
     {
       "title": "Is there a way to make scipy.optimize.minimize(method='trust-constr') accurate?",
@@ -1975,31 +2002,16 @@
       "user": "Don Hatch"
     },
     {
-      "title": "Type hint a default return type used unless more specific overload exists",
-      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
-      "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "title": "os.path.isfile() does not work with ~ prefix",
+      "url": "https://stackoverflow.com/questions/80001679/os-path-isfile-does-not-work-with-prefix",
+      "published_at": "2026-09-08T14:09:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "python",
-        "python-typing"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "schtandard"
-    },
-    {
-      "title": "Documentation of pandas DataFrame.replace with series as input",
-      "url": "https://stackoverflow.com/questions/80001493/documentation-of-pandas-dataframe-replace-with-series-as-input",
-      "published_at": "2026-09-07T20:00:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33098110"
+      "user": "rundekugel"
     }
   ],
   "DevOps": [
@@ -2259,7 +2271,7 @@
       "title": "I have two elements with JavaScript: one is inside of another and they are layering",
       "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
       "published_at": "2026-09-08T17:59:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html"
@@ -2272,7 +2284,7 @@
       "title": "How to set a value of html text element with javascript",
       "url": "https://stackoverflow.com/questions/80001649/how-to-set-a-value-of-html-text-element-with-javascript",
       "published_at": "2026-09-08T12:14:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -2405,22 +2417,37 @@
       "user": "bjarneo"
     },
     {
-      "title": "hsandhu/mobilecode - mobilecode is a fork of opencode that builds and previews iOS and Android projects",
-      "url": "https://github.com/hsandhu/mobilecode",
-      "published_at": "2026-09-05T03:26:31Z",
-      "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "title": "denialwm/droidloom - Droidloom - weaving Android into Linux. Run Android Apps inside your Wayland session! Supports arm64 and x86_64 platforms, running arm64-only apps on x86_64 without closed source libraries.",
+      "url": "https://github.com/denialwm/droidloom",
+      "published_at": "2026-09-06T18:48:29Z",
+      "description": "Droidloom - weaving Android into Linux. Run Android Apps inside your Wayland session! Supports arm64 and x86_64 platforms, running arm64-only apps on x86_64 without closed source libraries.",
       "tags": [
-        "typescript",
+        "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 226,
-      "user": "hsandhu"
+      "stars": 86,
+      "user": "denialwm"
     }
   ],
   "Cloud": [
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+      "published_at": "2026-09-07T22:31:01Z",
+      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
+      "tags": [
+        "docker",
+        "googlecloud",
+        "python",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3c3vtadwae55ojkojtgs.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
     {
       "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
       "url": "https://dev.to/gde/bidirectional-writeback-for-apache-iceberg-via-google-sheets-serverless-lakehouse-console-14ic",
@@ -2450,21 +2477,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
-      "published_at": "2026-09-07T22:31:01Z",
-      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
-      "tags": [
-        "docker",
-        "googlecloud",
-        "python",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3c3vtadwae55ojkojtgs.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2524,21 +2536,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
-      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
-      "published_at": "2026-09-04T18:29:02Z",
-      "description": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, Horizon and OneLake — comparing what each catalog declares it supports against what it actually serves.",
-      "tags": [
-        "iceberg",
-        "lakehouse",
-        "dataengineering",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste",
@@ -2691,6 +2688,21 @@
       "user": "xbill"
     },
     {
+      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
+      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
+      "published_at": "2026-09-04T18:29:02Z",
+      "description": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, Horizon and OneLake — comparing what each catalog declares it supports against what it actually serves.",
+      "tags": [
+        "iceberg",
+        "lakehouse",
+        "dataengineering",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
       "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
       "published_at": "2026-09-03T15:54:57Z",
@@ -2745,7 +2757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 708,
       "user": "KJGX66F"
     },
     {
@@ -2760,7 +2772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 531,
       "user": "byJoey"
     },
     {
@@ -2776,6 +2788,22 @@
       "user": "morj"
     },
     {
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "published_at": "2026-09-09T12:05:34.000Z",
+      "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "ai copyright lawsuits",
+        "ai music",
+        "suno"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "CloudNC raises $20M to automate manufacturing&#8217;s most pressing bottlenecks",
       "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
       "published_at": "2026-09-09T04:01:00.000Z",
@@ -2788,22 +2816,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "published_at": "2026-09-08T16:20:31.000Z",
-      "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Accenture",
-        "Enterprise AI",
-        "FDE"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -2878,22 +2890,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 506,
       "user": "okf-memory"
-    },
-    {
-      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
-      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
-      "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "postgresql",
-        "apollo-server"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "erkanunluturk"
     },
     {
       "title": "How to Refactor a Legacy Application Before Migrating It",
@@ -3103,7 +3101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "Apeireth"
     },
     {
@@ -3118,6 +3116,37 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "soulcutter"
+    },
+    {
+      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+      "url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
+      "published_at": "2026-09-09T13:01:00.000Z",
+      "description": "The three Indian companies are accused of using hackers to steal information used to sway litigation.",
+      "tags": [
+        "Security",
+        "Government & Policy",
+        "Exclusive",
+        "Ron Wyden",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "published_at": "2026-09-09T13:00:00.000Z",
+      "description": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "tags": [
+        "Enterprise",
+        "Startups",
+        "Security",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
@@ -3290,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 781,
       "user": "ahujasid"
     },
     {
@@ -3305,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 708,
       "user": "KJGX66F"
     },
     {
@@ -3320,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 531,
       "user": "byJoey"
     },
     {
@@ -3335,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "LerSent001"
     },
     {
@@ -3365,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2009,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3380,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1218,
       "user": "EverettFish"
     },
     {
@@ -3395,23 +3424,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 848,
       "user": "kajisho5"
-    },
-    {
-      "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
-      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
-      "published_at": "2026-09-04T17:18:43Z",
-      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
-      "source": "GitHub",
-      "stars": 464,
-      "user": "AI-FanGe"
     },
     {
       "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
@@ -3425,8 +3439,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 509,
       "user": "donvito"
+    },
+    {
+      "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
+      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+      "published_at": "2026-09-04T17:18:43Z",
+      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "AI-FanGe"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3440,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 506,
       "user": "okf-memory"
     },
     {
@@ -3455,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 162,
       "user": "Stocist"
     },
     {
@@ -3470,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "Adytm404"
     },
     {
@@ -3489,19 +3518,19 @@
       "user": "chrisgreg"
     },
     {
-      "title": "vvrnv/argo9s - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
-      "url": "https://github.com/vvrnv/argo9s",
-      "published_at": "2026-09-07T08:11:20Z",
-      "description": "A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
+      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "url": "https://github.com/rhevorn/shape",
+      "published_at": "2026-09-03T12:27:18Z",
+      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
       "source": "GitHub",
-      "stars": 82,
-      "user": "vvrnv"
+      "stars": 87,
+      "user": "rhevorn"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -3515,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2630,
+      "stars": 2720,
       "user": "ashemag"
     },
     {
@@ -3530,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2195,
+      "stars": 2216,
       "user": "Albert-Weasker"
     },
     {
@@ -3545,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "Mantitup-Org"
     },
     {
@@ -3560,23 +3589,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 272,
       "user": "Appllama"
     },
     {
-      "title": "hsandhu/mobilecode - mobilecode is a fork of opencode that builds and previews iOS and Android projects",
-      "url": "https://github.com/hsandhu/mobilecode",
-      "published_at": "2026-09-05T03:26:31Z",
-      "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
+      "url": "https://github.com/LBEILC/RhineLabUI",
+      "published_at": "2026-09-07T18:16:23Z",
+      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 226,
-      "user": "hsandhu"
+      "stars": 249,
+      "user": "LBEILC"
     },
     {
       "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
@@ -3590,23 +3619,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 242,
       "user": "flectar"
-    },
-    {
-      "title": "Apeireth/Apeireth - Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
-      "url": "https://github.com/Apeireth/Apeireth",
-      "published_at": "2026-09-04T08:55:31Z",
-      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
-      "source": "GitHub",
-      "stars": 119,
-      "user": "Apeireth"
     },
     {
       "title": "rust-alert/ra2.exe - 使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。",
@@ -3620,14 +3634,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 141,
       "user": "rust-alert"
     },
     {
-      "title": "denialwm/droidloom - GitHub Repository",
+      "title": "Apeireth/Apeireth - Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "url": "https://github.com/Apeireth/Apeireth",
+      "published_at": "2026-09-04T08:55:31Z",
+      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "Apeireth"
+    },
+    {
+      "title": "denialwm/droidloom - Droidloom - weaving Android into Linux. Run Android Apps inside your Wayland session! Supports arm64 and x86_64 platforms, running arm64-only apps on x86_64 without closed source libraries.",
       "url": "https://github.com/denialwm/droidloom",
       "published_at": "2026-09-06T18:48:29Z",
-      "description": "Trending GitHub Repository",
+      "description": "Droidloom - weaving Android into Linux. Run Android Apps inside your Wayland session! Supports arm64 and x86_64 platforms, running arm64-only apps on x86_64 without closed source libraries.",
       "tags": [
         "rust",
         "github",
@@ -3635,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 86,
       "user": "denialwm"
     },
     {
@@ -3650,22 +3679,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 74,
       "user": "truespar"
-    },
-    {
-      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
-      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
-      "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "postgresql",
-        "apollo-server"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "erkanunluturk"
     },
     {
       "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
