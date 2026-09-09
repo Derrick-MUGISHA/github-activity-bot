@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1952,
+      "stars": 1994,
       "user": "Rion-Wu-tech"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1197,
       "user": "EverettFish"
     },
     {
@@ -758,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 464,
       "user": "AI-FanGe"
     },
     {
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 501,
       "user": "okf-memory"
     },
     {
@@ -788,14 +788,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 158,
       "user": "Stocist"
     },
     {
-      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
+      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "published_at": "2026-09-03T15:55:54Z",
-      "description": "Open-source AI brand visibility and competitor reports",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "tags": [
         "typescript",
         "github",
@@ -803,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2180,
+      "stars": 2195,
       "user": "Albert-Weasker"
     },
     {
@@ -818,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 234,
       "user": "flectar"
     },
     {
@@ -849,18 +849,18 @@
       "user": "freddyb"
     },
     {
-      "title": "pwntool process is none [Starting remote process None: Process creation failed]",
-      "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
-      "published_at": "2026-09-07T02:22:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Splunk AI Assistant failed during initial setup due to Python errors",
+      "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
+      "published_at": "2026-09-09T07:59:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
+        "best-practices",
         "python",
-        "ctf",
-        "pwntools"
+        "splunk"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "GEO"
+      "user": "Baharvand"
     },
     {
       "title": "CloudNC raises $20M to automate manufacturing&#8217;s most pressing bottlenecks",
@@ -981,21 +981,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-      "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-      "published_at": "2026-09-08T15:25:35.000Z",
-      "description": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
-      "tags": [
-        "Climate",
-        "Google",
-        "NextEra Energy",
-        "nuclear power"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
@@ -1268,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 779,
       "user": "ahujasid"
     },
     {
@@ -1283,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 697,
       "user": "KJGX66F"
     },
     {
@@ -1298,8 +1283,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 527,
       "user": "byJoey"
+    },
+    {
+      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "url": "https://github.com/LerSent001/holo-card",
+      "published_at": "2026-09-07T16:18:45Z",
+      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
+      "source": "GitHub",
+      "stars": 190,
+      "user": "LerSent001"
     },
     {
       "title": "bjarneo/omarchy-workspace-layout - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
@@ -1317,21 +1317,6 @@
       "user": "bjarneo"
     },
     {
-      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
-      "url": "https://github.com/LerSent001/holo-card",
-      "published_at": "2026-09-07T16:18:45Z",
-      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "LerSent001"
-    },
-    {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "published_at": "2026-09-07T00:41:18Z",
@@ -1343,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1197,
       "user": "EverettFish"
     },
     {
@@ -1358,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 158,
       "user": "Stocist"
     },
     {
@@ -1373,14 +1358,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2542,
+      "stars": 2630,
       "user": "ashemag"
     },
     {
-      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
+      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "published_at": "2026-09-03T15:55:54Z",
-      "description": "Open-source AI brand visibility and competitor reports",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "tags": [
         "typescript",
         "github",
@@ -1388,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2180,
+      "stars": 2195,
       "user": "Albert-Weasker"
     },
     {
@@ -1403,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "Mantitup-Org"
     },
     {
@@ -1418,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 270,
       "user": "Appllama"
     },
     {
@@ -1433,8 +1418,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "hsandhu"
+    },
+    {
+      "title": "React client doesn't catch the socket.on() signal from the server using setInterval",
+      "url": "https://stackoverflow.com/questions/80001823/react-client-doesnt-catch-the-socket-on-signal-from-the-server-using-setinter",
+      "published_at": "2026-09-09T05:38:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "socket.io"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "blue emperor"
+    },
+    {
+      "title": "string() function doesn't work in document.evaluate",
+      "url": "https://stackoverflow.com/questions/80001644/string-function-doesnt-work-in-document-evaluate",
+      "published_at": "2026-09-08T11:55:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "xpath"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Melab"
     },
     {
       "title": "I have two elements with JavaScript: one is inside of another and they are layering",
@@ -1475,19 +1487,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Friedrich Novak"
-    },
-    {
-      "title": "string() function doesn't work in document.evaluate",
-      "url": "https://stackoverflow.com/questions/80001644/string-function-doesnt-work-in-document-evaluate",
-      "published_at": "2026-09-08T11:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "xpath"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Melab"
     },
     {
       "title": "Get the playPause function to switch icons in the browser",
@@ -1557,22 +1556,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erkanunluturk"
-    },
-    {
-      "title": "How to set persistent values for a TM userscript from elements on the page the script is running in?",
-      "url": "https://stackoverflow.com/questions/79945175/how-to-set-persistent-values-for-a-tm-userscript-from-elements-on-the-page-the-s",
-      "published_at": "2026-05-22T11:55:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "checkbox",
-        "tampermonkey",
-        "userscripts"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gerold Broser"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -1816,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1952,
+      "stars": 1994,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1831,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1197,
       "user": "EverettFish"
     },
     {
@@ -1846,23 +1829,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 815,
       "user": "kajisho5"
-    },
-    {
-      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
-      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "published_at": "2026-09-05T16:03:06Z",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
-      "source": "GitHub",
-      "stars": 423,
-      "user": "donvito"
     },
     {
       "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
@@ -1876,14 +1844,75 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 464,
       "user": "AI-FanGe"
+    },
+    {
+      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "published_at": "2026-09-05T16:03:06Z",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "donvito"
+    },
+    {
+      "title": "Write sequence of null chars to file",
+      "url": "https://stackoverflow.com/questions/80001870/write-sequence-of-null-chars-to-file",
+      "published_at": "2026-09-09T08:30:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "utf-8",
+        "null",
+        "character-encoding",
+        "file-writing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Stev"
+    },
+    {
+      "title": "Splunk AI Assistant failed during initial setup due to Python errors",
+      "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
+      "published_at": "2026-09-09T07:59:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "best-practices",
+        "python",
+        "splunk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Baharvand"
+    },
+    {
+      "title": "Using df.styler with df.to_latex() and longtable",
+      "url": "https://stackoverflow.com/questions/80001851/using-df-styler-with-df-to-latex-and-longtable",
+      "published_at": "2026-09-09T07:06:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "pandas",
+        "latex",
+        "pandoc",
+        "font-style"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gjmb"
     },
     {
       "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
       "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
       "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "debugpy"
@@ -1922,7 +1951,7 @@
       "title": "os.path.isfile() does not work with ~ prefix",
       "url": "https://stackoverflow.com/questions/80001679/os-path-isfile-does-not-work-with-prefix",
       "published_at": "2026-09-08T14:09:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -1962,7 +1991,7 @@
       "title": "Documentation of pandas DataFrame.replace with series as input",
       "url": "https://stackoverflow.com/questions/80001493/documentation-of-pandas-dataframe-replace-with-series-as-input",
       "published_at": "2026-09-07T20:00:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
         "pandas",
@@ -1971,47 +2000,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33098110"
-    },
-    {
-      "title": "How to deal with implicit transformation into parent type when using a TypeVar?",
-      "url": "https://stackoverflow.com/questions/80001386/how-to-deal-with-implicit-transformation-into-parent-type-when-using-a-typevar",
-      "published_at": "2026-09-07T11:12:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tristan Nemoz"
-    },
-    {
-      "title": "pwntool process is none [Starting remote process None: Process creation failed]",
-      "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
-      "published_at": "2026-09-07T02:22:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "ctf",
-        "pwntools"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "GEO"
-    },
-    {
-      "title": "Problems with getting variables via lifespan context manager in Fastapi",
-      "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi",
-      "published_at": "2026-09-06T18:36:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
     }
   ],
   "DevOps": [
@@ -2428,7 +2416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "hsandhu"
     }
   ],
@@ -2757,7 +2745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 697,
       "user": "KJGX66F"
     },
     {
@@ -2772,7 +2760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 527,
       "user": "byJoey"
     },
     {
@@ -2890,7 +2878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 501,
       "user": "okf-memory"
     },
     {
@@ -2906,20 +2894,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erkanunluturk"
-    },
-    {
-      "title": "Problems with getting variables via lifespan context manager in Fastapi",
-      "url": "https://stackoverflow.com/questions/80001221/problems-with-getting-variables-via-lifespan-context-manager-in-fastapi",
-      "published_at": "2026-09-06T18:36:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
     },
     {
       "title": "How to Refactor a Legacy Application Before Migrating It",
@@ -3129,7 +3103,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 119,
       "user": "Apeireth"
     },
     {
@@ -3316,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 779,
       "user": "ahujasid"
     },
     {
@@ -3331,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 697,
       "user": "KJGX66F"
     },
     {
@@ -3346,8 +3320,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 527,
       "user": "byJoey"
+    },
+    {
+      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "url": "https://github.com/LerSent001/holo-card",
+      "published_at": "2026-09-07T16:18:45Z",
+      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
+      "source": "GitHub",
+      "stars": 190,
+      "user": "LerSent001"
     },
     {
       "title": "bjarneo/omarchy-workspace-layout - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
@@ -3365,21 +3354,6 @@
       "user": "bjarneo"
     },
     {
-      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
-      "url": "https://github.com/LerSent001/holo-card",
-      "published_at": "2026-09-07T16:18:45Z",
-      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "LerSent001"
-    },
-    {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "published_at": "2026-09-04T15:00:53Z",
@@ -3391,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 1952,
+      "stars": 1994,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3406,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1197,
       "user": "EverettFish"
     },
     {
@@ -3421,23 +3395,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 815,
       "user": "kajisho5"
-    },
-    {
-      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
-      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "published_at": "2026-09-05T16:03:06Z",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
-      "source": "GitHub",
-      "stars": 423,
-      "user": "donvito"
     },
     {
       "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
@@ -3451,8 +3410,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 464,
       "user": "AI-FanGe"
+    },
+    {
+      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "published_at": "2026-09-05T16:03:06Z",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "donvito"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3466,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 501,
       "user": "okf-memory"
     },
     {
@@ -3481,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 158,
       "user": "Stocist"
     },
     {
@@ -3496,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "Adytm404"
     },
     {
@@ -3515,19 +3489,19 @@
       "user": "chrisgreg"
     },
     {
-      "title": "vianziro/Whatsapp-Dekstop - An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
-      "url": "https://github.com/vianziro/Whatsapp-Dekstop",
-      "published_at": "2026-09-07T08:13:04Z",
-      "description": "An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
+      "title": "vvrnv/argo9s - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
+      "url": "https://github.com/vvrnv/argo9s",
+      "published_at": "2026-09-07T08:11:20Z",
+      "description": "A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9649104?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
       "source": "GitHub",
-      "stars": 78,
-      "user": "vianziro"
+      "stars": 82,
+      "user": "vvrnv"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -3541,14 +3515,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2542,
+      "stars": 2630,
       "user": "ashemag"
     },
     {
-      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
+      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "published_at": "2026-09-03T15:55:54Z",
-      "description": "Open-source AI brand visibility and competitor reports",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "tags": [
         "typescript",
         "github",
@@ -3556,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
       "source": "GitHub",
-      "stars": 2180,
+      "stars": 2195,
       "user": "Albert-Weasker"
     },
     {
@@ -3571,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "Mantitup-Org"
     },
     {
@@ -3586,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 270,
       "user": "Appllama"
     },
     {
@@ -3601,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122918?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "hsandhu"
     },
     {
@@ -3616,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 234,
       "user": "flectar"
     },
     {
@@ -3631,8 +3605,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 119,
       "user": "Apeireth"
+    },
+    {
+      "title": "rust-alert/ra2.exe - 使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。",
+      "url": "https://github.com/rust-alert/ra2.exe",
+      "published_at": "2026-09-06T18:18:02Z",
+      "description": "使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "rust-alert"
+    },
+    {
+      "title": "denialwm/droidloom - GitHub Repository",
+      "url": "https://github.com/denialwm/droidloom",
+      "published_at": "2026-09-06T18:48:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "denialwm"
     },
     {
       "title": "truespar/paddock - Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
@@ -3650,36 +3654,6 @@
       "user": "truespar"
     },
     {
-      "title": "TravellingEngineer/barney - Content Journey - Package Tool",
-      "url": "https://github.com/TravellingEngineer/barney",
-      "published_at": "2026-09-05T10:34:15Z",
-      "description": "Content Journey - Package Tool",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
-      "source": "GitHub",
-      "stars": 70,
-      "user": "TravellingEngineer"
-    },
-    {
-      "title": "dtDhruv/ytkew - A terminal YouTube Music player inspired by kew.",
-      "url": "https://github.com/dtDhruv/ytkew",
-      "published_at": "2026-09-05T05:46:20Z",
-      "description": "A terminal YouTube Music player inspired by kew.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/126741154?v=4",
-      "source": "GitHub",
-      "stars": 67,
-      "user": "dtDhruv"
-    },
-    {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
       "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
       "published_at": "2026-08-27T08:54:36.000Z",
@@ -3694,18 +3668,18 @@
       "user": "erkanunluturk"
     },
     {
-      "title": "pwntool process is none [Starting remote process None: Process creation failed]",
-      "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
-      "published_at": "2026-09-07T02:22:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "published_at": "2026-09-09T06:00:00.000Z",
+      "description": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
       "tags": [
-        "python",
-        "ctf",
-        "pwntools"
+        "Climate",
+        "Exclusive",
+        "fusion power"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "GEO"
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
