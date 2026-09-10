@@ -1,6 +1,50 @@
 {
   "AI": [
     {
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
+      "published_at": "2026-09-09T17:37:13Z",
+      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
+      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
+      "published_at": "2026-09-09T20:19:53Z",
+      "description": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Interactive AI Eval Dashboards with Data Studio",
       "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
       "published_at": "2026-09-08T07:00:00Z",
@@ -491,49 +535,6 @@
       "user": "xbill"
     },
     {
-      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
-      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
-      "published_at": "2026-09-01T10:52:37Z",
-      "description": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
-      "tags": [
-        "angular",
-        "gemma",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Preptember is here!! Plan a Fest for your local community.",
-      "url": "https://blog.mlh.com/preptember-is-here-plan-a-fest-for-your-local-community-5ce3",
-      "published_at": "2026-09-01T19:26:08Z",
-      "description": "September marks the official start of Preptember, a month dedicated to organizers planning local...",
-      "tags": [
-        "hacktoberfest",
-        "ai",
-        "hackathon",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2For3wryf7i46mb1p17ea4.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "How to Design AI Evaluations You Can Actually Trust",
-      "url": "https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3",
-      "published_at": "2026-09-01T16:35:00Z",
-      "description": "As part of my work at Google, we are publishing a suite of Agent Skills for Google products and...",
-      "tags": [
-        "ai",
-        "evals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ya5hqnsnkh2tl5jp2vy.png",
-      "source": "Dev.to",
-      "user": "Jan-Felix Schmakeit"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -713,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2021,
       "user": "Rion-Wu-tech"
     },
     {
@@ -728,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1238,
       "user": "EverettFish"
     },
     {
@@ -743,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 531,
       "user": "AI-FanGe"
     },
     {
@@ -758,53 +759,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "okf-memory"
-    },
-    {
-      "title": "Stocist/Tailtab - A Tailscale node for each browser profile.",
-      "url": "https://github.com/Stocist/Tailtab",
-      "published_at": "2026-09-03T09:44:17Z",
-      "description": "A Tailscale node for each browser profile.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "Stocist"
-    },
-    {
-      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "published_at": "2026-09-03T15:55:54Z",
-      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
-      "source": "GitHub",
-      "stars": 2247,
-      "user": "Albert-Weasker"
-    },
-    {
-      "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
-      "url": "https://github.com/flectar/mail",
-      "published_at": "2026-09-03T00:12:32Z",
-      "description": "Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
-      "source": "GitHub",
-      "stars": 262,
-      "user": "flectar"
     },
     {
       "title": "A Design Space Exploration of Async/Await",
@@ -836,7 +792,7 @@
       "title": "Implementing a 3-layer neural network from scratch with gradient descent for tabular regression",
       "url": "https://stackoverflow.com/questions/80002001/implementing-a-3-layer-neural-network-from-scratch-with-gradient-descent-for-tab",
       "published_at": "2026-09-09T21:43:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "numpy",
@@ -877,6 +833,38 @@
       "user": "Baharvand"
     },
     {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "published_at": "2026-09-10T00:00:37.000Z",
+      "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "tags": [
+        "AI",
+        "Venture",
+        "customer research",
+        "M&A",
+        "menlo ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Automattic&#8217;s board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "published_at": "2026-09-09T23:14:29.000Z",
+      "description": "Mullenweg said in a company Slack message that it was against his will.",
+      "tags": [
+        "Apps",
+        "Commerce",
+        "TC",
+        "Automattic",
+        "WordPress"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort, Sarah Perez"
+    },
+    {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "published_at": "2026-09-09T22:25:22.000Z",
@@ -914,6 +902,7 @@
         "AI",
         "Privacy",
         "Apple",
+        "Apple Watch",
         "privacy"
       ],
       "cover_image": null,
@@ -959,42 +948,12 @@
         "AI",
         "Apple",
         "Duo",
-        "phones"
+        "In Brief",
+        "iPhone"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-      "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-      "published_at": "2026-09-09T18:34:24.000Z",
-      "description": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "TC",
-        "Harvey"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Apple&#8217;s revamped Health app will calculate your &#8216;health age&#8217; and readiness score",
-      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "published_at": "2026-09-09T18:16:29.000Z",
-      "description": "The update uses Apple Intelligence to make better sense of your health data.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Gadgets",
-        "Apple",
-        "Apple Health"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "What a Machine Learning Model is and How to Make One",
@@ -1076,6 +1035,21 @@
   ],
   "JavaScript": [
     {
+      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
+      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
+      "published_at": "2026-09-09T20:19:53Z",
+      "description": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
       "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
       "published_at": "2026-09-03T15:24:18Z",
@@ -1119,21 +1093,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
       "source": "Dev.to",
       "user": "Gamya "
-    },
-    {
-      "title": "Build Real-Time Client-Side TTS in Angular Using Firebase AI Logic and Gemini",
-      "url": "https://dev.to/gde/build-real-time-client-side-tts-in-angular-using-firebase-ai-logic-and-gemini-37hc",
-      "published_at": "2026-09-01T10:52:37Z",
-      "description": "In my previous article on Dev.to, I showed how to build expressive text-to-speech using Gemini and...",
-      "tags": [
-        "angular",
-        "gemma",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4r5r2met21zjpsowlzwg.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1256,21 +1215,6 @@
       "user": "velmu"
     },
     {
-      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
-      "url": "https://github.com/ahujasid/camera-to-blender",
-      "published_at": "2026-09-03T10:34:30Z",
-      "description": "Take a photo of real objects, and paste them in Blender",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
-      "source": "GitHub",
-      "stars": 789,
-      "user": "ahujasid"
-    },
-    {
       "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "url": "https://github.com/KJGX66F/usque-custom-pro",
       "published_at": "2026-09-04T01:15:28Z",
@@ -1297,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 538,
       "user": "byJoey"
     },
     {
@@ -1312,8 +1256,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 460,
       "user": "achimala"
+    },
+    {
+      "title": "browser-use/browser-use-pi - A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "url": "https://github.com/browser-use/browser-use-pi",
+      "published_at": "2026-09-05T19:47:45Z",
+      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 200,
+      "user": "browser-use"
     },
     {
       "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
@@ -1327,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "LerSent001"
     },
     {
@@ -1342,38 +1301,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1238,
       "user": "EverettFish"
-    },
-    {
-      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "url": "https://github.com/rhevorn/shape",
-      "published_at": "2026-09-03T12:27:18Z",
-      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "rhevorn"
-    },
-    {
-      "title": "Stocist/Tailtab - A Tailscale node for each browser profile.",
-      "url": "https://github.com/Stocist/Tailtab",
-      "published_at": "2026-09-03T09:44:17Z",
-      "description": "A Tailscale node for each browser profile.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "Stocist"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -1387,23 +1316,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2832,
+      "stars": 2840,
       "user": "ashemag"
-    },
-    {
-      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "published_at": "2026-09-03T15:55:54Z",
-      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
-      "source": "GitHub",
-      "stars": 2247,
-      "user": "Albert-Weasker"
     },
     {
       "title": "Mantitup-Org/vista - GitHub Repository",
@@ -1432,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 307,
       "user": "nagisanzenin"
     },
     {
@@ -1447,8 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 278,
       "user": "LBEILC"
+    },
+    {
+      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "published_at": "2026-09-05T06:38:46Z",
+      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "source": "GitHub",
+      "stars": 276,
+      "user": "Appllama"
     },
     {
       "title": "Blue and orange React icons on VS Code explorer",
@@ -1491,19 +1420,6 @@
       "user": "Melab"
     },
     {
-      "title": "I have two elements with JavaScript: one is inside of another and they are layering",
-      "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
-      "published_at": "2026-09-08T17:59:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "xtimex mail"
-    },
-    {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
@@ -1517,6 +1433,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "neil"
+    },
+    {
+      "title": "I have two elements with JavaScript: one is inside of another and they are layering",
+      "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
+      "published_at": "2026-09-08T17:59:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xtimex mail"
     },
     {
       "title": "localStorage data is removed when opening a Bootstrap modal",
@@ -1828,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2021,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1843,23 +1772,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1238,
       "user": "EverettFish"
-    },
-    {
-      "title": "kajisho5/ffmpeg-skill - GitHub Repository",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "published_at": "2026-09-03T14:33:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
-      "source": "GitHub",
-      "stars": 877,
-      "user": "kajisho5"
     },
     {
       "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
@@ -1873,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 737,
       "user": "donvito"
     },
     {
@@ -1888,8 +1802,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 531,
       "user": "AI-FanGe"
+    },
+    {
+      "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "published_at": "2026-09-08T05:02:01Z",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
+      "source": "GitHub",
+      "stars": 482,
+      "user": "gazijarin"
     },
     {
       "title": "PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__'",
@@ -1909,7 +1838,7 @@
       "title": "Implementing a 3-layer neural network from scratch with gradient descent for tabular regression",
       "url": "https://stackoverflow.com/questions/80002001/implementing-a-3-layer-neural-network-from-scratch-with-gradient-descent-for-tab",
       "published_at": "2026-09-09T21:43:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "numpy",
@@ -1979,6 +1908,19 @@
       "user": "Stev"
     },
     {
+      "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
+      "url": "https://stackoverflow.com/questions/80001733/why-is-python-able-to-perform-a-bitwise-and-on-lsb-of-16-bit-value-instead-of-th",
+      "published_at": "2026-09-08T18:20:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "bitwise-operators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dimitrios Desyllas"
+    },
+    {
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
@@ -1991,19 +1933,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Baharvand"
-    },
-    {
-      "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
-      "url": "https://stackoverflow.com/questions/80001733/why-is-python-able-to-perform-a-bitwise-and-on-lsb-of-16-bit-value-instead-of-th",
-      "published_at": "2026-09-08T18:20:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "bitwise-operators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
     },
     {
       "title": "Using df.styler with df.to_latex() and longtable",
@@ -2064,6 +1993,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
       "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
@@ -2302,19 +2246,6 @@
       "user": "velmu"
     },
     {
-      "title": "I have two elements with JavaScript: one is inside of another and they are layering",
-      "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
-      "published_at": "2026-09-08T17:59:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "xtimex mail"
-    },
-    {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
@@ -2328,6 +2259,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "neil"
+    },
+    {
+      "title": "I have two elements with JavaScript: one is inside of another and they are layering",
+      "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
+      "published_at": "2026-09-08T17:59:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xtimex mail"
     },
     {
       "title": "How to set a value of html text element with javascript",
@@ -2360,6 +2304,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
+      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
+      "published_at": "2026-09-09T20:19:53Z",
+      "description": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
     {
       "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
       "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
@@ -2447,7 +2406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "denialwm"
     },
     {
@@ -2484,6 +2443,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
       "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
@@ -2808,7 +2782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 538,
       "user": "byJoey"
     },
     {
@@ -2869,7 +2843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "okf-memory"
     },
     {
@@ -3090,24 +3064,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "Apeireth"
-    },
-    {
-      "title": "Switching Password Managers in 2026",
-      "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-      "published_at": "2026-09-08T08:55:09.220-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "soulcutter"
     }
   ],
   "Tools": [
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Interactive AI Eval Dashboards with Data Studio",
       "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
@@ -3250,21 +3226,6 @@
       "user": "pabs3"
     },
     {
-      "title": "ahujasid/camera-to-blender - Take a photo of real objects, and paste them in Blender",
-      "url": "https://github.com/ahujasid/camera-to-blender",
-      "published_at": "2026-09-03T10:34:30Z",
-      "description": "Take a photo of real objects, and paste them in Blender",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11807284?v=4",
-      "source": "GitHub",
-      "stars": 789,
-      "user": "ahujasid"
-    },
-    {
       "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "url": "https://github.com/KJGX66F/usque-custom-pro",
       "published_at": "2026-09-04T01:15:28Z",
@@ -3291,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 538,
       "user": "byJoey"
     },
     {
@@ -3306,8 +3267,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 460,
       "user": "achimala"
+    },
+    {
+      "title": "browser-use/browser-use-pi - A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "url": "https://github.com/browser-use/browser-use-pi",
+      "published_at": "2026-09-05T19:47:45Z",
+      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 200,
+      "user": "browser-use"
     },
     {
       "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
@@ -3321,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "LerSent001"
     },
     {
@@ -3336,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2021,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3351,23 +3327,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1238,
       "user": "EverettFish"
-    },
-    {
-      "title": "kajisho5/ffmpeg-skill - GitHub Repository",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "published_at": "2026-09-03T14:33:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20648875?v=4",
-      "source": "GitHub",
-      "stars": 877,
-      "user": "kajisho5"
     },
     {
       "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
@@ -3381,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 737,
       "user": "donvito"
     },
     {
@@ -3396,8 +3357,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 531,
       "user": "AI-FanGe"
+    },
+    {
+      "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "published_at": "2026-09-08T05:02:01Z",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
+      "source": "GitHub",
+      "stars": 482,
+      "user": "gazijarin"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3411,68 +3387,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 519,
       "user": "okf-memory"
     },
     {
-      "title": "rhevorn/shape - Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
-      "url": "https://github.com/rhevorn/shape",
-      "published_at": "2026-09-03T12:27:18Z",
-      "description": "Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized errors, JSON Schema, and OpenAPI support.",
+      "title": "vianziro/Whatsapp-Dekstop - An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
+      "url": "https://github.com/vianziro/Whatsapp-Dekstop",
+      "published_at": "2026-09-07T08:13:04Z",
+      "description": "An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18649947?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9649104?v=4",
       "source": "GitHub",
-      "stars": 167,
-      "user": "rhevorn"
+      "stars": 84,
+      "user": "vianziro"
     },
     {
-      "title": "Stocist/Tailtab - A Tailscale node for each browser profile.",
-      "url": "https://github.com/Stocist/Tailtab",
-      "published_at": "2026-09-03T09:44:17Z",
-      "description": "A Tailscale node for each browser profile.",
+      "title": "vvrnv/argo9s - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
+      "url": "https://github.com/vvrnv/argo9s",
+      "published_at": "2026-09-07T08:11:20Z",
+      "description": "A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171693198?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
       "source": "GitHub",
-      "stars": 164,
-      "user": "Stocist"
+      "stars": 84,
+      "user": "vvrnv"
     },
     {
-      "title": "Adytm404/whatsapp-web.view - Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
-      "url": "https://github.com/Adytm404/whatsapp-web.view",
-      "published_at": "2026-09-03T04:04:47Z",
-      "description": "Lightweight Windows desktop wrapper for WhatsApp Web, built with Go and Microsoft Edge WebView2.",
+      "title": "VaderChen/YourDesk - YourDesk 跨平台遠端桌面：支援 macOS 與 Windows、硬體加速、多螢幕，以及文字、圖片、檔案與資料夾剪貼簿傳輸。",
+      "url": "https://github.com/VaderChen/YourDesk",
+      "published_at": "2026-09-08T03:53:34Z",
+      "description": "YourDesk 跨平台遠端桌面：支援 macOS 與 Windows、硬體加速、多螢幕，以及文字、圖片、檔案與資料夾剪貼簿傳輸。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41492762?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 94,
-      "user": "Adytm404"
+      "stars": 76,
+      "user": "VaderChen"
     },
     {
-      "title": "chrisgreg/glance - A tiny, self-hosted web analytics service. ",
-      "url": "https://github.com/chrisgreg/glance",
-      "published_at": "2026-09-03T23:52:08Z",
-      "description": "A tiny, self-hosted web analytics service. ",
+      "title": "ZenNotes/tui - GitHub Repository",
+      "url": "https://github.com/ZenNotes/tui",
+      "published_at": "2026-09-08T22:27:40Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/277024416?v=4",
       "source": "GitHub",
-      "stars": 87,
-      "user": "chrisgreg"
+      "stars": 56,
+      "user": "ZenNotes"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -3486,23 +3462,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2832,
+      "stars": 2840,
       "user": "ashemag"
-    },
-    {
-      "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "published_at": "2026-09-03T15:55:54Z",
-      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/186366929?v=4",
-      "source": "GitHub",
-      "stars": 2247,
-      "user": "Albert-Weasker"
     },
     {
       "title": "Mantitup-Org/vista - GitHub Repository",
@@ -3531,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97045551?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 307,
       "user": "nagisanzenin"
     },
     {
@@ -3546,23 +3507,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 278,
       "user": "LBEILC"
     },
     {
-      "title": "flectar/mail - Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
-      "url": "https://github.com/flectar/mail",
-      "published_at": "2026-09-03T00:12:32Z",
-      "description": "Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
+      "title": "Appllama/liquid-glass-screens - Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "url": "https://github.com/Appllama/liquid-glass-screens",
+      "published_at": "2026-09-05T06:38:46Z",
+      "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92962995?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "flectar"
+      "stars": 276,
+      "user": "Appllama"
     },
     {
       "title": "rust-alert/ra2.exe - 使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。",
@@ -3576,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "rust-alert"
     },
     {
@@ -3591,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "Apeireth"
     },
     {
@@ -3606,23 +3567,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "denialwm"
     },
     {
-      "title": "lantunnel/lantunnel - Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own LANs — no port forwarding, no public URLs.",
-      "url": "https://github.com/lantunnel/lantunnel",
-      "published_at": "2026-09-03T07:00:29Z",
-      "description": "Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own LANs — no port forwarding, no public URLs.",
+      "title": "TravellingEngineer/barney - Content Journey - Package Tool",
+      "url": "https://github.com/TravellingEngineer/barney",
+      "published_at": "2026-09-05T10:34:15Z",
+      "description": "Content Journey - Package Tool",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285861879?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
       "stars": 84,
-      "user": "lantunnel"
+      "user": "TravellingEngineer"
+    },
+    {
+      "title": "gfhdhytghd/viewflow - GitHub Repository",
+      "url": "https://github.com/gfhdhytghd/viewflow",
+      "published_at": "2026-09-07T12:18:27Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "gfhdhytghd"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
