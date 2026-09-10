@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
+      "published_at": "2026-09-09T17:37:13Z",
+      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
       "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
       "published_at": "2026-09-09T20:59:07Z",
@@ -14,20 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "4 pitfalls of loop engineering (and how to fix them)",
-      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
-      "published_at": "2026-09-09T17:37:13Z",
-      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2055,
+      "stars": 2058,
       "user": "Rion-Wu-tech"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1325,
       "user": "EverettFish"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 814,
       "user": "Edge0-AI"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 645,
       "user": "AI-FanGe"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 546,
       "user": "okf-memory"
     },
     {
@@ -804,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 645,
       "user": "Vincentwei1021"
     },
     {
@@ -819,20 +819,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 187,
       "user": "deepseek-ai"
     },
     {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "published_at": "2026-09-09T10:22:32.302-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Finding digits in a string containing distinct digits",
+      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
+      "published_at": "2026-09-10T14:27:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
-        "plt"
+        "python"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "drmorr"
+      "source": "StackOverflow",
+      "user": "Sam Sianati"
     },
     {
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
@@ -847,6 +847,81 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Baharvand"
+    },
+    {
+      "title": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "published_at": "2026-09-10T17:45:00.000Z",
+      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "tags": [
+        "Startups",
+        "Media & Entertainment",
+        "AI",
+        "Pocket FM",
+        "Pocket Entertainment"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
+      "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
+      "published_at": "2026-09-10T16:31:25.000Z",
+      "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
+      "tags": [
+        "Apps",
+        "Social",
+        "Instagram"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "The Boring Company raises $3B in round led by UAE",
+      "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+      "published_at": "2026-09-10T15:07:27.000Z",
+      "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+      "tags": [
+        "Transportation",
+        "Elon Musk",
+        "In Brief",
+        "The Boring Company"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "published_at": "2026-09-10T14:53:50.000Z",
+      "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "research"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "published_at": "2026-09-10T14:17:37.000Z",
+      "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "Exclusive",
+        "maven"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "ID verification giant IDScan confirms data breach with more than 150 million driver&#8217;s licenses stolen",
@@ -877,96 +952,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-      "url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-      "published_at": "2026-09-10T13:00:00.000Z",
-      "description": "The buzzy startup raised $600 million in its Series C round.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "TC",
-        "defense tech",
-        "mach industries"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
-      "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
-      "published_at": "2026-09-10T12:00:00.000Z",
-      "description": "Tern has described its tech as \"Google Maps for the battlefield.\"",
-      "tags": [
-        "Transportation",
-        "tern ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "published_at": "2026-09-10T00:00:37.000Z",
-      "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "tags": [
-        "AI",
-        "Venture",
-        "customer research",
-        "M&A",
-        "menlo ventures"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Automattic&#8217;s board forces CEO Matt Mullenweg into leave of absence",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "published_at": "2026-09-09T23:14:29.000Z",
-      "description": "Mullenweg said in a company Slack message that it was against his will.",
-      "tags": [
-        "Apps",
-        "Commerce",
-        "TC",
-        "Automattic",
-        "WordPress"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort, Sarah Perez"
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "published_at": "2026-09-09T22:25:22.000Z",
-      "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "published_at": "2026-09-09T21:43:34.000Z",
-      "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "tags": [
-        "AI",
-        "Climate",
-        "Government & Policy",
-        "clean energy",
-        "data centers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "What a Machine Learning Model is and How to Make One",
@@ -1239,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 745,
       "user": "KJGX66F"
     },
     {
@@ -1254,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 677,
       "user": "achimala"
     },
     {
@@ -1269,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 549,
       "user": "byJoey"
     },
     {
@@ -1288,19 +1273,19 @@
       "user": "yudaprasetya007"
     },
     {
-      "title": "browser-use/browser-use-pi - A tiny TypeScript web agent, hill climbed on real browser evals.",
-      "url": "https://github.com/browser-use/browser-use-pi",
-      "published_at": "2026-09-05T19:47:45Z",
-      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "title": "mizzlelover/gongwen-gbt9704-skill - 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+      "published_at": "2026-09-09T10:04:14Z",
+      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 265,
-      "user": "browser-use"
+      "stars": 279,
+      "user": "mizzlelover"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -1314,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1325,
       "user": "EverettFish"
     },
     {
@@ -1329,23 +1314,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3024,
+      "stars": 3051,
       "user": "ashemag"
-    },
-    {
-      "title": "Mantitup-Org/vista - GitHub Repository",
-      "url": "https://github.com/Mantitup-Org/vista",
-      "published_at": "2026-09-04T06:20:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
-      "source": "GitHub",
-      "stars": 629,
-      "user": "Mantitup-Org"
     },
     {
       "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
@@ -1359,8 +1329,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 645,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "Mantitup-Org/vista - GitHub Repository",
+      "url": "https://github.com/Mantitup-Org/vista",
+      "published_at": "2026-09-04T06:20:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
+      "source": "GitHub",
+      "stars": 643,
+      "user": "Mantitup-Org"
     },
     {
       "title": "truanayangi-com/truanayangi - Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
@@ -1374,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 528,
       "user": "truanayangi-com"
     },
     {
@@ -1407,13 +1392,14 @@
       "user": "Fjorstut"
     },
     {
-      "title": "localStorage data is removed when opening a Bootstrap modal",
-      "url": "https://stackoverflow.com/questions/80001710/localstorage-data-is-removed-when-opening-a-bootstrap-modal",
+      "title": "Laravel optional route parameter not reaching the function when Axios sends an empty value",
+      "url": "https://stackoverflow.com/questions/80001710/laravel-optional-route-parameter-not-reaching-the-function-when-axios-sends-an-e",
       "published_at": "2026-09-08T16:37:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "jquery"
+        "jquery",
+        "laravel"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1754,7 +1740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2055,
+      "stars": 2058,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1769,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1325,
       "user": "EverettFish"
     },
     {
@@ -1784,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 905,
       "user": "donvito"
     },
     {
@@ -1799,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 814,
       "user": "Edge0-AI"
     },
     {
@@ -1814,8 +1800,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 645,
       "user": "AI-FanGe"
+    },
+    {
+      "title": "Finding digits in a string containing distinct digits",
+      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
+      "published_at": "2026-09-10T14:27:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sam Sianati"
+    },
+    {
+      "title": "Should I use DiskCache or JWT for FastAPI password reset tokens?",
+      "url": "https://stackoverflow.com/questions/80002204/should-i-use-diskcache-or-jwt-for-fastapi-password-reset-tokens",
+      "published_at": "2026-09-10T15:58:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "best-practices",
+        "python",
+        "jwt",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "enrii fernando"
     },
     {
       "title": "IBKR ib_insync problem with placing stop limit orders in pre/post markets",
@@ -1834,7 +1847,7 @@
       "title": "Programatically downloading YouTube videos at scale: yt-dlp rate limits, GVS PO tokens, and alternative libraries in Python",
       "url": "https://stackoverflow.com/questions/80002131/programatically-downloading-youtube-videos-at-scale-yt-dlp-rate-limits-gvs-po",
       "published_at": "2026-09-10T10:29:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "advice",
         "python",
@@ -1926,35 +1939,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "Write sequence of null chars to file",
-      "url": "https://stackoverflow.com/questions/80001870/write-sequence-of-null-chars-to-file",
-      "published_at": "2026-09-09T08:30:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "utf-8",
-        "null",
-        "character-encoding",
-        "file-writing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Stev"
-    },
-    {
-      "title": "Type hint a default return type used unless more specific overload exists",
-      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
-      "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 6",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "schtandard"
     },
     {
       "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
@@ -2250,7 +2234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 528,
       "user": "truanayangi-com"
     },
     {
@@ -2415,7 +2399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 127,
       "user": "denialwm"
     },
     {
@@ -2433,6 +2417,49 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "calvin"
+    },
+    {
+      "title": "Native is now the future of mobile at Shopify (2026)",
+      "url": "https://shopify.engineering/back-to-native",
+      "published_at": "2026-09-10T10:19:38.418-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "mobile",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dayanruben"
+    },
+    {
+      "title": "Laravel optional route parameter not reaching the function when Axios sends an empty value",
+      "url": "https://stackoverflow.com/questions/80001710/laravel-optional-route-parameter-not-reaching-the-function-when-axios-sends-an-e",
+      "published_at": "2026-09-08T16:37:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "jquery",
+        "laravel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shadir Amjard"
+    },
+    {
+      "title": "Google is making it easier to switch between password managers on Android",
+      "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+      "published_at": "2026-09-10T16:00:00.000Z",
+      "description": "Google's new feature will transfer your passkeys as well.",
+      "tags": [
+        "Apps",
+        "Android",
+        "Google",
+        "In Brief",
+        "password manager"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface",
@@ -2776,7 +2803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 745,
       "user": "KJGX66F"
     },
     {
@@ -2791,7 +2818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 549,
       "user": "byJoey"
     },
     {
@@ -2806,7 +2833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 528,
       "user": "truanayangi-com"
     },
     {
@@ -2867,20 +2894,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 546,
       "user": "okf-memory"
-    },
-    {
-      "title": "ID design and primary keys",
-      "url": "https://anchorsandlinks.com/posts/primary-keys/",
-      "published_at": "2026-09-09T13:31:44.973-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "squadette"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
@@ -3088,8 +3103,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "Apeireth"
+    },
+    {
+      "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
+      "url": "https://maurycyz.com/misc/domains/",
+      "published_at": "2026-09-10T10:14:48.267-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "maurycy"
+    },
+    {
+      "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
+      "url": "https://queue.acm.org/doi/10.1145/3831361",
+      "published_at": "2026-09-10T09:59:03.130-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "hardware",
+        "osdev",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "rrampage"
     },
     {
       "title": "ID verification giant IDScan confirms data breach with more than 150 million driver&#8217;s licenses stolen",
@@ -3277,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 745,
       "user": "KJGX66F"
     },
     {
@@ -3292,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 677,
       "user": "achimala"
     },
     {
@@ -3307,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 549,
       "user": "byJoey"
     },
     {
@@ -3326,19 +3368,19 @@
       "user": "yudaprasetya007"
     },
     {
-      "title": "browser-use/browser-use-pi - A tiny TypeScript web agent, hill climbed on real browser evals.",
-      "url": "https://github.com/browser-use/browser-use-pi",
-      "published_at": "2026-09-05T19:47:45Z",
-      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "title": "mizzlelover/gongwen-gbt9704-skill - 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+      "published_at": "2026-09-09T10:04:14Z",
+      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 265,
-      "user": "browser-use"
+      "stars": 279,
+      "user": "mizzlelover"
     },
     {
       "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
@@ -3352,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2055,
+      "stars": 2058,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3367,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1307,
+      "stars": 1325,
       "user": "EverettFish"
     },
     {
@@ -3382,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 905,
       "user": "donvito"
     },
     {
@@ -3397,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 814,
       "user": "Edge0-AI"
     },
     {
@@ -3412,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 645,
       "user": "AI-FanGe"
     },
     {
@@ -3427,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 546,
       "user": "okf-memory"
     },
     {
@@ -3442,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 154,
       "user": "VaderChen"
     },
     {
@@ -3457,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "vvrnv"
     },
     {
@@ -3476,19 +3518,19 @@
       "user": "vianziro"
     },
     {
-      "title": "ZenNotes/tui - GitHub Repository",
-      "url": "https://github.com/ZenNotes/tui",
-      "published_at": "2026-09-08T22:27:40Z",
+      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
+      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
+      "published_at": "2026-09-10T09:34:43Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277024416?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 57,
-      "user": "ZenNotes"
+      "stars": 70,
+      "user": "x4gpanell"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -3502,23 +3544,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3024,
+      "stars": 3051,
       "user": "ashemag"
-    },
-    {
-      "title": "Mantitup-Org/vista - GitHub Repository",
-      "url": "https://github.com/Mantitup-Org/vista",
-      "published_at": "2026-09-04T06:20:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
-      "source": "GitHub",
-      "stars": 629,
-      "user": "Mantitup-Org"
     },
     {
       "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
@@ -3532,8 +3559,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 645,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "Mantitup-Org/vista - GitHub Repository",
+      "url": "https://github.com/Mantitup-Org/vista",
+      "published_at": "2026-09-04T06:20:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
+      "source": "GitHub",
+      "stars": 643,
+      "user": "Mantitup-Org"
     },
     {
       "title": "truanayangi-com/truanayangi - Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
@@ -3547,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 528,
       "user": "truanayangi-com"
     },
     {
@@ -3577,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 216,
       "user": "rust-alert"
     },
     {
@@ -3592,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 187,
       "user": "deepseek-ai"
     },
     {
@@ -3607,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 127,
       "user": "denialwm"
     },
     {
@@ -3622,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "Apeireth"
     },
     {
@@ -3637,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "TravellingEngineer"
     },
     {
@@ -3655,6 +3697,18 @@
       "user": "erkanunluturk"
     },
     {
+      "title": "Finding digits in a string containing distinct digits",
+      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
+      "published_at": "2026-09-10T14:27:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sam Sianati"
+    },
+    {
       "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
       "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
       "published_at": "2026-09-09T03:32:52.000Z",
@@ -3668,6 +3722,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+      "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+      "published_at": "2026-09-10T14:34:09.000Z",
+      "description": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
+      "tags": [
+        "Enterprise",
+        "Startups",
+        "Bending Spoons",
+        "Mergers and Acquisitions",
+        "miro"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
