@@ -1,16 +1,32 @@
 {
   "AI": [
     {
-      "title": "4 pitfalls of loop engineering (and how to fix them)",
-      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
-      "published_at": "2026-09-09T17:37:13Z",
-      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
+      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l",
+      "published_at": "2026-09-10T18:51:51Z",
+      "description": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 Ti — why bf16 and int8 cannot fit, why the QAT GGUF does with room to spare, and managing it with an MCP server.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "mcp",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
+      "url": "https://dev.to/annthurium/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
+      "published_at": "2026-09-10T19:23:39Z",
+      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
       "tags": [
         "ai",
         "agents",
-        "discuss"
+        "graphengineering",
+        "adk"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
     },
@@ -43,6 +59,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
+      "published_at": "2026-09-09T17:37:13Z",
+      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Interactive AI Eval Dashboards with Data Studio",
@@ -505,36 +535,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Context anchoring works. Files, not a service.",
-      "url": "https://dev.to/bojantomic/context-anchoring-works-files-not-a-service-5ek2",
-      "published_at": "2026-09-02T11:49:54Z",
-      "description": "Rahul Garg's context anchoring article names something I already do. Here is the measurement that convinced me files beat a hosted memory service, and the failure mode nobody covers.",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv62khswisuu0gowuy1k5.png",
-      "source": "Dev.to",
-      "user": "Bojan Tomic"
-    },
-    {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
-      "published_at": "2026-09-01T18:25:48Z",
-      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
-      "tags": [
-        "aws",
-        "machinelearning",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1328,
       "user": "EverettFish"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 906,
       "user": "Edge0-AI"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 648,
       "user": "AI-FanGe"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 547,
       "user": "okf-memory"
     },
     {
@@ -804,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 667,
       "user": "Vincentwei1021"
     },
     {
@@ -819,14 +819,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 202,
       "user": "deepseek-ai"
     },
     {
       "title": "Finding digits in a string containing distinct digits",
       "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
       "published_at": "2026-09-10T14:27:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -835,18 +835,64 @@
       "user": "Sam Sianati"
     },
     {
-      "title": "Splunk AI Assistant failed during initial setup due to Python errors",
-      "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
-      "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "published_at": "2026-09-10T19:50:04.000Z",
+      "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
       "tags": [
-        "best-practices",
-        "python",
-        "splunk"
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Baharvand"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+      "published_at": "2026-09-10T18:38:00.000Z",
+      "description": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
+      "tags": [
+        "Climate",
+        "fusion power",
+        "In Brief",
+        "Proxima Fusion"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Amazon makes it easier to buy what you see on Prime Video",
+      "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+      "published_at": "2026-09-10T18:10:36.000Z",
+      "description": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
+      "tags": [
+        "Media & Entertainment",
+        "Commerce",
+        "Amazon",
+        "e-commerce",
+        "shopping"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "published_at": "2026-09-10T17:54:44.000Z",
+      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "tags": [
+        "AI",
+        "AI agents",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
@@ -854,11 +900,11 @@
       "published_at": "2026-09-10T17:45:00.000Z",
       "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
       "tags": [
-        "Startups",
-        "Media & Entertainment",
         "AI",
-        "Pocket FM",
-        "Pocket Entertainment"
+        "Media & Entertainment",
+        "Startups",
+        "Pocket Entertainment",
+        "Pocket FM"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -908,50 +954,33 @@
       "user": "Russell Brandom"
     },
     {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "published_at": "2026-09-10T14:17:37.000Z",
-      "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "title": "How to Use Lovable Responsibly",
+      "url": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
+      "published_at": "2026-09-10T16:08:33.000Z",
+      "description": "Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica",
       "tags": [
         "AI",
-        "Robotics",
-        "Startups",
-        "Exclusive",
-        "maven"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver&#8217;s licenses stolen",
-      "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
-      "published_at": "2026-09-10T13:21:09.000Z",
-      "description": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
-      "tags": [
-        "Government & Policy",
+        "Artificial Intelligence",
+        "software development",
         "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach"
+        "lovable"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
-      "title": "Snapchat takes aim at Partiful with new event-planning features",
-      "url": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
-      "published_at": "2026-09-10T13:00:00.000Z",
-      "description": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
+      "title": "OpenAI Codex Crash Course",
+      "url": "https://www.freecodecamp.org/news/openai-codex-crash-course/",
+      "published_at": "2026-09-10T15:10:19.000Z",
+      "description": "OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c",
       "tags": [
-        "Apps",
-        "Social",
-        "Snapchat"
+        "codex",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "What a Machine Learning Model is and How to Make One",
@@ -997,41 +1026,24 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Johnson Samuel"
-    },
-    {
-      "title": "How a System Call Actually Works in Linux",
-      "url": "https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/",
-      "published_at": "2026-09-07T22:07:56.000Z",
-      "description": "Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include  #include  #include  int main(void) {     struct timespe",
-      "tags": [
-        "Kernel",
-        "Linux",
-        "Systems Programming",
-        "operating system",
-        "linux kernel"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chris Roy"
-    },
-    {
-      "title": "How to Refactor a Legacy Application Before Migrating It",
-      "url": "https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/",
-      "published_at": "2026-09-07T22:04:51.000Z",
-      "description": "The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud",
-      "tags": [
-        "legacy code",
-        "refactoring",
-        "software architecture",
-        "Software Engineering",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
+      "published_at": "2026-09-10T18:23:05Z",
+      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
     {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
@@ -1239,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 702,
       "user": "achimala"
     },
     {
@@ -1284,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 294,
       "user": "mizzlelover"
     },
     {
@@ -1299,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1328,
       "user": "EverettFish"
     },
     {
@@ -1314,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3051,
+      "stars": 3060,
       "user": "ashemag"
     },
     {
@@ -1329,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 667,
       "user": "Vincentwei1021"
     },
     {
@@ -1344,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 648,
       "user": "Mantitup-Org"
     },
     {
@@ -1359,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 530,
       "user": "truanayangi-com"
     },
     {
@@ -1515,6 +1527,21 @@
       "user": "erkanunluturk"
     },
     {
+      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+      "published_at": "2026-09-10T18:38:00.000Z",
+      "description": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
+      "tags": [
+        "Climate",
+        "fusion power",
+        "In Brief",
+        "Proxima Fusion"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
       "url": "https://www.freecodecamp.org/news/gamepad-api-javascript-guide/",
       "published_at": "2026-09-07T22:39:45.000Z",
@@ -1592,21 +1619,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
-    },
-    {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
-      "published_at": "2026-09-01T18:25:48Z",
-      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
-      "tags": [
-        "aws",
-        "machinelearning",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1755,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1328,
       "user": "EverettFish"
     },
     {
@@ -1770,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 913,
       "user": "donvito"
     },
     {
@@ -1785,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 906,
       "user": "Edge0-AI"
     },
     {
@@ -1800,26 +1812,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 648,
       "user": "AI-FanGe"
     },
     {
-      "title": "Finding digits in a string containing distinct digits",
-      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
-      "published_at": "2026-09-10T14:27:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "How to cleanly manage shifting player roles for a game of texas hold'em poker",
+      "url": "https://stackoverflow.com/questions/80002232/how-to-cleanly-manage-shifting-player-roles-for-a-game-of-texas-holdem-poker",
+      "published_at": "2026-09-10T18:39:29.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
-        "python"
+        "advice",
+        "python",
+        "state",
+        "poker"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Sam Sianati"
+      "user": "Lorang"
+    },
+    {
+      "title": "Power BI Python Visualization erroring out when it shouldn't",
+      "url": "https://stackoverflow.com/questions/80002222/power-bi-python-visualization-erroring-out-when-it-shouldnt",
+      "published_at": "2026-09-10T17:37:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "powerbi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adalast"
     },
     {
       "title": "Should I use DiskCache or JWT for FastAPI password reset tokens?",
       "url": "https://stackoverflow.com/questions/80002204/should-i-use-diskcache-or-jwt-for-fastapi-password-reset-tokens",
       "published_at": "2026-09-10T15:58:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "best-practices",
         "python",
@@ -1829,6 +1859,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "enrii fernando"
+    },
+    {
+      "title": "Finding digits in a string containing distinct digits",
+      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
+      "published_at": "2026-09-10T14:27:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sam Sianati"
     },
     {
       "title": "IBKR ib_insync problem with placing stop limit orders in pre/post markets",
@@ -1912,33 +1954,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "Splunk AI Assistant failed during initial setup due to Python errors",
-      "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
-      "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "best-practices",
-        "python",
-        "splunk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Baharvand"
-    },
-    {
-      "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
-      "url": "https://stackoverflow.com/questions/80001733/why-is-python-able-to-perform-a-bitwise-and-on-lsb-of-16-bit-value-instead-of-th",
-      "published_at": "2026-09-08T18:20:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "bitwise-operators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
     },
     {
       "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
@@ -2183,6 +2198,36 @@
   ],
   "WebDev": [
     {
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
+      "published_at": "2026-09-10T18:23:05Z",
+      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
+      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
+      "url": "https://dev.to/annthurium/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
+      "published_at": "2026-09-10T19:23:39Z",
+      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
+      "tags": [
+        "ai",
+        "agents",
+        "graphengineering",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
       "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
       "published_at": "2026-08-16T13:31:22Z",
@@ -2234,7 +2279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 530,
       "user": "truanayangi-com"
     },
     {
@@ -2401,22 +2446,6 @@
       "source": "GitHub",
       "stars": 127,
       "user": "denialwm"
-    },
-    {
-      "title": "Apple Event for September 9th, 2026",
-      "url": "https://www.apple.com/apple-events/event-stream/",
-      "published_at": "2026-09-09T11:54:31.267-05:00",
-      "description": "Out with the Tim, in with the John. Who knows if they'll fold?",
-      "tags": [
-        "event",
-        "hardware",
-        "ios",
-        "mac",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "calvin"
     },
     {
       "title": "Native is now the future of mobile at Shopify (2026)",
@@ -2777,21 +2806,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Three Gemma 4 Deployments on One T4G for Under $3: What the Runtime Changes, and What It Doesn't",
-      "url": "https://dev.to/gde/three-gemma-4-deployments-on-one-t4g-for-under-3-what-the-runtime-changes-and-what-it-doesnt-jo3",
-      "published_at": "2026-09-01T18:25:48Z",
-      "description": "vLLM, JAX and PyTorch serving the same Gemma 4 E2B checkpoint on the same AWS G5g GPU, on one harness and one statistic. The decode ranking reverses on boot time. Nineteen instances, four and a half instance-hours, under $3 - which is what let five wrong claims get caught.",
-      "tags": [
-        "aws",
-        "machinelearning",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-pytorch-g5g-2b%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "url": "https://github.com/KJGX66F/usque-custom-pro",
       "published_at": "2026-09-04T01:15:28Z",
@@ -2833,7 +2847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 530,
       "user": "truanayangi-com"
     },
     {
@@ -2851,22 +2865,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Johnson Samuel"
-    },
-    {
-      "title": "How to Refactor a Legacy Application Before Migrating It",
-      "url": "https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/",
-      "published_at": "2026-09-07T22:04:51.000Z",
-      "description": "The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud",
-      "tags": [
-        "legacy code",
-        "refactoring",
-        "software architecture",
-        "Software Engineering",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "Database": [
@@ -2894,7 +2892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 547,
       "user": "okf-memory"
     },
     {
@@ -2910,22 +2908,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erkanunluturk"
-    },
-    {
-      "title": "How to Refactor a Legacy Application Before Migrating It",
-      "url": "https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/",
-      "published_at": "2026-09-07T22:04:51.000Z",
-      "description": "The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud",
-      "tags": [
-        "legacy code",
-        "refactoring",
-        "software architecture",
-        "Software Engineering",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "Security": [
@@ -3134,20 +3116,32 @@
       "user": "rrampage"
     },
     {
-      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver&#8217;s licenses stolen",
-      "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
-      "published_at": "2026-09-10T13:21:09.000Z",
-      "description": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
+      "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "published_at": "2026-09-10T12:40:19.396-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "Government & Policy",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach"
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "Lobste.rs",
+      "user": "brn"
+    },
+    {
+      "title": "How to Use Lovable Responsibly",
+      "url": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
+      "published_at": "2026-09-10T16:08:33.000Z",
+      "description": "Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "software development",
+        "Security",
+        "lovable"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     }
   ],
   "Tools": [
@@ -3257,21 +3251,6 @@
       "user": "xbill"
     },
     {
-      "title": "Context anchoring works. Files, not a service.",
-      "url": "https://dev.to/bojantomic/context-anchoring-works-files-not-a-service-5ek2",
-      "published_at": "2026-09-02T11:49:54Z",
-      "description": "Rahul Garg's context anchoring article names something I already do. Here is the measurement that convinced me files beat a hosted memory service, and the failure mode nobody covers.",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv62khswisuu0gowuy1k5.png",
-      "source": "Dev.to",
-      "user": "Bojan Tomic"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3334,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 702,
       "user": "achimala"
     },
     {
@@ -3379,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 294,
       "user": "mizzlelover"
     },
     {
@@ -3409,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1328,
       "user": "EverettFish"
     },
     {
@@ -3424,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 913,
       "user": "donvito"
     },
     {
@@ -3439,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 906,
       "user": "Edge0-AI"
     },
     {
@@ -3454,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 648,
       "user": "AI-FanGe"
     },
     {
@@ -3469,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 547,
       "user": "okf-memory"
     },
     {
@@ -3484,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "VaderChen"
     },
     {
@@ -3503,6 +3482,21 @@
       "user": "vvrnv"
     },
     {
+      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
+      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
+      "published_at": "2026-09-10T09:34:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "x4gpanell"
+    },
+    {
       "title": "vianziro/Whatsapp-Dekstop - An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
       "url": "https://github.com/vianziro/Whatsapp-Dekstop",
       "published_at": "2026-09-07T08:13:04Z",
@@ -3518,21 +3512,6 @@
       "user": "vianziro"
     },
     {
-      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
-      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
-      "published_at": "2026-09-10T09:34:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
-      "source": "GitHub",
-      "stars": 70,
-      "user": "x4gpanell"
-    },
-    {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "url": "https://github.com/ashemag/human-atlas",
       "published_at": "2026-09-05T00:24:43Z",
@@ -3544,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3051,
+      "stars": 3060,
       "user": "ashemag"
     },
     {
@@ -3559,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 667,
       "user": "Vincentwei1021"
     },
     {
@@ -3574,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 648,
       "user": "Mantitup-Org"
     },
     {
@@ -3589,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 530,
       "user": "truanayangi-com"
     },
     {
@@ -3619,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "rust-alert"
     },
     {
@@ -3634,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 202,
       "user": "deepseek-ai"
     },
     {
@@ -3679,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "TravellingEngineer"
     },
     {
@@ -3700,7 +3679,7 @@
       "title": "Finding digits in a string containing distinct digits",
       "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
       "published_at": "2026-09-10T14:27:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -3738,6 +3717,35 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ram Iyer"
+    },
+    {
+      "title": "How to Use Lovable Responsibly",
+      "url": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
+      "published_at": "2026-09-10T16:08:33.000Z",
+      "description": "Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "software development",
+        "Security",
+        "lovable"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
+    },
+    {
+      "title": "OpenAI Codex Crash Course",
+      "url": "https://www.freecodecamp.org/news/openai-codex-crash-course/",
+      "published_at": "2026-09-10T15:10:19.000Z",
+      "description": "OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c",
+      "tags": [
+        "codex",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
