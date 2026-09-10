@@ -17,7 +17,7 @@
     },
     {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "url": "https://dev.to/annthurium/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
+      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
       "published_at": "2026-09-10T19:23:39Z",
       "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
       "tags": [
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1331,
       "user": "EverettFish"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 945,
       "user": "Edge0-AI"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "AI-FanGe"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 549,
       "user": "okf-memory"
     },
     {
@@ -804,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 686,
       "user": "Vincentwei1021"
     },
     {
@@ -819,8 +819,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 210,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
+      "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
+      "published_at": "2026-09-10T21:42:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Stanley George"
     },
     {
       "title": "Finding digits in a string containing distinct digits",
@@ -833,6 +845,95 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sam Sianati"
+    },
+    {
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "published_at": "2026-09-10T22:30:00.000Z",
+      "description": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+      "tags": [
+        "Venture",
+        "Collaborative Fund",
+        "Thrive Capital"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "published_at": "2026-09-10T21:51:59.000Z",
+      "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-10T21:35:00.000Z",
+      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Media & Entertainment"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "published_at": "2026-09-10T20:59:51.000Z",
+      "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "subscriptions"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "published_at": "2026-09-10T20:57:30.000Z",
+      "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "distillation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Furo&#8217;s founders left Silicon Valley — and it&#8217;s paying off",
+      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+      "published_at": "2026-09-10T20:48:00.000Z",
+      "description": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "furo"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
     },
     {
       "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
@@ -870,11 +971,11 @@
       "published_at": "2026-09-10T18:10:36.000Z",
       "description": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
       "tags": [
-        "Media & Entertainment",
         "Commerce",
+        "Media & Entertainment",
         "Amazon",
         "e-commerce",
-        "shopping"
+        "prime video"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -893,65 +994,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "published_at": "2026-09-10T17:45:00.000Z",
-      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Startups",
-        "Pocket Entertainment",
-        "Pocket FM"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-      "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-      "published_at": "2026-09-10T16:31:25.000Z",
-      "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Instagram"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "published_at": "2026-09-10T15:07:27.000Z",
-      "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "tags": [
-        "Transportation",
-        "Elon Musk",
-        "In Brief",
-        "The Boring Company"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "published_at": "2026-09-10T14:53:50.000Z",
-      "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "research"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Use Lovable Responsibly",
@@ -1251,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 713,
       "user": "achimala"
     },
     {
@@ -1296,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 305,
       "user": "mizzlelover"
     },
     {
@@ -1311,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1331,
       "user": "EverettFish"
     },
     {
@@ -1326,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3060,
+      "stars": 3070,
       "user": "ashemag"
     },
     {
@@ -1341,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 686,
       "user": "Vincentwei1021"
     },
     {
@@ -1371,23 +1413,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 533,
       "user": "truanayangi-com"
     },
     {
-      "title": "BagasRizkyHarySaputra/SIAPIN - GitHub Repository",
-      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
-      "published_at": "2026-09-05T20:27:24Z",
-      "description": "Trending GitHub Repository",
+      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
+      "url": "https://github.com/LBEILC/RhineLabUI",
+      "published_at": "2026-09-07T18:16:23Z",
+      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156832855?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 354,
-      "user": "BagasRizkyHarySaputra"
+      "stars": 355,
+      "user": "LBEILC"
     },
     {
       "title": "Rendering problem on Apple MacBook M4 Pro only?",
@@ -1445,19 +1487,6 @@
       "user": "blue emperor"
     },
     {
-      "title": "string() function doesn't work in document.evaluate",
-      "url": "https://stackoverflow.com/questions/80001644/string-function-doesnt-work-in-document-evaluate",
-      "published_at": "2026-09-08T11:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "xpath"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Melab"
-    },
-    {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
@@ -1473,17 +1502,17 @@
       "user": "neil"
     },
     {
-      "title": "I have two elements with JavaScript: one is inside of another and they are layering",
-      "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
-      "published_at": "2026-09-08T17:59:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "string() function doesn't work in document.evaluate",
+      "url": "https://stackoverflow.com/questions/80001644/string-function-doesnt-work-in-document-evaluate",
+      "published_at": "2026-09-08T11:55:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "html"
+        "xpath"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "xtimex mail"
+      "user": "Melab"
     },
     {
       "title": "Add joint limits in matterjs",
@@ -1499,20 +1528,6 @@
       "user": "wadskays26"
     },
     {
-      "title": "How do I trigger a dialog Form by clicking a table row?",
-      "url": "https://stackoverflow.com/questions/80000947/how-do-i-trigger-a-dialog-form-by-clicking-a-table-row",
-      "published_at": "2026-09-05T08:03:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "shadcnui"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marco Pasquali"
-    },
-    {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
       "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
       "published_at": "2026-08-27T08:54:36.000Z",
@@ -1525,6 +1540,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erkanunluturk"
+    },
+    {
+      "title": "How to make an animated menu icon show/hide menu",
+      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
+      "published_at": "2026-08-13T21:45:04.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "V. M. Ent"
+    },
+    {
+      "title": "JavaScript naming conventions",
+      "url": "https://stackoverflow.com/questions/921133/javascript-naming-conventions",
+      "published_at": "2009-05-28T14:28:03.000Z",
+      "description": "Stack Overflow question · 6 answers · score 263",
+      "tags": [
+        "javascript",
+        "naming-conventions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "peirix"
     },
     {
       "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
@@ -1767,23 +1809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1331,
       "user": "EverettFish"
-    },
-    {
-      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
-      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "published_at": "2026-09-05T16:03:06Z",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
-      "source": "GitHub",
-      "stars": 913,
-      "user": "donvito"
     },
     {
       "title": "Edge0-AI/Edge0 - GitHub Repository",
@@ -1797,8 +1824,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 945,
       "user": "Edge0-AI"
+    },
+    {
+      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "published_at": "2026-09-05T16:03:06Z",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
+      "source": "GitHub",
+      "stars": 919,
+      "user": "donvito"
     },
     {
       "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
@@ -1812,8 +1854,50 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "AI-FanGe"
+    },
+    {
+      "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
+      "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
+      "published_at": "2026-09-10T21:42:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Stanley George"
+    },
+    {
+      "title": "Python script download blocked by antivirus as a virus",
+      "url": "https://stackoverflow.com/questions/80002260/python-script-download-blocked-by-antivirus-as-a-virus",
+      "published_at": "2026-09-10T20:22:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "download",
+        "antivirus",
+        "virus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Diogo Ara&#250;jo"
+    },
+    {
+      "title": "Power BI Python Visualization erroring out when it shouldn't",
+      "url": "https://stackoverflow.com/questions/80002222/power-bi-python-visualization-erroring-out-when-it-shouldnt",
+      "published_at": "2026-09-10T17:37:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "powerbi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adalast"
     },
     {
       "title": "How to cleanly manage shifting player roles for a game of texas hold'em poker",
@@ -1831,19 +1915,16 @@
       "user": "Lorang"
     },
     {
-      "title": "Power BI Python Visualization erroring out when it shouldn't",
-      "url": "https://stackoverflow.com/questions/80002222/power-bi-python-visualization-erroring-out-when-it-shouldnt",
-      "published_at": "2026-09-10T17:37:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Finding digits in a string containing distinct digits",
+      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
+      "published_at": "2026-09-10T14:27:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
-        "python",
-        "pandas",
-        "dataframe",
-        "powerbi"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Adalast"
+      "user": "Sam Sianati"
     },
     {
       "title": "Should I use DiskCache or JWT for FastAPI password reset tokens?",
@@ -1861,18 +1942,6 @@
       "user": "enrii fernando"
     },
     {
-      "title": "Finding digits in a string containing distinct digits",
-      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
-      "published_at": "2026-09-10T14:27:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sam Sianati"
-    },
-    {
       "title": "IBKR ib_insync problem with placing stop limit orders in pre/post markets",
       "url": "https://stackoverflow.com/questions/80002178/ibkr-ib-insync-problem-with-placing-stop-limit-orders-in-pre-post-markets",
       "published_at": "2026-09-10T14:02:38.000Z",
@@ -1884,20 +1953,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SuperLeo"
-    },
-    {
-      "title": "Programatically downloading YouTube videos at scale: yt-dlp rate limits, GVS PO tokens, and alternative libraries in Python",
-      "url": "https://stackoverflow.com/questions/80002131/programatically-downloading-youtube-videos-at-scale-yt-dlp-rate-limits-gvs-po",
-      "published_at": "2026-09-10T10:29:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "advice",
-        "python",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Deepshika Tiwari"
     },
     {
       "title": "PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__'",
@@ -1939,21 +1994,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Obalouch"
-    },
-    {
-      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
-      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
-      "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "vs-code",
-        "vscode-debugger",
-        "debugpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
@@ -2214,7 +2254,7 @@
     },
     {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "url": "https://dev.to/annthurium/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
+      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
       "published_at": "2026-09-10T19:23:39Z",
       "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
       "tags": [
@@ -2279,7 +2319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 533,
       "user": "truanayangi-com"
     },
     {
@@ -2312,17 +2352,18 @@
       "user": "neil"
     },
     {
-      "title": "I have two elements with JavaScript: one is inside of another and they are layering",
-      "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
-      "published_at": "2026-09-08T17:59:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "How to make an animated menu icon show/hide menu",
+      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
+      "published_at": "2026-08-13T21:45:04.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
-        "html"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "xtimex mail"
+      "user": "V. M. Ent"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -2444,7 +2485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "denialwm"
     },
     {
@@ -2473,22 +2514,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shadir Amjard"
-    },
-    {
-      "title": "Google is making it easier to switch between password managers on Android",
-      "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-      "published_at": "2026-09-10T16:00:00.000Z",
-      "description": "Google's new feature will transfer your passkeys as well.",
-      "tags": [
-        "Apps",
-        "Android",
-        "Google",
-        "In Brief",
-        "password manager"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface",
@@ -2847,7 +2872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 533,
       "user": "truanayangi-com"
     },
     {
@@ -2892,7 +2917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 549,
       "user": "okf-memory"
     },
     {
@@ -3102,6 +3127,18 @@
       "user": "maurycy"
     },
     {
+      "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "published_at": "2026-09-10T12:40:19.396-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "brn"
+    },
+    {
       "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
       "url": "https://queue.acm.org/doi/10.1145/3831361",
       "published_at": "2026-09-10T09:59:03.130-05:00",
@@ -3114,18 +3151,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "rrampage"
-    },
-    {
-      "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
-      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "published_at": "2026-09-10T12:40:19.396-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "brn"
     },
     {
       "title": "How to Use Lovable Responsibly",
@@ -3313,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 713,
       "user": "achimala"
     },
     {
@@ -3358,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 305,
       "user": "mizzlelover"
     },
     {
@@ -3388,23 +3413,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1331,
       "user": "EverettFish"
-    },
-    {
-      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
-      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "published_at": "2026-09-05T16:03:06Z",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
-      "source": "GitHub",
-      "stars": 913,
-      "user": "donvito"
     },
     {
       "title": "Edge0-AI/Edge0 - GitHub Repository",
@@ -3418,8 +3428,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 945,
       "user": "Edge0-AI"
+    },
+    {
+      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "published_at": "2026-09-05T16:03:06Z",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
+      "source": "GitHub",
+      "stars": 919,
+      "user": "donvito"
     },
     {
       "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
@@ -3433,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "AI-FanGe"
     },
     {
@@ -3448,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 549,
       "user": "okf-memory"
     },
     {
@@ -3463,8 +3488,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "VaderChen"
+    },
+    {
+      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
+      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
+      "published_at": "2026-09-10T09:34:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "x4gpanell"
     },
     {
       "title": "vvrnv/argo9s - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
@@ -3480,21 +3520,6 @@
       "source": "GitHub",
       "stars": 91,
       "user": "vvrnv"
-    },
-    {
-      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
-      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
-      "published_at": "2026-09-10T09:34:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
-      "source": "GitHub",
-      "stars": 91,
-      "user": "x4gpanell"
     },
     {
       "title": "vianziro/Whatsapp-Dekstop - An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
@@ -3523,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3060,
+      "stars": 3070,
       "user": "ashemag"
     },
     {
@@ -3538,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 686,
       "user": "Vincentwei1021"
     },
     {
@@ -3568,23 +3593,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 533,
       "user": "truanayangi-com"
     },
     {
-      "title": "BagasRizkyHarySaputra/SIAPIN - GitHub Repository",
-      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
-      "published_at": "2026-09-05T20:27:24Z",
-      "description": "Trending GitHub Repository",
+      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
+      "url": "https://github.com/LBEILC/RhineLabUI",
+      "published_at": "2026-09-07T18:16:23Z",
+      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156832855?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 354,
-      "user": "BagasRizkyHarySaputra"
+      "stars": 355,
+      "user": "LBEILC"
     },
     {
       "title": "rust-alert/ra2.exe - 使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。",
@@ -3613,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 210,
       "user": "deepseek-ai"
     },
     {
@@ -3628,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "denialwm"
     },
     {
@@ -3686,37 +3711,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sam Sianati"
-    },
-    {
-      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
-      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
-      "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "vs-code",
-        "vscode-debugger",
-        "debugpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
-      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-      "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-      "published_at": "2026-09-10T14:34:09.000Z",
-      "description": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
-      "tags": [
-        "Enterprise",
-        "Startups",
-        "Bending Spoons",
-        "Mergers and Acquisitions",
-        "miro"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "How to Use Lovable Responsibly",
