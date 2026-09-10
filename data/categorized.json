@@ -222,21 +222,6 @@
       "user": "James O'Reilly"
     },
     {
-      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
-      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
-      "published_at": "2026-09-03T15:18:58Z",
-      "description": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, flex skins a bare-metal Debian desktop to look like one. The split exists because Crostini's guest kernel can't load the NVIDIA driver.",
-      "tags": [
-        "chromeos",
-        "linux",
-        "debian",
-        "gnome"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
       "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
       "published_at": "2026-09-07T06:37:45Z",
@@ -460,6 +445,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "ChromeOS Lookalikes, Two Ways: One With Drivers, One Without",
+      "url": "https://dev.to/gde/chromeos-lookalikes-two-ways-one-with-drivers-one-without-83m",
+      "published_at": "2026-09-03T15:18:58Z",
+      "description": "chromeos-boot holds two unrelated scripts under one name: stage seeds a real Crostini container from a private bucket, flex skins a bare-metal Debian desktop to look like one. The split exists because Crostini's guest kernel can't load the NVIDIA driver.",
+      "tags": [
+        "chromeos",
+        "linux",
+        "debian",
+        "gnome"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Streamline Publishing with a Claude Code Skill",
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2047,
       "user": "Rion-Wu-tech"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1264,
+      "stars": 1287,
       "user": "EverettFish"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 614,
       "user": "AI-FanGe"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 534,
       "user": "okf-memory"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 460,
       "user": "Vincentwei1021"
     },
     {
@@ -822,7 +822,7 @@
       "title": "Implementing a 3-layer neural network from scratch with gradient descent for tabular regression",
       "url": "https://stackoverflow.com/questions/80002001/implementing-a-3-layer-neural-network-from-scratch-with-gradient-descent-for-tab",
       "published_at": "2026-09-09T21:43:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -12",
       "tags": [
         "python",
         "numpy",
@@ -838,7 +838,7 @@
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "best-practices",
         "python",
@@ -852,7 +852,7 @@
       "title": "DEX arbitrages for EVM and solana chains",
       "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
       "published_at": "2026-09-09T12:15:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "node.js",
@@ -1256,23 +1256,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 734,
       "user": "KJGX66F"
-    },
-    {
-      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "url": "https://github.com/byJoey/warp-masque-actions",
-      "published_at": "2026-09-04T17:21:26Z",
-      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 542,
-      "user": "byJoey"
     },
     {
       "title": "achimala/dream-loop - Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
@@ -1286,8 +1271,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 573,
       "user": "achimala"
+    },
+    {
+      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "url": "https://github.com/byJoey/warp-masque-actions",
+      "published_at": "2026-09-04T17:21:26Z",
+      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 546,
+      "user": "byJoey"
     },
     {
       "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 255,
       "user": "browser-use"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1264,
+      "stars": 1287,
       "user": "EverettFish"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2880,
+      "stars": 2976,
       "user": "ashemag"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 622,
       "user": "Mantitup-Org"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 467,
       "user": "truanayangi-com"
     },
     {
@@ -1391,36 +1391,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 460,
       "user": "Vincentwei1021"
     },
     {
-      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
-      "url": "https://github.com/LBEILC/RhineLabUI",
-      "published_at": "2026-09-07T18:16:23Z",
-      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
+      "title": "BagasRizkyHarySaputra/SIAPIN - GitHub Repository",
+      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
+      "published_at": "2026-09-05T20:27:24Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156832855?v=4",
       "source": "GitHub",
-      "stars": 303,
-      "user": "LBEILC"
+      "stars": 354,
+      "user": "BagasRizkyHarySaputra"
     },
     {
-      "title": "Blue and orange React icons on VS Code explorer",
-      "url": "https://stackoverflow.com/questions/80001938/blue-and-orange-react-icons-on-vs-code-explorer",
-      "published_at": "2026-09-09T13:12:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "Rendering problem on Apple MacBook M4 Pro only?",
+      "url": "https://stackoverflow.com/questions/80002119/rendering-problem-on-apple-macbook-m4-pro-only",
+      "published_at": "2026-09-10T09:48:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "vs-code"
+        "html",
+        "rendering",
+        "macbookpro"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "leshiy"
+      "user": "Fjorstut"
     },
     {
       "title": "localStorage data is removed when opening a Bootstrap modal",
@@ -1429,12 +1431,24 @@
       "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "jquery",
-        "laravel"
+        "jquery"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shadir Amjard"
+    },
+    {
+      "title": "Blue and orange React icons on VS Code explorer",
+      "url": "https://stackoverflow.com/questions/80001938/blue-and-orange-react-icons-on-vs-code-explorer",
+      "published_at": "2026-09-09T13:12:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "javascript",
+        "vs-code"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leshiy"
     },
     {
       "title": "React client doesn't catch the socket.on() signal from the server using setInterval",
@@ -1522,7 +1536,7 @@
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
       "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
       "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "postgresql",
@@ -1533,24 +1547,10 @@
       "user": "erkanunluturk"
     },
     {
-      "title": "How to make an animated menu icon show/hide menu",
-      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
-      "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "V. M. Ent"
-    },
-    {
       "title": "DEX arbitrages for EVM and solana chains",
       "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
       "published_at": "2026-09-09T12:15:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "node.js",
@@ -1786,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2047,
       "user": "Rion-Wu-tech"
     },
     {
@@ -1801,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1264,
+      "stars": 1287,
       "user": "EverettFish"
     },
     {
@@ -1816,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 854,
       "user": "donvito"
     },
     {
@@ -1831,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 614,
       "user": "AI-FanGe"
     },
     {
@@ -1846,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 511,
       "user": "gazijarin"
     },
     {
@@ -1864,10 +1864,24 @@
       "user": "NickC"
     },
     {
+      "title": "Empty datetime() and type-hint errors",
+      "url": "https://stackoverflow.com/questions/80001989/empty-datetime-and-type-hint-errors",
+      "published_at": "2026-09-09T19:54:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "datetime",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "Implementing a 3-layer neural network from scratch with gradient descent for tabular regression",
       "url": "https://stackoverflow.com/questions/80002001/implementing-a-3-layer-neural-network-from-scratch-with-gradient-descent-for-tab",
       "published_at": "2026-09-09T21:43:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -12",
       "tags": [
         "python",
         "numpy",
@@ -1880,24 +1894,10 @@
       "user": "Anonymous Tech"
     },
     {
-      "title": "Empty datetime() and type-hint errors",
-      "url": "https://stackoverflow.com/questions/80001989/empty-datetime-and-type-hint-errors",
-      "published_at": "2026-09-09T19:54:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "datetime",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "Many-to-many relation creates new items after migration",
       "url": "https://stackoverflow.com/questions/80001980/many-to-many-relation-creates-new-items-after-migration",
       "published_at": "2026-09-09T18:29:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "django"
@@ -1907,10 +1907,25 @@
       "user": "Obalouch"
     },
     {
+      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
+      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
+      "published_at": "2026-09-09T03:32:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "vs-code",
+        "vscode-debugger",
+        "debugpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
       "title": "Splunk AI Assistant failed during initial setup due to Python errors",
       "url": "https://stackoverflow.com/questions/80001863/splunk-ai-assistant-failed-during-initial-setup-due-to-python-errors",
       "published_at": "2026-09-09T07:59:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "best-practices",
         "python",
@@ -1924,7 +1939,7 @@
       "title": "DEX arbitrages for EVM and solana chains",
       "url": "https://stackoverflow.com/questions/80001914/dex-arbitrages-for-evm-and-solana-chains",
       "published_at": "2026-09-09T12:15:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "node.js",
@@ -1962,19 +1977,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Stev"
-    },
-    {
-      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
-      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
-      "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "debugpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "Using df.styler with df.to_latex() and longtable",
@@ -2286,8 +2288,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 467,
       "user": "truanayangi-com"
+    },
+    {
+      "title": "Rendering problem on Apple MacBook M4 Pro only?",
+      "url": "https://stackoverflow.com/questions/80002119/rendering-problem-on-apple-macbook-m4-pro-only",
+      "published_at": "2026-09-10T09:48:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "rendering",
+        "macbookpro"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fjorstut"
     },
     {
       "title": "Get the playPause function to switch icons in the browser",
@@ -2329,20 +2346,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Friedrich Novak"
-    },
-    {
-      "title": "How to make an animated menu icon show/hide menu",
-      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
-      "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "V. M. Ent"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -2464,7 +2467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 115,
       "user": "denialwm"
     },
     {
@@ -2825,7 +2828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 734,
       "user": "KJGX66F"
     },
     {
@@ -2840,7 +2843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 546,
       "user": "byJoey"
     },
     {
@@ -2855,7 +2858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 467,
       "user": "truanayangi-com"
     },
     {
@@ -2916,7 +2919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 534,
       "user": "okf-memory"
     },
     {
@@ -2935,7 +2938,7 @@
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
       "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
       "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "postgresql",
@@ -3137,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "Apeireth"
     }
   ],
@@ -3310,23 +3313,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 734,
       "user": "KJGX66F"
-    },
-    {
-      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "url": "https://github.com/byJoey/warp-masque-actions",
-      "published_at": "2026-09-04T17:21:26Z",
-      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 542,
-      "user": "byJoey"
     },
     {
       "title": "achimala/dream-loop - Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
@@ -3340,8 +3328,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 573,
       "user": "achimala"
+    },
+    {
+      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "url": "https://github.com/byJoey/warp-masque-actions",
+      "published_at": "2026-09-04T17:21:26Z",
+      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 546,
+      "user": "byJoey"
     },
     {
       "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
@@ -3370,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 255,
       "user": "browser-use"
     },
     {
@@ -3385,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2047,
       "user": "Rion-Wu-tech"
     },
     {
@@ -3400,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1264,
+      "stars": 1287,
       "user": "EverettFish"
     },
     {
@@ -3415,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 854,
       "user": "donvito"
     },
     {
@@ -3430,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 614,
       "user": "AI-FanGe"
     },
     {
@@ -3445,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 511,
       "user": "gazijarin"
     },
     {
@@ -3460,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 534,
       "user": "okf-memory"
     },
     {
@@ -3475,8 +3478,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 131,
       "user": "VaderChen"
+    },
+    {
+      "title": "vvrnv/argo9s - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
+      "url": "https://github.com/vvrnv/argo9s",
+      "published_at": "2026-09-07T08:11:20Z",
+      "description": "A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "vvrnv"
     },
     {
       "title": "vianziro/Whatsapp-Dekstop - An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
@@ -3492,21 +3510,6 @@
       "source": "GitHub",
       "stars": 84,
       "user": "vianziro"
-    },
-    {
-      "title": "vvrnv/argo9s - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
-      "url": "https://github.com/vvrnv/argo9s",
-      "published_at": "2026-09-07T08:11:20Z",
-      "description": "A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
-      "source": "GitHub",
-      "stars": 84,
-      "user": "vvrnv"
     },
     {
       "title": "ZenNotes/tui - GitHub Repository",
@@ -3535,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 2880,
+      "stars": 2976,
       "user": "ashemag"
     },
     {
@@ -3550,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 622,
       "user": "Mantitup-Org"
     },
     {
@@ -3565,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 467,
       "user": "truanayangi-com"
     },
     {
@@ -3580,23 +3583,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 460,
       "user": "Vincentwei1021"
     },
     {
-      "title": "LBEILC/RhineLabUI - Rhine Lab archive interface built with TypeScript and Three.js",
-      "url": "https://github.com/LBEILC/RhineLabUI",
-      "published_at": "2026-09-07T18:16:23Z",
-      "description": "Rhine Lab archive interface built with TypeScript and Three.js",
+      "title": "BagasRizkyHarySaputra/SIAPIN - GitHub Repository",
+      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
+      "published_at": "2026-09-05T20:27:24Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156832855?v=4",
       "source": "GitHub",
-      "stars": 303,
-      "user": "LBEILC"
+      "stars": 354,
+      "user": "BagasRizkyHarySaputra"
     },
     {
       "title": "rust-alert/ra2.exe - 使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。",
@@ -3610,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 203,
       "user": "rust-alert"
     },
     {
@@ -3625,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "Apeireth"
     },
     {
@@ -3640,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 115,
       "user": "denialwm"
     },
     {
@@ -3655,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 87,
       "user": "TravellingEngineer"
     },
     {
@@ -3670,14 +3673,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "gfhdhytghd"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
       "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
       "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "postgresql",
@@ -3686,6 +3689,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erkanunluturk"
+    },
+    {
+      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
+      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
+      "published_at": "2026-09-09T03:32:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "vs-code",
+        "vscode-debugger",
+        "debugpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
