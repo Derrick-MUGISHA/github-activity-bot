@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l",
       "published_at": "2026-09-10T18:51:51Z",
@@ -29,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1350,
       "user": "EverettFish"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 1082,
       "user": "Edge0-AI"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 899,
       "user": "iamzulx"
     },
     {
@@ -774,8 +774,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 551,
       "user": "okf-memory"
+    },
+    {
+      "title": "VaderChen/YourDesk - Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
+      "url": "https://github.com/VaderChen/YourDesk",
+      "published_at": "2026-09-08T03:53:34Z",
+      "description": "Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "VaderChen"
     },
     {
       "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
@@ -789,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 766,
       "user": "Vincentwei1021"
     },
     {
@@ -804,8 +819,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 250,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "Fastly Speedtest Test",
+      "url": "https://speed.edgecompute.app/",
+      "published_at": "2026-09-10T16:58:12.553-05:00",
+      "description": "The result should fairly accurately reflect cache fetch speed you’re going to get with the official Nix binary cache ;)",
+      "tags": [
+        "networking",
+        "wasm"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ysun"
     },
     {
       "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
@@ -1263,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 755,
       "user": "achimala"
     },
     {
@@ -1278,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 378,
       "user": "mizzlelover"
     },
     {
@@ -1308,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "browser-use"
     },
     {
@@ -1338,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1350,
       "user": "EverettFish"
     },
     {
@@ -1353,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3077,
+      "stars": 3120,
       "user": "ashemag"
     },
     {
@@ -1368,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 766,
       "user": "Vincentwei1021"
     },
     {
@@ -1383,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 545,
       "user": "truanayangi-com"
     },
     {
@@ -1398,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 370,
       "user": "LBEILC"
     },
     {
@@ -1781,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1350,
       "user": "EverettFish"
     },
     {
@@ -1796,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 1082,
       "user": "Edge0-AI"
     },
     {
@@ -1811,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 933,
       "user": "donvito"
     },
     {
@@ -1826,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 899,
       "user": "iamzulx"
     },
     {
@@ -1841,8 +1869,49 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 612,
       "user": "gazijarin"
+    },
+    {
+      "title": "Soft-deprecating re.match()",
+      "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+      "published_at": "2026-09-10T16:59:16.157-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
+    },
+    {
+      "title": "And someone give me a suggestion to learn python framework",
+      "url": "https://stackoverflow.com/questions/80002300/and-someone-give-me-a-suggestion-to-learn-python-framework",
+      "published_at": "2026-09-11T01:49:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "advice",
+        "python",
+        "frameworks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jokercharu 03"
+    },
+    {
+      "title": "How to cleanly manage shifting player roles for a game of texas hold'em poker",
+      "url": "https://stackoverflow.com/questions/80002232/how-to-cleanly-manage-shifting-player-roles-for-a-game-of-texas-holdem-poker",
+      "published_at": "2026-09-10T18:39:29.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "advice",
+        "python",
+        "state",
+        "poker"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lorang"
     },
     {
       "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
@@ -1885,21 +1954,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Adalast"
-    },
-    {
-      "title": "How to cleanly manage shifting player roles for a game of texas hold'em poker",
-      "url": "https://stackoverflow.com/questions/80002232/how-to-cleanly-manage-shifting-player-roles-for-a-game-of-texas-holdem-poker",
-      "published_at": "2026-09-10T18:39:29.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
-      "tags": [
-        "advice",
-        "python",
-        "state",
-        "poker"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lorang"
     },
     {
       "title": "Finding digits in a string containing distinct digits",
@@ -1945,7 +1999,7 @@
       "title": "PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__'",
       "url": "https://stackoverflow.com/questions/80001996/pycharm-type-hint-warning-member-none-of-any-none-does-not-have-attribute",
       "published_at": "2026-09-09T21:12:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "pycharm",
@@ -1968,19 +2022,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Many-to-many relation creates new items after migration",
-      "url": "https://stackoverflow.com/questions/80001980/many-to-many-relation-creates-new-items-after-migration",
-      "published_at": "2026-09-09T18:29:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "django"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Obalouch"
     },
     {
       "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
@@ -2306,7 +2347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 545,
       "user": "truanayangi-com"
     },
     {
@@ -2472,7 +2513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 142,
       "user": "denialwm"
     },
     {
@@ -2816,7 +2857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 545,
       "user": "truanayangi-com"
     },
     {
@@ -2861,7 +2902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 551,
       "user": "okf-memory"
     },
     {
@@ -3252,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 755,
       "user": "achimala"
     },
     {
@@ -3267,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 378,
       "user": "mizzlelover"
     },
     {
@@ -3297,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "browser-use"
     },
     {
@@ -3327,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1333,
+      "stars": 1350,
       "user": "EverettFish"
     },
     {
@@ -3342,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 1082,
       "user": "Edge0-AI"
     },
     {
@@ -3357,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 933,
       "user": "donvito"
     },
     {
@@ -3372,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 899,
       "user": "iamzulx"
     },
     {
@@ -3387,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 612,
       "user": "gazijarin"
     },
     {
@@ -3402,14 +3443,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 551,
       "user": "okf-memory"
     },
     {
-      "title": "VaderChen/YourDesk - YourDesk 跨平台遠端桌面：支援 macOS 與 Windows、硬體加速、多螢幕，以及文字、圖片、檔案與資料夾剪貼簿傳輸。",
+      "title": "VaderChen/YourDesk - Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
       "url": "https://github.com/VaderChen/YourDesk",
       "published_at": "2026-09-08T03:53:34Z",
-      "description": "YourDesk 跨平台遠端桌面：支援 macOS 與 Windows、硬體加速、多螢幕，以及文字、圖片、檔案與資料夾剪貼簿傳輸。",
+      "description": "Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
       "tags": [
         "go",
         "github",
@@ -3417,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 164,
       "user": "VaderChen"
     },
     {
@@ -3432,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 118,
       "user": "x4gpanell"
     },
     {
@@ -3447,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "vvrnv"
     },
     {
@@ -3477,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3077,
+      "stars": 3120,
       "user": "ashemag"
     },
     {
@@ -3492,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 766,
       "user": "Vincentwei1021"
     },
     {
@@ -3507,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 545,
       "user": "truanayangi-com"
     },
     {
@@ -3522,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 370,
       "user": "LBEILC"
     },
     {
@@ -3552,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 250,
       "user": "deepseek-ai"
     },
     {
@@ -3567,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 229,
       "user": "rust-alert"
     },
     {
@@ -3582,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 142,
       "user": "denialwm"
     },
     {
@@ -3597,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "TravellingEngineer"
     },
     {
@@ -3612,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "gfhdhytghd"
     },
     {
