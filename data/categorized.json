@@ -718,21 +718,6 @@
       "user": "yudaprasetya007"
     },
     {
-      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "published_at": "2026-09-04T15:00:53Z",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
-      "source": "GitHub",
-      "stars": 2058,
-      "user": "Rion-Wu-tech"
-    },
-    {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "published_at": "2026-09-07T00:41:18Z",
@@ -744,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1333,
       "user": "EverettFish"
     },
     {
@@ -759,23 +744,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 995,
       "user": "Edge0-AI"
     },
     {
-      "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
-      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
-      "published_at": "2026-09-04T17:18:43Z",
-      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "title": "iamzulx/crypto-rag - Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "published_at": "2026-09-05T06:20:08Z",
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 649,
-      "user": "AI-FanGe"
+      "stars": 898,
+      "user": "iamzulx"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -804,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 704,
       "user": "Vincentwei1021"
     },
     {
@@ -819,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 218,
       "user": "deepseek-ai"
     },
     {
@@ -1267,21 +1252,6 @@
       "user": "velmu"
     },
     {
-      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "published_at": "2026-09-04T01:15:28Z",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
-      "source": "GitHub",
-      "stars": 745,
-      "user": "KJGX66F"
-    },
-    {
       "title": "achimala/dream-loop - Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
       "published_at": "2026-09-07T14:19:20Z",
@@ -1293,23 +1263,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 730,
       "user": "achimala"
     },
     {
-      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "url": "https://github.com/byJoey/warp-masque-actions",
-      "published_at": "2026-09-04T17:21:26Z",
-      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "title": "mizzlelover/gongwen-gbt9704-skill - 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+      "published_at": "2026-09-09T10:04:14Z",
+      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 549,
-      "user": "byJoey"
+      "stars": 328,
+      "user": "mizzlelover"
     },
     {
       "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
@@ -1327,19 +1297,34 @@
       "user": "yudaprasetya007"
     },
     {
-      "title": "mizzlelover/gongwen-gbt9704-skill - 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
-      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
-      "published_at": "2026-09-09T10:04:14Z",
-      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "title": "browser-use/browser-use-pi - A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "url": "https://github.com/browser-use/browser-use-pi",
+      "published_at": "2026-09-05T19:47:45Z",
+      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 305,
-      "user": "mizzlelover"
+      "stars": 265,
+      "user": "browser-use"
+    },
+    {
+      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "url": "https://github.com/LerSent001/holo-card",
+      "published_at": "2026-09-07T16:18:45Z",
+      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
+      "source": "GitHub",
+      "stars": 203,
+      "user": "LerSent001"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -1353,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1333,
       "user": "EverettFish"
     },
     {
@@ -1368,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3070,
+      "stars": 3077,
       "user": "ashemag"
     },
     {
@@ -1383,23 +1368,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 704,
       "user": "Vincentwei1021"
-    },
-    {
-      "title": "Mantitup-Org/vista - GitHub Repository",
-      "url": "https://github.com/Mantitup-Org/vista",
-      "published_at": "2026-09-04T06:20:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "Mantitup-Org"
     },
     {
       "title": "truanayangi-com/truanayangi - Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
@@ -1413,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "truanayangi-com"
     },
     {
@@ -1428,8 +1398,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "LBEILC"
+    },
+    {
+      "title": "BagasRizkyHarySaputra/SIAPIN - GitHub Repository",
+      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
+      "published_at": "2026-09-05T20:27:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/156832855?v=4",
+      "source": "GitHub",
+      "stars": 355,
+      "user": "BagasRizkyHarySaputra"
+    },
+    {
+      "title": "About sprite-flex-js issues",
+      "url": "https://stackoverflow.com/questions/80002281/about-sprite-flex-js-issues",
+      "published_at": "2026-09-10T22:01:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "flexbox",
+        "flashdevelop",
+        "apache-royale"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Peter Zhou"
     },
     {
       "title": "Rendering problem on Apple MacBook M4 Pro only?",
@@ -1554,19 +1554,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
-    },
-    {
-      "title": "JavaScript naming conventions",
-      "url": "https://stackoverflow.com/questions/921133/javascript-naming-conventions",
-      "published_at": "2009-05-28T14:28:03.000Z",
-      "description": "Stack Overflow question · 6 answers · score 263",
-      "tags": [
-        "javascript",
-        "naming-conventions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "peirix"
     },
     {
       "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
@@ -1783,21 +1770,6 @@
       "user": "arathore"
     },
     {
-      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "published_at": "2026-09-04T15:00:53Z",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
-      "source": "GitHub",
-      "stars": 2058,
-      "user": "Rion-Wu-tech"
-    },
-    {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "published_at": "2026-09-07T00:41:18Z",
@@ -1809,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1333,
       "user": "EverettFish"
     },
     {
@@ -1824,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 995,
       "user": "Edge0-AI"
     },
     {
@@ -1839,23 +1811,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 922,
       "user": "donvito"
     },
     {
-      "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
-      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
-      "published_at": "2026-09-04T17:18:43Z",
-      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "title": "iamzulx/crypto-rag - Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "published_at": "2026-09-05T06:20:08Z",
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 649,
-      "user": "AI-FanGe"
+      "stars": 898,
+      "user": "iamzulx"
+    },
+    {
+      "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "published_at": "2026-09-08T05:02:01Z",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
+      "source": "GitHub",
+      "stars": 593,
+      "user": "gazijarin"
     },
     {
       "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
@@ -1903,7 +1890,7 @@
       "title": "How to cleanly manage shifting player roles for a game of texas hold'em poker",
       "url": "https://stackoverflow.com/questions/80002232/how-to-cleanly-manage-shifting-player-roles-for-a-game-of-texas-holdem-poker",
       "published_at": "2026-09-10T18:39:29.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "advice",
         "python",
@@ -2319,7 +2306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "truanayangi-com"
     },
     {
@@ -2485,21 +2472,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 132,
       "user": "denialwm"
-    },
-    {
-      "title": "Native is now the future of mobile at Shopify (2026)",
-      "url": "https://shopify.engineering/back-to-native",
-      "published_at": "2026-09-10T10:19:38.418-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "mobile",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dayanruben"
     },
     {
       "title": "Laravel optional route parameter not reaching the function when Axios sends an empty value",
@@ -2831,36 +2805,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "published_at": "2026-09-04T01:15:28Z",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
-      "source": "GitHub",
-      "stars": 745,
-      "user": "KJGX66F"
-    },
-    {
-      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "url": "https://github.com/byJoey/warp-masque-actions",
-      "published_at": "2026-09-04T17:21:26Z",
-      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 549,
-      "user": "byJoey"
-    },
-    {
       "title": "truanayangi-com/truanayangi - Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
       "url": "https://github.com/truanayangi-com/truanayangi",
       "published_at": "2026-09-08T08:50:53Z",
@@ -2872,7 +2816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "truanayangi-com"
     },
     {
@@ -3099,21 +3043,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Apeireth/Apeireth - Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
-      "url": "https://github.com/Apeireth/Apeireth",
-      "published_at": "2026-09-04T08:55:31Z",
-      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "Apeireth"
-    },
-    {
       "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
       "url": "https://maurycyz.com/misc/domains/",
       "published_at": "2026-09-10T10:14:48.267-05:00",
@@ -3312,21 +3241,6 @@
       "user": "pabs3"
     },
     {
-      "title": "KJGX66F/usque-custom-pro - 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "url": "https://github.com/KJGX66F/usque-custom-pro",
-      "published_at": "2026-09-04T01:15:28Z",
-      "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300279924?v=4",
-      "source": "GitHub",
-      "stars": 745,
-      "user": "KJGX66F"
-    },
-    {
       "title": "achimala/dream-loop - Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "url": "https://github.com/achimala/dream-loop",
       "published_at": "2026-09-07T14:19:20Z",
@@ -3338,23 +3252,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 730,
       "user": "achimala"
     },
     {
-      "title": "byJoey/warp-masque-actions - GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-      "url": "https://github.com/byJoey/warp-masque-actions",
-      "published_at": "2026-09-04T17:21:26Z",
-      "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "title": "mizzlelover/gongwen-gbt9704-skill - 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+      "published_at": "2026-09-09T10:04:14Z",
+      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 549,
-      "user": "byJoey"
+      "stars": 328,
+      "user": "mizzlelover"
     },
     {
       "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
@@ -3372,34 +3286,34 @@
       "user": "yudaprasetya007"
     },
     {
-      "title": "mizzlelover/gongwen-gbt9704-skill - 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
-      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
-      "published_at": "2026-09-09T10:04:14Z",
-      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "title": "browser-use/browser-use-pi - A tiny TypeScript web agent, hill climbed on real browser evals.",
+      "url": "https://github.com/browser-use/browser-use-pi",
+      "published_at": "2026-09-05T19:47:45Z",
+      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 305,
-      "user": "mizzlelover"
+      "stars": 265,
+      "user": "browser-use"
     },
     {
-      "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "published_at": "2026-09-04T15:00:53Z",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "url": "https://github.com/LerSent001/holo-card",
+      "published_at": "2026-09-07T16:18:45Z",
+      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/184370191?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 2058,
-      "user": "Rion-Wu-tech"
+      "stars": 203,
+      "user": "LerSent001"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -3413,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1333,
       "user": "EverettFish"
     },
     {
@@ -3428,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 995,
       "user": "Edge0-AI"
     },
     {
@@ -3443,23 +3357,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 922,
       "user": "donvito"
     },
     {
-      "title": "AI-FanGe/Microduck-build-tutorial - A practical hardware and software setup for a compact RL-powered biped robot.",
-      "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
-      "published_at": "2026-09-04T17:18:43Z",
-      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "title": "iamzulx/crypto-rag - Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "published_at": "2026-09-05T06:20:08Z",
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202376609?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 649,
-      "user": "AI-FanGe"
+      "stars": 898,
+      "user": "iamzulx"
+    },
+    {
+      "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "published_at": "2026-09-08T05:02:01Z",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
+      "source": "GitHub",
+      "stars": 593,
+      "user": "gazijarin"
     },
     {
       "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
@@ -3503,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 105,
       "user": "x4gpanell"
     },
     {
@@ -3548,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3070,
+      "stars": 3077,
       "user": "ashemag"
     },
     {
@@ -3563,23 +3492,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 704,
       "user": "Vincentwei1021"
-    },
-    {
-      "title": "Mantitup-Org/vista - GitHub Repository",
-      "url": "https://github.com/Mantitup-Org/vista",
-      "published_at": "2026-09-04T06:20:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277736651?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "Mantitup-Org"
     },
     {
       "title": "truanayangi-com/truanayangi - Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
@@ -3593,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "truanayangi-com"
     },
     {
@@ -3608,8 +3522,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "LBEILC"
+    },
+    {
+      "title": "BagasRizkyHarySaputra/SIAPIN - GitHub Repository",
+      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
+      "published_at": "2026-09-05T20:27:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/156832855?v=4",
+      "source": "GitHub",
+      "stars": 355,
+      "user": "BagasRizkyHarySaputra"
+    },
+    {
+      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
+      "url": "https://github.com/deepseek-ai/deepseek-recipe",
+      "published_at": "2026-09-10T05:36:48Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "deepseek-ai"
     },
     {
       "title": "rust-alert/ra2.exe - 使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。",
@@ -3627,21 +3571,6 @@
       "user": "rust-alert"
     },
     {
-      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
-      "url": "https://github.com/deepseek-ai/deepseek-recipe",
-      "published_at": "2026-09-10T05:36:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "deepseek-ai"
-    },
-    {
       "title": "denialwm/droidloom - Droidloom - weaving Android into Linux. Run Android Apps inside your Wayland session! Supports arm64 and x86_64 platforms, running arm64-only apps on x86_64 without closed source libraries.",
       "url": "https://github.com/denialwm/droidloom",
       "published_at": "2026-09-06T18:48:29Z",
@@ -3653,23 +3582,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 132,
       "user": "denialwm"
-    },
-    {
-      "title": "Apeireth/Apeireth - Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
-      "url": "https://github.com/Apeireth/Apeireth",
-      "published_at": "2026-09-04T08:55:31Z",
-      "description": "Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous topological memory, causal world model, cognitive scheduler, Ember HUD, triple-onion security & portable USB agent.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
-      "source": "GitHub",
-      "stars": 121,
-      "user": "Apeireth"
     },
     {
       "title": "TravellingEngineer/barney - Content Journey - Package Tool",
@@ -3685,6 +3599,34 @@
       "source": "GitHub",
       "stars": 94,
       "user": "TravellingEngineer"
+    },
+    {
+      "title": "gfhdhytghd/viewflow - GitHub Repository",
+      "url": "https://github.com/gfhdhytghd/viewflow",
+      "published_at": "2026-09-07T12:18:27Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "gfhdhytghd"
+    },
+    {
+      "title": "What comes after git",
+      "url": "https://ersc.io/blog/what-comes-after-git",
+      "published_at": "2026-09-10T12:44:27.435-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ucirello"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
