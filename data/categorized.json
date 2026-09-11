@@ -105,6 +105,21 @@
       "user": "xbill"
     },
     {
+      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
+      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
+      "published_at": "2026-09-10T18:31:29Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated to the MCP SDK 2.x.",
+      "tags": [
+        "mcp",
+        "gemma",
+        "googlecloud",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Interactive AI Eval Dashboards with Data Studio",
       "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
       "published_at": "2026-09-08T07:00:00Z",
@@ -252,21 +267,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
       "source": "Dev.to",
       "user": "Ashley Childress"
-    },
-    {
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
-      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
-      "published_at": "2026-09-06T16:51:54Z",
-      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Claude Fable 5.1 is now available on Agent Platform!",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1440,
       "user": "EverettFish"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1316,
       "user": "Edge0-AI"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 903,
       "user": "iamzulx"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 573,
       "user": "okf-memory"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "VaderChen"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 917,
       "user": "Vincentwei1021"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "deepseek-ai"
     },
     {
@@ -835,19 +835,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "andybalaam"
-    },
-    {
-      "title": "Fastly Speedtest Test",
-      "url": "https://speed.edgecompute.app/",
-      "published_at": "2026-09-10T16:58:12.553-05:00",
-      "description": "The result should fairly accurately reflect cache fetch speed you’re going to get with the official Nix binary cache ;)",
-      "tags": [
-        "networking",
-        "wasm"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ysun"
     },
     {
       "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
@@ -874,6 +861,48 @@
       "user": "Sam Sianati"
     },
     {
+      "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "published_at": "2026-09-11T19:35:54.000Z",
+      "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "tags": [
+        "AI",
+        "In Brief",
+        "moonshot ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "published_at": "2026-09-11T19:00:00.000Z",
+      "description": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+      "tags": [
+        "Apps",
+        "Gaming",
+        "Roblox"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "published_at": "2026-09-11T18:58:01.000Z",
+      "description": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+      "tags": [
+        "Startups",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
       "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "published_at": "2026-09-11T16:46:25.000Z",
@@ -881,9 +910,9 @@
       "tags": [
         "AI",
         "Fidji Simo",
+        "In Brief",
         "nscale",
-        "OpenAI",
-        "people moves"
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -980,48 +1009,81 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "published_at": "2026-09-10T20:57:30.000Z",
-      "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "title": "How to Build an AI Chat App Interface With the Vercel AI SDK and Shadcn/ui",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chat-app-interface-with-the-ai-sdk/",
+      "published_at": "2026-09-11T16:21:29.000Z",
+      "description": "Every other AI product you open today has the same screen: a message list, a text box at the bottom, and words that stream in one token at a time. It looks simple, but it's not simple to build well. Y",
       "tags": [
-        "AI",
-        "TC",
-        "Anthropic",
-        "distillation"
+        "shadcn ui",
+        "vercel ai sdk",
+        "shadcn ai chat app",
+        "AI"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
     },
     {
-      "title": "Furo&#8217;s founders left Silicon Valley — and it&#8217;s paying off",
-      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-      "published_at": "2026-09-10T20:48:00.000Z",
-      "description": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+      "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
+      "url": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
+      "published_at": "2026-09-11T15:24:04.000Z",
+      "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
       "tags": [
-        "Fundraising",
-        "Startups",
-        "furo"
+        "Artificial Intelligence",
+        "Python",
+        "Machine Learning",
+        "ai agents"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
+      "source": "freeCodeCamp",
+      "user": "Jude Otine"
     },
     {
-      "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "published_at": "2026-09-10T19:50:04.000Z",
-      "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
+      "url": "https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/",
+      "published_at": "2026-09-11T15:22:46.000Z",
+      "description": "Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w",
       "tags": [
+        "Security",
+        "Malware",
         "AI",
-        "Apps",
-        "Meta",
-        "muse"
+        "ai agents"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
+      "title": "Apple Watch Can Now Estimate Your Health Age, But What's It Actually Measuring?",
+      "url": "https://www.freecodecamp.org/news/apple-watch-health-age-whats-it-actually-measuring/",
+      "published_at": "2026-09-11T15:15:57.000Z",
+      "description": "Your birthday tells you how many years you've been alive. But it doesn't necessarily tell you how your body is aging. Two people can be the same age and still have very different levels of cardiovascu",
+      "tags": [
+        "biological age",
+        "health age",
+        "AI",
+        "Apple",
+        "apple watch"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Shradha Puri"
+    },
+    {
+      "title": "What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent",
+      "url": "https://www.freecodecamp.org/news/what-is-an-agent-harness/",
+      "published_at": "2026-09-11T15:07:18.000Z",
+      "description": "On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa",
+      "tags": [
+        "Artificial Intelligence",
+        "ai agents",
+        "Software Engineering",
+        "Machine Learning",
+        "Developer Tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "How to Use Lovable Responsibly",
@@ -1067,35 +1129,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Eva J Patel"
-    },
-    {
-      "title": "Learn Python Interactively",
-      "url": "https://www.freecodecamp.org/news/learn-python-interactively/",
-      "published_at": "2026-09-09T13:56:17.000Z",
-      "description": "Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We",
-      "tags": [
-        "Python",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/",
-      "published_at": "2026-09-07T22:35:39.000Z",
-      "description": "A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t",
-      "tags": [
-        "AI",
-        "aitools",
-        "Vercel",
-        "gemini",
-        "chatbot development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Johnson Samuel"
     }
   ],
   "JavaScript": [
@@ -1336,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 837,
       "user": "achimala"
     },
     {
@@ -1351,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 466,
       "user": "mizzlelover"
     },
     {
@@ -1381,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "browser-use"
     },
     {
@@ -1411,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1440,
       "user": "EverettFish"
     },
     {
@@ -1426,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3197,
+      "stars": 3200,
       "user": "ashemag"
     },
     {
@@ -1441,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 917,
       "user": "Vincentwei1021"
     },
     {
@@ -1471,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "LBEILC"
     },
     {
@@ -1490,16 +1523,18 @@
       "user": "BagasRizkyHarySaputra"
     },
     {
-      "title": "Print character that appear more then Once?",
-      "url": "https://stackoverflow.com/questions/80002327/print-character-that-appear-more-then-once",
-      "published_at": "2026-09-11T05:26:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
+      "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
+      "published_at": "2026-09-11T19:35:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "javascript"
+        "javascript",
+        "reactjs",
+        "server"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NacroMan"
+      "user": "Kijupo"
     },
     {
       "title": "About sprite-flex-js issues",
@@ -1516,6 +1551,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Zhou"
+    },
+    {
+      "title": "Print character that appear more then Once?",
+      "url": "https://stackoverflow.com/questions/80002327/print-character-that-appear-more-then-once",
+      "published_at": "2026-09-11T05:26:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NacroMan"
     },
     {
       "title": "Rendering problem on Apple MacBook M4 Pro only?",
@@ -1616,53 +1663,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cdb-edward"
-    },
-    {
-      "title": "How to pause and play video using JavaScript in React web project?",
-      "url": "https://stackoverflow.com/questions/79918476/how-to-pause-and-play-video-using-javascript-in-react-web-project",
-      "published_at": "2026-04-01T15:09:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "advice",
-        "javascript",
-        "reactjs",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ANURUDH KUMAR"
-    },
-    {
-      "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
-      "url": "https://www.freecodecamp.org/news/gamepad-api-javascript-guide/",
-      "published_at": "2026-09-07T22:39:45.000Z",
-      "description": "The Gamepad API is one of the smallest browser APIs you'll ever use. Four properties, one function, and no permissions prompt. You can have a controller drawn on screen in about fifteen lines. Those f",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "Browsers",
-        "APIs",
-        "Game Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "taimoor bamazai"
-    },
-    {
-      "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/",
-      "published_at": "2026-09-07T22:35:39.000Z",
-      "description": "A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t",
-      "tags": [
-        "AI",
-        "aitools",
-        "Vercel",
-        "gemini",
-        "chatbot development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Johnson Samuel"
     }
   ],
   "Python": [
@@ -1680,6 +1680,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
+      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
+      "published_at": "2026-09-10T18:31:29Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated to the MCP SDK 2.x.",
+      "tags": [
+        "mcp",
+        "gemma",
+        "googlecloud",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
+      "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
+      "published_at": "2026-09-10T02:43:19Z",
+      "description": "Deterministic Sub-Second Python and Bash Execution, Zero-Trust gVisor Isolation, and Zero...",
+      "tags": [
+        "googleappsscript",
+        "googlecloud",
+        "googlecloudrun",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fklhc7kkq2althrawzb4l.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Cross Cloud A2A Agent Card Field Comparison",
@@ -1858,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1440,
       "user": "EverettFish"
     },
     {
@@ -1873,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1316,
       "user": "Edge0-AI"
     },
     {
@@ -1888,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 971,
       "user": "donvito"
     },
     {
@@ -1903,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 903,
       "user": "iamzulx"
     },
     {
@@ -1918,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 704,
       "user": "gazijarin"
     },
     {
@@ -1948,6 +1978,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cdb-edward"
+    },
+    {
+      "title": "Why does my Py-Shiny web app download an empty file?",
+      "url": "https://stackoverflow.com/questions/80002466/why-does-my-py-shiny-web-app-download-an-empty-file",
+      "published_at": "2026-09-11T18:14:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "py-shiny"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kes Perron"
     },
     {
       "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
@@ -2040,7 +2083,7 @@
       "title": "Power BI Python Visualization erroring out when it shouldn't",
       "url": "https://stackoverflow.com/questions/80002222/power-bi-python-visualization-erroring-out-when-it-shouldnt",
       "published_at": "2026-09-10T17:37:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "pandas",
@@ -2078,46 +2121,19 @@
       "user": "NickC"
     },
     {
-      "title": "Empty datetime() and type-hint errors",
-      "url": "https://stackoverflow.com/questions/80001989/empty-datetime-and-type-hint-errors",
-      "published_at": "2026-09-09T19:54:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
+      "url": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
+      "published_at": "2026-09-11T15:24:04.000Z",
+      "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
       "tags": [
-        "python",
-        "datetime",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
-      "url": "https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/",
-      "published_at": "2026-09-09T18:09:51.000Z",
-      "description": "Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr",
-      "tags": [
-        "gradio",
-        "software development",
+        "Artificial Intelligence",
         "Python",
-        "book"
+        "Machine Learning",
+        "ai agents"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Eva J Patel"
-    },
-    {
-      "title": "Learn Python Interactively",
-      "url": "https://www.freecodecamp.org/news/learn-python-interactively/",
-      "published_at": "2026-09-09T13:56:17.000Z",
-      "description": "Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We",
-      "tags": [
-        "Python",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
+      "user": "Jude Otine"
     }
   ],
   "DevOps": [
@@ -2476,22 +2492,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
-      "url": "https://www.freecodecamp.org/news/gamepad-api-javascript-guide/",
-      "published_at": "2026-09-07T22:39:45.000Z",
-      "description": "The Gamepad API is one of the smallest browser APIs you'll ever use. Four properties, one function, and no permissions prompt. You can have a controller drawn on screen in about fifteen lines. Those f",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "Browsers",
-        "APIs",
-        "Game Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "taimoor bamazai"
     }
   ],
   "Mobile": [
@@ -2522,36 +2522,6 @@
         "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
-      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
-      "published_at": "2026-09-06T16:51:54Z",
-      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
-      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8",
-      "published_at": "2026-08-30T01:27:54Z",
-      "description": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and Riverpod now operate as first-class bidirectional peers at the Grand Central State Terminal.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2626,7 +2596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "denialwm"
     },
     {
@@ -2644,20 +2614,19 @@
       "user": "Shadir Amjard"
     },
     {
-      "title": "The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface",
-      "url": "https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/",
-      "published_at": "2026-09-09T18:10:26.000Z",
-      "description": "Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo",
+      "title": "How to Implement LEGO Architecture in Flutter [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-implement-lego-architecture-in-flutter-handbook/",
+      "published_at": "2026-09-11T15:08:19.000Z",
+      "description": "Almost everyone has snapped two LEGO bricks together at some point, even without owning a single set as an adult. You press one brick down onto another, feel it click, and it holds. You likely never o",
       "tags": [
-        "composite-desing-pattern",
-        "Composite",
-        "design patterns",
-        "design principles",
-        "Dart"
+        "Flutter",
+        "Dart",
+        "flutter-aware",
+        "handbook"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
+      "user": "Atuoha Anthony"
     }
   ],
   "Cloud": [
@@ -2692,6 +2661,21 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
+      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
+      "published_at": "2026-09-10T18:31:29Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated to the MCP SDK 2.x.",
+      "tags": [
+        "mcp",
+        "gemma",
+        "googlecloud",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
       "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
       "published_at": "2026-09-09T20:59:07Z",
@@ -2705,6 +2689,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
+      "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
+      "published_at": "2026-09-10T02:43:19Z",
+      "description": "Deterministic Sub-Second Python and Bash Execution, Zero-Trust gVisor Isolation, and Zero...",
+      "tags": [
+        "googleappsscript",
+        "googlecloud",
+        "googlecloudrun",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fklhc7kkq2althrawzb4l.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
@@ -2959,22 +2958,6 @@
       "source": "GitHub",
       "stars": 568,
       "user": "truanayangi-com"
-    },
-    {
-      "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/",
-      "published_at": "2026-09-07T22:35:39.000Z",
-      "description": "A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t",
-      "tags": [
-        "AI",
-        "aitools",
-        "Vercel",
-        "gemini",
-        "chatbot development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Johnson Samuel"
     }
   ],
   "Database": [
@@ -3002,7 +2985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 573,
       "user": "okf-memory"
     }
   ],
@@ -3196,16 +3179,17 @@
       "user": "Yogthos"
     },
     {
-      "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
-      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-      "published_at": "2026-09-10T12:40:19.396-05:00",
+      "title": "ChiPass Release 2026.09.0",
+      "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
+      "published_at": "2026-09-11T11:35:40.299-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "release",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "brn"
+      "user": "FedericoSchonborn"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -3234,6 +3218,21 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
+      "url": "https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/",
+      "published_at": "2026-09-11T15:22:46.000Z",
+      "description": "Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w",
+      "tags": [
+        "Security",
+        "Malware",
+        "AI",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "How to Use Lovable Responsibly",
@@ -3391,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 837,
       "user": "achimala"
     },
     {
@@ -3406,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 466,
       "user": "mizzlelover"
     },
     {
@@ -3436,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "browser-use"
     },
     {
@@ -3466,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1440,
       "user": "EverettFish"
     },
     {
@@ -3481,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1316,
       "user": "Edge0-AI"
     },
     {
@@ -3496,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 971,
       "user": "donvito"
     },
     {
@@ -3511,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 903,
       "user": "iamzulx"
     },
     {
@@ -3526,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 704,
       "user": "gazijarin"
     },
     {
@@ -3541,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 573,
       "user": "okf-memory"
     },
     {
@@ -3556,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "VaderChen"
     },
     {
@@ -3575,6 +3574,21 @@
       "user": "x4gpanell"
     },
     {
+      "title": "unstablebuild/rune - the development environment for pros",
+      "url": "https://github.com/unstablebuild/rune",
+      "published_at": "2026-09-10T10:50:03Z",
+      "description": "the development environment for pros",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
+      "source": "GitHub",
+      "stars": 99,
+      "user": "unstablebuild"
+    },
+    {
       "title": "vvrnv/argo9s - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
       "url": "https://github.com/vvrnv/argo9s",
       "published_at": "2026-09-07T08:11:20Z",
@@ -3586,23 +3600,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 96,
       "user": "vvrnv"
-    },
-    {
-      "title": "vianziro/Whatsapp-Dekstop - An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
-      "url": "https://github.com/vianziro/Whatsapp-Dekstop",
-      "published_at": "2026-09-07T08:13:04Z",
-      "description": "An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9649104?v=4",
-      "source": "GitHub",
-      "stars": 85,
-      "user": "vianziro"
     },
     {
       "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
@@ -3616,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3197,
+      "stars": 3200,
       "user": "ashemag"
     },
     {
@@ -3631,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 917,
       "user": "Vincentwei1021"
     },
     {
@@ -3661,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 409,
       "user": "LBEILC"
     },
     {
@@ -3691,7 +3690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "deepseek-ai"
     },
     {
@@ -3706,7 +3705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "rust-alert"
     },
     {
@@ -3721,7 +3720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "denialwm"
     },
     {
@@ -3736,7 +3735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 132,
       "user": "romancitodev"
     },
     {
@@ -3755,6 +3754,20 @@
       "user": "TravellingEngineer"
     },
     {
+      "title": "Bastion of the Turbofish",
+      "url": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
+      "published_at": "2026-09-11T08:50:19.190-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "satire",
+        "testing"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nrposner"
+    },
+    {
       "title": "Finding digits in a string containing distinct digits",
       "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
       "published_at": "2026-09-10T14:27:29.000Z",
@@ -3765,6 +3778,51 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sam Sianati"
+    },
+    {
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "published_at": "2026-09-11T19:00:00.000Z",
+      "description": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+      "tags": [
+        "Apps",
+        "Gaming",
+        "Roblox"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
+      "url": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
+      "published_at": "2026-09-11T15:24:04.000Z",
+      "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
+      "tags": [
+        "Artificial Intelligence",
+        "Python",
+        "Machine Learning",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Jude Otine"
+    },
+    {
+      "title": "What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent",
+      "url": "https://www.freecodecamp.org/news/what-is-an-agent-harness/",
+      "published_at": "2026-09-11T15:07:18.000Z",
+      "description": "On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa",
+      "tags": [
+        "Artificial Intelligence",
+        "ai agents",
+        "Software Engineering",
+        "Machine Learning",
+        "Developer Tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "How to Use Lovable Responsibly",
@@ -3794,22 +3852,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/",
-      "published_at": "2026-09-07T22:35:39.000Z",
-      "description": "A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t",
-      "tags": [
-        "AI",
-        "aitools",
-        "Vercel",
-        "gemini",
-        "chatbot development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Johnson Samuel"
     }
   ]
 }
