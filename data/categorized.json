@@ -1,6 +1,51 @@
 {
   "AI": [
     {
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
+      "tags": [
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
+      "published_at": "2026-09-11T01:51:14Z",
+      "description": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between containers and BuildContext unlocks cleaner, faster reactive apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
       "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
       "published_at": "2026-09-10T19:23:39Z",
@@ -252,21 +297,6 @@
       "user": "James O'Reilly"
     },
     {
-      "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
-      "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
-      "published_at": "2026-09-07T06:37:45Z",
-      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   I built...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
-      "source": "Dev.to",
-      "user": "Fayaz"
-    },
-    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
       "published_at": "2026-08-17T20:12:46Z",
@@ -447,6 +477,21 @@
       "user": "Athreya aka Maneshwar"
     },
     {
+      "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
+      "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
+      "published_at": "2026-09-07T06:37:45Z",
+      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   I built...",
+      "tags": [
+        "devchallenge",
+        "weekendchallenge",
+        "ai",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
+      "source": "Dev.to",
+      "user": "Fayaz"
+    },
+    {
       "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
       "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
       "published_at": "2026-09-04T18:29:02Z",
@@ -490,49 +535,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fchromeos-boot%2Fmain%2Fdocs%2Fcover-stage-vs-flex.d4cc7b48.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -729,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1438,
       "user": "EverettFish"
     },
     {
@@ -744,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1282,
       "user": "Edge0-AI"
     },
     {
@@ -759,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 902,
       "user": "iamzulx"
     },
     {
@@ -774,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 569,
       "user": "okf-memory"
     },
     {
@@ -789,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 178,
       "user": "VaderChen"
     },
     {
@@ -804,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 906,
       "user": "Vincentwei1021"
     },
     {
@@ -819,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 293,
       "user": "deepseek-ai"
     },
     {
@@ -828,7 +830,6 @@
       "published_at": "2026-09-11T07:33:20.763-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
         "programming"
       ],
       "cover_image": null,
@@ -871,6 +872,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sam Sianati"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "published_at": "2026-09-11T16:46:25.000Z",
+      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "tags": [
+        "AI",
+        "Fidji Simo",
+        "nscale",
+        "OpenAI",
+        "people moves"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he&#8217;s back in control after CEO ouster",
+      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "published_at": "2026-09-11T15:19:00.000Z",
+      "description": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "TC",
+        "Automattic",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
@@ -991,37 +1024,6 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-      "published_at": "2026-09-10T18:38:00.000Z",
-      "description": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
-      "tags": [
-        "Climate",
-        "fusion power",
-        "In Brief",
-        "Proxima Fusion"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Amazon makes it easier to buy what you see on Prime Video",
-      "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-      "published_at": "2026-09-10T18:10:36.000Z",
-      "description": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
-      "tags": [
-        "Commerce",
-        "Media & Entertainment",
-        "Amazon",
-        "e-commerce",
-        "prime video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
       "title": "How to Use Lovable Responsibly",
       "url": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
       "published_at": "2026-09-10T16:08:33.000Z",
@@ -1097,6 +1099,36 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
+      "published_at": "2026-09-11T01:51:14Z",
+      "description": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between containers and BuildContext unlocks cleaner, faster reactive apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
@@ -1304,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 829,
       "user": "achimala"
     },
     {
@@ -1319,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 457,
       "user": "mizzlelover"
     },
     {
@@ -1349,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "browser-use"
     },
     {
@@ -1379,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1438,
       "user": "EverettFish"
     },
     {
@@ -1394,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3186,
+      "stars": 3197,
       "user": "ashemag"
     },
     {
@@ -1409,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 906,
       "user": "Vincentwei1021"
     },
     {
@@ -1424,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 568,
       "user": "truanayangi-com"
     },
     {
@@ -1439,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 407,
       "user": "LBEILC"
     },
     {
@@ -1461,7 +1493,7 @@
       "title": "Print character that appear more then Once?",
       "url": "https://stackoverflow.com/questions/80002327/print-character-that-appear-more-then-once",
       "published_at": "2026-09-11T05:26:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript"
       ],
@@ -1514,21 +1546,6 @@
       "user": "Shadir Amjard"
     },
     {
-      "title": "Get the playPause function to switch icons in the browser",
-      "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
-      "published_at": "2026-09-07T02:35:49.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "svg",
-        "fonts"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "neil"
-    },
-    {
       "title": "Add joint limits in matterjs",
       "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
       "published_at": "2026-09-06T09:50:45.000Z",
@@ -1540,6 +1557,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "wadskays26"
+    },
+    {
+      "title": "How can I detect that an integer literal will lose precision in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
+      "published_at": "2026-08-31T13:33:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "json",
+        "floating-point",
+        "precision"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jack Smith"
     },
     {
       "title": "How to make an animated menu icon show/hide menu",
@@ -1601,21 +1633,6 @@
       "user": "ANURUDH KUMAR"
     },
     {
-      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-      "published_at": "2026-09-10T18:38:00.000Z",
-      "description": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
-      "tags": [
-        "Climate",
-        "fusion power",
-        "In Brief",
-        "Proxima Fusion"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
       "url": "https://www.freecodecamp.org/news/gamepad-api-javascript-guide/",
       "published_at": "2026-09-07T22:39:45.000Z",
@@ -1649,6 +1666,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
+      "tags": [
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Cross Cloud A2A Agent Card Field Comparison",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
@@ -1826,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1438,
       "user": "EverettFish"
     },
     {
@@ -1841,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1282,
       "user": "Edge0-AI"
     },
     {
@@ -1856,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 969,
       "user": "donvito"
     },
     {
@@ -1871,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 902,
       "user": "iamzulx"
     },
     {
@@ -1886,7 +1918,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 695,
       "user": "gazijarin"
     },
     {
@@ -1965,10 +1997,23 @@
       "user": "Lorang"
     },
     {
+      "title": "IBKR ib_insync problem with placing stop limit orders in pre/post markets",
+      "url": "https://stackoverflow.com/questions/80002178/ibkr-ib-insync-problem-with-placing-stop-limit-orders-in-pre-post-markets",
+      "published_at": "2026-09-10T14:02:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "ib-insync"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SuperLeo"
+    },
+    {
       "title": "Python script download blocked by antivirus as a virus",
       "url": "https://stackoverflow.com/questions/80002260/python-script-download-blocked-by-antivirus-as-a-virus",
       "published_at": "2026-09-10T20:22:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "download",
@@ -2017,19 +2062,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sam Sianati"
-    },
-    {
-      "title": "IBKR ib_insync problem with placing stop limit orders in pre/post markets",
-      "url": "https://stackoverflow.com/questions/80002178/ibkr-ib-insync-problem-with-placing-stop-limit-orders-in-pre-post-markets",
-      "published_at": "2026-09-10T14:02:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "ib-insync"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SuperLeo"
     },
     {
       "title": "PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__'",
@@ -2089,6 +2121,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
       "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
@@ -2302,6 +2349,21 @@
   ],
   "WebDev": [
     {
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
+      "tags": [
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
       "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
       "published_at": "2026-09-10T19:23:39Z",
@@ -2370,7 +2432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 568,
       "user": "truanayangi-com"
     },
     {
@@ -2386,21 +2448,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fjorstut"
-    },
-    {
-      "title": "Get the playPause function to switch icons in the browser",
-      "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
-      "published_at": "2026-09-07T02:35:49.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "svg",
-        "fonts"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "neil"
     },
     {
       "title": "How to make an animated menu icon show/hide menu",
@@ -2449,6 +2496,21 @@
   ],
   "Mobile": [
     {
+      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
+      "published_at": "2026-09-11T01:51:14Z",
+      "description": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between containers and BuildContext unlocks cleaner, faster reactive apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
       "published_at": "2026-09-09T20:19:53Z",
@@ -2492,6 +2554,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Dealing with sensitive permissions on Android",
+      "url": "https://dev.to/tkuenneth/dealing-with-sensitive-permissions-on-android-3icg",
+      "published_at": "2026-09-05T09:22:30Z",
+      "description": "Right now the developer community seems fascinated (if not outright obsessed) with agentic coding....",
+      "tags": [
+        "android",
+        "androiddev",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffazrx9s2cllgud2aw7f4.jpg",
+      "source": "Dev.to",
+      "user": "Thomas Künneth"
     },
     {
       "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
@@ -2550,7 +2626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 157,
       "user": "denialwm"
     },
     {
@@ -2585,6 +2661,36 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
+      "tags": [
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
       "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
@@ -2840,49 +2946,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "published_at": "2026-09-03T15:54:57Z",
-      "description": "How do you run an autonomous AI agent in the cloud 24/7 for just $5.70 a month?  I recently wanted to...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5w4r8klerb4k2vkkuoq2.png",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Your First AI Agent: A Beginner's Guide to Building an AI Trend finder with ADK",
-      "url": "https://dev.to/googleai/your-first-ai-agent-a-beginners-guide-to-building-an-ai-trend-finder-with-adk-5f8k",
-      "published_at": "2026-09-03T15:52:29Z",
-      "description": "The world of AI agents is moving at lightning speed. Keeping up with the latest trends, new...",
-      "tags": [
-        "agents",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F27244f27ij14y339sl5u.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "truanayangi-com/truanayangi - Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
       "url": "https://github.com/truanayangi-com/truanayangi",
       "published_at": "2026-09-08T08:50:53Z",
@@ -2894,7 +2957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 568,
       "user": "truanayangi-com"
     },
     {
@@ -2939,7 +3002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 569,
       "user": "okf-memory"
     }
   ],
@@ -3281,21 +3344,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "Streamline Publishing with a Claude Code Skill",
-      "url": "https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn",
-      "published_at": "2026-09-01T14:37:08Z",
-      "description": "A Claude Code skill that turns one markdown file into dev.to, AWS Builder Center, Medium and LinkedIn versions, checks them before they ship, and posts the ones with an API — plus the debugging tools for when a destination mangles something.",
-      "tags": [
-        "claudecode",
-        "writing",
-        "devtools",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fpublishing-kit-skill%2Fcover.77acc7c4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3343,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 829,
       "user": "achimala"
     },
     {
@@ -3358,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 457,
       "user": "mizzlelover"
     },
     {
@@ -3388,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "browser-use"
     },
     {
@@ -3418,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1438,
       "user": "EverettFish"
     },
     {
@@ -3433,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1282,
       "user": "Edge0-AI"
     },
     {
@@ -3448,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 969,
       "user": "donvito"
     },
     {
@@ -3463,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 902,
       "user": "iamzulx"
     },
     {
@@ -3478,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 695,
       "user": "gazijarin"
     },
     {
@@ -3493,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 569,
       "user": "okf-memory"
     },
     {
@@ -3508,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 178,
       "user": "VaderChen"
     },
     {
@@ -3523,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 150,
       "user": "x4gpanell"
     },
     {
@@ -3568,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3186,
+      "stars": 3197,
       "user": "ashemag"
     },
     {
@@ -3583,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 906,
       "user": "Vincentwei1021"
     },
     {
@@ -3598,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 568,
       "user": "truanayangi-com"
     },
     {
@@ -3613,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 407,
       "user": "LBEILC"
     },
     {
@@ -3643,7 +3691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 293,
       "user": "deepseek-ai"
     },
     {
@@ -3658,7 +3706,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "rust-alert"
     },
     {
@@ -3673,8 +3721,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 157,
       "user": "denialwm"
+    },
+    {
+      "title": "romancitodev/cargo-pretty - A cargo build wrapper with a live, animated status view",
+      "url": "https://github.com/romancitodev/cargo-pretty",
+      "published_at": "2026-09-07T17:20:40Z",
+      "description": "A cargo build wrapper with a live, animated status view",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
+      "source": "GitHub",
+      "stars": 106,
+      "user": "romancitodev"
     },
     {
       "title": "TravellingEngineer/barney - Content Journey - Package Tool",
@@ -3688,23 +3751,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "TravellingEngineer"
-    },
-    {
-      "title": "gfhdhytghd/viewflow - GitHub Repository",
-      "url": "https://github.com/gfhdhytghd/viewflow",
-      "published_at": "2026-09-07T12:18:27Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "gfhdhytghd"
     },
     {
       "title": "Finding digits in a string containing distinct digits",
