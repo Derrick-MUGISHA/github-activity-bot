@@ -714,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "yudaprasetya007"
     },
     {
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1396,
       "user": "EverettFish"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1165,
       "user": "Edge0-AI"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 900,
       "user": "iamzulx"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 557,
       "user": "okf-memory"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 167,
       "user": "VaderChen"
     },
     {
@@ -804,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 834,
       "user": "Vincentwei1021"
     },
     {
@@ -819,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 275,
       "user": "deepseek-ai"
     },
     {
@@ -839,7 +839,7 @@
       "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
       "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
       "published_at": "2026-09-10T21:42:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -893,7 +893,7 @@
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "published_at": "2026-09-10T21:35:00.000Z",
-      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "tags": [
         "AI",
         "Biotech & Health",
@@ -1085,21 +1085,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
-      "published_at": "2026-09-10T18:23:05Z",
-      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
       "published_at": "2026-09-09T20:19:53Z",
@@ -1113,6 +1098,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
+      "published_at": "2026-09-10T18:23:05Z",
+      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
@@ -1291,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 788,
       "user": "achimala"
     },
     {
@@ -1306,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 417,
       "user": "mizzlelover"
     },
     {
@@ -1321,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "yudaprasetya007"
     },
     {
@@ -1366,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1396,
       "user": "EverettFish"
     },
     {
@@ -1381,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3120,
+      "stars": 3164,
       "user": "ashemag"
     },
     {
@@ -1396,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 834,
       "user": "Vincentwei1021"
     },
     {
@@ -1411,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 552,
       "user": "truanayangi-com"
     },
     {
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 389,
       "user": "LBEILC"
     },
     {
@@ -1443,6 +1443,18 @@
       "source": "GitHub",
       "stars": 355,
       "user": "BagasRizkyHarySaputra"
+    },
+    {
+      "title": "Print character that appear more then Once?",
+      "url": "https://stackoverflow.com/questions/80002327/print-character-that-appear-more-then-once",
+      "published_at": "2026-09-11T05:26:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NacroMan"
     },
     {
       "title": "About sprite-flex-js issues",
@@ -1501,20 +1513,6 @@
       "user": "leshiy"
     },
     {
-      "title": "React client doesn't catch the socket.on() signal from the server using setInterval",
-      "url": "https://stackoverflow.com/questions/80001823/react-client-doesnt-catch-the-socket-on-signal-from-the-server-using-setinter",
-      "published_at": "2026-09-09T05:38:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "socket.io"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "blue emperor"
-    },
-    {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
@@ -1528,19 +1526,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "neil"
-    },
-    {
-      "title": "string() function doesn't work in document.evaluate",
-      "url": "https://stackoverflow.com/questions/80001644/string-function-doesnt-work-in-document-evaluate",
-      "published_at": "2026-09-08T11:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "xpath"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Melab"
     },
     {
       "title": "Add joint limits in matterjs",
@@ -1582,6 +1567,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
+    },
+    {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     },
     {
       "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
@@ -1633,21 +1632,6 @@
   ],
   "Python": [
     {
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
-      "published_at": "2026-09-07T22:31:01Z",
-      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
-      "tags": [
-        "docker",
-        "googlecloud",
-        "python",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3c3vtadwae55ojkojtgs.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
       "title": "Cross Cloud A2A Agent Card Field Comparison",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
       "published_at": "2026-08-27T15:00:08Z",
@@ -1661,6 +1645,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+      "published_at": "2026-09-07T22:31:01Z",
+      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
+      "tags": [
+        "docker",
+        "googlecloud",
+        "python",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhp6xjw01rdr6w5w29f42.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -1809,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1396,
       "user": "EverettFish"
     },
     {
@@ -1824,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1165,
       "user": "Edge0-AI"
     },
     {
@@ -1839,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 951,
       "user": "donvito"
     },
     {
@@ -1854,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 900,
       "user": "iamzulx"
     },
     {
@@ -1869,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 651,
       "user": "gazijarin"
     },
     {
@@ -1885,24 +1884,10 @@
       "user": "ubernostrum"
     },
     {
-      "title": "And someone give me a suggestion to learn python framework",
-      "url": "https://stackoverflow.com/questions/80002300/and-someone-give-me-a-suggestion-to-learn-python-framework",
-      "published_at": "2026-09-11T01:49:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "advice",
-        "python",
-        "frameworks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jokercharu 03"
-    },
-    {
       "title": "How to cleanly manage shifting player roles for a game of texas hold'em poker",
       "url": "https://stackoverflow.com/questions/80002232/how-to-cleanly-manage-shifting-player-roles-for-a-game-of-texas-holdem-poker",
       "published_at": "2026-09-10T18:39:29.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 4 answers · score -2",
       "tags": [
         "advice",
         "python",
@@ -1917,7 +1902,7 @@
       "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
       "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
       "published_at": "2026-09-10T21:42:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -1968,21 +1953,6 @@
       "user": "Sam Sianati"
     },
     {
-      "title": "Should I use DiskCache or JWT for FastAPI password reset tokens?",
-      "url": "https://stackoverflow.com/questions/80002204/should-i-use-diskcache-or-jwt-for-fastapi-password-reset-tokens",
-      "published_at": "2026-09-10T15:58:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "best-practices",
-        "python",
-        "jwt",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "enrii fernando"
-    },
-    {
       "title": "IBKR ib_insync problem with placing stop limit orders in pre/post markets",
       "url": "https://stackoverflow.com/questions/80002178/ibkr-ib-insync-problem-with-placing-stop-limit-orders-in-pre-post-markets",
       "published_at": "2026-09-10T14:02:38.000Z",
@@ -2022,6 +1992,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
+      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
+      "published_at": "2026-09-09T03:32:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "vs-code",
+        "vscode-debugger",
+        "debugpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
+      "title": "Many-to-many relation creates new items after migration",
+      "url": "https://stackoverflow.com/questions/80001980/many-to-many-relation-creates-new-items-after-migration",
+      "published_at": "2026-09-09T18:29:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "django"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Obalouch"
     },
     {
       "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
@@ -2069,21 +2067,6 @@
       "user": "xbill"
     },
     {
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
-      "published_at": "2026-09-07T22:31:01Z",
-      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
-      "tags": [
-        "docker",
-        "googlecloud",
-        "python",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3c3vtadwae55ojkojtgs.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -2097,6 +2080,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+      "published_at": "2026-09-07T22:31:01Z",
+      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
+      "tags": [
+        "docker",
+        "googlecloud",
+        "python",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhp6xjw01rdr6w5w29f42.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
@@ -2266,21 +2264,6 @@
   ],
   "WebDev": [
     {
-      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
-      "published_at": "2026-09-10T18:23:05Z",
-      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
       "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
       "published_at": "2026-09-10T19:23:39Z",
@@ -2294,6 +2277,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
+      "published_at": "2026-09-10T18:23:05Z",
+      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
@@ -2347,7 +2345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 552,
       "user": "truanayangi-com"
     },
     {
@@ -2392,6 +2390,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
+    },
+    {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     },
     {
       "title": "The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript",
@@ -2513,7 +2525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 146,
       "user": "denialwm"
     },
     {
@@ -2562,21 +2574,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
-      "published_at": "2026-09-07T22:31:01Z",
-      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
-      "tags": [
-        "docker",
-        "googlecloud",
-        "python",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3c3vtadwae55ojkojtgs.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
     },
     {
       "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
@@ -2637,6 +2634,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+      "published_at": "2026-09-07T22:31:01Z",
+      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
+      "tags": [
+        "docker",
+        "googlecloud",
+        "python",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhp6xjw01rdr6w5w29f42.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Claude Fable 5.1 is now available on Agent Platform!",
@@ -2857,7 +2869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 552,
       "user": "truanayangi-com"
     },
     {
@@ -2902,7 +2914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 557,
       "user": "okf-memory"
     },
     {
@@ -3123,6 +3135,20 @@
       "user": "rrampage"
     },
     {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
+    },
+    {
       "title": "How to Use Lovable Responsibly",
       "url": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
       "published_at": "2026-09-10T16:08:33.000Z",
@@ -3293,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 788,
       "user": "achimala"
     },
     {
@@ -3308,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 417,
       "user": "mizzlelover"
     },
     {
@@ -3323,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "yudaprasetya007"
     },
     {
@@ -3368,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1396,
       "user": "EverettFish"
     },
     {
@@ -3383,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1165,
       "user": "Edge0-AI"
     },
     {
@@ -3398,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 951,
       "user": "donvito"
     },
     {
@@ -3413,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 900,
       "user": "iamzulx"
     },
     {
@@ -3428,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 651,
       "user": "gazijarin"
     },
     {
@@ -3443,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 557,
       "user": "okf-memory"
     },
     {
@@ -3458,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 167,
       "user": "VaderChen"
     },
     {
@@ -3473,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 132,
       "user": "x4gpanell"
     },
     {
@@ -3518,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3120,
+      "stars": 3164,
       "user": "ashemag"
     },
     {
@@ -3533,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 834,
       "user": "Vincentwei1021"
     },
     {
@@ -3548,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 552,
       "user": "truanayangi-com"
     },
     {
@@ -3563,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 389,
       "user": "LBEILC"
     },
     {
@@ -3593,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 275,
       "user": "deepseek-ai"
     },
     {
@@ -3608,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 235,
       "user": "rust-alert"
     },
     {
@@ -3623,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 146,
       "user": "denialwm"
     },
     {
@@ -3638,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "TravellingEngineer"
     },
     {
@@ -3653,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 94,
       "user": "gfhdhytghd"
     },
     {
@@ -3694,6 +3720,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sam Sianati"
+    },
+    {
+      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
+      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
+      "published_at": "2026-09-09T03:32:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "vs-code",
+        "vscode-debugger",
+        "debugpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "How to Use Lovable Responsibly",
