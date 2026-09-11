@@ -46,21 +46,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
-      "published_at": "2026-09-10T19:23:39Z",
-      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
-      "tags": [
-        "ai",
-        "agents",
-        "graphengineering",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
       "published_at": "2026-09-09T20:19:53Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
+      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
+      "published_at": "2026-09-10T19:23:39Z",
+      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
+      "tags": [
+        "ai",
+        "agents",
+        "graphengineering",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1330,
       "user": "Edge0-AI"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "okf-memory"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "VaderChen"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 927,
       "user": "Vincentwei1021"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 300,
       "user": "deepseek-ai"
     },
     {
@@ -837,10 +837,52 @@
       "user": "andybalaam"
     },
     {
+      "title": "A Severe Misalignment of AI in Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "published_at": "2026-09-11T14:03:30.462-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jo3_l"
+    },
+    {
+      "title": "A Severe Misalignment of AI in Mathematics",
+      "url": "https://mathandai.org/",
+      "published_at": "2026-09-11T14:09:22.755-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dustyweb"
+    },
+    {
+      "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
+      "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
+      "published_at": "2026-09-11T21:18:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "numpy",
+        "machine-learning",
+        "deep-learning",
+        "neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anonymous Tech"
+    },
+    {
       "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
       "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
       "published_at": "2026-09-10T21:42:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -861,7 +903,80 @@
       "user": "Sam Sianati"
     },
     {
-      "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
+      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+      "published_at": "2026-09-11T21:19:05.000Z",
+      "description": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+      "tags": [
+        "Venture",
+        "Khosla Ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Y Combinator&#8217;s Garry Tan wants U.S. open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "published_at": "2026-09-11T20:59:47.000Z",
+      "description": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "tags": [
+        "AI",
+        "TC",
+        "Venture",
+        "garry tan",
+        "Y Combinator"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "published_at": "2026-09-11T20:57:36.000Z",
+      "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-11T20:33:18.000Z",
+      "description": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "published_at": "2026-09-11T20:30:17.000Z",
+      "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "published_at": "2026-09-11T19:35:54.000Z",
       "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
@@ -929,80 +1044,6 @@
         "TC",
         "Automattic",
         "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "published_at": "2026-09-11T13:32:54.000Z",
-      "description": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "trezor"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "published_at": "2026-09-10T22:30:00.000Z",
-      "description": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-      "tags": [
-        "Venture",
-        "Collaborative Fund",
-        "Thrive Capital"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "published_at": "2026-09-10T21:51:59.000Z",
-      "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "TC",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-10T21:35:00.000Z",
-      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Fintech",
-        "Fundraising",
-        "Media & Entertainment"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "published_at": "2026-09-10T20:59:51.000Z",
-      "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "subscriptions"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1369,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 841,
       "user": "achimala"
     },
     {
@@ -1384,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 470,
       "user": "mizzlelover"
     },
     {
@@ -1414,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "browser-use"
     },
     {
@@ -1459,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3200,
+      "stars": 3204,
       "user": "ashemag"
     },
     {
@@ -1474,7 +1515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 927,
       "user": "Vincentwei1021"
     },
     {
@@ -1526,7 +1567,7 @@
       "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
       "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
       "published_at": "2026-09-11T19:35:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "reactjs",
@@ -1606,6 +1647,20 @@
       "user": "wadskays26"
     },
     {
+      "title": "Input value for total number of pages in a REDCap survey?",
+      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
+      "published_at": "2026-09-04T20:50:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "redcap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bcarothers"
+    },
+    {
       "title": "How can I detect that an integer literal will lose precision in JavaScript?",
       "url": "https://stackoverflow.com/questions/79999620/how-can-i-detect-that-an-integer-literal-will-lose-precision-in-javascript",
       "published_at": "2026-08-31T13:33:48.000Z",
@@ -1647,22 +1702,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "Beginner building Scraping/Crawling Workflow",
-      "url": "https://stackoverflow.com/questions/79944227/beginner-building-scraping-crawling-workflow",
-      "published_at": "2026-05-20T18:39:10.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "python",
-        "web-crawler",
-        "pipeline",
-        "advice"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cdb-edward"
     }
   ],
   "Python": [
@@ -1903,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1330,
       "user": "Edge0-AI"
     },
     {
@@ -1918,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 978,
       "user": "donvito"
     },
     {
@@ -1948,36 +1987,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 709,
       "user": "gazijarin"
     },
     {
-      "title": "Soft-deprecating re.match()",
-      "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
-      "published_at": "2026-09-10T16:59:16.157-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
+      "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
+      "published_at": "2026-09-11T21:18:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
-    },
-    {
-      "title": "Beginner building Scraping/Crawling Workflow",
-      "url": "https://stackoverflow.com/questions/79944227/beginner-building-scraping-crawling-workflow",
-      "published_at": "2026-05-20T18:39:10.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
         "python",
-        "web-crawler",
-        "pipeline",
-        "advice"
+        "numpy",
+        "machine-learning",
+        "deep-learning",
+        "neural-network"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Cdb-edward"
+      "user": "Anonymous Tech"
     },
     {
       "title": "Why does my Py-Shiny web app download an empty file?",
@@ -1996,7 +2023,7 @@
       "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
       "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
       "published_at": "2026-09-11T10:13:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "windows",
@@ -2053,6 +2080,18 @@
       "user": "SuperLeo"
     },
     {
+      "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
+      "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
+      "published_at": "2026-09-10T21:42:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Stanley George"
+    },
+    {
       "title": "Python script download blocked by antivirus as a virus",
       "url": "https://stackoverflow.com/questions/80002260/python-script-download-blocked-by-antivirus-as-a-virus",
       "published_at": "2026-09-10T20:22:55.000Z",
@@ -2068,16 +2107,16 @@
       "user": "Diogo Ara&#250;jo"
     },
     {
-      "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
-      "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
-      "published_at": "2026-09-10T21:42:17.000Z",
+      "title": "Finding digits in a string containing distinct digits",
+      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
+      "published_at": "2026-09-10T14:27:29.000Z",
       "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Stanley George"
+      "user": "Sam Sianati"
     },
     {
       "title": "Power BI Python Visualization erroring out when it shouldn't",
@@ -2093,32 +2132,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Adalast"
-    },
-    {
-      "title": "Finding digits in a string containing distinct digits",
-      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
-      "published_at": "2026-09-10T14:27:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sam Sianati"
-    },
-    {
-      "title": "PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__'",
-      "url": "https://stackoverflow.com/questions/80001996/pycharm-type-hint-warning-member-none-of-any-none-does-not-have-attribute",
-      "published_at": "2026-09-09T21:12:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "pycharm",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
@@ -2464,6 +2477,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fjorstut"
+    },
+    {
+      "title": "Input value for total number of pages in a REDCap survey?",
+      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
+      "published_at": "2026-09-04T20:50:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "redcap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bcarothers"
     },
     {
       "title": "How to make an animated menu icon show/hide menu",
@@ -2985,7 +3012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "okf-memory"
     }
   ],
@@ -3153,19 +3180,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
-      "url": "https://maurycyz.com/misc/domains/",
-      "published_at": "2026-09-10T10:14:48.267-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "maurycy"
-    },
-    {
       "title": "Models Don't Go Rogue",
       "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
       "published_at": "2026-09-10T22:37:10.275-05:00",
@@ -3192,6 +3206,20 @@
       "user": "FedericoSchonborn"
     },
     {
+      "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
+      "url": "https://maurycyz.com/misc/domains/",
+      "published_at": "2026-09-10T10:14:48.267-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rant",
+        "security",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "maurycy"
+    },
+    {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
       "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
       "published_at": "2026-07-23T13:19:41.000Z",
@@ -3204,20 +3232,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "published_at": "2026-09-11T13:32:54.000Z",
-      "description": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "trezor"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
@@ -3390,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 841,
       "user": "achimala"
     },
     {
@@ -3405,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 470,
       "user": "mizzlelover"
     },
     {
@@ -3435,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "browser-use"
     },
     {
@@ -3480,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1330,
       "user": "Edge0-AI"
     },
     {
@@ -3495,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 978,
       "user": "donvito"
     },
     {
@@ -3525,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 709,
       "user": "gazijarin"
     },
     {
@@ -3540,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "okf-memory"
     },
     {
@@ -3555,23 +3569,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "VaderChen"
-    },
-    {
-      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
-      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
-      "published_at": "2026-09-10T09:34:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
-      "source": "GitHub",
-      "stars": 150,
-      "user": "x4gpanell"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3585,8 +3584,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 162,
       "user": "unstablebuild"
+    },
+    {
+      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
+      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
+      "published_at": "2026-09-10T09:34:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "x4gpanell"
     },
     {
       "title": "vvrnv/argo9s - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time",
@@ -3615,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3200,
+      "stars": 3204,
       "user": "ashemag"
     },
     {
@@ -3630,7 +3644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 927,
       "user": "Vincentwei1021"
     },
     {
@@ -3690,7 +3704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 300,
       "user": "deepseek-ai"
     },
     {
@@ -3735,7 +3749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 152,
       "user": "romancitodev"
     },
     {
