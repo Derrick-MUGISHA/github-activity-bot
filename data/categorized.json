@@ -1,36 +1,6 @@
 {
   "AI": [
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
-      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l",
-      "published_at": "2026-09-10T18:51:51Z",
-      "description": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 Ti — why bf16 and int8 cannot fit, why the QAT GGUF does with room to spare, and managing it with an MCP server.",
-      "tags": [
-        "gemma",
-        "llamacpp",
-        "mcp",
-        "cuda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
       "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
       "published_at": "2026-09-10T19:23:39Z",
@@ -75,6 +45,21 @@
       "user": "Tilde A. Thurium"
     },
     {
+      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
+      "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l",
+      "published_at": "2026-09-10T18:51:51Z",
+      "description": "Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 Ti — why bf16 and int8 cannot fit, why the QAT GGUF does with room to spare, and managing it with an MCP server.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "mcp",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Interactive AI Eval Dashboards with Data Studio",
       "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
       "published_at": "2026-09-08T07:00:00Z",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fez62u2w0ldk0fec35ytb.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1424,
       "user": "EverettFish"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1230,
       "user": "Edge0-AI"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 901,
       "user": "iamzulx"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "okf-memory"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 174,
       "user": "VaderChen"
     },
     {
@@ -804,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 884,
       "user": "Vincentwei1021"
     },
     {
@@ -819,8 +819,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 285,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "Feeling sad about AI",
+      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+      "published_at": "2026-09-11T07:33:20.763-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "andybalaam"
     },
     {
       "title": "Fastly Speedtest Test",
@@ -858,6 +871,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sam Sianati"
+    },
+    {
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "published_at": "2026-09-11T13:32:54.000Z",
+      "description": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "trezor"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
@@ -993,20 +1020,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "published_at": "2026-09-10T17:54:44.000Z",
-      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "tags": [
-        "AI",
-        "AI agents",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Use Lovable Responsibly",
@@ -1291,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 808,
       "user": "achimala"
     },
     {
@@ -1306,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 434,
       "user": "mizzlelover"
     },
     {
@@ -1336,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 269,
       "user": "browser-use"
     },
     {
@@ -1351,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 206,
       "user": "LerSent001"
     },
     {
@@ -1366,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1424,
       "user": "EverettFish"
     },
     {
@@ -1381,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3164,
+      "stars": 3186,
       "user": "ashemag"
     },
     {
@@ -1396,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 884,
       "user": "Vincentwei1021"
     },
     {
@@ -1411,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 562,
       "user": "truanayangi-com"
     },
     {
@@ -1426,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 402,
       "user": "LBEILC"
     },
     {
@@ -1463,6 +1476,7 @@
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
+        "flash",
         "flexbox",
         "flashdevelop",
         "apache-royale"
@@ -1500,19 +1514,6 @@
       "user": "Shadir Amjard"
     },
     {
-      "title": "Blue and orange React icons on VS Code explorer",
-      "url": "https://stackoverflow.com/questions/80001938/blue-and-orange-react-icons-on-vs-code-explorer",
-      "published_at": "2026-09-09T13:12:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "vs-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "leshiy"
-    },
-    {
       "title": "Get the playPause function to switch icons in the browser",
       "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
       "published_at": "2026-09-07T02:35:49.000Z",
@@ -1541,20 +1542,6 @@
       "user": "wadskays26"
     },
     {
-      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
-      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
-      "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "postgresql",
-        "apollo-server"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "erkanunluturk"
-    },
-    {
       "title": "How to make an animated menu icon show/hide menu",
       "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
@@ -1581,6 +1568,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
+    },
+    {
+      "title": "Beginner building Scraping/Crawling Workflow",
+      "url": "https://stackoverflow.com/questions/79944227/beginner-building-scraping-crawling-workflow",
+      "published_at": "2026-05-20T18:39:10.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "python",
+        "web-crawler",
+        "pipeline",
+        "advice"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cdb-edward"
+    },
+    {
+      "title": "How to pause and play video using JavaScript in React web project?",
+      "url": "https://stackoverflow.com/questions/79918476/how-to-pause-and-play-video-using-javascript-in-react-web-project",
+      "published_at": "2026-04-01T15:09:39.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript",
+        "reactjs",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ANURUDH KUMAR"
     },
     {
       "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
@@ -1808,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1424,
       "user": "EverettFish"
     },
     {
@@ -1823,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1230,
       "user": "Edge0-AI"
     },
     {
@@ -1838,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 962,
       "user": "donvito"
     },
     {
@@ -1853,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 901,
       "user": "iamzulx"
     },
     {
@@ -1868,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 681,
       "user": "gazijarin"
     },
     {
@@ -1882,6 +1900,54 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ubernostrum"
+    },
+    {
+      "title": "Beginner building Scraping/Crawling Workflow",
+      "url": "https://stackoverflow.com/questions/79944227/beginner-building-scraping-crawling-workflow",
+      "published_at": "2026-05-20T18:39:10.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "python",
+        "web-crawler",
+        "pipeline",
+        "advice"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cdb-edward"
+    },
+    {
+      "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
+      "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
+      "published_at": "2026-09-11T10:13:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "windows",
+        "shell",
+        "subprocess",
+        "cross-platform"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kainat khattak"
+    },
+    {
+      "title": "Creating a virtual monitor in code to transmit the processed image to an arduino",
+      "url": "https://stackoverflow.com/questions/80002376/creating-a-virtual-monitor-in-code-to-transmit-the-processed-image-to-an-arduino",
+      "published_at": "2026-09-11T10:22:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "c++",
+        "windows",
+        "arduino",
+        "driver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Andrew"
     },
     {
       "title": "How to cleanly manage shifting player roles for a game of texas hold'em poker",
@@ -1899,18 +1965,6 @@
       "user": "Lorang"
     },
     {
-      "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
-      "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
-      "published_at": "2026-09-10T21:42:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Stanley George"
-    },
-    {
       "title": "Python script download blocked by antivirus as a virus",
       "url": "https://stackoverflow.com/questions/80002260/python-script-download-blocked-by-antivirus-as-a-virus",
       "published_at": "2026-09-10T20:22:55.000Z",
@@ -1924,6 +1978,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Diogo Ara&#250;jo"
+    },
+    {
+      "title": "f-string with :.2f format spec raises ValueError: Unknown format code 'f' for object of type 'str'",
+      "url": "https://stackoverflow.com/questions/80002271/f-string-with-2f-format-spec-raises-valueerror-unknown-format-code-f-for-ob",
+      "published_at": "2026-09-10T21:42:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Stanley George"
     },
     {
       "title": "Power BI Python Visualization erroring out when it shouldn't",
@@ -1992,34 +2058,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
-      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
-      "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "vs-code",
-        "vscode-debugger",
-        "debugpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
-      "title": "Many-to-many relation creates new items after migration",
-      "url": "https://stackoverflow.com/questions/80001980/many-to-many-relation-creates-new-items-after-migration",
-      "published_at": "2026-09-09T18:29:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "django"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Obalouch"
     },
     {
       "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
@@ -2309,19 +2347,6 @@
       "user": "Gamya "
     },
     {
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
-      "published_at": "2026-08-09T19:42:53Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
-      "tags": [
-        "devchallenge",
-        "bugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2345,7 +2370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 562,
       "user": "truanayangi-com"
     },
     {
@@ -2525,7 +2550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 153,
       "user": "denialwm"
     },
     {
@@ -2869,7 +2894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 562,
       "user": "truanayangi-com"
     },
     {
@@ -2914,22 +2939,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "okf-memory"
-    },
-    {
-      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
-      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
-      "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "postgresql",
-        "apollo-server"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "erkanunluturk"
     }
   ],
   "Security": [
@@ -3109,6 +3120,19 @@
       "user": "maurycy"
     },
     {
+      "title": "Models Don't Go Rogue",
+      "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+      "published_at": "2026-09-10T22:37:10.275-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
+    },
+    {
       "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
       "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
       "published_at": "2026-09-10T12:40:19.396-05:00",
@@ -3119,20 +3143,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "brn"
-    },
-    {
-      "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
-      "url": "https://queue.acm.org/doi/10.1145/3831361",
-      "published_at": "2026-09-10T09:59:03.130-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "hardware",
-        "osdev",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "rrampage"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -3147,6 +3157,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
+    },
+    {
+      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+      "published_at": "2026-09-11T13:32:54.000Z",
+      "description": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "trezor"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Use Lovable Responsibly",
@@ -3167,21 +3191,6 @@
   ],
   "Tools": [
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Interactive AI Eval Dashboards with Data Studio",
       "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
       "published_at": "2026-09-08T07:00:00Z",
@@ -3195,6 +3204,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
+    },
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -3319,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 808,
       "user": "achimala"
     },
     {
@@ -3334,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 434,
       "user": "mizzlelover"
     },
     {
@@ -3364,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 269,
       "user": "browser-use"
     },
     {
@@ -3379,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 206,
       "user": "LerSent001"
     },
     {
@@ -3394,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1424,
       "user": "EverettFish"
     },
     {
@@ -3409,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1230,
       "user": "Edge0-AI"
     },
     {
@@ -3424,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 962,
       "user": "donvito"
     },
     {
@@ -3439,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 901,
       "user": "iamzulx"
     },
     {
@@ -3454,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 681,
       "user": "gazijarin"
     },
     {
@@ -3469,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "okf-memory"
     },
     {
@@ -3484,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 174,
       "user": "VaderChen"
     },
     {
@@ -3499,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 147,
       "user": "x4gpanell"
     },
     {
@@ -3544,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
       "source": "GitHub",
-      "stars": 3164,
+      "stars": 3186,
       "user": "ashemag"
     },
     {
@@ -3559,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 884,
       "user": "Vincentwei1021"
     },
     {
@@ -3574,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 562,
       "user": "truanayangi-com"
     },
     {
@@ -3589,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 402,
       "user": "LBEILC"
     },
     {
@@ -3619,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 285,
       "user": "deepseek-ai"
     },
     {
@@ -3634,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 238,
       "user": "rust-alert"
     },
     {
@@ -3649,7 +3673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 153,
       "user": "denialwm"
     },
     {
@@ -3664,7 +3688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "TravellingEngineer"
     },
     {
@@ -3679,35 +3703,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "gfhdhytghd"
-    },
-    {
-      "title": "What comes after git",
-      "url": "https://ersc.io/blog/what-comes-after-git",
-      "published_at": "2026-09-10T12:44:27.435-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ucirello"
-    },
-    {
-      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
-      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
-      "published_at": "2026-08-27T08:54:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "postgresql",
-        "apollo-server"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "erkanunluturk"
     },
     {
       "title": "Finding digits in a string containing distinct digits",
@@ -3720,21 +3717,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sam Sianati"
-    },
-    {
-      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
-      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
-      "published_at": "2026-09-09T03:32:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "vs-code",
-        "vscode-debugger",
-        "debugpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "How to Use Lovable Responsibly",
