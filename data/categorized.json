@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 303,
       "user": "eternityspring"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1466,
+      "stars": 1467,
       "user": "EverettFish"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1429,
       "user": "Edge0-AI"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 611,
       "user": "SpaceDudem"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1048,
       "user": "Vincentwei1021"
     },
     {
@@ -879,18 +879,6 @@
       "user": "jo3_l"
     },
     {
-      "title": "How Trail of Bits helps verify the integrity of your Signal chats",
-      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-      "published_at": "2026-09-12T06:28:29.367-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "cryptography"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dangroshev"
-    },
-    {
       "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
       "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
       "published_at": "2026-09-11T21:18:35.000Z",
@@ -907,10 +895,25 @@
       "user": "Anonymous Tech"
     },
     {
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "published_at": "2026-09-12T20:19:16.000Z",
+      "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "OpenAI",
+        "sam altman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
       "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "published_at": "2026-09-12T15:52:11.000Z",
-      "description": "What would it actually look like to \"pace the frontier\"?",
+      "published_at": "2026-09-12T19:34:44.000Z",
+      "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "tags": [
         "AI",
         "Government & Policy",
@@ -1023,34 +1026,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "published_at": "2026-09-11T19:35:54.000Z",
-      "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "tags": [
-        "AI",
-        "In Brief",
-        "moonshot ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "published_at": "2026-09-11T19:00:00.000Z",
-      "description": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
-      "tags": [
-        "Apps",
-        "Gaming",
-        "Roblox"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -1369,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 914,
       "user": "achimala"
     },
     {
@@ -1384,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "mizzlelover"
     },
     {
@@ -1414,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 303,
       "user": "eternityspring"
     },
     {
@@ -1444,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1466,
+      "stars": 1467,
       "user": "EverettFish"
     },
     {
@@ -1459,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1048,
       "user": "Vincentwei1021"
     },
     {
@@ -1474,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 586,
       "user": "truanayangi-com"
     },
     {
@@ -1489,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 442,
       "user": "LBEILC"
     },
     {
@@ -1526,7 +1501,7 @@
       "title": "Please provide me the right answers with any proof or documentation",
       "url": "https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation",
       "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "javascript",
         "html5-audio",
@@ -1535,21 +1510,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yatharth Goyal"
-    },
-    {
-      "title": "BRL/PIX → USDT/USDC direct-to-wallet settlement API for a Brazilian e-commerce checkout",
-      "url": "https://stackoverflow.com/questions/80002618/brl-pix-%e2%86%92-usdt-usdc-direct-to-wallet-settlement-api-for-a-brazilian-e-commerce-c",
-      "published_at": "2026-09-12T13:26:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "gateway",
-        "cryptocurrency"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fausto Baradei"
     },
     {
       "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
@@ -1661,6 +1621,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jack Smith"
+    },
+    {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     }
   ],
   "Python": [
@@ -1886,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1466,
+      "stars": 1467,
       "user": "EverettFish"
     },
     {
@@ -1901,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1429,
       "user": "Edge0-AI"
     },
     {
@@ -1916,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860985?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 860,
       "user": "jtydhr88"
     },
     {
@@ -1931,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 781,
       "user": "gazijarin"
     },
     {
@@ -1946,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 611,
       "user": "SpaceDudem"
     },
     {
@@ -1966,7 +1940,7 @@
       "title": "How to finish for loop that counts attempt on user input and then use the sum function to add all of the 5 nums from user input?",
       "url": "https://stackoverflow.com/questions/80002637/how-to-finish-for-loop-that-counts-attempt-on-user-input-and-then-use-the-sum-fu",
       "published_at": "2026-09-12T15:04:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "for-loop"
@@ -1974,21 +1948,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luke Reyes"
-    },
-    {
-      "title": "py4j.protocol.Py4JJavaError: An error occurred while calling o71.getDeclaredMethod in flink 2.2.1",
-      "url": "https://stackoverflow.com/questions/80002556/py4j-protocol-py4jjavaerror-an-error-occurred-while-calling-o71-getdeclaredmeth",
-      "published_at": "2026-09-12T07:30:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "apache-flink",
-        "flink-streaming",
-        "pyflink"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joseph Hwang"
     },
     {
       "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
@@ -2005,6 +1964,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kainat khattak"
+    },
+    {
+      "title": "py4j.protocol.Py4JJavaError: An error occurred while calling o71.getDeclaredMethod in flink 2.2.1",
+      "url": "https://stackoverflow.com/questions/80002556/py4j-protocol-py4jjavaerror-an-error-occurred-while-calling-o71-getdeclaredmeth",
+      "published_at": "2026-09-12T07:30:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "apache-flink",
+        "flink-streaming",
+        "pyflink"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joseph Hwang"
     },
     {
       "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
@@ -2093,19 +2067,19 @@
       "user": "SuperLeo"
     },
     {
-      "title": "Python script download blocked by antivirus as a virus",
-      "url": "https://stackoverflow.com/questions/80002260/python-script-download-blocked-by-antivirus-as-a-virus",
-      "published_at": "2026-09-10T20:22:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Power BI Python Visualization erroring out when it shouldn't",
+      "url": "https://stackoverflow.com/questions/80002222/power-bi-python-visualization-erroring-out-when-it-shouldnt",
+      "published_at": "2026-09-10T17:37:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "download",
-        "antivirus",
-        "virus"
+        "pandas",
+        "dataframe",
+        "powerbi"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Diogo Ara&#250;jo"
+      "user": "Adalast"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2436,14 +2410,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 586,
       "user": "truanayangi-com"
     },
     {
       "title": "Please provide me the right answers with any proof or documentation",
       "url": "https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation",
       "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "javascript",
         "html5-audio",
@@ -2480,6 +2454,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bcarothers"
+    },
+    {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2637,7 +2625,7 @@
       "title": "Please provide me the right answers with any proof or documentation",
       "url": "https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation",
       "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "javascript",
         "html5-audio",
@@ -3004,7 +2992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 586,
       "user": "truanayangi-com"
     }
   ],
@@ -3215,6 +3203,19 @@
       "user": "ewenjo"
     },
     {
+      "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "published_at": "2026-09-12T07:38:53.353-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "darleaf"
+    },
+    {
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
       "published_at": "2026-09-11T18:41:50.259-05:00",
@@ -3229,17 +3230,18 @@
       "user": "xavdid"
     },
     {
-      "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
-      "url": "https://hachyderm.io/@simontatham/117201594980991062",
-      "published_at": "2026-09-12T07:38:53.353-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "linux",
-        "security"
+        "javascript",
+        "html",
+        "content-security-policy"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "darleaf"
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     },
     {
       "title": "Revolut confirms customer data breach through fake government requests",
@@ -3426,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 914,
       "user": "achimala"
     },
     {
@@ -3441,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "mizzlelover"
     },
     {
@@ -3471,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 303,
       "user": "eternityspring"
     },
     {
@@ -3501,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1466,
+      "stars": 1467,
       "user": "EverettFish"
     },
     {
@@ -3516,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1429,
       "user": "Edge0-AI"
     },
     {
@@ -3531,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860985?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 860,
       "user": "jtydhr88"
     },
     {
@@ -3546,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 781,
       "user": "gazijarin"
     },
     {
@@ -3561,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 611,
       "user": "SpaceDudem"
     },
     {
@@ -3576,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 372,
       "user": "unstablebuild"
     },
     {
@@ -3606,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "x4gpanell"
     },
     {
@@ -3651,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1048,
       "user": "Vincentwei1021"
     },
     {
@@ -3666,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 586,
       "user": "truanayangi-com"
     },
     {
@@ -3681,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 442,
       "user": "LBEILC"
     },
     {
@@ -3756,7 +3758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 243,
       "user": "romancitodev"
     },
     {
@@ -3786,37 +3788,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 134,
       "user": "gfhdhytghd"
-    },
-    {
-      "title": "BRL/PIX → USDT/USDC direct-to-wallet settlement API for a Brazilian e-commerce checkout",
-      "url": "https://stackoverflow.com/questions/80002618/brl-pix-%e2%86%92-usdt-usdc-direct-to-wallet-settlement-api-for-a-brazilian-e-commerce-c",
-      "published_at": "2026-09-12T13:26:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "gateway",
-        "cryptocurrency"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fausto Baradei"
-    },
-    {
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "published_at": "2026-09-11T19:00:00.000Z",
-      "description": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
-      "tags": [
-        "Apps",
-        "Gaming",
-        "Roblox"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
