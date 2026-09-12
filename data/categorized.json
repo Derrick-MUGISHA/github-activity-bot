@@ -31,21 +31,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
       "published_at": "2026-09-09T20:19:53Z",
@@ -61,18 +46,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "4 pitfalls of loop engineering (and how to fix them)",
-      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
-      "published_at": "2026-09-09T17:37:13Z",
-      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
       "tags": [
-        "ai",
-        "agents",
-        "discuss"
+        "devops",
+        "docker",
+        "go",
+        "cloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
       "source": "Dev.to",
-      "user": "Tilde A. Thurium"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
@@ -88,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
-      "published_at": "2026-09-10T19:23:39Z",
-      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
-      "tags": [
-        "ai",
-        "agents",
-        "graphengineering",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
@@ -163,6 +134,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
+      "published_at": "2026-09-09T17:37:13Z",
+      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
+      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
+      "published_at": "2026-09-10T19:23:39Z",
+      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
+      "tags": [
+        "ai",
+        "agents",
+        "graphengineering",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1441,
       "user": "EverettFish"
     },
     {
@@ -746,38 +746,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1345,
       "user": "Edge0-AI"
     },
     {
-      "title": "iamzulx/crypto-rag - Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
-      "url": "https://github.com/iamzulx/crypto-rag",
-      "published_at": "2026-09-05T06:20:08Z",
-      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "title": "OpenWAM-Official/OpenWAM - Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "url": "https://github.com/OpenWAM-Official/OpenWAM",
+      "published_at": "2026-09-06T06:21:09Z",
+      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/323902510?v=4",
       "source": "GitHub",
-      "stars": 903,
-      "user": "iamzulx"
+      "stars": 537,
+      "user": "OpenWAM-Official"
     },
     {
-      "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "published_at": "2026-09-05T21:26:04Z",
-      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "title": "SpaceDudem/text-humanizer - text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "url": "https://github.com/SpaceDudem/text-humanizer",
+      "published_at": "2026-09-08T15:28:28Z",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 574,
-      "user": "okf-memory"
+      "stars": 477,
+      "user": "SpaceDudem"
     },
     {
       "title": "VaderChen/YourDesk - Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 182,
       "user": "VaderChen"
     },
     {
@@ -806,8 +806,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 934,
       "user": "Vincentwei1021"
+    },
+    {
+      "title": "aizhimou/javranking-extension - Show all JAV cover and ranking in one click.",
+      "url": "https://github.com/aizhimou/javranking-extension",
+      "published_at": "2026-09-07T00:19:59Z",
+      "description": "Show all JAV cover and ranking in one click.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "aizhimou"
     },
     {
       "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "deepseek-ai"
     },
     {
@@ -863,10 +878,24 @@
       "user": "dustyweb"
     },
     {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "published_at": "2026-09-11T18:41:50.259-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "ruby",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "xavdid"
+    },
+    {
       "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
       "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
       "published_at": "2026-09-11T21:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "numpy",
@@ -903,6 +932,21 @@
       "user": "Sam Sianati"
     },
     {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "published_at": "2026-09-11T22:58:17.000Z",
+      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "Sequoia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
       "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
       "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
       "published_at": "2026-09-11T21:19:05.000Z",
@@ -916,10 +960,10 @@
       "user": "Connie Loizos"
     },
     {
-      "title": "Y Combinator&#8217;s Garry Tan wants U.S. open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+      "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "published_at": "2026-09-11T20:59:47.000Z",
-      "description": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
       "tags": [
         "AI",
         "TC",
@@ -937,7 +981,8 @@
       "published_at": "2026-09-11T20:57:36.000Z",
       "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
       "tags": [
-        "AI"
+        "AI",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1034,20 +1079,20 @@
       "user": "Kirsten Korosec"
     },
     {
-      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he&#8217;s back in control after CEO ouster",
-      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "published_at": "2026-09-11T15:19:00.000Z",
-      "description": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+      "title": "How to Prevent Race Conditions in Django",
+      "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
+      "published_at": "2026-09-11T21:50:46.000Z",
+      "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
       "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "TC",
-        "Automattic",
-        "Exclusive"
+        "Django",
+        "PostgreSQL",
+        "backend",
+        "race-condition",
+        "Python"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Mari"
     },
     {
       "title": "How to Build an AI Chat App Interface With the Vercel AI SDK and Shadcn/ui",
@@ -1125,51 +1170,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Rudrendu Paul"
-    },
-    {
-      "title": "How to Use Lovable Responsibly",
-      "url": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
-      "published_at": "2026-09-10T16:08:33.000Z",
-      "description": "Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "software development",
-        "Security",
-        "lovable"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
-    },
-    {
-      "title": "OpenAI Codex Crash Course",
-      "url": "https://www.freecodecamp.org/news/openai-codex-crash-course/",
-      "published_at": "2026-09-10T15:10:19.000Z",
-      "description": "OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c",
-      "tags": [
-        "codex",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "What a Machine Learning Model is and How to Make One",
-      "url": "https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/",
-      "published_at": "2026-09-09T19:46:10.000Z",
-      "description": "Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math",
-      "tags": [
-        "ML",
-        "Artificial Intelligence",
-        "AI",
-        "software development",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "JavaScript": [
@@ -1189,21 +1189,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
       "published_at": "2026-09-09T20:19:53Z",
@@ -1217,6 +1202,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 847,
       "user": "achimala"
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 477,
       "user": "mizzlelover"
     },
     {
@@ -1444,21 +1444,6 @@
       "user": "yudaprasetya007"
     },
     {
-      "title": "browser-use/browser-use-pi - A tiny TypeScript web agent, hill climbed on real browser evals.",
-      "url": "https://github.com/browser-use/browser-use-pi",
-      "published_at": "2026-09-05T19:47:45Z",
-      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 272,
-      "user": "browser-use"
-    },
-    {
       "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
       "url": "https://github.com/LerSent001/holo-card",
       "published_at": "2026-09-07T16:18:45Z",
@@ -1474,6 +1459,21 @@
       "user": "LerSent001"
     },
     {
+      "title": "HRuiCcc/RuiC-card-skill - 全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
+      "url": "https://github.com/HRuiCcc/RuiC-card-skill",
+      "published_at": "2026-09-07T07:56:58Z",
+      "description": "全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
+      "source": "GitHub",
+      "stars": 198,
+      "user": "HRuiCcc"
+    },
+    {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "published_at": "2026-09-07T00:41:18Z",
@@ -1485,23 +1485,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1441,
       "user": "EverettFish"
-    },
-    {
-      "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "url": "https://github.com/ashemag/human-atlas",
-      "published_at": "2026-09-05T00:24:43Z",
-      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
-      "source": "GitHub",
-      "stars": 3204,
-      "user": "ashemag"
     },
     {
       "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
@@ -1515,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 934,
       "user": "Vincentwei1021"
     },
     {
@@ -1549,25 +1534,40 @@
       "user": "LBEILC"
     },
     {
-      "title": "BagasRizkyHarySaputra/SIAPIN - GitHub Repository",
-      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
-      "published_at": "2026-09-05T20:27:24Z",
+      "title": "aizhimou/javranking-extension - Show all JAV cover and ranking in one click.",
+      "url": "https://github.com/aizhimou/javranking-extension",
+      "published_at": "2026-09-07T00:19:59Z",
+      "description": "Show all JAV cover and ranking in one click.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "aizhimou"
+    },
+    {
+      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
+      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
+      "published_at": "2026-09-09T11:28:46Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156832855?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 355,
-      "user": "BagasRizkyHarySaputra"
+      "stars": 244,
+      "user": "xsolla-baku-gametech-hackathon"
     },
     {
       "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
       "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
       "published_at": "2026-09-11T19:35:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1441,
       "user": "EverettFish"
     },
     {
@@ -1942,38 +1942,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1345,
       "user": "Edge0-AI"
-    },
-    {
-      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
-      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "published_at": "2026-09-05T16:03:06Z",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
-      "source": "GitHub",
-      "stars": 978,
-      "user": "donvito"
-    },
-    {
-      "title": "iamzulx/crypto-rag - Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
-      "url": "https://github.com/iamzulx/crypto-rag",
-      "published_at": "2026-09-05T06:20:08Z",
-      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
-      "source": "GitHub",
-      "stars": 903,
-      "user": "iamzulx"
     },
     {
       "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
@@ -1987,14 +1957,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 713,
       "user": "gazijarin"
+    },
+    {
+      "title": "OpenWAM-Official/OpenWAM - Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "url": "https://github.com/OpenWAM-Official/OpenWAM",
+      "published_at": "2026-09-06T06:21:09Z",
+      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/323902510?v=4",
+      "source": "GitHub",
+      "stars": 537,
+      "user": "OpenWAM-Official"
+    },
+    {
+      "title": "SpaceDudem/text-humanizer - text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "url": "https://github.com/SpaceDudem/text-humanizer",
+      "published_at": "2026-09-08T15:28:28Z",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "SpaceDudem"
     },
     {
       "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
       "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
       "published_at": "2026-09-11T21:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "numpy",
@@ -2005,6 +2005,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anonymous Tech"
+    },
+    {
+      "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
+      "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
+      "published_at": "2026-09-11T10:13:38.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "windows",
+        "shell",
+        "subprocess",
+        "cross-platform"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kainat khattak"
     },
     {
       "title": "Why does my Py-Shiny web app download an empty file?",
@@ -2018,22 +2034,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kes Perron"
-    },
-    {
-      "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
-      "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
-      "published_at": "2026-09-11T10:13:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "windows",
-        "shell",
-        "subprocess",
-        "cross-platform"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kainat khattak"
     },
     {
       "title": "Creating a virtual monitor in code to transmit the processed image to an arduino",
@@ -2132,6 +2132,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Adalast"
+    },
+    {
+      "title": "How to Prevent Race Conditions in Django",
+      "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
+      "published_at": "2026-09-11T21:50:46.000Z",
+      "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
+      "tags": [
+        "Django",
+        "PostgreSQL",
+        "backend",
+        "race-condition",
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Mari"
     },
     {
       "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
@@ -2393,21 +2409,6 @@
       "user": "xbill"
     },
     {
-      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
-      "published_at": "2026-09-10T19:23:39Z",
-      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
-      "tags": [
-        "ai",
-        "agents",
-        "graphengineering",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
       "published_at": "2026-09-10T18:23:05Z",
@@ -2421,6 +2422,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
+      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
+      "published_at": "2026-09-10T19:23:39Z",
+      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
+      "tags": [
+        "ai",
+        "agents",
+        "graphengineering",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
@@ -2519,6 +2535,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
+    },
+    {
+      "title": "How to Prevent Race Conditions in Django",
+      "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
+      "published_at": "2026-09-11T21:50:46.000Z",
+      "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
+      "tags": [
+        "Django",
+        "PostgreSQL",
+        "backend",
+        "race-condition",
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Mari"
     }
   ],
   "Mobile": [
@@ -3001,19 +3033,20 @@
       "user": "iancarroll"
     },
     {
-      "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "published_at": "2026-09-05T21:26:04Z",
-      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "title": "How to Prevent Race Conditions in Django",
+      "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
+      "published_at": "2026-09-11T21:50:46.000Z",
+      "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
       "tags": [
-        "go",
-        "github",
-        "open-source"
+        "Django",
+        "PostgreSQL",
+        "backend",
+        "race-condition",
+        "Python"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "okf-memory"
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Mari"
     }
   ],
   "Security": [
@@ -3180,6 +3213,19 @@
       "user": "ewenjo"
     },
     {
+      "title": "ChiPass Release 2026.09.0",
+      "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
+      "published_at": "2026-09-11T11:35:40.299-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
+    },
+    {
       "title": "Models Don't Go Rogue",
       "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
       "published_at": "2026-09-10T22:37:10.275-05:00",
@@ -3193,17 +3239,18 @@
       "user": "Yogthos"
     },
     {
-      "title": "ChiPass Release 2026.09.0",
-      "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
-      "published_at": "2026-09-11T11:35:40.299-05:00",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "published_at": "2026-09-11T18:41:50.259-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "release",
+        "ai",
+        "ruby",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "user": "xavdid"
     },
     {
       "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
@@ -3234,6 +3281,22 @@
       "user": "MatrixRonny"
     },
     {
+      "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
+      "url": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
+      "published_at": "2026-09-11T22:10:33.000Z",
+      "description": "If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em",
+      "tags": [
+        "APIs",
+        "oauth",
+        "MTD",
+        "tax",
+        "tax return"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Solomon Amos"
+    },
+    {
       "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
       "url": "https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/",
       "published_at": "2026-09-11T15:22:46.000Z",
@@ -3247,22 +3310,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Use Lovable Responsibly",
-      "url": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
-      "published_at": "2026-09-10T16:08:33.000Z",
-      "description": "Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "software development",
-        "Security",
-        "lovable"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "Tools": [
@@ -3404,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 847,
       "user": "achimala"
     },
     {
@@ -3419,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 477,
       "user": "mizzlelover"
     },
     {
@@ -3438,21 +3485,6 @@
       "user": "yudaprasetya007"
     },
     {
-      "title": "browser-use/browser-use-pi - A tiny TypeScript web agent, hill climbed on real browser evals.",
-      "url": "https://github.com/browser-use/browser-use-pi",
-      "published_at": "2026-09-05T19:47:45Z",
-      "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 272,
-      "user": "browser-use"
-    },
-    {
       "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
       "url": "https://github.com/LerSent001/holo-card",
       "published_at": "2026-09-07T16:18:45Z",
@@ -3468,6 +3500,21 @@
       "user": "LerSent001"
     },
     {
+      "title": "HRuiCcc/RuiC-card-skill - 全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
+      "url": "https://github.com/HRuiCcc/RuiC-card-skill",
+      "published_at": "2026-09-07T07:56:58Z",
+      "description": "全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
+      "source": "GitHub",
+      "stars": 198,
+      "user": "HRuiCcc"
+    },
+    {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "url": "https://github.com/EverettFish/holo-card-studio",
       "published_at": "2026-09-07T00:41:18Z",
@@ -3479,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1440,
+      "stars": 1441,
       "user": "EverettFish"
     },
     {
@@ -3494,38 +3541,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1345,
       "user": "Edge0-AI"
-    },
-    {
-      "title": "donvito/codex-astra-luna-orchestrator - Use Astra as orchestrator and Luna for subagents in Codex",
-      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
-      "published_at": "2026-09-05T16:03:06Z",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/890270?v=4",
-      "source": "GitHub",
-      "stars": 978,
-      "user": "donvito"
-    },
-    {
-      "title": "iamzulx/crypto-rag - Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
-      "url": "https://github.com/iamzulx/crypto-rag",
-      "published_at": "2026-09-05T06:20:08Z",
-      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/42101852?v=4",
-      "source": "GitHub",
-      "stars": 903,
-      "user": "iamzulx"
     },
     {
       "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
@@ -3539,23 +3556,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 713,
       "user": "gazijarin"
     },
     {
-      "title": "okf-memory/okf-agent-memory - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "published_at": "2026-09-05T21:26:04Z",
-      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "title": "OpenWAM-Official/OpenWAM - Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "url": "https://github.com/OpenWAM-Official/OpenWAM",
+      "published_at": "2026-09-06T06:21:09Z",
+      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322091575?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/323902510?v=4",
       "source": "GitHub",
-      "stars": 574,
-      "user": "okf-memory"
+      "stars": 537,
+      "user": "OpenWAM-Official"
+    },
+    {
+      "title": "SpaceDudem/text-humanizer - text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "url": "https://github.com/SpaceDudem/text-humanizer",
+      "published_at": "2026-09-08T15:28:28Z",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "SpaceDudem"
     },
     {
       "title": "VaderChen/YourDesk - Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
@@ -3569,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 182,
       "user": "VaderChen"
     },
     {
@@ -3584,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 180,
       "user": "unstablebuild"
     },
     {
@@ -3599,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "x4gpanell"
     },
     {
@@ -3618,19 +3650,19 @@
       "user": "vvrnv"
     },
     {
-      "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "url": "https://github.com/ashemag/human-atlas",
-      "published_at": "2026-09-05T00:24:43Z",
-      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "title": "vianziro/Whatsapp-Dekstop - An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
+      "url": "https://github.com/vianziro/Whatsapp-Dekstop",
+      "published_at": "2026-09-07T08:13:04Z",
+      "description": "An ultra-lightweight, blazing-fast, and memory-efficient WhatsApp Desktop client for macOS, Windows, and Linux, built with Go.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8096590?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9649104?v=4",
       "source": "GitHub",
-      "stars": 3204,
-      "user": "ashemag"
+      "stars": 85,
+      "user": "vianziro"
     },
     {
       "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
@@ -3644,7 +3676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 934,
       "user": "Vincentwei1021"
     },
     {
@@ -3678,19 +3710,34 @@
       "user": "LBEILC"
     },
     {
-      "title": "BagasRizkyHarySaputra/SIAPIN - GitHub Repository",
-      "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
-      "published_at": "2026-09-05T20:27:24Z",
+      "title": "aizhimou/javranking-extension - Show all JAV cover and ranking in one click.",
+      "url": "https://github.com/aizhimou/javranking-extension",
+      "published_at": "2026-09-07T00:19:59Z",
+      "description": "Show all JAV cover and ranking in one click.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "aizhimou"
+    },
+    {
+      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
+      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
+      "published_at": "2026-09-09T11:28:46Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156832855?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 355,
-      "user": "BagasRizkyHarySaputra"
+      "stars": 244,
+      "user": "xsolla-baku-gametech-hackathon"
     },
     {
       "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
@@ -3704,7 +3751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "deepseek-ai"
     },
     {
@@ -3719,8 +3766,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "rust-alert"
+    },
+    {
+      "title": "romancitodev/cargo-pretty - A cargo build wrapper with a live, animated status view",
+      "url": "https://github.com/romancitodev/cargo-pretty",
+      "published_at": "2026-09-07T17:20:40Z",
+      "description": "A cargo build wrapper with a live, animated status view",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
+      "source": "GitHub",
+      "stars": 165,
+      "user": "romancitodev"
     },
     {
       "title": "denialwm/droidloom - Droidloom - weaving Android into Linux. Run Android Apps inside your Wayland session! Supports arm64 and x86_64 platforms, running arm64-only apps on x86_64 without closed source libraries.",
@@ -3738,48 +3800,19 @@
       "user": "denialwm"
     },
     {
-      "title": "romancitodev/cargo-pretty - A cargo build wrapper with a live, animated status view",
-      "url": "https://github.com/romancitodev/cargo-pretty",
-      "published_at": "2026-09-07T17:20:40Z",
-      "description": "A cargo build wrapper with a live, animated status view",
+      "title": "gfhdhytghd/viewflow - GitHub Repository",
+      "url": "https://github.com/gfhdhytghd/viewflow",
+      "published_at": "2026-09-07T12:18:27Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 152,
-      "user": "romancitodev"
-    },
-    {
-      "title": "TravellingEngineer/barney - Content Journey - Package Tool",
-      "url": "https://github.com/TravellingEngineer/barney",
-      "published_at": "2026-09-05T10:34:15Z",
-      "description": "Content Journey - Package Tool",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266153046?v=4",
-      "source": "GitHub",
-      "stars": 99,
-      "user": "TravellingEngineer"
-    },
-    {
-      "title": "Bastion of the Turbofish",
-      "url": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
-      "published_at": "2026-09-11T08:50:19.190-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust",
-        "satire",
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "nrposner"
+      "stars": 100,
+      "user": "gfhdhytghd"
     },
     {
       "title": "Finding digits in a string containing distinct digits",
@@ -3806,6 +3839,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
+    },
+    {
+      "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
+      "url": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
+      "published_at": "2026-09-11T22:10:33.000Z",
+      "description": "If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em",
+      "tags": [
+        "APIs",
+        "oauth",
+        "MTD",
+        "tax",
+        "tax return"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Solomon Amos"
     },
     {
       "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
@@ -3837,35 +3886,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Rudrendu Paul"
-    },
-    {
-      "title": "How to Use Lovable Responsibly",
-      "url": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
-      "published_at": "2026-09-10T16:08:33.000Z",
-      "description": "Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "software development",
-        "Security",
-        "lovable"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
-    },
-    {
-      "title": "OpenAI Codex Crash Course",
-      "url": "https://www.freecodecamp.org/news/openai-codex-crash-course/",
-      "published_at": "2026-09-10T15:10:19.000Z",
-      "description": "OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c",
-      "tags": [
-        "codex",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ]
 }
