@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-12 14:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-12 18:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -66,19 +66,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyxupbyx4i1wlubvrb6lm.png" width="200" alt="DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed" />
+    <a href="https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg" width="200" alt="Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6" />
       <br/>
-      <b>DEV Weekend Challenge: Dog Days Edition Winner Ann...</b>
+      <b>Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It F...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg" width="200" alt="Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6" />
+    <a href="https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp" width="200" alt="Interactive AI Eval Dashboards with Data Studio" />
       <br/>
-      <b>Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It F...</b>
+      <b>Interactive AI Eval Dashboards with Data Studio</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -96,14 +96,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 2 | [FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x](https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj) | Dev.to |
 | 3 | [The Symmetry of State: Why Flutter Deserves context.value and context.state](https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250) | Dev.to |
 | 4 | [The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives](https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h) | Dev.to |
-| 5 | [DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed](https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0) | Dev.to |
-| 6 | [Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6](https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l) | Dev.to |
-| 7 | [Interactive AI Eval Dashboards with Data Studio](https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9) | Dev.to |
-| 8 | [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) | Dev.to |
-| 9 | [Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud](https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2) | Dev.to |
-| 10 | [4 pitfalls of loop engineering (and how to fix them)](https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2) | Dev.to |
-| 11 | [Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically](https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b) | Dev.to |
-| 12 | [Congrats to the Frontend Challenge: Comfort Food Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8) | Dev.to |
+| 5 | [Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6](https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l) | Dev.to |
+| 6 | [Interactive AI Eval Dashboards with Data Studio](https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9) | Dev.to |
+| 7 | [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) | Dev.to |
+| 8 | [Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud](https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2) | Dev.to |
+| 9 | [4 pitfalls of loop engineering (and how to fix them)](https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2) | Dev.to |
+| 10 | [Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically](https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b) | Dev.to |
+| 11 | [Congrats to the Frontend Challenge: Comfort Food Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8) | Dev.to |
+| 12 | [DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed](https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0) | Dev.to |
 | 13 | [is Graph Engineering just reinventing systems architecture for the AI age?](https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427) | Dev.to |
 | 14 | [2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3) | Dev.to |
 | 15 | [Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace](https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Welcome Thread - v 392](https://dev.to/sloan/welcome-thread-v-392-1kj4) | Dev.to |
 | 20 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
 
-<sub>Last fetched: Sat, 12 Sep 2026 14:56:29 CAT</sub>
+<sub>Last fetched: Sat, 12 Sep 2026 18:04:47 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — How would you design a rate limiter?**
+**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**2. `React` — Implement a custom hook for fetching data**
+**2. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> useState, useEffect, loading states, error handling
+> Sliding window, hash map, two pointers
 
 </details>
 
-**3. `React` — What are hooks and why were they introduced?**
+**3. `Python` — Explain GIL and its implications for multithreading**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> State in functional components, reusable logic, cleaner code
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 82 | 44.6% | `████████████████████` |
+| **AI** | 80 | 43.5% | `████████████████████` |
 | **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
-| **Python** | 34 | 18.5% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 22 | 12.0% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
+| **Python** | 34 | 18.5% | `█████████░░░░░░░░░░░` |
+| **Cloud** | 22 | 12.0% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,13 +194,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.0%
-JavaScript      ██████████████████████████████ 25.0%
-Python          ████████████████████████████ 23.0%
-Java            ██████████████████████ 18.2%
-Rust            █████ 4.1%
+Go              ██████████████████████████████ 26.0%
+JavaScript      █████████████████████████████ 24.7%
+Python          ██████████████████████████ 22.7%
+Java            █████████████████████ 18.0%
+Rust            █████ 4.0%
 Ruby            ██ 2.0%
-Kotlin          ██ 1.4%
+Kotlin          ██ 1.3%
 PHP             █ 0.7%
 Swift           █ 0.7%
 
@@ -208,7 +208,7 @@ Swift           █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 37
+    "Go" : 39
     "JavaScript" : 37
     "Python" : 34
     "Java" : 27
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 12 Sep 2026 12:56:29 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 12 Sep 2026 16:04:47 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
