@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 284,
       "user": "eternityspring"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1464,
       "user": "EverettFish"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1402,
+      "stars": 1410,
       "user": "Edge0-AI"
     },
     {
@@ -776,23 +776,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 578,
       "user": "SpaceDudem"
-    },
-    {
-      "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "url": "https://github.com/Colafornia/short-video-generator-AI",
-      "published_at": "2026-09-08T14:55:47Z",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
-      "source": "GitHub",
-      "stars": 546,
-      "user": "Colafornia"
     },
     {
       "title": "VaderChen/YourDesk - Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "VaderChen"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1036,
       "user": "Vincentwei1021"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "aizhimou"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 313,
       "user": "deepseek-ai"
     },
     {
@@ -894,17 +879,16 @@
       "user": "jo3_l"
     },
     {
-      "title": "A Severe Misalignment of AI in Mathematics",
-      "url": "https://mathandai.org/",
-      "published_at": "2026-09-11T14:09:22.755-05:00",
+      "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "published_at": "2026-09-12T06:28:29.367-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "math",
-        "vibecoding"
+        "cryptography"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "dustyweb"
+      "user": "dangroshev"
     },
     {
       "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
@@ -923,16 +907,33 @@
       "user": "Anonymous Tech"
     },
     {
-      "title": "Finding digits in a string containing distinct digits",
-      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
-      "published_at": "2026-09-10T14:27:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "published_at": "2026-09-12T15:52:11.000Z",
+      "description": "What would it actually look like to \"pace the frontier\"?",
       "tags": [
-        "python"
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sam Sianati"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "published_at": "2026-09-12T14:40:00.000Z",
+      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "tags": [
+        "Fintech",
+        "Security",
+        "Revolut"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -1050,36 +1051,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-      "published_at": "2026-09-11T18:58:01.000Z",
-      "description": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
-      "tags": [
-        "Startups",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "published_at": "2026-09-11T16:46:25.000Z",
-      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "tags": [
-        "AI",
-        "Fidji Simo",
-        "In Brief",
-        "nscale",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -1398,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 901,
       "user": "achimala"
     },
     {
@@ -1413,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 530,
       "user": "mizzlelover"
     },
     {
@@ -1443,23 +1414,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 284,
       "user": "eternityspring"
     },
     {
-      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
-      "url": "https://github.com/LerSent001/holo-card",
-      "published_at": "2026-09-07T16:18:45Z",
-      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "title": "HRuiCcc/RuiC-card-skill - 全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
+      "url": "https://github.com/HRuiCcc/RuiC-card-skill",
+      "published_at": "2026-09-07T07:56:58Z",
+      "description": "全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 208,
-      "user": "LerSent001"
+      "stars": 213,
+      "user": "HRuiCcc"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -1473,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1464,
       "user": "EverettFish"
     },
     {
@@ -1488,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1036,
       "user": "Vincentwei1021"
     },
     {
@@ -1503,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 584,
       "user": "truanayangi-com"
     },
     {
@@ -1518,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 433,
       "user": "LBEILC"
     },
     {
@@ -1533,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "aizhimou"
     },
     {
@@ -1548,14 +1519,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "xsolla-baku-gametech-hackathon"
+    },
+    {
+      "title": "BRL/PIX → USDT/USDC direct-to-wallet settlement API for a Brazilian e-commerce checkout",
+      "url": "https://stackoverflow.com/questions/80002618/brl-pix-%e2%86%92-usdt-usdc-direct-to-wallet-settlement-api-for-a-brazilian-e-commerce-c",
+      "published_at": "2026-09-12T13:26:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "gateway",
+        "cryptocurrency"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fausto Baradei"
     },
     {
       "title": "What causes Audio to not start automatically on a website?",
       "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
       "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "html5-audio",
@@ -1606,20 +1592,6 @@
       "user": "NacroMan"
     },
     {
-      "title": "Rendering problem on Apple MacBook M4 Pro only?",
-      "url": "https://stackoverflow.com/questions/80002119/rendering-problem-on-apple-macbook-m4-pro-only",
-      "published_at": "2026-09-10T09:48:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "rendering"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fjorstut"
-    },
-    {
       "title": "Laravel optional route parameter not reaching the function when Axios sends an empty value",
       "url": "https://stackoverflow.com/questions/80001710/laravel-optional-route-parameter-not-reaching-the-function-when-axios-sends-an-e",
       "published_at": "2026-09-08T16:37:26.000Z",
@@ -1632,6 +1604,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shadir Amjard"
+    },
+    {
+      "title": "Rendering problem on Apple MacBook M4 Pro only?",
+      "url": "https://stackoverflow.com/questions/80002119/rendering-problem-on-apple-macbook-m4-pro-only",
+      "published_at": "2026-09-10T09:48:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "rendering"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fjorstut"
     },
     {
       "title": "How do I trigger a dialog Form by clicking a table row?",
@@ -1675,20 +1661,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jack Smith"
-    },
-    {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
     }
   ],
   "Python": [
@@ -1914,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1464,
       "user": "EverettFish"
     },
     {
@@ -1929,8 +1901,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1402,
+      "stars": 1410,
       "user": "Edge0-AI"
+    },
+    {
+      "title": "jtydhr88/screenwriting-skills - GitHub Repository",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "published_at": "2026-09-06T12:28:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/860985?v=4",
+      "source": "GitHub",
+      "stars": 822,
+      "user": "jtydhr88"
     },
     {
       "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
@@ -1944,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 768,
       "user": "gazijarin"
     },
     {
@@ -1959,23 +1946,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 578,
       "user": "SpaceDudem"
-    },
-    {
-      "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "url": "https://github.com/Colafornia/short-video-generator-AI",
-      "published_at": "2026-09-08T14:55:47Z",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
-      "source": "GitHub",
-      "stars": 546,
-      "user": "Colafornia"
     },
     {
       "title": "Pandas Should Go Extinct",
@@ -1989,6 +1961,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ohrv"
+    },
+    {
+      "title": "How to finish for loop that counts attempt on user input and then use the sum function to add all of the 5 nums from user input?",
+      "url": "https://stackoverflow.com/questions/80002637/how-to-finish-for-loop-that-counts-attempt-on-user-input-and-then-use-the-sum-fu",
+      "published_at": "2026-09-12T15:04:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "for-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luke Reyes"
     },
     {
       "title": "py4j.protocol.Py4JJavaError: An error occurred while calling o71.getDeclaredMethod in flink 2.2.1",
@@ -2009,7 +1994,7 @@
       "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
       "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
       "published_at": "2026-09-11T10:13:38.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "python",
         "windows",
@@ -2082,6 +2067,19 @@
       "user": "Lorang"
     },
     {
+      "title": "Type hint a default return type used unless more specific overload exists",
+      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
+      "published_at": "2026-09-07T14:58:51.000Z",
+      "description": "Stack Overflow question · 3 answers · score 9",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "schtandard"
+    },
+    {
       "title": "IBKR ib_insync problem with placing stop limit orders in pre/post markets",
       "url": "https://stackoverflow.com/questions/80002178/ibkr-ib-insync-problem-with-placing-stop-limit-orders-in-pre-post-markets",
       "published_at": "2026-09-10T14:02:38.000Z",
@@ -2108,33 +2106,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Diogo Ara&#250;jo"
-    },
-    {
-      "title": "Finding digits in a string containing distinct digits",
-      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
-      "published_at": "2026-09-10T14:27:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sam Sianati"
-    },
-    {
-      "title": "Power BI Python Visualization erroring out when it shouldn't",
-      "url": "https://stackoverflow.com/questions/80002222/power-bi-python-visualization-erroring-out-when-it-shouldnt",
-      "published_at": "2026-09-10T17:37:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe",
-        "powerbi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adalast"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2465,14 +2436,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 584,
       "user": "truanayangi-com"
     },
     {
       "title": "What causes Audio to not start automatically on a website?",
       "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
       "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "html5-audio",
@@ -2509,20 +2480,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bcarothers"
-    },
-    {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2673,14 +2630,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 172,
       "user": "denialwm"
     },
     {
       "title": "What causes Audio to not start automatically on a website?",
       "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
       "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "html5-audio",
@@ -3047,7 +3004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 584,
       "user": "truanayangi-com"
     }
   ],
@@ -3272,6 +3229,19 @@
       "user": "xavdid"
     },
     {
+      "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "published_at": "2026-09-12T07:38:53.353-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "darleaf"
+    },
+    {
       "title": "ChiPass Release 2026.09.0",
       "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
       "published_at": "2026-09-11T11:35:40.299-05:00",
@@ -3285,18 +3255,18 @@
       "user": "FedericoSchonborn"
     },
     {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "published_at": "2026-09-12T14:40:00.000Z",
+      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
       "tags": [
-        "javascript",
-        "html",
-        "content-security-policy"
+        "Fintech",
+        "Security",
+        "Revolut"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
@@ -3469,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 901,
       "user": "achimala"
     },
     {
@@ -3484,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 530,
       "user": "mizzlelover"
     },
     {
@@ -3514,23 +3484,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 284,
       "user": "eternityspring"
     },
     {
-      "title": "LerSent001/holo-card - A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
-      "url": "https://github.com/LerSent001/holo-card",
-      "published_at": "2026-09-07T16:18:45Z",
-      "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "title": "HRuiCcc/RuiC-card-skill - 全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
+      "url": "https://github.com/HRuiCcc/RuiC-card-skill",
+      "published_at": "2026-09-07T07:56:58Z",
+      "description": "全息闪卡 Codex Skill：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266635008?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 208,
-      "user": "LerSent001"
+      "stars": 213,
+      "user": "HRuiCcc"
     },
     {
       "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
@@ -3544,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1464,
       "user": "EverettFish"
     },
     {
@@ -3559,8 +3529,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1402,
+      "stars": 1410,
       "user": "Edge0-AI"
+    },
+    {
+      "title": "jtydhr88/screenwriting-skills - GitHub Repository",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "published_at": "2026-09-06T12:28:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/860985?v=4",
+      "source": "GitHub",
+      "stars": 822,
+      "user": "jtydhr88"
     },
     {
       "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
@@ -3574,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 768,
       "user": "gazijarin"
     },
     {
@@ -3589,23 +3574,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 578,
       "user": "SpaceDudem"
-    },
-    {
-      "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "url": "https://github.com/Colafornia/short-video-generator-AI",
-      "published_at": "2026-09-08T14:55:47Z",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
-      "source": "GitHub",
-      "stars": 546,
-      "user": "Colafornia"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3619,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 340,
       "user": "unstablebuild"
     },
     {
@@ -3634,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 195,
       "user": "VaderChen"
     },
     {
@@ -3649,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 171,
       "user": "x4gpanell"
     },
     {
@@ -3664,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "vvrnv"
     },
     {
@@ -3694,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1036,
       "user": "Vincentwei1021"
     },
     {
@@ -3709,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 584,
       "user": "truanayangi-com"
     },
     {
@@ -3724,7 +3694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 433,
       "user": "LBEILC"
     },
     {
@@ -3739,7 +3709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 286,
       "user": "aizhimou"
     },
     {
@@ -3754,7 +3724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
@@ -3769,7 +3739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 313,
       "user": "deepseek-ai"
     },
     {
@@ -3799,7 +3769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 230,
       "user": "romancitodev"
     },
     {
@@ -3814,7 +3784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 172,
       "user": "denialwm"
     },
     {
@@ -3829,20 +3799,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 120,
       "user": "gfhdhytghd"
     },
     {
-      "title": "Finding digits in a string containing distinct digits",
-      "url": "https://stackoverflow.com/questions/80002181/finding-digits-in-a-string-containing-distinct-digits",
-      "published_at": "2026-09-10T14:27:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "BRL/PIX → USDT/USDC direct-to-wallet settlement API for a Brazilian e-commerce checkout",
+      "url": "https://stackoverflow.com/questions/80002618/brl-pix-%e2%86%92-usdt-usdc-direct-to-wallet-settlement-api-for-a-brazilian-e-commerce-c",
+      "published_at": "2026-09-12T13:26:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "python"
+        "tooling-recommendation",
+        "javascript",
+        "gateway",
+        "cryptocurrency"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Sam Sianati"
+      "user": "Fausto Baradei"
     },
     {
       "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
