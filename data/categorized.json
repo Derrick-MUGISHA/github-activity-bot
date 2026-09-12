@@ -46,21 +46,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l",
       "published_at": "2026-09-10T18:51:51Z",
@@ -72,21 +57,6 @@
         "cuda"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
-      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
-      "published_at": "2026-09-10T18:31:29Z",
-      "description": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated to the MCP SDK 2.x.",
-      "tags": [
-        "mcp",
-        "gemma",
-        "googlecloud",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -150,6 +120,21 @@
       "user": "Tilde A. Thurium"
     },
     {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
       "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
       "published_at": "2026-09-10T19:23:39Z",
@@ -163,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
+      "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
+      "published_at": "2026-09-10T18:31:29Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated to the MCP SDK 2.x.",
+      "tags": [
+        "mcp",
+        "gemma",
+        "googlecloud",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 253,
       "user": "eternityspring"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1461,
       "user": "EverettFish"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1402,
       "user": "Edge0-AI"
     },
     {
@@ -776,23 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 566,
       "user": "SpaceDudem"
     },
     {
-      "title": "OpenWAM-Official/OpenWAM - Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
-      "url": "https://github.com/OpenWAM-Official/OpenWAM",
-      "published_at": "2026-09-06T06:21:09Z",
-      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "published_at": "2026-09-08T14:55:47Z",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/323902510?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 543,
-      "user": "OpenWAM-Official"
+      "stars": 546,
+      "user": "Colafornia"
     },
     {
       "title": "VaderChen/YourDesk - Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "VaderChen"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 1022,
       "user": "Vincentwei1021"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "aizhimou"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "deepseek-ai"
     },
     {
@@ -1398,14 +1398,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 890,
       "user": "achimala"
     },
     {
-      "title": "mizzlelover/gongwen-gbt9704-skill - 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "title": "mizzlelover/gongwen-gbt9704-skill - 中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB 文件转换：https://github.com/mizzlelover/CEB",
       "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
       "published_at": "2026-09-09T10:04:14Z",
-      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "description": "中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB 文件转换：https://github.com/mizzlelover/CEB",
       "tags": [
         "javascript",
         "github",
@@ -1413,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 521,
       "user": "mizzlelover"
     },
     {
@@ -1443,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 253,
       "user": "eternityspring"
     },
     {
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1461,
       "user": "EverettFish"
     },
     {
@@ -1488,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 1022,
       "user": "Vincentwei1021"
     },
     {
@@ -1503,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 580,
       "user": "truanayangi-com"
     },
     {
@@ -1518,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 430,
       "user": "LBEILC"
     },
     {
@@ -1533,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "aizhimou"
     },
     {
@@ -1548,14 +1548,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 250,
       "user": "xsolla-baku-gametech-hackathon"
+    },
+    {
+      "title": "What causes Audio to not start automatically on a website?",
+      "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
+      "published_at": "2026-09-12T12:18:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "html5-audio",
+        "mobile-chrome"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yatharth Goyal"
     },
     {
       "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
       "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
       "published_at": "2026-09-11T19:35:08.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "javascript"
       ],
@@ -1620,17 +1634,18 @@
       "user": "Shadir Amjard"
     },
     {
-      "title": "Add joint limits in matterjs",
-      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
-      "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How do I trigger a dialog Form by clicking a table row?",
+      "url": "https://stackoverflow.com/questions/80000947/how-do-i-trigger-a-dialog-form-by-clicking-a-table-row",
+      "published_at": "2026-09-05T08:03:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "javascript",
-        "matter.js"
+        "reactjs",
+        "shadcnui"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "wadskays26"
+      "user": "Marco Pasquali"
     },
     {
       "title": "Input value for total number of pages in a REDCap survey?",
@@ -1674,22 +1689,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "Beginner building Scraping/Crawling Workflow",
-      "url": "https://stackoverflow.com/questions/79944227/beginner-building-scraping-crawling-workflow",
-      "published_at": "2026-05-20T18:39:10.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "javascript",
-        "python",
-        "web-crawler",
-        "pipeline",
-        "advice"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cdb-edward"
     }
   ],
   "Python": [
@@ -1915,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1461,
       "user": "EverettFish"
     },
     {
@@ -1930,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1402,
       "user": "Edge0-AI"
     },
     {
@@ -1945,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 757,
       "user": "gazijarin"
     },
     {
@@ -1960,23 +1959,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 566,
       "user": "SpaceDudem"
     },
     {
-      "title": "OpenWAM-Official/OpenWAM - Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
-      "url": "https://github.com/OpenWAM-Official/OpenWAM",
-      "published_at": "2026-09-06T06:21:09Z",
-      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "published_at": "2026-09-08T14:55:47Z",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/323902510?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 543,
-      "user": "OpenWAM-Official"
+      "stars": 546,
+      "user": "Colafornia"
     },
     {
       "title": "Pandas Should Go Extinct",
@@ -1990,22 +1989,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ohrv"
-    },
-    {
-      "title": "Beginner building Scraping/Crawling Workflow",
-      "url": "https://stackoverflow.com/questions/79944227/beginner-building-scraping-crawling-workflow",
-      "published_at": "2026-05-20T18:39:10.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "javascript",
-        "python",
-        "web-crawler",
-        "pipeline",
-        "advice"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cdb-edward"
     },
     {
       "title": "py4j.protocol.Py4JJavaError: An error occurred while calling o71.getDeclaredMethod in flink 2.2.1",
@@ -2023,22 +2006,6 @@
       "user": "Joseph Hwang"
     },
     {
-      "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
-      "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
-      "published_at": "2026-09-11T21:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "numpy",
-        "machine-learning",
-        "deep-learning",
-        "neural-network"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anonymous Tech"
-    },
-    {
       "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
       "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
       "published_at": "2026-09-11T10:13:38.000Z",
@@ -2053,6 +2020,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kainat khattak"
+    },
+    {
+      "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
+      "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
+      "published_at": "2026-09-11T21:18:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "numpy",
+        "machine-learning",
+        "deep-learning",
+        "neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anonymous Tech"
     },
     {
       "title": "Why does my Py-Shiny web app download an empty file?",
@@ -2187,21 +2170,6 @@
   ],
   "DevOps": [
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
       "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
       "published_at": "2026-09-09T20:59:07Z",
@@ -2215,6 +2183,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2482,8 +2465,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 580,
       "user": "truanayangi-com"
+    },
+    {
+      "title": "What causes Audio to not start automatically on a website?",
+      "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
+      "published_at": "2026-09-12T12:18:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "html5-audio",
+        "mobile-chrome"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yatharth Goyal"
     },
     {
       "title": "Rendering problem on Apple MacBook M4 Pro only?",
@@ -2676,8 +2673,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 168,
       "user": "denialwm"
+    },
+    {
+      "title": "What causes Audio to not start automatically on a website?",
+      "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
+      "published_at": "2026-09-12T12:18:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "html5-audio",
+        "mobile-chrome"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yatharth Goyal"
     },
     {
       "title": "Laravel optional route parameter not reaching the function when Axios sends an empty value",
@@ -2726,6 +2737,21 @@
       "user": "xbill"
     },
     {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
       "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
       "published_at": "2026-09-11T06:58:39Z",
@@ -2752,21 +2778,6 @@
         "claudecode"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3036,7 +3047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 580,
       "user": "truanayangi-com"
     }
   ],
@@ -3458,14 +3469,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 890,
       "user": "achimala"
     },
     {
-      "title": "mizzlelover/gongwen-gbt9704-skill - 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "title": "mizzlelover/gongwen-gbt9704-skill - 中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB 文件转换：https://github.com/mizzlelover/CEB",
       "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
       "published_at": "2026-09-09T10:04:14Z",
-      "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "description": "中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB 文件转换：https://github.com/mizzlelover/CEB",
       "tags": [
         "javascript",
         "github",
@@ -3473,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 521,
       "user": "mizzlelover"
     },
     {
@@ -3503,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 253,
       "user": "eternityspring"
     },
     {
@@ -3533,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1461,
       "user": "EverettFish"
     },
     {
@@ -3548,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1402,
       "user": "Edge0-AI"
     },
     {
@@ -3563,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 757,
       "user": "gazijarin"
     },
     {
@@ -3578,23 +3589,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 566,
       "user": "SpaceDudem"
     },
     {
-      "title": "OpenWAM-Official/OpenWAM - Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
-      "url": "https://github.com/OpenWAM-Official/OpenWAM",
-      "published_at": "2026-09-06T06:21:09Z",
-      "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
+      "published_at": "2026-09-08T14:55:47Z",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/323902510?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 543,
-      "user": "OpenWAM-Official"
+      "stars": 546,
+      "user": "Colafornia"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3608,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 309,
       "user": "unstablebuild"
     },
     {
@@ -3623,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "VaderChen"
     },
     {
@@ -3638,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 166,
       "user": "x4gpanell"
     },
     {
@@ -3653,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "vvrnv"
     },
     {
@@ -3683,7 +3694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 1022,
       "user": "Vincentwei1021"
     },
     {
@@ -3698,7 +3709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 580,
       "user": "truanayangi-com"
     },
     {
@@ -3713,7 +3724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 430,
       "user": "LBEILC"
     },
     {
@@ -3728,7 +3739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19943786?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "aizhimou"
     },
     {
@@ -3743,7 +3754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 250,
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
@@ -3758,7 +3769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "deepseek-ai"
     },
     {
@@ -3773,7 +3784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 244,
       "user": "rust-alert"
     },
     {
@@ -3788,7 +3799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 218,
       "user": "romancitodev"
     },
     {
@@ -3803,7 +3814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309062290?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 168,
       "user": "denialwm"
     },
     {
@@ -3818,7 +3829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 112,
       "user": "gfhdhytghd"
     },
     {
