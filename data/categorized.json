@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -61,19 +46,19 @@
       "user": "xbill"
     },
     {
-      "title": "Interactive AI Eval Dashboards with Data Studio",
-      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
-      "published_at": "2026-09-08T07:00:00Z",
-      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
       "tags": [
-        "ai",
-        "datascience",
-        "productivity",
-        "llm"
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
       "source": "Dev.to",
-      "user": "Katie McLaughlin"
+      "user": "xbill"
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
@@ -492,6 +477,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Interactive AI Eval Dashboards with Data Studio",
+      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
+      "published_at": "2026-09-08T07:00:00Z",
+      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
+      "tags": [
+        "ai",
+        "datascience",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
+    {
       "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
       "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
       "published_at": "2026-09-07T06:37:45Z",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 299,
       "user": "eternityspring"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1466,
       "user": "EverettFish"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1422,
       "user": "Edge0-AI"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 596,
       "user": "SpaceDudem"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1042,
       "user": "Vincentwei1021"
     },
     {
@@ -894,7 +894,7 @@
       "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
       "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
       "published_at": "2026-09-11T21:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "numpy",
@@ -1369,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 910,
       "user": "achimala"
     },
     {
@@ -1414,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 299,
       "user": "eternityspring"
     },
     {
@@ -1429,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "HRuiCcc"
     },
     {
@@ -1444,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1466,
       "user": "EverettFish"
     },
     {
@@ -1459,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1042,
       "user": "Vincentwei1021"
     },
     {
@@ -1474,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "truanayangi-com"
     },
     {
@@ -1489,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 441,
       "user": "LBEILC"
     },
     {
@@ -1519,14 +1519,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "xsolla-baku-gametech-hackathon"
+    },
+    {
+      "title": "Please provide me the right answers with any proof or documentation",
+      "url": "https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation",
+      "published_at": "2026-09-12T12:18:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -10",
+      "tags": [
+        "javascript",
+        "html5-audio",
+        "mobile-chrome"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yatharth Goyal"
     },
     {
       "title": "BRL/PIX → USDT/USDC direct-to-wallet settlement API for a Brazilian e-commerce checkout",
       "url": "https://stackoverflow.com/questions/80002618/brl-pix-%e2%86%92-usdt-usdc-direct-to-wallet-settlement-api-for-a-brazilian-e-commerce-c",
       "published_at": "2026-09-12T13:26:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -1536,20 +1550,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fausto Baradei"
-    },
-    {
-      "title": "What causes Audio to not start automatically on a website?",
-      "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
-      "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "javascript",
-        "html5-audio",
-        "mobile-chrome"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yatharth Goyal"
     },
     {
       "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
@@ -1886,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1466,
       "user": "EverettFish"
     },
     {
@@ -1901,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1422,
       "user": "Edge0-AI"
     },
     {
@@ -1916,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860985?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 845,
       "user": "jtydhr88"
     },
     {
@@ -1931,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 775,
       "user": "gazijarin"
     },
     {
@@ -1946,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 596,
       "user": "SpaceDudem"
     },
     {
@@ -1966,7 +1966,7 @@
       "title": "How to finish for loop that counts attempt on user input and then use the sum function to add all of the 5 nums from user input?",
       "url": "https://stackoverflow.com/questions/80002637/how-to-finish-for-loop-that-counts-attempt-on-user-input-and-then-use-the-sum-fu",
       "published_at": "2026-09-12T15:04:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "for-loop"
@@ -2010,7 +2010,7 @@
       "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
       "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
       "published_at": "2026-09-11T21:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "numpy",
@@ -2436,14 +2436,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "truanayangi-com"
     },
     {
-      "title": "What causes Audio to not start automatically on a website?",
-      "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
+      "title": "Please provide me the right answers with any proof or documentation",
+      "url": "https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation",
       "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "html5-audio",
@@ -2634,10 +2634,10 @@
       "user": "denialwm"
     },
     {
-      "title": "What causes Audio to not start automatically on a website?",
-      "url": "https://stackoverflow.com/questions/80002603/what-causes-audio-to-not-start-automatically-on-a-website",
+      "title": "Please provide me the right answers with any proof or documentation",
+      "url": "https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation",
       "published_at": "2026-09-12T12:18:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "html5-audio",
@@ -3004,7 +3004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "truanayangi-com"
     }
   ],
@@ -3242,19 +3242,6 @@
       "user": "darleaf"
     },
     {
-      "title": "ChiPass Release 2026.09.0",
-      "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
-      "published_at": "2026-09-11T11:35:40.299-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "release",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
-    },
-    {
       "title": "Revolut confirms customer data breach through fake government requests",
       "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
       "published_at": "2026-09-12T14:40:00.000Z",
@@ -3301,21 +3288,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Interactive AI Eval Dashboards with Data Studio",
-      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
-      "published_at": "2026-09-08T07:00:00Z",
-      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
-      "tags": [
-        "ai",
-        "datascience",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
     {
       "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
       "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
@@ -3392,6 +3364,21 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
+      "title": "Interactive AI Eval Dashboards with Data Studio",
+      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
+      "published_at": "2026-09-08T07:00:00Z",
+      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
+      "tags": [
+        "ai",
+        "datascience",
+        "productivity",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3439,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 910,
       "user": "achimala"
     },
     {
@@ -3484,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 299,
       "user": "eternityspring"
     },
     {
@@ -3499,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "HRuiCcc"
     },
     {
@@ -3514,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1466,
       "user": "EverettFish"
     },
     {
@@ -3529,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1422,
       "user": "Edge0-AI"
     },
     {
@@ -3544,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/860985?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 845,
       "user": "jtydhr88"
     },
     {
@@ -3559,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 775,
       "user": "gazijarin"
     },
     {
@@ -3574,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 596,
       "user": "SpaceDudem"
     },
     {
@@ -3589,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 359,
       "user": "unstablebuild"
     },
     {
@@ -3619,7 +3606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "x4gpanell"
     },
     {
@@ -3664,7 +3651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1042,
       "user": "Vincentwei1021"
     },
     {
@@ -3679,7 +3666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "truanayangi-com"
     },
     {
@@ -3694,7 +3681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 441,
       "user": "LBEILC"
     },
     {
@@ -3724,7 +3711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
@@ -3754,7 +3741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208321371?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "rust-alert"
     },
     {
@@ -3769,7 +3756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 236,
       "user": "romancitodev"
     },
     {
@@ -3799,14 +3786,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102898587?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 129,
       "user": "gfhdhytghd"
     },
     {
       "title": "BRL/PIX → USDT/USDC direct-to-wallet settlement API for a Brazilian e-commerce checkout",
       "url": "https://stackoverflow.com/questions/80002618/brl-pix-%e2%86%92-usdt-usdc-direct-to-wallet-settlement-api-for-a-brazilian-e-commerce-c",
       "published_at": "2026-09-12T13:26:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "tooling-recommendation",
         "javascript",

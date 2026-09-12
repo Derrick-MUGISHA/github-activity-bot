@@ -18,13 +18,13 @@
     "Mobile": 12,
     "Cloud": 22,
     "Database": 3,
-    "Security": 19,
+    "Security": 18,
     "Tools": 39
   },
   "by_language": {
-    "Python": 34,
-    "Go": 39,
     "JavaScript": 37,
+    "Go": 39,
+    "Python": 34,
     "Java": 27,
     "Rust": 6,
     "Ruby": 3,
@@ -33,11 +33,11 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-09-11": 34,
+    "2026-09-11": 33,
     "2026-09-09": 6,
     "2026-09-10": 15,
-    "2026-09-08": 12,
     "2026-09-03": 6,
+    "2026-09-08": 12,
     "2026-09-01": 5,
     "2026-08-27": 2,
     "2026-09-04": 5,
@@ -104,7 +104,7 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-09-12": 11
+    "2026-09-12": 12
   },
   "top_tags": {
     "github": 25,
@@ -120,19 +120,19 @@
     "JavaScript": 10,
     "DevOps": 10,
     "architecture": 8,
-    "programming": 8,
     "flutter": 7,
     "dart": 7,
+    "programming": 7,
     "agents": 7,
+    "linux": 6,
     "go": 6,
-    "linux": 5,
     "typescript": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "22.7",
-    "Go": "26.0",
     "JavaScript": "24.7",
+    "Go": "26.0",
+    "Python": "22.7",
     "Java": "18.0",
     "Rust": "4.0",
     "Ruby": "2.0",
