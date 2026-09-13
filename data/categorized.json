@@ -61,20 +61,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "4 pitfalls of loop engineering (and how to fix them)",
-      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
-      "published_at": "2026-09-09T17:37:13Z",
-      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
       "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
       "published_at": "2026-09-11T06:58:39Z",
@@ -179,21 +165,6 @@
       "user": "xbill"
     },
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
       "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
       "published_at": "2026-09-04T09:24:10Z",
@@ -266,6 +237,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
+      "published_at": "2026-09-09T17:37:13Z",
+      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1586,
+      "stars": 1595,
       "user": "Edge0-AI"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1498,
       "user": "EverettFish"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "Vincentwei1021"
     },
     {
@@ -821,41 +806,25 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "deepseek-ai"
     },
     {
-      "title": "originoneai/agent-work-runtime - Persistent work state and minimal context for long-running AI agents.",
-      "url": "https://github.com/originoneai/agent-work-runtime",
-      "published_at": "2026-09-07T16:09:21Z",
-      "description": "Persistent work state and minimal context for long-running AI agents.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293431439?v=4",
-      "source": "GitHub",
-      "stars": 84,
-      "user": "originoneai"
-    },
-    {
-      "title": "Langchain RAG is not retrieving any document",
-      "url": "https://stackoverflow.com/questions/79804054/langchain-rag-is-not-retrieving-any-document",
-      "published_at": "2025-10-29T17:00:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "ImportError: cannot import name 'GradientBaseModelLLM' from 'llama_index.llms'",
+      "url": "https://stackoverflow.com/questions/80002769/importerror-cannot-import-name-gradientbasemodelllm-from-llama-index-llms",
+      "published_at": "2026-09-13T13:03:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
-        "langchain",
-        "large-language-model",
-        "rag"
+        "llama",
+        "llama-index"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user16483422"
+      "user": "Bussller"
     },
     {
-      "title": "Insight Partners&#8217; Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "title": "Insight Partners&#8217; Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
       "published_at": "2026-09-13T21:30:00.000Z",
       "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
@@ -904,9 +873,9 @@
       "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
       "tags": [
         "AI",
-        "Anthropic",
+        "OpenAI",
         "Equity podcast",
-        "OpenAI"
+        "Anthropic"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1305,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 965,
       "user": "achimala"
     },
     {
@@ -1380,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1498,
       "user": "EverettFish"
     },
     {
@@ -1395,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "Vincentwei1021"
     },
     {
@@ -1425,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "LBEILC"
     },
     {
@@ -1444,19 +1413,19 @@
       "user": "aizhimou"
     },
     {
-      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
-      "published_at": "2026-09-09T11:28:46Z",
-      "description": "Trending GitHub Repository",
+      "title": "zhihui-hu/one-ip - 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
+      "url": "https://github.com/zhihui-hu/one-ip",
+      "published_at": "2026-09-09T04:38:32Z",
+      "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
       "stars": 253,
-      "user": "xsolla-baku-gametech-hackathon"
+      "user": "zhihui-hu"
     },
     {
       "title": "what if my git host were a static site generator?",
@@ -1471,6 +1440,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "easrng"
+    },
+    {
+      "title": "Why is my stored data in my TamperMonkey giving unexpected values?",
+      "url": "https://stackoverflow.com/questions/80002860/why-is-my-stored-data-in-my-tampermonkey-giving-unexpected-values",
+      "published_at": "2026-09-13T22:41:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "tampermonkey"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CharType"
     },
     {
       "title": "Compiling and parsing After Effects JavaScript code",
@@ -1592,19 +1574,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "buschtoens"
-    },
-    {
-      "title": "Chrome Extension message passing: Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist",
-      "url": "https://stackoverflow.com/questions/54181734/chrome-extension-message-passing-unchecked-runtime-lasterror-could-not-establi",
-      "published_at": "2019-01-14T12:38:37.000Z",
-      "description": "Stack Overflow question · 7 answers · score 59",
-      "tags": [
-        "javascript",
-        "google-chrome-extension"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alexander"
     },
     {
       "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
@@ -1846,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1586,
+      "stars": 1595,
       "user": "Edge0-AI"
     },
     {
@@ -1861,23 +1830,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1498,
       "user": "EverettFish"
-    },
-    {
-      "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
-      "url": "https://github.com/gazijarin/itsgiving",
-      "published_at": "2026-09-08T05:02:01Z",
-      "description": "Express yourself in meetings (with memes, of course).",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
-      "source": "GitHub",
-      "stars": 813,
-      "user": "gazijarin"
     },
     {
       "title": "crwdla/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
@@ -1891,8 +1845,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1875146?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 828,
       "user": "crwdla"
+    },
+    {
+      "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "published_at": "2026-09-08T05:02:01Z",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
+      "source": "GitHub",
+      "stars": 815,
+      "user": "gazijarin"
     },
     {
       "title": "SpaceDudem/text-humanizer - text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
@@ -1910,6 +1879,18 @@
       "user": "SpaceDudem"
     },
     {
+      "title": "How do I build a parallel job runner in Python?",
+      "url": "https://stackoverflow.com/questions/80002861/how-do-i-build-a-parallel-job-runner-in-python",
+      "published_at": "2026-09-13T22:55:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "louisville hacker"
+    },
+    {
       "title": "How to use isinstance on functools.cache cached classes?",
       "url": "https://stackoverflow.com/questions/80002840/how-to-use-isinstance-on-functools-cache-cached-classes",
       "published_at": "2026-09-13T20:15:20.000Z",
@@ -1922,6 +1903,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dorian Turba"
+    },
+    {
+      "title": "ImportError: cannot import name 'GradientBaseModelLLM' from 'llama_index.llms'",
+      "url": "https://stackoverflow.com/questions/80002769/importerror-cannot-import-name-gradientbasemodelllm-from-llama-index-llms",
+      "published_at": "2026-09-13T13:03:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "llama",
+        "llama-index"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bussller"
     },
     {
       "title": "How to finish for loop that counts attempt on user input and then use the sum function to add all of the 5 nums from user input?",
@@ -1964,19 +1959,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "schtandard"
-    },
-    {
-      "title": "How to create independent 2D and 3D scenes side by side in Manim?",
-      "url": "https://stackoverflow.com/questions/79996878/how-to-create-independent-2d-and-3d-scenes-side-by-side-in-manim",
-      "published_at": "2026-08-20T17:31:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "manim"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Number_Pi"
     },
     {
       "title": "Is yml easier then python?",
@@ -2031,21 +2013,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ThiefMaster"
-    },
-    {
-      "title": "Langchain RAG is not retrieving any document",
-      "url": "https://stackoverflow.com/questions/79804054/langchain-rag-is-not-retrieving-any-document",
-      "published_at": "2025-10-29T17:00:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "langchain",
-        "large-language-model",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user16483422"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2109,21 +2076,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
@@ -2653,21 +2605,6 @@
       "user": "xbill"
     },
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
       "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
       "published_at": "2026-09-10T02:43:19Z",
@@ -3120,21 +3057,6 @@
   ],
   "Tools": [
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
       "published_at": "2026-09-01T07:00:00Z",
@@ -3257,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 965,
       "user": "achimala"
     },
     {
@@ -3332,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1586,
+      "stars": 1595,
       "user": "Edge0-AI"
     },
     {
@@ -3347,23 +3269,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222453586?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1498,
       "user": "EverettFish"
-    },
-    {
-      "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
-      "url": "https://github.com/gazijarin/itsgiving",
-      "published_at": "2026-09-08T05:02:01Z",
-      "description": "Express yourself in meetings (with memes, of course).",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
-      "source": "GitHub",
-      "stars": 813,
-      "user": "gazijarin"
     },
     {
       "title": "crwdla/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
@@ -3377,8 +3284,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1875146?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 828,
       "user": "crwdla"
+    },
+    {
+      "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
+      "url": "https://github.com/gazijarin/itsgiving",
+      "published_at": "2026-09-08T05:02:01Z",
+      "description": "Express yourself in meetings (with memes, of course).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
+      "source": "GitHub",
+      "stars": 815,
+      "user": "gazijarin"
     },
     {
       "title": "SpaceDudem/text-humanizer - text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
@@ -3407,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 460,
       "user": "unstablebuild"
     },
     {
@@ -3452,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9649104?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 122,
       "user": "vianziro"
     },
     {
@@ -3467,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40491079?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "vvrnv"
     },
     {
@@ -3482,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "Vincentwei1021"
     },
     {
@@ -3512,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74463574?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "LBEILC"
     },
     {
@@ -3531,19 +3453,19 @@
       "user": "aizhimou"
     },
     {
-      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
-      "published_at": "2026-09-09T11:28:46Z",
-      "description": "Trending GitHub Repository",
+      "title": "zhihui-hu/one-ip - 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
+      "url": "https://github.com/zhihui-hu/one-ip",
+      "published_at": "2026-09-09T04:38:32Z",
+      "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
       "stars": 253,
-      "user": "xsolla-baku-gametech-hackathon"
+      "user": "zhihui-hu"
     },
     {
       "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
@@ -3557,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "deepseek-ai"
     },
     {
@@ -3602,23 +3524,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/325692219?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "qingjian-team"
     },
     {
-      "title": "originoneai/agent-work-runtime - Persistent work state and minimal context for long-running AI agents.",
-      "url": "https://github.com/originoneai/agent-work-runtime",
-      "published_at": "2026-09-07T16:09:21Z",
-      "description": "Persistent work state and minimal context for long-running AI agents.",
+      "title": "ViceVerse-cz/Serein - Tiny, Performant & 100% Native client for Discord made in Rust",
+      "url": "https://github.com/ViceVerse-cz/Serein",
+      "published_at": "2026-09-09T20:42:14Z",
+      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/293431439?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
       "source": "GitHub",
       "stars": 84,
-      "user": "originoneai"
+      "user": "ViceVerse-cz"
     },
     {
       "title": "what if my git host were a static site generator?",
