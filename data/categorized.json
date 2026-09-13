@@ -61,21 +61,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "4 pitfalls of loop engineering (and how to fix them)",
       "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
       "published_at": "2026-09-09T17:37:13Z",
@@ -190,6 +175,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1586,
       "user": "Edge0-AI"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 731,
       "user": "SpaceDudem"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1162,
       "user": "Vincentwei1021"
     },
     {
@@ -840,20 +840,62 @@
       "user": "originoneai"
     },
     {
-      "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
-      "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
-      "published_at": "2026-09-11T21:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Langchain RAG is not retrieving any document",
+      "url": "https://stackoverflow.com/questions/79804054/langchain-rag-is-not-retrieving-any-document",
+      "published_at": "2025-10-29T17:00:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "numpy",
-        "machine-learning",
-        "deep-learning",
-        "neural-network"
+        "langchain",
+        "large-language-model",
+        "rag"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Anonymous Tech"
+      "user": "user16483422"
+    },
+    {
+      "title": "Insight Partners&#8217; Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "published_at": "2026-09-13T21:30:00.000Z",
+      "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "tags": [
+        "TC",
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "published_at": "2026-09-13T20:49:38.000Z",
+      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "tags": [
+        "Fundraising",
+        "Larry Ellison",
+        "oracle"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "published_at": "2026-09-13T20:28:00.000Z",
+      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "deep tech",
+        "Y Combinator",
+        "YC Demo Day"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin, Dominic-Madori Davis"
     },
     {
       "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
@@ -945,35 +987,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "published_at": "2026-09-12T14:40:00.000Z",
-      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "tags": [
-        "Fintech",
-        "Security",
-        "Revolut"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "published_at": "2026-09-11T22:58:17.000Z",
-      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Exclusive",
-        "Sequoia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -1292,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 963,
       "user": "achimala"
     },
     {
@@ -1382,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1162,
       "user": "Vincentwei1021"
     },
     {
@@ -1442,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
@@ -1460,19 +1473,6 @@
       "user": "easrng"
     },
     {
-      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
-      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
-      "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "best-practices",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Andy"
-    },
-    {
       "title": "Compiling and parsing After Effects JavaScript code",
       "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
       "published_at": "2026-09-13T14:34:55.000Z",
@@ -1480,12 +1480,25 @@
       "tags": [
         "tooling-recommendation",
         "javascript",
-        "jsx",
+        "extendscript",
         "after-effects"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mohamad Hasan Salmaaniyaan"
+    },
+    {
+      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
+      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
+      "published_at": "2026-09-13T13:50:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Andy"
     },
     {
       "title": "The React state returns null when console logging",
@@ -1554,18 +1567,17 @@
       "user": "Marco Pasquali"
     },
     {
-      "title": "Input value for total number of pages in a REDCap survey?",
-      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
-      "published_at": "2026-09-04T20:50:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Check if a variable is a string in JavaScript",
+      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
+      "published_at": "2010-10-30T14:36:34.000Z",
+      "description": "Stack Overflow question · 34 answers · score 2883",
       "tags": [
         "javascript",
-        "html",
-        "redcap"
+        "string"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "bcarothers"
+      "user": "Olical"
     },
     {
       "title": "Why is adding custom properties to native objects a bad practice?",
@@ -1593,6 +1605,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alexander"
+    },
+    {
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "published_at": "2026-09-13T20:28:00.000Z",
+      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "deep tech",
+        "Y Combinator",
+        "YC Demo Day"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin, Dominic-Madori Davis"
     }
   ],
   "Python": [
@@ -1818,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1586,
       "user": "Edge0-AI"
     },
     {
@@ -1848,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 813,
       "user": "gazijarin"
     },
     {
@@ -1863,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1875146?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 800,
       "user": "crwdla"
     },
     {
@@ -1878,8 +1906,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 731,
       "user": "SpaceDudem"
+    },
+    {
+      "title": "How to use isinstance on functools.cache cached classes?",
+      "url": "https://stackoverflow.com/questions/80002840/how-to-use-isinstance-on-functools-cache-cached-classes",
+      "published_at": "2026-09-13T20:15:20.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "singleton",
+        "memoization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dorian Turba"
     },
     {
       "title": "How to finish for loop that counts attempt on user input and then use the sum function to add all of the 5 nums from user input?",
@@ -1911,22 +1953,6 @@
       "user": "kainat khattak"
     },
     {
-      "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
-      "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
-      "published_at": "2026-09-11T21:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "numpy",
-        "machine-learning",
-        "deep-learning",
-        "neural-network"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anonymous Tech"
-    },
-    {
       "title": "Type hint a default return type used unless more specific overload exists",
       "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
       "published_at": "2026-09-07T14:58:51.000Z",
@@ -1938,20 +1964,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "schtandard"
-    },
-    {
-      "title": "How do I check whether a file exists without exceptions?",
-      "url": "https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions",
-      "published_at": "2008-09-17T12:55:00.000Z",
-      "description": "Stack Overflow question · 41 answers · score 7350",
-      "tags": [
-        "python",
-        "file",
-        "file-exists"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "spence91"
     },
     {
       "title": "How to create independent 2D and 3D scenes side by side in Manim?",
@@ -2021,6 +2033,21 @@
       "user": "ThiefMaster"
     },
     {
+      "title": "Langchain RAG is not retrieving any document",
+      "url": "https://stackoverflow.com/questions/79804054/langchain-rag-is-not-retrieving-any-document",
+      "published_at": "2025-10-29T17:00:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "langchain",
+        "large-language-model",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user16483422"
+    },
+    {
       "title": "How to Prevent Race Conditions in Django",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
       "published_at": "2026-09-11T21:50:46.000Z",
@@ -2054,21 +2081,6 @@
   ],
   "DevOps": [
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
       "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
       "published_at": "2026-09-11T06:58:39Z",
@@ -2097,6 +2109,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
@@ -2353,20 +2380,6 @@
       "user": "truanayangi-com"
     },
     {
-      "title": "Input value for total number of pages in a REDCap survey?",
-      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
-      "published_at": "2026-09-04T20:50:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "redcap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bcarothers"
-    },
-    {
       "title": "How to Prevent Race Conditions in Django",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
       "published_at": "2026-09-11T21:50:46.000Z",
@@ -2535,21 +2548,6 @@
   ],
   "Cloud": [
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
       "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
       "published_at": "2026-09-11T06:58:39Z",
@@ -2651,6 +2649,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
+      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
+      "published_at": "2026-09-09T20:59:07Z",
+      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
+      "tags": [
+        "debian",
+        "linux",
+        "claudecode",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3074,20 +3087,6 @@
       "user": "Tim De Chant"
     },
     {
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "published_at": "2026-09-12T14:40:00.000Z",
-      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "tags": [
-        "Fintech",
-        "Security",
-        "Revolut"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
       "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
       "url": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
       "published_at": "2026-09-11T22:10:33.000Z",
@@ -3258,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 963,
       "user": "achimala"
     },
     {
@@ -3333,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1586,
       "user": "Edge0-AI"
     },
     {
@@ -3363,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 813,
       "user": "gazijarin"
     },
     {
@@ -3378,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1875146?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 800,
       "user": "crwdla"
     },
     {
@@ -3393,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 731,
       "user": "SpaceDudem"
     },
     {
@@ -3408,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "unstablebuild"
     },
     {
@@ -3438,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "x4gpanell"
     },
     {
@@ -3453,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9649104?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "vianziro"
     },
     {
@@ -3483,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1162,
       "user": "Vincentwei1021"
     },
     {
@@ -3543,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
@@ -3573,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/84428770?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "romancitodev"
     },
     {
@@ -3648,10 +3647,25 @@
       "user": "heavyrain266"
     },
     {
+      "title": "Compiling and parsing After Effects JavaScript code",
+      "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
+      "published_at": "2026-09-13T14:34:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "extendscript",
+        "after-effects"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamad Hasan Salmaaniyaan"
+    },
+    {
       "title": "Is there any legitimate use case for JavaScript encodeURI()?",
       "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
       "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "best-practices",
         "javascript"
@@ -3661,19 +3675,18 @@
       "user": "Andy"
     },
     {
-      "title": "Compiling and parsing After Effects JavaScript code",
-      "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
-      "published_at": "2026-09-13T14:34:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How to use isinstance on functools.cache cached classes?",
+      "url": "https://stackoverflow.com/questions/80002840/how-to-use-isinstance-on-functools-cache-cached-classes",
+      "published_at": "2026-09-13T20:15:20.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "jsx",
-        "after-effects"
+        "python",
+        "singleton",
+        "memoization"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Mohamad Hasan Salmaaniyaan"
+      "user": "Dorian Turba"
     },
     {
       "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
