@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-13 7:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-13 12:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -101,19 +101,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 7 | [Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud](https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2) | Dev.to |
 | 8 | [4 pitfalls of loop engineering (and how to fix them)](https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2) | Dev.to |
 | 9 | [Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically](https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b) | Dev.to |
-| 10 | [Congrats to the Frontend Challenge: Comfort Food Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8) | Dev.to |
-| 11 | [DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed](https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0) | Dev.to |
-| 12 | [2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3) | Dev.to |
-| 13 | [Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace](https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5) | Dev.to |
-| 14 | [Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console](https://dev.to/gde/bidirectional-writeback-for-apache-iceberg-via-google-sheets-serverless-lakehouse-console-14ic) | Dev.to |
-| 15 | [Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script](https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg) | Dev.to |
-| 16 | [Building With AI When You Don't Know Architecture: A Survival Guide](https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3) | Dev.to |
-| 17 | [Welcome Thread - v 392](https://dev.to/sloan/welcome-thread-v-392-1kj4) | Dev.to |
-| 18 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
-| 19 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
-| 20 | [AI Engineering Is Easy. Changing How We Work Is Hard](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4) | Dev.to |
+| 10 | [2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3) | Dev.to |
+| 11 | [Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console](https://dev.to/gde/bidirectional-writeback-for-apache-iceberg-via-google-sheets-serverless-lakehouse-console-14ic) | Dev.to |
+| 12 | [Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script](https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg) | Dev.to |
+| 13 | [Welcome Thread - v 392](https://dev.to/sloan/welcome-thread-v-392-1kj4) | Dev.to |
+| 14 | [Building With AI When You Don't Know Architecture: A Survival Guide](https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3) | Dev.to |
+| 15 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
+| 16 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
+| 17 | [AI Engineering Is Easy. Changing How We Work Is Hard](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4) | Dev.to |
+| 18 | [The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One](https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n) | Dev.to |
+| 19 | [DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed](https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0) | Dev.to |
+| 20 | [Congrats to the Frontend Challenge: Comfort Food Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8) | Dev.to |
 
-<sub>Last fetched: Sun, 13 Sep 2026 07:11:40 CAT</sub>
+<sub>Last fetched: Sun, 13 Sep 2026 12:21:09 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the median of two sorted arrays**
+**1. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**2. `Python` — Implement a context manager using __enter__ and __exit__**
+**2. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -168,11 +168,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 23 | 12.5% | `██████░░░░░░░░░░░░░░` |
-| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 22 | 12.0% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 13 Sep 2026 05:11:40 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 13 Sep 2026 10:21:09 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
