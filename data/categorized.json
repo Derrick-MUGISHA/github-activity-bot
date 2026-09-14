@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
+      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
+      "published_at": "2026-09-13T18:25:49Z",
+      "description": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and one server now runs in Claude Code, Codex and Antigravity CLI.",
+      "tags": [
+        "mcp",
+        "python",
+        "gemini",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -14,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
+      "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b",
+      "published_at": "2026-09-14T00:57:31Z",
+      "description": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small Dockerfile fixes that and gives you a persistent Debian 13 VM with systemd, your Mac user and your home folder. The VM has no GPU, so Ollama runs on macOS and the VM calls it at 192.168.64.1:8000. From inside Debian, gemma4:e2b answered at 45.2 tok/s, loaded 100% on the M3 GPU.",
+      "tags": [
+        "debian",
+        "macos",
+        "ollama",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
@@ -135,6 +165,36 @@
       "user": "James Anderson"
     },
     {
+      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
+      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
+      "published_at": "2026-09-11T23:07:27Z",
+      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "published_at": "2026-09-09T12:48:25Z",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "tags": [
+        "typescript",
+        "algorithms",
+        "opensource",
+        "dsa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
+    },
+    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -251,20 +311,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Elevating Antigravity agent skills, Part 2: Image generation",
-      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
-      "published_at": "2026-09-01T16:51:26Z",
-      "description": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
-      "source": "Dev.to",
-      "user": "James O'Reilly"
     },
     {
       "title": "Coding agents got boring the moment we built a really good one.",
@@ -731,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1668,
       "user": "Edge0-AI"
     },
     {
@@ -761,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 731,
       "user": "Colafornia"
     },
     {
@@ -776,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 220,
       "user": "VaderChen"
     },
     {
@@ -791,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 136,
       "user": "linguo2625469"
     },
     {
@@ -806,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1283,
       "user": "Vincentwei1021"
     },
     {
@@ -851,13 +897,32 @@
       "user": "Bussller"
     },
     {
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "published_at": "2026-09-14T13:55:00.000Z",
+      "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Apps",
+        "Music",
+        "Spotify"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "Insight Partners&#8217; Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
       "published_at": "2026-09-13T21:30:00.000Z",
       "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
       "tags": [
         "TC",
-        "Venture"
+        "Venture",
+        "Deven Parekh",
+        "Insight Partners",
+        "StrictlyVC"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -870,6 +935,7 @@
       "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
       "tags": [
         "Fundraising",
+        "In Brief",
         "Larry Ellison",
         "oracle"
       ],
@@ -900,9 +966,9 @@
       "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
       "tags": [
         "AI",
-        "OpenAI",
+        "Anthropic",
         "Equity podcast",
-        "Anthropic"
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -964,21 +1030,6 @@
         "Fundraising",
         "OpenAI",
         "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "published_at": "2026-09-12T19:34:44.000Z",
-      "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Anthropic",
-        "dario amodei"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1125,6 +1176,21 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "published_at": "2026-09-09T12:48:25Z",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "tags": [
+        "typescript",
+        "algorithms",
+        "opensource",
+        "dsa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
+    },
+    {
       "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
       "published_at": "2026-09-10T18:23:05Z",
@@ -1138,21 +1204,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
       "source": "Dev.to",
       "user": "Jem"
-    },
-    {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-      "published_at": "2026-09-03T15:24:18Z",
-      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
-      "tags": [
-        "discuss",
-        "aws",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
@@ -1316,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "mizzlelover"
     },
     {
@@ -1331,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 324,
       "user": "nhovongoc0-max"
     },
     {
@@ -1361,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 234,
       "user": "viettranx"
     },
     {
@@ -1376,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1283,
       "user": "Vincentwei1021"
     },
     {
@@ -1406,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 284,
       "user": "zhihui-hu"
     },
     {
@@ -1454,6 +1505,20 @@
       "user": "easrng"
     },
     {
+      "title": "jQuery only targets hard coded element IDs not ones in arrays",
+      "url": "https://stackoverflow.com/questions/80003001/jquery-only-targets-hard-coded-element-ids-not-ones-in-arrays",
+      "published_at": "2026-09-14T13:42:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Artyu"
+    },
+    {
       "title": "Compiling and parsing After Effects JavaScript code",
       "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
       "published_at": "2026-09-13T14:34:55.000Z",
@@ -1493,6 +1558,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "CharType"
+    },
+    {
+      "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
+      "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
+      "published_at": "2026-09-11T19:35:08.000Z",
+      "description": "Stack Overflow question · 3 answers · score -2",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kijupo"
     },
     {
       "title": "The React state returns null when console logging",
@@ -1535,20 +1612,6 @@
       "user": "Melab"
     },
     {
-      "title": "How do I trigger a dialog Form by clicking a table row?",
-      "url": "https://stackoverflow.com/questions/80000947/how-do-i-trigger-a-dialog-form-by-clicking-a-table-row",
-      "published_at": "2026-09-05T08:03:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "shadcnui"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marco Pasquali"
-    },
-    {
       "title": "Check if a variable is a string in JavaScript",
       "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
       "published_at": "2010-10-30T14:36:34.000Z",
@@ -1576,19 +1639,6 @@
       "user": "buschtoens"
     },
     {
-      "title": "Chrome Extension message passing: Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist",
-      "url": "https://stackoverflow.com/questions/54181734/chrome-extension-message-passing-unchecked-runtime-lasterror-could-not-establi",
-      "published_at": "2019-01-14T12:38:37.000Z",
-      "description": "Stack Overflow question · 7 answers · score 59",
-      "tags": [
-        "javascript",
-        "google-chrome-extension"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alexander"
-    },
-    {
       "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
       "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
       "published_at": "2026-09-13T20:28:00.000Z",
@@ -1606,6 +1656,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
+      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
+      "published_at": "2026-09-13T18:25:49Z",
+      "description": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and one server now runs in Claude Code, Codex and Antigravity CLI.",
+      "tags": [
+        "mcp",
+        "python",
+        "gemini",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
@@ -1828,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1668,
       "user": "Edge0-AI"
     },
     {
@@ -1843,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 834,
       "user": "gazijarin"
     },
     {
@@ -1873,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 731,
       "user": "Colafornia"
     },
     {
@@ -1888,14 +1953,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 632,
       "user": "ArasTey"
     },
     {
       "title": "How to reinstall the 'py' launcher on Windows?",
       "url": "https://stackoverflow.com/questions/80002904/how-to-reinstall-the-py-launcher-on-windows",
       "published_at": "2026-09-14T06:12:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "python-install",
@@ -2066,6 +2131,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
+      "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b",
+      "published_at": "2026-09-14T00:57:31Z",
+      "description": "Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small Dockerfile fixes that and gives you a persistent Debian 13 VM with systemd, your Mac user and your home folder. The VM has no GPU, so Ollama runs on macOS and the VM calls it at 192.168.64.1:8000. From inside Debian, gemma4:e2b answered at 45.2 tok/s, loaded 100% on the M3 GPU.",
+      "tags": [
+        "debian",
+        "macos",
+        "ollama",
+        "linux"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
       "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
@@ -2309,6 +2389,21 @@
       "user": "xbill"
     },
     {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "published_at": "2026-09-09T12:48:25Z",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "tags": [
+        "typescript",
+        "algorithms",
+        "opensource",
+        "dsa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
+    },
+    {
       "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
       "published_at": "2026-09-10T18:23:05Z",
@@ -2366,6 +2461,20 @@
       "user": "truanayangi-com"
     },
     {
+      "title": "jQuery only targets hard coded element IDs not ones in arrays",
+      "url": "https://stackoverflow.com/questions/80003001/jquery-only-targets-hard-coded-element-ids-not-ones-in-arrays",
+      "published_at": "2026-09-14T13:42:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Artyu"
+    },
+    {
       "title": "How to Prevent Race Conditions in Django",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
       "published_at": "2026-09-11T21:50:46.000Z",
@@ -2410,21 +2519,6 @@
         "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
-      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8",
-      "published_at": "2026-08-30T01:27:54Z",
-      "description": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and Riverpod now operate as first-class bidirectional peers at the Grand Central State Terminal.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2639,6 +2733,21 @@
       "user": "xbill"
     },
     {
+      "title": "Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀",
+      "url": "https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4",
+      "published_at": "2026-09-11T23:28:43Z",
+      "description": "Step by step: a Rust HTTP client (reqwest) and a Rust MCP client (rmcp) ask Gemma 4 E2B the same question on a local llama.cpp GPU and on Cloud Run — what each one can see, and what each one costs.",
+      "tags": [
+        "rust",
+        "mcp",
+        "gemma",
+        "llamacpp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-rust%2Fmain%2Fdocs%2Fdevto-cover.8693fe91.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
       "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
       "published_at": "2026-09-10T02:43:19Z",
@@ -2666,36 +2775,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
-    },
-    {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-      "published_at": "2026-09-03T15:24:18Z",
-      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
-      "tags": [
-        "discuss",
-        "aws",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
-      "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
-      "published_at": "2026-09-06T07:35:05Z",
-      "description": "Turn Google Sheets into a Petabyte Lakehouse with Sub-Second ACID Queries.             ...",
-      "tags": [
-        "googleworkspace",
-        "googlecloud",
-        "bigquery",
-        "apacheiceberg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq3o7rjtqj3wecjfjtxe8.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
@@ -3106,6 +3185,21 @@
   ],
   "Tools": [
     {
+      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
+      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
+      "published_at": "2026-09-11T23:07:27Z",
+      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
       "published_at": "2026-09-01T07:00:00Z",
@@ -3258,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "mizzlelover"
     },
     {
@@ -3273,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 324,
       "user": "nhovongoc0-max"
     },
     {
@@ -3303,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 234,
       "user": "viettranx"
     },
     {
@@ -3318,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1668,
       "user": "Edge0-AI"
     },
     {
@@ -3333,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 834,
       "user": "gazijarin"
     },
     {
@@ -3363,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 731,
       "user": "Colafornia"
     },
     {
@@ -3378,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 632,
       "user": "ArasTey"
     },
     {
@@ -3393,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 501,
       "user": "unstablebuild"
     },
     {
@@ -3408,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 220,
       "user": "VaderChen"
     },
     {
@@ -3438,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 136,
       "user": "linguo2625469"
     },
     {
@@ -3453,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "AlexAntonik"
     },
     {
@@ -3468,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1283,
       "user": "Vincentwei1021"
     },
     {
@@ -3498,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 284,
       "user": "zhihui-hu"
     },
     {
@@ -3558,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 210,
       "user": "ViceVerse-cz"
     },
     {
@@ -3573,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275886436?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "Abomination81"
     },
     {
@@ -3588,7 +3682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81939?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 87,
       "user": "penberg"
     },
     {
@@ -3619,6 +3713,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "easrng"
+    },
+    {
+      "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+      "url": "https://codeberg.org/mergiraf/mergiraf",
+      "published_at": "2026-09-14T06:16:14.338-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "programming",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hongminhee"
     },
     {
       "title": "Compiling and parsing After Effects JavaScript code",
