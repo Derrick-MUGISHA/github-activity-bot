@@ -13,6 +13,9 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    env:
+      GIT_AUTHOR_NAME: Derrick-MUGISHA
+      GIT_AUTHOR_EMAIL: 188050182+Derrick-MUGISHA@users.noreply.github.com
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -57,8 +60,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "Derrick-MUGISHA"
-          git config --global user.email "188050182+Derrick-MUGISHA@users.noreply.github.com"
+          git config --global user.name "$GIT_AUTHOR_NAME"
+          git config --global user.email "$GIT_AUTHOR_EMAIL"
 
           # Add all generated files
           git add README.md data/news_log.md 2>/dev/null || true
@@ -69,7 +72,8 @@ jobs:
             exit 0
           fi
 
-          git commit -m "🤖 Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "🤖 Auto news update: $(date -u +'%Y-%m-%d %H:%M UTC')" \
+            -m "Co-authored-by: $GIT_AUTHOR_NAME <$GIT_AUTHOR_EMAIL>"
 
           for i in {1..5}; do
             git pull --rebase origin main
