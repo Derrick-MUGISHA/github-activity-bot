@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1631,
       "user": "Edge0-AI"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 740,
       "user": "SpaceDudem"
     },
     {
@@ -746,8 +746,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 724,
       "user": "Colafornia"
+    },
+    {
+      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "url": "https://github.com/nftechie/stonkfly",
+      "published_at": "2026-09-10T02:40:30Z",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
+      "source": "GitHub",
+      "stars": 585,
+      "user": "nftechie"
     },
     {
       "title": "VaderChen/YourDesk - Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "VaderChen"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 103,
       "user": "linguo2625469"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1216,
       "user": "Vincentwei1021"
     },
     {
@@ -806,8 +821,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl",
+      "published_at": "2026-09-13T20:18:11.130-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "compsci"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gianni"
     },
     {
       "title": "ImportError: cannot import name 'GradientBaseModelLLM' from 'llama_index.llms'",
@@ -1274,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 631,
       "user": "rizqinrr"
     },
     {
@@ -1289,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 589,
       "user": "mizzlelover"
     },
     {
@@ -1304,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 296,
       "user": "nhovongoc0-max"
     },
     {
@@ -1334,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 224,
       "user": "viettranx"
     },
     {
@@ -1349,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1216,
       "user": "Vincentwei1021"
     },
     {
@@ -1364,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 598,
       "user": "truanayangi-com"
     },
     {
@@ -1379,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 274,
       "user": "zhihui-hu"
     },
     {
@@ -1427,6 +1454,19 @@
       "user": "easrng"
     },
     {
+      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
+      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
+      "published_at": "2026-09-13T13:50:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Andy"
+    },
+    {
       "title": "Why is my stored data in my TamperMonkey giving unexpected values?",
       "url": "https://stackoverflow.com/questions/80002860/why-is-my-stored-data-in-my-tampermonkey-giving-unexpected-values",
       "published_at": "2026-09-13T22:41:36.000Z",
@@ -1453,19 +1493,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mohamad Hasan Salmaaniyaan"
-    },
-    {
-      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
-      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
-      "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "best-practices",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Andy"
     },
     {
       "title": "The React state returns null when console logging",
@@ -1800,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1631,
       "user": "Edge0-AI"
     },
     {
@@ -1815,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 820,
       "user": "gazijarin"
     },
     {
@@ -1830,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 740,
       "user": "SpaceDudem"
     },
     {
@@ -1845,35 +1872,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 724,
       "user": "Colafornia"
     },
     {
-      "title": "ArasTey/lunel - GitHub Repository",
-      "url": "https://github.com/ArasTey/lunel",
-      "published_at": "2026-09-09T06:58:25Z",
-      "description": "Trending GitHub Repository",
+      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "url": "https://github.com/nftechie/stonkfly",
+      "published_at": "2026-09-10T02:40:30Z",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 564,
-      "user": "ArasTey"
+      "stars": 585,
+      "user": "nftechie"
     },
     {
-      "title": "How do I build a parallel job runner in Python?",
-      "url": "https://stackoverflow.com/questions/80002861/how-do-i-build-a-parallel-job-runner-in-python",
-      "published_at": "2026-09-13T22:55:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "title": "How to reinstall the 'py' launcher on Windows?",
+      "url": "https://stackoverflow.com/questions/80002904/how-to-reinstall-the-py-launcher-on-windows",
+      "published_at": "2026-09-14T06:12:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "python"
+        "python",
+        "python-install",
+        "pylauncher"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "louisville hacker"
+      "user": "JadenV15"
+    },
+    {
+      "title": "How to configure a python installation in Python Install Manager?",
+      "url": "https://stackoverflow.com/questions/80002873/how-to-configure-a-python-installation-in-python-install-manager",
+      "published_at": "2026-09-14T02:01:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "windows",
+        "python-install",
+        "pylauncher"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "How do threading scripts work when Tkinter is involved?",
+      "url": "https://stackoverflow.com/questions/80002870/how-do-threading-scripts-work-when-tkinter-is-involved",
+      "published_at": "2026-09-14T01:45:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "multithreading",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jody Barrett"
     },
     {
       "title": "How to use isinstance on functools.cache cached classes?",
@@ -1904,19 +1962,6 @@
       "user": "Bussller"
     },
     {
-      "title": "How to finish for loop that counts attempt on user input and then use the sum function to add all of the 5 nums from user input?",
-      "url": "https://stackoverflow.com/questions/80002637/how-to-finish-for-loop-that-counts-attempt-on-user-input-and-then-use-the-sum-fu",
-      "published_at": "2026-09-12T15:04:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "for-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luke Reyes"
-    },
-    {
       "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
       "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
       "published_at": "2026-09-11T10:13:38.000Z",
@@ -1933,6 +1978,20 @@
       "user": "kainat khattak"
     },
     {
+      "title": "PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__'",
+      "url": "https://stackoverflow.com/questions/80001996/pycharm-type-hint-warning-member-none-of-any-none-does-not-have-attribute",
+      "published_at": "2026-09-09T21:12:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "pycharm",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "Type hint a default return type used unless more specific overload exists",
       "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
       "published_at": "2026-09-07T14:58:51.000Z",
@@ -1944,32 +2003,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "schtandard"
-    },
-    {
-      "title": "Is yml easier then python?",
-      "url": "https://stackoverflow.com/questions/79933770/is-yml-easier-then-python",
-      "published_at": "2026-04-29T16:25:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "yaml"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mag bit"
-    },
-    {
-      "title": "How do I add altitude lines to a SkewT chart?",
-      "url": "https://stackoverflow.com/questions/79940788/how-do-i-add-altitude-lines-to-a-skewt-chart",
-      "published_at": "2026-05-13T21:05:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "metpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gratefulfrog"
     },
     {
       "title": "How to get user choice from tkinter file open dialog",
@@ -2313,7 +2346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 598,
       "user": "truanayangi-com"
     },
     {
@@ -2795,7 +2828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 598,
       "user": "truanayangi-com"
     }
   ],
@@ -3164,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 631,
       "user": "rizqinrr"
     },
     {
@@ -3179,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 589,
       "user": "mizzlelover"
     },
     {
@@ -3194,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 296,
       "user": "nhovongoc0-max"
     },
     {
@@ -3224,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 224,
       "user": "viettranx"
     },
     {
@@ -3239,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1605,
+      "stars": 1631,
       "user": "Edge0-AI"
     },
     {
@@ -3254,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 820,
       "user": "gazijarin"
     },
     {
@@ -3269,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 740,
       "user": "SpaceDudem"
     },
     {
@@ -3284,23 +3317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 724,
       "user": "Colafornia"
     },
     {
-      "title": "ArasTey/lunel - GitHub Repository",
-      "url": "https://github.com/ArasTey/lunel",
-      "published_at": "2026-09-09T06:58:25Z",
-      "description": "Trending GitHub Repository",
+      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "url": "https://github.com/nftechie/stonkfly",
+      "published_at": "2026-09-10T02:40:30Z",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 564,
-      "user": "ArasTey"
+      "stars": 585,
+      "user": "nftechie"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3314,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 485,
       "user": "unstablebuild"
     },
     {
@@ -3329,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "VaderChen"
     },
     {
@@ -3344,8 +3377,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 187,
       "user": "x4gpanell"
+    },
+    {
+      "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
+      "published_at": "2026-09-12T05:13:46Z",
+      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "linguo2625469"
     },
     {
       "title": "AlexAntonik/nix-graph - Interactive TUI viewer for Nix dependency graphs",
@@ -3363,21 +3411,6 @@
       "user": "AlexAntonik"
     },
     {
-      "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
-      "published_at": "2026-09-12T05:13:46Z",
-      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
-      "source": "GitHub",
-      "stars": 84,
-      "user": "linguo2625469"
-    },
-    {
       "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
       "url": "https://github.com/Vincentwei1021/anything2explainer",
       "published_at": "2026-09-08T17:19:54Z",
@@ -3389,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1216,
       "user": "Vincentwei1021"
     },
     {
@@ -3404,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 598,
       "user": "truanayangi-com"
     },
     {
@@ -3419,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 274,
       "user": "zhihui-hu"
     },
     {
@@ -3464,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 325,
       "user": "deepseek-ai"
     },
     {
@@ -3479,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 155,
       "user": "ViceVerse-cz"
     },
     {
@@ -3494,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275886436?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 88,
       "user": "Abomination81"
     },
     {
@@ -3509,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58398564?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 77,
       "user": "maximpri"
     },
     {
@@ -3524,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29352759?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 77,
       "user": "suversal"
     },
     {
@@ -3542,16 +3575,17 @@
       "user": "easrng"
     },
     {
-      "title": "From Git to Fossil (2025)",
-      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-      "published_at": "2026-09-13T02:51:19.345-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
+      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
+      "published_at": "2026-09-13T13:50:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
-        "vcs"
+        "best-practices",
+        "javascript"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "heavyrain266"
+      "source": "StackOverflow",
+      "user": "Andy"
     },
     {
       "title": "Compiling and parsing After Effects JavaScript code",
@@ -3567,19 +3601,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mohamad Hasan Salmaaniyaan"
-    },
-    {
-      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
-      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
-      "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "best-practices",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Andy"
     },
     {
       "title": "How to use isinstance on functools.cache cached classes?",
