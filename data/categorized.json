@@ -91,6 +91,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "My Agents Never Get Tired. I Do: On Satisficing",
+      "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
+      "published_at": "2026-09-11T03:49:55Z",
+      "description": "I approved a prompt on a Tuesday morning and went to make a cup of Irish Afternoon tea. By the time I...",
+      "tags": [
+        "ai",
+        "buildinpublic",
+        "agents",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsweg9vst1vzhw8jmfb0.png",
+      "source": "Dev.to",
+      "user": "Earl Grey"
+    },
+    {
       "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
       "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
       "published_at": "2026-09-11T06:58:39Z",
@@ -136,6 +151,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
+      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
+      "published_at": "2026-09-11T23:07:27Z",
+      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
       "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
       "published_at": "2026-09-11T13:20:27Z",
@@ -163,21 +193,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuc75v5ty3hnp04jrkryj.png",
       "source": "Dev.to",
       "user": "James Anderson"
-    },
-    {
-      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
-      "published_at": "2026-09-11T23:07:27Z",
-      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
@@ -311,6 +326,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Elevating Antigravity agent skills, Part 2: Image generation",
+      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
+      "published_at": "2026-09-01T16:51:26Z",
+      "description": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
+      "source": "Dev.to",
+      "user": "James O'Reilly"
+    },
+    {
+      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
+      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
+      "published_at": "2026-09-07T15:57:07Z",
+      "description": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
+      "tags": [
+        "ai",
+        "python",
+        "security",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
+      "source": "Dev.to",
+      "user": "Alister Baroi"
     },
     {
       "title": "Coding agents got boring the moment we built a really good one.",
@@ -463,6 +507,21 @@
       "user": "Nicolas Fränkel"
     },
     {
+      "title": "I gave an agent my posting history. It found a promise I never made.",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/i-gave-an-agent-my-posting-history-it-found-a-promise-i-never-made-4n62",
+      "published_at": "2026-09-08T07:10:41Z",
+      "description": "Every social platform rewards the same thing, and it isn't a secret: showing up regularly. The hard...",
+      "tags": [
+        "ai",
+        "agents",
+        "writing",
+        "socialmedia"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fpublora-team%2Fassets%2Fmain%2Fdevto%2F2026-09-08-agent-wrong-about-me.png",
+      "source": "Dev.to",
+      "user": "Eugeniya Ivanova"
+    },
+    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -506,81 +565,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxnd7iq7dc3kzby7m3qz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
-    },
-    {
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
-      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
-      "published_at": "2026-09-06T16:51:54Z",
-      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Interactive AI Eval Dashboards with Data Studio",
-      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
-      "published_at": "2026-09-08T07:00:00Z",
-      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
-      "tags": [
-        "ai",
-        "datascience",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
-      "title": "BoonFest: The Anti-Sloth Game Where Generosity Means Survival!",
-      "url": "https://dev.to/fm/boonfest-the-anti-sloth-game-where-generosity-means-survival-3pg8",
-      "published_at": "2026-09-07T06:37:45Z",
-      "description": "This is a submission for Weekend Challenge: Generosity Edition           What I Built   I built...",
-      "tags": [
-        "devchallenge",
-        "weekendchallenge",
-        "ai",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1dh5m64pd4de5q7yzfbv.png",
-      "source": "Dev.to",
-      "user": "Fayaz"
-    },
-    {
-      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
-      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
-      "published_at": "2026-09-04T18:29:02Z",
-      "description": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, Horizon and OneLake — comparing what each catalog declares it supports against what it actually serves.",
-      "tags": [
-        "iceberg",
-        "lakehouse",
-        "dataengineering",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -751,19 +735,19 @@
       "user": "caseyf7"
     },
     {
-      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-      "url": "https://github.com/yudaprasetya007/routeVSCODE",
-      "published_at": "2026-09-10T01:25:00Z",
-      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "yudaprasetya007"
+      "stars": 252,
+      "user": "Qiuner"
     },
     {
       "title": "Edge0-AI/Edge0 - GitHub Repository",
@@ -777,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1695,
       "user": "Edge0-AI"
     },
     {
@@ -792,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 746,
       "user": "SpaceDudem"
     },
     {
@@ -807,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 732,
       "user": "Colafornia"
     },
     {
@@ -822,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 227,
       "user": "VaderChen"
     },
     {
@@ -837,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 148,
       "user": "linguo2625469"
     },
     {
@@ -852,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1309,
       "user": "Vincentwei1021"
     },
     {
@@ -867,8 +851,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 331,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "published_at": "2026-09-12T18:20:00Z",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "agentverse-os"
+    },
+    {
+      "title": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "published_at": "2026-09-14T11:53:14.313-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "rrampage"
     },
     {
       "title": "The case against JPEG XL",
@@ -883,136 +894,119 @@
       "user": "gianni"
     },
     {
-      "title": "ImportError: cannot import name 'GradientBaseModelLLM' from 'llama_index.llms'",
-      "url": "https://stackoverflow.com/questions/80002769/importerror-cannot-import-name-gradientbasemodelllm-from-llama-index-llms",
-      "published_at": "2026-09-13T13:03:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How can you not be romantic about UNIX domain sockets?",
+      "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+      "published_at": "2026-09-14T11:27:12.300-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "python",
-        "llama",
-        "llama-index"
+        "c",
+        "unix"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bussller"
+      "source": "Lobste.rs",
+      "user": "polywolf"
     },
     {
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "published_at": "2026-09-14T13:55:00.000Z",
-      "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "published_at": "2026-09-14T18:14:29.000Z",
+      "description": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
       "tags": [
-        "Startups",
+        "Apps",
+        "Media & Entertainment",
+        "Amazon",
+        "prime video"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Volkswagen&#8217;s crazy-efficient EV borrows an idea from Slate",
+      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "published_at": "2026-09-14T17:41:20.000Z",
+      "description": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "tags": [
+        "Transportation",
+        "electric vehicles",
+        "EVs",
+        "volkswagen"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "With iOS 27, I&#8217;m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "published_at": "2026-09-14T17:10:30.000Z",
+      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "tags": [
         "AI",
         "Apps",
-        "Music",
-        "Spotify"
+        "Apple",
+        "Apple Intelligence",
+        "iOS"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
     },
     {
-      "title": "Insight Partners&#8217; Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "published_at": "2026-09-13T21:30:00.000Z",
-      "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "published_at": "2026-09-14T17:10:09.000Z",
+      "description": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
       "tags": [
-        "TC",
-        "Venture",
-        "Deven Parekh",
-        "Insight Partners",
-        "StrictlyVC"
+        "Apps",
+        "Gadgets",
+        "Apple",
+        "macbook",
+        "macos"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Connie Loizos"
+      "user": "Ivan Mehta"
     },
     {
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "published_at": "2026-09-13T20:49:38.000Z",
-      "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "tags": [
-        "Fundraising",
-        "In Brief",
-        "Larry Ellison",
-        "oracle"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "published_at": "2026-09-13T20:28:00.000Z",
-      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "deep tech",
-        "Y Combinator",
-        "YC Demo Day"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin, Dominic-Madori Davis"
-    },
-    {
-      "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "published_at": "2026-09-13T19:40:15.000Z",
-      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "published_at": "2026-09-14T17:00:00.000Z",
+      "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
       "tags": [
         "AI",
-        "Anthropic",
-        "Equity podcast",
-        "OpenAI"
+        "Apps",
+        "Commerce",
+        "Apple Intelligence",
+        "siri"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Lauren Forristal"
     },
     {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "published_at": "2026-09-13T16:30:00.000Z",
-      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "title": "Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "published_at": "2026-09-14T16:27:53.000Z",
+      "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "Barack Obama",
-        "Donald Trump"
+        "Microsoft",
+        "Anthropic"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Russell Brandom"
     },
     {
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "published_at": "2026-09-13T16:04:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "Transportation",
-        "Ford",
-        "Lyft",
-        "Waymo",
-        "robotaxis"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "published_at": "2026-09-12T23:25:38.000Z",
-      "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "title": "Sources say Automattic&#8217;s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+      "published_at": "2026-09-14T15:34:31.000Z",
+      "description": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
       "tags": [
         "Media & Entertainment",
         "Automattic",
+        "Exclusive",
         "matt mullenweg",
         "WordPress"
       ],
@@ -1021,19 +1015,19 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "published_at": "2026-09-12T20:19:16.000Z",
-      "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "published_at": "2026-09-14T15:00:00.000Z",
+      "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
       "tags": [
         "AI",
-        "Fundraising",
-        "OpenAI",
-        "sam altman"
+        "Startups",
+        "Venture",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "TechCrunch Events"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -1206,19 +1200,19 @@
       "user": "Jem"
     },
     {
-      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
-      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
-      "published_at": "2026-09-03T17:31:52Z",
-      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
+      "published_at": "2026-09-03T15:24:18Z",
+      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
       "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
+        "discuss",
+        "aws",
+        "beginners",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1352,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 643,
       "user": "rizqinrr"
     },
     {
@@ -1367,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 601,
       "user": "mizzlelover"
     },
     {
@@ -1382,23 +1376,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 333,
       "user": "nhovongoc0-max"
     },
     {
-      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-      "url": "https://github.com/yudaprasetya007/routeVSCODE",
-      "published_at": "2026-09-10T01:25:00Z",
-      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "yudaprasetya007"
+      "stars": 252,
+      "user": "Qiuner"
     },
     {
       "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
@@ -1412,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 249,
       "user": "viettranx"
     },
     {
@@ -1427,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1309,
       "user": "Vincentwei1021"
     },
     {
@@ -1442,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "truanayangi-com"
     },
     {
@@ -1457,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "zhihui-hu"
     },
     {
@@ -1491,24 +1485,10 @@
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
-      "title": "what if my git host were a static site generator?",
-      "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-      "published_at": "2026-09-13T11:10:06.327-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript",
-        "vcs",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "easrng"
-    },
-    {
       "title": "jQuery only targets hard coded element IDs not ones in arrays",
       "url": "https://stackoverflow.com/questions/80003001/jquery-only-targets-hard-coded-element-ids-not-ones-in-arrays",
       "published_at": "2026-09-14T13:42:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -1537,7 +1517,7 @@
       "title": "Is there any legitimate use case for JavaScript encodeURI()?",
       "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
       "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "best-practices",
         "javascript"
@@ -1585,20 +1565,6 @@
       "user": "Thorfinn"
     },
     {
-      "title": "Laravel optional route parameter not reaching the function when Axios sends an empty value",
-      "url": "https://stackoverflow.com/questions/80001710/laravel-optional-route-parameter-not-reaching-the-function-when-axios-sends-an-e",
-      "published_at": "2026-09-08T16:37:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "jquery",
-        "laravel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shadir Amjard"
-    },
-    {
       "title": "string() function doesn't work in document.evaluate",
       "url": "https://stackoverflow.com/questions/80001644/string-function-doesnt-work-in-document-evaluate",
       "published_at": "2026-09-08T11:55:26.000Z",
@@ -1625,6 +1591,19 @@
       "user": "Olical"
     },
     {
+      "title": "Is JavaScript's \"new\" keyword considered harmful?",
+      "url": "https://stackoverflow.com/questions/383402/is-javascripts-new-keyword-considered-harmful",
+      "published_at": "2008-12-20T15:20:07.000Z",
+      "description": "Stack Overflow question · 13 answers · score 597",
+      "tags": [
+        "best-practices",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pablo Fernandez"
+    },
+    {
       "title": "Why is adding custom properties to native objects a bad practice?",
       "url": "https://stackoverflow.com/questions/14034180/why-is-adding-custom-properties-to-native-objects-a-bad-practice",
       "published_at": "2012-12-25T21:39:55.000Z",
@@ -1637,22 +1616,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "buschtoens"
-    },
-    {
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "published_at": "2026-09-13T20:28:00.000Z",
-      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "deep tech",
-        "Y Combinator",
-        "YC Demo Day"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin, Dominic-Madori Davis"
     }
   ],
   "Python": [
@@ -1745,6 +1708,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fklhc7kkq2althrawzb4l.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
+      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
+      "published_at": "2026-09-07T15:57:07Z",
+      "description": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
+      "tags": [
+        "ai",
+        "python",
+        "security",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
+      "source": "Dev.to",
+      "user": "Alister Baroi"
     },
     {
       "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
@@ -1893,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1695,
       "user": "Edge0-AI"
     },
     {
@@ -1908,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 841,
       "user": "gazijarin"
     },
     {
@@ -1923,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 746,
       "user": "SpaceDudem"
     },
     {
@@ -1938,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 732,
       "user": "Colafornia"
     },
     {
@@ -1953,8 +1931,119 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 659,
       "user": "ArasTey"
+    },
+    {
+      "title": "What does annotating a variable do in Python?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-python",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oxidation"
+    },
+    {
+      "title": "Python curve_fit with multiple independent variables in integral function",
+      "url": "https://stackoverflow.com/questions/80003081/python-curve-fit-with-multiple-independent-variables-in-integral-function",
+      "published_at": "2026-09-14T18:58:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "scipy",
+        "curve-fitting",
+        "integral",
+        "quad"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "deerok"
+    },
+    {
+      "title": "When and how should __all__ be defined?",
+      "url": "https://stackoverflow.com/questions/80003039/when-and-how-should-all-be-defined",
+      "published_at": "2026-09-14T16:19:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "best-practices",
+        "python",
+        "python-import",
+        "python-packaging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "When and why should a class break the UpperCamelCase naming convention?",
+      "url": "https://stackoverflow.com/questions/80003006/when-and-why-should-a-class-break-the-uppercamelcase-naming-convention",
+      "published_at": "2026-09-14T14:07:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "naming-conventions",
+        "pep8"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "What is this square bracket notation in Python class?",
+      "url": "https://stackoverflow.com/questions/80003048/what-is-this-square-bracket-notation-in-python-class",
+      "published_at": "2026-09-14T16:56:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "syntax"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oxidation"
+    },
+    {
+      "title": "Differentiate between a string and an expression",
+      "url": "https://stackoverflow.com/questions/80003030/differentiate-between-a-string-and-an-expression",
+      "published_at": "2026-09-14T15:23:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -11",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "How to use pydicom auto_format config option",
+      "url": "https://stackoverflow.com/questions/80003029/how-to-use-pydicom-auto-format-config-option",
+      "published_at": "2026-09-14T15:21:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pydicom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "malat"
+    },
+    {
+      "title": "NiceGui Upload CSV Error 'UploadEventArguments' object has no attribute 'content'",
+      "url": "https://stackoverflow.com/questions/80003017/nicegui-upload-csv-error-uploadeventarguments-object-has-no-attribute-content",
+      "published_at": "2026-09-14T14:41:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "csv",
+        "markdown",
+        "nicegui"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AstraRegina"
     },
     {
       "title": "How to reinstall the 'py' launcher on Windows?",
@@ -1974,7 +2063,7 @@
       "title": "How to configure a python installation in Python Install Manager?",
       "url": "https://stackoverflow.com/questions/80002873/how-to-configure-a-python-installation-in-python-install-manager",
       "published_at": "2026-09-14T02:01:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "windows",
@@ -1984,119 +2073,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "How do threading scripts work when Tkinter is involved?",
-      "url": "https://stackoverflow.com/questions/80002870/how-do-threading-scripts-work-when-tkinter-is-involved",
-      "published_at": "2026-09-14T01:45:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "multithreading",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jody Barrett"
-    },
-    {
-      "title": "How to use isinstance on functools.cache cached classes?",
-      "url": "https://stackoverflow.com/questions/80002840/how-to-use-isinstance-on-functools-cache-cached-classes",
-      "published_at": "2026-09-13T20:15:20.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "singleton",
-        "memoization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dorian Turba"
-    },
-    {
-      "title": "ImportError: cannot import name 'GradientBaseModelLLM' from 'llama_index.llms'",
-      "url": "https://stackoverflow.com/questions/80002769/importerror-cannot-import-name-gradientbasemodelllm-from-llama-index-llms",
-      "published_at": "2026-09-13T13:03:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "llama",
-        "llama-index"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bussller"
-    },
-    {
-      "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
-      "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
-      "published_at": "2026-09-11T10:13:38.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "python",
-        "windows",
-        "shell",
-        "subprocess",
-        "cross-platform"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kainat khattak"
-    },
-    {
-      "title": "Power BI Python Visualization erroring out when it shouldn't",
-      "url": "https://stackoverflow.com/questions/80002222/power-bi-python-visualization-erroring-out-when-it-shouldnt",
-      "published_at": "2026-09-10T17:37:25.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe",
-        "powerbi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adalast"
-    },
-    {
-      "title": "PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__'",
-      "url": "https://stackoverflow.com/questions/80001996/pycharm-type-hint-warning-member-none-of-any-none-does-not-have-attribute",
-      "published_at": "2026-09-09T21:12:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "pycharm",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Type hint a default return type used unless more specific overload exists",
-      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
-      "published_at": "2026-09-07T14:58:51.000Z",
-      "description": "Stack Overflow question · 3 answers · score 9",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "schtandard"
-    },
-    {
-      "title": "Getting the name of a variable as a string",
-      "url": "https://stackoverflow.com/questions/18425225/getting-the-name-of-a-variable-as-a-string",
-      "published_at": "2013-08-25T02:58:26.000Z",
-      "description": "Stack Overflow question · 40 answers · score 479",
-      "tags": [
-        "python",
-        "variables"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Amelio Vazquez-Reina"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2457,14 +2433,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "truanayangi-com"
     },
     {
       "title": "jQuery only targets hard coded element IDs not ones in arrays",
       "url": "https://stackoverflow.com/questions/80003001/jquery-only-targets-hard-coded-element-ids-not-ones-in-arrays",
       "published_at": "2026-09-14T13:42:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -2523,6 +2499,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
+      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8",
+      "published_at": "2026-08-30T01:27:54Z",
+      "description": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and Riverpod now operate as first-class bidirectional peers at the Grand Central State Terminal.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Dealing with sensitive permissions on Android",
       "url": "https://dev.to/tkuenneth/dealing-with-sensitive-permissions-on-android-3icg",
       "published_at": "2026-09-05T09:22:30Z",
@@ -2537,78 +2528,36 @@
       "user": "Thomas Künneth"
     },
     {
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
-      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
-      "published_at": "2026-09-06T16:51:54Z",
-      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
+      "title": "With iOS 27, I&#8217;m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "published_at": "2026-09-14T17:10:30.000Z",
+      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
       "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
-      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-why-3-lines-of-async-missed-the-point-and-how-blocsignal-fixes-it-3n48",
-      "published_at": "2026-09-03T12:47:27Z",
-      "description": "Explore why using async* generators for infinite scroll pagination in Flutter hides subtle concurrency crashes, and discover how BlocSignal solves rapid scrolling race conditions streamlessly with droppable().",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffldiucu4y8zflai9fwta.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Taming Flutter Infinite Scroll (Part 2): Turning ScrollController into a Reactive State Machine with CubitSignalMixin",
-      "url": "https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh",
-      "published_at": "2026-09-03T17:31:52Z",
-      "description": "Discover how to eliminate Flutter StatefulWidget boilerplate and overcome Dart's single-inheritance wall by combining ScrollController with CubitSignalMixin and BlocSignalMixin for a 100% StatelessWidget UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbas4rzr2bovfxao8z9ju.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Laravel optional route parameter not reaching the function when Axios sends an empty value",
-      "url": "https://stackoverflow.com/questions/80001710/laravel-optional-route-parameter-not-reaching-the-function-when-axios-sends-an-e",
-      "published_at": "2026-09-08T16:37:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "jquery",
-        "laravel"
+        "AI",
+        "Apps",
+        "Apple",
+        "Apple Intelligence",
+        "iOS"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shadir Amjard"
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "published_at": "2026-09-14T17:00:00.000Z",
+      "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "Apple Intelligence",
+        "siri"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "How to Implement LEGO Architecture in Flutter [Full Handbook]",
@@ -2777,6 +2726,36 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
+      "published_at": "2026-09-03T15:24:18Z",
+      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
+      "tags": [
+        "discuss",
+        "aws",
+        "beginners",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
+      "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
+      "published_at": "2026-09-06T07:35:05Z",
+      "description": "Turn Google Sheets into a Petabyte Lakehouse with Sub-Second ACID Queries.             ...",
+      "tags": [
+        "googleworkspace",
+        "googlecloud",
+        "bigquery",
+        "apacheiceberg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq3o7rjtqj3wecjfjtxe8.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -2897,36 +2876,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Seven Iceberg REST Catalogs: What They Declare, and What They Serve",
-      "url": "https://dev.to/gde/seven-iceberg-rest-catalogs-what-they-declare-and-what-they-serve-40oj",
-      "published_at": "2026-09-04T18:29:02Z",
-      "description": "One request suite against seven Apache Iceberg REST catalog implementations — Polaris, BigLake, Glue, S3 Tables, Unity, Horizon and OneLake — comparing what each catalog declares it supports against what it actually serves.",
-      "tags": [
-        "iceberg",
-        "lakehouse",
-        "dataengineering",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-rest-catalog-conformance%2Fcover.99b538a5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
-      "url": "https://dev.to/gde/beyond-clean-architecture-the-iceberg-pattern-for-real-time-flutter-apps-with-blocsignal-3l84",
-      "published_at": "2026-09-05T02:42:20Z",
-      "description": "Discover why Uncle Bob's Clean Architecture breaks down in real-time cloud apps, and learn how the Iceberg Pattern pairs synchronous signals with screen facades for 0ms optimistic UI.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4i6mxtkrt5wxppm1yed4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "truanayangi-com/truanayangi - Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
       "url": "https://github.com/truanayangi-com/truanayangi",
       "published_at": "2026-09-08T08:50:53Z",
@@ -2938,8 +2887,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "truanayangi-com"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "published_at": "2026-09-12T18:20:00Z",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "agentverse-os"
     }
   ],
   "Database": [
@@ -2973,6 +2937,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
+      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
+      "published_at": "2026-09-07T15:57:07Z",
+      "description": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
+      "tags": [
+        "ai",
+        "python",
+        "security",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
+      "source": "Dev.to",
+      "user": "Alister Baroi"
+    },
     {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
@@ -3136,20 +3115,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "Fusion power startups find new partners in the defense world",
-      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "published_at": "2026-09-13T13:15:00.000Z",
-      "description": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "published_at": "2026-09-14T18:08:43.000Z",
+      "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
       "tags": [
-        "Climate",
-        "Government & Policy",
-        "defense technology",
-        "fusion power",
-        "Pacific Fusion"
+        "Security",
+        "clickfix",
+        "cyberattack",
+        "cybersecurity",
+        "HBO Max"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Tim De Chant"
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
@@ -3275,21 +3254,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "Interactive AI Eval Dashboards with Data Studio",
-      "url": "https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9",
-      "published_at": "2026-09-08T07:00:00Z",
-      "description": "Welcome to the final entry of our series about designing, analyzing and visualizing AI evals! As with...",
-      "tags": [
-        "ai",
-        "datascience",
-        "productivity",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvky4qfwgyco9lgjz2g2k.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3337,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 643,
       "user": "rizqinrr"
     },
     {
@@ -3352,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 601,
       "user": "mizzlelover"
     },
     {
@@ -3367,23 +3331,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 333,
       "user": "nhovongoc0-max"
     },
     {
-      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-      "url": "https://github.com/yudaprasetya007/routeVSCODE",
-      "published_at": "2026-09-10T01:25:00Z",
-      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "yudaprasetya007"
+      "stars": 252,
+      "user": "Qiuner"
     },
     {
       "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
@@ -3397,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 249,
       "user": "viettranx"
     },
     {
@@ -3412,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1695,
       "user": "Edge0-AI"
     },
     {
@@ -3427,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 841,
       "user": "gazijarin"
     },
     {
@@ -3442,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 746,
       "user": "SpaceDudem"
     },
     {
@@ -3457,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 732,
       "user": "Colafornia"
     },
     {
@@ -3472,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 659,
       "user": "ArasTey"
     },
     {
@@ -3487,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 514,
       "user": "unstablebuild"
     },
     {
@@ -3502,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8309425?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 227,
       "user": "VaderChen"
     },
     {
@@ -3517,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 187,
       "user": "x4gpanell"
     },
     {
@@ -3532,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 148,
       "user": "linguo2625469"
     },
     {
@@ -3547,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "AlexAntonik"
     },
     {
@@ -3562,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1283,
+      "stars": 1309,
       "user": "Vincentwei1021"
     },
     {
@@ -3577,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "truanayangi-com"
     },
     {
@@ -3592,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "zhihui-hu"
     },
     {
@@ -3637,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 331,
       "user": "deepseek-ai"
     },
     {
@@ -3652,8 +3616,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 241,
       "user": "ViceVerse-cz"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "published_at": "2026-09-12T18:20:00Z",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
+      "source": "GitHub",
+      "stars": 204,
+      "user": "agentverse-os"
     },
     {
       "title": "Abomination81/copybot - Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
@@ -3667,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275886436?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "Abomination81"
     },
     {
@@ -3684,35 +3663,6 @@
       "source": "GitHub",
       "stars": 87,
       "user": "penberg"
-    },
-    {
-      "title": "maximpri/mlxtop - GitHub Repository",
-      "url": "https://github.com/maximpri/mlxtop",
-      "published_at": "2026-09-11T03:31:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58398564?v=4",
-      "source": "GitHub",
-      "stars": 80,
-      "user": "maximpri"
-    },
-    {
-      "title": "what if my git host were a static site generator?",
-      "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-      "published_at": "2026-09-13T11:10:06.327-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript",
-        "vcs",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "easrng"
     },
     {
       "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
@@ -3746,7 +3696,7 @@
       "title": "Is there any legitimate use case for JavaScript encodeURI()?",
       "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
       "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "best-practices",
         "javascript"
@@ -3756,18 +3706,20 @@
       "user": "Andy"
     },
     {
-      "title": "How to use isinstance on functools.cache cached classes?",
-      "url": "https://stackoverflow.com/questions/80002840/how-to-use-isinstance-on-functools-cache-cached-classes",
-      "published_at": "2026-09-13T20:15:20.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "published_at": "2026-09-14T17:10:09.000Z",
+      "description": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
       "tags": [
-        "python",
-        "singleton",
-        "memoization"
+        "Apps",
+        "Gadgets",
+        "Apple",
+        "macbook",
+        "macos"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dorian Turba"
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
