@@ -63,8 +63,11 @@ jobs:
           git config --global user.name "$GIT_AUTHOR_NAME"
           git config --global user.email "$GIT_AUTHOR_EMAIL"
 
-          # Add all generated files
-          git add README.md data/news_log.md 2>/dev/null || true
+          # Stage every generated file. The script writes README.md,
+          # data/news_log.md, data/stats.json, data/categorized.json and
+          # data/interview_questions.json; staging only some of them leaves
+          # the rest unstaged, which makes the rebase below refuse to run.
+          git add -A
 
           # Check if there are changes
           if git diff --cached --quiet; then
@@ -76,7 +79,7 @@ jobs:
             -m "Co-authored-by: $GIT_AUTHOR_NAME <$GIT_AUTHOR_EMAIL>"
 
           for i in {1..5}; do
-            git pull --rebase origin main
+            git pull --rebase --autostash origin main
 
             if git push origin main; then
               echo "Changes pushed successfully"
