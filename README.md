@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-14 21:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-15 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
 | 20 | [AI Engineering Is Easy. Changing How We Work Is Hard](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4) | Dev.to |
 
-<sub>Last fetched: Mon, 14 Sep 2026 21:26:29 CAT</sub>
+<sub>Last fetched: Tue, 15 Sep 2026 00:40:57 CAT</sub>
 
 
 ---
@@ -122,29 +122,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What are closures and provide a practical example?**
+**1. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Function + lexical environment, data privacy, callbacks
-
-</details>
-
-**2. `Java` — Explain the Java memory model**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**3. `NodeJS` — Explain middleware in Express.js**
+**2. `NodeJS` — Explain middleware in Express.js**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
@@ -152,6 +141,17 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Request/response cycle, next(), chain of functions
+
+</details>
+
+**3. `DataStructures` — Implement a function to reverse a linked list**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Iterative or recursive, three pointers
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 78 | 42.4% | `████████████████████` |
-| **Tools** | 41 | 22.3% | `███████████░░░░░░░░░` |
+| **AI** | 79 | 42.9% | `████████████████████` |
+| **Tools** | 42 | 22.8% | `███████████░░░░░░░░░` |
 | **JavaScript** | 36 | 19.6% | `█████████░░░░░░░░░░░` |
 | **Python** | 35 | 19.0% | `█████████░░░░░░░░░░░` |
 | **Cloud** | 22 | 12.0% | `██████░░░░░░░░░░░░░░` |
-| **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.2%
-JavaScript      █████████████████████████████ 24.5%
-Python          ████████████████████████████ 23.8%
-Java            █████████████████████ 17.7%
-Rust            ██████ 4.8%
+Go              ██████████████████████████████ 25.7%
+JavaScript      ████████████████████████████ 24.3%
+Python          ████████████████████████████ 23.6%
+Java            █████████████████████ 17.6%
+Rust            █████ 4.7%
 Ruby            ██ 1.4%
 Swift           ██ 1.4%
 CSharp          █ 0.7%
@@ -208,7 +208,7 @@ Kotlin          █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 37
+    "Go" : 38
     "JavaScript" : 36
     "Python" : 35
     "Java" : 26
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![mcp](https://img.shields.io/badge/mcp-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![mcp](https://img.shields.io/badge/mcp-6-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 14 Sep 2026 19:26:29 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 14 Sep 2026 22:40:57 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

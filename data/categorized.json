@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 250,
       "user": "Qiuner"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1701,
       "user": "Edge0-AI"
     },
     {
@@ -776,8 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 747,
       "user": "SpaceDudem"
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "published_at": "2026-09-11T18:12:58Z",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
+      "source": "GitHub",
+      "stars": 742,
+      "user": "kruzovic7"
     },
     {
       "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 734,
       "user": "Colafornia"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 152,
       "user": "linguo2625469"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1315,
       "user": "Vincentwei1021"
     },
     {
@@ -866,20 +881,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 259,
       "user": "agentverse-os"
     },
     {
-      "title": "The contagion of fear",
-      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "published_at": "2026-09-14T11:53:14.313-05:00",
+      "title": "How can you not be romantic about UNIX domain sockets?",
+      "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+      "published_at": "2026-09-14T11:27:12.300-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai"
+        "c",
+        "unix"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "rrampage"
+      "user": "polywolf"
     },
     {
       "title": "The case against JPEG XL",
@@ -894,17 +910,50 @@
       "user": "gianni"
     },
     {
-      "title": "How can you not be romantic about UNIX domain sockets?",
-      "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
-      "published_at": "2026-09-14T11:27:12.300-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "published_at": "2026-09-14T21:51:02.000Z",
+      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
       "tags": [
-        "c",
-        "unix"
+        "AI",
+        "TC",
+        "Donald Trump",
+        "Jensen Huang",
+        "nvidia"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "polywolf"
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "published_at": "2026-09-14T20:44:14.000Z",
+      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "In Brief",
+        "Mergers and Acquisitions",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "published_at": "2026-09-14T20:07:37.000Z",
+      "description": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "tags": [
+        "Startups",
+        "In Brief",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Amazon Prime Video takes on TikTok with short-form news clips",
@@ -999,35 +1048,35 @@
       "user": "Russell Brandom"
     },
     {
-      "title": "Sources say Automattic&#8217;s board is out after failed attempt to oust CEO Matt Mullenweg",
-      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-      "published_at": "2026-09-14T15:34:31.000Z",
-      "description": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+      "title": "How to Use Differential Testing During a Legacy Migration",
+      "url": "https://www.freecodecamp.org/news/differential-testing-legacy-migration/",
+      "published_at": "2026-09-14T16:25:50.000Z",
+      "description": "The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the",
       "tags": [
-        "Media & Entertainment",
-        "Automattic",
-        "Exclusive",
-        "matt mullenweg",
-        "WordPress"
+        "legacy code",
+        "Software Testing",
+        "software architecture",
+        "migration",
+        "Artificial Intelligence"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "published_at": "2026-09-14T15:00:00.000Z",
-      "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "title": "How to Design Gifting Features People Actually Use: Evidence from 58 Apps",
+      "url": "https://www.freecodecamp.org/news/how-to-design-gifting-features-people-actually-use-evidence-from-58-apps/",
+      "published_at": "2026-09-14T13:58:38.000Z",
+      "description": "American shoppers spent about $29 billion on gift cards over the 2025 holiday season, and 43 percent of them bought at least one. This put gift cards at the top of what people said they wanted accordi",
       "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "TechCrunch Disrupt"
+        "Design",
+        "UX",
+        "ecommerce",
+        "research"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
+      "source": "freeCodeCamp",
+      "user": "Anamol Rajbhandari"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -1089,38 +1138,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Apple Watch Can Now Estimate Your Health Age, But What's It Actually Measuring?",
-      "url": "https://www.freecodecamp.org/news/apple-watch-health-age-whats-it-actually-measuring/",
-      "published_at": "2026-09-11T15:15:57.000Z",
-      "description": "Your birthday tells you how many years you've been alive. But it doesn't necessarily tell you how your body is aging. Two people can be the same age and still have very different levels of cardiovascu",
-      "tags": [
-        "biological age",
-        "health age",
-        "AI",
-        "Apple",
-        "apple watch"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Shradha Puri"
-    },
-    {
-      "title": "What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent",
-      "url": "https://www.freecodecamp.org/news/what-is-an-agent-harness/",
-      "published_at": "2026-09-11T15:07:18.000Z",
-      "description": "On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa",
-      "tags": [
-        "Artificial Intelligence",
-        "ai agents",
-        "Software Engineering",
-        "Machine Learning",
-        "Developer Tools"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ],
   "JavaScript": [
@@ -1346,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 646,
       "user": "rizqinrr"
     },
     {
@@ -1361,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "mizzlelover"
     },
     {
@@ -1380,21 +1397,6 @@
       "user": "nhovongoc0-max"
     },
     {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "Qiuner"
-    },
-    {
       "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
       "url": "https://github.com/viettranx/3dviz-pro-max",
       "published_at": "2026-09-10T01:42:59Z",
@@ -1406,8 +1408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 257,
       "user": "viettranx"
+    },
+    {
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "Qiuner"
     },
     {
       "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
@@ -1421,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1315,
       "user": "Vincentwei1021"
     },
     {
@@ -1436,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "truanayangi-com"
     },
     {
@@ -1451,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "zhihui-hu"
     },
     {
@@ -1499,6 +1516,19 @@
       "user": "Artyu"
     },
     {
+      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
+      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
+      "published_at": "2026-09-13T13:50:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "best-practices",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Andy"
+    },
+    {
       "title": "Compiling and parsing After Effects JavaScript code",
       "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
       "published_at": "2026-09-13T14:34:55.000Z",
@@ -1514,23 +1544,10 @@
       "user": "Mohamad Hasan Salmaaniyaan"
     },
     {
-      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
-      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
-      "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "best-practices",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Andy"
-    },
-    {
       "title": "Why is my stored data in my TamperMonkey giving unexpected values?",
       "url": "https://stackoverflow.com/questions/80002860/why-is-my-stored-data-in-my-tampermonkey-giving-unexpected-values",
       "published_at": "2026-09-13T22:41:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "tampermonkey"
@@ -1871,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1701,
       "user": "Edge0-AI"
     },
     {
@@ -1886,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 845,
       "user": "gazijarin"
     },
     {
@@ -1901,8 +1918,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 747,
       "user": "SpaceDudem"
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "published_at": "2026-09-11T18:12:58Z",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
+      "source": "GitHub",
+      "stars": 742,
+      "user": "kruzovic7"
     },
     {
       "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
@@ -1916,42 +1948,71 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 734,
       "user": "Colafornia"
     },
     {
-      "title": "ArasTey/lunel - GitHub Repository",
-      "url": "https://github.com/ArasTey/lunel",
-      "published_at": "2026-09-09T06:58:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
-      "source": "GitHub",
-      "stars": 659,
-      "user": "ArasTey"
-    },
-    {
-      "title": "What does annotating a variable do in Python?",
-      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-python",
+      "title": "What does annotating a variable do in the Python REPL?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
       "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "python-typing"
+        "python-typing",
+        "read-eval-print-loop"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Oxidation"
     },
     {
+      "title": "sklearn.learning_curve(n_jobs=-1) crashes with TerminatedWorkerError in Quarto but not Jupyter",
+      "url": "https://stackoverflow.com/questions/80003089/sklearn-learning-curven-jobs-1-crashes-with-terminatedworkererror-in-quarto-b",
+      "published_at": "2026-09-14T19:46:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "multithreading",
+        "scikit-learn",
+        "quarto",
+        "joblib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "M--"
+    },
+    {
+      "title": "When and how should __all__ be defined?",
+      "url": "https://stackoverflow.com/questions/80003039/when-and-how-should-all-be-defined",
+      "published_at": "2026-09-14T16:19:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "best-practices",
+        "python",
+        "python-import",
+        "python-packaging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Differentiate between a string and an expression",
+      "url": "https://stackoverflow.com/questions/80003030/differentiate-between-a-string-and-an-expression",
+      "published_at": "2026-09-14T15:23:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -11",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "Python curve_fit with multiple independent variables in integral function",
       "url": "https://stackoverflow.com/questions/80003081/python-curve-fit-with-multiple-independent-variables-in-integral-function",
       "published_at": "2026-09-14T18:58:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "scipy",
@@ -1962,21 +2023,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "deerok"
-    },
-    {
-      "title": "When and how should __all__ be defined?",
-      "url": "https://stackoverflow.com/questions/80003039/when-and-how-should-all-be-defined",
-      "published_at": "2026-09-14T16:19:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "best-practices",
-        "python",
-        "python-import",
-        "python-packaging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     },
     {
       "title": "When and why should a class break the UpperCamelCase naming convention?",
@@ -2006,18 +2052,6 @@
       "user": "Oxidation"
     },
     {
-      "title": "Differentiate between a string and an expression",
-      "url": "https://stackoverflow.com/questions/80003030/differentiate-between-a-string-and-an-expression",
-      "published_at": "2026-09-14T15:23:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "How to use pydicom auto_format config option",
       "url": "https://stackoverflow.com/questions/80003029/how-to-use-pydicom-auto-format-config-option",
       "published_at": "2026-09-14T15:21:57.000Z",
@@ -2029,6 +2063,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "malat"
+    },
+    {
+      "title": "How do threading scripts work when Tkinter is involved?",
+      "url": "https://stackoverflow.com/questions/80002870/how-do-threading-scripts-work-when-tkinter-is-involved",
+      "published_at": "2026-09-14T01:45:02.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "python",
+        "multithreading",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jody Barrett"
     },
     {
       "title": "NiceGui Upload CSV Error 'UploadEventArguments' object has no attribute 'content'",
@@ -2044,35 +2092,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AstraRegina"
-    },
-    {
-      "title": "How to reinstall the 'py' launcher on Windows?",
-      "url": "https://stackoverflow.com/questions/80002904/how-to-reinstall-the-py-launcher-on-windows",
-      "published_at": "2026-09-14T06:12:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "python-install",
-        "pylauncher"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "How to configure a python installation in Python Install Manager?",
-      "url": "https://stackoverflow.com/questions/80002873/how-to-configure-a-python-installation-in-python-install-manager",
-      "published_at": "2026-09-14T02:01:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "windows",
-        "python-install",
-        "pylauncher"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2346,6 +2365,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
+      "url": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/",
+      "published_at": "2026-09-14T14:58:55.000Z",
+      "description": "Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,",
+      "tags": [
+        "feature flags",
+        "architecture",
+        "best practices",
+        "experimentation"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abisoye Alli-Balogun"
     }
   ],
   "WebDev": [
@@ -2433,7 +2467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "truanayangi-com"
     },
     {
@@ -2558,21 +2592,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "How to Implement LEGO Architecture in Flutter [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-implement-lego-architecture-in-flutter-handbook/",
-      "published_at": "2026-09-11T15:08:19.000Z",
-      "description": "Almost everyone has snapped two LEGO bricks together at some point, even without owning a single set as an adult. You press one brick down onto another, feel it click, and it holds. You likely never o",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "flutter-aware",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Atuoha Anthony"
     }
   ],
   "Cloud": [
@@ -2887,7 +2906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "truanayangi-com"
     },
     {
@@ -2902,7 +2921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 259,
       "user": "agentverse-os"
     }
   ],
@@ -3301,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 646,
       "user": "rizqinrr"
     },
     {
@@ -3316,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "mizzlelover"
     },
     {
@@ -3335,21 +3354,6 @@
       "user": "nhovongoc0-max"
     },
     {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "Qiuner"
-    },
-    {
       "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
       "url": "https://github.com/viettranx/3dviz-pro-max",
       "published_at": "2026-09-10T01:42:59Z",
@@ -3361,8 +3365,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 257,
       "user": "viettranx"
+    },
+    {
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "Qiuner"
     },
     {
       "title": "Edge0-AI/Edge0 - GitHub Repository",
@@ -3376,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1701,
       "user": "Edge0-AI"
     },
     {
@@ -3391,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32211479?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 845,
       "user": "gazijarin"
     },
     {
@@ -3406,8 +3425,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1766943?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 747,
       "user": "SpaceDudem"
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "published_at": "2026-09-11T18:12:58Z",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
+      "source": "GitHub",
+      "stars": 742,
+      "user": "kruzovic7"
     },
     {
       "title": "Colafornia/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
@@ -3421,23 +3455,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13252625?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 734,
       "user": "Colafornia"
-    },
-    {
-      "title": "ArasTey/lunel - GitHub Repository",
-      "url": "https://github.com/ArasTey/lunel",
-      "published_at": "2026-09-09T06:58:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
-      "source": "GitHub",
-      "stars": 659,
-      "user": "ArasTey"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3451,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 522,
       "user": "unstablebuild"
     },
     {
@@ -3496,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 152,
       "user": "linguo2625469"
     },
     {
@@ -3526,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1309,
+      "stars": 1315,
       "user": "Vincentwei1021"
     },
     {
@@ -3541,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326995604?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "truanayangi-com"
     },
     {
@@ -3556,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "zhihui-hu"
     },
     {
@@ -3605,21 +3624,6 @@
       "user": "deepseek-ai"
     },
     {
-      "title": "ViceVerse-cz/Serein - Tiny, Performant & 100% Native client for Discord made in Rust",
-      "url": "https://github.com/ViceVerse-cz/Serein",
-      "published_at": "2026-09-09T20:42:14Z",
-      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
-      "source": "GitHub",
-      "stars": 241,
-      "user": "ViceVerse-cz"
-    },
-    {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
       "url": "https://github.com/agentverse-os/AgentVerse-OS",
       "published_at": "2026-09-12T18:20:00Z",
@@ -3631,8 +3635,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 259,
       "user": "agentverse-os"
+    },
+    {
+      "title": "ViceVerse-cz/Serein - Tiny, Performant & 100% Native client for Discord made in Rust",
+      "url": "https://github.com/ViceVerse-cz/Serein",
+      "published_at": "2026-09-09T20:42:14Z",
+      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
+      "source": "GitHub",
+      "stars": 258,
+      "user": "ViceVerse-cz"
     },
     {
       "title": "Abomination81/copybot - Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
@@ -3678,6 +3697,19 @@
       "user": "hongminhee"
     },
     {
+      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
+      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
+      "published_at": "2026-09-13T13:50:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "best-practices",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Andy"
+    },
+    {
       "title": "Compiling and parsing After Effects JavaScript code",
       "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
       "published_at": "2026-09-13T14:34:55.000Z",
@@ -3691,19 +3723,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mohamad Hasan Salmaaniyaan"
-    },
-    {
-      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
-      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
-      "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "best-practices",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Andy"
     },
     {
       "title": "macOS 27: new Siri takes on AI productivity apps",
@@ -3720,6 +3739,37 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
+    },
+    {
+      "title": "How to Use Differential Testing During a Legacy Migration",
+      "url": "https://www.freecodecamp.org/news/differential-testing-legacy-migration/",
+      "published_at": "2026-09-14T16:25:50.000Z",
+      "description": "The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the",
+      "tags": [
+        "legacy code",
+        "Software Testing",
+        "software architecture",
+        "migration",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
+    },
+    {
+      "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
+      "url": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/",
+      "published_at": "2026-09-14T14:58:55.000Z",
+      "description": "Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,",
+      "tags": [
+        "feature flags",
+        "architecture",
+        "best practices",
+        "experimentation"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abisoye Alli-Balogun"
     },
     {
       "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
@@ -3751,22 +3801,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Jude Otine"
-    },
-    {
-      "title": "What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent",
-      "url": "https://www.freecodecamp.org/news/what-is-an-agent-harness/",
-      "published_at": "2026-09-11T15:07:18.000Z",
-      "description": "On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa",
-      "tags": [
-        "Artificial Intelligence",
-        "ai agents",
-        "Software Engineering",
-        "Machine Learning",
-        "Developer Tools"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ]
 }
