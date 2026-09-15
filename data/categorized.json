@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
-      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
-      "published_at": "2026-09-13T18:25:49Z",
-      "description": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and one server now runs in Claude Code, Codex and Antigravity CLI.",
-      "tags": [
-        "mcp",
-        "python",
-        "gemini",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -76,6 +61,21 @@
       "user": "xbill"
     },
     {
+      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
+      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
+      "published_at": "2026-09-13T18:25:49Z",
+      "description": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and one server now runs in Claude Code, Codex and Antigravity CLI.",
+      "tags": [
+        "mcp",
+        "python",
+        "gemini",
+        "claudecode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
       "published_at": "2026-09-03T06:44:57Z",
@@ -104,21 +104,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsweg9vst1vzhw8jmfb0.png",
       "source": "Dev.to",
       "user": "Earl Grey"
-    },
-    {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
@@ -255,19 +240,19 @@
       "user": "ujja"
     },
     {
-      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
-      "published_at": "2026-09-10T19:23:39Z",
-      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
       "tags": [
-        "ai",
-        "agents",
-        "graphengineering",
-        "adk"
+        "devops",
+        "docker",
+        "go",
+        "cloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
       "source": "Dev.to",
-      "user": "Tilde A. Thurium"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -522,6 +507,21 @@
       "user": "Eugeniya Ivanova"
     },
     {
+      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
+      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
+      "published_at": "2026-09-10T19:23:39Z",
+      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
+      "tags": [
+        "ai",
+        "agents",
+        "graphengineering",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -735,126 +735,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 257,
-      "user": "Qiuner"
-    },
-    {
-      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "published_at": "2026-09-11T18:12:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
-      "source": "GitHub",
-      "stars": 811,
-      "user": "kruzovic7"
-    },
-    {
-      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "url": "https://github.com/nftechie/stonkfly",
-      "published_at": "2026-09-10T02:40:30Z",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
-      "source": "GitHub",
-      "stars": 650,
-      "user": "nftechie"
-    },
-    {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
-      "source": "GitHub",
-      "stars": 398,
-      "user": "yi1108"
-    },
-    {
-      "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
-      "published_at": "2026-09-12T05:13:46Z",
-      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "linguo2625469"
-    },
-    {
-      "title": "NxcoreAI/NxMem - GitHub Repository",
-      "url": "https://github.com/NxcoreAI/NxMem",
-      "published_at": "2026-09-10T12:14:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
-      "source": "GitHub",
-      "stars": 147,
-      "user": "NxcoreAI"
-    },
-    {
-      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
-      "url": "https://github.com/deepseek-ai/deepseek-recipe",
-      "published_at": "2026-09-10T05:36:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 331,
-      "user": "deepseek-ai"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "published_at": "2026-09-12T18:20:00Z",
-      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
-      "source": "GitHub",
-      "stars": 276,
-      "user": "agentverse-os"
-    },
-    {
       "title": "How can you not be romantic about UNIX domain sockets?",
       "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
       "published_at": "2026-09-14T11:27:12.300-05:00",
@@ -878,6 +758,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "gianni"
+    },
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "published_at": "2026-09-15T01:50:48.000Z",
+      "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
@@ -1004,18 +898,20 @@
       "user": "Lauren Forristal"
     },
     {
-      "title": "Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack systems or trick humans",
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "published_at": "2026-09-14T16:27:53.000Z",
-      "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
+      "url": "https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/",
+      "published_at": "2026-09-14T22:23:01.000Z",
+      "description": "Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia",
       "tags": [
-        "AI",
-        "Microsoft",
-        "Anthropic"
+        "Security",
+        "DevSecOps",
+        "Git",
+        "SAST",
+        "software development"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "source": "freeCodeCamp",
+      "user": "Umair Mirza"
     },
     {
       "title": "How to Use Differential Testing During a Legacy Migration",
@@ -1093,21 +989,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Jude Otine"
-    },
-    {
-      "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
-      "url": "https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/",
-      "published_at": "2026-09-11T15:22:46.000Z",
-      "description": "Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w",
-      "tags": [
-        "Security",
-        "Malware",
-        "AI",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "JavaScript": [
@@ -1142,21 +1023,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
       "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
       "published_at": "2026-09-09T12:48:25Z",
@@ -1170,6 +1036,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
@@ -1322,154 +1203,20 @@
       "user": "velmu"
     },
     {
-      "title": "rizqinrr/viserys-agent - GitHub Repository",
-      "url": "https://github.com/rizqinrr/viserys-agent",
-      "published_at": "2026-09-12T16:51:29Z",
-      "description": "Trending GitHub Repository",
+      "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
+      "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
+      "published_at": "2026-09-15T04:52:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
-        "github",
-        "open-source"
+        "angular",
+        "google-chrome",
+        "browser",
+        "microsoft-edge"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "rizqinrr"
-    },
-    {
-      "title": "mizzlelover/gongwen-gbt9704-skill - 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
-      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
-      "published_at": "2026-09-09T10:04:14Z",
-      "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
-      "source": "GitHub",
-      "stars": 604,
-      "user": "mizzlelover"
-    },
-    {
-      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "url": "https://github.com/nhovongoc0-max/meme-radar",
-      "published_at": "2026-09-11T12:14:57Z",
-      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "nhovongoc0-max"
-    },
-    {
-      "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "url": "https://github.com/viettranx/3dviz-pro-max",
-      "published_at": "2026-09-10T01:42:59Z",
-      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "viettranx"
-    },
-    {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 257,
-      "user": "Qiuner"
-    },
-    {
-      "title": "zhihui-hu/one-ip - 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
-      "url": "https://github.com/zhihui-hu/one-ip",
-      "published_at": "2026-09-09T04:38:32Z",
-      "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "zhihui-hu"
-    },
-    {
-      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
-      "published_at": "2026-09-09T11:28:46Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
-      "source": "GitHub",
-      "stars": 253,
-      "user": "xsolla-baku-gametech-hackathon"
-    },
-    {
-      "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-Omzo",
-      "published_at": "2026-09-10T08:08:40Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "xsolla-baku-gametech-hackathon"
-    },
-    {
-      "title": "NxcoreAI/NxMem - GitHub Repository",
-      "url": "https://github.com/NxcoreAI/NxMem",
-      "published_at": "2026-09-10T12:14:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
-      "source": "GitHub",
-      "stars": 147,
-      "user": "NxcoreAI"
-    },
-    {
-      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
-      "url": "https://github.com/agent-launch/agent-launcher",
-      "published_at": "2026-09-10T22:07:14Z",
-      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
-      "source": "GitHub",
-      "stars": 141,
-      "user": "agent-launch"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tutte2k"
     },
     {
       "title": "jQuery only targets hard coded element IDs not ones in arrays",
@@ -1590,19 +1337,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "buschtoens"
-    },
-    {
-      "title": "Remove a value from an array in CoffeeScript",
-      "url": "https://stackoverflow.com/questions/8205710/remove-a-value-from-an-array-in-coffeescript",
-      "published_at": "2011-11-20T23:36:33.000Z",
-      "description": "Stack Overflow question · 8 answers · score 47",
-      "tags": [
-        "javascript",
-        "coffeescript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ajsie"
     }
   ],
   "Python": [
@@ -1847,85 +1581,10 @@
       "user": "arathore"
     },
     {
-      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "published_at": "2026-09-11T18:12:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
-      "source": "GitHub",
-      "stars": 811,
-      "user": "kruzovic7"
-    },
-    {
-      "title": "ArasTey/lunel - GitHub Repository",
-      "url": "https://github.com/ArasTey/lunel",
-      "published_at": "2026-09-09T06:58:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
-      "source": "GitHub",
-      "stars": 662,
-      "user": "ArasTey"
-    },
-    {
-      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "url": "https://github.com/nftechie/stonkfly",
-      "published_at": "2026-09-10T02:40:30Z",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
-      "source": "GitHub",
-      "stars": 650,
-      "user": "nftechie"
-    },
-    {
-      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "url": "https://github.com/kevinzakka/mjbatch",
-      "published_at": "2026-09-10T02:19:02Z",
-      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
-      "source": "GitHub",
-      "stars": 481,
-      "user": "kevinzakka"
-    },
-    {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
-      "source": "GitHub",
-      "stars": 398,
-      "user": "yi1108"
-    },
-    {
       "title": "What does this \",/:\" operator mean in Python?",
       "url": "https://stackoverflow.com/questions/80003122/what-does-this-operator-mean-in-python",
       "published_at": "2026-09-15T00:11:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 6",
       "tags": [
         "python"
       ],
@@ -1934,10 +1593,39 @@
       "user": "aCrYlIc"
     },
     {
+      "title": "How Do Experienced Python Developers Stay Motivated When Learning Gets Frustrating?",
+      "url": "https://stackoverflow.com/questions/80003130/how-do-experienced-python-developers-stay-motivated-when-learning-gets-frustrati",
+      "published_at": "2026-09-15T01:40:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Smart_Stygol"
+    },
+    {
+      "title": "curve_fit() with multiple independent variables in integral function",
+      "url": "https://stackoverflow.com/questions/80003081/curve-fit-with-multiple-independent-variables-in-integral-function",
+      "published_at": "2026-09-14T18:58:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "scipy",
+        "curve-fitting",
+        "integral",
+        "quad"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "deerok"
+    },
+    {
       "title": "What does annotating a variable do in the Python REPL?",
       "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
       "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "python-typing",
@@ -1951,7 +1639,7 @@
       "title": "sklearn.learning_curve(n_jobs=-1) crashes with TerminatedWorkerError in Quarto but not Jupyter",
       "url": "https://stackoverflow.com/questions/80003089/sklearn-learning-curven-jobs-1-crashes-with-terminatedworkererror-in-quarto-b",
       "published_at": "2026-09-14T19:46:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "multithreading",
@@ -1967,7 +1655,7 @@
       "title": "When and how should __all__ be defined?",
       "url": "https://stackoverflow.com/questions/80003039/when-and-how-should-all-be-defined",
       "published_at": "2026-09-14T16:19:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "best-practices",
         "python",
@@ -1977,22 +1665,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "Python curve_fit with multiple independent variables in integral function",
-      "url": "https://stackoverflow.com/questions/80003081/python-curve-fit-with-multiple-independent-variables-in-integral-function",
-      "published_at": "2026-09-14T18:58:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "scipy",
-        "curve-fitting",
-        "integral",
-        "quad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "deerok"
     },
     {
       "title": "When and why should a class break the UpperCamelCase naming convention?",
@@ -2012,7 +1684,7 @@
       "title": "What is this square bracket notation in Python class?",
       "url": "https://stackoverflow.com/questions/80003048/what-is-this-square-bracket-notation-in-python-class",
       "published_at": "2026-09-14T16:56:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "syntax"
@@ -2020,19 +1692,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Oxidation"
-    },
-    {
-      "title": "How to use pydicom auto_format config option",
-      "url": "https://stackoverflow.com/questions/80003029/how-to-use-pydicom-auto-format-config-option",
-      "published_at": "2026-09-14T15:21:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pydicom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "malat"
     },
     {
       "title": "How do threading scripts work when Tkinter is involved?",
@@ -2049,19 +1708,17 @@
       "user": "Jody Barrett"
     },
     {
-      "title": "NiceGui Upload CSV Error 'UploadEventArguments' object has no attribute 'content'",
-      "url": "https://stackoverflow.com/questions/80003017/nicegui-upload-csv-error-uploadeventarguments-object-has-no-attribute-content",
-      "published_at": "2026-09-14T14:41:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How to use pydicom auto_format config option",
+      "url": "https://stackoverflow.com/questions/80003029/how-to-use-pydicom-auto-format-config-option",
+      "published_at": "2026-09-14T15:21:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "csv",
-        "markdown",
-        "nicegui"
+        "pydicom"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "AstraRegina"
+      "user": "malat"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2112,21 +1769,6 @@
       "user": "xbill"
     },
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -2140,6 +1782,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
@@ -2551,21 +2208,6 @@
   ],
   "Cloud": [
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
       "published_at": "2026-09-10T18:31:29Z",
@@ -2669,6 +2311,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-rust%2Fmain%2Fdocs%2Fdevto-cover.8693fe91.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
@@ -2848,21 +2505,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "published_at": "2026-09-12T18:20:00Z",
-      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
-      "source": "GitHub",
-      "stars": 276,
-      "user": "agentverse-os"
     }
   ],
   "Database": [
@@ -3090,6 +2732,22 @@
       "user": "Zack Whittaker"
     },
     {
+      "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
+      "url": "https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/",
+      "published_at": "2026-09-14T22:23:01.000Z",
+      "description": "Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia",
+      "tags": [
+        "Security",
+        "DevSecOps",
+        "Git",
+        "SAST",
+        "software development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Umair Mirza"
+    },
+    {
       "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
       "url": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
       "published_at": "2026-09-11T22:10:33.000Z",
@@ -3104,21 +2762,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Solomon Amos"
-    },
-    {
-      "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
-      "url": "https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/",
-      "published_at": "2026-09-11T15:22:46.000Z",
-      "description": "Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w",
-      "tags": [
-        "Security",
-        "Malware",
-        "AI",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Tools": [
@@ -3249,381 +2892,6 @@
       "user": "pabs3"
     },
     {
-      "title": "rizqinrr/viserys-agent - GitHub Repository",
-      "url": "https://github.com/rizqinrr/viserys-agent",
-      "published_at": "2026-09-12T16:51:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "rizqinrr"
-    },
-    {
-      "title": "mizzlelover/gongwen-gbt9704-skill - 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
-      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
-      "published_at": "2026-09-09T10:04:14Z",
-      "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
-      "source": "GitHub",
-      "stars": 604,
-      "user": "mizzlelover"
-    },
-    {
-      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "url": "https://github.com/nhovongoc0-max/meme-radar",
-      "published_at": "2026-09-11T12:14:57Z",
-      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "nhovongoc0-max"
-    },
-    {
-      "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "url": "https://github.com/viettranx/3dviz-pro-max",
-      "published_at": "2026-09-10T01:42:59Z",
-      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "viettranx"
-    },
-    {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 257,
-      "user": "Qiuner"
-    },
-    {
-      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "published_at": "2026-09-11T18:12:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
-      "source": "GitHub",
-      "stars": 811,
-      "user": "kruzovic7"
-    },
-    {
-      "title": "ArasTey/lunel - GitHub Repository",
-      "url": "https://github.com/ArasTey/lunel",
-      "published_at": "2026-09-09T06:58:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
-      "source": "GitHub",
-      "stars": 662,
-      "user": "ArasTey"
-    },
-    {
-      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "url": "https://github.com/nftechie/stonkfly",
-      "published_at": "2026-09-10T02:40:30Z",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
-      "source": "GitHub",
-      "stars": 650,
-      "user": "nftechie"
-    },
-    {
-      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "url": "https://github.com/kevinzakka/mjbatch",
-      "published_at": "2026-09-10T02:19:02Z",
-      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
-      "source": "GitHub",
-      "stars": 481,
-      "user": "kevinzakka"
-    },
-    {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
-      "source": "GitHub",
-      "stars": 398,
-      "user": "yi1108"
-    },
-    {
-      "title": "unstablebuild/rune - the development environment for pros",
-      "url": "https://github.com/unstablebuild/rune",
-      "published_at": "2026-09-10T10:50:03Z",
-      "description": "the development environment for pros",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "unstablebuild"
-    },
-    {
-      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
-      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
-      "published_at": "2026-09-10T09:34:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
-      "source": "GitHub",
-      "stars": 187,
-      "user": "x4gpanell"
-    },
-    {
-      "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
-      "published_at": "2026-09-12T05:13:46Z",
-      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "linguo2625469"
-    },
-    {
-      "title": "AlexAntonik/nix-graph - Interactive TUI viewer for Nix dependency graphs",
-      "url": "https://github.com/AlexAntonik/nix-graph",
-      "published_at": "2026-09-10T12:38:55Z",
-      "description": "Interactive TUI viewer for Nix dependency graphs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "AlexAntonik"
-    },
-    {
-      "title": "VoidSecSoftwares/voidsyscall - Cross-platform syscall-powered implant & C2 — direct syscalls (Win), raw syscalls (Linux), HTTPS/DNS/ICMP channels. No winapi layer.",
-      "url": "https://github.com/VoidSecSoftwares/voidsyscall",
-      "published_at": "2026-09-10T14:56:14Z",
-      "description": "Cross-platform syscall-powered implant & C2 — direct syscalls (Win), raw syscalls (Linux), HTTPS/DNS/ICMP channels. No winapi layer.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326985314?v=4",
-      "source": "GitHub",
-      "stars": 54,
-      "user": "VoidSecSoftwares"
-    },
-    {
-      "title": "zhihui-hu/one-ip - 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
-      "url": "https://github.com/zhihui-hu/one-ip",
-      "published_at": "2026-09-09T04:38:32Z",
-      "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "zhihui-hu"
-    },
-    {
-      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
-      "published_at": "2026-09-09T11:28:46Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
-      "source": "GitHub",
-      "stars": 253,
-      "user": "xsolla-baku-gametech-hackathon"
-    },
-    {
-      "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-Omzo",
-      "published_at": "2026-09-10T08:08:40Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "xsolla-baku-gametech-hackathon"
-    },
-    {
-      "title": "NxcoreAI/NxMem - GitHub Repository",
-      "url": "https://github.com/NxcoreAI/NxMem",
-      "published_at": "2026-09-10T12:14:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
-      "source": "GitHub",
-      "stars": 147,
-      "user": "NxcoreAI"
-    },
-    {
-      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
-      "url": "https://github.com/agent-launch/agent-launcher",
-      "published_at": "2026-09-10T22:07:14Z",
-      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
-      "source": "GitHub",
-      "stars": 141,
-      "user": "agent-launch"
-    },
-    {
-      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
-      "url": "https://github.com/deepseek-ai/deepseek-recipe",
-      "published_at": "2026-09-10T05:36:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 331,
-      "user": "deepseek-ai"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "published_at": "2026-09-12T18:20:00Z",
-      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
-      "source": "GitHub",
-      "stars": 276,
-      "user": "agentverse-os"
-    },
-    {
-      "title": "ViceVerse-cz/Serein - Tiny, Performant & 100% Native client for Discord made in Rust",
-      "url": "https://github.com/ViceVerse-cz/Serein",
-      "published_at": "2026-09-09T20:42:14Z",
-      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
-      "source": "GitHub",
-      "stars": 266,
-      "user": "ViceVerse-cz"
-    },
-    {
-      "title": "Abomination81/copybot - Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
-      "url": "https://github.com/Abomination81/copybot",
-      "published_at": "2026-09-12T06:30:47Z",
-      "description": "Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275886436?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "Abomination81"
-    },
-    {
-      "title": "penberg/titania - Project Titania is a complete large language model system, from transformer to transistor, simple enough for one person to understand.",
-      "url": "https://github.com/penberg/titania",
-      "published_at": "2026-09-10T17:58:03Z",
-      "description": "Project Titania is a complete large language model system, from transformer to transistor, simple enough for one person to understand.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/81939?v=4",
-      "source": "GitHub",
-      "stars": 87,
-      "user": "penberg"
-    },
-    {
       "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
       "url": "https://codeberg.org/mergiraf/mergiraf",
       "published_at": "2026-09-14T06:16:14.338-05:00",
@@ -3679,6 +2947,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
+    },
+    {
+      "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
+      "url": "https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/",
+      "published_at": "2026-09-14T22:23:01.000Z",
+      "description": "Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia",
+      "tags": [
+        "Security",
+        "DevSecOps",
+        "Git",
+        "SAST",
+        "software development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Umair Mirza"
     },
     {
       "title": "How to Use Differential Testing During a Legacy Migration",
