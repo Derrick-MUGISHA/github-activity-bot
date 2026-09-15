@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Harness engineering doesn't mean building your own harness",
+      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk",
+      "published_at": "2026-09-15T01:04:48Z",
+      "description": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw1f6tqns0aa4y46ct40.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -91,21 +106,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "My Agents Never Get Tired. I Do: On Satisficing",
-      "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
-      "published_at": "2026-09-11T03:49:55Z",
-      "description": "I approved a prompt on a Tuesday morning and went to make a cup of Irish Afternoon tea. By the time I...",
-      "tags": [
-        "ai",
-        "buildinpublic",
-        "agents",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsweg9vst1vzhw8jmfb0.png",
-      "source": "Dev.to",
-      "user": "Earl Grey"
-    },
-    {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
       "published_at": "2026-09-10T18:31:29Z",
@@ -136,6 +136,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "published_at": "2026-09-09T12:48:25Z",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "tags": [
+        "typescript",
+        "algorithms",
+        "opensource",
+        "dsa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
+    },
+    {
       "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
       "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
       "published_at": "2026-09-11T23:07:27Z",
@@ -151,21 +166,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
       "published_at": "2026-09-01T05:53:57Z",
@@ -178,21 +178,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuc75v5ty3hnp04jrkryj.png",
       "source": "Dev.to",
       "user": "James Anderson"
-    },
-    {
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
-      "published_at": "2026-09-09T12:48:25Z",
-      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
-      "tags": [
-        "typescript",
-        "algorithms",
-        "opensource",
-        "dsa"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
-      "source": "Dev.to",
-      "user": "nyaomaru"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -268,6 +253,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
+    },
+    {
+      "title": "My Agents Never Get Tired. I Do: On Satisficing",
+      "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
+      "published_at": "2026-09-11T03:49:55Z",
+      "description": "I approved a prompt on a Tuesday morning and went to make a cup of Irish Afternoon tea. By the time I...",
+      "tags": [
+        "ai",
+        "buildinpublic",
+        "agents",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsweg9vst1vzhw8jmfb0.png",
+      "source": "Dev.to",
+      "user": "Earl Grey"
     },
     {
       "title": "What Do You Do While AI Codes?",
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 282,
       "user": "Qiuner"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 815,
       "user": "kruzovic7"
     },
     {
@@ -791,23 +791,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 674,
       "user": "nftechie"
-    },
-    {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
-      "source": "GitHub",
-      "stars": 455,
-      "user": "yi1108"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 222,
       "user": "linguo2625469"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 166,
       "user": "NxcoreAI"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 530,
       "user": "agentverse-os"
     },
     {
@@ -883,166 +868,159 @@
       "user": "polywolf"
     },
     {
-      "title": "A Letter from a Machine Learning Engineer",
-      "url": "https://nemin.hu/llm-letter/index.html",
-      "published_at": "2026-09-14T12:58:22.527-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
+      "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
+      "published_at": "2026-09-15T12:19:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
-        "ai"
+        "javascript",
+        "async-await",
+        "promise"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "nemin"
+      "source": "StackOverflow",
+      "user": "Jayesh Gondaliya"
     },
     {
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl",
-      "published_at": "2026-09-13T20:18:11.130-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "compsci"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gianni"
-    },
-    {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "published_at": "2026-09-15T01:50:48.000Z",
-      "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "published_at": "2026-09-15T15:22:48.000Z",
+      "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
       "tags": [
         "AI",
-        "Hardware",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "published_at": "2026-09-14T21:51:02.000Z",
-      "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Donald Trump",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "published_at": "2026-09-14T20:44:14.000Z",
-      "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "In Brief",
-        "Mergers and Acquisitions",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
-      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "published_at": "2026-09-14T20:07:37.000Z",
-      "description": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
-      "tags": [
-        "Startups",
-        "In Brief",
-        "nvidia"
+        "Commerce",
+        "Fundraising",
+        "generative engine optimization"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
     },
     {
-      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-      "published_at": "2026-09-14T18:14:29.000Z",
-      "description": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "published_at": "2026-09-15T14:42:37.000Z",
+      "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "tags": [
+        "AI",
+        "Apps",
+        "camera app",
+        "Khosla Ventures",
+        "TikTok"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-15T14:30:00.000Z",
+      "description": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
+      "tags": [
+        "TC",
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+      "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "published_at": "2026-09-15T14:22:49.000Z",
+      "description": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
+      "tags": [
+        "Fintech",
+        "Government & Policy",
+        "NPCI",
+        "unified payments interface",
+        "UPI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Evvy raises $40M as it seeks to further women&#8217;s health research with vaginal microbiome data",
+      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "published_at": "2026-09-15T14:13:59.000Z",
+      "description": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+      "tags": [
+        "Biotech & Health",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "Evvy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-15T14:00:00.000Z",
+      "description": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "published_at": "2026-09-15T13:00:00.000Z",
+      "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "ai agent"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Spotify finally lets parents exclude kids&#8217; music from Wrapped and recommendations",
+      "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
+      "published_at": "2026-09-15T13:00:00.000Z",
+      "description": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
       "tags": [
         "Apps",
         "Media & Entertainment",
-        "Amazon",
-        "prime video"
+        "kids",
+        "Music",
+        "Spotify"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "Volkswagen&#8217;s crazy-efficient EV borrows an idea from Slate",
-      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-      "published_at": "2026-09-14T17:41:20.000Z",
-      "description": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "title": "New Italian unicorn Exein rides the physical AI wave",
+      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+      "published_at": "2026-09-15T12:19:38.000Z",
+      "description": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
       "tags": [
-        "Transportation",
-        "electric vehicles",
-        "EVs",
-        "volkswagen"
+        "Fundraising",
+        "Security",
+        "Startups",
+        "cybersecurity",
+        "Exein"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "With iOS 27, I&#8217;m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "published_at": "2026-09-14T17:10:30.000Z",
-      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Apple",
-        "Apple Intelligence",
-        "iOS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "published_at": "2026-09-14T17:10:09.000Z",
-      "description": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
-      "tags": [
-        "Apps",
-        "Gadgets",
-        "Apple",
-        "macbook",
-        "macos"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "published_at": "2026-09-14T17:00:00.000Z",
-      "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Commerce",
-        "Apple Intelligence",
-        "siri"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "user": "Anna Heim"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
@@ -1361,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "rizqinrr"
     },
     {
@@ -1376,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 626,
       "user": "mizzlelover"
     },
     {
@@ -1391,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 388,
       "user": "viettranx"
     },
     {
@@ -1406,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "nhovongoc0-max"
     },
     {
@@ -1421,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 282,
       "user": "Qiuner"
     },
     {
@@ -1436,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 388,
       "user": "zhihui-hu"
     },
     {
@@ -1481,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 166,
       "user": "NxcoreAI"
     },
     {
@@ -1496,14 +1474,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 164,
       "user": "agent-launch"
+    },
+    {
+      "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
+      "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
+      "published_at": "2026-09-15T12:19:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "async-await",
+        "promise"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jayesh Gondaliya"
     },
     {
       "title": "Generating Series of Date Values in an Interactive Grid",
       "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
       "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1519,7 +1511,7 @@
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
       "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
       "published_at": "2026-09-15T04:52:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "angular",
@@ -1562,7 +1554,7 @@
       "title": "Compiling and parsing After Effects JavaScript code",
       "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
       "published_at": "2026-09-13T14:34:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -1597,19 +1589,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kijupo"
-    },
-    {
-      "title": "The React state returns null when console logging",
-      "url": "https://stackoverflow.com/questions/80002766/the-react-state-returns-null-when-console-logging",
-      "published_at": "2026-09-13T12:48:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thorfinn"
     },
     {
       "title": "Check if a variable is a string in JavaScript",
@@ -1666,21 +1645,6 @@
         "claudecode"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1891,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 815,
       "user": "kruzovic7"
     },
     {
@@ -1906,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 684,
       "user": "ArasTey"
     },
     {
@@ -1921,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 674,
       "user": "nftechie"
     },
     {
@@ -1936,23 +1900,52 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 493,
       "user": "kevinzakka"
     },
     {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "published_at": "2026-09-14T06:55:59Z",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 455,
-      "user": "yi1108"
+      "stars": 475,
+      "user": "nilbuild"
+    },
+    {
+      "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
+      "url": "https://stackoverflow.com/questions/80003283/how-to-compute-a-gradient-column-wise-in-a-pandas-dataframe-using-the-index-as-a",
+      "published_at": "2026-09-15T14:56:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "numpy",
+        "gradient"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Petra"
+    },
+    {
+      "title": "Preserving whitespace during lxml serialization",
+      "url": "https://stackoverflow.com/questions/80003272/preserving-whitespace-during-lxml-serialization",
+      "published_at": "2026-09-15T13:37:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "serialization",
+        "lxml"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RichSpie"
     },
     {
       "title": "Error when trying to loop through and display SQLite table within HTML page",
@@ -2000,7 +1993,7 @@
       "title": "Why doesn't Python use a simpler, implied enum syntax?",
       "url": "https://stackoverflow.com/questions/80003161/why-doesnt-python-use-a-simpler-implied-enum-syntax",
       "published_at": "2026-09-15T06:26:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "enums"
@@ -2010,10 +2003,24 @@
       "user": "antialiased"
     },
     {
+      "title": "What does annotating a variable do in the Python REPL?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 7",
+      "tags": [
+        "python",
+        "python-typing",
+        "read-eval-print-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oxidation"
+    },
+    {
       "title": "Stadia.AlidadeSatellite Not working in folium interactive map",
       "url": "https://stackoverflow.com/questions/80003157/stadia-alidadesatellite-not-working-in-folium-interactive-map",
       "published_at": "2026-09-15T06:04:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "folium"
@@ -2026,7 +2033,7 @@
       "title": "What does this \",/:\" operator mean in Python?",
       "url": "https://stackoverflow.com/questions/80003122/what-does-this-operator-mean-in-python",
       "published_at": "2026-09-15T00:11:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score 4",
+      "description": "Stack Overflow question · 0 answers · score 5",
       "tags": [
         "python"
       ],
@@ -2038,7 +2045,7 @@
       "title": "sklearn.learning_curve(n_jobs=-1) crashes with TerminatedWorkerError in Quarto but not Jupyter",
       "url": "https://stackoverflow.com/questions/80003089/sklearn-learning-curven-jobs-1-crashes-with-terminatedworkererror-in-quarto-b",
       "published_at": "2026-09-14T19:46:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "multithreading",
@@ -2049,51 +2056,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "M--"
-    },
-    {
-      "title": "curve_fit() with multiple independent variables in integral function",
-      "url": "https://stackoverflow.com/questions/80003081/curve-fit-with-multiple-independent-variables-in-integral-function",
-      "published_at": "2026-09-14T18:58:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "scipy",
-        "curve-fitting",
-        "integral",
-        "quad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "deerok"
-    },
-    {
-      "title": "What does annotating a variable do in the Python REPL?",
-      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
-      "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 4",
-      "tags": [
-        "python",
-        "python-typing",
-        "read-eval-print-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oxidation"
-    },
-    {
-      "title": "When and how should __all__ be defined?",
-      "url": "https://stackoverflow.com/questions/80003039/when-and-how-should-all-be-defined",
-      "published_at": "2026-09-14T16:19:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "best-practices",
-        "python",
-        "python-import",
-        "python-packaging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2386,21 +2348,6 @@
   ],
   "WebDev": [
     {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
       "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
       "published_at": "2026-09-09T12:48:25Z",
@@ -2458,10 +2405,23 @@
       "user": "velmu"
     },
     {
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "published_at": "2026-09-15T04:12:31.945-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "css",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
+    },
+    {
       "title": "Generating Series of Date Values in an Interactive Grid",
       "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
       "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2594,38 +2554,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "With iOS 27, I&#8217;m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "published_at": "2026-09-14T17:10:30.000Z",
-      "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Apple",
-        "Apple Intelligence",
-        "iOS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "published_at": "2026-09-14T17:00:00.000Z",
-      "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Commerce",
-        "Apple Intelligence",
-        "siri"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     }
   ],
   "Cloud": [
@@ -2658,21 +2586,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2925,7 +2838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 530,
       "user": "agentverse-os"
     }
   ],
@@ -2946,7 +2859,7 @@
       "title": "Generating Series of Date Values in an Interactive Grid",
       "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
       "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -3170,20 +3083,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-      "published_at": "2026-09-14T18:08:43.000Z",
-      "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "title": "New Italian unicorn Exein rides the physical AI wave",
+      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+      "published_at": "2026-09-15T12:19:38.000Z",
+      "description": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
       "tags": [
+        "Fundraising",
         "Security",
-        "clickfix",
-        "cyberattack",
+        "Startups",
         "cybersecurity",
-        "HBO Max"
+        "Exein"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Anna Heim"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
@@ -3357,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "rizqinrr"
     },
     {
@@ -3372,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 626,
       "user": "mizzlelover"
     },
     {
@@ -3387,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 388,
       "user": "viettranx"
     },
     {
@@ -3402,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "nhovongoc0-max"
     },
     {
@@ -3417,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 282,
       "user": "Qiuner"
     },
     {
@@ -3432,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 815,
       "user": "kruzovic7"
     },
     {
@@ -3447,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 684,
       "user": "ArasTey"
     },
     {
@@ -3462,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 674,
       "user": "nftechie"
     },
     {
@@ -3477,23 +3390,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 493,
       "user": "kevinzakka"
     },
     {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "published_at": "2026-09-14T06:55:59Z",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 455,
-      "user": "yi1108"
+      "stars": 475,
+      "user": "nilbuild"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3507,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 580,
       "user": "unstablebuild"
     },
     {
@@ -3522,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 222,
       "user": "linguo2625469"
     },
     {
@@ -3582,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 388,
       "user": "zhihui-hu"
     },
     {
@@ -3627,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 166,
       "user": "NxcoreAI"
     },
     {
@@ -3642,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 164,
       "user": "agent-launch"
     },
     {
@@ -3657,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 530,
       "user": "agentverse-os"
     },
     {
@@ -3687,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 333,
       "user": "ViceVerse-cz"
     },
     {
@@ -3702,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275886436?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "Abomination81"
     },
     {
@@ -3717,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81939?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 92,
       "user": "penberg"
     },
     {
@@ -3737,7 +3650,7 @@
       "title": "Compiling and parsing After Effects JavaScript code",
       "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
       "published_at": "2026-09-13T14:34:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -3749,20 +3662,20 @@
       "user": "Mohamad Hasan Salmaaniyaan"
     },
     {
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "published_at": "2026-09-14T17:10:09.000Z",
-      "description": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
+      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+      "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "published_at": "2026-09-15T14:22:49.000Z",
+      "description": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
       "tags": [
-        "Apps",
-        "Gadgets",
-        "Apple",
-        "macbook",
-        "macos"
+        "Fintech",
+        "Government & Policy",
+        "NPCI",
+        "unified payments interface",
+        "UPI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
