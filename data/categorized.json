@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
-      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
-      "published_at": "2026-09-11T01:51:14Z",
-      "description": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between containers and BuildContext unlocks cleaner, faster reactive apps.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Harness engineering doesn't mean building your own harness",
       "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk",
       "published_at": "2026-09-15T01:04:48Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw1f6tqns0aa4y46ct40.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+      "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
+      "published_at": "2026-09-11T01:51:14Z",
+      "description": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between containers and BuildContext unlocks cleaner, faster reactive apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "Qiuner"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 688,
       "user": "nftechie"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 235,
       "user": "linguo2625469"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 176,
       "user": "NxcoreAI"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 575,
       "user": "agentverse-os"
     },
     {
@@ -855,17 +855,16 @@
       "user": "deepseek-ai"
     },
     {
-      "title": "How can you not be romantic about UNIX domain sockets?",
-      "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
-      "published_at": "2026-09-14T11:27:12.300-05:00",
+      "title": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "published_at": "2026-09-15T12:09:13.731-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "c",
-        "unix"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "polywolf"
+      "user": "lobo"
     },
     {
       "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
@@ -882,10 +881,39 @@
       "user": "Jayesh Gondaliya"
     },
     {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "published_at": "2026-09-15T21:47:38.000Z",
+      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "tags": [
+        "Climate",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "published_at": "2026-09-15T20:12:53.000Z",
+      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "tags": [
+        "AI",
+        "Social",
+        "mcp",
+        "Meta",
+        "WhatsApp"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
       "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "published_at": "2026-09-15T19:00:00.000Z",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "tags": [
         "AI",
         "evergreens",
@@ -939,37 +967,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Nitter and XCancel are dead (again) after X&#8217;s latest legal actions",
-      "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-      "published_at": "2026-09-15T15:49:18.000Z",
-      "description": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Twitter",
-        "X"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "published_at": "2026-09-15T15:47:03.000Z",
-      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Anthropic",
-        "dario amodei",
-        "Demis Hassabis"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1031,37 +1028,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Anamol Rajbhandari"
-    },
-    {
-      "title": "How to Prevent Race Conditions in Django",
-      "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
-      "published_at": "2026-09-11T21:50:46.000Z",
-      "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
-      "tags": [
-        "Django",
-        "PostgreSQL",
-        "backend",
-        "race-condition",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mari"
-    },
-    {
-      "title": "How to Build an AI Chat App Interface With the Vercel AI SDK and Shadcn/ui",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-chat-app-interface-with-the-ai-sdk/",
-      "published_at": "2026-09-11T16:21:29.000Z",
-      "description": "Every other AI product you open today has the same screen: a message list, a text box at the bottom, and words that stream in one token at a time. It looks simple, but it's not simple to build well. Y",
-      "tags": [
-        "shadcn ui",
-        "vercel ai sdk",
-        "shadcn ai chat app",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vaibhav Gupta"
     }
   ],
   "JavaScript": [
@@ -1287,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 629,
       "user": "mizzlelover"
     },
     {
@@ -1302,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "viettranx"
     },
     {
@@ -1332,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "Qiuner"
     },
     {
@@ -1347,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 411,
       "user": "zhihui-hu"
     },
     {
@@ -1392,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 176,
       "user": "NxcoreAI"
     },
     {
@@ -1407,8 +1373,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 175,
       "user": "agent-launch"
+    },
+    {
+      "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
+      "url": "https://stackoverflow.com/questions/80003350/how-do-i-do-the-vx-rightkey-leftkey-movespeed",
+      "published_at": "2026-09-15T20:49:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VIXSIN"
+    },
+    {
+      "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
+      "url": "https://stackoverflow.com/questions/80003348/how-do-i-change-the-hitbox-of-a-png-jpg-to-match-what-is-and-isnt-transparent",
+      "published_at": "2026-09-15T20:46:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "png"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "saturn"
     },
     {
       "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
@@ -1425,22 +1417,6 @@
       "user": "Jayesh Gondaliya"
     },
     {
-      "title": "Generating Series of Date Values in an Interactive Grid",
-      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
-      "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "oracle-database",
-        "oracle-apex",
-        "interactive-grid"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhavin Adhvaryu"
-    },
-    {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
       "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
       "published_at": "2026-09-15T04:52:42.000Z",
@@ -1455,6 +1431,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tutte2k"
+    },
+    {
+      "title": "Generating Series of Date Values in an Interactive Grid",
+      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
+      "published_at": "2026-09-15T11:07:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "oracle-database",
+        "oracle-apex",
+        "interactive-grid"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhavin Adhvaryu"
     },
     {
       "title": "jQuery only targets hard coded element IDs not ones in arrays",
@@ -1522,33 +1514,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kijupo"
-    },
-    {
-      "title": "Add joint limits in matterjs",
-      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
-      "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "matter.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wadskays26"
-    },
-    {
-      "title": "Understanding cookie session in React Router",
-      "url": "https://stackoverflow.com/questions/79999005/understanding-cookie-session-in-react-router",
-      "published_at": "2026-08-28T16:01:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-router"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
     }
   ],
   "Python": [
@@ -1804,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 691,
       "user": "ArasTey"
     },
     {
@@ -1819,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 688,
       "user": "nftechie"
     },
     {
@@ -1834,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 523,
       "user": "nilbuild"
     },
     {
@@ -1882,20 +1847,17 @@
       "user": "RichSpie"
     },
     {
-      "title": "Error when trying to loop through and display SQLite table within HTML page",
-      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
-      "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Stadia.AlidadeSatellite Not working in folium interactive map",
+      "url": "https://stackoverflow.com/questions/80003157/stadia-alidadesatellite-not-working-in-folium-interactive-map",
+      "published_at": "2026-09-15T06:04:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
-        "html",
-        "flask",
-        "sqlalchemy",
-        "flask-sqlalchemy"
+        "folium"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "gh0st_dancing"
+      "user": "TXpy890"
     },
     {
       "title": "What does annotating a variable do in the Python REPL?",
@@ -1912,18 +1874,20 @@
       "user": "Oxidation"
     },
     {
-      "title": "How to realize which version of Selenium to use for each Chrome version?",
-      "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version",
-      "published_at": "2026-09-15T09:48:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "published_at": "2026-09-15T10:28:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "google-chrome",
-        "selenium-webdriver"
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Soroush Kalantari"
+      "user": "gh0st_dancing"
     },
     {
       "title": "Are imports to the __future__ module cached?",
@@ -1941,7 +1905,7 @@
       "title": "Why doesn't Python use a simpler, implied enum syntax?",
       "url": "https://stackoverflow.com/questions/80003161/why-doesnt-python-use-a-simpler-implied-enum-syntax",
       "published_at": "2026-09-15T06:26:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python",
         "enums"
@@ -1951,17 +1915,18 @@
       "user": "antialiased"
     },
     {
-      "title": "Stadia.AlidadeSatellite Not working in folium interactive map",
-      "url": "https://stackoverflow.com/questions/80003157/stadia-alidadesatellite-not-working-in-folium-interactive-map",
-      "published_at": "2026-09-15T06:04:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How to realize which version of Selenium to use for each Chrome version?",
+      "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version",
+      "published_at": "2026-09-15T09:48:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
-        "folium"
+        "google-chrome",
+        "selenium-webdriver"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "TXpy890"
+      "user": "Soroush Kalantari"
     },
     {
       "title": "What does this \",/:\" operator mean in Python?",
@@ -1990,22 +1955,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "deerok"
-    },
-    {
-      "title": "How to Prevent Race Conditions in Django",
-      "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
-      "published_at": "2026-09-11T21:50:46.000Z",
-      "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
-      "tags": [
-        "Django",
-        "PostgreSQL",
-        "backend",
-        "race-condition",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mari"
     }
   ],
   "DevOps": [
@@ -2322,6 +2271,20 @@
       "user": "FedericoSchonborn"
     },
     {
+      "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
+      "url": "https://stackoverflow.com/questions/80003348/how-do-i-change-the-hitbox-of-a-png-jpg-to-match-what-is-and-isnt-transparent",
+      "published_at": "2026-09-15T20:46:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "png"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "saturn"
+    },
+    {
       "title": "Generating Series of Date Values in an Interactive Grid",
       "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
       "published_at": "2026-09-15T11:07:47.000Z",
@@ -2366,22 +2329,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
-    },
-    {
-      "title": "How to Prevent Race Conditions in Django",
-      "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
-      "published_at": "2026-09-11T21:50:46.000Z",
-      "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
-      "tags": [
-        "Django",
-        "PostgreSQL",
-        "backend",
-        "race-condition",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mari"
     }
   ],
   "Mobile": [
@@ -2742,7 +2689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 575,
       "user": "agentverse-os"
     }
   ],
@@ -2792,20 +2739,20 @@
       "user": "gh0st_dancing"
     },
     {
-      "title": "How to Prevent Race Conditions in Django",
-      "url": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
-      "published_at": "2026-09-11T21:50:46.000Z",
-      "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
+      "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
+      "url": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
+      "published_at": "2026-09-15T21:03:09.000Z",
+      "description": "A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down \"just f",
       "tags": [
-        "Django",
-        "PostgreSQL",
-        "backend",
-        "race-condition",
-        "Python"
+        "data loss prevention",
+        "Data Protection",
+        "cybersecurity",
+        "CybersecurityAwareness",
+        "sensitive data"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Mari"
+      "user": "Alex Tray"
     }
   ],
   "Security": [
@@ -2987,7 +2934,7 @@
       "user": "ewenjo"
     },
     {
-      "title": "US military confirms it launched space weapons into Earth&#8217;s orbit",
+      "title": "US military says it has launched weapons into space",
       "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
       "published_at": "2026-09-15T17:09:06.000Z",
       "description": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
@@ -3017,6 +2964,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
+      "url": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
+      "published_at": "2026-09-15T21:03:09.000Z",
+      "description": "A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down \"just f",
+      "tags": [
+        "data loss prevention",
+        "Data Protection",
+        "cybersecurity",
+        "CybersecurityAwareness",
+        "sensitive data"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Alex Tray"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
@@ -3205,7 +3168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 629,
       "user": "mizzlelover"
     },
     {
@@ -3220,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "viettranx"
     },
     {
@@ -3250,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "Qiuner"
     },
     {
@@ -3280,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 691,
       "user": "ArasTey"
     },
     {
@@ -3295,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 688,
       "user": "nftechie"
     },
     {
@@ -3310,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 523,
       "user": "nilbuild"
     },
     {
@@ -3340,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 610,
       "user": "unstablebuild"
     },
     {
@@ -3355,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 235,
       "user": "linguo2625469"
     },
     {
@@ -3370,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 188,
       "user": "x4gpanell"
     },
     {
@@ -3415,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 411,
       "user": "zhihui-hu"
     },
     {
@@ -3460,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 176,
       "user": "NxcoreAI"
     },
     {
@@ -3475,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 175,
       "user": "agent-launch"
     },
     {
@@ -3490,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 575,
       "user": "agentverse-os"
     },
     {
@@ -3505,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 352,
       "user": "ViceVerse-cz"
     },
     {
@@ -3550,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81939?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "penberg"
     },
     {
@@ -3580,6 +3543,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mohamad Hasan Salmaaniyaan"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "published_at": "2026-09-15T20:12:53.000Z",
+      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "tags": [
+        "AI",
+        "Social",
+        "mcp",
+        "Meta",
+        "WhatsApp"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Meta expands subscription push with new AI-focused plans",
