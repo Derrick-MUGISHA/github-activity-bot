@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Harness engineering doesn't mean building your own harness",
-      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk",
-      "published_at": "2026-09-15T01:04:48Z",
-      "description": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
-      "tags": [
-        "agents",
-        "ai",
-        "automation",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw1f6tqns0aa4y46ct40.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Harness engineering doesn't mean building your own harness",
+      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk",
+      "published_at": "2026-09-15T01:04:48Z",
+      "description": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw1f6tqns0aa4y46ct40.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 285,
       "user": "Qiuner"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 820,
       "user": "kruzovic7"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 684,
       "user": "nftechie"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 233,
       "user": "linguo2625469"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 171,
       "user": "NxcoreAI"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 560,
       "user": "agentverse-os"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "deepseek-ai"
     },
     {
@@ -882,145 +882,108 @@
       "user": "Jayesh Gondaliya"
     },
     {
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "published_at": "2026-09-15T15:22:48.000Z",
-      "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_at": "2026-09-15T19:00:00.000Z",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
       "tags": [
         "AI",
-        "Commerce",
-        "Fundraising",
-        "generative engine optimization"
+        "evergreens",
+        "Microsoft",
+        "OpenAI",
+        "siri ai"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "user": "Lauren Forristal"
     },
     {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "published_at": "2026-09-15T14:42:37.000Z",
-      "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "published_at": "2026-09-15T18:29:20.000Z",
+      "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "tags": [
+        "AI",
+        "Climate",
+        "data centers",
+        "natural gas"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "published_at": "2026-09-15T17:42:59.000Z",
+      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "tags": [
+        "AI",
+        "agentic ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "published_at": "2026-09-15T17:05:24.000Z",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
       "tags": [
         "AI",
         "Apps",
-        "camera app",
-        "Khosla Ventures",
-        "TikTok"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-15T14:30:00.000Z",
-      "description": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
-      "tags": [
-        "TC",
-        "Startups",
-        "AI",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-      "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-      "published_at": "2026-09-15T14:22:49.000Z",
-      "description": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
-      "tags": [
-        "Fintech",
-        "Government & Policy",
-        "NPCI",
-        "unified payments interface",
-        "UPI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Evvy raises $40M as it seeks to further women&#8217;s health research with vaginal microbiome data",
-      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "published_at": "2026-09-15T14:13:59.000Z",
-      "description": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
-      "tags": [
-        "Biotech & Health",
-        "Fundraising",
-        "Startups",
-        "Venture",
-        "Evvy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-15T14:00:00.000Z",
-      "description": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Fintech",
-        "Fundraising",
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "published_at": "2026-09-15T13:00:00.000Z",
-      "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "ai agent"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Spotify finally lets parents exclude kids&#8217; music from Wrapped and recommendations",
-      "url": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
-      "published_at": "2026-09-15T13:00:00.000Z",
-      "description": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "kids",
-        "Music",
-        "Spotify"
+        "Social",
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "New Italian unicorn Exein rides the physical AI wave",
-      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-      "published_at": "2026-09-15T12:19:38.000Z",
-      "description": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
+      "title": "Nitter and XCancel are dead (again) after X&#8217;s latest legal actions",
+      "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "published_at": "2026-09-15T15:49:18.000Z",
+      "description": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
       "tags": [
-        "Fundraising",
-        "Security",
-        "Startups",
-        "cybersecurity",
-        "Exein"
+        "Apps",
+        "Social",
+        "Twitter",
+        "X"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anna Heim"
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "published_at": "2026-09-15T15:47:03.000Z",
+      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei",
+        "Demis Hassabis"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
+      "url": "https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/",
+      "published_at": "2026-09-15T15:57:39.000Z",
+      "description": "Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows",
+      "tags": [
+        "WebRTC",
+        "distributed system",
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Karan Pratap Singh"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
@@ -1099,21 +1062,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
-      "url": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
-      "published_at": "2026-09-11T15:24:04.000Z",
-      "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "Machine Learning",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jude Otine"
     }
   ],
   "JavaScript": [
@@ -1176,21 +1124,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
-      "published_at": "2026-09-10T18:23:05Z",
-      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
@@ -1354,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 628,
       "user": "mizzlelover"
     },
     {
@@ -1369,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 394,
       "user": "viettranx"
     },
     {
@@ -1399,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 285,
       "user": "Qiuner"
     },
     {
@@ -1414,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 404,
       "user": "zhihui-hu"
     },
     {
@@ -1429,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
@@ -1459,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 171,
       "user": "NxcoreAI"
     },
     {
@@ -1474,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 170,
       "user": "agent-launch"
     },
     {
@@ -1591,30 +1524,31 @@
       "user": "Kijupo"
     },
     {
-      "title": "Check if a variable is a string in JavaScript",
-      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
-      "published_at": "2010-10-30T14:36:34.000Z",
-      "description": "Stack Overflow question · 34 answers · score 2883",
+      "title": "Add joint limits in matterjs",
+      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
+      "published_at": "2026-09-06T09:50:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "string"
+        "matter.js"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Olical"
+      "user": "wadskays26"
     },
     {
-      "title": "Is JavaScript's \"new\" keyword considered harmful?",
-      "url": "https://stackoverflow.com/questions/383402/is-javascripts-new-keyword-considered-harmful",
-      "published_at": "2008-12-20T15:20:07.000Z",
-      "description": "Stack Overflow question · 13 answers · score 597",
+      "title": "Understanding cookie session in React Router",
+      "url": "https://stackoverflow.com/questions/79999005/understanding-cookie-session-in-react-router",
+      "published_at": "2026-08-28T16:01:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "best-practices",
-        "javascript"
+        "javascript",
+        "reactjs",
+        "react-router"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Pablo Fernandez"
+      "user": "Alberto Benedetto"
     }
   ],
   "Python": [
@@ -1855,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 820,
       "user": "kruzovic7"
     },
     {
@@ -1870,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 686,
       "user": "ArasTey"
     },
     {
@@ -1885,23 +1819,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 684,
       "user": "nftechie"
-    },
-    {
-      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "url": "https://github.com/kevinzakka/mjbatch",
-      "published_at": "2026-09-10T02:19:02Z",
-      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
-      "source": "GitHub",
-      "stars": 493,
-      "user": "kevinzakka"
     },
     {
       "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
@@ -1915,14 +1834,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 508,
       "user": "nilbuild"
+    },
+    {
+      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "url": "https://github.com/kevinzakka/mjbatch",
+      "published_at": "2026-09-10T02:19:02Z",
+      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
+      "source": "GitHub",
+      "stars": 497,
+      "user": "kevinzakka"
     },
     {
       "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
       "url": "https://stackoverflow.com/questions/80003283/how-to-compute-a-gradient-column-wise-in-a-pandas-dataframe-using-the-index-as-a",
       "published_at": "2026-09-15T14:56:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "pandas",
@@ -1937,7 +1871,7 @@
       "title": "Preserving whitespace during lxml serialization",
       "url": "https://stackoverflow.com/questions/80003272/preserving-whitespace-during-lxml-serialization",
       "published_at": "2026-09-15T13:37:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "serialization",
@@ -1962,6 +1896,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "What does annotating a variable do in the Python REPL?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 13",
+      "tags": [
+        "python",
+        "python-typing",
+        "read-eval-print-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oxidation"
     },
     {
       "title": "How to realize which version of Selenium to use for each Chrome version?",
@@ -1993,7 +1941,7 @@
       "title": "Why doesn't Python use a simpler, implied enum syntax?",
       "url": "https://stackoverflow.com/questions/80003161/why-doesnt-python-use-a-simpler-implied-enum-syntax",
       "published_at": "2026-09-15T06:26:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "enums"
@@ -2001,20 +1949,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "antialiased"
-    },
-    {
-      "title": "What does annotating a variable do in the Python REPL?",
-      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
-      "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 7",
-      "tags": [
-        "python",
-        "python-typing",
-        "read-eval-print-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oxidation"
     },
     {
       "title": "Stadia.AlidadeSatellite Not working in folium interactive map",
@@ -2042,20 +1976,20 @@
       "user": "aCrYlIc"
     },
     {
-      "title": "sklearn.learning_curve(n_jobs=-1) crashes with TerminatedWorkerError in Quarto but not Jupyter",
-      "url": "https://stackoverflow.com/questions/80003089/sklearn-learning-curven-jobs-1-crashes-with-terminatedworkererror-in-quarto-b",
-      "published_at": "2026-09-14T19:46:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "curve_fit() with multiple independent variables in integral function",
+      "url": "https://stackoverflow.com/questions/80003081/curve-fit-with-multiple-independent-variables-in-integral-function",
+      "published_at": "2026-09-14T18:58:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "multithreading",
-        "scikit-learn",
-        "quarto",
-        "joblib"
+        "scipy",
+        "curve-fitting",
+        "integral",
+        "quad"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "M--"
+      "user": "deerok"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2072,21 +2006,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Mari"
-    },
-    {
-      "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
-      "url": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
-      "published_at": "2026-09-11T15:24:04.000Z",
-      "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "Machine Learning",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jude Otine"
     }
   ],
   "DevOps": [
@@ -2361,21 +2280,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
-    },
-    {
-      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
-      "published_at": "2026-09-10T18:23:05Z",
-      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
@@ -2838,7 +2742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 560,
       "user": "agentverse-os"
     }
   ],
@@ -3083,20 +2987,36 @@
       "user": "ewenjo"
     },
     {
-      "title": "New Italian unicorn Exein rides the physical AI wave",
-      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-      "published_at": "2026-09-15T12:19:38.000Z",
-      "description": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
+      "title": "US military confirms it launched space weapons into Earth&#8217;s orbit",
+      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+      "published_at": "2026-09-15T17:09:06.000Z",
+      "description": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
       "tags": [
-        "Fundraising",
         "Security",
-        "Startups",
-        "cybersecurity",
-        "Exein"
+        "Space",
+        "attack",
+        "In Brief",
+        "space weapon"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anna Heim"
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+      "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "published_at": "2026-09-15T16:00:00.000Z",
+      "description": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach",
+        "hacks"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
@@ -3285,7 +3205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 628,
       "user": "mizzlelover"
     },
     {
@@ -3300,7 +3220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 394,
       "user": "viettranx"
     },
     {
@@ -3330,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 285,
       "user": "Qiuner"
     },
     {
@@ -3345,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 820,
       "user": "kruzovic7"
     },
     {
@@ -3360,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 686,
       "user": "ArasTey"
     },
     {
@@ -3375,23 +3295,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 684,
       "user": "nftechie"
-    },
-    {
-      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "url": "https://github.com/kevinzakka/mjbatch",
-      "published_at": "2026-09-10T02:19:02Z",
-      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
-      "source": "GitHub",
-      "stars": 493,
-      "user": "kevinzakka"
     },
     {
       "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
@@ -3405,8 +3310,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 508,
       "user": "nilbuild"
+    },
+    {
+      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "url": "https://github.com/kevinzakka/mjbatch",
+      "published_at": "2026-09-10T02:19:02Z",
+      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
+      "source": "GitHub",
+      "stars": 497,
+      "user": "kevinzakka"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3420,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 590,
       "user": "unstablebuild"
     },
     {
@@ -3435,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 233,
       "user": "linguo2625469"
     },
     {
@@ -3465,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "AlexAntonik"
     },
     {
@@ -3495,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 404,
       "user": "zhihui-hu"
     },
     {
@@ -3510,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
@@ -3540,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 171,
       "user": "NxcoreAI"
     },
     {
@@ -3555,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 170,
       "user": "agent-launch"
     },
     {
@@ -3570,23 +3490,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 560,
       "user": "agentverse-os"
-    },
-    {
-      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
-      "url": "https://github.com/deepseek-ai/deepseek-recipe",
-      "published_at": "2026-09-10T05:36:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "deepseek-ai"
     },
     {
       "title": "ViceVerse-cz/Serein - Tiny, Performant & 100% Native client for Discord made in Rust",
@@ -3600,8 +3505,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 342,
       "user": "ViceVerse-cz"
+    },
+    {
+      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
+      "url": "https://github.com/deepseek-ai/deepseek-recipe",
+      "published_at": "2026-09-10T05:36:48Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 335,
+      "user": "deepseek-ai"
     },
     {
       "title": "Abomination81/copybot - Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
@@ -3630,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81939?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "penberg"
     },
     {
@@ -3662,20 +3582,19 @@
       "user": "Mohamad Hasan Salmaaniyaan"
     },
     {
-      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-      "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-      "published_at": "2026-09-15T14:22:49.000Z",
-      "description": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "published_at": "2026-09-15T17:05:24.000Z",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
       "tags": [
-        "Fintech",
-        "Government & Policy",
-        "NPCI",
-        "unified payments interface",
-        "UPI"
+        "AI",
+        "Apps",
+        "Social",
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
@@ -3739,21 +3658,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Solomon Amos"
-    },
-    {
-      "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
-      "url": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
-      "published_at": "2026-09-11T15:24:04.000Z",
-      "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "Machine Learning",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jude Otine"
     }
   ]
 }
