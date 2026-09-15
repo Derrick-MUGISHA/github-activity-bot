@@ -567,6 +567,21 @@
       "user": "Athreya aka Maneshwar"
     },
     {
+      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
+      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
+      "published_at": "2026-09-06T16:51:54Z",
+      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -735,6 +750,126 @@
       "user": "caseyf7"
     },
     {
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "Qiuner"
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "published_at": "2026-09-11T18:12:58Z",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
+      "source": "GitHub",
+      "stars": 814,
+      "user": "kruzovic7"
+    },
+    {
+      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "url": "https://github.com/nftechie/stonkfly",
+      "published_at": "2026-09-10T02:40:30Z",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "nftechie"
+    },
+    {
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "source": "GitHub",
+      "stars": 455,
+      "user": "yi1108"
+    },
+    {
+      "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
+      "published_at": "2026-09-12T05:13:46Z",
+      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "linguo2625469"
+    },
+    {
+      "title": "NxcoreAI/NxMem - GitHub Repository",
+      "url": "https://github.com/NxcoreAI/NxMem",
+      "published_at": "2026-09-10T12:14:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "NxcoreAI"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "published_at": "2026-09-12T18:20:00Z",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
+      "source": "GitHub",
+      "stars": 472,
+      "user": "agentverse-os"
+    },
+    {
+      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
+      "url": "https://github.com/deepseek-ai/deepseek-recipe",
+      "published_at": "2026-09-10T05:36:48Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "deepseek-ai"
+    },
+    {
       "title": "How can you not be romantic about UNIX domain sockets?",
       "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
       "published_at": "2026-09-14T11:27:12.300-05:00",
@@ -746,6 +881,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "polywolf"
+    },
+    {
+      "title": "A Letter from a Machine Learning Engineer",
+      "url": "https://nemin.hu/llm-letter/index.html",
+      "published_at": "2026-09-14T12:58:22.527-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nemin"
     },
     {
       "title": "The case against JPEG XL",
@@ -1203,10 +1350,176 @@
       "user": "velmu"
     },
     {
+      "title": "rizqinrr/viserys-agent - GitHub Repository",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "published_at": "2026-09-12T16:51:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
+      "source": "GitHub",
+      "stars": 651,
+      "user": "rizqinrr"
+    },
+    {
+      "title": "mizzlelover/gongwen-gbt9704-skill - 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+      "published_at": "2026-09-09T10:04:14Z",
+      "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
+      "source": "GitHub",
+      "stars": 620,
+      "user": "mizzlelover"
+    },
+    {
+      "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "url": "https://github.com/viettranx/3dviz-pro-max",
+      "published_at": "2026-09-10T01:42:59Z",
+      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
+      "source": "GitHub",
+      "stars": 369,
+      "user": "viettranx"
+    },
+    {
+      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "url": "https://github.com/nhovongoc0-max/meme-radar",
+      "published_at": "2026-09-11T12:14:57Z",
+      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
+      "source": "GitHub",
+      "stars": 340,
+      "user": "nhovongoc0-max"
+    },
+    {
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "Qiuner"
+    },
+    {
+      "title": "zhihui-hu/one-ip - 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
+      "url": "https://github.com/zhihui-hu/one-ip",
+      "published_at": "2026-09-09T04:38:32Z",
+      "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
+      "source": "GitHub",
+      "stars": 362,
+      "user": "zhihui-hu"
+    },
+    {
+      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
+      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
+      "published_at": "2026-09-09T11:28:46Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "xsolla-baku-gametech-hackathon"
+    },
+    {
+      "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
+      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-Omzo",
+      "published_at": "2026-09-10T08:08:40Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "xsolla-baku-gametech-hackathon"
+    },
+    {
+      "title": "NxcoreAI/NxMem - GitHub Repository",
+      "url": "https://github.com/NxcoreAI/NxMem",
+      "published_at": "2026-09-10T12:14:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "NxcoreAI"
+    },
+    {
+      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
+      "url": "https://github.com/agent-launch/agent-launcher",
+      "published_at": "2026-09-10T22:07:14Z",
+      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "agent-launch"
+    },
+    {
+      "title": "Generating Series of Date Values in an Interactive Grid",
+      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
+      "published_at": "2026-09-15T11:07:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "oracle-database",
+        "oracle-apex",
+        "interactive-grid"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhavin Adhvaryu"
+    },
+    {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
       "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
       "published_at": "2026-09-15T04:52:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "angular",
@@ -1323,20 +1636,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pablo Fernandez"
-    },
-    {
-      "title": "Why is adding custom properties to native objects a bad practice?",
-      "url": "https://stackoverflow.com/questions/14034180/why-is-adding-custom-properties-to-native-objects-a-bad-practice",
-      "published_at": "2012-12-25T21:39:55.000Z",
-      "description": "Stack Overflow question · 9 answers · score 184",
-      "tags": [
-        "javascript",
-        "prototype",
-        "prototypal-inheritance"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "buschtoens"
     }
   ],
   "Python": [
@@ -1581,10 +1880,153 @@
       "user": "arathore"
     },
     {
+      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "published_at": "2026-09-11T18:12:58Z",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
+      "source": "GitHub",
+      "stars": 814,
+      "user": "kruzovic7"
+    },
+    {
+      "title": "ArasTey/lunel - GitHub Repository",
+      "url": "https://github.com/ArasTey/lunel",
+      "published_at": "2026-09-09T06:58:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
+      "source": "GitHub",
+      "stars": 678,
+      "user": "ArasTey"
+    },
+    {
+      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "url": "https://github.com/nftechie/stonkfly",
+      "published_at": "2026-09-10T02:40:30Z",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "nftechie"
+    },
+    {
+      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "url": "https://github.com/kevinzakka/mjbatch",
+      "published_at": "2026-09-10T02:19:02Z",
+      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
+      "source": "GitHub",
+      "stars": 491,
+      "user": "kevinzakka"
+    },
+    {
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "source": "GitHub",
+      "stars": 455,
+      "user": "yi1108"
+    },
+    {
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "published_at": "2026-09-15T10:28:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
+    },
+    {
+      "title": "How to realize which version of Selenium to use for each Chrome version?",
+      "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version",
+      "published_at": "2026-09-15T09:48:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "google-chrome",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soroush Kalantari"
+    },
+    {
+      "title": "Are imports to the __future__ module cached?",
+      "url": "https://stackoverflow.com/questions/80003191/are-imports-to-the-future-module-cached",
+      "published_at": "2026-09-15T08:38:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "PeterZ"
+    },
+    {
+      "title": "Why doesn't Python use a simpler, implied enum syntax?",
+      "url": "https://stackoverflow.com/questions/80003161/why-doesnt-python-use-a-simpler-implied-enum-syntax",
+      "published_at": "2026-09-15T06:26:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "enums"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "antialiased"
+    },
+    {
+      "title": "Stadia.AlidadeSatellite Not working in folium interactive map",
+      "url": "https://stackoverflow.com/questions/80003157/stadia-alidadesatellite-not-working-in-folium-interactive-map",
+      "published_at": "2026-09-15T06:04:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "folium"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TXpy890"
+    },
+    {
       "title": "What does this \",/:\" operator mean in Python?",
       "url": "https://stackoverflow.com/questions/80003122/what-does-this-operator-mean-in-python",
       "published_at": "2026-09-15T00:11:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 6",
+      "description": "Stack Overflow question · 0 answers · score 4",
       "tags": [
         "python"
       ],
@@ -1593,23 +2035,26 @@
       "user": "aCrYlIc"
     },
     {
-      "title": "How Do Experienced Python Developers Stay Motivated When Learning Gets Frustrating?",
-      "url": "https://stackoverflow.com/questions/80003130/how-do-experienced-python-developers-stay-motivated-when-learning-gets-frustrati",
-      "published_at": "2026-09-15T01:40:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "sklearn.learning_curve(n_jobs=-1) crashes with TerminatedWorkerError in Quarto but not Jupyter",
+      "url": "https://stackoverflow.com/questions/80003089/sklearn-learning-curven-jobs-1-crashes-with-terminatedworkererror-in-quarto-b",
+      "published_at": "2026-09-14T19:46:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "advice",
-        "python"
+        "python",
+        "multithreading",
+        "scikit-learn",
+        "quarto",
+        "joblib"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Smart_Stygol"
+      "user": "M--"
     },
     {
       "title": "curve_fit() with multiple independent variables in integral function",
       "url": "https://stackoverflow.com/questions/80003081/curve-fit-with-multiple-independent-variables-in-integral-function",
       "published_at": "2026-09-14T18:58:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "scipy",
@@ -1625,7 +2070,7 @@
       "title": "What does annotating a variable do in the Python REPL?",
       "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
       "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 0 answers · score 4",
       "tags": [
         "python",
         "python-typing",
@@ -1636,26 +2081,10 @@
       "user": "Oxidation"
     },
     {
-      "title": "sklearn.learning_curve(n_jobs=-1) crashes with TerminatedWorkerError in Quarto but not Jupyter",
-      "url": "https://stackoverflow.com/questions/80003089/sklearn-learning-curven-jobs-1-crashes-with-terminatedworkererror-in-quarto-b",
-      "published_at": "2026-09-14T19:46:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "scikit-learn",
-        "quarto",
-        "joblib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "M--"
-    },
-    {
       "title": "When and how should __all__ be defined?",
       "url": "https://stackoverflow.com/questions/80003039/when-and-how-should-all-be-defined",
       "published_at": "2026-09-14T16:19:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "best-practices",
         "python",
@@ -1665,60 +2094,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "When and why should a class break the UpperCamelCase naming convention?",
-      "url": "https://stackoverflow.com/questions/80003006/when-and-why-should-a-class-break-the-uppercamelcase-naming-convention",
-      "published_at": "2026-09-14T14:07:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "naming-conventions",
-        "pep8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "What is this square bracket notation in Python class?",
-      "url": "https://stackoverflow.com/questions/80003048/what-is-this-square-bracket-notation-in-python-class",
-      "published_at": "2026-09-14T16:56:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "syntax"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oxidation"
-    },
-    {
-      "title": "How do threading scripts work when Tkinter is involved?",
-      "url": "https://stackoverflow.com/questions/80002870/how-do-threading-scripts-work-when-tkinter-is-involved",
-      "published_at": "2026-09-14T01:45:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "python",
-        "multithreading",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jody Barrett"
-    },
-    {
-      "title": "How to use pydicom auto_format config option",
-      "url": "https://stackoverflow.com/questions/80003029/how-to-use-pydicom-auto-format-config-option",
-      "published_at": "2026-09-14T15:21:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pydicom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "malat"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2083,6 +2458,22 @@
       "user": "velmu"
     },
     {
+      "title": "Generating Series of Date Values in an Interactive Grid",
+      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
+      "published_at": "2026-09-15T11:07:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "oracle-database",
+        "oracle-apex",
+        "interactive-grid"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhavin Adhvaryu"
+    },
+    {
       "title": "jQuery only targets hard coded element IDs not ones in arrays",
       "url": "https://stackoverflow.com/questions/80003001/jquery-only-targets-hard-coded-element-ids-not-ones-in-arrays",
       "published_at": "2026-09-14T13:42:35.000Z",
@@ -2095,6 +2486,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Artyu"
+    },
+    {
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "published_at": "2026-09-15T10:28:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2174,6 +2581,21 @@
       "user": "Thomas Künneth"
     },
     {
+      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
+      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
+      "published_at": "2026-09-06T16:51:54Z",
+      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "With iOS 27, I&#8217;m actually using Siri again",
       "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
       "published_at": "2026-09-14T17:10:30.000Z",
@@ -2221,21 +2643,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console",
-      "url": "https://dev.to/gde/bidirectional-writeback-for-apache-iceberg-via-google-sheets-serverless-lakehouse-console-14ic",
-      "published_at": "2026-09-08T06:41:28Z",
-      "description": "Turn Google Sheets into a Fully Interactive, Differential ACID Mutation Console for Apache Iceberg...",
-      "tags": [
-        "googleworkspace",
-        "googlecloud",
-        "bigquery",
-        "apacheiceberg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F42gvm5cb8zdcmu22zurn.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
@@ -2505,6 +2912,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "published_at": "2026-09-12T18:20:00Z",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
+      "source": "GitHub",
+      "stars": 472,
+      "user": "agentverse-os"
     }
   ],
   "Database": [
@@ -2519,6 +2941,38 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Generating Series of Date Values in an Interactive Grid",
+      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
+      "published_at": "2026-09-15T11:07:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "oracle-database",
+        "oracle-apex",
+        "interactive-grid"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhavin Adhvaryu"
+    },
+    {
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "published_at": "2026-09-15T10:28:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
     },
     {
       "title": "How to Prevent Race Conditions in Django",
@@ -2892,17 +3346,379 @@
       "user": "pabs3"
     },
     {
-      "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
-      "url": "https://codeberg.org/mergiraf/mergiraf",
-      "published_at": "2026-09-14T06:16:14.338-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "rizqinrr/viserys-agent - GitHub Repository",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "published_at": "2026-09-12T16:51:29Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "programming",
-        "vcs"
+        "javascript",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hongminhee"
+      "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
+      "source": "GitHub",
+      "stars": 651,
+      "user": "rizqinrr"
+    },
+    {
+      "title": "mizzlelover/gongwen-gbt9704-skill - 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+      "published_at": "2026-09-09T10:04:14Z",
+      "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
+      "source": "GitHub",
+      "stars": 620,
+      "user": "mizzlelover"
+    },
+    {
+      "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "url": "https://github.com/viettranx/3dviz-pro-max",
+      "published_at": "2026-09-10T01:42:59Z",
+      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
+      "source": "GitHub",
+      "stars": 369,
+      "user": "viettranx"
+    },
+    {
+      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "url": "https://github.com/nhovongoc0-max/meme-radar",
+      "published_at": "2026-09-11T12:14:57Z",
+      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
+      "source": "GitHub",
+      "stars": 340,
+      "user": "nhovongoc0-max"
+    },
+    {
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "Qiuner"
+    },
+    {
+      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "published_at": "2026-09-11T18:12:58Z",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
+      "source": "GitHub",
+      "stars": 814,
+      "user": "kruzovic7"
+    },
+    {
+      "title": "ArasTey/lunel - GitHub Repository",
+      "url": "https://github.com/ArasTey/lunel",
+      "published_at": "2026-09-09T06:58:25Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
+      "source": "GitHub",
+      "stars": 678,
+      "user": "ArasTey"
+    },
+    {
+      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "url": "https://github.com/nftechie/stonkfly",
+      "published_at": "2026-09-10T02:40:30Z",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "nftechie"
+    },
+    {
+      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "url": "https://github.com/kevinzakka/mjbatch",
+      "published_at": "2026-09-10T02:19:02Z",
+      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
+      "source": "GitHub",
+      "stars": 491,
+      "user": "kevinzakka"
+    },
+    {
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "source": "GitHub",
+      "stars": 455,
+      "user": "yi1108"
+    },
+    {
+      "title": "unstablebuild/rune - the development environment for pros",
+      "url": "https://github.com/unstablebuild/rune",
+      "published_at": "2026-09-10T10:50:03Z",
+      "description": "the development environment for pros",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
+      "source": "GitHub",
+      "stars": 557,
+      "user": "unstablebuild"
+    },
+    {
+      "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
+      "published_at": "2026-09-12T05:13:46Z",
+      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "linguo2625469"
+    },
+    {
+      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
+      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
+      "published_at": "2026-09-10T09:34:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
+      "source": "GitHub",
+      "stars": 187,
+      "user": "x4gpanell"
+    },
+    {
+      "title": "AlexAntonik/nix-graph - Interactive TUI viewer for Nix dependency graphs",
+      "url": "https://github.com/AlexAntonik/nix-graph",
+      "published_at": "2026-09-10T12:38:55Z",
+      "description": "Interactive TUI viewer for Nix dependency graphs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
+      "source": "GitHub",
+      "stars": 95,
+      "user": "AlexAntonik"
+    },
+    {
+      "title": "VoidSecSoftwares/voidsyscall - Cross-platform syscall-powered implant & C2 — direct syscalls (Win), raw syscalls (Linux), HTTPS/DNS/ICMP channels. No winapi layer.",
+      "url": "https://github.com/VoidSecSoftwares/voidsyscall",
+      "published_at": "2026-09-10T14:56:14Z",
+      "description": "Cross-platform syscall-powered implant & C2 — direct syscalls (Win), raw syscalls (Linux), HTTPS/DNS/ICMP channels. No winapi layer.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326985314?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "VoidSecSoftwares"
+    },
+    {
+      "title": "zhihui-hu/one-ip - 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
+      "url": "https://github.com/zhihui-hu/one-ip",
+      "published_at": "2026-09-09T04:38:32Z",
+      "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
+      "source": "GitHub",
+      "stars": 362,
+      "user": "zhihui-hu"
+    },
+    {
+      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
+      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
+      "published_at": "2026-09-09T11:28:46Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "xsolla-baku-gametech-hackathon"
+    },
+    {
+      "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
+      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-Omzo",
+      "published_at": "2026-09-10T08:08:40Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "xsolla-baku-gametech-hackathon"
+    },
+    {
+      "title": "NxcoreAI/NxMem - GitHub Repository",
+      "url": "https://github.com/NxcoreAI/NxMem",
+      "published_at": "2026-09-10T12:14:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "NxcoreAI"
+    },
+    {
+      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
+      "url": "https://github.com/agent-launch/agent-launcher",
+      "published_at": "2026-09-10T22:07:14Z",
+      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
+      "source": "GitHub",
+      "stars": 159,
+      "user": "agent-launch"
+    },
+    {
+      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "published_at": "2026-09-12T18:20:00Z",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
+      "source": "GitHub",
+      "stars": 472,
+      "user": "agentverse-os"
+    },
+    {
+      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
+      "url": "https://github.com/deepseek-ai/deepseek-recipe",
+      "published_at": "2026-09-10T05:36:48Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "deepseek-ai"
+    },
+    {
+      "title": "ViceVerse-cz/Serein - Tiny, Performant & 100% Native client for Discord made in Rust",
+      "url": "https://github.com/ViceVerse-cz/Serein",
+      "published_at": "2026-09-09T20:42:14Z",
+      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "ViceVerse-cz"
+    },
+    {
+      "title": "Abomination81/copybot - Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
+      "url": "https://github.com/Abomination81/copybot",
+      "published_at": "2026-09-12T06:30:47Z",
+      "description": "Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275886436?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "Abomination81"
+    },
+    {
+      "title": "penberg/titania - Project Titania is a complete large language model system, from transformer to transistor, simple enough for one person to understand.",
+      "url": "https://github.com/penberg/titania",
+      "published_at": "2026-09-10T17:58:03Z",
+      "description": "Project Titania is a complete large language model system, from transformer to transistor, simple enough for one person to understand.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/81939?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "penberg"
     },
     {
       "title": "Is there any legitimate use case for JavaScript encodeURI()?",
