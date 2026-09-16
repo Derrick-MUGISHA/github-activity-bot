@@ -121,21 +121,6 @@
       "user": "xbill"
     },
     {
-      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
-      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
-      "published_at": "2026-09-08T05:06:23Z",
-      "description": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
-      "tags": [
-        "googleworkspace",
-        "googlecloud",
-        "bigquery",
-        "apacheiceberg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
       "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
       "published_at": "2026-09-09T12:48:25Z",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
+    },
+    {
+      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
+      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
+      "published_at": "2026-09-08T05:06:23Z",
+      "description": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
+      "tags": [
+        "googleworkspace",
+        "googlecloud",
+        "bigquery",
+        "apacheiceberg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
@@ -765,6 +765,21 @@
       "user": "Qiuner"
     },
     {
+      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "published_at": "2026-09-10T01:25:00Z",
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
+      "source": "GitHub",
+      "stars": 239,
+      "user": "yudaprasetya007"
+    },
+    {
       "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "published_at": "2026-09-11T18:12:58Z",
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "kruzovic7"
     },
     {
@@ -791,8 +806,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "nftechie"
+    },
+    {
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "yi1108"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -806,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 240,
       "user": "linguo2625469"
     },
     {
@@ -821,8 +851,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "NxcoreAI"
+    },
+    {
+      "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "url": "https://github.com/FankChen/tracecrate",
+      "published_at": "2026-09-10T09:27:41Z",
+      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "FankChen"
+    },
+    {
+      "title": "danielroe/airspace - The database you already have.",
+      "url": "https://github.com/danielroe/airspace",
+      "published_at": "2026-09-11T07:21:52Z",
+      "description": "The database you already have.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "danielroe"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -836,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 583,
       "user": "agentverse-os"
     },
     {
@@ -879,6 +939,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jayesh Gondaliya"
+    },
+    {
+      "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "published_at": "2026-09-16T00:20:39.000Z",
+      "description": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "tags": [
+        "AI",
+        "TC",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
@@ -1242,21 +1317,6 @@
       "user": "rizqinrr"
     },
     {
-      "title": "mizzlelover/gongwen-gbt9704-skill - 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
-      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
-      "published_at": "2026-09-09T10:04:14Z",
-      "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
-      "source": "GitHub",
-      "stars": 629,
-      "user": "mizzlelover"
-    },
-    {
       "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
       "url": "https://github.com/viettranx/3dviz-pro-max",
       "published_at": "2026-09-10T01:42:59Z",
@@ -1268,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "viettranx"
     },
     {
@@ -1302,34 +1362,19 @@
       "user": "Qiuner"
     },
     {
-      "title": "zhihui-hu/one-ip - 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
-      "url": "https://github.com/zhihui-hu/one-ip",
-      "published_at": "2026-09-09T04:38:32Z",
-      "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
+      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "published_at": "2026-09-10T01:25:00Z",
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
       "source": "GitHub",
-      "stars": 411,
-      "user": "zhihui-hu"
-    },
-    {
-      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
-      "published_at": "2026-09-09T11:28:46Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
-      "source": "GitHub",
-      "stars": 254,
-      "user": "xsolla-baku-gametech-hackathon"
+      "stars": 239,
+      "user": "yudaprasetya007"
     },
     {
       "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
@@ -1358,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "NxcoreAI"
     },
     {
@@ -1373,8 +1418,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 178,
       "user": "agent-launch"
+    },
+    {
+      "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "url": "https://github.com/FankChen/tracecrate",
+      "published_at": "2026-09-10T09:27:41Z",
+      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "FankChen"
+    },
+    {
+      "title": "danielroe/airspace - The database you already have.",
+      "url": "https://github.com/danielroe/airspace",
+      "published_at": "2026-09-11T07:21:52Z",
+      "description": "The database you already have.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "danielroe"
     },
     {
       "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
@@ -1403,20 +1478,6 @@
       "user": "saturn"
     },
     {
-      "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
-      "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
-      "published_at": "2026-09-15T12:19:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "async-await",
-        "promise"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jayesh Gondaliya"
-    },
-    {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
       "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
       "published_at": "2026-09-15T04:52:42.000Z",
@@ -1431,6 +1492,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tutte2k"
+    },
+    {
+      "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
+      "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
+      "published_at": "2026-09-15T12:19:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "async-await",
+        "promise"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jayesh Gondaliya"
     },
     {
       "title": "Generating Series of Date Values in an Interactive Grid",
@@ -1491,19 +1566,6 @@
       "user": "Mohamad Hasan Salmaaniyaan"
     },
     {
-      "title": "Why is my stored data in my TamperMonkey giving unexpected values?",
-      "url": "https://stackoverflow.com/questions/80002860/why-is-my-stored-data-in-my-tampermonkey-giving-unexpected-values",
-      "published_at": "2026-09-13T22:41:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "tampermonkey"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "CharType"
-    },
-    {
       "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
       "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
       "published_at": "2026-09-11T19:35:08.000Z",
@@ -1514,6 +1576,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kijupo"
+    },
+    {
+      "title": "Add joint limits in matterjs",
+      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
+      "published_at": "2026-09-06T09:50:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "matter.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wadskays26"
     }
   ],
   "Python": [
@@ -1754,23 +1829,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "kruzovic7"
-    },
-    {
-      "title": "ArasTey/lunel - GitHub Repository",
-      "url": "https://github.com/ArasTey/lunel",
-      "published_at": "2026-09-09T06:58:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
-      "source": "GitHub",
-      "stars": 691,
-      "user": "ArasTey"
     },
     {
       "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
@@ -1784,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "nftechie"
     },
     {
@@ -1799,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 527,
       "user": "nilbuild"
     },
     {
@@ -1814,8 +1874,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "kevinzakka"
+    },
+    {
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "yi1108"
+    },
+    {
+      "title": "what is wrong with my code and how do I fix it",
+      "url": "https://stackoverflow.com/questions/80003363/what-is-wrong-with-my-code-and-how-do-i-fix-it",
+      "published_at": "2026-09-15T22:45:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "just code it"
     },
     {
       "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
@@ -1939,22 +2026,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aCrYlIc"
-    },
-    {
-      "title": "curve_fit() with multiple independent variables in integral function",
-      "url": "https://stackoverflow.com/questions/80003081/curve-fit-with-multiple-independent-variables-in-integral-function",
-      "published_at": "2026-09-14T18:58:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "scipy",
-        "curve-fitting",
-        "integral",
-        "quad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "deerok"
     }
   ],
   "DevOps": [
@@ -2258,6 +2329,21 @@
       "user": "velmu"
     },
     {
+      "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "url": "https://github.com/FankChen/tracecrate",
+      "published_at": "2026-09-10T09:27:41Z",
+      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "FankChen"
+    },
+    {
       "title": "CSS-Tricks in Limbo",
       "url": "https://vale.rocks/micros/20260915-0135",
       "published_at": "2026-09-15T04:12:31.945-05:00",
@@ -2405,6 +2491,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Swift 6.4 Released",
+      "url": "https://www.swift.org/blog/swift-6.4-released/",
+      "published_at": "2026-09-15T13:55:10.632-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "swift"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kevinc"
     }
   ],
   "Cloud": [
@@ -2689,7 +2787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 583,
       "user": "agentverse-os"
     }
   ],
@@ -2705,6 +2803,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "danielroe/airspace - The database you already have.",
+      "url": "https://github.com/danielroe/airspace",
+      "published_at": "2026-09-11T07:21:52Z",
+      "description": "The database you already have.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "danielroe"
     },
     {
       "title": "Generating Series of Date Values in an Interactive Grid",
@@ -2950,22 +3063,6 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-      "url": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "published_at": "2026-09-15T16:00:00.000Z",
-      "description": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "hacks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
       "url": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
       "published_at": "2026-09-15T21:03:09.000Z",
@@ -3157,21 +3254,6 @@
       "user": "rizqinrr"
     },
     {
-      "title": "mizzlelover/gongwen-gbt9704-skill - 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
-      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
-      "published_at": "2026-09-09T10:04:14Z",
-      "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220598337?v=4",
-      "source": "GitHub",
-      "stars": 629,
-      "user": "mizzlelover"
-    },
-    {
       "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
       "url": "https://github.com/viettranx/3dviz-pro-max",
       "published_at": "2026-09-10T01:42:59Z",
@@ -3183,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "viettranx"
     },
     {
@@ -3217,6 +3299,21 @@
       "user": "Qiuner"
     },
     {
+      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE",
+      "published_at": "2026-09-10T01:25:00Z",
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
+      "source": "GitHub",
+      "stars": 239,
+      "user": "yudaprasetya007"
+    },
+    {
       "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "published_at": "2026-09-11T18:12:58Z",
@@ -3228,23 +3325,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "kruzovic7"
-    },
-    {
-      "title": "ArasTey/lunel - GitHub Repository",
-      "url": "https://github.com/ArasTey/lunel",
-      "published_at": "2026-09-09T06:58:25Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308009703?v=4",
-      "source": "GitHub",
-      "stars": 691,
-      "user": "ArasTey"
     },
     {
       "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
@@ -3258,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 690,
       "user": "nftechie"
     },
     {
@@ -3273,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 527,
       "user": "nilbuild"
     },
     {
@@ -3288,8 +3370,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "kevinzakka"
+    },
+    {
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "yi1108"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3303,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 627,
       "user": "unstablebuild"
     },
     {
@@ -3318,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 240,
       "user": "linguo2625469"
     },
     {
@@ -3333,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 189,
       "user": "x4gpanell"
     },
     {
@@ -3367,36 +3464,6 @@
       "user": "VoidSecSoftwares"
     },
     {
-      "title": "zhihui-hu/one-ip - 瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
-      "url": "https://github.com/zhihui-hu/one-ip",
-      "published_at": "2026-09-09T04:38:32Z",
-      "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272492715?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "zhihui-hu"
-    },
-    {
-      "title": "xsolla-baku-gametech-hackathon/team-enthuzone - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-enthuzone",
-      "published_at": "2026-09-09T11:28:46Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
-      "source": "GitHub",
-      "stars": 254,
-      "user": "xsolla-baku-gametech-hackathon"
-    },
-    {
       "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
       "url": "https://github.com/xsolla-baku-gametech-hackathon/team-Omzo",
       "published_at": "2026-09-10T08:08:40Z",
@@ -3423,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 180,
       "user": "NxcoreAI"
     },
     {
@@ -3438,8 +3505,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 178,
       "user": "agent-launch"
+    },
+    {
+      "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "url": "https://github.com/FankChen/tracecrate",
+      "published_at": "2026-09-10T09:27:41Z",
+      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "FankChen"
+    },
+    {
+      "title": "danielroe/airspace - The database you already have.",
+      "url": "https://github.com/danielroe/airspace",
+      "published_at": "2026-09-11T07:21:52Z",
+      "description": "The database you already have.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "danielroe"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -3453,23 +3550,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 583,
       "user": "agentverse-os"
-    },
-    {
-      "title": "ViceVerse-cz/Serein - Tiny, Performant & 100% Native client for Discord made in Rust",
-      "url": "https://github.com/ViceVerse-cz/Serein",
-      "published_at": "2026-09-09T20:42:14Z",
-      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/106090820?v=4",
-      "source": "GitHub",
-      "stars": 352,
-      "user": "ViceVerse-cz"
     },
     {
       "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
@@ -3515,6 +3597,21 @@
       "source": "GitHub",
       "stars": 94,
       "user": "penberg"
+    },
+    {
+      "title": "maximpri/mlxtop - GitHub Repository",
+      "url": "https://github.com/maximpri/mlxtop",
+      "published_at": "2026-09-11T03:31:31Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58398564?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "maximpri"
     },
     {
       "title": "Is there any legitimate use case for JavaScript encodeURI()?",
