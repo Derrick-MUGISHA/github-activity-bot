@@ -312,21 +312,6 @@
       "user": "James O'Reilly"
     },
     {
-      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
-      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
-      "published_at": "2026-09-07T15:57:07Z",
-      "description": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
-      "tags": [
-        "ai",
-        "python",
-        "security",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
-      "source": "Dev.to",
-      "user": "Alister Baroi"
-    },
-    {
       "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
       "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
       "published_at": "2026-09-11T23:07:27Z",
@@ -340,6 +325,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
+      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
+      "published_at": "2026-09-07T15:57:07Z",
+      "description": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
+      "tags": [
+        "ai",
+        "python",
+        "security",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
+      "source": "Dev.to",
+      "user": "Alister Baroi"
     },
     {
       "title": "Coding agents got boring the moment we built a really good one.",
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 301,
       "user": "Qiuner"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1033,
+      "stars": 1037,
       "user": "ai-sucks-butt"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "kruzovic7"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 707,
       "user": "nftechie"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 314,
       "user": "linguo2625469"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 199,
       "user": "NxcoreAI"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 654,
       "user": "agentverse-os"
     },
     {
@@ -929,7 +929,7 @@
       "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
       "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
       "published_at": "2026-09-15T12:19:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "async-await",
@@ -943,7 +943,7 @@
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
       "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
       "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "validation",
@@ -954,6 +954,115 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DefNot"
+    },
+    {
+      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+      "published_at": "2026-09-16T14:47:07.000Z",
+      "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "PIXEL",
+        "Spyware"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Amazon gives its workers a raise of $1 per hour",
+      "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
+      "published_at": "2026-09-16T14:32:08.000Z",
+      "description": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
+      "tags": [
+        "Commerce",
+        "Amazon",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Threads&#8217; new features let podcasters promote shows and reach listeners",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "published_at": "2026-09-16T14:24:58.000Z",
+      "description": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+      "tags": [
+        "AI",
+        "Social",
+        "Meta",
+        "podcasts",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-16T14:00:00.000Z",
+      "description": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "tags": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "published_at": "2026-09-16T13:23:02.000Z",
+      "description": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Intel",
+        "memory chips",
+        "SK Hynix"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Former Infosys chief&#8217;s AI startup nabs another $53M",
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "published_at": "2026-09-16T13:00:00.000Z",
+      "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "tags": [
+        "AI",
+        "Startups",
+        "infosys",
+        "Exclusive",
+        "Vishal Sikka"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "published_at": "2026-09-16T10:34:47.000Z",
+      "description": "Amazon is letting all customers use Alexa+ assistant in early access period.",
+      "tags": [
+        "AI",
+        "Apps",
+        "alexa+",
+        "Amazon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
@@ -968,94 +1077,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "published_at": "2026-09-15T21:47:38.000Z",
-      "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "tags": [
-        "Climate",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "published_at": "2026-09-15T20:12:53.000Z",
-      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "tags": [
-        "AI",
-        "Social",
-        "mcp",
-        "Meta",
-        "WhatsApp"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published_at": "2026-09-15T19:00:00.000Z",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "tags": [
-        "AI",
-        "evergreens",
-        "Microsoft",
-        "OpenAI",
-        "siri ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "published_at": "2026-09-15T18:29:20.000Z",
-      "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "tags": [
-        "AI",
-        "Climate",
-        "data centers",
-        "natural gas"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "AI agents now have a place to snitch",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "published_at": "2026-09-15T17:42:59.000Z",
-      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "tags": [
-        "AI",
-        "agentic ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "published_at": "2026-09-15T17:05:24.000Z",
-      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1357,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 421,
       "user": "viettranx"
     },
     {
@@ -1372,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "nhovongoc0-max"
     },
     {
@@ -1387,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 301,
       "user": "Qiuner"
     },
     {
@@ -1432,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 200,
       "user": "agent-launch"
     },
     {
@@ -1447,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 199,
       "user": "NxcoreAI"
     },
     {
@@ -1462,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 190,
       "user": "opencoredev"
     },
     {
@@ -1481,10 +1502,25 @@
       "user": "FankChen"
     },
     {
+      "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
+      "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
+      "published_at": "2026-09-16T12:58:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "python",
+        "django",
+        "ckeditor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dimitrios Desyllas"
+    },
+    {
       "title": "How to configure refresh token with express and react",
       "url": "https://stackoverflow.com/questions/80003429/how-to-configure-refresh-token-with-express-and-react",
       "published_at": "2026-09-16T08:33:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "node.js",
@@ -1512,27 +1548,13 @@
       "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
       "url": "https://stackoverflow.com/questions/80003350/how-do-i-do-the-vx-rightkey-leftkey-movespeed",
       "published_at": "2026-09-15T20:49:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "VIXSIN"
-    },
-    {
-      "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
-      "url": "https://stackoverflow.com/questions/80003348/how-do-i-change-the-hitbox-of-a-png-jpg-to-match-what-is-and-isnt-transparent",
-      "published_at": "2026-09-15T20:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "png"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saturn"
     },
     {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
@@ -1551,10 +1573,24 @@
       "user": "tutte2k"
     },
     {
+      "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
+      "url": "https://stackoverflow.com/questions/80003348/how-do-i-change-the-hitbox-of-a-png-jpg-to-match-what-is-and-isnt-transparent",
+      "published_at": "2026-09-15T20:46:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "png"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "saturn"
+    },
+    {
       "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
       "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
       "published_at": "2026-09-15T12:19:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "async-await",
@@ -1568,7 +1604,7 @@
       "title": "Generating Series of Date Values in an Interactive Grid",
       "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
       "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1581,45 +1617,31 @@
       "user": "Bhavin Adhvaryu"
     },
     {
-      "title": "jQuery only targets hard coded element IDs not ones in arrays",
-      "url": "https://stackoverflow.com/questions/80003001/jquery-only-targets-hard-coded-element-ids-not-ones-in-arrays",
-      "published_at": "2026-09-14T13:42:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Add joint limits in matterjs",
+      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
+      "published_at": "2026-09-06T09:50:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "html",
-        "jquery"
+        "matter.js"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Artyu"
+      "user": "wadskays26"
     },
     {
-      "title": "Compiling and parsing After Effects JavaScript code",
-      "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
-      "published_at": "2026-09-13T14:34:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Understanding cookie session in React Router",
+      "url": "https://stackoverflow.com/questions/79999005/understanding-cookie-session-in-react-router",
+      "published_at": "2026-08-28T16:01:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "tooling-recommendation",
         "javascript",
-        "extendscript",
-        "after-effects"
+        "reactjs",
+        "react-router"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Mohamad Hasan Salmaaniyaan"
-    },
-    {
-      "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
-      "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
-      "published_at": "2026-09-11T19:35:08.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kijupo"
+      "user": "Alberto Benedetto"
     }
   ],
   "Python": [
@@ -1875,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1033,
+      "stars": 1037,
       "user": "ai-sucks-butt"
     },
     {
@@ -1890,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "kruzovic7"
     },
     {
@@ -1905,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 707,
       "user": "nftechie"
     },
     {
@@ -1920,23 +1942,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 599,
       "user": "nilbuild"
     },
     {
-      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-      "url": "https://github.com/letorig/video-generator-client",
-      "published_at": "2026-09-14T17:46:01Z",
-      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "url": "https://github.com/kevinzakka/mjbatch",
+      "published_at": "2026-09-10T02:19:02Z",
+      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
       "source": "GitHub",
-      "stars": 516,
-      "user": "letorig"
+      "stars": 517,
+      "user": "kevinzakka"
+    },
+    {
+      "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
+      "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
+      "published_at": "2026-09-16T12:58:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "python",
+        "django",
+        "ckeditor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dimitrios Desyllas"
     },
     {
       "title": "holoviews.Point bi-directional sync",
@@ -1950,6 +1987,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FLS"
+    },
+    {
+      "title": "How to secure file paths and input handling in a Python web server (main.py)",
+      "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
+      "published_at": "2026-09-16T04:51:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python",
+        "validation",
+        "input",
+        "python-3.10",
+        "websecurity"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DefNot"
     },
     {
       "title": "Is it possible to configure structlog using Python standard library fileConfig/dictConfig?",
@@ -1966,26 +2019,10 @@
       "user": "Frames Catherine White"
     },
     {
-      "title": "How to secure file paths and input handling in a Python web server (main.py)",
-      "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
-      "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "validation",
-        "input",
-        "python-3.10",
-        "websecurity"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DefNot"
-    },
-    {
       "title": "What does annotating a variable do in the Python REPL?",
       "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
       "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 15",
+      "description": "Stack Overflow question · 2 answers · score 16",
       "tags": [
         "python",
         "python-typing",
@@ -2066,18 +2103,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TXpy890"
-    },
-    {
-      "title": "Are imports to the __future__ module cached?",
-      "url": "https://stackoverflow.com/questions/80003191/are-imports-to-the-future-module-cached",
-      "published_at": "2026-09-15T08:38:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "PeterZ"
     }
   ],
   "DevOps": [
@@ -2426,17 +2451,19 @@
       "user": "FankChen"
     },
     {
-      "title": "CSS-Tricks in Limbo",
-      "url": "https://vale.rocks/micros/20260915-0135",
-      "published_at": "2026-09-15T04:12:31.945-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
+      "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
+      "published_at": "2026-09-16T12:58:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "css",
-        "web"
+        "javascript",
+        "python",
+        "django",
+        "ckeditor"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "source": "StackOverflow",
+      "user": "Dimitrios Desyllas"
     },
     {
       "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
@@ -2456,7 +2483,7 @@
       "title": "Generating Series of Date Values in an Interactive Grid",
       "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
       "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2467,20 +2494,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavin Adhvaryu"
-    },
-    {
-      "title": "jQuery only targets hard coded element IDs not ones in arrays",
-      "url": "https://stackoverflow.com/questions/80003001/jquery-only-targets-hard-coded-element-ids-not-ones-in-arrays",
-      "published_at": "2026-09-14T13:42:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Artyu"
     },
     {
       "title": "Error when trying to loop through and display SQLite table within HTML page",
@@ -2544,20 +2557,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Dealing with sensitive permissions on Android",
-      "url": "https://dev.to/tkuenneth/dealing-with-sensitive-permissions-on-android-3icg",
-      "published_at": "2026-09-05T09:22:30Z",
-      "description": "Right now the developer community seems fascinated (if not outright obsessed) with agentic coding....",
-      "tags": [
-        "android",
-        "androiddev",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffazrx9s2cllgud2aw7f4.jpg",
-      "source": "Dev.to",
-      "user": "Thomas Künneth"
     }
   ],
   "Cloud": [
@@ -2857,7 +2856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 654,
       "user": "agentverse-os"
     },
     {
@@ -2892,7 +2891,7 @@
       "title": "Generating Series of Date Values in an Interactive Grid",
       "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
       "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -3116,10 +3115,22 @@
       "user": "ewenjo"
     },
     {
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "published_at": "2026-09-15T23:19:42.787-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "strugee"
+    },
+    {
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
       "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
       "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "validation",
@@ -3132,16 +3143,16 @@
       "user": "DefNot"
     },
     {
-      "title": "US military says it has launched weapons into space",
-      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-      "published_at": "2026-09-15T17:09:06.000Z",
-      "description": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
+      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+      "published_at": "2026-09-16T14:47:07.000Z",
+      "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
       "tags": [
         "Security",
-        "Space",
-        "attack",
-        "In Brief",
-        "space weapon"
+        "cyberattack",
+        "cybersecurity",
+        "PIXEL",
+        "Spyware"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3350,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 421,
       "user": "viettranx"
     },
     {
@@ -3365,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "nhovongoc0-max"
     },
     {
@@ -3380,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 301,
       "user": "Qiuner"
     },
     {
@@ -3410,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1033,
+      "stars": 1037,
       "user": "ai-sucks-butt"
     },
     {
@@ -3425,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "kruzovic7"
     },
     {
@@ -3440,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 707,
       "user": "nftechie"
     },
     {
@@ -3455,23 +3466,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 599,
       "user": "nilbuild"
     },
     {
-      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-      "url": "https://github.com/letorig/video-generator-client",
-      "published_at": "2026-09-14T17:46:01Z",
-      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "url": "https://github.com/kevinzakka/mjbatch",
+      "published_at": "2026-09-10T02:19:02Z",
+      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
       "source": "GitHub",
-      "stars": 516,
-      "user": "letorig"
+      "stars": 517,
+      "user": "kevinzakka"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3485,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 715,
       "user": "unstablebuild"
     },
     {
@@ -3500,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 314,
       "user": "linguo2625469"
     },
     {
@@ -3515,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "x4gpanell"
     },
     {
@@ -3530,23 +3541,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 101,
       "user": "AlexAntonik"
     },
     {
-      "title": "VoidSecSoftwares/voidsyscall - Cross-platform syscall-powered implant & C2 — direct syscalls (Win), raw syscalls (Linux), HTTPS/DNS/ICMP channels. No winapi layer.",
-      "url": "https://github.com/VoidSecSoftwares/voidsyscall",
-      "published_at": "2026-09-10T14:56:14Z",
-      "description": "Cross-platform syscall-powered implant & C2 — direct syscalls (Win), raw syscalls (Linux), HTTPS/DNS/ICMP channels. No winapi layer.",
+      "title": "YongshengWin/VpsCT - 面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
+      "url": "https://github.com/YongshengWin/VpsCT",
+      "published_at": "2026-09-15T10:55:08Z",
+      "description": "面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326985314?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 54,
-      "user": "VoidSecSoftwares"
+      "stars": 63,
+      "user": "YongshengWin"
     },
     {
       "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
@@ -3575,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 200,
       "user": "agent-launch"
     },
     {
@@ -3590,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 199,
       "user": "NxcoreAI"
     },
     {
@@ -3605,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 190,
       "user": "opencoredev"
     },
     {
@@ -3635,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 654,
       "user": "agentverse-os"
     },
     {
@@ -3699,50 +3710,33 @@
       "user": "maximpri"
     },
     {
-      "title": "Compiling and parsing After Effects JavaScript code",
-      "url": "https://stackoverflow.com/questions/80002782/compiling-and-parsing-after-effects-javascript-code",
-      "published_at": "2026-09-13T14:34:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Reinventing issue tracking: Local-first and Git-native",
+      "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+      "published_at": "2026-09-16T05:17:30.841-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "extendscript",
-        "after-effects"
+        "practices",
+        "vcs"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohamad Hasan Salmaaniyaan"
+      "source": "Lobste.rs",
+      "user": "matklad"
     },
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "published_at": "2026-09-15T20:12:53.000Z",
-      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "title": "Threads&#8217; new features let podcasters promote shows and reach listeners",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "published_at": "2026-09-16T14:24:58.000Z",
+      "description": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
       "tags": [
         "AI",
         "Social",
-        "mcp",
         "Meta",
-        "WhatsApp"
+        "podcasts",
+        "social media"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "published_at": "2026-09-15T17:05:24.000Z",
-      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "user": "Ivan Mehta"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
