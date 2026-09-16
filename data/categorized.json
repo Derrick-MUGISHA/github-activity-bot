@@ -761,23 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "Qiuner"
     },
     {
-      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-      "url": "https://github.com/yudaprasetya007/routeVSCODE",
-      "published_at": "2026-09-10T01:25:00Z",
-      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "published_at": "2026-09-15T09:39:14Z",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "yudaprasetya007"
+      "stars": 265,
+      "user": "theoephraim"
     },
     {
       "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1774,
       "user": "ai-sucks-butt"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 826,
       "user": "kruzovic7"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 714,
       "user": "nftechie"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 529,
       "user": "yi1108"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "linguo2625469"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "NxcoreAI"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "danielroe"
     },
     {
@@ -896,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 679,
       "user": "agentverse-os"
     },
     {
@@ -938,6 +938,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "andyc"
+    },
+    {
+      "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
+      "url": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+      "published_at": "2026-09-16T12:18:03.472-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "matthew2"
     },
     {
       "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
@@ -985,14 +997,30 @@
       "user": "DefNot"
     },
     {
+      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "published_at": "2026-09-16T23:43:09.000Z",
+      "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "tags": [
+        "Climate",
+        "TC",
+        "AI data center",
+        "Al Gore",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
       "title": "Noise wants to help everyday people  become paid content creators",
       "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
       "published_at": "2026-09-16T21:35:00.000Z",
       "description": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
       "tags": [
-        "Startups",
         "Media & Entertainment",
         "Social",
+        "Startups",
         "influencers"
       ],
       "cover_image": null,
@@ -1006,10 +1034,10 @@
       "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
       "tags": [
         "AI",
-        "ai safety",
+        "OpenAI",
         "Anthropic",
         "dario amodei",
-        "OpenAI"
+        "ai safety"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1046,36 +1074,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-16T18:45:35.000Z",
-      "description": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "tags": [
-        "Biotech & Health",
-        "Startups",
-        "Neuralink",
-        "Science Corporation",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "published_at": "2026-09-16T18:25:25.000Z",
-      "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "tags": [
-        "AI",
-        "ai labs",
-        "auditing"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1377,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 658,
       "user": "rizqinrr"
     },
     {
@@ -1422,23 +1420,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "Qiuner"
     },
     {
-      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-      "url": "https://github.com/yudaprasetya007/routeVSCODE",
-      "published_at": "2026-09-10T01:25:00Z",
-      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "published_at": "2026-09-15T09:39:14Z",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "yudaprasetya007"
+      "stars": 265,
+      "user": "theoephraim"
     },
     {
       "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
@@ -1467,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "NxcoreAI"
     },
     {
@@ -1482,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "agent-launch"
     },
     {
@@ -1497,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "opencoredev"
     },
     {
@@ -1512,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "danielroe"
     },
     {
@@ -1644,18 +1642,18 @@
       "user": "wadskays26"
     },
     {
-      "title": "Understanding cookie session in React Router",
-      "url": "https://stackoverflow.com/questions/79999005/understanding-cookie-session-in-react-router",
-      "published_at": "2026-08-28T16:01:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How do I make the menu button open the nav menu in media queries",
+      "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
+      "published_at": "2026-08-30T03:26:33.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
-        "reactjs",
-        "react-router"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alberto Benedetto"
+      "user": "August"
     }
   ],
   "Python": [
@@ -1911,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1774,
       "user": "ai-sucks-butt"
     },
     {
@@ -1926,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 826,
       "user": "kruzovic7"
     },
     {
@@ -1941,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 714,
       "user": "nftechie"
     },
     {
@@ -1956,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 629,
       "user": "nilbuild"
     },
     {
@@ -1971,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 529,
       "user": "yi1108"
     },
     {
@@ -1988,6 +1986,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
+    },
+    {
+      "title": "Overlaying OSM Data in folium",
+      "url": "https://stackoverflow.com/questions/80003635/overlaying-osm-data-in-folium",
+      "published_at": "2026-09-16T22:25:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "folium"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TXpy890"
     },
     {
       "title": "What is a good structured learning path for understanding machine learning from fundamentals to advanced concepts?",
@@ -2102,20 +2113,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Soroush Kalantari"
-    },
-    {
-      "title": "Preserving whitespace during lxml serialization",
-      "url": "https://stackoverflow.com/questions/80003272/preserving-whitespace-during-lxml-serialization",
-      "published_at": "2026-09-15T13:37:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "serialization",
-        "lxml"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RichSpie"
     }
   ],
   "DevOps": [
@@ -2494,6 +2491,20 @@
       "user": "Bhavin Adhvaryu"
     },
     {
+      "title": "How do I make the menu button open the nav menu in media queries",
+      "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
+      "published_at": "2026-08-30T03:26:33.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "August"
+    },
+    {
       "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
       "url": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
       "published_at": "2026-09-16T15:28:18.000Z",
@@ -2855,6 +2866,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "published_at": "2026-09-15T09:39:14Z",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "theoephraim"
+    },
+    {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
       "url": "https://github.com/agentverse-os/AgentVerse-OS",
       "published_at": "2026-09-12T18:20:00Z",
@@ -2866,7 +2892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 679,
       "user": "agentverse-os"
     },
     {
@@ -2909,7 +2935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "danielroe"
     },
     {
@@ -2927,22 +2953,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavin Adhvaryu"
-    },
-    {
-      "title": "Hackers publish thousands of drivers&#8217; data after breaching Florida motor vehicle database",
-      "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-      "published_at": "2026-09-16T18:00:54.000Z",
-      "description": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
-      "tags": [
-        "Security",
-        "Transportation",
-        "cyberattack",
-        "data breach",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -3169,22 +3179,6 @@
       "user": "DefNot"
     },
     {
-      "title": "Hackers publish thousands of drivers&#8217; data after breaching Florida motor vehicle database",
-      "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-      "published_at": "2026-09-16T18:00:54.000Z",
-      "description": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
-      "tags": [
-        "Security",
-        "Transportation",
-        "cyberattack",
-        "data breach",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
       "url": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
       "published_at": "2026-09-15T21:03:09.000Z",
@@ -3356,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 658,
       "user": "rizqinrr"
     },
     {
@@ -3401,23 +3395,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "Qiuner"
     },
     {
-      "title": "yudaprasetya007/routeVSCODE - ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-      "url": "https://github.com/yudaprasetya007/routeVSCODE",
-      "published_at": "2026-09-10T01:25:00Z",
-      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "published_at": "2026-09-15T09:39:14Z",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51563371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "yudaprasetya007"
+      "stars": 265,
+      "user": "theoephraim"
     },
     {
       "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
@@ -3431,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1774,
       "user": "ai-sucks-butt"
     },
     {
@@ -3446,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 826,
       "user": "kruzovic7"
     },
     {
@@ -3461,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 714,
       "user": "nftechie"
     },
     {
@@ -3476,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 629,
       "user": "nilbuild"
     },
     {
@@ -3491,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 529,
       "user": "yi1108"
     },
     {
@@ -3506,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 748,
       "user": "unstablebuild"
     },
     {
@@ -3521,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "linguo2625469"
     },
     {
@@ -3536,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "x4gpanell"
     },
     {
@@ -3566,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 91,
       "user": "YongshengWin"
     },
     {
@@ -3596,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "NxcoreAI"
     },
     {
@@ -3611,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "agent-launch"
     },
     {
@@ -3626,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "opencoredev"
     },
     {
@@ -3641,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "danielroe"
     },
     {
@@ -3656,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 679,
       "user": "agentverse-os"
     },
     {
