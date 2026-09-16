@@ -151,21 +151,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
-      "published_at": "2026-09-11T23:07:27Z",
-      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
       "published_at": "2026-09-01T05:53:57Z",
@@ -780,6 +765,21 @@
       "user": "yudaprasetya007"
     },
     {
+      "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "published_at": "2026-09-14T04:02:58Z",
+      "description": "If you think AI sucks, star the repo.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
+      "source": "GitHub",
+      "stars": 999,
+      "user": "ai-sucks-butt"
+    },
+    {
       "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "published_at": "2026-09-11T18:12:58Z",
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 823,
       "user": "kruzovic7"
     },
     {
@@ -806,23 +806,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 693,
       "user": "nftechie"
-    },
-    {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
-      "source": "GitHub",
-      "stars": 477,
-      "user": "yi1108"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 266,
       "user": "linguo2625469"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 187,
       "user": "NxcoreAI"
     },
     {
@@ -881,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "danielroe"
     },
     {
@@ -896,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 615,
       "user": "agentverse-os"
     },
     {
@@ -941,13 +926,28 @@
       "user": "Jayesh Gondaliya"
     },
     {
+      "title": "How to secure file paths and input handling in a Python web server (main.py)",
+      "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
+      "published_at": "2026-09-16T04:51:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "validation",
+        "input",
+        "python-3.10",
+        "websecurity"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DefNot"
+    },
+    {
       "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
       "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "published_at": "2026-09-16T00:20:39.000Z",
-      "description": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
       "tags": [
         "AI",
-        "TC",
         "Jensen Huang",
         "nvidia"
       ],
@@ -1328,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 407,
       "user": "viettranx"
     },
     {
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "nhovongoc0-max"
     },
     {
@@ -1403,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 187,
       "user": "NxcoreAI"
     },
     {
@@ -1418,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 186,
       "user": "agent-launch"
     },
     {
@@ -1448,8 +1448,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "danielroe"
+    },
+    {
+      "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
+      "url": "https://stackoverflow.com/questions/80003320/practical-limit-for-cloud-firestore-onsnapshot-listeners-per-browser-client",
+      "published_at": "2026-09-15T18:26:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "google-cloud-firestore"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Prakhar Gupta"
     },
     {
       "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
@@ -1481,7 +1495,7 @@
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
       "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
       "published_at": "2026-09-15T04:52:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "angular",
@@ -1576,19 +1590,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kijupo"
-    },
-    {
-      "title": "Add joint limits in matterjs",
-      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
-      "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "matter.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wadskays26"
     }
   ],
   "Python": [
@@ -1818,6 +1819,21 @@
       "user": "arathore"
     },
     {
+      "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "published_at": "2026-09-14T04:02:58Z",
+      "description": "If you think AI sucks, star the repo.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
+      "source": "GitHub",
+      "stars": 999,
+      "user": "ai-sucks-butt"
+    },
+    {
       "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "published_at": "2026-09-11T18:12:58Z",
@@ -1829,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 823,
       "user": "kruzovic7"
     },
     {
@@ -1844,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 693,
       "user": "nftechie"
     },
     {
@@ -1859,50 +1875,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 553,
       "user": "nilbuild"
     },
     {
-      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "url": "https://github.com/kevinzakka/mjbatch",
-      "published_at": "2026-09-10T02:19:02Z",
-      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "url": "https://github.com/letorig/video-generator-client",
+      "published_at": "2026-09-14T17:46:01Z",
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 498,
-      "user": "kevinzakka"
+      "stars": 506,
+      "user": "letorig"
     },
     {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "title": "How to secure file paths and input handling in a Python web server (main.py)",
+      "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
+      "published_at": "2026-09-16T04:51:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
-      "source": "GitHub",
-      "stars": 477,
-      "user": "yi1108"
-    },
-    {
-      "title": "what is wrong with my code and how do I fix it",
-      "url": "https://stackoverflow.com/questions/80003363/what-is-wrong-with-my-code-and-how-do-i-fix-it",
-      "published_at": "2026-09-15T22:45:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python"
+        "validation",
+        "input",
+        "python-3.10",
+        "websecurity"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "just code it"
+      "user": "DefNot"
+    },
+    {
+      "title": "Is it possible to configure structlog using Python stdlib fileConfig/dictConfig",
+      "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-stdlib-fileconfig-dictconfig",
+      "published_at": "2026-09-16T02:14:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "structlog",
+        "structured-logging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Frames Catherine White"
     },
     {
       "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
@@ -1920,10 +1939,24 @@
       "user": "Petra"
     },
     {
+      "title": "What does annotating a variable do in the Python REPL?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 13",
+      "tags": [
+        "python",
+        "python-typing",
+        "read-eval-print-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oxidation"
+    },
+    {
       "title": "Preserving whitespace during lxml serialization",
       "url": "https://stackoverflow.com/questions/80003272/preserving-whitespace-during-lxml-serialization",
       "published_at": "2026-09-15T13:37:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "serialization",
@@ -1947,24 +1980,10 @@
       "user": "TXpy890"
     },
     {
-      "title": "What does annotating a variable do in the Python REPL?",
-      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
-      "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 13",
-      "tags": [
-        "python",
-        "python-typing",
-        "read-eval-print-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oxidation"
-    },
-    {
       "title": "Error when trying to loop through and display SQLite table within HTML page",
       "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
       "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "html",
@@ -1975,18 +1994,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
-    },
-    {
-      "title": "Are imports to the __future__ module cached?",
-      "url": "https://stackoverflow.com/questions/80003191/are-imports-to-the-future-module-cached",
-      "published_at": "2026-09-15T08:38:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "PeterZ"
     },
     {
       "title": "Why doesn't Python use a simpler, implied enum syntax?",
@@ -2002,6 +2009,18 @@
       "user": "antialiased"
     },
     {
+      "title": "Are imports to the __future__ module cached?",
+      "url": "https://stackoverflow.com/questions/80003191/are-imports-to-the-future-module-cached",
+      "published_at": "2026-09-15T08:38:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "PeterZ"
+    },
+    {
       "title": "How to realize which version of Selenium to use for each Chrome version?",
       "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version",
       "published_at": "2026-09-15T09:48:58.000Z",
@@ -2014,18 +2033,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Soroush Kalantari"
-    },
-    {
-      "title": "What does this \",/:\" operator mean in Python?",
-      "url": "https://stackoverflow.com/questions/80003122/what-does-this-operator-mean-in-python",
-      "published_at": "2026-09-15T00:11:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score 5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aCrYlIc"
     }
   ],
   "DevOps": [
@@ -2404,7 +2411,7 @@
       "title": "Error when trying to loop through and display SQLite table within HTML page",
       "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
       "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "html",
@@ -2498,6 +2505,7 @@
       "published_at": "2026-09-15T13:55:10.632-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "release",
         "swift"
       ],
       "cover_image": null,
@@ -2787,8 +2795,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 615,
       "user": "agentverse-os"
+    },
+    {
+      "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
+      "url": "https://stackoverflow.com/questions/80003320/practical-limit-for-cloud-firestore-onsnapshot-listeners-per-browser-client",
+      "published_at": "2026-09-15T18:26:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "google-cloud-firestore"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Prakhar Gupta"
     }
   ],
   "Database": [
@@ -2816,7 +2838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "danielroe"
     },
     {
@@ -2839,7 +2861,7 @@
       "title": "Error when trying to loop through and display SQLite table within HTML page",
       "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
       "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "html",
@@ -3047,6 +3069,22 @@
       "user": "ewenjo"
     },
     {
+      "title": "How to secure file paths and input handling in a Python web server (main.py)",
+      "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
+      "published_at": "2026-09-16T04:51:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "validation",
+        "input",
+        "python-3.10",
+        "websecurity"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DefNot"
+    },
+    {
       "title": "US military says it has launched weapons into space",
       "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
       "published_at": "2026-09-15T17:09:06.000Z",
@@ -3112,21 +3150,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
-      "published_at": "2026-09-11T23:07:27Z",
-      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
@@ -3265,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 407,
       "user": "viettranx"
     },
     {
@@ -3280,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "nhovongoc0-max"
     },
     {
@@ -3314,6 +3337,21 @@
       "user": "yudaprasetya007"
     },
     {
+      "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "published_at": "2026-09-14T04:02:58Z",
+      "description": "If you think AI sucks, star the repo.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
+      "source": "GitHub",
+      "stars": 999,
+      "user": "ai-sucks-butt"
+    },
+    {
       "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "published_at": "2026-09-11T18:12:58Z",
@@ -3325,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 823,
       "user": "kruzovic7"
     },
     {
@@ -3340,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 693,
       "user": "nftechie"
     },
     {
@@ -3355,38 +3393,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 553,
       "user": "nilbuild"
     },
     {
-      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "url": "https://github.com/kevinzakka/mjbatch",
-      "published_at": "2026-09-10T02:19:02Z",
-      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "url": "https://github.com/letorig/video-generator-client",
+      "published_at": "2026-09-14T17:46:01Z",
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 498,
-      "user": "kevinzakka"
-    },
-    {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
-      "source": "GitHub",
-      "stars": 477,
-      "user": "yi1108"
+      "stars": 506,
+      "user": "letorig"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3400,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 650,
       "user": "unstablebuild"
     },
     {
@@ -3415,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 266,
       "user": "linguo2625469"
     },
     {
@@ -3445,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "AlexAntonik"
     },
     {
@@ -3490,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 187,
       "user": "NxcoreAI"
     },
     {
@@ -3505,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 186,
       "user": "agent-launch"
     },
     {
@@ -3535,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "danielroe"
     },
     {
@@ -3550,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 615,
       "user": "agentverse-os"
     },
     {
@@ -3595,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81939?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 97,
       "user": "penberg"
     },
     {
