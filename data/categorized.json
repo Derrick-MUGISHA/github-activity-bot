@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "Qiuner"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1600,
       "user": "ai-sucks-butt"
     },
     {
@@ -821,8 +821,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 713,
       "user": "nftechie"
+    },
+    {
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "source": "GitHub",
+      "stars": 525,
+      "user": "yi1108"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -851,23 +866,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 210,
       "user": "NxcoreAI"
     },
     {
-      "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-      "url": "https://github.com/FankChen/tracecrate",
-      "published_at": "2026-09-10T09:27:41Z",
-      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "title": "danielroe/airspace - The database you already have.",
+      "url": "https://github.com/danielroe/airspace",
+      "published_at": "2026-09-11T07:21:52Z",
+      "description": "The database you already have.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 131,
-      "user": "FankChen"
+      "stars": 132,
+      "user": "danielroe"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -881,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 675,
       "user": "agentverse-os"
     },
     {
@@ -896,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 337,
       "user": "deepseek-ai"
     },
     {
@@ -913,17 +928,16 @@
       "user": "kolja"
     },
     {
-      "title": "Maintaining the love for coding in the time of AI",
-      "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
-      "published_at": "2026-09-16T01:31:52.450-05:00",
+      "title": "Why i'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "published_at": "2026-09-16T10:04:45.848-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "practices",
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "jana"
+      "user": "andyc"
     },
     {
       "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
@@ -938,6 +952,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jayesh Gondaliya"
+    },
+    {
+      "title": "What is a good structured learning path for understanding machine learning from fundamentals to advanced concepts?",
+      "url": "https://stackoverflow.com/questions/80003602/what-is-a-good-structured-learning-path-for-understanding-machine-learning-from",
+      "published_at": "2026-09-16T19:54:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "python",
+        "machine-learning",
+        "scikit-learn"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anonymous Tech"
     },
     {
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
@@ -956,6 +985,85 @@
       "user": "DefNot"
     },
     {
+      "title": "Noise wants to help everyday people  become paid content creators",
+      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "published_at": "2026-09-16T21:35:00.000Z",
+      "description": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+      "tags": [
+        "Startups",
+        "Media & Entertainment",
+        "Social",
+        "influencers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "published_at": "2026-09-16T21:07:24.000Z",
+      "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "tags": [
+        "AI",
+        "ai safety",
+        "Anthropic",
+        "dario amodei",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a pair without a camera",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "published_at": "2026-09-16T20:12:00.000Z",
+      "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "tags": [
+        "AI",
+        "In Brief",
+        "Meta",
+        "SMART Glasses",
+        "smartglasses"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Automattic&#8217;s interim CEO and legal chief signed reciprocal severance deals during Mullenweg&#8217;s brief ouster",
+      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+      "published_at": "2026-09-16T19:35:29.000Z",
+      "description": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Automattic",
+        "Exclusive",
+        "matt mullenweg"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-16T18:45:35.000Z",
+      "description": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+      "tags": [
+        "Biotech & Health",
+        "Startups",
+        "Neuralink",
+        "Science Corporation",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
       "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
       "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
       "published_at": "2026-09-16T18:25:25.000Z",
@@ -968,115 +1076,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "published_at": "2026-09-16T17:00:00.000Z",
-      "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "Google",
-        "google home"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "published_at": "2026-09-16T16:30:00.000Z",
-      "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "claude cowork"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-16T16:00:00.000Z",
-      "description": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "tags": [
-        "Startups",
-        "Biotech & Health",
-        "TechCrunch Disrupt",
-        "Neuralink",
-        "Science Corporation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "published_at": "2026-09-16T16:00:00.000Z",
-      "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”&#160; That’s&#160;the question that drove&#160;Matthew de Jonge&#160;to spend six years building&#160;Fortell, an AI hearing aid startup that&#160;recently&#160;raised $163",
-      "tags": [
-        "Gadgets",
-        "Startups",
-        "AI wearables",
-        "Founders Fund",
-        "hearing aids"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-16T15:00:00.000Z",
-      "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-      "tags": [
-        "Startups",
-        "AI",
-        "Robotics",
-        "nvidia",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-      "published_at": "2026-09-16T14:47:07.000Z",
-      "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "In Brief",
-        "PIXEL"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Amazon gives its workers a raise of $1 per hour",
-      "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-      "published_at": "2026-09-16T14:32:08.000Z",
-      "description": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
-      "tags": [
-        "Commerce",
-        "Amazon",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1378,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 656,
       "user": "rizqinrr"
     },
     {
@@ -1423,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "Qiuner"
     },
     {
@@ -1457,21 +1456,6 @@
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
-      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
-      "url": "https://github.com/agent-launch/agent-launcher",
-      "published_at": "2026-09-10T22:07:14Z",
-      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
-      "source": "GitHub",
-      "stars": 206,
-      "user": "agent-launch"
-    },
-    {
       "title": "NxcoreAI/NxMem - GitHub Repository",
       "url": "https://github.com/NxcoreAI/NxMem",
       "published_at": "2026-09-10T12:14:47Z",
@@ -1483,8 +1467,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 210,
       "user": "NxcoreAI"
+    },
+    {
+      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
+      "url": "https://github.com/agent-launch/agent-launcher",
+      "published_at": "2026-09-10T22:07:14Z",
+      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
+      "source": "GitHub",
+      "stars": 210,
+      "user": "agent-launch"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -1498,23 +1497,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "opencoredev"
     },
     {
-      "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-      "url": "https://github.com/FankChen/tracecrate",
-      "published_at": "2026-09-10T09:27:41Z",
-      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "title": "danielroe/airspace - The database you already have.",
+      "url": "https://github.com/danielroe/airspace",
+      "published_at": "2026-09-11T07:21:52Z",
+      "description": "The database you already have.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 131,
-      "user": "FankChen"
+      "stars": 132,
+      "user": "danielroe"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1560,18 +1559,6 @@
       "user": "Prakhar Gupta"
     },
     {
-      "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
-      "url": "https://stackoverflow.com/questions/80003350/how-do-i-do-the-vx-rightkey-leftkey-movespeed",
-      "published_at": "2026-09-15T20:49:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VIXSIN"
-    },
-    {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
       "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
       "published_at": "2026-09-15T04:52:42.000Z",
@@ -1586,6 +1573,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tutte2k"
+    },
+    {
+      "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
+      "url": "https://stackoverflow.com/questions/80003350/how-do-i-do-the-vx-rightkey-leftkey-movespeed",
+      "published_at": "2026-09-15T20:49:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VIXSIN"
     },
     {
       "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
@@ -1912,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1600,
       "user": "ai-sucks-butt"
     },
     {
@@ -1942,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 713,
       "user": "nftechie"
     },
     {
@@ -1957,23 +1956,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 624,
       "user": "nilbuild"
     },
     {
-      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "url": "https://github.com/kevinzakka/mjbatch",
-      "published_at": "2026-09-10T02:19:02Z",
-      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
       "source": "GitHub",
-      "stars": 521,
-      "user": "kevinzakka"
+      "stars": 525,
+      "user": "yi1108"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1991,10 +1990,25 @@
       "user": "Dimitrios Desyllas"
     },
     {
+      "title": "What is a good structured learning path for understanding machine learning from fundamentals to advanced concepts?",
+      "url": "https://stackoverflow.com/questions/80003602/what-is-a-good-structured-learning-path-for-understanding-machine-learning-from",
+      "published_at": "2026-09-16T19:54:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "python",
+        "machine-learning",
+        "scikit-learn"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anonymous Tech"
+    },
+    {
       "title": "I’m having trouble getting Python to locate a specific value in a spreadsheet",
       "url": "https://stackoverflow.com/questions/80003582/i-m-having-trouble-getting-python-to-locate-a-specific-value-in-a-spreadsheet",
       "published_at": "2026-09-16T18:24:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "python",
@@ -2003,6 +2017,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Paulo C&#233;sar Matos"
+    },
+    {
+      "title": "What does annotating a variable actually do in Python?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 4 answers · score 18",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oxidation"
     },
     {
       "title": "holoviews.Point bi-directional sync",
@@ -2016,19 +2043,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FLS"
-    },
-    {
-      "title": "What does annotating a variable actually do in Python?",
-      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
-      "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 18",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oxidation"
     },
     {
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
@@ -2088,22 +2102,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Soroush Kalantari"
-    },
-    {
-      "title": "Error when trying to loop through and display SQLite table within HTML page",
-      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
-      "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "html",
-        "flask",
-        "sqlalchemy",
-        "flask-sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     },
     {
       "title": "Preserving whitespace during lxml serialization",
@@ -2451,21 +2449,6 @@
       "user": "velmu"
     },
     {
-      "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-      "url": "https://github.com/FankChen/tracecrate",
-      "published_at": "2026-09-10T09:27:41Z",
-      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
-      "source": "GitHub",
-      "stars": 131,
-      "user": "FankChen"
-    },
-    {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
       "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
       "published_at": "2026-09-16T12:58:13.000Z",
@@ -2509,22 +2492,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavin Adhvaryu"
-    },
-    {
-      "title": "Error when trying to loop through and display SQLite table within HTML page",
-      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
-      "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "html",
-        "flask",
-        "sqlalchemy",
-        "flask-sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     },
     {
       "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
@@ -2899,7 +2866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 675,
       "user": "agentverse-os"
     },
     {
@@ -2931,6 +2898,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "danielroe/airspace - The database you already have.",
+      "url": "https://github.com/danielroe/airspace",
+      "published_at": "2026-09-11T07:21:52Z",
+      "description": "The database you already have.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
+      "source": "GitHub",
+      "stars": 132,
+      "user": "danielroe"
+    },
+    {
       "title": "Generating Series of Date Values in an Interactive Grid",
       "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
       "published_at": "2026-09-15T11:07:47.000Z",
@@ -2945,22 +2927,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavin Adhvaryu"
-    },
-    {
-      "title": "Error when trying to loop through and display SQLite table within HTML page",
-      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
-      "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "html",
-        "flask",
-        "sqlalchemy",
-        "flask-sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     },
     {
       "title": "Hackers publish thousands of drivers&#8217; data after breaching Florida motor vehicle database",
@@ -3187,18 +3153,6 @@
       "user": "lvig"
     },
     {
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
-      "url": "https://security.apple.com/blog/apple-reference-image/",
-      "published_at": "2026-09-15T23:19:42.787-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "strugee"
-    },
-    {
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
       "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
       "published_at": "2026-09-16T04:51:58.000Z",
@@ -3225,22 +3179,6 @@
         "cyberattack",
         "data breach",
         "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-      "published_at": "2026-09-16T14:47:07.000Z",
-      "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "In Brief",
-        "PIXEL"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3418,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 656,
       "user": "rizqinrr"
     },
     {
@@ -3463,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "Qiuner"
     },
     {
@@ -3493,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1600,
       "user": "ai-sucks-butt"
     },
     {
@@ -3523,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 713,
       "user": "nftechie"
     },
     {
@@ -3538,23 +3476,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 624,
       "user": "nilbuild"
     },
     {
-      "title": "kevinzakka/mjbatch - A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-      "url": "https://github.com/kevinzakka/mjbatch",
-      "published_at": "2026-09-10T02:19:02Z",
-      "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
+      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
+      "url": "https://github.com/yi1108/printfilm",
+      "published_at": "2026-09-10T02:08:47Z",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10518920?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
       "source": "GitHub",
-      "stars": 521,
-      "user": "kevinzakka"
+      "stars": 525,
+      "user": "yi1108"
     },
     {
       "title": "unstablebuild/rune - the development environment for pros",
@@ -3568,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 745,
       "user": "unstablebuild"
     },
     {
@@ -3598,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 193,
       "user": "x4gpanell"
     },
     {
@@ -3613,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 104,
       "user": "AlexAntonik"
     },
     {
@@ -3628,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 87,
       "user": "YongshengWin"
     },
     {
@@ -3647,21 +3585,6 @@
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
-      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
-      "url": "https://github.com/agent-launch/agent-launcher",
-      "published_at": "2026-09-10T22:07:14Z",
-      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
-      "source": "GitHub",
-      "stars": 206,
-      "user": "agent-launch"
-    },
-    {
       "title": "NxcoreAI/NxMem - GitHub Repository",
       "url": "https://github.com/NxcoreAI/NxMem",
       "published_at": "2026-09-10T12:14:47Z",
@@ -3673,8 +3596,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 210,
       "user": "NxcoreAI"
+    },
+    {
+      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
+      "url": "https://github.com/agent-launch/agent-launcher",
+      "published_at": "2026-09-10T22:07:14Z",
+      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
+      "source": "GitHub",
+      "stars": 210,
+      "user": "agent-launch"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -3688,23 +3626,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "opencoredev"
     },
     {
-      "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-      "url": "https://github.com/FankChen/tracecrate",
-      "published_at": "2026-09-10T09:27:41Z",
-      "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+      "title": "danielroe/airspace - The database you already have.",
+      "url": "https://github.com/danielroe/airspace",
+      "published_at": "2026-09-11T07:21:52Z",
+      "description": "The database you already have.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 131,
-      "user": "FankChen"
+      "stars": 132,
+      "user": "danielroe"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -3718,7 +3656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 675,
       "user": "agentverse-os"
     },
     {
@@ -3733,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 337,
       "user": "deepseek-ai"
     },
     {
