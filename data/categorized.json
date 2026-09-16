@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Harness engineering doesn't mean building your own harness",
-      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk",
-      "published_at": "2026-09-15T01:04:48Z",
-      "description": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
-      "tags": [
-        "agents",
-        "ai",
-        "automation",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw1f6tqns0aa4y46ct40.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Harness engineering doesn't mean building your own harness",
+      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk",
+      "published_at": "2026-09-15T01:04:48Z",
+      "description": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw1f6tqns0aa4y46ct40.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
@@ -225,21 +225,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
-      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
-      "published_at": "2026-09-01T07:00:00Z",
-      "description": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
-      "tags": [
-        "ai",
-        "python",
-        "datascience",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
       "title": "My Agents Never Get Tired. I Do: On Satisficing",
       "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
       "published_at": "2026-09-11T03:49:55Z",
@@ -253,6 +238,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsweg9vst1vzhw8jmfb0.png",
       "source": "Dev.to",
       "user": "Earl Grey"
+    },
+    {
+      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
+      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
+      "published_at": "2026-09-01T07:00:00Z",
+      "description": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
+      "tags": [
+        "ai",
+        "python",
+        "datascience",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
     },
     {
       "title": "What Do You Do While AI Codes?",
@@ -327,6 +327,21 @@
       "user": "Alister Baroi"
     },
     {
+      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
+      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
+      "published_at": "2026-09-11T23:07:27Z",
+      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
       "published_at": "2026-08-17T20:12:46Z",
@@ -357,19 +372,19 @@
       "user": "xbill"
     },
     {
-      "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
-      "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
-      "published_at": "2026-08-31T19:21:38Z",
-      "description": "How we eliminated subtle stylesheet caching glitches during deployments on DEV without a massive rewrite.",
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
       "tags": [
-        "webdev",
-        "architecture",
-        "webperf",
-        "rails"
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmhfcuzbrbwh981r7fnr.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "xbill"
     },
     {
       "title": "What is harness engineering and why should I care?",
@@ -415,6 +430,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution",
+      "url": "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
+      "published_at": "2026-08-31T19:21:38Z",
+      "description": "How we eliminated subtle stylesheet caching glitches during deployments on DEV without a massive rewrite.",
+      "tags": [
+        "webdev",
+        "architecture",
+        "webperf",
+        "rails"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmhfcuzbrbwh981r7fnr.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
@@ -550,21 +580,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxnd7iq7dc3kzby7m3qz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
-    },
-    {
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
-      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
-      "published_at": "2026-09-06T16:51:54Z",
-      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "Qiuner"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1033,
       "user": "ai-sucks-butt"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "kruzovic7"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 702,
       "user": "nftechie"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 294,
       "user": "linguo2625469"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 193,
       "user": "NxcoreAI"
     },
     {
@@ -851,23 +866,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "FankChen"
-    },
-    {
-      "title": "danielroe/airspace - The database you already have.",
-      "url": "https://github.com/danielroe/airspace",
-      "published_at": "2026-09-11T07:21:52Z",
-      "description": "The database you already have.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
-      "source": "GitHub",
-      "stars": 126,
-      "user": "danielroe"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 619,
       "user": "agentverse-os"
     },
     {
@@ -900,16 +900,30 @@
       "user": "deepseek-ai"
     },
     {
-      "title": "How much of F-Droid is LLM generated?",
-      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "published_at": "2026-09-15T12:09:13.731-05:00",
+      "title": "A/I Shuts Down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "published_at": "2026-09-16T01:05:38.170-05:00",
+      "description": "A/I is Autistici/Inventati, nothing to do with algorithms.\r\n\r\nWhy this matters: to quote senior advisor and journalist [Anne Roth](https://systemli.social/@anneroth):\r\n\r\n> 20,000 mail accounts. \r\n> 20,000 blogs.\r\n> 5,000 mailing lists.\r\n> 1,500 websites.\r\n> \r\n> In Europe. \r\n> \r\n> Run by volunteers of [@cavallette](https://systemli.social/@cavallette@mastodon.bida.im), perfectly legal, and decidedly antifascist, feminist, queer.\r\n> \r\n> Destroyed and shut down by Trump's administration, extra legally.\r\n\r\nThis is one of the most devastating cases of politically motivated debanking I have come across.\r\n\r\nTriggered [by my own comment](https://lobste.rs/c/dv0zqn), I thought this might be a good starting point for a discussion about how to secure platforms not only technically, but also socially and financially.\r\n\r\nMods: this is my first submission, feel free to tell me how to improve. I had a hard time choosing a tag, but I think this may be relevant to the community.",
+      "tags": [
+        "finance",
+        "privacy"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kolja"
+    },
+    {
+      "title": "Maintaining the love for coding in the time of AI",
+      "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
+      "published_at": "2026-09-16T01:31:52.450-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "practices",
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "lobo"
+      "user": "jana"
     },
     {
       "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
@@ -929,7 +943,7 @@
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
       "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
       "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "validation",
@@ -1182,6 +1196,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
+      "published_at": "2026-09-10T18:23:05Z",
+      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1313,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 653,
       "user": "rizqinrr"
     },
     {
@@ -1328,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 417,
       "user": "viettranx"
     },
     {
@@ -1343,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "nhovongoc0-max"
     },
     {
@@ -1358,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "Qiuner"
     },
     {
@@ -1392,21 +1421,6 @@
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
-      "title": "NxcoreAI/NxMem - GitHub Repository",
-      "url": "https://github.com/NxcoreAI/NxMem",
-      "published_at": "2026-09-10T12:14:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
-      "source": "GitHub",
-      "stars": 187,
-      "user": "NxcoreAI"
-    },
-    {
       "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
       "url": "https://github.com/agent-launch/agent-launcher",
       "published_at": "2026-09-10T22:07:14Z",
@@ -1418,8 +1432,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 194,
       "user": "agent-launch"
+    },
+    {
+      "title": "NxcoreAI/NxMem - GitHub Repository",
+      "url": "https://github.com/NxcoreAI/NxMem",
+      "published_at": "2026-09-10T12:14:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
+      "source": "GitHub",
+      "stars": 193,
+      "user": "NxcoreAI"
+    },
+    {
+      "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
+      "url": "https://github.com/opencoredev/bg0",
+      "published_at": "2026-09-14T16:42:22Z",
+      "description": "Private, unlimited background removal that runs in your browser.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "opencoredev"
     },
     {
       "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
@@ -1433,29 +1477,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "FankChen"
     },
     {
-      "title": "danielroe/airspace - The database you already have.",
-      "url": "https://github.com/danielroe/airspace",
-      "published_at": "2026-09-11T07:21:52Z",
-      "description": "The database you already have.",
+      "title": "How to configure refresh token with express and react",
+      "url": "https://stackoverflow.com/questions/80003429/how-to-configure-refresh-token-with-express-and-react",
+      "published_at": "2026-09-16T08:33:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "node.js",
+        "express"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
-      "source": "GitHub",
-      "stars": 126,
-      "user": "danielroe"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
     },
     {
       "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
       "url": "https://stackoverflow.com/questions/80003320/practical-limit-for-cloud-firestore-onsnapshot-listeners-per-browser-client",
       "published_at": "2026-09-15T18:26:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "firebase",
@@ -1469,7 +1512,7 @@
       "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
       "url": "https://stackoverflow.com/questions/80003350/how-do-i-do-the-vx-rightkey-leftkey-movespeed",
       "published_at": "2026-09-15T20:49:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript"
       ],
@@ -1550,19 +1593,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Artyu"
-    },
-    {
-      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
-      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
-      "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "best-practices",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Andy"
     },
     {
       "title": "Compiling and parsing After Effects JavaScript code",
@@ -1682,6 +1712,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
       "source": "Dev.to",
       "user": "Alister Baroi"
+    },
+    {
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
+      "tags": [
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
@@ -1830,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1033,
       "user": "ai-sucks-butt"
     },
     {
@@ -1845,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "kruzovic7"
     },
     {
@@ -1860,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 702,
       "user": "nftechie"
     },
     {
@@ -1875,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 576,
       "user": "nilbuild"
     },
     {
@@ -1890,14 +1935,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 516,
       "user": "letorig"
+    },
+    {
+      "title": "holoviews.Point bi-directional sync",
+      "url": "https://stackoverflow.com/questions/80003443/holoviews-point-bi-directional-sync",
+      "published_at": "2026-09-16T09:21:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "holoviews"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FLS"
+    },
+    {
+      "title": "Is it possible to configure structlog using Python standard library fileConfig/dictConfig?",
+      "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-standard-library-fileconfig-d",
+      "published_at": "2026-09-16T02:14:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "structlog",
+        "structured-logging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Frames Catherine White"
     },
     {
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
       "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
       "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "validation",
@@ -1910,24 +1982,38 @@
       "user": "DefNot"
     },
     {
-      "title": "Is it possible to configure structlog using Python stdlib fileConfig/dictConfig",
-      "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-stdlib-fileconfig-dictconfig",
-      "published_at": "2026-09-16T02:14:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "What does annotating a variable do in the Python REPL?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 15",
       "tags": [
         "python",
-        "structlog",
-        "structured-logging"
+        "python-typing",
+        "read-eval-print-loop"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Frames Catherine White"
+      "user": "Oxidation"
+    },
+    {
+      "title": "How to realize which version of Selenium to use for each Chrome version?",
+      "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version",
+      "published_at": "2026-09-15T09:48:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "google-chrome",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soroush Kalantari"
     },
     {
       "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
       "url": "https://stackoverflow.com/questions/80003283/how-to-compute-a-gradient-column-wise-in-a-pandas-dataframe-using-the-index-as-a",
       "published_at": "2026-09-15T14:56:46.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "pandas",
@@ -1939,24 +2025,26 @@
       "user": "Petra"
     },
     {
-      "title": "What does annotating a variable do in the Python REPL?",
-      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-do-in-the-python-repl",
-      "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 13",
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "published_at": "2026-09-15T10:28:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "python-typing",
-        "read-eval-print-loop"
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Oxidation"
+      "user": "gh0st_dancing"
     },
     {
       "title": "Preserving whitespace during lxml serialization",
       "url": "https://stackoverflow.com/questions/80003272/preserving-whitespace-during-lxml-serialization",
       "published_at": "2026-09-15T13:37:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "serialization",
@@ -1980,35 +2068,6 @@
       "user": "TXpy890"
     },
     {
-      "title": "Error when trying to loop through and display SQLite table within HTML page",
-      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
-      "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "html",
-        "flask",
-        "sqlalchemy",
-        "flask-sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
-    },
-    {
-      "title": "Why doesn't Python use a simpler, implied enum syntax?",
-      "url": "https://stackoverflow.com/questions/80003161/why-doesnt-python-use-a-simpler-implied-enum-syntax",
-      "published_at": "2026-09-15T06:26:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python",
-        "enums"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "antialiased"
-    },
-    {
       "title": "Are imports to the __future__ module cached?",
       "url": "https://stackoverflow.com/questions/80003191/are-imports-to-the-future-module-cached",
       "published_at": "2026-09-15T08:38:28.000Z",
@@ -2019,20 +2078,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "PeterZ"
-    },
-    {
-      "title": "How to realize which version of Selenium to use for each Chrome version?",
-      "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version",
-      "published_at": "2026-09-15T09:48:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "google-chrome",
-        "selenium-webdriver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Soroush Kalantari"
     }
   ],
   "DevOps": [
@@ -2309,6 +2354,36 @@
       "user": "nyaomaru"
     },
     {
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
+      "tags": [
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
+      "published_at": "2026-09-10T18:23:05Z",
+      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
       "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
       "published_at": "2026-09-10T19:23:39Z",
@@ -2347,7 +2422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "FankChen"
     },
     {
@@ -2483,34 +2558,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffazrx9s2cllgud2aw7f4.jpg",
       "source": "Dev.to",
       "user": "Thomas Künneth"
-    },
-    {
-      "title": "The Unbreakable Shopping Cart: Pairing BlocSignal with Fast Immutable Collections (FIC) for Bulletproof Flutter Apps",
-      "url": "https://dev.to/gde/the-unbreakable-shopping-cart-pairing-blocsignal-with-fast-immutable-collections-fic-for-1pn2",
-      "published_at": "2026-09-06T16:51:54Z",
-      "description": "Eliminate in-place mutation bugs, corrupted undo stacks, defensive copying overhead, and skipped Flutter rebuilds by pairing BlocSignal with fast_immutable_collections.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjy3pov18kno4wh0l13z.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Swift 6.4 Released",
-      "url": "https://www.swift.org/blog/swift-6.4-released/",
-      "published_at": "2026-09-15T13:55:10.632-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "release",
-        "swift"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kevinc"
     }
   ],
   "Cloud": [
@@ -2679,6 +2726,21 @@
       "user": "xbill"
     },
     {
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
+      "published_at": "2026-09-11T13:20:27Z",
+      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
+      "tags": [
+        "mcp",
+        "python",
+        "googlecloud",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
       "published_at": "2026-08-25T20:44:29Z",
@@ -2795,14 +2857,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 619,
       "user": "agentverse-os"
     },
     {
       "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
       "url": "https://stackoverflow.com/questions/80003320/practical-limit-for-cloud-firestore-onsnapshot-listeners-per-browser-client",
       "published_at": "2026-09-15T18:26:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "firebase",
@@ -2825,21 +2887,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "danielroe/airspace - The database you already have.",
-      "url": "https://github.com/danielroe/airspace",
-      "published_at": "2026-09-11T07:21:52Z",
-      "description": "The database you already have.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
-      "source": "GitHub",
-      "stars": 126,
-      "user": "danielroe"
     },
     {
       "title": "Generating Series of Date Values in an Interactive Grid",
@@ -3072,7 +3119,7 @@
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
       "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
       "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "validation",
@@ -3181,6 +3228,21 @@
       "user": "Ashley Childress"
     },
     {
+      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
+      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
+      "published_at": "2026-09-11T23:07:27Z",
+      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
       "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
       "published_at": "2026-09-09T20:59:07Z",
@@ -3273,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 653,
       "user": "rizqinrr"
     },
     {
@@ -3288,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 417,
       "user": "viettranx"
     },
     {
@@ -3303,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "nhovongoc0-max"
     },
     {
@@ -3318,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "Qiuner"
     },
     {
@@ -3348,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1033,
       "user": "ai-sucks-butt"
     },
     {
@@ -3363,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 824,
       "user": "kruzovic7"
     },
     {
@@ -3378,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 702,
       "user": "nftechie"
     },
     {
@@ -3393,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 576,
       "user": "nilbuild"
     },
     {
@@ -3408,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 516,
       "user": "letorig"
     },
     {
@@ -3423,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 681,
       "user": "unstablebuild"
     },
     {
@@ -3438,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 294,
       "user": "linguo2625469"
     },
     {
@@ -3453,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 192,
       "user": "x4gpanell"
     },
     {
@@ -3468,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "AlexAntonik"
     },
     {
@@ -3502,21 +3564,6 @@
       "user": "xsolla-baku-gametech-hackathon"
     },
     {
-      "title": "NxcoreAI/NxMem - GitHub Repository",
-      "url": "https://github.com/NxcoreAI/NxMem",
-      "published_at": "2026-09-10T12:14:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
-      "source": "GitHub",
-      "stars": 187,
-      "user": "NxcoreAI"
-    },
-    {
       "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
       "url": "https://github.com/agent-launch/agent-launcher",
       "published_at": "2026-09-10T22:07:14Z",
@@ -3528,8 +3575,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 194,
       "user": "agent-launch"
+    },
+    {
+      "title": "NxcoreAI/NxMem - GitHub Repository",
+      "url": "https://github.com/NxcoreAI/NxMem",
+      "published_at": "2026-09-10T12:14:47Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
+      "source": "GitHub",
+      "stars": 193,
+      "user": "NxcoreAI"
+    },
+    {
+      "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
+      "url": "https://github.com/opencoredev/bg0",
+      "published_at": "2026-09-14T16:42:22Z",
+      "description": "Private, unlimited background removal that runs in your browser.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "opencoredev"
     },
     {
       "title": "FankChen/tracecrate - Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
@@ -3543,23 +3620,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122890530?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "FankChen"
-    },
-    {
-      "title": "danielroe/airspace - The database you already have.",
-      "url": "https://github.com/danielroe/airspace",
-      "published_at": "2026-09-11T07:21:52Z",
-      "description": "The database you already have.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
-      "source": "GitHub",
-      "stars": 126,
-      "user": "danielroe"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -3573,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 619,
       "user": "agentverse-os"
     },
     {
@@ -3635,19 +3697,6 @@
       "source": "GitHub",
       "stars": 82,
       "user": "maximpri"
-    },
-    {
-      "title": "Is there any legitimate use case for JavaScript encodeURI()?",
-      "url": "https://stackoverflow.com/questions/80002775/is-there-any-legitimate-use-case-for-javascript-encodeuri",
-      "published_at": "2026-09-13T13:50:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "best-practices",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Andy"
     },
     {
       "title": "Compiling and parsing After Effects JavaScript code",
