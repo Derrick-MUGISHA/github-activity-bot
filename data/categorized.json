@@ -313,6 +313,20 @@
       "user": "James O'Reilly"
     },
     {
+      "title": "4 pitfalls of loop engineering (and how to fix them)",
+      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
+      "published_at": "2026-09-09T17:37:13Z",
+      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
+      "tags": [
+        "ai",
+        "agents",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
       "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
       "published_at": "2026-09-11T23:07:27Z",
@@ -736,21 +750,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 334,
-      "user": "Qiuner"
-    },
-    {
       "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
       "published_at": "2026-09-15T09:39:14Z",
@@ -762,8 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 420,
       "user": "theoephraim"
+    },
+    {
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
+      "source": "GitHub",
+      "stars": 363,
+      "user": "Qiuner"
     },
     {
       "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
@@ -777,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1939,
+      "stars": 2244,
       "user": "ai-sucks-butt"
     },
     {
@@ -792,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 828,
       "user": "kruzovic7"
     },
     {
@@ -807,8 +821,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 372,
       "user": "linguo2625469"
+    },
+    {
+      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "published_at": "2026-09-14T23:30:01Z",
+      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
+      "source": "GitHub",
+      "stars": 28,
+      "user": "HuskerMinion"
+    },
+    {
+      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "published_at": "2026-09-16T21:36:20Z",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "source": "GitHub",
+      "stars": 192,
+      "user": "jarrodwatts"
     },
     {
       "title": "danielroe/airspace - The database you already have.",
@@ -822,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "danielroe"
     },
     {
@@ -837,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "p1ass"
     },
     {
@@ -852,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 701,
       "user": "agentverse-os"
     },
     {
@@ -938,6 +982,22 @@
       "user": "DefNot"
     },
     {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "published_at": "2026-09-17T05:00:00.000Z",
+      "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "simulation",
+        "Iceland",
+        "voice AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
       "published_at": "2026-09-17T03:30:00.000Z",
@@ -968,7 +1028,7 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "Al Gore says the real AI risk isn&#8217;t data centers — it&#8217;s what industry leaders are warning about",
+      "title": "Al Gore says the real AI risk isn&#8217;t data centers",
       "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "published_at": "2026-09-16T23:43:09.000Z",
       "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
@@ -1334,19 +1394,19 @@
       "user": "rizqinrr"
     },
     {
-      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "url": "https://github.com/nhovongoc0-max/meme-radar",
-      "published_at": "2026-09-11T12:14:57Z",
-      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "published_at": "2026-09-15T09:39:14Z",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 350,
-      "user": "nhovongoc0-max"
+      "stars": 420,
+      "user": "theoephraim"
     },
     {
       "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
@@ -1360,23 +1420,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 363,
       "user": "Qiuner"
     },
     {
-      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "published_at": "2026-09-15T09:39:14Z",
-      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "url": "https://github.com/nhovongoc0-max/meme-radar",
+      "published_at": "2026-09-11T12:14:57Z",
+      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 320,
-      "user": "theoephraim"
+      "stars": 354,
+      "user": "nhovongoc0-max"
     },
     {
       "title": "kazdenc/regen-icons - GitHub Repository",
@@ -1390,23 +1450,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "kazdenc"
-    },
-    {
-      "title": "bancsdan/GoKK - CLI tool for checking the departure of your bus/tram/etc for Budapest from your terminal in a second. With JSON output support for scripting.",
-      "url": "https://github.com/bancsdan/GoKK",
-      "published_at": "2026-09-12T20:52:18Z",
-      "description": "CLI tool for checking the departure of your bus/tram/etc for Budapest from your terminal in a second. With JSON output support for scripting.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7544608?v=4",
-      "source": "GitHub",
-      "stars": 24,
-      "user": "bancsdan"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -1420,8 +1465,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 216,
       "user": "opencoredev"
+    },
+    {
+      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "published_at": "2026-09-16T21:36:20Z",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "source": "GitHub",
+      "stars": 192,
+      "user": "jarrodwatts"
     },
     {
       "title": "danielroe/airspace - The database you already have.",
@@ -1435,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "danielroe"
     },
     {
@@ -1450,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "anmolkapil"
     },
     {
@@ -1465,23 +1525,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "p1ass"
     },
     {
-      "title": "RocYan98/CodexBoard -  Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
-      "url": "https://github.com/RocYan98/CodexBoard",
-      "published_at": "2026-09-14T13:47:36Z",
-      "description": " Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
+      "title": "React state returns null when calling API",
+      "url": "https://stackoverflow.com/questions/80003708/react-state-returns-null-when-calling-api",
+      "published_at": "2026-09-17T08:27:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "reactjs",
+        "react-hooks"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58363427?v=4",
-      "source": "GitHub",
-      "stars": 97,
-      "user": "RocYan98"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thorfinn"
+    },
+    {
+      "title": "How to achieve 120fps on SDUI list",
+      "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
+      "published_at": "2026-09-17T07:45:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "ios",
+        "reactjs",
+        "react-native"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kriptonian"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1516,7 +1590,7 @@
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
       "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
       "published_at": "2026-09-15T04:52:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "angular",
@@ -1597,33 +1671,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavin Adhvaryu"
-    },
-    {
-      "title": "Add joint limits in matterjs",
-      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
-      "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "matter.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wadskays26"
-    },
-    {
-      "title": "Understanding cookie session in React Router",
-      "url": "https://stackoverflow.com/questions/79999005/understanding-cookie-session-in-react-router",
-      "published_at": "2026-08-28T16:01:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-router"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
     }
   ],
   "Python": [
@@ -1879,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1939,
+      "stars": 2244,
       "user": "ai-sucks-butt"
     },
     {
@@ -1894,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 828,
       "user": "kruzovic7"
     },
     {
@@ -1909,8 +1956,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 658,
       "user": "nilbuild"
+    },
+    {
+      "title": "browser-use/jev-ultrafast - GitHub Repository",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "published_at": "2026-09-16T21:30:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 540,
+      "user": "browser-use"
     },
     {
       "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
@@ -1924,23 +1986,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 522,
       "user": "letorig"
-    },
-    {
-      "title": "DefiLeoo/YOINK - GitHub Repository",
-      "url": "https://github.com/DefiLeoo/YOINK",
-      "published_at": "2026-09-11T10:54:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135053852?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "DefiLeoo"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1958,10 +2005,24 @@
       "user": "Dimitrios Desyllas"
     },
     {
+      "title": "I’m having trouble getting Python to locate a specific value in a spreadsheet",
+      "url": "https://stackoverflow.com/questions/80003582/i-m-having-trouble-getting-python-to-locate-a-specific-value-in-a-spreadsheet",
+      "published_at": "2026-09-16T18:24:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "advice",
+        "python",
+        "excel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Paulo C&#233;sar Matos"
+    },
+    {
       "title": "Overlaying OSM Data in folium",
       "url": "https://stackoverflow.com/questions/80003635/overlaying-osm-data-in-folium",
       "published_at": "2026-09-16T22:25:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "folium"
@@ -1986,24 +2047,10 @@
       "user": "Anonymous Tech"
     },
     {
-      "title": "I’m having trouble getting Python to locate a specific value in a spreadsheet",
-      "url": "https://stackoverflow.com/questions/80003582/i-m-having-trouble-getting-python-to-locate-a-specific-value-in-a-spreadsheet",
-      "published_at": "2026-09-16T18:24:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "excel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Paulo C&#233;sar Matos"
-    },
-    {
       "title": "What does annotating a variable actually do in Python?",
       "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
       "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 4 answers · score 18",
+      "description": "Stack Overflow question · 4 answers · score 19",
       "tags": [
         "python",
         "python-typing"
@@ -2071,18 +2118,20 @@
       "user": "Petra"
     },
     {
-      "title": "How to realize which version of Selenium to use for each Chrome version?",
-      "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version",
-      "published_at": "2026-09-15T09:48:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "published_at": "2026-09-15T10:28:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "google-chrome",
-        "selenium-webdriver"
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Soroush Kalantari"
+      "user": "gh0st_dancing"
     }
   ],
   "DevOps": [
@@ -2461,6 +2510,22 @@
       "user": "Bhavin Adhvaryu"
     },
     {
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "published_at": "2026-09-15T10:28:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
+    },
+    {
       "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
       "url": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
       "published_at": "2026-09-16T15:28:18.000Z",
@@ -2532,23 +2597,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 65,
       "user": "kdbhalala"
     },
     {
-      "title": "RocYan98/CodexBoard -  Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
-      "url": "https://github.com/RocYan98/CodexBoard",
-      "published_at": "2026-09-14T13:47:36Z",
-      "description": " Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
+      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "published_at": "2026-09-14T23:30:01Z",
+      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58363427?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 97,
-      "user": "RocYan98"
+      "stars": 28,
+      "user": "HuskerMinion"
+    },
+    {
+      "title": "How to achieve 120fps on SDUI list",
+      "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
+      "published_at": "2026-09-17T07:45:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "ios",
+        "reactjs",
+        "react-native"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kriptonian"
     }
   ],
   "Cloud": [
@@ -2863,7 +2943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 420,
       "user": "theoephraim"
     },
     {
@@ -2878,7 +2958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 701,
       "user": "agentverse-os"
     },
     {
@@ -2921,7 +3001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "danielroe"
     },
     {
@@ -2939,6 +3019,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavin Adhvaryu"
+    },
+    {
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "published_at": "2026-09-15T10:28:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -3340,19 +3436,19 @@
       "user": "rizqinrr"
     },
     {
-      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "url": "https://github.com/nhovongoc0-max/meme-radar",
-      "published_at": "2026-09-11T12:14:57Z",
-      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+      "published_at": "2026-09-15T09:39:14Z",
+      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 350,
-      "user": "nhovongoc0-max"
+      "stars": 420,
+      "user": "theoephraim"
     },
     {
       "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
@@ -3366,23 +3462,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 363,
       "user": "Qiuner"
     },
     {
-      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "published_at": "2026-09-15T09:39:14Z",
-      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "url": "https://github.com/nhovongoc0-max/meme-radar",
+      "published_at": "2026-09-11T12:14:57Z",
+      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 320,
-      "user": "theoephraim"
+      "stars": 354,
+      "user": "nhovongoc0-max"
     },
     {
       "title": "kazdenc/regen-icons - GitHub Repository",
@@ -3396,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "kazdenc"
     },
     {
@@ -3411,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1939,
+      "stars": 2244,
       "user": "ai-sucks-butt"
     },
     {
@@ -3426,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 828,
       "user": "kruzovic7"
     },
     {
@@ -3441,8 +3537,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 658,
       "user": "nilbuild"
+    },
+    {
+      "title": "browser-use/jev-ultrafast - GitHub Repository",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "published_at": "2026-09-16T21:30:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 540,
+      "user": "browser-use"
     },
     {
       "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
@@ -3456,23 +3567,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 522,
       "user": "letorig"
-    },
-    {
-      "title": "DefiLeoo/YOINK - GitHub Repository",
-      "url": "https://github.com/DefiLeoo/YOINK",
-      "published_at": "2026-09-11T10:54:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135053852?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "DefiLeoo"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -3486,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 372,
       "user": "linguo2625469"
     },
     {
@@ -3501,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 114,
       "user": "YongshengWin"
     },
     {
@@ -3516,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 65,
       "user": "kdbhalala"
     },
     {
@@ -3535,19 +3631,19 @@
       "user": "mstrYoda"
     },
     {
-      "title": "bancsdan/GoKK - CLI tool for checking the departure of your bus/tram/etc for Budapest from your terminal in a second. With JSON output support for scripting.",
-      "url": "https://github.com/bancsdan/GoKK",
-      "published_at": "2026-09-12T20:52:18Z",
-      "description": "CLI tool for checking the departure of your bus/tram/etc for Budapest from your terminal in a second. With JSON output support for scripting.",
+      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "published_at": "2026-09-14T23:30:01Z",
+      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7544608?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 24,
-      "user": "bancsdan"
+      "stars": 28,
+      "user": "HuskerMinion"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -3561,8 +3657,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 216,
       "user": "opencoredev"
+    },
+    {
+      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "published_at": "2026-09-16T21:36:20Z",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "source": "GitHub",
+      "stars": 192,
+      "user": "jarrodwatts"
     },
     {
       "title": "danielroe/airspace - The database you already have.",
@@ -3576,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "danielroe"
     },
     {
@@ -3591,7 +3702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "anmolkapil"
     },
     {
@@ -3606,23 +3717,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "p1ass"
-    },
-    {
-      "title": "RocYan98/CodexBoard -  Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
-      "url": "https://github.com/RocYan98/CodexBoard",
-      "published_at": "2026-09-14T13:47:36Z",
-      "description": " Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58363427?v=4",
-      "source": "GitHub",
-      "stars": 97,
-      "user": "RocYan98"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -3636,7 +3732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 701,
       "user": "agentverse-os"
     },
     {
@@ -3670,21 +3766,6 @@
       "user": "maximpri"
     },
     {
-      "title": "XiaoQAQ10086/FrameGen-Manager - 一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
-      "url": "https://github.com/XiaoQAQ10086/FrameGen-Manager",
-      "published_at": "2026-09-13T04:01:52Z",
-      "description": "一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "XiaoQAQ10086"
-    },
-    {
       "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
       "url": "https://github.com/dmtrKovalenko/bashka",
       "published_at": "2026-09-15T21:31:30Z",
@@ -3696,21 +3777,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 69,
       "user": "dmtrKovalenko"
     },
     {
-      "title": "Reinventing issue tracking: Local-first and Git-native",
-      "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
-      "published_at": "2026-09-16T05:17:30.841-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "XiaoQAQ10086/FrameGen-Manager - 一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
+      "url": "https://github.com/XiaoQAQ10086/FrameGen-Manager",
+      "published_at": "2026-09-13T04:01:52Z",
+      "description": "一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
       "tags": [
-        "practices",
-        "vcs"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "matklad"
+      "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "XiaoQAQ10086"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
