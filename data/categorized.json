@@ -299,20 +299,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Elevating Antigravity agent skills, Part 2: Image generation",
-      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
-      "published_at": "2026-09-01T16:51:26Z",
-      "description": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
-      "source": "Dev.to",
-      "user": "James O'Reilly"
-    },
-    {
       "title": "4 pitfalls of loop engineering (and how to fix them)",
       "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
       "published_at": "2026-09-09T17:37:13Z",
@@ -761,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 518,
       "user": "theoephraim"
     },
     {
@@ -776,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "Qiuner"
     },
     {
@@ -791,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 2550,
+      "stars": 2805,
       "user": "ai-sucks-butt"
     },
     {
@@ -806,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 833,
       "user": "kruzovic7"
     },
     {
@@ -821,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 411,
       "user": "linguo2625469"
     },
     {
@@ -836,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 41,
       "user": "HuskerMinion"
     },
     {
@@ -866,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 417,
       "user": "jarrodwatts"
     },
     {
@@ -881,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "danielroe"
     },
     {
@@ -896,8 +882,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 728,
       "user": "agentverse-os"
+    },
+    {
+      "title": "I Don't Like LLMs",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "published_at": "2026-09-17T10:25:24.745-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cameron"
     },
     {
       "title": "A/I Shuts Down",
@@ -913,22 +911,25 @@
       "user": "kolja"
     },
     {
-      "title": "Why i'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "published_at": "2026-09-16T10:04:45.848-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Why is my async map returning an array of promises?",
+      "url": "https://stackoverflow.com/questions/80003814/why-is-my-async-map-returning-an-array-of-promises",
+      "published_at": "2026-09-17T14:22:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "vibecoding"
+        "javascript",
+        "asynchronous",
+        "async-await",
+        "promise"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "andyc"
+      "source": "StackOverflow",
+      "user": "Faheem"
     },
     {
       "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
       "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
       "published_at": "2026-09-17T09:32:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "security",
@@ -940,35 +941,93 @@
       "user": "Harshit Raizada"
     },
     {
-      "title": "What is a good structured learning path for understanding machine learning from fundamentals to advanced concepts?",
-      "url": "https://stackoverflow.com/questions/80003602/what-is-a-good-structured-learning-path-for-understanding-machine-learning-from",
-      "published_at": "2026-09-16T19:54:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Even the king of England has his hesitations about AI",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "published_at": "2026-09-17T17:26:25.000Z",
+      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and UK government.",
       "tags": [
-        "best-practices",
-        "python",
-        "machine-learning",
-        "scikit-learn"
+        "Government & Policy",
+        "AI",
+        "Politics",
+        "UK"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anonymous Tech"
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
-      "title": "How to secure file paths and input handling in a Python web server (main.py)",
-      "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
-      "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "published_at": "2026-09-17T17:15:59.000Z",
+      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
       "tags": [
-        "python",
-        "validation",
-        "input",
-        "python-3.10",
-        "websecurity"
+        "AI",
+        "TC",
+        "Hugging Face",
+        "responsible ai"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DefNot"
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Pinterest teases a new &#8216;Restyle&#8217; feature that lets you redesign your room with AI",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "published_at": "2026-09-17T17:15:00.000Z",
+      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "Pinterest"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
+      "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "published_at": "2026-09-17T16:34:36.000Z",
+      "description": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
+      "tags": [
+        "Social",
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jean Bradley, TechCrunch Events"
+    },
+    {
+      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+      "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+      "published_at": "2026-09-17T16:09:58.000Z",
+      "description": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "app tracking transparency",
+        "Apple",
+        "european union"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Roku&#8217;s new Labs hub brings experimental apps to the big screen",
+      "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
+      "published_at": "2026-09-17T15:50:29.000Z",
+      "description": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
+      "tags": [
+        "Media & Entertainment",
+        "roku",
+        "streaming"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
@@ -985,112 +1044,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kate Park"
-    },
-    {
-      "title": "Rival AI agents, Instinct and Meta&#8217;s Muse, both add the ability to make calls",
-      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "published_at": "2026-09-17T13:46:16.000Z",
-      "description": "People can use these assistants to make restaurant reservations and cancel subscriptions",
-      "tags": [
-        "AI",
-        "Apps",
-        "instinct",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "published_at": "2026-09-17T13:38:33.000Z",
-      "description": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "tags": [
-        "AI",
-        "Climate",
-        "Anthropic",
-        "data centers",
-        "electrical grid"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
-      "url": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
-      "published_at": "2026-09-17T12:57:46.000Z",
-      "description": "BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.",
-      "tags": [
-        "Fundraising",
-        "Venture",
-        "bain capital ventures",
-        "venture capital funds"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Spotify expands its partner program for podcasts to 35 new countries",
-      "url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
-      "published_at": "2026-09-17T12:00:00.000Z",
-      "description": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.",
-      "tags": [
-        "Media & Entertainment",
-        "In Brief",
-        "podcasts",
-        "Spotify"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "published_at": "2026-09-17T11:00:00.000Z",
-      "description": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "compliance",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "published_at": "2026-09-17T05:00:00.000Z",
-      "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "simulation",
-        "Iceland",
-        "voice AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-17T03:30:00.000Z",
-      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-      "tags": [
-        "Startups",
-        "AI",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1407,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 518,
       "user": "theoephraim"
     },
     {
@@ -1422,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "Qiuner"
     },
     {
@@ -1452,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 153,
       "user": "kazdenc"
     },
     {
@@ -1482,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 417,
       "user": "jarrodwatts"
     },
     {
@@ -1497,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "opencoredev"
     },
     {
@@ -1512,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "danielroe"
     },
     {
@@ -1527,14 +1480,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 129,
       "user": "anmolkapil"
+    },
+    {
+      "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
+      "url": "https://stackoverflow.com/questions/80003818/trying-to-animate-coin-flipping-everything-but-the-actual-coin-flipping-works",
+      "published_at": "2026-09-17T14:30:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "T_T_P"
+    },
+    {
+      "title": "Why is my async map returning an array of promises?",
+      "url": "https://stackoverflow.com/questions/80003814/why-is-my-async-map-returning-an-array-of-promises",
+      "published_at": "2026-09-17T14:22:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "asynchronous",
+        "async-await",
+        "promise"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Faheem"
     },
     {
       "title": "React state returns null when calling API",
       "url": "https://stackoverflow.com/questions/80003708/react-state-returns-null-when-calling-api",
       "published_at": "2026-09-17T08:27:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1558,6 +1540,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kriptonian"
+    },
+    {
+      "title": "How do I correctly calculate the velocity with (key === right - key === left) * moveSpeed",
+      "url": "https://stackoverflow.com/questions/80003350/how-do-i-correctly-calculate-the-velocity-with-key-right-key-left",
+      "published_at": "2026-09-15T20:49:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VIXSIN"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1603,18 +1597,6 @@
       "user": "Prakhar Gupta"
     },
     {
-      "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
-      "url": "https://stackoverflow.com/questions/80003350/how-do-i-do-the-vx-rightkey-leftkey-movespeed",
-      "published_at": "2026-09-15T20:49:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VIXSIN"
-    },
-    {
       "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
       "url": "https://stackoverflow.com/questions/80003348/how-do-i-change-the-hitbox-of-a-png-jpg-to-match-what-is-and-isnt-transparent",
       "published_at": "2026-09-15T20:46:57.000Z",
@@ -1627,33 +1609,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "saturn"
-    },
-    {
-      "title": "Add joint limits in matterjs",
-      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
-      "published_at": "2026-09-06T09:50:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "matter.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wadskays26"
-    },
-    {
-      "title": "Understanding cookie session in React Router",
-      "url": "https://stackoverflow.com/questions/79999005/understanding-cookie-session-in-react-router",
-      "published_at": "2026-08-28T16:01:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-router"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
     },
     {
       "title": "dynamic links with expo React Native useAudioPlayer",
@@ -1924,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 2550,
+      "stars": 2805,
       "user": "ai-sucks-butt"
     },
     {
@@ -1939,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1457,
       "user": "browser-use"
     },
     {
@@ -1954,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 833,
       "user": "kruzovic7"
     },
     {
@@ -1969,23 +1924,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 673,
       "user": "nilbuild"
     },
     {
-      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-      "url": "https://github.com/letorig/video-generator-client",
-      "published_at": "2026-09-14T17:46:01Z",
-      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
+      "url": "https://github.com/TheoLeeCJ/openjev",
+      "published_at": "2026-09-16T03:51:21Z",
+      "description": "Can we run something like Jev on a 3090 at home?",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 523,
-      "user": "letorig"
+      "stars": 593,
+      "user": "TheoLeeCJ"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -2001,6 +1956,57 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
+    },
+    {
+      "title": "Run code when module is unloaded from memory",
+      "url": "https://stackoverflow.com/questions/80003859/run-code-when-module-is-unloaded-from-memory",
+      "published_at": "2026-09-17T16:32:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "How do I use PySimpleGUI6 to make an app?",
+      "url": "https://stackoverflow.com/questions/80003864/how-do-i-use-pysimplegui6-to-make-an-app",
+      "published_at": "2026-09-17T16:52:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "pysimplegui"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Megatron1000"
+    },
+    {
+      "title": "pygame + multiprocessing =?",
+      "url": "https://stackoverflow.com/questions/80003840/pygame-multiprocessing",
+      "published_at": "2026-09-17T15:30:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "multithreading",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeremy"
+    },
+    {
+      "title": "Remove paragraphs from a word .doc using Python",
+      "url": "https://stackoverflow.com/questions/80003827/remove-paragraphs-from-a-word-doc-using-python",
+      "published_at": "2026-09-17T14:54:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user27178816"
     },
     {
       "title": "Pandas 'drop_duplicates' not removing rows",
@@ -2019,7 +2025,7 @@
       "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
       "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
       "published_at": "2026-09-17T09:32:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "security",
@@ -2034,7 +2040,7 @@
       "title": "What does annotating a variable actually do in Python?",
       "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
       "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 4 answers · score 19",
+      "description": "Stack Overflow question · 4 answers · score 21",
       "tags": [
         "python",
         "python-typing"
@@ -2058,6 +2064,20 @@
       "user": "Paulo C&#233;sar Matos"
     },
     {
+      "title": "Is it possible to configure structlog using Python standard library fileConfig/dictConfig?",
+      "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-standard-library-fileconfig-d",
+      "published_at": "2026-09-16T02:14:05.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "python",
+        "structlog",
+        "structured-logging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Frames Catherine White"
+    },
+    {
       "title": "Overlaying OSM Data in folium",
       "url": "https://stackoverflow.com/questions/80003635/overlaying-osm-data-in-folium",
       "published_at": "2026-09-16T22:25:16.000Z",
@@ -2069,64 +2089,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TXpy890"
-    },
-    {
-      "title": "What is a good structured learning path for understanding machine learning from fundamentals to advanced concepts?",
-      "url": "https://stackoverflow.com/questions/80003602/what-is-a-good-structured-learning-path-for-understanding-machine-learning-from",
-      "published_at": "2026-09-16T19:54:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "best-practices",
-        "python",
-        "machine-learning",
-        "scikit-learn"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anonymous Tech"
-    },
-    {
-      "title": "Is it possible to configure structlog using Python standard library fileConfig/dictConfig?",
-      "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-standard-library-fileconfig-d",
-      "published_at": "2026-09-16T02:14:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "structlog",
-        "structured-logging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Frames Catherine White"
-    },
-    {
-      "title": "holoviews.Point bi-directional sync",
-      "url": "https://stackoverflow.com/questions/80003443/holoviews-point-bi-directional-sync",
-      "published_at": "2026-09-16T09:21:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "holoviews"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FLS"
-    },
-    {
-      "title": "How to secure file paths and input handling in a Python web server (main.py)",
-      "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
-      "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "validation",
-        "input",
-        "python-3.10",
-        "websecurity"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DefNot"
     }
   ],
   "DevOps": [
@@ -2460,6 +2422,20 @@
       "user": "velmu"
     },
     {
+      "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
+      "url": "https://stackoverflow.com/questions/80003818/trying-to-animate-coin-flipping-everything-but-the-actual-coin-flipping-works",
+      "published_at": "2026-09-17T14:30:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "T_T_P"
+    },
+    {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
       "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
       "published_at": "2026-09-16T12:58:13.000Z",
@@ -2560,7 +2536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 89,
       "user": "kdbhalala"
     },
     {
@@ -2575,7 +2551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 41,
       "user": "HuskerMinion"
     },
     {
@@ -2921,7 +2897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 518,
       "user": "theoephraim"
     },
     {
@@ -2936,7 +2912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 728,
       "user": "agentverse-os"
     },
     {
@@ -2979,7 +2955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "danielroe"
     },
     {
@@ -3178,23 +3154,10 @@
       "user": "ewenjo"
     },
     {
-      "title": "Forgery of C2PA on a Pixel 10",
-      "url": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
-      "published_at": "2026-09-16T08:24:31.337-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "cryptography",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lvig"
-    },
-    {
       "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
       "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
       "published_at": "2026-09-17T09:32:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "security",
@@ -3204,37 +3167,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harshit Raizada"
-    },
-    {
-      "title": "How to secure file paths and input handling in a Python web server (main.py)",
-      "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
-      "published_at": "2026-09-16T04:51:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "validation",
-        "input",
-        "python-3.10",
-        "websecurity"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DefNot"
-    },
-    {
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "published_at": "2026-09-17T11:00:00.000Z",
-      "description": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "compliance",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -3423,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 518,
       "user": "theoephraim"
     },
     {
@@ -3438,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "Qiuner"
     },
     {
@@ -3468,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 153,
       "user": "kazdenc"
     },
     {
@@ -3483,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 2550,
+      "stars": 2805,
       "user": "ai-sucks-butt"
     },
     {
@@ -3498,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1457,
       "user": "browser-use"
     },
     {
@@ -3513,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 833,
       "user": "kruzovic7"
     },
     {
@@ -3528,23 +3460,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 673,
       "user": "nilbuild"
     },
     {
-      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-      "url": "https://github.com/letorig/video-generator-client",
-      "published_at": "2026-09-14T17:46:01Z",
-      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
+      "url": "https://github.com/TheoLeeCJ/openjev",
+      "published_at": "2026-09-16T03:51:21Z",
+      "description": "Can we run something like Jev on a 3090 at home?",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 523,
-      "user": "letorig"
+      "stars": 593,
+      "user": "TheoLeeCJ"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -3558,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 411,
       "user": "linguo2625469"
     },
     {
@@ -3573,23 +3505,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 125,
       "user": "YongshengWin"
-    },
-    {
-      "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
-      "url": "https://github.com/kdbhalala/avdslim",
-      "published_at": "2026-09-16T06:52:40Z",
-      "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
-      "source": "GitHub",
-      "stars": 78,
-      "user": "kdbhalala"
     },
     {
       "title": "BennyThink/NFCX - NFC eXtended: A focused, cross-platform desktop workbench for authorized NFC card work.",
@@ -3603,8 +3520,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14024832?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 99,
       "user": "BennyThink"
+    },
+    {
+      "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "url": "https://github.com/kdbhalala/avdslim",
+      "published_at": "2026-09-16T06:52:40Z",
+      "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "kdbhalala"
     },
     {
       "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
@@ -3618,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 41,
       "user": "HuskerMinion"
     },
     {
@@ -3648,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 417,
       "user": "jarrodwatts"
     },
     {
@@ -3663,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "opencoredev"
     },
     {
@@ -3678,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "danielroe"
     },
     {
@@ -3693,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 129,
       "user": "anmolkapil"
     },
     {
@@ -3708,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 728,
       "user": "agentverse-os"
     },
     {
@@ -3727,6 +3659,21 @@
       "user": "Abomination81"
     },
     {
+      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "url": "https://github.com/dmtrKovalenko/bashka",
+      "published_at": "2026-09-15T21:31:30Z",
+      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
+      "source": "GitHub",
+      "stars": 87,
+      "user": "dmtrKovalenko"
+    },
+    {
       "title": "maximpri/mlxtop - GitHub Repository",
       "url": "https://github.com/maximpri/mlxtop",
       "published_at": "2026-09-11T03:31:31Z",
@@ -3742,21 +3689,6 @@
       "user": "maximpri"
     },
     {
-      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
-      "url": "https://github.com/dmtrKovalenko/bashka",
-      "published_at": "2026-09-15T21:31:30Z",
-      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
-      "source": "GitHub",
-      "stars": 80,
-      "user": "dmtrKovalenko"
-    },
-    {
       "title": "XiaoQAQ10086/FrameGen-Manager - 一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
       "url": "https://github.com/XiaoQAQ10086/FrameGen-Manager",
       "published_at": "2026-09-13T04:01:52Z",
@@ -3768,8 +3700,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "XiaoQAQ10086"
+    },
+    {
+      "title": "Pinterest teases a new &#8216;Restyle&#8217; feature that lets you redesign your room with AI",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "published_at": "2026-09-17T17:15:00.000Z",
+      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "Pinterest"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
