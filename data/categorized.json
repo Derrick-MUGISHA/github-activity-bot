@@ -299,6 +299,20 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Elevating Antigravity agent skills, Part 2: Image generation",
+      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
+      "published_at": "2026-09-01T16:51:26Z",
+      "description": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
+      "tags": [
+        "ai",
+        "agentskills",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
+      "source": "Dev.to",
+      "user": "James O'Reilly"
+    },
+    {
       "title": "4 pitfalls of loop engineering (and how to fix them)",
       "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
       "published_at": "2026-09-09T17:37:13Z",
@@ -553,21 +567,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "How the internet actually works, and why nobody is in charge of it",
-      "url": "https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8",
-      "published_at": "2026-09-01T18:46:58Z",
-      "description": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
-      "tags": [
-        "networking",
-        "webdev",
-        "programming",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxnd7iq7dc3kzby7m3qz.png",
-      "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -747,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 526,
       "user": "theoephraim"
     },
     {
@@ -766,21 +765,6 @@
       "user": "Qiuner"
     },
     {
-      "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
-      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "published_at": "2026-09-14T04:02:58Z",
-      "description": "If you think AI sucks, star the repo.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
-      "source": "GitHub",
-      "stars": 2805,
-      "user": "ai-sucks-butt"
-    },
-    {
       "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "published_at": "2026-09-11T18:12:58Z",
@@ -792,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "kruzovic7"
     },
     {
@@ -807,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "linguo2625469"
     },
     {
@@ -822,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 45,
       "user": "HuskerMinion"
     },
     {
@@ -852,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 455,
       "user": "jarrodwatts"
     },
     {
@@ -867,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "danielroe"
     },
     {
@@ -882,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 737,
       "user": "agentverse-os"
     },
     {
@@ -896,19 +880,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cameron"
-    },
-    {
-      "title": "A/I Shuts Down",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "published_at": "2026-09-16T01:05:38.170-05:00",
-      "description": "A/I is Autistici/Inventati, nothing to do with algorithms.\r\n\r\nWhy this matters: to quote senior advisor and journalist [Anne Roth](https://systemli.social/@anneroth):\r\n\r\n> 20,000 mail accounts. \r\n> 20,000 blogs.\r\n> 5,000 mailing lists.\r\n> 1,500 websites.\r\n> \r\n> In Europe. \r\n> \r\n> Run by volunteers of [@cavallette](https://systemli.social/@cavallette@mastodon.bida.im), perfectly legal, and decidedly antifascist, feminist, queer.\r\n> \r\n> Destroyed and shut down by Trump's administration, extra legally.\r\n\r\nThis is one of the most devastating cases of politically motivated debanking I have come across.\r\n\r\nTriggered [by my own comment](https://lobste.rs/c/dv0zqn), I thought this might be a good starting point for a discussion about how to secure platforms not only technically, but also socially and financially.\r\n\r\nMods: this is my first submission, feel free to tell me how to improve. I had a hard time choosing a tag, but I think this may be relevant to the community.",
-      "tags": [
-        "finance",
-        "privacy"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kolja"
     },
     {
       "title": "Why is my async map returning an array of promises?",
@@ -941,15 +912,88 @@
       "user": "Harshit Raizada"
     },
     {
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "published_at": "2026-09-17T20:34:47.000Z",
+      "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "tags": [
+        "AI",
+        "ai safety"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "published_at": "2026-09-17T20:34:24.000Z",
+      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "tags": [
+        "AI",
+        "ai alignment",
+        "gpt-5.6 sol",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "published_at": "2026-09-17T20:19:37.000Z",
+      "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "ai safety"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "published_at": "2026-09-17T20:00:00.000Z",
+      "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Google",
+        "Google Data Commons",
+        "unicef"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "published_at": "2026-09-17T19:46:08.000Z",
+      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "copyright",
+        "Microsoft",
+        "new york times"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Even the king of England has his hesitations about AI",
       "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
       "published_at": "2026-09-17T17:26:25.000Z",
-      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and UK government.",
+      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
       "tags": [
-        "Government & Policy",
         "AI",
-        "Politics",
-        "UK"
+        "Government & Policy"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -968,7 +1012,7 @@
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "user": "Aditya Mehta"
     },
     {
       "title": "Pinterest teases a new &#8216;Restyle&#8217; feature that lets you redesign your room with AI",
@@ -998,52 +1042,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jean Bradley, TechCrunch Events"
-    },
-    {
-      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-      "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
-      "published_at": "2026-09-17T16:09:58.000Z",
-      "description": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "app tracking transparency",
-        "Apple",
-        "european union"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Roku&#8217;s new Labs hub brings experimental apps to the big screen",
-      "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
-      "published_at": "2026-09-17T15:50:29.000Z",
-      "description": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
-      "tags": [
-        "Media & Entertainment",
-        "roku",
-        "streaming"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "published_at": "2026-09-17T14:06:14.000Z",
-      "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "tags": [
-        "AI",
-        "AI chip",
-        "AI chips",
-        "Huawei",
-        "semiconductors"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1360,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 526,
       "user": "theoephraim"
     },
     {
@@ -1405,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 158,
       "user": "kazdenc"
     },
     {
@@ -1435,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 455,
       "user": "jarrodwatts"
     },
     {
@@ -1450,8 +1448,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 228,
       "user": "opencoredev"
+    },
+    {
+      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "published_at": "2026-09-16T21:45:36Z",
+      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "devagrawal09"
     },
     {
       "title": "danielroe/airspace - The database you already have.",
@@ -1465,29 +1478,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "danielroe"
-    },
-    {
-      "title": "anmolkapil/plexo - Speed up downloads by combining multiple network connections in parallel",
-      "url": "https://github.com/anmolkapil/plexo",
-      "published_at": "2026-09-15T09:41:57Z",
-      "description": "Speed up downloads by combining multiple network connections in parallel",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "anmolkapil"
     },
     {
       "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
       "url": "https://stackoverflow.com/questions/80003818/trying-to-animate-coin-flipping-everything-but-the-actual-coin-flipping-works",
       "published_at": "2026-09-17T14:30:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1516,7 +1514,7 @@
       "title": "React state returns null when calling API",
       "url": "https://stackoverflow.com/questions/80003708/react-state-returns-null-when-calling-api",
       "published_at": "2026-09-17T08:27:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1597,20 +1595,6 @@
       "user": "Prakhar Gupta"
     },
     {
-      "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
-      "url": "https://stackoverflow.com/questions/80003348/how-do-i-change-the-hitbox-of-a-png-jpg-to-match-what-is-and-isnt-transparent",
-      "published_at": "2026-09-15T20:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "png"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saturn"
-    },
-    {
       "title": "dynamic links with expo React Native useAudioPlayer",
       "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
       "published_at": "2026-07-23T07:49:56.000Z",
@@ -1624,6 +1608,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Singh Jaskeat"
+    },
+    {
+      "title": "How can a property definition within an object literal refer to a previous property within that same object literal?",
+      "url": "https://stackoverflow.com/questions/4616202/how-can-a-property-definition-within-an-object-literal-refer-to-a-previous-prope",
+      "published_at": "2011-01-06T14:53:53.000Z",
+      "description": "Stack Overflow question · 32 answers · score 937",
+      "tags": [
+        "javascript",
+        "object-literal"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kpozin"
     }
   ],
   "Python": [
@@ -1868,21 +1865,6 @@
       "user": "arathore"
     },
     {
-      "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
-      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "published_at": "2026-09-14T04:02:58Z",
-      "description": "If you think AI sucks, star the repo.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
-      "source": "GitHub",
-      "stars": 2805,
-      "user": "ai-sucks-butt"
-    },
-    {
       "title": "browser-use/jev-ultrafast - GitHub Repository",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "published_at": "2026-09-16T21:30:12Z",
@@ -1894,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1457,
+      "stars": 1744,
       "user": "browser-use"
     },
     {
@@ -1909,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "kruzovic7"
     },
     {
@@ -1924,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 677,
       "user": "nilbuild"
     },
     {
@@ -1939,8 +1921,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 670,
       "user": "TheoLeeCJ"
+    },
+    {
+      "title": "vinnylarouge/jevlike - GitHub Repository",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "published_at": "2026-09-16T10:26:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
+      "source": "GitHub",
+      "stars": 627,
+      "user": "vinnylarouge"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1958,10 +1955,24 @@
       "user": "Dimitrios Desyllas"
     },
     {
+      "title": "How can I translate this SAT algorithm description into executable code?",
+      "url": "https://stackoverflow.com/questions/80003890/how-can-i-translate-this-sat-algorithm-description-into-executable-code",
+      "published_at": "2026-09-17T18:36:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "python",
+        "algorithm",
+        "satisfiability"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "el pollitto cientifico"
+    },
+    {
       "title": "Run code when module is unloaded from memory",
       "url": "https://stackoverflow.com/questions/80003859/run-code-when-module-is-unloaded-from-memory",
       "published_at": "2026-09-17T16:32:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python"
       ],
@@ -1973,7 +1984,7 @@
       "title": "How do I use PySimpleGUI6 to make an app?",
       "url": "https://stackoverflow.com/questions/80003864/how-do-i-use-pysimplegui6-to-make-an-app",
       "published_at": "2026-09-17T16:52:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "pysimplegui"
@@ -2012,7 +2023,7 @@
       "title": "Pandas 'drop_duplicates' not removing rows",
       "url": "https://stackoverflow.com/questions/80003787/pandas-drop-duplicates-not-removing-rows",
       "published_at": "2026-09-17T12:11:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "pandas"
@@ -2076,19 +2087,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Frames Catherine White"
-    },
-    {
-      "title": "Overlaying OSM Data in folium",
-      "url": "https://stackoverflow.com/questions/80003635/overlaying-osm-data-in-folium",
-      "published_at": "2026-09-16T22:25:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "folium"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TXpy890"
     }
   ],
   "DevOps": [
@@ -2425,7 +2423,7 @@
       "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
       "url": "https://stackoverflow.com/questions/80003818/trying-to-animate-coin-flipping-everything-but-the-actual-coin-flipping-works",
       "published_at": "2026-09-17T14:30:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2449,20 +2447,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "How do I change the \"hitbox\" of a png/jpg to match what is and isn't transparent?",
-      "url": "https://stackoverflow.com/questions/80003348/how-do-i-change-the-hitbox-of-a-png-jpg-to-match-what-is-and-isnt-transparent",
-      "published_at": "2026-09-15T20:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "png"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saturn"
     },
     {
       "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
@@ -2536,7 +2520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 93,
       "user": "kdbhalala"
     },
     {
@@ -2551,7 +2535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 45,
       "user": "HuskerMinion"
     },
     {
@@ -2897,7 +2881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 526,
       "user": "theoephraim"
     },
     {
@@ -2912,7 +2896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 737,
       "user": "agentverse-os"
     },
     {
@@ -2955,7 +2939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "danielroe"
     },
     {
@@ -3152,6 +3136,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+      "published_at": "2026-09-17T13:10:52.241-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "itamarst"
     },
     {
       "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
@@ -3355,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 526,
       "user": "theoephraim"
     },
     {
@@ -3400,23 +3397,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 158,
       "user": "kazdenc"
-    },
-    {
-      "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
-      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "published_at": "2026-09-14T04:02:58Z",
-      "description": "If you think AI sucks, star the repo.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
-      "source": "GitHub",
-      "stars": 2805,
-      "user": "ai-sucks-butt"
     },
     {
       "title": "browser-use/jev-ultrafast - GitHub Repository",
@@ -3430,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1457,
+      "stars": 1744,
       "user": "browser-use"
     },
     {
@@ -3445,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "kruzovic7"
     },
     {
@@ -3460,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 677,
       "user": "nilbuild"
     },
     {
@@ -3475,8 +3457,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 670,
       "user": "TheoLeeCJ"
+    },
+    {
+      "title": "vinnylarouge/jevlike - GitHub Repository",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "published_at": "2026-09-16T10:26:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
+      "source": "GitHub",
+      "stars": 627,
+      "user": "vinnylarouge"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -3490,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "linguo2625469"
     },
     {
@@ -3520,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14024832?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 103,
       "user": "BennyThink"
     },
     {
@@ -3535,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 93,
       "user": "kdbhalala"
     },
     {
@@ -3550,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 45,
       "user": "HuskerMinion"
     },
     {
@@ -3580,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 455,
       "user": "jarrodwatts"
     },
     {
@@ -3595,8 +3592,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 228,
       "user": "opencoredev"
+    },
+    {
+      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "published_at": "2026-09-16T21:45:36Z",
+      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "devagrawal09"
     },
     {
       "title": "danielroe/airspace - The database you already have.",
@@ -3610,23 +3622,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "danielroe"
-    },
-    {
-      "title": "anmolkapil/plexo - Speed up downloads by combining multiple network connections in parallel",
-      "url": "https://github.com/anmolkapil/plexo",
-      "published_at": "2026-09-15T09:41:57Z",
-      "description": "Speed up downloads by combining multiple network connections in parallel",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "anmolkapil"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -3640,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 737,
       "user": "agentverse-os"
     },
     {
@@ -3670,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 92,
       "user": "dmtrKovalenko"
     },
     {
@@ -3685,7 +3682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58398564?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "maximpri"
     },
     {
