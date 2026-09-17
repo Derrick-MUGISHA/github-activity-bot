@@ -299,20 +299,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "4 pitfalls of loop engineering (and how to fix them)",
-      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
-      "published_at": "2026-09-09T17:37:13Z",
-      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
       "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
       "published_at": "2026-09-01T16:51:26Z",
@@ -761,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 334,
       "user": "Qiuner"
     },
     {
@@ -776,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 320,
       "user": "theoephraim"
     },
     {
@@ -791,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1774,
+      "stars": 1939,
       "user": "ai-sucks-butt"
     },
     {
@@ -806,38 +792,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 827,
       "user": "kruzovic7"
-    },
-    {
-      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "url": "https://github.com/nftechie/stonkfly",
-      "published_at": "2026-09-10T02:40:30Z",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
-      "source": "GitHub",
-      "stars": 714,
-      "user": "nftechie"
-    },
-    {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
-      "source": "GitHub",
-      "stars": 529,
-      "user": "yi1108"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -851,23 +807,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 344,
       "user": "linguo2625469"
-    },
-    {
-      "title": "NxcoreAI/NxMem - GitHub Repository",
-      "url": "https://github.com/NxcoreAI/NxMem",
-      "published_at": "2026-09-10T12:14:47Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "NxcoreAI"
     },
     {
       "title": "danielroe/airspace - The database you already have.",
@@ -885,6 +826,21 @@
       "user": "danielroe"
     },
     {
+      "title": "p1ass/textlint-rule-preset-ai-words-ja - AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+      "url": "https://github.com/p1ass/textlint-rule-preset-ai-words-ja",
+      "published_at": "2026-09-12T05:54:02Z",
+      "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "p1ass"
+    },
+    {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
       "url": "https://github.com/agentverse-os/AgentVerse-OS",
       "published_at": "2026-09-12T18:20:00Z",
@@ -896,23 +852,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 689,
       "user": "agentverse-os"
-    },
-    {
-      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
-      "url": "https://github.com/deepseek-ai/deepseek-recipe",
-      "published_at": "2026-09-10T05:36:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 337,
-      "user": "deepseek-ai"
     },
     {
       "title": "A/I Shuts Down",
@@ -997,13 +938,43 @@
       "user": "DefNot"
     },
     {
-      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-17T03:30:00.000Z",
+      "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "tags": [
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "published_at": "2026-09-17T00:58:49.000Z",
+      "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "SMART Glasses",
+        "Snap",
+        "specs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Al Gore says the real AI risk isn&#8217;t data centers — it&#8217;s what industry leaders are warning about",
       "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "published_at": "2026-09-16T23:43:09.000Z",
       "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
       "tags": [
+        "AI",
         "Climate",
-        "TC",
         "AI data center",
         "Al Gore",
         "Exclusive"
@@ -1058,22 +1029,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Automattic&#8217;s interim CEO and legal chief signed reciprocal severance deals during Mullenweg&#8217;s brief ouster",
-      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-      "published_at": "2026-09-16T19:35:29.000Z",
-      "description": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Automattic",
-        "Exclusive",
-        "matt mullenweg"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1375,23 +1330,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 660,
       "user": "rizqinrr"
-    },
-    {
-      "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "url": "https://github.com/viettranx/3dviz-pro-max",
-      "published_at": "2026-09-10T01:42:59Z",
-      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
-      "source": "GitHub",
-      "stars": 426,
-      "user": "viettranx"
     },
     {
       "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
@@ -1405,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "nhovongoc0-max"
     },
     {
@@ -1420,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 334,
       "user": "Qiuner"
     },
     {
@@ -1435,53 +1375,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 320,
       "user": "theoephraim"
     },
     {
-      "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-Omzo",
-      "published_at": "2026-09-10T08:08:40Z",
+      "title": "kazdenc/regen-icons - GitHub Repository",
+      "url": "https://github.com/kazdenc/regen-icons",
+      "published_at": "2026-09-13T19:41:22Z",
       "description": "Trending GitHub Repository",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 211,
-      "user": "xsolla-baku-gametech-hackathon"
+      "stars": 149,
+      "user": "kazdenc"
     },
     {
-      "title": "NxcoreAI/NxMem - GitHub Repository",
-      "url": "https://github.com/NxcoreAI/NxMem",
-      "published_at": "2026-09-10T12:14:47Z",
-      "description": "Trending GitHub Repository",
+      "title": "bancsdan/GoKK - CLI tool for checking the departure of your bus/tram/etc for Budapest from your terminal in a second. With JSON output support for scripting.",
+      "url": "https://github.com/bancsdan/GoKK",
+      "published_at": "2026-09-12T20:52:18Z",
+      "description": "CLI tool for checking the departure of your bus/tram/etc for Budapest from your terminal in a second. With JSON output support for scripting.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7544608?v=4",
       "source": "GitHub",
-      "stars": 211,
-      "user": "NxcoreAI"
-    },
-    {
-      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
-      "url": "https://github.com/agent-launch/agent-launcher",
-      "published_at": "2026-09-10T22:07:14Z",
-      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "agent-launch"
+      "stars": 24,
+      "user": "bancsdan"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -1495,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 209,
       "user": "opencoredev"
     },
     {
@@ -1512,6 +1437,51 @@
       "source": "GitHub",
       "stars": 133,
       "user": "danielroe"
+    },
+    {
+      "title": "anmolkapil/plexo - Speed up downloads by combining multiple network connections in parallel",
+      "url": "https://github.com/anmolkapil/plexo",
+      "published_at": "2026-09-15T09:41:57Z",
+      "description": "Speed up downloads by combining multiple network connections in parallel",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "anmolkapil"
+    },
+    {
+      "title": "p1ass/textlint-rule-preset-ai-words-ja - AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+      "url": "https://github.com/p1ass/textlint-rule-preset-ai-words-ja",
+      "published_at": "2026-09-12T05:54:02Z",
+      "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "p1ass"
+    },
+    {
+      "title": "RocYan98/CodexBoard -  Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
+      "url": "https://github.com/RocYan98/CodexBoard",
+      "published_at": "2026-09-14T13:47:36Z",
+      "description": " Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58363427?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "RocYan98"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1532,7 +1502,7 @@
       "title": "How to configure refresh token with express and react",
       "url": "https://stackoverflow.com/questions/80003429/how-to-configure-refresh-token-with-express-and-react",
       "published_at": "2026-09-16T08:33:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "node.js",
@@ -1541,20 +1511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alberto Benedetto"
-    },
-    {
-      "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
-      "url": "https://stackoverflow.com/questions/80003320/practical-limit-for-cloud-firestore-onsnapshot-listeners-per-browser-client",
-      "published_at": "2026-09-15T18:26:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "google-cloud-firestore"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Prakhar Gupta"
     },
     {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
@@ -1571,6 +1527,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tutte2k"
+    },
+    {
+      "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
+      "url": "https://stackoverflow.com/questions/80003320/practical-limit-for-cloud-firestore-onsnapshot-listeners-per-browser-client",
+      "published_at": "2026-09-15T18:26:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "firebase",
+        "google-cloud-firestore"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Prakhar Gupta"
     },
     {
       "title": "How do I do the vx = rightKey - leftKey * moveSpeed",
@@ -1642,18 +1612,18 @@
       "user": "wadskays26"
     },
     {
-      "title": "How do I make the menu button open the nav menu in media queries",
-      "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
-      "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "title": "Understanding cookie session in React Router",
+      "url": "https://stackoverflow.com/questions/79999005/understanding-cookie-session-in-react-router",
+      "published_at": "2026-08-28T16:01:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
-        "html",
-        "css"
+        "reactjs",
+        "react-router"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "August"
+      "user": "Alberto Benedetto"
     }
   ],
   "Python": [
@@ -1909,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1774,
+      "stars": 1939,
       "user": "ai-sucks-butt"
     },
     {
@@ -1924,23 +1894,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 827,
       "user": "kruzovic7"
-    },
-    {
-      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "url": "https://github.com/nftechie/stonkfly",
-      "published_at": "2026-09-10T02:40:30Z",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
-      "source": "GitHub",
-      "stars": 714,
-      "user": "nftechie"
     },
     {
       "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
@@ -1954,23 +1909,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 640,
       "user": "nilbuild"
     },
     {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "url": "https://github.com/letorig/video-generator-client",
+      "published_at": "2026-09-14T17:46:01Z",
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 529,
-      "user": "yi1108"
+      "stars": 520,
+      "user": "letorig"
+    },
+    {
+      "title": "DefiLeoo/YOINK - GitHub Repository",
+      "url": "https://github.com/DefiLeoo/YOINK",
+      "published_at": "2026-09-11T10:54:31Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/135053852?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "DefiLeoo"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -2019,7 +1989,7 @@
       "title": "I’m having trouble getting Python to locate a specific value in a spreadsheet",
       "url": "https://stackoverflow.com/questions/80003582/i-m-having-trouble-getting-python-to-locate-a-specific-value-in-a-spreadsheet",
       "published_at": "2026-09-16T18:24:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -2041,6 +2011,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Oxidation"
+    },
+    {
+      "title": "Is it possible to configure structlog using Python standard library fileConfig/dictConfig?",
+      "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-standard-library-fileconfig-d",
+      "published_at": "2026-09-16T02:14:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "structlog",
+        "structured-logging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Frames Catherine White"
     },
     {
       "title": "holoviews.Point bi-directional sync",
@@ -2070,20 +2054,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DefNot"
-    },
-    {
-      "title": "Is it possible to configure structlog using Python standard library fileConfig/dictConfig?",
-      "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-standard-library-fileconfig-d",
-      "published_at": "2026-09-16T02:14:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "structlog",
-        "structured-logging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Frames Catherine White"
     },
     {
       "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
@@ -2491,20 +2461,6 @@
       "user": "Bhavin Adhvaryu"
     },
     {
-      "title": "How do I make the menu button open the nav menu in media queries",
-      "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
-      "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "August"
-    },
-    {
       "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
       "url": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
       "published_at": "2026-09-16T15:28:18.000Z",
@@ -2563,6 +2519,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "url": "https://github.com/kdbhalala/avdslim",
+      "published_at": "2026-09-16T06:52:40Z",
+      "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
+      "source": "GitHub",
+      "stars": 57,
+      "user": "kdbhalala"
+    },
+    {
+      "title": "RocYan98/CodexBoard -  Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
+      "url": "https://github.com/RocYan98/CodexBoard",
+      "published_at": "2026-09-14T13:47:36Z",
+      "description": " Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58363427?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "RocYan98"
     }
   ],
   "Cloud": [
@@ -2877,7 +2863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 320,
       "user": "theoephraim"
     },
     {
@@ -2892,7 +2878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 689,
       "user": "agentverse-os"
     },
     {
@@ -3350,23 +3336,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 660,
       "user": "rizqinrr"
-    },
-    {
-      "title": "viettranx/3dviz-pro-max - Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "url": "https://github.com/viettranx/3dviz-pro-max",
-      "published_at": "2026-09-10T01:42:59Z",
-      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3197896?v=4",
-      "source": "GitHub",
-      "stars": 426,
-      "user": "viettranx"
     },
     {
       "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
@@ -3380,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "nhovongoc0-max"
     },
     {
@@ -3395,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 334,
       "user": "Qiuner"
     },
     {
@@ -3410,8 +3381,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 320,
       "user": "theoephraim"
+    },
+    {
+      "title": "kazdenc/regen-icons - GitHub Repository",
+      "url": "https://github.com/kazdenc/regen-icons",
+      "published_at": "2026-09-13T19:41:22Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "kazdenc"
     },
     {
       "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
@@ -3425,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 1774,
+      "stars": 1939,
       "user": "ai-sucks-butt"
     },
     {
@@ -3440,23 +3426,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 827,
       "user": "kruzovic7"
-    },
-    {
-      "title": "nftechie/stonkfly - A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "url": "https://github.com/nftechie/stonkfly",
-      "published_at": "2026-09-10T02:40:30Z",
-      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2530972?v=4",
-      "source": "GitHub",
-      "stars": 714,
-      "user": "nftechie"
     },
     {
       "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
@@ -3470,38 +3441,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 640,
       "user": "nilbuild"
     },
     {
-      "title": "yi1108/printfilm - PRINTFILM：AI 科普视频与漫剧创作平台",
-      "url": "https://github.com/yi1108/printfilm",
-      "published_at": "2026-09-10T02:08:47Z",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "url": "https://github.com/letorig/video-generator-client",
+      "published_at": "2026-09-14T17:46:01Z",
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100551693?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 529,
-      "user": "yi1108"
+      "stars": 520,
+      "user": "letorig"
     },
     {
-      "title": "unstablebuild/rune - the development environment for pros",
-      "url": "https://github.com/unstablebuild/rune",
-      "published_at": "2026-09-10T10:50:03Z",
-      "description": "the development environment for pros",
+      "title": "DefiLeoo/YOINK - GitHub Repository",
+      "url": "https://github.com/DefiLeoo/YOINK",
+      "published_at": "2026-09-11T10:54:31Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60412273?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/135053852?v=4",
       "source": "GitHub",
-      "stars": 748,
-      "user": "unstablebuild"
+      "stars": 379,
+      "user": "DefiLeoo"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -3515,38 +3486,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 344,
       "user": "linguo2625469"
-    },
-    {
-      "title": "x4gpanell/3x-ui_runonflux - GitHub Repository",
-      "url": "https://github.com/x4gpanell/3x-ui_runonflux",
-      "published_at": "2026-09-10T09:34:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317284177?v=4",
-      "source": "GitHub",
-      "stars": 194,
-      "user": "x4gpanell"
-    },
-    {
-      "title": "AlexAntonik/nix-graph - Interactive TUI viewer for Nix dependency graphs",
-      "url": "https://github.com/AlexAntonik/nix-graph",
-      "published_at": "2026-09-10T12:38:55Z",
-      "description": "Interactive TUI viewer for Nix dependency graphs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55547934?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "AlexAntonik"
     },
     {
       "title": "YongshengWin/VpsCT - 面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
@@ -3560,53 +3501,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 107,
       "user": "YongshengWin"
     },
     {
-      "title": "xsolla-baku-gametech-hackathon/team-Omzo - GitHub Repository",
-      "url": "https://github.com/xsolla-baku-gametech-hackathon/team-Omzo",
-      "published_at": "2026-09-10T08:08:40Z",
-      "description": "Trending GitHub Repository",
+      "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "url": "https://github.com/kdbhalala/avdslim",
+      "published_at": "2026-09-16T06:52:40Z",
+      "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313711871?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 211,
-      "user": "xsolla-baku-gametech-hackathon"
+      "stars": 57,
+      "user": "kdbhalala"
     },
     {
-      "title": "NxcoreAI/NxMem - GitHub Repository",
-      "url": "https://github.com/NxcoreAI/NxMem",
-      "published_at": "2026-09-10T12:14:47Z",
-      "description": "Trending GitHub Repository",
+      "title": "mstrYoda/codesaber - Minimalist agentic IDE built for devx. It's like a lightsaber, but for developers.",
+      "url": "https://github.com/mstrYoda/codesaber",
+      "published_at": "2026-09-13T11:53:14Z",
+      "description": "Minimalist agentic IDE built for devx. It's like a lightsaber, but for developers.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316969989?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/12763626?v=4",
       "source": "GitHub",
-      "stars": 211,
-      "user": "NxcoreAI"
+      "stars": 29,
+      "user": "mstrYoda"
     },
     {
-      "title": "agent-launch/agent-launcher - Configure and run existing coding-agent CLIs from one desktop app.",
-      "url": "https://github.com/agent-launch/agent-launcher",
-      "published_at": "2026-09-10T22:07:14Z",
-      "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+      "title": "bancsdan/GoKK - CLI tool for checking the departure of your bus/tram/etc for Budapest from your terminal in a second. With JSON output support for scripting.",
+      "url": "https://github.com/bancsdan/GoKK",
+      "published_at": "2026-09-12T20:52:18Z",
+      "description": "CLI tool for checking the departure of your bus/tram/etc for Budapest from your terminal in a second. With JSON output support for scripting.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310759893?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7544608?v=4",
       "source": "GitHub",
-      "stars": 211,
-      "user": "agent-launch"
+      "stars": 24,
+      "user": "bancsdan"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -3620,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 209,
       "user": "opencoredev"
     },
     {
@@ -3639,6 +3580,51 @@
       "user": "danielroe"
     },
     {
+      "title": "anmolkapil/plexo - Speed up downloads by combining multiple network connections in parallel",
+      "url": "https://github.com/anmolkapil/plexo",
+      "published_at": "2026-09-15T09:41:57Z",
+      "description": "Speed up downloads by combining multiple network connections in parallel",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
+      "source": "GitHub",
+      "stars": 120,
+      "user": "anmolkapil"
+    },
+    {
+      "title": "p1ass/textlint-rule-preset-ai-words-ja - AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+      "url": "https://github.com/p1ass/textlint-rule-preset-ai-words-ja",
+      "published_at": "2026-09-12T05:54:02Z",
+      "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
+      "source": "GitHub",
+      "stars": 101,
+      "user": "p1ass"
+    },
+    {
+      "title": "RocYan98/CodexBoard -  Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
+      "url": "https://github.com/RocYan98/CodexBoard",
+      "published_at": "2026-09-14T13:47:36Z",
+      "description": " Based on Web/Lark(Feishu), implement taskboard to control the execution of tasks on Mac local Codex. Synchronize Codex on mobile devices for real-time monitoring and smoother interaction.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58363427?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "RocYan98"
+    },
+    {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
       "url": "https://github.com/agentverse-os/AgentVerse-OS",
       "published_at": "2026-09-12T18:20:00Z",
@@ -3650,23 +3636,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 689,
       "user": "agentverse-os"
-    },
-    {
-      "title": "deepseek-ai/deepseek-recipe - GitHub Repository",
-      "url": "https://github.com/deepseek-ai/deepseek-recipe",
-      "published_at": "2026-09-10T05:36:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 337,
-      "user": "deepseek-ai"
     },
     {
       "title": "Abomination81/copybot - Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
@@ -3684,21 +3655,6 @@
       "user": "Abomination81"
     },
     {
-      "title": "penberg/titania - Project Titania is a complete large language model system, from transformer to transistor, simple enough for one person to understand.",
-      "url": "https://github.com/penberg/titania",
-      "published_at": "2026-09-10T17:58:03Z",
-      "description": "Project Titania is a complete large language model system, from transformer to transistor, simple enough for one person to understand.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/81939?v=4",
-      "source": "GitHub",
-      "stars": 98,
-      "user": "penberg"
-    },
-    {
       "title": "maximpri/mlxtop - GitHub Repository",
       "url": "https://github.com/maximpri/mlxtop",
       "published_at": "2026-09-11T03:31:31Z",
@@ -3712,6 +3668,36 @@
       "source": "GitHub",
       "stars": 82,
       "user": "maximpri"
+    },
+    {
+      "title": "XiaoQAQ10086/FrameGen-Manager - 一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
+      "url": "https://github.com/XiaoQAQ10086/FrameGen-Manager",
+      "published_at": "2026-09-13T04:01:52Z",
+      "description": "一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "XiaoQAQ10086"
+    },
+    {
+      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "url": "https://github.com/dmtrKovalenko/bashka",
+      "published_at": "2026-09-15T21:31:30Z",
+      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
+      "source": "GitHub",
+      "stars": 57,
+      "user": "dmtrKovalenko"
     },
     {
       "title": "Reinventing issue tracking: Local-first and Git-native",
