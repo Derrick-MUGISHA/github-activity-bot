@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-17 11:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-17 16:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -103,9 +103,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 9 | [Harness engineering doesn't mean building your own harness](https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk) | Dev.to |
 | 10 | [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) | Dev.to |
 | 11 | [2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3) | Dev.to |
-| 12 | [Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg) | Dev.to |
-| 13 | [Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script](https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg) | Dev.to |
-| 14 | [Building With AI When You Don't Know Architecture: A Survival Guide](https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3) | Dev.to |
+| 12 | [Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script](https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg) | Dev.to |
+| 13 | [Building With AI When You Don't Know Architecture: A Survival Guide](https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3) | Dev.to |
+| 14 | [Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg) | Dev.to |
 | 15 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
 | 16 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
 | 17 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5amk) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [AI Engineering Is Easy. Changing How We Work Is Hard](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4) | Dev.to |
 | 20 | [Welcome Thread - v 392](https://dev.to/sloan/welcome-thread-v-392-1kj4) | Dev.to |
 
-<sub>Last fetched: Thu, 17 Sep 2026 11:01:31 CAT</sub>
+<sub>Last fetched: Thu, 17 Sep 2026 16:17:05 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is database normalization and denormalization?**
+**1. `JavaScript` — What is the event loop and how does it work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Call stack, callback queue, microtask queue
 
 </details>
 
-**2. `SystemDesign` — Design a distributed cache system**
+**2. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> B-tree, trade-offs, query performance
 
 </details>
 
-**3. `DataStructures` — Find the longest substring without repeating characters**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -169,11 +169,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **Tools** | 37 | 20.2% | `█████████░░░░░░░░░░░` |
 | **Python** | 33 | 18.0% | `████████░░░░░░░░░░░░` |
 | **Cloud** | 23 | 12.6% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 19 | 10.4% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.7%
-JavaScript      ████████████████████████████ 24.7%
-Python          █████████████████████████ 22.0%
-Java            ███████████████████ 17.3%
-Rust            ██████ 5.3%
+Go              ██████████████████████████████ 26.8%
+JavaScript      ████████████████████████████ 24.8%
+Python          █████████████████████████ 22.1%
+Java            ███████████████████ 17.4%
+Rust            █████ 4.7%
 Ruby            █ 1.3%
 Kotlin          █ 1.3%
 CSharp          █ 0.7%
@@ -212,7 +212,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 37
     "Python" : 33
     "Java" : 26
-    "Rust" : 8
+    "Rust" : 7
     "Ruby" : 2
     "Kotlin" : 2
     "CSharp" : 1
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-6-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-6-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 17 Sep 2026 09:01:31 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 17 Sep 2026 14:17:05 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
