@@ -136,21 +136,6 @@
       "user": "xbill"
     },
     {
-      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
-      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
-      "published_at": "2026-09-09T12:48:25Z",
-      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
-      "tags": [
-        "typescript",
-        "algorithms",
-        "opensource",
-        "dsa"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
-      "source": "Dev.to",
-      "user": "nyaomaru"
-    },
-    {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
       "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
       "published_at": "2026-09-08T05:06:23Z",
@@ -178,6 +163,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuc75v5ty3hnp04jrkryj.png",
       "source": "Dev.to",
       "user": "James Anderson"
+    },
+    {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "published_at": "2026-09-09T12:48:25Z",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "tags": [
+        "typescript",
+        "algorithms",
+        "opensource",
+        "dsa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -402,21 +402,6 @@
       "user": "xbill"
     },
     {
-      "title": "What is harness engineering and why should I care?",
-      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "published_at": "2026-09-02T15:28:05Z",
-      "description": "How do you ship a software product with 0 lines of manually-written code?  A friend...",
-      "tags": [
-        "ai",
-        "agents",
-        "programming",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz6prrbe2g8r5m1h79agh.gif",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
       "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
       "published_at": "2026-08-25T20:44:29Z",
@@ -580,6 +565,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "How the internet actually works, and why nobody is in charge of it",
+      "url": "https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8",
+      "published_at": "2026-09-01T18:46:58Z",
+      "description": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
+      "tags": [
+        "networking",
+        "webdev",
+        "programming",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxnd7iq7dc3kzby7m3qz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 478,
       "user": "theoephraim"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 370,
       "user": "Qiuner"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 2244,
+      "stars": 2550,
       "user": "ai-sucks-butt"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 831,
       "user": "kruzovic7"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 393,
       "user": "linguo2625469"
     },
     {
@@ -836,8 +836,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 28,
+      "stars": 34,
       "user": "HuskerMinion"
+    },
+    {
+      "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "url": "https://github.com/shinthink/blitzstrike",
+      "published_at": "2026-09-12T12:13:09Z",
+      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
+      "source": "GitHub",
+      "stars": 634,
+      "user": "shinthink"
     },
     {
       "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
@@ -851,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 321,
       "user": "jarrodwatts"
     },
     {
@@ -866,23 +881,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "danielroe"
-    },
-    {
-      "title": "p1ass/textlint-rule-preset-ai-words-ja - AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-      "url": "https://github.com/p1ass/textlint-rule-preset-ai-words-ja",
-      "published_at": "2026-09-12T05:54:02Z",
-      "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "p1ass"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -896,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 717,
       "user": "agentverse-os"
     },
     {
@@ -925,30 +925,19 @@
       "user": "andyc"
     },
     {
-      "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
-      "url": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
-      "published_at": "2026-09-16T12:18:03.472-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
+      "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
+      "published_at": "2026-09-17T09:32:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "matthew2"
-    },
-    {
-      "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
-      "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
-      "published_at": "2026-09-15T12:19:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "async-await",
-        "promise"
+        "python",
+        "security",
+        "cpython",
+        "audit-trail"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jayesh Gondaliya"
+      "user": "Harshit Raizada"
     },
     {
       "title": "What is a good structured learning path for understanding machine learning from fundamentals to advanced concepts?",
@@ -982,10 +971,102 @@
       "user": "DefNot"
     },
     {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "published_at": "2026-09-17T14:06:14.000Z",
+      "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "tags": [
+        "AI",
+        "AI chip",
+        "AI chips",
+        "Huawei",
+        "semiconductors"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta&#8217;s Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "published_at": "2026-09-17T13:46:16.000Z",
+      "description": "People can use these assistants to make restaurant reservations and cancel subscriptions",
+      "tags": [
+        "AI",
+        "Apps",
+        "instinct",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "published_at": "2026-09-17T13:38:33.000Z",
+      "description": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "tags": [
+        "AI",
+        "Climate",
+        "Anthropic",
+        "data centers",
+        "electrical grid"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
+      "url": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
+      "published_at": "2026-09-17T12:57:46.000Z",
+      "description": "BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.",
+      "tags": [
+        "Fundraising",
+        "Venture",
+        "bain capital ventures",
+        "venture capital funds"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Spotify expands its partner program for podcasts to 35 new countries",
+      "url": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
+      "published_at": "2026-09-17T12:00:00.000Z",
+      "description": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.",
+      "tags": [
+        "Media & Entertainment",
+        "In Brief",
+        "podcasts",
+        "Spotify"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "published_at": "2026-09-17T11:00:00.000Z",
+      "description": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "compliance",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
       "published_at": "2026-09-17T05:00:00.000Z",
-      "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
       "tags": [
         "AI",
         "Fundraising",
@@ -1010,85 +1091,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "published_at": "2026-09-17T00:58:49.000Z",
-      "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "SMART Glasses",
-        "Snap",
-        "specs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Al Gore says the real AI risk isn&#8217;t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "published_at": "2026-09-16T23:43:09.000Z",
-      "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "tags": [
-        "AI",
-        "Climate",
-        "AI data center",
-        "Al Gore",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Noise wants to help everyday people  become paid content creators",
-      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-      "published_at": "2026-09-16T21:35:00.000Z",
-      "description": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-      "tags": [
-        "Media & Entertainment",
-        "Social",
-        "Startups",
-        "influencers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "published_at": "2026-09-16T21:07:24.000Z",
-      "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "dario amodei",
-        "ai safety"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a pair without a camera",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "published_at": "2026-09-16T20:12:00.000Z",
-      "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "tags": [
-        "AI",
-        "In Brief",
-        "Meta",
-        "SMART Glasses",
-        "smartglasses"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1390,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 662,
       "user": "rizqinrr"
     },
     {
@@ -1405,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 478,
       "user": "theoephraim"
     },
     {
@@ -1420,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 370,
       "user": "Qiuner"
     },
     {
@@ -1435,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "nhovongoc0-max"
     },
     {
@@ -1450,23 +1452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 149,
       "user": "kazdenc"
     },
     {
-      "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
-      "url": "https://github.com/opencoredev/bg0",
-      "published_at": "2026-09-14T16:42:22Z",
-      "description": "Private, unlimited background removal that runs in your browser.",
+      "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "url": "https://github.com/shinthink/blitzstrike",
+      "published_at": "2026-09-12T12:13:09Z",
+      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
       "source": "GitHub",
-      "stars": 216,
-      "user": "opencoredev"
+      "stars": 634,
+      "user": "shinthink"
     },
     {
       "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
@@ -1480,8 +1482,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 321,
       "user": "jarrodwatts"
+    },
+    {
+      "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
+      "url": "https://github.com/opencoredev/bg0",
+      "published_at": "2026-09-14T16:42:22Z",
+      "description": "Private, unlimited background removal that runs in your browser.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "opencoredev"
     },
     {
       "title": "danielroe/airspace - The database you already have.",
@@ -1495,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "danielroe"
     },
     {
@@ -1510,23 +1527,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "anmolkapil"
-    },
-    {
-      "title": "p1ass/textlint-rule-preset-ai-words-ja - AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-      "url": "https://github.com/p1ass/textlint-rule-preset-ai-words-ja",
-      "published_at": "2026-09-12T05:54:02Z",
-      "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "p1ass"
     },
     {
       "title": "React state returns null when calling API",
@@ -1546,7 +1548,7 @@
       "title": "How to achieve 120fps on SDUI list",
       "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
       "published_at": "2026-09-17T07:45:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "ios",
@@ -1585,22 +1587,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alberto Benedetto"
-    },
-    {
-      "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
-      "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
-      "published_at": "2026-09-15T04:52:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "angular",
-        "google-chrome",
-        "browser",
-        "microsoft-edge"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tutte2k"
     },
     {
       "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
@@ -1643,34 +1629,46 @@
       "user": "saturn"
     },
     {
-      "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
-      "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
-      "published_at": "2026-09-15T12:19:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Add joint limits in matterjs",
+      "url": "https://stackoverflow.com/questions/80001144/add-joint-limits-in-matterjs",
+      "published_at": "2026-09-06T09:50:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "async-await",
-        "promise"
+        "matter.js"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jayesh Gondaliya"
+      "user": "wadskays26"
     },
     {
-      "title": "Generating Series of Date Values in an Interactive Grid",
-      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
-      "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Understanding cookie session in React Router",
+      "url": "https://stackoverflow.com/questions/79999005/understanding-cookie-session-in-react-router",
+      "published_at": "2026-08-28T16:01:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
-        "html",
-        "oracle-database",
-        "oracle-apex",
-        "interactive-grid"
+        "reactjs",
+        "react-router"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Bhavin Adhvaryu"
+      "user": "Alberto Benedetto"
+    },
+    {
+      "title": "dynamic links with expo React Native useAudioPlayer",
+      "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
+      "published_at": "2026-07-23T07:49:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "audio",
+        "expo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Singh Jaskeat"
     }
   ],
   "Python": [
@@ -1926,8 +1924,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 2244,
+      "stars": 2550,
       "user": "ai-sucks-butt"
+    },
+    {
+      "title": "browser-use/jev-ultrafast - GitHub Repository",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "published_at": "2026-09-16T21:30:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 1024,
+      "user": "browser-use"
     },
     {
       "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
@@ -1941,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 831,
       "user": "kruzovic7"
     },
     {
@@ -1956,23 +1969,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 669,
       "user": "nilbuild"
-    },
-    {
-      "title": "browser-use/jev-ultrafast - GitHub Repository",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "published_at": "2026-09-16T21:30:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 540,
-      "user": "browser-use"
     },
     {
       "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
@@ -1986,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "letorig"
     },
     {
@@ -2003,6 +2001,47 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
+    },
+    {
+      "title": "Pandas 'drop_duplicates' not removing rows",
+      "url": "https://stackoverflow.com/questions/80003787/pandas-drop-duplicates-not-removing-rows",
+      "published_at": "2026-09-17T12:11:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "pandas"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SwankyTiger"
+    },
+    {
+      "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
+      "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
+      "published_at": "2026-09-17T09:32:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "security",
+        "cpython",
+        "audit-trail"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harshit Raizada"
+    },
+    {
+      "title": "What does annotating a variable actually do in Python?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 4 answers · score 19",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oxidation"
     },
     {
       "title": "I’m having trouble getting Python to locate a specific value in a spreadsheet",
@@ -2047,19 +2086,6 @@
       "user": "Anonymous Tech"
     },
     {
-      "title": "What does annotating a variable actually do in Python?",
-      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
-      "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 4 answers · score 19",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oxidation"
-    },
-    {
       "title": "Is it possible to configure structlog using Python standard library fileConfig/dictConfig?",
       "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-standard-library-fileconfig-d",
       "published_at": "2026-09-16T02:14:05.000Z",
@@ -2101,37 +2127,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DefNot"
-    },
-    {
-      "title": "How to compute a gradient column-wise in a pandas DataFrame using the index as an input?",
-      "url": "https://stackoverflow.com/questions/80003283/how-to-compute-a-gradient-column-wise-in-a-pandas-dataframe-using-the-index-as-a",
-      "published_at": "2026-09-15T14:56:46.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "pandas",
-        "numpy",
-        "gradient"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Petra"
-    },
-    {
-      "title": "Error when trying to loop through and display SQLite table within HTML page",
-      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
-      "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "html",
-        "flask",
-        "sqlalchemy",
-        "flask-sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     }
   ],
   "DevOps": [
@@ -2494,38 +2489,6 @@
       "user": "saturn"
     },
     {
-      "title": "Generating Series of Date Values in an Interactive Grid",
-      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
-      "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "oracle-database",
-        "oracle-apex",
-        "interactive-grid"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhavin Adhvaryu"
-    },
-    {
-      "title": "Error when trying to loop through and display SQLite table within HTML page",
-      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
-      "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "html",
-        "flask",
-        "sqlalchemy",
-        "flask-sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
-    },
-    {
       "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
       "url": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
       "published_at": "2026-09-16T15:28:18.000Z",
@@ -2597,7 +2560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 78,
       "user": "kdbhalala"
     },
     {
@@ -2612,14 +2575,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 28,
+      "stars": 34,
       "user": "HuskerMinion"
     },
     {
       "title": "How to achieve 120fps on SDUI list",
       "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
       "published_at": "2026-09-17T07:45:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "ios",
@@ -2629,6 +2592,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kriptonian"
+    },
+    {
+      "title": "dynamic links with expo React Native useAudioPlayer",
+      "url": "https://stackoverflow.com/questions/79984102/dynamic-links-with-expo-react-native-useaudioplayer",
+      "published_at": "2026-07-23T07:49:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "react-native",
+        "audio",
+        "expo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Singh Jaskeat"
     }
   ],
   "Cloud": [
@@ -2943,7 +2921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 478,
       "user": "theoephraim"
     },
     {
@@ -2958,7 +2936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 717,
       "user": "agentverse-os"
     },
     {
@@ -3001,40 +2979,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "danielroe"
-    },
-    {
-      "title": "Generating Series of Date Values in an Interactive Grid",
-      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
-      "published_at": "2026-09-15T11:07:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "oracle-database",
-        "oracle-apex",
-        "interactive-grid"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhavin Adhvaryu"
-    },
-    {
-      "title": "Error when trying to loop through and display SQLite table within HTML page",
-      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
-      "published_at": "2026-09-15T10:28:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "html",
-        "flask",
-        "sqlalchemy",
-        "flask-sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -3245,6 +3191,21 @@
       "user": "lvig"
     },
     {
+      "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
+      "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
+      "published_at": "2026-09-17T09:32:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "security",
+        "cpython",
+        "audit-trail"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harshit Raizada"
+    },
+    {
       "title": "How to secure file paths and input handling in a Python web server (main.py)",
       "url": "https://stackoverflow.com/questions/80003387/how-to-secure-file-paths-and-input-handling-in-a-python-web-server-main-py",
       "published_at": "2026-09-16T04:51:58.000Z",
@@ -3259,6 +3220,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DefNot"
+    },
+    {
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "published_at": "2026-09-17T11:00:00.000Z",
+      "description": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "compliance",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -3432,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 662,
       "user": "rizqinrr"
     },
     {
@@ -3447,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 478,
       "user": "theoephraim"
     },
     {
@@ -3462,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 370,
       "user": "Qiuner"
     },
     {
@@ -3477,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "nhovongoc0-max"
     },
     {
@@ -3492,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 149,
       "user": "kazdenc"
     },
     {
@@ -3507,8 +3483,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328935899?v=4",
       "source": "GitHub",
-      "stars": 2244,
+      "stars": 2550,
       "user": "ai-sucks-butt"
+    },
+    {
+      "title": "browser-use/jev-ultrafast - GitHub Repository",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "published_at": "2026-09-16T21:30:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 1024,
+      "user": "browser-use"
     },
     {
       "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
@@ -3522,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 831,
       "user": "kruzovic7"
     },
     {
@@ -3537,23 +3528,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 669,
       "user": "nilbuild"
-    },
-    {
-      "title": "browser-use/jev-ultrafast - GitHub Repository",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "published_at": "2026-09-16T21:30:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 540,
-      "user": "browser-use"
     },
     {
       "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
@@ -3567,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "letorig"
     },
     {
@@ -3582,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 393,
       "user": "linguo2625469"
     },
     {
@@ -3597,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 121,
       "user": "YongshengWin"
     },
     {
@@ -3612,23 +3588,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 78,
       "user": "kdbhalala"
     },
     {
-      "title": "mstrYoda/codesaber - Minimalist agentic IDE built for devx. It's like a lightsaber, but for developers.",
-      "url": "https://github.com/mstrYoda/codesaber",
-      "published_at": "2026-09-13T11:53:14Z",
-      "description": "Minimalist agentic IDE built for devx. It's like a lightsaber, but for developers.",
+      "title": "BennyThink/NFCX - NFC eXtended: A focused, cross-platform desktop workbench for authorized NFC card work.",
+      "url": "https://github.com/BennyThink/NFCX",
+      "published_at": "2026-09-11T23:31:57Z",
+      "description": "NFC eXtended: A focused, cross-platform desktop workbench for authorized NFC card work.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12763626?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/14024832?v=4",
       "source": "GitHub",
-      "stars": 29,
-      "user": "mstrYoda"
+      "stars": 72,
+      "user": "BennyThink"
     },
     {
       "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
@@ -3642,23 +3618,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 28,
+      "stars": 34,
       "user": "HuskerMinion"
     },
     {
-      "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
-      "url": "https://github.com/opencoredev/bg0",
-      "published_at": "2026-09-14T16:42:22Z",
-      "description": "Private, unlimited background removal that runs in your browser.",
+      "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "url": "https://github.com/shinthink/blitzstrike",
+      "published_at": "2026-09-12T12:13:09Z",
+      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
       "source": "GitHub",
-      "stars": 216,
-      "user": "opencoredev"
+      "stars": 634,
+      "user": "shinthink"
     },
     {
       "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
@@ -3672,8 +3648,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 321,
       "user": "jarrodwatts"
+    },
+    {
+      "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
+      "url": "https://github.com/opencoredev/bg0",
+      "published_at": "2026-09-14T16:42:22Z",
+      "description": "Private, unlimited background removal that runs in your browser.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "opencoredev"
     },
     {
       "title": "danielroe/airspace - The database you already have.",
@@ -3687,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "danielroe"
     },
     {
@@ -3702,23 +3693,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71038519?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "anmolkapil"
-    },
-    {
-      "title": "p1ass/textlint-rule-preset-ai-words-ja - AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-      "url": "https://github.com/p1ass/textlint-rule-preset-ai-words-ja",
-      "published_at": "2026-09-12T05:54:02Z",
-      "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30015728?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "p1ass"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -3732,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 717,
       "user": "agentverse-os"
     },
     {
@@ -3777,7 +3753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 80,
       "user": "dmtrKovalenko"
     },
     {
@@ -3792,7 +3768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 72,
       "user": "XiaoQAQ10086"
     },
     {
