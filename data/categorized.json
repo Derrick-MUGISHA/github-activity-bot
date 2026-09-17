@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 537,
       "user": "theoephraim"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "Qiuner"
     },
     {
@@ -791,23 +791,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "linguo2625469"
     },
     {
-      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "url": "https://github.com/HuskerMinion/techo5",
-      "published_at": "2026-09-14T23:30:01Z",
-      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
+      "url": "https://github.com/bl4ckarch/go-responder",
+      "published_at": "2026-09-17T11:07:30Z",
+      "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 45,
-      "user": "HuskerMinion"
+      "stars": 46,
+      "user": "bl4ckarch"
     },
     {
       "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
@@ -836,23 +836,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 487,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "danielroe/airspace - The database you already have.",
-      "url": "https://github.com/danielroe/airspace",
-      "published_at": "2026-09-11T07:21:52Z",
-      "description": "The database you already have.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "danielroe"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -866,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 744,
       "user": "agentverse-os"
     },
     {
@@ -882,21 +867,6 @@
       "user": "cameron"
     },
     {
-      "title": "Why is my async map returning an array of promises?",
-      "url": "https://stackoverflow.com/questions/80003814/why-is-my-async-map-returning-an-array-of-promises",
-      "published_at": "2026-09-17T14:22:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "asynchronous",
-        "async-await",
-        "promise"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Faheem"
-    },
-    {
       "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
       "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
       "published_at": "2026-09-17T09:32:27.000Z",
@@ -910,6 +880,64 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harshit Raizada"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8220;AI factories&#8221;",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "published_at": "2026-09-17T23:25:52.000Z",
+      "description": "The round values the data center giant at $30.9 billion.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Venture",
+        "crusoe",
+        "data centers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "published_at": "2026-09-17T23:21:17.000Z",
+      "description": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "published_at": "2026-09-17T22:34:09.000Z",
+      "description": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "tags": [
+        "AI",
+        "Startups",
+        "LLMs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "The FAA&#8217;s plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "published_at": "2026-09-17T22:14:59.000Z",
+      "description": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "air traffic control",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "The fix for rogue AI agents could be more AI",
@@ -987,61 +1015,17 @@
       "user": "Rebecca Bellan"
     },
     {
-      "title": "Even the king of England has his hesitations about AI",
-      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "published_at": "2026-09-17T17:26:25.000Z",
-      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
+      "url": "https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/",
+      "published_at": "2026-09-17T18:00:11.000Z",
+      "description": "Geoffrey Hinton is known as the \"the Godfather of AI\". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak",
       "tags": [
-        "AI",
-        "Government & Policy"
+        "Deep Learning",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "published_at": "2026-09-17T17:15:59.000Z",
-      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "tags": [
-        "AI",
-        "TC",
-        "Hugging Face",
-        "responsible ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "Pinterest teases a new &#8216;Restyle&#8217; feature that lets you redesign your room with AI",
-      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "published_at": "2026-09-17T17:15:00.000Z",
-      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Commerce",
-        "Pinterest"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
-      "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
-      "published_at": "2026-09-17T16:34:36.000Z",
-      "description": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
-      "tags": [
-        "Social",
-        "Startups",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jean Bradley, TechCrunch Events"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
@@ -1088,21 +1072,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Design Gifting Features People Actually Use: Evidence from 58 Apps",
-      "url": "https://www.freecodecamp.org/news/how-to-design-gifting-features-people-actually-use-evidence-from-58-apps/",
-      "published_at": "2026-09-14T13:58:38.000Z",
-      "description": "American shoppers spent about $29 billion on gift cards over the 2025 holiday season, and 43 percent of them bought at least one. This put gift cards at the top of what people said they wanted accordi",
-      "tags": [
-        "Design",
-        "UX",
-        "ecommerce",
-        "research"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Anamol Rajbhandari"
     }
   ],
   "JavaScript": [
@@ -1358,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 537,
       "user": "theoephraim"
     },
     {
@@ -1373,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "Qiuner"
     },
     {
@@ -1403,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 163,
       "user": "kazdenc"
     },
     {
@@ -1433,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 487,
       "user": "jarrodwatts"
     },
     {
@@ -1448,8 +1417,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 235,
       "user": "opencoredev"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "published_at": "2026-09-17T05:57:20Z",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "tamaratran"
     },
     {
       "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
@@ -1463,23 +1447,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 159,
       "user": "devagrawal09"
-    },
-    {
-      "title": "danielroe/airspace - The database you already have.",
-      "url": "https://github.com/danielroe/airspace",
-      "published_at": "2026-09-11T07:21:52Z",
-      "description": "The database you already have.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "danielroe"
     },
     {
       "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
@@ -1496,19 +1465,19 @@
       "user": "T_T_P"
     },
     {
-      "title": "Why is my async map returning an array of promises?",
-      "url": "https://stackoverflow.com/questions/80003814/why-is-my-async-map-returning-an-array-of-promises",
-      "published_at": "2026-09-17T14:22:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How to achieve 120fps on SDUI list",
+      "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
+      "published_at": "2026-09-17T07:45:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
-        "asynchronous",
-        "async-await",
-        "promise"
+        "ios",
+        "reactjs",
+        "react-native"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Faheem"
+      "user": "kriptonian"
     },
     {
       "title": "React state returns null when calling API",
@@ -1523,21 +1492,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thorfinn"
-    },
-    {
-      "title": "How to achieve 120fps on SDUI list",
-      "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
-      "published_at": "2026-09-17T07:45:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "ios",
-        "reactjs",
-        "react-native"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kriptonian"
     },
     {
       "title": "How do I correctly calculate the velocity with (key === right - key === left) * moveSpeed",
@@ -1621,6 +1575,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kpozin"
+    },
+    {
+      "title": "Using querySelectorAll to retrieve direct children",
+      "url": "https://stackoverflow.com/questions/3680876/using-queryselectorall-to-retrieve-direct-children",
+      "published_at": "2010-09-09T21:57:27.000Z",
+      "description": "Stack Overflow question · 15 answers · score 312",
+      "tags": [
+        "javascript",
+        "dom",
+        "css-selectors"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mattsh"
     }
   ],
   "Python": [
@@ -1876,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1951,
       "user": "browser-use"
     },
     {
@@ -1895,21 +1863,6 @@
       "user": "kruzovic7"
     },
     {
-      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
-      "url": "https://github.com/nilbuild/page-mascot",
-      "published_at": "2026-09-14T06:55:59Z",
-      "description": "A mascot that watches the cursor and blinks when you poke it",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
-      "source": "GitHub",
-      "stars": 677,
-      "user": "nilbuild"
-    },
-    {
       "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
       "url": "https://github.com/TheoLeeCJ/openjev",
       "published_at": "2026-09-16T03:51:21Z",
@@ -1921,8 +1874,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 742,
       "user": "TheoLeeCJ"
+    },
+    {
+      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "published_at": "2026-09-14T06:55:59Z",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "source": "GitHub",
+      "stars": 682,
+      "user": "nilbuild"
     },
     {
       "title": "vinnylarouge/jevlike - GitHub Repository",
@@ -1936,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 652,
       "user": "vinnylarouge"
     },
     {
@@ -1958,7 +1926,7 @@
       "title": "How can I translate this SAT algorithm description into executable code?",
       "url": "https://stackoverflow.com/questions/80003890/how-can-i-translate-this-sat-algorithm-description-into-executable-code",
       "published_at": "2026-09-17T18:36:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -13",
       "tags": [
         "python",
         "algorithm",
@@ -1972,7 +1940,7 @@
       "title": "Run code when module is unloaded from memory",
       "url": "https://stackoverflow.com/questions/80003859/run-code-when-module-is-unloaded-from-memory",
       "published_at": "2026-09-17T16:32:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python"
       ],
@@ -2011,7 +1979,7 @@
       "title": "Remove paragraphs from a word .doc using Python",
       "url": "https://stackoverflow.com/questions/80003827/remove-paragraphs-from-a-word-doc-using-python",
       "published_at": "2026-09-17T14:54:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python"
       ],
@@ -2449,6 +2417,20 @@
       "user": "Dimitrios Desyllas"
     },
     {
+      "title": "Using querySelectorAll to retrieve direct children",
+      "url": "https://stackoverflow.com/questions/3680876/using-queryselectorall-to-retrieve-direct-children",
+      "published_at": "2010-09-09T21:57:27.000Z",
+      "description": "Stack Overflow question · 15 answers · score 312",
+      "tags": [
+        "javascript",
+        "dom",
+        "css-selectors"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mattsh"
+    },
+    {
       "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
       "url": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
       "published_at": "2026-09-16T15:28:18.000Z",
@@ -2520,23 +2502,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 96,
       "user": "kdbhalala"
-    },
-    {
-      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "url": "https://github.com/HuskerMinion/techo5",
-      "published_at": "2026-09-14T23:30:01Z",
-      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
-      "source": "GitHub",
-      "stars": 45,
-      "user": "HuskerMinion"
     },
     {
       "title": "How to achieve 120fps on SDUI list",
@@ -2881,7 +2848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 537,
       "user": "theoephraim"
     },
     {
@@ -2896,7 +2863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 744,
       "user": "agentverse-os"
     },
     {
@@ -2928,19 +2895,34 @@
       "user": "iancarroll"
     },
     {
-      "title": "danielroe/airspace - The database you already have.",
-      "url": "https://github.com/danielroe/airspace",
-      "published_at": "2026-09-11T07:21:52Z",
-      "description": "The database you already have.",
+      "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
+      "url": "https://github.com/bl4ckarch/go-responder",
+      "published_at": "2026-09-17T11:07:30Z",
+      "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 140,
-      "user": "danielroe"
+      "stars": 46,
+      "user": "bl4ckarch"
+    },
+    {
+      "title": "planetscale/lead - A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
+      "url": "https://github.com/planetscale/lead",
+      "published_at": "2026-09-17T14:29:30Z",
+      "description": "A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "planetscale"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -3138,6 +3120,21 @@
       "user": "ewenjo"
     },
     {
+      "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
+      "url": "https://github.com/bl4ckarch/go-responder",
+      "published_at": "2026-09-17T11:07:30Z",
+      "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
+      "source": "GitHub",
+      "stars": 46,
+      "user": "bl4ckarch"
+    },
+    {
       "title": "Be alert: targeted attacks on prominent Rustaceans",
       "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
       "published_at": "2026-09-17T13:10:52.241-05:00",
@@ -3149,6 +3146,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "itamarst"
+    },
+    {
+      "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+      "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+      "published_at": "2026-09-17T16:21:18.024-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "reversing",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "robey"
     },
     {
       "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
@@ -3352,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 537,
       "user": "theoephraim"
     },
     {
@@ -3367,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 376,
       "user": "Qiuner"
     },
     {
@@ -3397,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 163,
       "user": "kazdenc"
     },
     {
@@ -3412,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1951,
       "user": "browser-use"
     },
     {
@@ -3431,21 +3441,6 @@
       "user": "kruzovic7"
     },
     {
-      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
-      "url": "https://github.com/nilbuild/page-mascot",
-      "published_at": "2026-09-14T06:55:59Z",
-      "description": "A mascot that watches the cursor and blinks when you poke it",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
-      "source": "GitHub",
-      "stars": 677,
-      "user": "nilbuild"
-    },
-    {
       "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
       "url": "https://github.com/TheoLeeCJ/openjev",
       "published_at": "2026-09-16T03:51:21Z",
@@ -3457,8 +3452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 742,
       "user": "TheoLeeCJ"
+    },
+    {
+      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "published_at": "2026-09-14T06:55:59Z",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "source": "GitHub",
+      "stars": 682,
+      "user": "nilbuild"
     },
     {
       "title": "vinnylarouge/jevlike - GitHub Repository",
@@ -3472,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 652,
       "user": "vinnylarouge"
     },
     {
@@ -3487,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "linguo2625469"
     },
     {
@@ -3517,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14024832?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 112,
       "user": "BennyThink"
     },
     {
@@ -3532,23 +3542,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 96,
       "user": "kdbhalala"
     },
     {
-      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "url": "https://github.com/HuskerMinion/techo5",
-      "published_at": "2026-09-14T23:30:01Z",
-      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
+      "url": "https://github.com/bl4ckarch/go-responder",
+      "published_at": "2026-09-17T11:07:30Z",
+      "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 45,
-      "user": "HuskerMinion"
+      "stars": 46,
+      "user": "bl4ckarch"
     },
     {
       "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
@@ -3577,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 487,
       "user": "jarrodwatts"
     },
     {
@@ -3592,8 +3602,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 235,
       "user": "opencoredev"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "published_at": "2026-09-17T05:57:20Z",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "tamaratran"
     },
     {
       "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
@@ -3607,23 +3632,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 159,
       "user": "devagrawal09"
-    },
-    {
-      "title": "danielroe/airspace - The database you already have.",
-      "url": "https://github.com/danielroe/airspace",
-      "published_at": "2026-09-11T07:21:52Z",
-      "description": "The database you already have.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28706372?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "danielroe"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -3637,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 744,
       "user": "agentverse-os"
     },
     {
@@ -3686,34 +3696,19 @@
       "user": "maximpri"
     },
     {
-      "title": "XiaoQAQ10086/FrameGen-Manager - 一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
-      "url": "https://github.com/XiaoQAQ10086/FrameGen-Manager",
-      "published_at": "2026-09-13T04:01:52Z",
-      "description": "一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
+      "title": "planetscale/lead - A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
+      "url": "https://github.com/planetscale/lead",
+      "published_at": "2026-09-17T14:29:30Z",
+      "description": "A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 73,
-      "user": "XiaoQAQ10086"
-    },
-    {
-      "title": "Pinterest teases a new &#8216;Restyle&#8217; feature that lets you redesign your room with AI",
-      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "published_at": "2026-09-17T17:15:00.000Z",
-      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Commerce",
-        "Pinterest"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "stars": 78,
+      "user": "planetscale"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
