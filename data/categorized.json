@@ -46,21 +46,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
-      "published_at": "2026-09-17T09:57:31Z",
-      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
-      "tags": [
-        "security",
-        "devops",
-        "docker",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Progressive Disclosure: What, Where, When, and Why",
       "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
       "published_at": "2026-09-16T18:01:55Z",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
+      "published_at": "2026-09-17T09:57:31Z",
+      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "tags": [
+        "security",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
@@ -567,36 +567,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
-      "url": "https://dev.to/managerfx/my-thermostat-was-speaking-an-industrial-protocol-just-not-to-me-2a0p",
-      "published_at": "2026-09-03T15:32:52Z",
-      "description": "A senior software engineer who knew nothing about hardware, a BACnet MS/TP thermostat, and an RS-485 bus. How I ended up with an ESP32-S3 gateway on a DIN rail, wired into Home Assistant, in 15 evenings.",
-      "tags": [
-        "bacnet",
-        "esp32",
-        "iot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv09zfq5acat27lmo2hmm.jpg",
-      "source": "Dev.to",
-      "user": "Felice Lombardi"
-    },
-    {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -776,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 630,
       "user": "theoephraim"
     },
     {
@@ -791,8 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4116654?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "pliablepixels"
+    },
+    {
+      "title": "korcarc/text-humanizer - text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "published_at": "2026-09-16T13:21:56Z",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64578973?v=4",
+      "source": "GitHub",
+      "stars": 703,
+      "user": "korcarc"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 490,
       "user": "linguo2625469"
     },
     {
@@ -821,23 +806,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 76,
       "user": "bl4ckarch"
-    },
-    {
-      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "url": "https://github.com/HuskerMinion/techo5",
-      "published_at": "2026-09-14T23:30:01Z",
-      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "HuskerMinion"
     },
     {
       "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
@@ -851,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 767,
       "user": "jarrodwatts"
     },
     {
@@ -866,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "shinthink"
     },
     {
@@ -881,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 396,
       "user": "Qiuner"
     },
     {
@@ -896,20 +866,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 808,
       "user": "agentverse-os"
-    },
-    {
-      "title": "I Don't Like LLMs",
-      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-      "published_at": "2026-09-17T10:25:24.745-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cameron"
     },
     {
       "title": "What is still exciting in tech?",
@@ -925,24 +883,106 @@
       "user": "ploum"
     },
     {
-      "title": "Introducing System One Models & Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "published_at": "2026-09-17T19:05:10.531-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Meta&#8217;s Muse hits Mac, letting the AI take actions on your computer",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "published_at": "2026-09-18T15:22:48.000Z",
+      "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
       "tags": [
-        "ai"
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "w"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "title": "I’m so mad that I love Orion&#8217;s $2,195 AI mattress pad",
+      "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
+      "published_at": "2026-09-18T15:22:16.000Z",
+      "description": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your whole entire bed is the cool side.",
+      "tags": [
+        "Hardware",
+        "Reviews",
+        "smart mattress"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-18T15:00:00.000Z",
+      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+      "tags": [
+        "Startups",
+        "Fintech",
+        "AI",
+        "TechCrunch Disrupt",
+        "Robinhood"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-18T14:30:00.000Z",
+      "description": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
+      "tags": [
+        "Startups",
+        "Climate",
+        "Venture",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Researchers used Anthropic&#8217;s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "published_at": "2026-09-18T14:00:14.000Z",
+      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "tags": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "cybersecurity",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta, Rebecca Bellan"
+    },
+    {
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-18T14:00:00.000Z",
+      "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "tags": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
       "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
       "published_at": "2026-09-18T00:02:36.000Z",
       "description": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
       "tags": [
         "Climate",
+        "Startups",
         "geothermal energy"
       ],
       "cover_image": null,
@@ -979,94 +1019,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
-    },
-    {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "published_at": "2026-09-17T22:34:09.000Z",
-      "description": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "tags": [
-        "AI",
-        "Startups",
-        "LLMs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "The FAA&#8217;s plan to fix air traffic? $875M worth of AI",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "published_at": "2026-09-17T22:14:59.000Z",
-      "description": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "air traffic control",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "The fix for rogue AI agents could be more AI",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "published_at": "2026-09-17T20:34:47.000Z",
-      "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "tags": [
-        "AI",
-        "ai safety"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "published_at": "2026-09-17T20:34:24.000Z",
-      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "tags": [
-        "AI",
-        "ai alignment",
-        "gpt-5.6 sol",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Is the AI safety debate about safety or control?",
-      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "published_at": "2026-09-17T20:19:37.000Z",
-      "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "tags": [
-        "AI",
-        "TC",
-        "Anthropic",
-        "ai safety"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "published_at": "2026-09-17T20:00:00.000Z",
-      "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Google",
-        "Google Data Commons",
-        "unicef"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
@@ -1412,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 630,
       "user": "theoephraim"
     },
     {
@@ -1427,8 +1379,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4116654?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "pliablepixels"
+    },
+    {
+      "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
+      "url": "https://github.com/dofastted/vm2api",
+      "published_at": "2026-09-16T08:38:18Z",
+      "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
+      "source": "GitHub",
+      "stars": 165,
+      "user": "dofastted"
     },
     {
       "title": "kazdenc/regen-icons - GitHub Repository",
@@ -1446,21 +1413,6 @@
       "user": "kazdenc"
     },
     {
-      "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
-      "url": "https://github.com/dofastted/vm2api",
-      "published_at": "2026-09-16T08:38:18Z",
-      "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "dofastted"
-    },
-    {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "published_at": "2026-09-17T05:57:20Z",
@@ -1472,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 2183,
+      "stars": 2592,
       "user": "tamaratran"
     },
     {
@@ -1487,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 767,
       "user": "jarrodwatts"
     },
     {
@@ -1502,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "shinthink"
     },
     {
@@ -1517,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 396,
       "user": "Qiuner"
     },
     {
@@ -1532,14 +1484,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "opencoredev"
     },
     {
       "title": "How can I build a YYYY-DD-MM date string without changing the calendar day?",
       "url": "https://stackoverflow.com/questions/80004030/how-can-i-build-a-yyyy-dd-mm-date-string-without-changing-the-calendar-day",
       "published_at": "2026-09-18T11:31:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "date"
@@ -1549,10 +1501,25 @@
       "user": "veotuises"
     },
     {
+      "title": "Traversing the DOM of a Service Now page - Stuck on a Shadowroot",
+      "url": "https://stackoverflow.com/questions/80003607/traversing-the-dom-of-a-service-now-page-stuck-on-a-shadowroot",
+      "published_at": "2026-09-16T20:11:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom",
+        "tampermonkey"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user66001"
+    },
+    {
       "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
       "url": "https://stackoverflow.com/questions/80003818/trying-to-animate-coin-flipping-everything-but-the-actual-coin-flipping-works",
       "published_at": "2026-09-17T14:30:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1604,19 +1571,19 @@
       "user": "VIXSIN"
     },
     {
-      "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
-      "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
-      "published_at": "2026-09-16T12:58:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Traversing the DOM of a Service Now page",
+      "url": "https://stackoverflow.com/questions/80003099/traversing-the-dom-of-a-service-now-page",
+      "published_at": "2026-09-14T20:59:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "python",
-        "django",
-        "ckeditor"
+        "jquery",
+        "dom",
+        "tampermonkey"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
+      "user": "user66001"
     },
     {
       "title": "Check if a value is an object in JavaScript",
@@ -1659,20 +1626,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kpozin"
-    },
-    {
-      "title": "Using querySelectorAll to retrieve direct children",
-      "url": "https://stackoverflow.com/questions/3680876/using-queryselectorall-to-retrieve-direct-children",
-      "published_at": "2010-09-09T21:57:27.000Z",
-      "description": "Stack Overflow question · 15 answers · score 312",
-      "tags": [
-        "javascript",
-        "dom",
-        "css-selectors"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mattsh"
     }
   ],
   "Python": [
@@ -1973,14 +1926,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3961,
+      "stars": 4584,
       "user": "browser-use"
     },
     {
-      "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
-      "url": "https://github.com/TheoLeeCJ/openjev",
+      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
       "published_at": "2026-09-16T03:51:21Z",
-      "description": "Can we run something like Jev on a 3090 at home?",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "tags": [
         "python",
         "github",
@@ -1988,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1452,
       "user": "TheoLeeCJ"
     },
     {
@@ -2003,23 +1956,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 835,
       "user": "vinnylarouge"
-    },
-    {
-      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
-      "url": "https://github.com/nilbuild/page-mascot",
-      "published_at": "2026-09-14T06:55:59Z",
-      "description": "A mascot that watches the cursor and blinks when you poke it",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
-      "source": "GitHub",
-      "stars": 698,
-      "user": "nilbuild"
     },
     {
       "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
@@ -2033,39 +1971,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 823,
       "user": "mcncarl"
     },
     {
-      "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
-      "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
-      "published_at": "2026-09-16T12:58:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "korcarc/text-humanizer - text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "published_at": "2026-09-16T13:21:56Z",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
       "tags": [
-        "javascript",
         "python",
-        "django",
-        "ckeditor"
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
+      "cover_image": "https://avatars.githubusercontent.com/u/64578973?v=4",
+      "source": "GitHub",
+      "stars": 703,
+      "user": "korcarc"
     },
     {
-      "title": "Great expectations custom sql involving two tables",
-      "url": "https://stackoverflow.com/questions/80004033/great-expectations-custom-sql-involving-two-tables",
-      "published_at": "2026-09-18T11:39:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How to Pass and Reference Multiple Batches in a Great Expectations Custom SQL Query",
+      "url": "https://stackoverflow.com/questions/80004079/how-to-pass-and-reference-multiple-batches-in-a-great-expectations-custom-sql-qu",
+      "published_at": "2026-09-18T14:51:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
+        "pyspark",
         "apache-spark-sql",
-        "databricks-sql",
-        "great-expectations",
-        "data-quality"
+        "azure-databricks",
+        "great-expectations"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Venkata Sai"
+    },
+    {
+      "title": "sympy parse/expand without alphabetical ordering",
+      "url": "https://stackoverflow.com/questions/80004052/sympy-parse-expand-without-alphabetical-ordering",
+      "published_at": "2026-09-18T13:03:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "parsing",
+        "sympy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luca Braglia"
     },
     {
       "title": "Display every conversation that matches the selected sentiment",
@@ -2083,7 +2035,7 @@
       "title": "I have dataframe I need to know how to index the row count",
       "url": "https://stackoverflow.com/questions/80003939/i-have-dataframe-i-need-to-know-how-to-index-the-row-count",
       "published_at": "2026-09-18T01:54:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "dataframe"
@@ -2108,7 +2060,7 @@
       "title": "How can I translate this SAT algorithm description into executable code?",
       "url": "https://stackoverflow.com/questions/80003890/how-can-i-translate-this-sat-algorithm-description-into-executable-code",
       "published_at": "2026-09-17T18:36:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -18",
+      "description": "Stack Overflow question · 0 answers · score -19",
       "tags": [
         "python",
         "algorithm",
@@ -2133,19 +2085,6 @@
       "user": "Jeremy"
     },
     {
-      "title": "How do I use PySimpleGUI6 to make an app?",
-      "url": "https://stackoverflow.com/questions/80003864/how-do-i-use-pysimplegui6-to-make-an-app",
-      "published_at": "2026-09-17T16:52:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "pysimplegui"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Megatron1000"
-    },
-    {
       "title": "What does annotating a variable actually do in Python?",
       "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
       "published_at": "2026-09-14T18:41:01.000Z",
@@ -2159,6 +2098,19 @@
       "user": "Oxidation"
     },
     {
+      "title": "How do I use PySimpleGUI6 to make an app?",
+      "url": "https://stackoverflow.com/questions/80003864/how-do-i-use-pysimplegui6-to-make-an-app",
+      "published_at": "2026-09-17T16:52:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python",
+        "pysimplegui"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Megatron1000"
+    },
+    {
       "title": "Remove paragraphs from a word .doc using Python",
       "url": "https://stackoverflow.com/questions/80003827/remove-paragraphs-from-a-word-doc-using-python",
       "published_at": "2026-09-17T14:54:32.000Z",
@@ -2169,37 +2121,9 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user27178816"
-    },
-    {
-      "title": "Pandas 'drop_duplicates' not removing rows",
-      "url": "https://stackoverflow.com/questions/80003787/pandas-drop-duplicates-not-removing-rows",
-      "published_at": "2026-09-17T12:11:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "pandas"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SwankyTiger"
     }
   ],
   "DevOps": [
-    {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
-      "published_at": "2026-09-17T09:57:31Z",
-      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
-      "tags": [
-        "security",
-        "devops",
-        "docker",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b",
@@ -2214,6 +2138,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
+      "published_at": "2026-09-17T09:57:31Z",
+      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "tags": [
+        "security",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "ELT with Dataform on Google Cloud",
@@ -2304,21 +2243,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2516,7 +2440,7 @@
       "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
       "url": "https://stackoverflow.com/questions/80003818/trying-to-animate-coin-flipping-everything-but-the-actual-coin-flipping-works",
       "published_at": "2026-09-17T14:30:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2525,35 +2449,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "T_T_P"
-    },
-    {
-      "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
-      "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
-      "published_at": "2026-09-16T12:58:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "python",
-        "django",
-        "ckeditor"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "Using querySelectorAll to retrieve direct children",
-      "url": "https://stackoverflow.com/questions/3680876/using-queryselectorall-to-retrieve-direct-children",
-      "published_at": "2010-09-09T21:57:27.000Z",
-      "description": "Stack Overflow question · 15 answers · score 312",
-      "tags": [
-        "javascript",
-        "dom",
-        "css-selectors"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mattsh"
     },
     {
       "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
@@ -2627,23 +2522,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 116,
       "user": "kdbhalala"
-    },
-    {
-      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "url": "https://github.com/HuskerMinion/techo5",
-      "published_at": "2026-09-14T23:30:01Z",
-      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "HuskerMinion"
     },
     {
       "title": "How to achieve 120fps on SDUI list",
@@ -2992,21 +2872,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
       "published_at": "2026-09-15T09:39:14Z",
@@ -3018,7 +2883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 630,
       "user": "theoephraim"
     },
     {
@@ -3033,8 +2898,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 808,
       "user": "agentverse-os"
+    },
+    {
+      "title": "How to Pass and Reference Multiple Batches in a Great Expectations Custom SQL Query",
+      "url": "https://stackoverflow.com/questions/80004079/how-to-pass-and-reference-multiple-batches-in-a-great-expectations-custom-sql-qu",
+      "published_at": "2026-09-18T14:51:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "pyspark",
+        "apache-spark-sql",
+        "azure-databricks",
+        "great-expectations"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Venkata Sai"
+    },
+    {
+      "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-18T14:30:00.000Z",
+      "description": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
+      "tags": [
+        "Startups",
+        "Climate",
+        "Venture",
+        "Fundraising",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Researchers used Anthropic&#8217;s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "published_at": "2026-09-18T14:00:14.000Z",
+      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "tags": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "cybersecurity",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta, Rebecca Bellan"
     }
   ],
   "Database": [
@@ -3062,7 +2975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 76,
       "user": "bl4ckarch"
     },
     {
@@ -3077,20 +2990,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 104,
       "user": "planetscale"
     },
     {
-      "title": "Great expectations custom sql involving two tables",
-      "url": "https://stackoverflow.com/questions/80004033/great-expectations-custom-sql-involving-two-tables",
-      "published_at": "2026-09-18T11:39:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How to Pass and Reference Multiple Batches in a Great Expectations Custom SQL Query",
+      "url": "https://stackoverflow.com/questions/80004079/how-to-pass-and-reference-multiple-batches-in-a-great-expectations-custom-sql-qu",
+      "published_at": "2026-09-18T14:51:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
+        "pyspark",
         "apache-spark-sql",
-        "databricks-sql",
-        "great-expectations",
-        "data-quality"
+        "azure-databricks",
+        "great-expectations"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -3334,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 76,
       "user": "bl4ckarch"
     },
     {
@@ -3362,6 +3275,34 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "itamarst"
+    },
+    {
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "published_at": "2026-09-18T07:52:18.949-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eduard"
+    },
+    {
+      "title": "Researchers used Anthropic&#8217;s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "published_at": "2026-09-18T14:00:14.000Z",
+      "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "tags": [
+        "AI",
+        "Security",
+        "Anthropic",
+        "cybersecurity",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta, Rebecca Bellan"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -3533,21 +3474,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud",
-      "url": "https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2",
-      "published_at": "2026-09-09T20:59:07Z",
-      "description": "The same Debian 13 on a laptop and on AWS, GCE and Azure. The cloud images ship 328-350 packages against 1,923 on metal, no firmware package at all, and no tool to read the NVMe they all boot from. Each machine was then given the same brief and asked to analyse itself. Three of them agreed. The fourth found a partition table its own resize had broken.",
-      "tags": [
-        "debian",
-        "linux",
-        "claudecode",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3610,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 630,
       "user": "theoephraim"
     },
     {
@@ -3625,8 +3551,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4116654?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "pliablepixels"
+    },
+    {
+      "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
+      "url": "https://github.com/dofastted/vm2api",
+      "published_at": "2026-09-16T08:38:18Z",
+      "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
+      "source": "GitHub",
+      "stars": 165,
+      "user": "dofastted"
     },
     {
       "title": "kazdenc/regen-icons - GitHub Repository",
@@ -3644,21 +3585,6 @@
       "user": "kazdenc"
     },
     {
-      "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
-      "url": "https://github.com/dofastted/vm2api",
-      "published_at": "2026-09-16T08:38:18Z",
-      "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "dofastted"
-    },
-    {
       "title": "browser-use/jev-ultrafast - i. am. speed.",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "published_at": "2026-09-16T21:30:12Z",
@@ -3670,14 +3596,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3961,
+      "stars": 4584,
       "user": "browser-use"
     },
     {
-      "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
-      "url": "https://github.com/TheoLeeCJ/openjev",
+      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
       "published_at": "2026-09-16T03:51:21Z",
-      "description": "Can we run something like Jev on a 3090 at home?",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "tags": [
         "python",
         "github",
@@ -3685,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1350,
+      "stars": 1452,
       "user": "TheoLeeCJ"
     },
     {
@@ -3700,23 +3626,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 835,
       "user": "vinnylarouge"
-    },
-    {
-      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
-      "url": "https://github.com/nilbuild/page-mascot",
-      "published_at": "2026-09-14T06:55:59Z",
-      "description": "A mascot that watches the cursor and blinks when you poke it",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
-      "source": "GitHub",
-      "stars": 698,
-      "user": "nilbuild"
     },
     {
       "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
@@ -3730,8 +3641,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 823,
       "user": "mcncarl"
+    },
+    {
+      "title": "korcarc/text-humanizer - text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "url": "https://github.com/korcarc/text-humanizer",
+      "published_at": "2026-09-16T13:21:56Z",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64578973?v=4",
+      "source": "GitHub",
+      "stars": 703,
+      "user": "korcarc"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -3745,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 490,
       "user": "linguo2625469"
     },
     {
@@ -3775,8 +3701,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 116,
       "user": "kdbhalala"
+    },
+    {
+      "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
+      "url": "https://github.com/gylive/ccodex-sleep-state",
+      "published_at": "2026-09-18T09:02:44Z",
+      "description": "尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "gylive"
     },
     {
       "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
@@ -3790,23 +3731,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 76,
       "user": "bl4ckarch"
-    },
-    {
-      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "url": "https://github.com/HuskerMinion/techo5",
-      "published_at": "2026-09-14T23:30:01Z",
-      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "HuskerMinion"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -3820,7 +3746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 2183,
+      "stars": 2592,
       "user": "tamaratran"
     },
     {
@@ -3835,7 +3761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 767,
       "user": "jarrodwatts"
     },
     {
@@ -3850,7 +3776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 635,
       "user": "shinthink"
     },
     {
@@ -3865,7 +3791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 396,
       "user": "Qiuner"
     },
     {
@@ -3880,7 +3806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "opencoredev"
     },
     {
@@ -3895,7 +3821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 808,
       "user": "agentverse-os"
     },
     {
@@ -3910,7 +3836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275886436?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 104,
       "user": "Abomination81"
     },
     {
@@ -3925,7 +3851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 104,
       "user": "planetscale"
     },
     {
@@ -3940,7 +3866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "dmtrKovalenko"
     },
     {
