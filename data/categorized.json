@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
       "published_at": "2026-09-16T10:15:52Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
@@ -776,23 +776,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 613,
       "user": "theoephraim"
-    },
-    {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 387,
-      "user": "Qiuner"
     },
     {
       "title": "pliablepixels/gap-trap - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 481,
       "user": "linguo2625469"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 65,
       "user": "bl4ckarch"
     },
     {
@@ -851,8 +836,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 53,
       "user": "HuskerMinion"
+    },
+    {
+      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "published_at": "2026-09-16T21:36:20Z",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "source": "GitHub",
+      "stars": 706,
+      "user": "jarrodwatts"
     },
     {
       "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
@@ -870,19 +870,19 @@
       "user": "shinthink"
     },
     {
-      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "url": "https://github.com/jarrodwatts/jev-trader",
-      "published_at": "2026-09-16T21:36:20Z",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 619,
-      "user": "jarrodwatts"
+      "stars": 390,
+      "user": "Qiuner"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -896,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 779,
       "user": "agentverse-os"
     },
     {
@@ -912,6 +912,19 @@
       "user": "cameron"
     },
     {
+      "title": "What is still exciting in tech?",
+      "url": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+      "published_at": "2026-09-18T03:14:52.256-05:00",
+      "description": "A comment on a lobste.rs post about the tech culture stagnating made me think.\r\n\r\n20-15 or even 10 years ago, tech was really exciting. Sure, monopolies were bad, I was fighting them, but tech by itself was very interesting. New versions of software were expected, we were skimming through changelogs to find novelties, installing beta or alpha versions of totally unknown projects. And I had lived that excitement since the 90’s.\r\n\r\nWhen you think about it, today feels really bleak in comparison:\r\n- Changelogs of commercial projects now all have that pseudo-humorous tone to tell you that \"they improved performance and fixed bugs\"\r\n- The best smartphone I ever had is now 10 years old (and was not an expensive one, see https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html )\r\n- Around me, at least 3 totally unrelated people left a decade-long career in tech to do woodworking. And they are way happier.\r\n- My main interest in looking at changelogs is now to see how the projects I use will be enshitified with AI integration\r\n- Even my beloved Free Software stack is now heavily tainted by slop\r\n- Lot of people that could have been doing very cool thing (or were doing very cool things) are now outspoken fascist ( see https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md or https://drewdevault.com/weird-guys/ )\r\n- Even if you are interested by AI, the ecological consequences and the way it is used are simply awful.\r\n\r\nAll of this makes me wonder: am I just a grumpy already old man? Am I missing something? If so, what?\r\n\r\nSo I would like to ask all lobste.rs: what do you find really exciting in tech today? What are you waiting with impatience? Which project are you following closely? What do you expect from them? What do you hope to see in the next few months or years?",
+      "tags": [
+        "ask",
+        "culture"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ploum"
+    },
+    {
       "title": "Introducing System One Models & Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "published_at": "2026-09-17T19:05:10.531-05:00",
@@ -922,22 +935,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "w"
-    },
-    {
-      "title": "getUserMedia permission request is not prompting the user in Android WebView, and automatically failing with \"Permission Denied\"",
-      "url": "https://stackoverflow.com/questions/76922060/getusermedia-permission-request-is-not-prompting-the-user-in-android-webview-an",
-      "published_at": "2023-08-17T13:36:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "webview",
-        "webrtc",
-        "android-webview",
-        "getusermedia"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hitesh Misro"
     },
     {
       "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
@@ -1400,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 663,
       "user": "rizqinrr"
     },
     {
@@ -1415,23 +1412,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 613,
       "user": "theoephraim"
-    },
-    {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 387,
-      "user": "Qiuner"
     },
     {
       "title": "pliablepixels/gap-trap - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
@@ -1460,8 +1442,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 165,
       "user": "kazdenc"
+    },
+    {
+      "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
+      "url": "https://github.com/dofastted/vm2api",
+      "published_at": "2026-09-16T08:38:18Z",
+      "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "dofastted"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -1475,8 +1472,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 2183,
       "user": "tamaratran"
+    },
+    {
+      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "published_at": "2026-09-16T21:36:20Z",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "source": "GitHub",
+      "stars": 706,
+      "user": "jarrodwatts"
     },
     {
       "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
@@ -1494,19 +1506,19 @@
       "user": "shinthink"
     },
     {
-      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "url": "https://github.com/jarrodwatts/jev-trader",
-      "published_at": "2026-09-16T21:36:20Z",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 619,
-      "user": "jarrodwatts"
+      "stars": 390,
+      "user": "Qiuner"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -1520,23 +1532,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 246,
       "user": "opencoredev"
     },
     {
-      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "url": "https://github.com/devagrawal09/jev-review",
-      "published_at": "2026-09-16T21:45:36Z",
-      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "title": "How can I build a YYYY-DD-MM date string without changing the calendar day?",
+      "url": "https://stackoverflow.com/questions/80004030/how-can-i-build-a-yyyy-dd-mm-date-string-without-changing-the-calendar-day",
+      "published_at": "2026-09-18T11:31:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "date"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
-      "source": "GitHub",
-      "stars": 192,
-      "user": "devagrawal09"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "veotuises"
     },
     {
       "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
@@ -1582,6 +1592,18 @@
       "user": "kriptonian"
     },
     {
+      "title": "How do I correctly calculate the velocity with (key === right - key === left) * moveSpeed",
+      "url": "https://stackoverflow.com/questions/80003350/how-do-i-correctly-calculate-the-velocity-with-key-right-key-left",
+      "published_at": "2026-09-15T20:49:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VIXSIN"
+    },
+    {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
       "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
       "published_at": "2026-09-16T12:58:13.000Z",
@@ -1597,18 +1619,18 @@
       "user": "Dimitrios Desyllas"
     },
     {
-      "title": "How to configure refresh token with express and react",
-      "url": "https://stackoverflow.com/questions/80003429/how-to-configure-refresh-token-with-express-and-react",
-      "published_at": "2026-09-16T08:33:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Check if a value is an object in JavaScript",
+      "url": "https://stackoverflow.com/questions/8511281/check-if-a-value-is-an-object-in-javascript",
+      "published_at": "2011-12-14T20:35:47.000Z",
+      "description": "Stack Overflow question · 59 answers · score 2338",
       "tags": [
         "javascript",
-        "node.js",
-        "express"
+        "types",
+        "javascript-objects"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alberto Benedetto"
+      "user": "Danny Fox"
     },
     {
       "title": "dynamic links with expo React Native useAudioPlayer",
@@ -1651,38 +1673,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mattsh"
-    },
-    {
-      "title": "How to fetch data server-side in the latest Next.js? Tried getStaticProps but it's not running and getting undefined",
-      "url": "https://stackoverflow.com/questions/76267351/how-to-fetch-data-server-side-in-the-latest-next-js-tried-getstaticprops-but-it",
-      "published_at": "2023-05-16T22:04:28.000Z",
-      "description": "Stack Overflow question · 5 answers · score 28",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "django",
-        "rest",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "victor"
-    },
-    {
-      "title": "getUserMedia permission request is not prompting the user in Android WebView, and automatically failing with \"Permission Denied\"",
-      "url": "https://stackoverflow.com/questions/76922060/getusermedia-permission-request-is-not-prompting-the-user-in-android-webview-an",
-      "published_at": "2023-08-17T13:36:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "webview",
-        "webrtc",
-        "android-webview",
-        "getusermedia"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hitesh Misro"
     }
   ],
   "Python": [
@@ -1983,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3111,
+      "stars": 3961,
       "user": "browser-use"
     },
     {
@@ -1998,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1350,
       "user": "TheoLeeCJ"
     },
     {
@@ -2013,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 802,
       "user": "vinnylarouge"
     },
     {
@@ -2028,23 +2018,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 698,
       "user": "nilbuild"
     },
     {
-      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-      "url": "https://github.com/letorig/video-generator-client",
-      "published_at": "2026-09-14T17:46:01Z",
-      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "published_at": "2026-09-15T11:51:15Z",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 533,
-      "user": "letorig"
+      "stars": 664,
+      "user": "mcncarl"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -2062,20 +2052,20 @@
       "user": "Dimitrios Desyllas"
     },
     {
-      "title": "How to fetch data server-side in the latest Next.js? Tried getStaticProps but it's not running and getting undefined",
-      "url": "https://stackoverflow.com/questions/76267351/how-to-fetch-data-server-side-in-the-latest-next-js-tried-getstaticprops-but-it",
-      "published_at": "2023-05-16T22:04:28.000Z",
-      "description": "Stack Overflow question · 5 answers · score 28",
+      "title": "Great expectations custom sql involving two tables",
+      "url": "https://stackoverflow.com/questions/80004033/great-expectations-custom-sql-involving-two-tables",
+      "published_at": "2026-09-18T11:39:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "javascript",
-        "reactjs",
-        "django",
-        "rest",
-        "next.js"
+        "python",
+        "apache-spark-sql",
+        "databricks-sql",
+        "great-expectations",
+        "data-quality"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "victor"
+      "user": "Venkata Sai"
     },
     {
       "title": "Display every conversation that matches the selected sentiment",
@@ -2093,7 +2083,7 @@
       "title": "I have dataframe I need to know how to index the row count",
       "url": "https://stackoverflow.com/questions/80003939/i-have-dataframe-i-need-to-know-how-to-index-the-row-count",
       "published_at": "2026-09-18T01:54:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "dataframe"
@@ -2118,7 +2108,7 @@
       "title": "How can I translate this SAT algorithm description into executable code?",
       "url": "https://stackoverflow.com/questions/80003890/how-can-i-translate-this-sat-algorithm-description-into-executable-code",
       "published_at": "2026-09-17T18:36:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -14",
+      "description": "Stack Overflow question · 0 answers · score -18",
       "tags": [
         "python",
         "algorithm",
@@ -2156,6 +2146,19 @@
       "user": "Megatron1000"
     },
     {
+      "title": "What does annotating a variable actually do in Python?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 4 answers · score 23",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oxidation"
+    },
+    {
       "title": "Remove paragraphs from a word .doc using Python",
       "url": "https://stackoverflow.com/questions/80003827/remove-paragraphs-from-a-word-doc-using-python",
       "published_at": "2026-09-17T14:54:32.000Z",
@@ -2179,33 +2182,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SwankyTiger"
-    },
-    {
-      "title": "What does annotating a variable actually do in Python?",
-      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
-      "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 4 answers · score 22",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oxidation"
-    },
-    {
-      "title": "I’m having trouble getting Python to locate a specific value in a spreadsheet",
-      "url": "https://stackoverflow.com/questions/80003582/i-m-having-trouble-getting-python-to-locate-a-specific-value-in-a-spreadsheet",
-      "published_at": "2026-09-16T18:24:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "excel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Paulo C&#233;sar Matos"
     }
   ],
   "DevOps": [
@@ -2524,6 +2500,19 @@
       "user": "velmu"
     },
     {
+      "title": "What is still exciting in tech?",
+      "url": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+      "published_at": "2026-09-18T03:14:52.256-05:00",
+      "description": "A comment on a lobste.rs post about the tech culture stagnating made me think.\r\n\r\n20-15 or even 10 years ago, tech was really exciting. Sure, monopolies were bad, I was fighting them, but tech by itself was very interesting. New versions of software were expected, we were skimming through changelogs to find novelties, installing beta or alpha versions of totally unknown projects. And I had lived that excitement since the 90’s.\r\n\r\nWhen you think about it, today feels really bleak in comparison:\r\n- Changelogs of commercial projects now all have that pseudo-humorous tone to tell you that \"they improved performance and fixed bugs\"\r\n- The best smartphone I ever had is now 10 years old (and was not an expensive one, see https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html )\r\n- Around me, at least 3 totally unrelated people left a decade-long career in tech to do woodworking. And they are way happier.\r\n- My main interest in looking at changelogs is now to see how the projects I use will be enshitified with AI integration\r\n- Even my beloved Free Software stack is now heavily tainted by slop\r\n- Lot of people that could have been doing very cool thing (or were doing very cool things) are now outspoken fascist ( see https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md or https://drewdevault.com/weird-guys/ )\r\n- Even if you are interested by AI, the ecological consequences and the way it is used are simply awful.\r\n\r\nAll of this makes me wonder: am I just a grumpy already old man? Am I missing something? If so, what?\r\n\r\nSo I would like to ask all lobste.rs: what do you find really exciting in tech today? What are you waiting with impatience? Which project are you following closely? What do you expect from them? What do you hope to see in the next few months or years?",
+      "tags": [
+        "ask",
+        "culture"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ploum"
+    },
+    {
       "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
       "url": "https://stackoverflow.com/questions/80003818/trying-to-animate-coin-flipping-everything-but-the-actual-coin-flipping-works",
       "published_at": "2026-09-17T14:30:16.000Z",
@@ -2638,7 +2627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 111,
       "user": "kdbhalala"
     },
     {
@@ -2653,7 +2642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 53,
       "user": "HuskerMinion"
     },
     {
@@ -2685,40 +2674,9 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Singh Jaskeat"
-    },
-    {
-      "title": "getUserMedia permission request is not prompting the user in Android WebView, and automatically failing with \"Permission Denied\"",
-      "url": "https://stackoverflow.com/questions/76922060/getusermedia-permission-request-is-not-prompting-the-user-in-android-webview-an",
-      "published_at": "2023-08-17T13:36:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "webview",
-        "webrtc",
-        "android-webview",
-        "getusermedia"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hitesh Misro"
     }
   ],
   "Cloud": [
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
@@ -2733,6 +2691,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
@@ -3045,7 +3018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 613,
       "user": "theoephraim"
     },
     {
@@ -3060,7 +3033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 779,
       "user": "agentverse-os"
     }
   ],
@@ -3089,7 +3062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 65,
       "user": "bl4ckarch"
     },
     {
@@ -3104,8 +3077,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 100,
       "user": "planetscale"
+    },
+    {
+      "title": "Great expectations custom sql involving two tables",
+      "url": "https://stackoverflow.com/questions/80004033/great-expectations-custom-sql-involving-two-tables",
+      "published_at": "2026-09-18T11:39:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "apache-spark-sql",
+        "databricks-sql",
+        "great-expectations",
+        "data-quality"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Venkata Sai"
     },
     {
       "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
@@ -3345,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 65,
       "user": "bl4ckarch"
     },
     {
@@ -3606,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 663,
       "user": "rizqinrr"
     },
     {
@@ -3621,23 +3610,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 613,
       "user": "theoephraim"
-    },
-    {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 387,
-      "user": "Qiuner"
     },
     {
       "title": "pliablepixels/gap-trap - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
@@ -3666,8 +3640,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34466320?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 165,
       "user": "kazdenc"
+    },
+    {
+      "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
+      "url": "https://github.com/dofastted/vm2api",
+      "published_at": "2026-09-16T08:38:18Z",
+      "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "dofastted"
     },
     {
       "title": "browser-use/jev-ultrafast - i. am. speed.",
@@ -3681,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 3111,
+      "stars": 3961,
       "user": "browser-use"
     },
     {
@@ -3696,7 +3685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1350,
       "user": "TheoLeeCJ"
     },
     {
@@ -3711,7 +3700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 802,
       "user": "vinnylarouge"
     },
     {
@@ -3726,23 +3715,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 698,
       "user": "nilbuild"
     },
     {
-      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-      "url": "https://github.com/letorig/video-generator-client",
-      "published_at": "2026-09-14T17:46:01Z",
-      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "published_at": "2026-09-15T11:51:15Z",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 533,
-      "user": "letorig"
+      "stars": 664,
+      "user": "mcncarl"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -3756,7 +3745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 481,
       "user": "linguo2625469"
     },
     {
@@ -3771,7 +3760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "YongshengWin"
     },
     {
@@ -3786,7 +3775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 111,
       "user": "kdbhalala"
     },
     {
@@ -3801,7 +3790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 65,
       "user": "bl4ckarch"
     },
     {
@@ -3816,7 +3805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 53,
       "user": "HuskerMinion"
     },
     {
@@ -3831,8 +3820,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 2183,
       "user": "tamaratran"
+    },
+    {
+      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "url": "https://github.com/jarrodwatts/jev-trader",
+      "published_at": "2026-09-16T21:36:20Z",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "source": "GitHub",
+      "stars": 706,
+      "user": "jarrodwatts"
     },
     {
       "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
@@ -3850,19 +3854,19 @@
       "user": "shinthink"
     },
     {
-      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "url": "https://github.com/jarrodwatts/jev-trader",
-      "published_at": "2026-09-16T21:36:20Z",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "url": "https://github.com/Qiuner/birdview",
+      "published_at": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 619,
-      "user": "jarrodwatts"
+      "stars": 390,
+      "user": "Qiuner"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -3876,23 +3880,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 246,
       "user": "opencoredev"
-    },
-    {
-      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "url": "https://github.com/devagrawal09/jev-review",
-      "published_at": "2026-09-16T21:45:36Z",
-      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
-      "source": "GitHub",
-      "stars": 192,
-      "user": "devagrawal09"
     },
     {
       "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
@@ -3906,7 +3895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 779,
       "user": "agentverse-os"
     },
     {
@@ -3925,21 +3914,6 @@
       "user": "Abomination81"
     },
     {
-      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
-      "url": "https://github.com/dmtrKovalenko/bashka",
-      "published_at": "2026-09-15T21:31:30Z",
-      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "dmtrKovalenko"
-    },
-    {
       "title": "planetscale/lead - A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
       "url": "https://github.com/planetscale/lead",
       "published_at": "2026-09-17T14:29:30Z",
@@ -3951,8 +3925,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 100,
       "user": "planetscale"
+    },
+    {
+      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "url": "https://github.com/dmtrKovalenko/bashka",
+      "published_at": "2026-09-15T21:31:30Z",
+      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "dmtrKovalenko"
     },
     {
       "title": "XiaoQAQ10086/FrameGen-Manager - 一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
@@ -3966,8 +3955,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 84,
       "user": "XiaoQAQ10086"
+    },
+    {
+      "title": "What is still exciting in tech?",
+      "url": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+      "published_at": "2026-09-18T03:14:52.256-05:00",
+      "description": "A comment on a lobste.rs post about the tech culture stagnating made me think.\r\n\r\n20-15 or even 10 years ago, tech was really exciting. Sure, monopolies were bad, I was fighting them, but tech by itself was very interesting. New versions of software were expected, we were skimming through changelogs to find novelties, installing beta or alpha versions of totally unknown projects. And I had lived that excitement since the 90’s.\r\n\r\nWhen you think about it, today feels really bleak in comparison:\r\n- Changelogs of commercial projects now all have that pseudo-humorous tone to tell you that \"they improved performance and fixed bugs\"\r\n- The best smartphone I ever had is now 10 years old (and was not an expensive one, see https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html )\r\n- Around me, at least 3 totally unrelated people left a decade-long career in tech to do woodworking. And they are way happier.\r\n- My main interest in looking at changelogs is now to see how the projects I use will be enshitified with AI integration\r\n- Even my beloved Free Software stack is now heavily tainted by slop\r\n- Lot of people that could have been doing very cool thing (or were doing very cool things) are now outspoken fascist ( see https://git.sr.ht/~rabbits/fashware/tree/main/item/README.md or https://drewdevault.com/weird-guys/ )\r\n- Even if you are interested by AI, the ecological consequences and the way it is used are simply awful.\r\n\r\nAll of this makes me wonder: am I just a grumpy already old man? Am I missing something? If so, what?\r\n\r\nSo I would like to ask all lobste.rs: what do you find really exciting in tech today? What are you waiting with impatience? Which project are you following closely? What do you expect from them? What do you hope to see in the next few months or years?",
+      "tags": [
+        "ask",
+        "culture"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ploum"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
