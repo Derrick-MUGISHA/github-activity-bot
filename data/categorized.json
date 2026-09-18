@@ -76,6 +76,21 @@
       "user": "xbill"
     },
     {
+      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
+      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
+      "published_at": "2026-09-16T02:20:49Z",
+      "description": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.",
+      "tags": [
+        "iceberg",
+        "aiagents",
+        "lakehouse",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
       "published_at": "2026-09-13T18:25:49Z",
@@ -132,6 +147,21 @@
         "claudecode"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
+      "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj",
+      "published_at": "2026-09-15T16:32:21Z",
+      "description": "The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and Kiro CLI 3 needs a permissions rule before it will call the tools headless.",
+      "tags": [
+        "kiro",
+        "mcp",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -283,20 +313,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
       "source": "Dev.to",
       "user": "Ashley Childress"
-    },
-    {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
-      "published_at": "2026-09-01T18:28:57Z",
-      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "tags": [
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
@@ -746,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 555,
       "user": "theoephraim"
     },
     {
@@ -761,23 +777,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "Qiuner"
     },
     {
-      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "published_at": "2026-09-11T18:12:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "title": "pliablepixels/gap-trap - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+      "url": "https://github.com/pliablepixels/gap-trap",
+      "published_at": "2026-09-13T20:29:08Z",
+      "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4116654?v=4",
       "source": "GitHub",
-      "stars": 834,
-      "user": "kruzovic7"
+      "stars": 168,
+      "user": "pliablepixels"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -791,8 +807,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 423,
       "user": "linguo2625469"
+    },
+    {
+      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "published_at": "2026-09-14T23:30:01Z",
+      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "HuskerMinion"
     },
     {
       "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
@@ -836,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 520,
       "user": "jarrodwatts"
     },
     {
@@ -851,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 750,
       "user": "agentverse-os"
     },
     {
@@ -882,7 +913,20 @@
       "user": "Harshit Raizada"
     },
     {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8220;AI factories&#8221;",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "published_at": "2026-09-18T00:02:36.000Z",
+      "description": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "tags": [
+        "Climate",
+        "geothermal energy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
       "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "published_at": "2026-09-17T23:25:52.000Z",
       "description": "The round values the data center giant at $30.9 billion.",
@@ -890,8 +934,8 @@
         "AI",
         "Hardware",
         "Venture",
-        "crusoe",
-        "data centers"
+        "data centers",
+        "crusoe"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -901,10 +945,12 @@
       "title": "Google DeepMind launches institute to widen the AGI debate",
       "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
       "published_at": "2026-09-17T23:21:17.000Z",
-      "description": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
       "tags": [
         "AI",
-        "TC"
+        "artificial general intelligence",
+        "Google",
+        "google deepmind"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -997,22 +1043,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "published_at": "2026-09-17T19:46:08.000Z",
-      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "copyright",
-        "Microsoft",
-        "new york times"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
@@ -1327,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 555,
       "user": "theoephraim"
     },
     {
@@ -1342,23 +1372,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "Qiuner"
     },
     {
-      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "url": "https://github.com/nhovongoc0-max/meme-radar",
-      "published_at": "2026-09-11T12:14:57Z",
-      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "title": "pliablepixels/gap-trap - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+      "url": "https://github.com/pliablepixels/gap-trap",
+      "published_at": "2026-09-13T20:29:08Z",
+      "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4116654?v=4",
       "source": "GitHub",
-      "stars": 355,
-      "user": "nhovongoc0-max"
+      "stars": 168,
+      "user": "pliablepixels"
     },
     {
       "title": "kazdenc/regen-icons - GitHub Repository",
@@ -1402,8 +1432,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 520,
       "user": "jarrodwatts"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "published_at": "2026-09-17T05:57:20Z",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "source": "GitHub",
+      "stars": 402,
+      "user": "tamaratran"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -1421,21 +1466,6 @@
       "user": "opencoredev"
     },
     {
-      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "published_at": "2026-09-17T05:57:20Z",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
-      "source": "GitHub",
-      "stars": 160,
-      "user": "tamaratran"
-    },
-    {
       "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
       "url": "https://github.com/devagrawal09/jev-review",
       "published_at": "2026-09-16T21:45:36Z",
@@ -1447,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 169,
       "user": "devagrawal09"
     },
     {
@@ -1623,6 +1653,21 @@
       "user": "xbill"
     },
     {
+      "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
+      "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj",
+      "published_at": "2026-09-15T16:32:21Z",
+      "description": "The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and Kiro CLI 3 needs a permissions rule before it will call the tools headless.",
+      "tags": [
+        "kiro",
+        "mcp",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Cross Cloud A2A Agent Card Field Comparison",
       "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
       "published_at": "2026-08-27T15:00:08Z",
@@ -1651,21 +1696,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
-    },
-    {
-      "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
-      "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
-      "published_at": "2026-09-10T02:43:19Z",
-      "description": "Deterministic Sub-Second Python and Bash Execution, Zero-Trust gVisor Isolation, and Zero...",
-      "tags": [
-        "googleappsscript",
-        "googlecloud",
-        "googlecloudrun",
-        "googleworkspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fklhc7kkq2althrawzb4l.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
@@ -1844,23 +1874,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1951,
+      "stars": 2214,
       "user": "browser-use"
-    },
-    {
-      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "published_at": "2026-09-11T18:12:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
-      "source": "GitHub",
-      "stars": 834,
-      "user": "kruzovic7"
     },
     {
       "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
@@ -1874,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 819,
       "user": "TheoLeeCJ"
     },
     {
@@ -1889,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 685,
       "user": "nilbuild"
     },
     {
@@ -1904,8 +1919,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 678,
       "user": "vinnylarouge"
+    },
+    {
+      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "url": "https://github.com/letorig/video-generator-client",
+      "published_at": "2026-09-14T17:46:01Z",
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
+      "source": "GitHub",
+      "stars": 533,
+      "user": "letorig"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1923,6 +1953,18 @@
       "user": "Dimitrios Desyllas"
     },
     {
+      "title": "Run code when module is unloaded from memory",
+      "url": "https://stackoverflow.com/questions/80003859/run-code-when-module-is-unloaded-from-memory",
+      "published_at": "2026-09-17T16:32:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "How can I translate this SAT algorithm description into executable code?",
       "url": "https://stackoverflow.com/questions/80003890/how-can-i-translate-this-sat-algorithm-description-into-executable-code",
       "published_at": "2026-09-17T18:36:32.000Z",
@@ -1937,16 +1979,18 @@
       "user": "el pollitto cientifico"
     },
     {
-      "title": "Run code when module is unloaded from memory",
-      "url": "https://stackoverflow.com/questions/80003859/run-code-when-module-is-unloaded-from-memory",
-      "published_at": "2026-09-17T16:32:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "pygame + multiprocessing =?",
+      "url": "https://stackoverflow.com/questions/80003840/pygame-multiprocessing",
+      "published_at": "2026-09-17T15:30:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "multithreading",
+        "pygame"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NickC"
+      "user": "Jeremy"
     },
     {
       "title": "How do I use PySimpleGUI6 to make an app?",
@@ -1960,20 +2004,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Megatron1000"
-    },
-    {
-      "title": "pygame + multiprocessing =?",
-      "url": "https://stackoverflow.com/questions/80003840/pygame-multiprocessing",
-      "published_at": "2026-09-17T15:30:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "multithreading",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeremy"
     },
     {
       "title": "Remove paragraphs from a word .doc using Python",
@@ -2502,8 +2532,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "kdbhalala"
+    },
+    {
+      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "published_at": "2026-09-14T23:30:01Z",
+      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "HuskerMinion"
     },
     {
       "title": "How to achieve 120fps on SDUI list",
@@ -2551,6 +2596,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
+      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
+      "published_at": "2026-09-16T02:20:49Z",
+      "description": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.",
+      "tags": [
+        "iceberg",
+        "aiagents",
+        "lakehouse",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
@@ -2641,35 +2701,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
-      "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
-      "published_at": "2026-09-10T02:43:19Z",
-      "description": "Deterministic Sub-Second Python and Bash Execution, Zero-Trust gVisor Isolation, and Zero...",
-      "tags": [
-        "googleappsscript",
-        "googlecloud",
-        "googlecloudrun",
-        "googleworkspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fklhc7kkq2althrawzb4l.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
-      "published_at": "2026-09-01T18:28:57Z",
-      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "tags": [
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
@@ -2848,7 +2879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 555,
       "user": "theoephraim"
     },
     {
@@ -2863,7 +2894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 750,
       "user": "agentverse-os"
     },
     {
@@ -2921,7 +2952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "planetscale"
     },
     {
@@ -3210,6 +3241,36 @@
   ],
   "Tools": [
     {
+      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
+      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
+      "published_at": "2026-09-16T02:20:49Z",
+      "description": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.",
+      "tags": [
+        "iceberg",
+        "aiagents",
+        "lakehouse",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
+      "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj",
+      "published_at": "2026-09-15T16:32:21Z",
+      "description": "The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and Kiro CLI 3 needs a permissions rule before it will call the tools headless.",
+      "tags": [
+        "kiro",
+        "mcp",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
       "published_at": "2026-09-01T07:00:00Z",
@@ -3362,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 555,
       "user": "theoephraim"
     },
     {
@@ -3377,23 +3438,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "Qiuner"
     },
     {
-      "title": "nhovongoc0-max/meme-radar - Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
-      "url": "https://github.com/nhovongoc0-max/meme-radar",
-      "published_at": "2026-09-11T12:14:57Z",
-      "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+      "title": "pliablepixels/gap-trap - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+      "url": "https://github.com/pliablepixels/gap-trap",
+      "published_at": "2026-09-13T20:29:08Z",
+      "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277285323?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4116654?v=4",
       "source": "GitHub",
-      "stars": 355,
-      "user": "nhovongoc0-max"
+      "stars": 168,
+      "user": "pliablepixels"
     },
     {
       "title": "kazdenc/regen-icons - GitHub Repository",
@@ -3422,23 +3483,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 1951,
+      "stars": 2214,
       "user": "browser-use"
-    },
-    {
-      "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "published_at": "2026-09-11T18:12:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/250558869?v=4",
-      "source": "GitHub",
-      "stars": 834,
-      "user": "kruzovic7"
     },
     {
       "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
@@ -3452,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 819,
       "user": "TheoLeeCJ"
     },
     {
@@ -3467,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 685,
       "user": "nilbuild"
     },
     {
@@ -3482,8 +3528,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 678,
       "user": "vinnylarouge"
+    },
+    {
+      "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "url": "https://github.com/letorig/video-generator-client",
+      "published_at": "2026-09-14T17:46:01Z",
+      "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139477411?v=4",
+      "source": "GitHub",
+      "stars": 533,
+      "user": "letorig"
     },
     {
       "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
@@ -3497,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 423,
       "user": "linguo2625469"
     },
     {
@@ -3512,23 +3573,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "YongshengWin"
-    },
-    {
-      "title": "BennyThink/NFCX - NFC eXtended: A focused, cross-platform desktop workbench for authorized NFC card work.",
-      "url": "https://github.com/BennyThink/NFCX",
-      "published_at": "2026-09-11T23:31:57Z",
-      "description": "NFC eXtended: A focused, cross-platform desktop workbench for authorized NFC card work.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14024832?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "BennyThink"
     },
     {
       "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
@@ -3542,8 +3588,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "kdbhalala"
+    },
+    {
+      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "published_at": "2026-09-14T23:30:01Z",
+      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "HuskerMinion"
     },
     {
       "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
@@ -3587,8 +3648,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 520,
       "user": "jarrodwatts"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "published_at": "2026-09-17T05:57:20Z",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "source": "GitHub",
+      "stars": 402,
+      "user": "tamaratran"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -3606,21 +3682,6 @@
       "user": "opencoredev"
     },
     {
-      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "published_at": "2026-09-17T05:57:20Z",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
-      "source": "GitHub",
-      "stars": 160,
-      "user": "tamaratran"
-    },
-    {
       "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
       "url": "https://github.com/devagrawal09/jev-review",
       "published_at": "2026-09-16T21:45:36Z",
@@ -3632,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 169,
       "user": "devagrawal09"
     },
     {
@@ -3647,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 750,
       "user": "agentverse-os"
     },
     {
@@ -3681,21 +3742,6 @@
       "user": "dmtrKovalenko"
     },
     {
-      "title": "maximpri/mlxtop - GitHub Repository",
-      "url": "https://github.com/maximpri/mlxtop",
-      "published_at": "2026-09-11T03:31:31Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58398564?v=4",
-      "source": "GitHub",
-      "stars": 83,
-      "user": "maximpri"
-    },
-    {
       "title": "planetscale/lead - A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
       "url": "https://github.com/planetscale/lead",
       "published_at": "2026-09-17T14:29:30Z",
@@ -3707,8 +3753,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "planetscale"
+    },
+    {
+      "title": "XiaoQAQ10086/FrameGen-Manager - 一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
+      "url": "https://github.com/XiaoQAQ10086/FrameGen-Manager",
+      "published_at": "2026-09-13T04:01:52Z",
+      "description": "一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "XiaoQAQ10086"
     },
     {
       "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
