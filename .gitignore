@@ -15,7 +15,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -30,4 +29,4 @@ Thumbs.db
 temp/
 
 # Optional: Uncomment if you want to ignore large log files
-# data/news_log.md
+# data/news_log.md.gitignore
