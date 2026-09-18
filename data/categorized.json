@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
       "published_at": "2026-09-16T10:15:52Z",
@@ -14,6 +29,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
       "source": "Dev.to",
       "user": "bebechien"
+    },
+    {
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
+      "published_at": "2026-09-16T14:30:05Z",
+      "description": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
+      "tags": [
+        "ai",
+        "live",
+        "voice",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fow0e126ujeat6lp7vwkj.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
+      "published_at": "2026-09-17T09:57:31Z",
+      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "tags": [
+        "security",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "tags": [
+        "ai",
+        "claude",
+        "performance",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
     },
     {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
@@ -89,6 +149,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
+    },
+    {
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
+      "published_at": "2026-09-16T15:39:30Z",
+      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
+      "tags": [
+        "ai",
+        "docker",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
@@ -315,6 +405,20 @@
       "user": "Ashley Childress"
     },
     {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
+      "published_at": "2026-09-01T18:28:57Z",
+      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "tags": [
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Elevating Antigravity agent skills, Part 2: Image generation",
       "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
       "published_at": "2026-09-01T16:51:26Z",
@@ -491,96 +595,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
-      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
-      "published_at": "2026-08-23T20:09:04Z",
-      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "a2a",
-        "aiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "AI-assisted genealogy",
-      "url": "https://dev.to/nfrankel/ai-assisted-genealogy-9cn",
-      "published_at": "2026-09-03T09:02:00Z",
-      "description": "My son recently came to me to brag about using AI to find our ancestors. While the results were...",
-      "tags": [
-        "ai",
-        "codingassistant",
-        "genealogy",
-        "claude"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjeg91ul98zpllf1gmdcg.jpg",
-      "source": "Dev.to",
-      "user": "Nicolas Fränkel"
-    },
-    {
-      "title": "I gave an agent my posting history. It found a promise I never made.",
-      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/i-gave-an-agent-my-posting-history-it-found-a-promise-i-never-made-4n62",
-      "published_at": "2026-09-08T07:10:41Z",
-      "description": "Every social platform rewards the same thing, and it isn't a secret: showing up regularly. The hard...",
-      "tags": [
-        "ai",
-        "agents",
-        "writing",
-        "socialmedia"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fpublora-team%2Fassets%2Fmain%2Fdevto%2F2026-09-08-agent-wrong-about-me.png",
-      "source": "Dev.to",
-      "user": "Eugeniya Ivanova"
-    },
-    {
-      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
-      "published_at": "2026-09-10T19:23:39Z",
-      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
-      "tags": [
-        "ai",
-        "agents",
-        "graphengineering",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Greatness Is Forged by Limitation",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "published_at": "2026-08-19T13:04:47Z",
-      "description": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
-      "tags": [
-        "ai",
-        "programming",
-        "webdev",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
-      "source": "Dev.to",
-      "user": "Adam - The Developer ✨"
-    },
-    {
-      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
-      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
-      "published_at": "2026-08-30T19:09:03Z",
-      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -762,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 594,
       "user": "theoephraim"
     },
     {
@@ -777,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 387,
       "user": "Qiuner"
     },
     {
@@ -807,23 +821,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 451,
       "user": "linguo2625469"
-    },
-    {
-      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "url": "https://github.com/HuskerMinion/techo5",
-      "published_at": "2026-09-14T23:30:01Z",
-      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
-      "source": "GitHub",
-      "stars": 47,
-      "user": "HuskerMinion"
     },
     {
       "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
@@ -837,8 +836,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 57,
       "user": "bl4ckarch"
+    },
+    {
+      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "published_at": "2026-09-14T23:30:01Z",
+      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "HuskerMinion"
     },
     {
       "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
@@ -867,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 619,
       "user": "jarrodwatts"
     },
     {
@@ -882,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 758,
       "user": "agentverse-os"
     },
     {
@@ -898,19 +912,32 @@
       "user": "cameron"
     },
     {
-      "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
-      "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
-      "published_at": "2026-09-17T09:32:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Introducing System One Models & Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "published_at": "2026-09-17T19:05:10.531-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "python",
-        "security",
-        "cpython",
-        "audit-trail"
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "w"
+    },
+    {
+      "title": "getUserMedia permission request is not prompting the user in Android WebView, and automatically failing with \"Permission Denied\"",
+      "url": "https://stackoverflow.com/questions/76922060/getusermedia-permission-request-is-not-prompting-the-user-in-android-webview-an",
+      "published_at": "2023-08-17T13:36:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "webview",
+        "webrtc",
+        "android-webview",
+        "getusermedia"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Harshit Raizada"
+      "user": "Hitesh Misro"
     },
     {
       "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
@@ -1045,6 +1072,22 @@
       "user": "Jagmeet Singh"
     },
     {
+      "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
+      "url": "https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/",
+      "published_at": "2026-09-17T23:27:03.000Z",
+      "description": "Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users",
+      "tags": [
+        "legacy code",
+        "software architecture",
+        "migration",
+        "refactoring",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
+    },
+    {
       "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
       "url": "https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/",
       "published_at": "2026-09-17T18:00:11.000Z",
@@ -1151,6 +1194,36 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
+    },
+    {
+      "title": "ELT with Dataform on Google Cloud",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
+      "published_at": "2026-09-16T16:29:00Z",
+      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
+      "tags": [
+        "dataform",
+        "bigquery",
+        "googlecloud",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
       "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
       "published_at": "2026-09-09T12:48:25Z",
@@ -1194,21 +1267,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
-      "published_at": "2026-09-10T18:23:05Z",
-      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1357,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 594,
       "user": "theoephraim"
     },
     {
@@ -1372,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 387,
       "user": "Qiuner"
     },
     {
@@ -1406,6 +1464,21 @@
       "user": "kazdenc"
     },
     {
+      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "published_at": "2026-09-17T05:57:20Z",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "source": "GitHub",
+      "stars": 1436,
+      "user": "tamaratran"
+    },
+    {
       "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
       "url": "https://github.com/shinthink/blitzstrike",
       "published_at": "2026-09-12T12:13:09Z",
@@ -1432,23 +1505,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 619,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "published_at": "2026-09-17T05:57:20Z",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
-      "source": "GitHub",
-      "stars": 402,
-      "user": "tamaratran"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -1462,7 +1520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 241,
       "user": "opencoredev"
     },
     {
@@ -1477,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 192,
       "user": "devagrawal09"
     },
     {
@@ -1495,25 +1553,10 @@
       "user": "T_T_P"
     },
     {
-      "title": "How to achieve 120fps on SDUI list",
-      "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
-      "published_at": "2026-09-17T07:45:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "ios",
-        "reactjs",
-        "react-native"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kriptonian"
-    },
-    {
       "title": "React state returns null when calling API",
       "url": "https://stackoverflow.com/questions/80003708/react-state-returns-null-when-calling-api",
       "published_at": "2026-09-17T08:27:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "reactjs",
@@ -1524,16 +1567,19 @@
       "user": "Thorfinn"
     },
     {
-      "title": "How do I correctly calculate the velocity with (key === right - key === left) * moveSpeed",
-      "url": "https://stackoverflow.com/questions/80003350/how-do-i-correctly-calculate-the-velocity-with-key-right-key-left",
-      "published_at": "2026-09-15T20:49:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "How to achieve 120fps on SDUI list",
+      "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
+      "published_at": "2026-09-17T07:45:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "javascript"
+        "javascript",
+        "ios",
+        "reactjs",
+        "react-native"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "VIXSIN"
+      "user": "kriptonian"
     },
     {
       "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
@@ -1563,20 +1609,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alberto Benedetto"
-    },
-    {
-      "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
-      "url": "https://stackoverflow.com/questions/80003320/practical-limit-for-cloud-firestore-onsnapshot-listeners-per-browser-client",
-      "published_at": "2026-09-15T18:26:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "google-cloud-firestore"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Prakhar Gupta"
     },
     {
       "title": "dynamic links with expo React Native useAudioPlayer",
@@ -1619,9 +1651,86 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mattsh"
+    },
+    {
+      "title": "How to fetch data server-side in the latest Next.js? Tried getStaticProps but it's not running and getting undefined",
+      "url": "https://stackoverflow.com/questions/76267351/how-to-fetch-data-server-side-in-the-latest-next-js-tried-getstaticprops-but-it",
+      "published_at": "2023-05-16T22:04:28.000Z",
+      "description": "Stack Overflow question · 5 answers · score 28",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "django",
+        "rest",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "victor"
+    },
+    {
+      "title": "getUserMedia permission request is not prompting the user in Android WebView, and automatically failing with \"Permission Denied\"",
+      "url": "https://stackoverflow.com/questions/76922060/getusermedia-permission-request-is-not-prompting-the-user-in-android-webview-an",
+      "published_at": "2023-08-17T13:36:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "webview",
+        "webrtc",
+        "android-webview",
+        "getusermedia"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hitesh Misro"
     }
   ],
   "Python": [
+    {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
+      "published_at": "2026-09-16T20:03:02Z",
+      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
+      "tags": [
+        "machinelearning",
+        "gpu",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
+      "published_at": "2026-09-17T02:43:18Z",
+      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
+      "tags": [
+        "amd",
+        "mcp",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
@@ -1698,6 +1807,21 @@
       "user": "Katie McLaughlin"
     },
     {
+      "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
+      "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
+      "published_at": "2026-09-10T02:43:19Z",
+      "description": "Deterministic Sub-Second Python and Bash Execution, Zero-Trust gVisor Isolation, and Zero...",
+      "tags": [
+        "googleappsscript",
+        "googlecloud",
+        "googlecloudrun",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fklhc7kkq2althrawzb4l.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
       "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
       "published_at": "2026-09-07T15:57:07Z",
@@ -1726,21 +1850,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
-      "published_at": "2026-09-07T22:31:01Z",
-      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
-      "tags": [
-        "docker",
-        "googlecloud",
-        "python",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhp6xjw01rdr6w5w29f42.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1863,10 +1972,10 @@
       "user": "arathore"
     },
     {
-      "title": "browser-use/jev-ultrafast - GitHub Repository",
+      "title": "browser-use/jev-ultrafast - i. am. speed.",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "published_at": "2026-09-16T21:30:12Z",
-      "description": "Trending GitHub Repository",
+      "description": "i. am. speed.",
       "tags": [
         "python",
         "github",
@@ -1874,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 2214,
+      "stars": 3111,
       "user": "browser-use"
     },
     {
@@ -1889,23 +1998,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 1034,
       "user": "TheoLeeCJ"
-    },
-    {
-      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
-      "url": "https://github.com/nilbuild/page-mascot",
-      "published_at": "2026-09-14T06:55:59Z",
-      "description": "A mascot that watches the cursor and blinks when you poke it",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
-      "source": "GitHub",
-      "stars": 685,
-      "user": "nilbuild"
     },
     {
       "title": "vinnylarouge/jevlike - GitHub Repository",
@@ -1919,8 +2013,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 744,
       "user": "vinnylarouge"
+    },
+    {
+      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "published_at": "2026-09-14T06:55:59Z",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "source": "GitHub",
+      "stars": 692,
+      "user": "nilbuild"
     },
     {
       "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
@@ -1953,10 +2062,51 @@
       "user": "Dimitrios Desyllas"
     },
     {
+      "title": "How to fetch data server-side in the latest Next.js? Tried getStaticProps but it's not running and getting undefined",
+      "url": "https://stackoverflow.com/questions/76267351/how-to-fetch-data-server-side-in-the-latest-next-js-tried-getstaticprops-but-it",
+      "published_at": "2023-05-16T22:04:28.000Z",
+      "description": "Stack Overflow question · 5 answers · score 28",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "django",
+        "rest",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "victor"
+    },
+    {
+      "title": "Display every conversation that matches the selected sentiment",
+      "url": "https://stackoverflow.com/questions/80003937/display-every-conversation-that-matches-the-selected-sentiment",
+      "published_at": "2026-09-18T01:36:29.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David"
+    },
+    {
+      "title": "I have dataframe I need to know how to index the row count",
+      "url": "https://stackoverflow.com/questions/80003939/i-have-dataframe-i-need-to-know-how-to-index-the-row-count",
+      "published_at": "2026-09-18T01:54:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kaptain Klutz"
+    },
+    {
       "title": "Run code when module is unloaded from memory",
       "url": "https://stackoverflow.com/questions/80003859/run-code-when-module-is-unloaded-from-memory",
       "published_at": "2026-09-17T16:32:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python"
       ],
@@ -1968,7 +2118,7 @@
       "title": "How can I translate this SAT algorithm description into executable code?",
       "url": "https://stackoverflow.com/questions/80003890/how-can-i-translate-this-sat-algorithm-description-into-executable-code",
       "published_at": "2026-09-17T18:36:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
+      "description": "Stack Overflow question · 0 answers · score -14",
       "tags": [
         "python",
         "algorithm",
@@ -1996,7 +2146,7 @@
       "title": "How do I use PySimpleGUI6 to make an app?",
       "url": "https://stackoverflow.com/questions/80003864/how-do-i-use-pysimplegui6-to-make-an-app",
       "published_at": "2026-09-17T16:52:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "pysimplegui"
@@ -2031,25 +2181,10 @@
       "user": "SwankyTiger"
     },
     {
-      "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
-      "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
-      "published_at": "2026-09-17T09:32:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "security",
-        "cpython",
-        "audit-trail"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Harshit Raizada"
-    },
-    {
       "title": "What does annotating a variable actually do in Python?",
       "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
       "published_at": "2026-09-14T18:41:01.000Z",
-      "description": "Stack Overflow question · 4 answers · score 21",
+      "description": "Stack Overflow question · 4 answers · score 22",
       "tags": [
         "python",
         "python-typing"
@@ -2071,23 +2206,24 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Paulo C&#233;sar Matos"
-    },
-    {
-      "title": "Is it possible to configure structlog using Python standard library fileConfig/dictConfig?",
-      "url": "https://stackoverflow.com/questions/80003374/is-it-possible-to-configure-structlog-using-python-standard-library-fileconfig-d",
-      "published_at": "2026-09-16T02:14:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "python",
-        "structlog",
-        "structured-logging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Frames Catherine White"
     }
   ],
   "DevOps": [
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
+      "published_at": "2026-09-17T09:57:31Z",
+      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "tags": [
+        "security",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b",
@@ -2102,6 +2238,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "ELT with Dataform on Google Cloud",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
+      "published_at": "2026-09-16T16:29:00Z",
+      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
+      "tags": [
+        "dataform",
+        "bigquery",
+        "googlecloud",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
+      "published_at": "2026-09-16T15:39:30Z",
+      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
+      "tags": [
+        "ai",
+        "docker",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2177,36 +2343,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flocal-bench%2Fmaster%2Fdocs%2Fdebian-across-clouds%2Fdevto-cover.ce332564.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
-      "published_at": "2026-09-07T22:31:01Z",
-      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
-      "tags": [
-        "docker",
-        "googlecloud",
-        "python",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhp6xjw01rdr6w5w29f42.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
-      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
-      "published_at": "2026-08-30T19:09:03Z",
-      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2327,24 +2463,24 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
-      "url": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/",
-      "published_at": "2026-09-14T14:58:55.000Z",
-      "description": "Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,",
-      "tags": [
-        "feature flags",
-        "architecture",
-        "best practices",
-        "experimentation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Abisoye Alli-Balogun"
     }
   ],
   "WebDev": [
+    {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
+    },
     {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
       "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
@@ -2374,36 +2510,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8",
-      "published_at": "2026-09-10T18:23:05Z",
-      "description": "We are so excited to announce the winners of our Frontend Challenge: Comfort Food Edition!  This...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Finwx7wfuwbbgzfyasw6j.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "is Graph Engineering just reinventing systems architecture for the AI age?",
-      "url": "https://dev.to/googleai/is-graph-engineering-just-reinventing-systems-architecture-for-the-ai-age-2427",
-      "published_at": "2026-09-10T19:23:39Z",
-      "description": "Bringing backend predictability to multi-agent systems  I've been hearing the phrase \"graph...",
-      "tags": [
-        "ai",
-        "agents",
-        "graphengineering",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft5eyi3riybkvsm5trien.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2532,7 +2638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 109,
       "user": "kdbhalala"
     },
     {
@@ -2547,14 +2653,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 51,
       "user": "HuskerMinion"
     },
     {
       "title": "How to achieve 120fps on SDUI list",
       "url": "https://stackoverflow.com/questions/80003701/how-to-achieve-120fps-on-sdui-list",
       "published_at": "2026-09-17T07:45:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "ios",
@@ -2579,9 +2685,40 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Singh Jaskeat"
+    },
+    {
+      "title": "getUserMedia permission request is not prompting the user in Android WebView, and automatically failing with \"Permission Denied\"",
+      "url": "https://stackoverflow.com/questions/76922060/getusermedia-permission-request-is-not-prompting-the-user-in-android-webview-an",
+      "published_at": "2023-08-17T13:36:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "webview",
+        "webrtc",
+        "android-webview",
+        "getusermedia"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hitesh Misro"
     }
   ],
   "Cloud": [
+    {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
@@ -2598,6 +2735,21 @@
       "user": "bebechien"
     },
     {
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
+      "published_at": "2026-09-17T02:43:18Z",
+      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
+      "tags": [
+        "amd",
+        "mcp",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
       "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
       "published_at": "2026-09-16T02:20:49Z",
@@ -2611,6 +2763,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "ELT with Dataform on Google Cloud",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
+      "published_at": "2026-09-16T16:29:00Z",
+      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
+      "tags": [
+        "dataform",
+        "bigquery",
+        "googlecloud",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
+      "published_at": "2026-09-16T15:39:30Z",
+      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
+      "tags": [
+        "ai",
+        "docker",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
@@ -2701,6 +2883,35 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
+      "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
+      "published_at": "2026-09-10T02:43:19Z",
+      "description": "Deterministic Sub-Second Python and Bash Execution, Zero-Trust gVisor Isolation, and Zero...",
+      "tags": [
+        "googleappsscript",
+        "googlecloud",
+        "googlecloudrun",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fklhc7kkq2althrawzb4l.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "Claude Fable 5.1 is now available on Agent Platform!",
+      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
+      "published_at": "2026-09-01T18:28:57Z",
+      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
+      "tags": [
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
@@ -2823,51 +3034,6 @@
       "user": "xbill"
     },
     {
-      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
-      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
-      "published_at": "2026-08-23T20:09:04Z",
-      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "a2a",
-        "aiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-      "url": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
-      "published_at": "2026-09-07T22:31:01Z",
-      "description": "Cloud Build runs on ephemeral workers, so your Docker cache vanishes on every run. Here's how to persist it in Artifact Registry with BuildKit's registry cache — uv stops re-downloading dependencies, builds get faster, greener and cheaper.",
-      "tags": [
-        "docker",
-        "googlecloud",
-        "python",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhp6xjw01rdr6w5w29f42.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
-      "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
-      "published_at": "2026-08-30T19:09:03Z",
-      "description": "Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
       "published_at": "2026-09-15T09:39:14Z",
@@ -2879,7 +3045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 594,
       "user": "theoephraim"
     },
     {
@@ -2894,22 +3060,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 758,
       "user": "agentverse-os"
-    },
-    {
-      "title": "Practical limit for Cloud Firestore onSnapshot listeners per browser client?",
-      "url": "https://stackoverflow.com/questions/80003320/practical-limit-for-cloud-firestore-onsnapshot-listeners-per-browser-client",
-      "published_at": "2026-09-15T18:26:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "google-cloud-firestore"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Prakhar Gupta"
     }
   ],
   "Database": [
@@ -2937,7 +3089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 57,
       "user": "bl4ckarch"
     },
     {
@@ -2952,8 +3104,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 94,
       "user": "planetscale"
+    },
+    {
+      "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
+      "url": "https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/",
+      "published_at": "2026-09-17T23:27:03.000Z",
+      "description": "Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users",
+      "tags": [
+        "legacy code",
+        "software architecture",
+        "migration",
+        "refactoring",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -2973,6 +3141,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
+      "published_at": "2026-09-17T09:57:31Z",
+      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "tags": [
+        "security",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
       "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
@@ -3162,21 +3345,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 57,
       "user": "bl4ckarch"
-    },
-    {
-      "title": "Be alert: targeted attacks on prominent Rustaceans",
-      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-      "published_at": "2026-09-17T13:10:52.241-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "itamarst"
     },
     {
       "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
@@ -3192,19 +3362,17 @@
       "user": "robey"
     },
     {
-      "title": "How can a Python application register a native CPython audit hook with PySys_AddAuditHook()?",
-      "url": "https://stackoverflow.com/questions/80003732/how-can-a-python-application-register-a-native-cpython-audit-hook-with-pysys-add",
-      "published_at": "2026-09-17T09:32:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+      "published_at": "2026-09-17T13:10:52.241-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "python",
-        "security",
-        "cpython",
-        "audit-trail"
+        "rust",
+        "security"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Harshit Raizada"
+      "source": "Lobste.rs",
+      "user": "itamarst"
     },
     {
       "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
@@ -3241,6 +3409,36 @@
   ],
   "Tools": [
     {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "tags": [
+        "ai",
+        "claude",
+        "performance",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
+    },
+    {
       "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
       "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
       "published_at": "2026-09-16T02:20:49Z",
@@ -3254,6 +3452,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "ELT with Dataform on Google Cloud",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
+      "published_at": "2026-09-16T16:29:00Z",
+      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
+      "tags": [
+        "dataform",
+        "bigquery",
+        "googlecloud",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
+      "published_at": "2026-09-16T15:39:30Z",
+      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
+      "tags": [
+        "ai",
+        "docker",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
@@ -3331,36 +3559,6 @@
       "user": "xbill"
     },
     {
-      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
-      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
-      "published_at": "2026-08-23T20:09:04Z",
-      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "a2a",
-        "aiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Git Gud!",
-      "url": "https://dev.to/francistrdev/git-gud-4e6g",
-      "published_at": "2026-08-17T14:40:58Z",
-      "description": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
-      "tags": [
-        "discuss",
-        "community",
-        "git",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgx172uk117loqmhycay.gif",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3423,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 594,
       "user": "theoephraim"
     },
     {
@@ -3438,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 387,
       "user": "Qiuner"
     },
     {
@@ -3472,10 +3670,10 @@
       "user": "kazdenc"
     },
     {
-      "title": "browser-use/jev-ultrafast - GitHub Repository",
+      "title": "browser-use/jev-ultrafast - i. am. speed.",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "published_at": "2026-09-16T21:30:12Z",
-      "description": "Trending GitHub Repository",
+      "description": "i. am. speed.",
       "tags": [
         "python",
         "github",
@@ -3483,7 +3681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 2214,
+      "stars": 3111,
       "user": "browser-use"
     },
     {
@@ -3498,23 +3696,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 1034,
       "user": "TheoLeeCJ"
-    },
-    {
-      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
-      "url": "https://github.com/nilbuild/page-mascot",
-      "published_at": "2026-09-14T06:55:59Z",
-      "description": "A mascot that watches the cursor and blinks when you poke it",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
-      "source": "GitHub",
-      "stars": 685,
-      "user": "nilbuild"
     },
     {
       "title": "vinnylarouge/jevlike - GitHub Repository",
@@ -3528,8 +3711,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 744,
       "user": "vinnylarouge"
+    },
+    {
+      "title": "nilbuild/page-mascot - A mascot that watches the cursor and blinks when you poke it",
+      "url": "https://github.com/nilbuild/page-mascot",
+      "published_at": "2026-09-14T06:55:59Z",
+      "description": "A mascot that watches the cursor and blinks when you poke it",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "source": "GitHub",
+      "stars": 692,
+      "user": "nilbuild"
     },
     {
       "title": "letorig/video-generator-client - Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
@@ -3558,7 +3756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 451,
       "user": "linguo2625469"
     },
     {
@@ -3573,7 +3771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "YongshengWin"
     },
     {
@@ -3588,23 +3786,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 109,
       "user": "kdbhalala"
-    },
-    {
-      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "url": "https://github.com/HuskerMinion/techo5",
-      "published_at": "2026-09-14T23:30:01Z",
-      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
-      "source": "GitHub",
-      "stars": 47,
-      "user": "HuskerMinion"
     },
     {
       "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
@@ -3618,8 +3801,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 57,
       "user": "bl4ckarch"
+    },
+    {
+      "title": "HuskerMinion/techo5 - Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "published_at": "2026-09-14T23:30:01Z",
+      "description": "Open firmware for the Echo Show 5 (2nd gen): Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/28571744?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "HuskerMinion"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "published_at": "2026-09-17T05:57:20Z",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "source": "GitHub",
+      "stars": 1436,
+      "user": "tamaratran"
     },
     {
       "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
@@ -3648,23 +3861,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 619,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "published_at": "2026-09-17T05:57:20Z",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
-      "source": "GitHub",
-      "stars": 402,
-      "user": "tamaratran"
     },
     {
       "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
@@ -3678,7 +3876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 241,
       "user": "opencoredev"
     },
     {
@@ -3693,7 +3891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 192,
       "user": "devagrawal09"
     },
     {
@@ -3708,7 +3906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 758,
       "user": "agentverse-os"
     },
     {
@@ -3723,7 +3921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275886436?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "Abomination81"
     },
     {
@@ -3738,7 +3936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 96,
       "user": "dmtrKovalenko"
     },
     {
@@ -3753,7 +3951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 94,
       "user": "planetscale"
     },
     {
@@ -3768,7 +3966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 80,
       "user": "XiaoQAQ10086"
     },
     {
@@ -3802,21 +4000,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
-      "url": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/",
-      "published_at": "2026-09-14T14:58:55.000Z",
-      "description": "Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,",
-      "tags": [
-        "feature flags",
-        "architecture",
-        "best practices",
-        "experimentation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Abisoye Alli-Balogun"
     }
   ]
 }
