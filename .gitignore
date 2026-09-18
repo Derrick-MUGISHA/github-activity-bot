@@ -14,8 +14,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+temp_auto_push.bat
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -30,4 +30,5 @@ Thumbs.db
 temp/
 
 # Optional: Uncomment if you want to ignore large log files
-# data/news_log.md
+# data/news_log.md.gitignore
+branch_structure.json
