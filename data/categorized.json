@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 643,
       "user": "theoephraim"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64578973?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "korcarc"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "linguo2625469"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 858,
       "user": "jarrodwatts"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "Qiuner"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 846,
       "user": "agentverse-os"
     },
     {
@@ -866,8 +866,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 219,
       "user": "jackwener"
+    },
+    {
+      "title": "There's no point at which turning your brain off will work",
+      "url": "https://danluu.com/brain-off/",
+      "published_at": "2026-09-18T12:15:40.357-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "binjip978"
     },
     {
       "title": "What is still exciting in tech?",
@@ -883,16 +895,61 @@
       "user": "ploum"
     },
     {
-      "title": "There's no point at which turning your brain off will work",
-      "url": "https://danluu.com/brain-off/",
-      "published_at": "2026-09-18T12:15:40.357-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "published_at": "2026-09-18T23:25:01.000Z",
+      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "tags": [
-        "vibecoding"
+        "AI",
+        "Fundraising",
+        "Startups"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "binjip978"
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "published_at": "2026-09-18T23:13:31.000Z",
+      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "TC",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "AI Hallucination Nearly Triggers US Military Operation",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "published_at": "2026-09-18T23:12:32.000Z",
+      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Anthropic&#8217;s first embedded evaluator is &#8230; Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "published_at": "2026-09-18T21:44:33.000Z",
+      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "tags": [
+        "AI",
+        "Accenture",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Automattic names interim CFO after exec departures",
@@ -902,6 +959,7 @@
       "tags": [
         "Media & Entertainment",
         "Automattic",
+        "In Brief",
         "WordPress"
       ],
       "cover_image": null,
@@ -912,11 +970,13 @@
       "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
       "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
       "published_at": "2026-09-18T20:24:33.000Z",
-      "description": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+      "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
       "tags": [
+        "Biotech & Health",
         "Fundraising",
         "Startups",
-        "TC"
+        "TC",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -981,67 +1041,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "published_at": "2026-09-18T17:33:50.000Z",
-      "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Google",
-        "AI agents"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Joby Aviation&#8217;s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "published_at": "2026-09-18T17:26:41.000Z",
-      "description": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "tags": [
-        "Transportation",
-        "autonomous flight",
-        "Joby Aviation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Dario Amodei and other AI leaders want to &#8216;Pace the Frontier&#8217; but…how?",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "published_at": "2026-09-18T17:09:56.000Z",
-      "description": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countr",
-      "tags": [
-        "AI",
-        "ai safety",
-        "Anthropic",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "published_at": "2026-09-18T16:35:49.000Z",
-      "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "manus",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
@@ -1370,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 643,
       "user": "theoephraim"
     },
     {
@@ -1430,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 3038,
+      "stars": 3154,
       "user": "tamaratran"
     },
     {
@@ -1445,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 858,
       "user": "jarrodwatts"
     },
     {
@@ -1475,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "Qiuner"
     },
     {
@@ -1490,14 +1489,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 266,
       "user": "devagrawal09"
     },
     {
       "title": "How can I get \"stringified\" object with nested objects?",
       "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
       "published_at": "2026-09-18T20:32:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript"
       ],
@@ -1509,7 +1508,7 @@
       "title": "&#201;-mola superior plus",
       "url": "https://stackoverflow.com/questions/80004164/%c3%89-mola-superior-plus",
       "published_at": "2026-09-18T20:41:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "javascript"
       ],
@@ -1521,7 +1520,7 @@
       "title": "About spriteflexjs examples issues",
       "url": "https://stackoverflow.com/questions/80004145/about-spriteflexjs-examples-issues",
       "published_at": "2026-09-18T19:10:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -1537,7 +1536,7 @@
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
       "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
       "published_at": "2026-09-18T14:57:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1593,7 +1592,7 @@
       "title": "How do I correctly calculate the velocity with (key === right - key === left) * moveSpeed",
       "url": "https://stackoverflow.com/questions/80003350/how-do-i-correctly-calculate-the-velocity-with-key-right-key-left",
       "published_at": "2026-09-15T20:49:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript"
       ],
@@ -1942,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5267,
+      "stars": 5411,
       "user": "browser-use"
     },
     {
@@ -1957,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1575,
       "user": "TheoLeeCJ"
     },
     {
@@ -1972,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1006,
       "user": "mcncarl"
     },
     {
@@ -1987,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 881,
       "user": "vinnylarouge"
     },
     {
@@ -2002,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64578973?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "korcarc"
     },
     {
@@ -2020,10 +2019,23 @@
       "user": "hosein sattari"
     },
     {
+      "title": "Some Non-Hashable Objects still Work as Auxiliary Data in Custom Pytree",
+      "url": "https://stackoverflow.com/questions/80004106/some-non-hashable-objects-still-work-as-auxiliary-data-in-custom-pytree",
+      "published_at": "2026-09-18T16:19:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "jax"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yahya"
+    },
+    {
       "title": "Installing Python on a local mac account without adding admin password or installing system wide",
       "url": "https://stackoverflow.com/questions/80004113/installing-python-on-a-local-mac-account-without-adding-admin-password-or-instal",
       "published_at": "2026-09-18T16:36:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "macos"
@@ -2045,19 +2057,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zeubollisk Wu"
-    },
-    {
-      "title": "Some Non-Hashable Objects still Work as Auxiliary Data in Custom Pytree",
-      "url": "https://stackoverflow.com/questions/80004106/some-non-hashable-objects-still-work-as-auxiliary-data-in-custom-pytree",
-      "published_at": "2026-09-18T16:19:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "jax"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yahya"
     },
     {
       "title": "How I can use python in order to populate and modify groups?",
@@ -2119,7 +2118,7 @@
       "title": "I have dataframe I need to know how to index the row count",
       "url": "https://stackoverflow.com/questions/80003939/i-have-dataframe-i-need-to-know-how-to-index-the-row-count",
       "published_at": "2026-09-18T01:54:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "dataframe"
@@ -2129,16 +2128,17 @@
       "user": "Kaptain Klutz"
     },
     {
-      "title": "Run code when module is unloaded from memory",
-      "url": "https://stackoverflow.com/questions/80003859/run-code-when-module-is-unloaded-from-memory",
-      "published_at": "2026-09-17T16:32:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "What does annotating a variable actually do in Python?",
+      "url": "https://stackoverflow.com/questions/80003077/what-does-annotating-a-variable-actually-do-in-python",
+      "published_at": "2026-09-14T18:41:01.000Z",
+      "description": "Stack Overflow question · 4 answers · score 23",
       "tags": [
-        "python"
+        "python",
+        "python-typing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NickC"
+      "user": "Oxidation"
     }
   ],
   "DevOps": [
@@ -2473,7 +2473,7 @@
       "title": "About spriteflexjs examples issues",
       "url": "https://stackoverflow.com/questions/80004145/about-spriteflexjs-examples-issues",
       "published_at": "2026-09-18T19:10:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2489,7 +2489,7 @@
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
       "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
       "published_at": "2026-09-18T14:57:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2598,7 +2598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 129,
       "user": "kdbhalala"
     },
     {
@@ -2944,7 +2944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 643,
       "user": "theoephraim"
     },
     {
@@ -2959,7 +2959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 846,
       "user": "agentverse-os"
     },
     {
@@ -3019,7 +3019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "planetscale"
     },
     {
@@ -3548,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 643,
       "user": "theoephraim"
     },
     {
@@ -3608,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5267,
+      "stars": 5411,
       "user": "browser-use"
     },
     {
@@ -3623,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1575,
       "user": "TheoLeeCJ"
     },
     {
@@ -3638,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1006,
       "user": "mcncarl"
     },
     {
@@ -3653,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 881,
       "user": "vinnylarouge"
     },
     {
@@ -3668,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64578973?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "korcarc"
     },
     {
@@ -3683,8 +3683,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 493,
       "user": "linguo2625469"
+    },
+    {
+      "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
+      "url": "https://github.com/gylive/ccodex-sleep-state",
+      "published_at": "2026-09-18T09:02:44Z",
+      "description": "尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
+      "source": "GitHub",
+      "stars": 139,
+      "user": "gylive"
     },
     {
       "title": "YongshengWin/VpsCT - 面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
@@ -3702,21 +3717,6 @@
       "user": "YongshengWin"
     },
     {
-      "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
-      "url": "https://github.com/gylive/ccodex-sleep-state",
-      "published_at": "2026-09-18T09:02:44Z",
-      "description": "尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
-      "source": "GitHub",
-      "stars": 132,
-      "user": "gylive"
-    },
-    {
       "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
       "url": "https://github.com/kdbhalala/avdslim",
       "published_at": "2026-09-16T06:52:40Z",
@@ -3728,7 +3728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 129,
       "user": "kdbhalala"
     },
     {
@@ -3758,7 +3758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 3038,
+      "stars": 3154,
       "user": "tamaratran"
     },
     {
@@ -3773,7 +3773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 858,
       "user": "jarrodwatts"
     },
     {
@@ -3803,7 +3803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "Qiuner"
     },
     {
@@ -3818,7 +3818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 266,
       "user": "devagrawal09"
     },
     {
@@ -3833,7 +3833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 846,
       "user": "agentverse-os"
     },
     {
@@ -3848,23 +3848,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 219,
       "user": "jackwener"
-    },
-    {
-      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
-      "url": "https://github.com/dmtrKovalenko/bashka",
-      "published_at": "2026-09-15T21:31:30Z",
-      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "dmtrKovalenko"
     },
     {
       "title": "eliasstravik/herdr-projects - A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
@@ -3878,8 +3863,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 157,
       "user": "eliasstravik"
+    },
+    {
+      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "url": "https://github.com/dmtrKovalenko/bashka",
+      "published_at": "2026-09-15T21:31:30Z",
+      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "dmtrKovalenko"
     },
     {
       "title": "planetscale/lead - A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
@@ -3893,7 +3893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 110,
       "user": "planetscale"
     },
     {
