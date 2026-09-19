@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
-    },
-    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -46,21 +31,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "tags": [
-        "ai",
-        "claude",
-        "performance",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -89,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "published_at": "2026-09-16T10:15:52Z",
+      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "tags": [
+        "raspberrypi",
+        "gemma",
+        "gemini",
+        "robotics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
       "source": "Dev.to",
       "user": "Wayne Gakuo"
+    },
+    {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "tags": [
+        "ai",
+        "claude",
+        "performance",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
     },
     {
       "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 645,
       "user": "theoephraim"
     },
     {
@@ -765,21 +765,6 @@
       "user": "korcarc"
     },
     {
-      "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
-      "published_at": "2026-09-12T05:13:46Z",
-      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
-      "source": "GitHub",
-      "stars": 493,
-      "user": "linguo2625469"
-    },
-    {
       "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
       "url": "https://github.com/bl4ckarch/go-responder",
       "published_at": "2026-09-17T11:07:30Z",
@@ -791,8 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "bl4ckarch"
+    },
+    {
+      "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "url": "https://github.com/itsmostafa/typesafe-mcp",
+      "published_at": "2026-09-17T05:23:34Z",
+      "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "itsmostafa"
     },
     {
       "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
@@ -806,53 +806,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 876,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
-      "url": "https://github.com/shinthink/blitzstrike",
-      "published_at": "2026-09-12T12:13:09Z",
-      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
-      "source": "GitHub",
-      "stars": 636,
-      "user": "shinthink"
-    },
-    {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "Qiuner"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "published_at": "2026-09-12T18:20:00Z",
-      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
-      "source": "GitHub",
-      "stars": 846,
-      "user": "agentverse-os"
     },
     {
       "title": "jackwener/wx-cli-again - WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
@@ -866,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 264,
       "user": "jackwener"
     },
     {
@@ -895,6 +850,34 @@
       "user": "ploum"
     },
     {
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "published_at": "2026-09-19T01:00:00.000Z",
+      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "spam",
+        "Truecaller",
+        "robocalls"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "published_at": "2026-09-19T00:12:07.000Z",
+      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "tags": [
+        "Media & Entertainment"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "published_at": "2026-09-18T23:25:01.000Z",
@@ -916,7 +899,6 @@
       "tags": [
         "AI",
         "Biotech & Health",
-        "TC",
         "Anthropic"
       ],
       "cover_image": null,
@@ -924,21 +906,20 @@
       "user": "Julie Bort"
     },
     {
-      "title": "AI Hallucination Nearly Triggers US Military Operation",
+      "title": "AI hallucination nearly triggers US military operation",
       "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
       "published_at": "2026-09-18T23:12:32.000Z",
       "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "TC"
+        "Government & Policy"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
     },
     {
-      "title": "Anthropic&#8217;s first embedded evaluator is &#8230; Accenture?",
+      "title": "Anthropic&#8217;s first embedded evaluator is … Accenture?",
       "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
       "published_at": "2026-09-18T21:44:33.000Z",
       "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
@@ -1011,36 +992,36 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "published_at": "2026-09-18T17:59:53.000Z",
-      "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "title": "How to Turn a RECIST Line into a 3D Tumor Segmentation Mask",
+      "url": "https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/",
+      "published_at": "2026-09-18T21:32:56.000Z",
+      "description": "A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim",
       "tags": [
-        "AI",
-        "Media & Entertainment",
-        "TC",
-        "character.ai",
-        "Disney"
+        "MachineLearning",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Medical Imaging",
+        "Computer Vision"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "source": "freeCodeCamp",
+      "user": "Lakshmi Mahabaleshwara"
     },
     {
-      "title": "In India, the new iPhone can arrive faster than a pizza",
-      "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "published_at": "2026-09-18T17:45:00.000Z",
-      "description": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
+      "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
+      "url": "https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/",
+      "published_at": "2026-09-18T21:31:44.000Z",
+      "description": "AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth",
       "tags": [
-        "Commerce",
-        "Apple",
-        "BigBasket",
-        "Blinkit",
-        "Instamart"
+        "Artificial Intelligence",
+        "Python",
+        "debugging",
+        "Programming Blogs",
+        "ai-coding-assistants"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
     },
     {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
@@ -1085,38 +1066,9 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
-      "url": "https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/",
-      "published_at": "2026-09-15T15:57:39.000Z",
-      "description": "Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows",
-      "tags": [
-        "WebRTC",
-        "distributed system",
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Karan Pratap Singh"
     }
   ],
   "JavaScript": [
-    {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
-    },
     {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
@@ -1131,6 +1083,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "published_at": "2026-09-16T10:15:52Z",
+      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "tags": [
+        "raspberrypi",
+        "gemma",
+        "gemini",
+        "robotics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
@@ -1343,21 +1310,6 @@
       "user": "velmu"
     },
     {
-      "title": "rizqinrr/viserys-agent - GitHub Repository",
-      "url": "https://github.com/rizqinrr/viserys-agent",
-      "published_at": "2026-09-12T16:51:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
-      "source": "GitHub",
-      "stars": 665,
-      "user": "rizqinrr"
-    },
-    {
       "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
       "published_at": "2026-09-15T09:39:14Z",
@@ -1369,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 645,
       "user": "theoephraim"
     },
     {
@@ -1399,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "dofastted"
     },
     {
@@ -1418,6 +1370,21 @@
       "user": "kazdenc"
     },
     {
+      "title": "gargpratyush/jev-router - Route to the cheapest model in claude code for your task using jev-router",
+      "url": "https://github.com/gargpratyush/jev-router",
+      "published_at": "2026-09-16T20:39:22Z",
+      "description": "Route to the cheapest model in claude code for your task using jev-router",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
+      "source": "GitHub",
+      "stars": 141,
+      "user": "gargpratyush"
+    },
+    {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "published_at": "2026-09-17T05:57:20Z",
@@ -1429,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 3154,
+      "stars": 3273,
       "user": "tamaratran"
     },
     {
@@ -1444,38 +1411,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 876,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
-      "url": "https://github.com/shinthink/blitzstrike",
-      "published_at": "2026-09-12T12:13:09Z",
-      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
-      "source": "GitHub",
-      "stars": 636,
-      "user": "shinthink"
-    },
-    {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "Qiuner"
     },
     {
       "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
@@ -1489,8 +1426,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 269,
       "user": "devagrawal09"
+    },
+    {
+      "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
+      "url": "https://github.com/opencoredev/bg0",
+      "published_at": "2026-09-14T16:42:22Z",
+      "description": "Private, unlimited background removal that runs in your browser.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "opencoredev"
+    },
+    {
+      "title": "dabit3/jev-experiments - GitHub Repository",
+      "url": "https://github.com/dabit3/jev-experiments",
+      "published_at": "2026-09-17T23:36:37Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
+      "source": "GitHub",
+      "stars": 226,
+      "user": "dabit3"
     },
     {
       "title": "How can I get \"stringified\" object with nested objects?",
@@ -1503,18 +1470,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "LUN"
-    },
-    {
-      "title": "&#201;-mola superior plus",
-      "url": "https://stackoverflow.com/questions/80004164/%c3%89-mola-superior-plus",
-      "published_at": "2026-09-18T20:41:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Samuel Mapsanganhe"
     },
     {
       "title": "About spriteflexjs examples issues",
@@ -1550,7 +1505,7 @@
       "title": "How can I build a YYYY-DD-MM date string without changing the calendar day?",
       "url": "https://stackoverflow.com/questions/80004030/how-can-i-build-a-yyyy-dd-mm-date-string-without-changing-the-calendar-day",
       "published_at": "2026-09-18T11:31:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "date"
@@ -1558,21 +1513,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "veotuises"
-    },
-    {
-      "title": "Traversing the DOM of a Service Now page - Stuck on a Shadowroot",
-      "url": "https://stackoverflow.com/questions/80003607/traversing-the-dom-of-a-service-now-page-stuck-on-a-shadowroot",
-      "published_at": "2026-09-16T20:11:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "jquery",
-        "dom",
-        "tampermonkey"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user66001"
     },
     {
       "title": "Trying to animate Coin Flipping; Everything BUT the actual coin flipping works",
@@ -1599,6 +1539,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "VIXSIN"
+    },
+    {
+      "title": "Traversing the DOM of a Service Now page - Stuck on a Shadowroot",
+      "url": "https://stackoverflow.com/questions/80003607/traversing-the-dom-of-a-service-now-page-stuck-on-a-shadowroot",
+      "published_at": "2026-09-16T20:11:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom",
+        "tampermonkey"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user66001"
     },
     {
       "title": "React state returns null when calling API",
@@ -1628,6 +1583,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kriptonian"
+    },
+    {
+      "title": "Traversing the DOM of a Service Now page",
+      "url": "https://stackoverflow.com/questions/80003099/traversing-the-dom-of-a-service-now-page",
+      "published_at": "2026-09-14T20:59:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom",
+        "tampermonkey"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user66001"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -1660,21 +1630,6 @@
       "user": "xbill"
     },
     {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
-      "published_at": "2026-09-16T20:03:02Z",
-      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
-      "tags": [
-        "machinelearning",
-        "gpu",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
       "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
       "published_at": "2026-09-17T02:43:18Z",
@@ -1701,6 +1656,21 @@
         "claudecode"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
+      "published_at": "2026-09-16T20:03:02Z",
+      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
+      "tags": [
+        "machinelearning",
+        "gpu",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1941,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5411,
+      "stars": 5586,
       "user": "browser-use"
     },
     {
@@ -1956,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1575,
+      "stars": 1598,
       "user": "TheoLeeCJ"
     },
     {
@@ -1971,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1038,
       "user": "mcncarl"
     },
     {
@@ -1986,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 895,
       "user": "vinnylarouge"
     },
     {
@@ -2118,7 +2088,7 @@
       "title": "I have dataframe I need to know how to index the row count",
       "url": "https://stackoverflow.com/questions/80003939/i-have-dataframe-i-need-to-know-how-to-index-the-row-count",
       "published_at": "2026-09-18T01:54:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "dataframe"
@@ -2139,6 +2109,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Oxidation"
+    },
+    {
+      "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
+      "url": "https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/",
+      "published_at": "2026-09-18T21:31:44.000Z",
+      "description": "AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth",
+      "tags": [
+        "Artificial Intelligence",
+        "Python",
+        "debugging",
+        "Programming Blogs",
+        "ai-coding-assistants"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
     }
   ],
   "DevOps": [
@@ -2598,7 +2584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 136,
       "user": "kdbhalala"
     },
     {
@@ -2619,21 +2605,6 @@
   ],
   "Cloud": [
     {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
-    },
-    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -2647,6 +2618,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "published_at": "2026-09-16T10:15:52Z",
+      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "tags": [
+        "raspberrypi",
+        "gemma",
+        "gemini",
+        "robotics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
@@ -2944,23 +2930,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 645,
       "user": "theoephraim"
-    },
-    {
-      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "published_at": "2026-09-12T18:20:00Z",
-      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
-      "source": "GitHub",
-      "stars": 846,
-      "user": "agentverse-os"
     },
     {
       "title": "How to Pass and Reference Multiple Batches in a Great Expectations Custom SQL Query",
@@ -3004,7 +2975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "bl4ckarch"
     },
     {
@@ -3276,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "bl4ckarch"
     },
     {
@@ -3522,21 +3493,6 @@
       "user": "pabs3"
     },
     {
-      "title": "rizqinrr/viserys-agent - GitHub Repository",
-      "url": "https://github.com/rizqinrr/viserys-agent",
-      "published_at": "2026-09-12T16:51:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/152271198?v=4",
-      "source": "GitHub",
-      "stars": 665,
-      "user": "rizqinrr"
-    },
-    {
       "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
       "published_at": "2026-09-15T09:39:14Z",
@@ -3548,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 645,
       "user": "theoephraim"
     },
     {
@@ -3578,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "dofastted"
     },
     {
@@ -3597,6 +3553,21 @@
       "user": "kazdenc"
     },
     {
+      "title": "gargpratyush/jev-router - Route to the cheapest model in claude code for your task using jev-router",
+      "url": "https://github.com/gargpratyush/jev-router",
+      "published_at": "2026-09-16T20:39:22Z",
+      "description": "Route to the cheapest model in claude code for your task using jev-router",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
+      "source": "GitHub",
+      "stars": 141,
+      "user": "gargpratyush"
+    },
+    {
       "title": "browser-use/jev-ultrafast - i. am. speed.",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "published_at": "2026-09-16T21:30:12Z",
@@ -3608,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 5411,
+      "stars": 5586,
       "user": "browser-use"
     },
     {
@@ -3623,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1575,
+      "stars": 1598,
       "user": "TheoLeeCJ"
     },
     {
@@ -3638,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1038,
       "user": "mcncarl"
     },
     {
@@ -3653,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 895,
       "user": "vinnylarouge"
     },
     {
@@ -3672,21 +3643,6 @@
       "user": "korcarc"
     },
     {
-      "title": "linguo2625469/workbuddy2api-panel - 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
-      "published_at": "2026-09-12T05:13:46Z",
-      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49717738?v=4",
-      "source": "GitHub",
-      "stars": 493,
-      "user": "linguo2625469"
-    },
-    {
       "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
       "url": "https://github.com/gylive/ccodex-sleep-state",
       "published_at": "2026-09-18T09:02:44Z",
@@ -3698,8 +3654,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 147,
       "user": "gylive"
+    },
+    {
+      "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "url": "https://github.com/kdbhalala/avdslim",
+      "published_at": "2026-09-16T06:52:40Z",
+      "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
+      "source": "GitHub",
+      "stars": 136,
+      "user": "kdbhalala"
     },
     {
       "title": "YongshengWin/VpsCT - 面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
@@ -3717,21 +3688,6 @@
       "user": "YongshengWin"
     },
     {
-      "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
-      "url": "https://github.com/kdbhalala/avdslim",
-      "published_at": "2026-09-16T06:52:40Z",
-      "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "kdbhalala"
-    },
-    {
       "title": "bl4ckarch/go-responder - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.",
       "url": "https://github.com/bl4ckarch/go-responder",
       "published_at": "2026-09-17T11:07:30Z",
@@ -3743,8 +3699,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62140530?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "bl4ckarch"
+    },
+    {
+      "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "url": "https://github.com/itsmostafa/typesafe-mcp",
+      "published_at": "2026-09-17T05:23:34Z",
+      "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "itsmostafa"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -3758,7 +3729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 3154,
+      "stars": 3273,
       "user": "tamaratran"
     },
     {
@@ -3773,38 +3744,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 876,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "shinthink/blitzstrike - ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
-      "url": "https://github.com/shinthink/blitzstrike",
-      "published_at": "2026-09-12T12:13:09Z",
-      "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292174078?v=4",
-      "source": "GitHub",
-      "stars": 636,
-      "user": "shinthink"
-    },
-    {
-      "title": "Qiuner/birdview - Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "url": "https://github.com/Qiuner/birdview",
-      "published_at": "2026-09-12T06:59:27Z",
-      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149919158?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "Qiuner"
     },
     {
       "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
@@ -3818,23 +3759,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 269,
       "user": "devagrawal09"
     },
     {
-      "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "url": "https://github.com/agentverse-os/AgentVerse-OS",
-      "published_at": "2026-09-12T18:20:00Z",
-      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "title": "opencoredev/bg0 - Private, unlimited background removal that runs in your browser.",
+      "url": "https://github.com/opencoredev/bg0",
+      "published_at": "2026-09-14T16:42:22Z",
+      "description": "Private, unlimited background removal that runs in your browser.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/328451092?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/218007078?v=4",
       "source": "GitHub",
-      "stars": 846,
-      "user": "agentverse-os"
+      "stars": 259,
+      "user": "opencoredev"
+    },
+    {
+      "title": "dabit3/jev-experiments - GitHub Repository",
+      "url": "https://github.com/dabit3/jev-experiments",
+      "published_at": "2026-09-17T23:36:37Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
+      "source": "GitHub",
+      "stars": 226,
+      "user": "dabit3"
     },
     {
       "title": "jackwener/wx-cli-again - WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
@@ -3848,7 +3804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 264,
       "user": "jackwener"
     },
     {
@@ -3863,7 +3819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 175,
       "user": "eliasstravik"
     },
     {
@@ -3878,7 +3834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "dmtrKovalenko"
     },
     {
@@ -3897,6 +3853,21 @@
       "user": "planetscale"
     },
     {
+      "title": "XiaoQAQ10086/FrameGen-Manager - 一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
+      "url": "https://github.com/XiaoQAQ10086/FrameGen-Manager",
+      "published_at": "2026-09-13T04:01:52Z",
+      "description": "一键为 RTX 20和30 系显卡部署 DLSS 帧生成工具，支持扫描游戏库和自动更新。One-click DLSS Frame Generation deployer for RTX 20/30 series.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/225637009?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "XiaoQAQ10086"
+    },
+    {
       "title": "What is still exciting in tech?",
       "url": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
       "published_at": "2026-09-18T03:14:52.256-05:00",
@@ -3908,6 +3879,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ploum"
+    },
+    {
+      "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
+      "url": "https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/",
+      "published_at": "2026-09-18T21:31:44.000Z",
+      "description": "AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth",
+      "tags": [
+        "Artificial Intelligence",
+        "Python",
+        "debugging",
+        "Programming Blogs",
+        "ai-coding-assistants"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
     },
     {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
