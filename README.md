@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--09--19-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-19 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-20 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -107,13 +107,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 13 | [Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6](https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l) | Dev.to |
 | 14 | [A Quick Update on the Summer Bug Smash Winners](https://dev.to/devteam/a-quick-update-on-the-summer-bug-smash-winners-3021) | Dev.to |
 | 15 | [The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001](https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf) | Dev.to |
-| 16 | [Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend](https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh) | Dev.to |
-| 17 | [Progressive Disclosure: What, Where, When, and Why](https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3) | Dev.to |
+| 16 | [Progressive Disclosure: What, Where, When, and Why](https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3) | Dev.to |
+| 17 | [Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend](https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh) | Dev.to |
 | 18 | [ELT with Dataform on Google Cloud](https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9) | Dev.to |
 | 19 | [Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db) | Dev.to |
 | 20 | [Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs](https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5) | Dev.to |
 
-<sub>Last fetched: Sat, 19 Sep 2026 23:45:01 CAT</sub>
+<sub>Last fetched: Sun, 20 Sep 2026 01:38:51 CAT</sub>
 
 
 ---
@@ -122,29 +122,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design a distributed cache system**
+**1. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Consistency, partitioning, replication, eviction policies
-
-</details>
-
-**2. `DataStructures` — Find the longest substring without repeating characters**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Event bubbling, single listener for multiple elements
 
 </details>
 
-**3. `Python` — Explain decorators in Python with an example**
+**2. `Python` — Explain decorators in Python with an example**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
@@ -152,6 +141,17 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Function wrappers, @syntax, practical uses
+
+</details>
+
+**3. `SystemDesign` — Design a distributed cache system**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 40.8% | `████████████████████` |
-| **Tools** | 40 | 21.7% | `███████████░░░░░░░░░` |
-| **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
-| **Python** | 37 | 20.1% | `██████████░░░░░░░░░░` |
+| **AI** | 77 | 41.8% | `████████████████████` |
+| **JavaScript** | 40 | 21.7% | `██████████░░░░░░░░░░` |
+| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
+| **Python** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Cloud** | 23 | 12.5% | `██████░░░░░░░░░░░░░░` |
 | **DevOps** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,22 +194,23 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.3%
-JavaScript      ███████████████████████ 23.6%
-Python          ██████████████████████ 22.4%
-Java            █████████████████ 17.0%
-Rust            █████ 4.8%
+Go              ██████████████████████████████ 30.0%
+JavaScript      ████████████████████████ 23.5%
+Python          ███████████████████████ 22.9%
+Java            █████████████████ 16.5%
+Rust            █████ 4.7%
 CSharp          █ 0.6%
 Ruby            █ 0.6%
 Kotlin          █ 0.6%
+Swift           █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 50
-    "JavaScript" : 39
-    "Python" : 37
+    "Go" : 51
+    "JavaScript" : 40
+    "Python" : 39
     "Java" : 28
     "Rust" : 8
     "CSharp" : 1
@@ -220,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![mcp](https://img.shields.io/badge/mcp-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![mcp](https://img.shields.io/badge/mcp-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 19 Sep 2026 21:45:01 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 19 Sep 2026 23:38:51 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

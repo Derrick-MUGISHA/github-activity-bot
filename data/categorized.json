@@ -121,21 +121,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
-    },
-    {
       "title": "Progressive Disclosure: What, Where, When, and Why",
       "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
       "published_at": "2026-09-16T18:01:55Z",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
       "source": "Dev.to",
       "user": " Gábor Mészáros"
+    },
+    {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
     },
     {
       "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 670,
       "user": "theoephraim"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 105,
       "user": "itsmostafa"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1247,
       "user": "jarrodwatts"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 590,
       "user": "jackwener"
     },
     {
@@ -991,6 +991,37 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
+    },
+    {
+      "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
+      "published_at": "2026-09-19T17:30:12.000Z",
+      "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
+      "tags": [
+        "AI",
+        "RAG",
+        "graphrag",
+        "Python",
+        "Neo4j"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "RONI DAS"
+    },
+    {
+      "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
+      "url": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
+      "published_at": "2026-09-19T17:27:39.000Z",
+      "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
+      "tags": [
+        "Python",
+        "data analysis",
+        "dependency graph",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kayode Adeniyi"
     },
     {
       "title": "How to Turn a RECIST Line into a 3D Tumor Segmentation Mask",
@@ -1322,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 670,
       "user": "theoephraim"
     },
     {
@@ -1337,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 339,
       "user": "dofastted"
     },
     {
@@ -1352,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 273,
       "user": "Sac-Y"
     },
     {
@@ -1367,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "droidrun"
     },
     {
@@ -1382,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 202,
       "user": "gargpratyush"
     },
     {
@@ -1397,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4143,
+      "stars": 4203,
       "user": "tamaratran"
     },
     {
@@ -1412,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1247,
       "user": "jarrodwatts"
     },
     {
@@ -1427,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 394,
       "user": "githubnext"
     },
     {
@@ -1442,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 341,
       "user": "devagrawal09"
     },
     {
@@ -1457,14 +1488,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 303,
       "user": "dabit3"
     },
     {
       "title": "onclick=\"showContent('x')\" only works once",
       "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
       "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 4 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -1478,7 +1509,7 @@
       "title": "How should i remove the extra space in the code using antigravity ide",
       "url": "https://stackoverflow.com/questions/80004286/how-should-i-remove-the-extra-space-in-the-code-using-antigravity-ide",
       "published_at": "2026-09-19T13:20:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "typescript",
@@ -1523,6 +1554,20 @@
       "user": "Md Irfan Rahman Mubin"
     },
     {
+      "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
+      "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
+      "published_at": "2026-09-18T14:57:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "intersection-observer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "timholz"
+    },
+    {
       "title": "How can I get \"stringified\" object with nested objects?",
       "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
       "published_at": "2026-09-18T20:32:45.000Z",
@@ -1533,20 +1578,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "LUN"
-    },
-    {
-      "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
-      "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
-      "published_at": "2026-09-18T14:57:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "intersection-observer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "timholz"
     },
     {
       "title": "About spriteflexjs examples issues",
@@ -1604,6 +1635,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user66001"
+    },
+    {
+      "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
+      "url": "https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/",
+      "published_at": "2026-09-19T17:15:45.000Z",
+      "description": "Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th",
+      "tags": [
+        "React Native",
+        "iOS",
+        "Swift",
+        "Mobile Development",
+        "TypeScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Farouq Seriki"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -1917,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 8131,
+      "stars": 8309,
       "user": "browser-use"
     },
     {
@@ -1932,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1895,
+      "stars": 1921,
       "user": "TheoLeeCJ"
     },
     {
@@ -1947,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1514,
+      "stars": 1530,
       "user": "mcncarl"
     },
     {
@@ -1962,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1235,
       "user": "NandhaKishorM"
     },
     {
@@ -1977,14 +2024,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 978,
       "user": "vinnylarouge"
     },
     {
       "title": "Replace a printed line when it overflows to the next line",
       "url": "https://stackoverflow.com/questions/80004341/replace-a-printed-line-when-it-overflows-to-the-next-line",
       "published_at": "2026-09-19T20:09:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python"
       ],
@@ -1996,7 +2043,7 @@
       "title": "Adding columns in matplotlib graph breaks row layout",
       "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
       "published_at": "2026-09-19T19:26:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "matplotlib"
@@ -2115,6 +2162,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luca Braglia"
+    },
+    {
+      "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
+      "published_at": "2026-09-19T17:30:12.000Z",
+      "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
+      "tags": [
+        "AI",
+        "RAG",
+        "graphrag",
+        "Python",
+        "Neo4j"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "RONI DAS"
+    },
+    {
+      "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
+      "url": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
+      "published_at": "2026-09-19T17:27:39.000Z",
+      "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
+      "tags": [
+        "Python",
+        "data analysis",
+        "dependency graph",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kayode Adeniyi"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
@@ -2452,7 +2530,7 @@
       "title": "onclick=\"showContent('x')\" only works once",
       "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
       "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 4 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -2466,7 +2544,7 @@
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
       "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
       "published_at": "2026-09-18T14:57:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2577,7 +2655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "droidrun"
     },
     {
@@ -2592,8 +2670,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "kdbhalala"
+    },
+    {
+      "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
+      "url": "https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/",
+      "published_at": "2026-09-19T17:15:45.000Z",
+      "description": "Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th",
+      "tags": [
+        "React Native",
+        "iOS",
+        "Swift",
+        "Mobile Development",
+        "TypeScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Farouq Seriki"
     }
   ],
   "Cloud": [
@@ -2923,7 +3017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 670,
       "user": "theoephraim"
     },
     {
@@ -3002,22 +3096,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
-      "url": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
-      "published_at": "2026-09-15T21:03:09.000Z",
-      "description": "A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down \"just f",
-      "tags": [
-        "data loss prevention",
-        "Data Protection",
-        "cybersecurity",
-        "CybersecurityAwareness",
-        "sensitive data"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Tray"
     }
   ],
   "Security": [
@@ -3214,6 +3292,19 @@
       "user": "ewenjo"
     },
     {
+      "title": "we have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "published_at": "2026-09-19T14:27:46.429-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "apropos"
+    },
+    {
       "title": "Google’s Gemini is the latest AI model to hack other companies",
       "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
       "published_at": "2026-09-19T17:30:00.000Z",
@@ -3243,22 +3334,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "ILYAS RUFAI"
-    },
-    {
-      "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
-      "url": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
-      "published_at": "2026-09-15T21:03:09.000Z",
-      "description": "A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down \"just f",
-      "tags": [
-        "data loss prevention",
-        "Data Protection",
-        "cybersecurity",
-        "CybersecurityAwareness",
-        "sensitive data"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Tray"
     }
   ],
   "Tools": [
@@ -3445,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 670,
       "user": "theoephraim"
     },
     {
@@ -3460,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 339,
       "user": "dofastted"
     },
     {
@@ -3475,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 273,
       "user": "Sac-Y"
     },
     {
@@ -3490,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "droidrun"
     },
     {
@@ -3505,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 202,
       "user": "gargpratyush"
     },
     {
@@ -3520,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 8131,
+      "stars": 8309,
       "user": "browser-use"
     },
     {
@@ -3535,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1895,
+      "stars": 1921,
       "user": "TheoLeeCJ"
     },
     {
@@ -3550,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1514,
+      "stars": 1530,
       "user": "mcncarl"
     },
     {
@@ -3565,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1235,
       "user": "NandhaKishorM"
     },
     {
@@ -3580,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 978,
       "user": "vinnylarouge"
     },
     {
@@ -3595,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 331,
       "user": "gylive"
     },
     {
@@ -3610,8 +3685,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "kdbhalala"
+    },
+    {
+      "title": "HyNetworks/OpenGFW - GitHub Repository",
+      "url": "https://github.com/HyNetworks/OpenGFW",
+      "published_at": "2026-09-19T09:21:17Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "HyNetworks"
     },
     {
       "title": "YongshengWin/VpsCT - 面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
@@ -3629,21 +3719,6 @@
       "user": "YongshengWin"
     },
     {
-      "title": "HyNetworks/OpenGFW - GitHub Repository",
-      "url": "https://github.com/HyNetworks/OpenGFW",
-      "published_at": "2026-09-19T09:21:17Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
-      "source": "GitHub",
-      "stars": 131,
-      "user": "HyNetworks"
-    },
-    {
       "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
       "url": "https://github.com/itsmostafa/typesafe-mcp",
       "published_at": "2026-09-17T05:23:34Z",
@@ -3655,7 +3730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 105,
       "user": "itsmostafa"
     },
     {
@@ -3670,7 +3745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4143,
+      "stars": 4203,
       "user": "tamaratran"
     },
     {
@@ -3685,7 +3760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1247,
       "user": "jarrodwatts"
     },
     {
@@ -3700,7 +3775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 394,
       "user": "githubnext"
     },
     {
@@ -3715,7 +3790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 341,
       "user": "devagrawal09"
     },
     {
@@ -3730,7 +3805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 303,
       "user": "dabit3"
     },
     {
@@ -3745,7 +3820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 590,
       "user": "jackwener"
     },
     {
@@ -3775,7 +3850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "dmtrKovalenko"
     },
     {
@@ -3805,7 +3880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "ejfkdev"
     },
     {
