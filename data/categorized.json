@@ -345,21 +345,6 @@
       "user": "ujja"
     },
     {
-      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
-      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
-      "published_at": "2026-09-11T06:58:39Z",
-      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
-      "tags": [
-        "devops",
-        "docker",
-        "go",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "My Agents Never Get Tired. I Do: On Satisficing",
       "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
       "published_at": "2026-09-11T03:49:55Z",
@@ -373,6 +358,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsweg9vst1vzhw8jmfb0.png",
       "source": "Dev.to",
       "user": "Earl Grey"
+    },
+    {
+      "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
+      "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
+      "published_at": "2026-09-11T06:58:39Z",
+      "description": "Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.",
+      "tags": [
+        "devops",
+        "docker",
+        "go",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 663,
       "user": "theoephraim"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 99,
       "user": "itsmostafa"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1204,
       "user": "jarrodwatts"
     },
     {
@@ -776,8 +776,32 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 570,
       "user": "jackwener"
+    },
+    {
+      "title": "AI Is an Elite Crime Spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "published_at": "2026-09-19T10:44:52.572-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "law"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jcd"
+    },
+    {
+      "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+      "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+      "published_at": "2026-09-19T08:41:57.630-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
     },
     {
       "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
@@ -793,18 +817,6 @@
       "user": "ndyg"
     },
     {
-      "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-      "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-      "published_at": "2026-09-19T08:41:57.630-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Yogthos"
-    },
-    {
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "published_at": "2026-09-19T03:44:38.517-05:00",
@@ -816,18 +828,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "rajtilakjee"
-    },
-    {
-      "title": "AI Is an Elite Crime Spree",
-      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-      "published_at": "2026-09-19T10:44:52.572-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "law"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jcd"
     },
     {
       "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
@@ -849,7 +849,7 @@
       "title": "Tile map renderer fails to render some tiles",
       "url": "https://stackoverflow.com/questions/80004136/tile-map-renderer-fails-to-render-some-tiles",
       "published_at": "2026-09-18T18:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pygame",
@@ -857,7 +857,23 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "hosein sattari"
+      "user": "hominer"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "published_at": "2026-09-19T17:30:00.000Z",
+      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "tags": [
+        "Security",
+        "AI",
+        "Google",
+        "gemini",
+        "Alphabet"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Even mid-sprint to a secret flight, the Navy&#8217;s tech chief has a pitch for investors",
@@ -891,11 +907,11 @@
       "published_at": "2026-09-19T15:00:00.000Z",
       "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
       "tags": [
-        "TC",
         "AI",
-        "OpenAI",
+        "TC",
+        "alignment",
         "Anthropic",
-        "alignment"
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -989,19 +1005,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "published_at": "2026-09-18T23:12:32.000Z",
-      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "tags": [
-        "AI",
-        "Government & Policy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
     },
     {
       "title": "How to Turn a RECIST Line into a 3D Tumor Segmentation Mask",
@@ -1333,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 663,
       "user": "theoephraim"
     },
     {
@@ -1348,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 327,
       "user": "dofastted"
     },
     {
@@ -1363,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 251,
       "user": "Sac-Y"
     },
     {
@@ -1378,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 213,
       "user": "droidrun"
     },
     {
@@ -1393,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 194,
       "user": "gargpratyush"
     },
     {
@@ -1408,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4005,
+      "stars": 4067,
       "user": "tamaratran"
     },
     {
@@ -1423,23 +1426,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1204,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "url": "https://github.com/devagrawal09/jev-review",
-      "published_at": "2026-09-16T21:45:36Z",
-      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "devagrawal09"
     },
     {
       "title": "githubnext/localjev - GitHub Repository",
@@ -1453,8 +1441,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 342,
       "user": "githubnext"
+    },
+    {
+      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "published_at": "2026-09-16T21:45:36Z",
+      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "devagrawal09"
     },
     {
       "title": "dabit3/jev-experiments - GitHub Repository",
@@ -1468,8 +1471,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 294,
       "user": "dabit3"
+    },
+    {
+      "title": "onclick=\"showContent('x')\" only works once",
+      "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
+      "published_at": "2026-09-19T19:17:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lunaregemini"
     },
     {
       "title": "How should i remove the extra space in the code using antigravity ide",
@@ -1592,21 +1609,6 @@
       "url": "https://stackoverflow.com/questions/80003607/traversing-the-dom-of-a-service-now-page-stuck-on-a-shadowroot",
       "published_at": "2026-09-16T20:11:35.000Z",
       "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "jquery",
-        "dom",
-        "tampermonkey"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user66001"
-    },
-    {
-      "title": "Traversing the DOM of a Service Now page",
-      "url": "https://stackoverflow.com/questions/80003099/traversing-the-dom-of-a-service-now-page",
-      "published_at": "2026-09-14T20:59:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "jquery",
@@ -1929,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 7675,
+      "stars": 7923,
       "user": "browser-use"
     },
     {
@@ -1944,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1863,
       "user": "TheoLeeCJ"
     },
     {
@@ -1959,23 +1961,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1467,
+      "stars": 1499,
       "user": "mcncarl"
-    },
-    {
-      "title": "vinnylarouge/jevlike - GitHub Repository",
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "published_at": "2026-09-16T10:26:01Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
-      "source": "GitHub",
-      "stars": 959,
-      "user": "vinnylarouge"
     },
     {
       "title": "NandhaKishorM/laya - GitHub Repository",
@@ -1989,14 +1976,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 1014,
       "user": "NandhaKishorM"
+    },
+    {
+      "title": "vinnylarouge/jevlike - GitHub Repository",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "published_at": "2026-09-16T10:26:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
+      "source": "GitHub",
+      "stars": 967,
+      "user": "vinnylarouge"
     },
     {
       "title": "Why groups are not populated upon `auth_permission`?",
       "url": "https://stackoverflow.com/questions/80004310/why-groups-are-not-populated-upon-auth-permission",
       "published_at": "2026-09-19T15:43:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "django",
@@ -2051,7 +2053,7 @@
       "title": "Tile map renderer fails to render some tiles",
       "url": "https://stackoverflow.com/questions/80004136/tile-map-renderer-fails-to-render-some-tiles",
       "published_at": "2026-09-18T18:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pygame",
@@ -2059,7 +2061,7 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "hosein sattari"
+      "user": "hominer"
     },
     {
       "title": "Display every conversation that matches the selected sentiment",
@@ -2461,6 +2463,20 @@
       "user": "velmu"
     },
     {
+      "title": "onclick=\"showContent('x')\" only works once",
+      "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
+      "published_at": "2026-09-19T19:17:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lunaregemini"
+    },
+    {
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
       "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
       "published_at": "2026-09-18T14:57:42.000Z",
@@ -2575,7 +2591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 213,
       "user": "droidrun"
     },
     {
@@ -2590,7 +2606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "kdbhalala"
     }
   ],
@@ -2921,7 +2937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 663,
       "user": "theoephraim"
     },
     {
@@ -2966,7 +2982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 124,
       "user": "planetscale"
     },
     {
@@ -3212,16 +3228,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "I don't like passkeys",
-      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "published_at": "2026-09-18T07:52:18.949-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "published_at": "2026-09-19T17:30:00.000Z",
+      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
       "tags": [
-        "security"
+        "Security",
+        "AI",
+        "Google",
+        "gemini",
+        "Alphabet"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "eduard"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
@@ -3439,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 663,
       "user": "theoephraim"
     },
     {
@@ -3454,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 327,
       "user": "dofastted"
     },
     {
@@ -3469,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 251,
       "user": "Sac-Y"
     },
     {
@@ -3484,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 213,
       "user": "droidrun"
     },
     {
@@ -3499,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 194,
       "user": "gargpratyush"
     },
     {
@@ -3514,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 7675,
+      "stars": 7923,
       "user": "browser-use"
     },
     {
@@ -3529,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1863,
       "user": "TheoLeeCJ"
     },
     {
@@ -3544,23 +3564,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1467,
+      "stars": 1499,
       "user": "mcncarl"
-    },
-    {
-      "title": "vinnylarouge/jevlike - GitHub Repository",
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "published_at": "2026-09-16T10:26:01Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
-      "source": "GitHub",
-      "stars": 959,
-      "user": "vinnylarouge"
     },
     {
       "title": "NandhaKishorM/laya - GitHub Repository",
@@ -3574,8 +3579,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 1014,
       "user": "NandhaKishorM"
+    },
+    {
+      "title": "vinnylarouge/jevlike - GitHub Repository",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "published_at": "2026-09-16T10:26:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
+      "source": "GitHub",
+      "stars": 967,
+      "user": "vinnylarouge"
     },
     {
       "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
@@ -3589,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 323,
       "user": "gylive"
     },
     {
@@ -3604,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "kdbhalala"
     },
     {
@@ -3634,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 126,
       "user": "HyNetworks"
     },
     {
@@ -3649,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 99,
       "user": "itsmostafa"
     },
     {
@@ -3664,7 +3684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4005,
+      "stars": 4067,
       "user": "tamaratran"
     },
     {
@@ -3679,23 +3699,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1204,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "url": "https://github.com/devagrawal09/jev-review",
-      "published_at": "2026-09-16T21:45:36Z",
-      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "devagrawal09"
     },
     {
       "title": "githubnext/localjev - GitHub Repository",
@@ -3709,8 +3714,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 342,
       "user": "githubnext"
+    },
+    {
+      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "published_at": "2026-09-16T21:45:36Z",
+      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "devagrawal09"
     },
     {
       "title": "dabit3/jev-experiments - GitHub Repository",
@@ -3724,7 +3744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 294,
       "user": "dabit3"
     },
     {
@@ -3739,7 +3759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 570,
       "user": "jackwener"
     },
     {
@@ -3754,7 +3774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 245,
       "user": "eliasstravik"
     },
     {
@@ -3769,7 +3789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 166,
       "user": "dmtrKovalenko"
     },
     {
@@ -3784,7 +3804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 124,
       "user": "planetscale"
     },
     {
@@ -3799,7 +3819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 109,
       "user": "ejfkdev"
     },
     {
