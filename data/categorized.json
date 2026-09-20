@@ -46,21 +46,6 @@
       "user": "xbill"
     },
     {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
-    },
-    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
       "published_at": "2026-09-09T20:19:53Z",
@@ -209,6 +194,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "published_at": "2026-09-16T10:15:52Z",
+      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "tags": [
+        "raspberrypi",
+        "gemma",
+        "gemini",
+        "robotics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 735,
       "user": "theoephraim"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1347,
       "user": "TianyuCodings"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1475,
       "user": "jarrodwatts"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "jackwener"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 257,
       "user": "Lumid-Off"
     },
     {
@@ -807,16 +807,44 @@
       "user": "jcd"
     },
     {
-      "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-      "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-      "published_at": "2026-09-19T08:41:57.630-05:00",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "published_at": "2026-09-20T12:43:10.204-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai"
+        "privacy"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Yogthos"
+      "user": "jrgtt"
+    },
+    {
+      "title": "An actively maintained and updated Motif fork actually exists",
+      "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+      "published_at": "2026-09-20T12:13:41.124-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "raymii"
+    },
+    {
+      "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
+      "url": "https://stackoverflow.com/questions/80004484/how-should-betterantispam-discord-js-offload-anti-spam-and-anti-raid-work-so-t",
+      "published_at": "2026-09-20T18:31:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "asynchronous",
+        "discord",
+        "discord.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BetterAntispam"
     },
     {
       "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
@@ -835,18 +863,67 @@
       "user": "TableCloth"
     },
     {
-      "title": "Tile map renderer fails to render some tiles",
-      "url": "https://stackoverflow.com/questions/80004136/tile-map-renderer-fails-to-render-some-tiles",
-      "published_at": "2026-09-18T18:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "published_at": "2026-09-20T18:56:04.000Z",
+      "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
       "tags": [
-        "python",
-        "pygame",
-        "game-development"
+        "AI",
+        "Government & Policy",
+        "dario amodei",
+        "Equity podcast",
+        "Jensen Huang"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "hominer"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Vocci&#8217;s ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "published_at": "2026-09-20T18:32:52.000Z",
+      "description": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "tags": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "TC",
+        "AI hardware"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "published_at": "2026-09-20T18:00:00.000Z",
+      "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Social",
+        "TechCrunch Disrupt",
+        "Startup Battlefield 200"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "New California law will penalize influencers who don&#8217;t disclose political ads",
+      "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "published_at": "2026-09-20T16:30:00.000Z",
+      "description": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Social",
+        "Gavin Newsom"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
@@ -870,9 +947,9 @@
       "description": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon fo",
       "tags": [
         "Startups",
-        "Tristan Walker",
         "board",
-        "Brynn Putnam"
+        "Brynn Putnam",
+        "Tristan Walker"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -937,64 +1014,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
-      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "published_at": "2026-09-19T17:00:00.000Z",
-      "description": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
-      "tags": [
-        "Government & Policy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "published_at": "2026-09-19T15:00:00.000Z",
-      "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "tags": [
-        "Hardware",
-        "AI",
-        "pet tech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "published_at": "2026-09-19T15:00:00.000Z",
-      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "tags": [
-        "AI",
-        "TC",
-        "alignment",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "published_at": "2026-09-19T14:00:00.000Z",
-      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Fintech",
-        "Fundraising",
-        "Robotics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
@@ -1121,21 +1140,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
-    },
-    {
       "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
       "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
       "published_at": "2026-09-09T20:19:53Z",
@@ -1179,6 +1183,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
       "source": "Dev.to",
       "user": "Mazlum Tosun"
+    },
+    {
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "published_at": "2026-09-16T10:15:52Z",
+      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "tags": [
+        "raspberrypi",
+        "gemma",
+        "gemini",
+        "robotics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
@@ -1357,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 735,
       "user": "theoephraim"
     },
     {
@@ -1372,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 514,
       "user": "dofastted"
     },
     {
@@ -1387,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 455,
       "user": "Sac-Y"
     },
     {
@@ -1402,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 267,
       "user": "droidrun"
     },
     {
@@ -1417,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 251,
       "user": "gargpratyush"
     },
     {
@@ -1432,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4873,
+      "stars": 4981,
       "user": "tamaratran"
     },
     {
@@ -1447,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1475,
       "user": "jarrodwatts"
     },
     {
@@ -1462,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 586,
       "user": "githubnext"
     },
     {
@@ -1477,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "devagrawal09"
     },
     {
@@ -1492,14 +1511,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 332,
       "user": "dabit3"
+    },
+    {
+      "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
+      "url": "https://stackoverflow.com/questions/80004484/how-should-betterantispam-discord-js-offload-anti-spam-and-anti-raid-work-so-t",
+      "published_at": "2026-09-20T18:31:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "asynchronous",
+        "discord",
+        "discord.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BetterAntispam"
     },
     {
       "title": "SPA with multiple steps",
       "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
       "published_at": "2026-09-20T15:06:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "html",
@@ -1622,22 +1657,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "VIXSIN"
-    },
-    {
-      "title": "About spriteflexjs examples issues",
-      "url": "https://stackoverflow.com/questions/80004145/about-spriteflexjs-examples-issues",
-      "published_at": "2026-09-18T19:10:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "html",
-        "actionscript",
-        "flashdevelop",
-        "apache-royale"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Zhou"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1967,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 11073,
+      "stars": 11385,
       "user": "browser-use"
     },
     {
@@ -1982,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 2860,
+      "stars": 3370,
       "user": "NandhaKishorM"
     },
     {
@@ -1997,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2346,
       "user": "TheoLeeCJ"
     },
     {
@@ -2012,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1850,
+      "stars": 1916,
       "user": "mcncarl"
     },
     {
@@ -2027,8 +2046,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1347,
       "user": "TianyuCodings"
+    },
+    {
+      "title": "OSError: Repo id must use alphanumeric chars, '-', '_' or '.'. The name cannot start or end with '-' or '.' ........ 'T5ForConditionalGeneration(",
+      "url": "https://stackoverflow.com/questions/80004401/oserror-repo-id-must-use-alphanumeric-chars-or-the-name-cannot-s",
+      "published_at": "2026-09-20T06:36:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "huggingface-transformers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bussller"
     },
     {
       "title": "Advice for Folium Map",
@@ -2150,20 +2182,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "David"
-    },
-    {
-      "title": "Tile map renderer fails to render some tiles",
-      "url": "https://stackoverflow.com/questions/80004136/tile-map-renderer-fails-to-render-some-tiles",
-      "published_at": "2026-09-18T18:26:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "pygame",
-        "game-development"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "hominer"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
@@ -2532,7 +2550,7 @@
       "title": "SPA with multiple steps",
       "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
       "published_at": "2026-09-20T15:06:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "html",
@@ -2570,22 +2588,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "timholz"
-    },
-    {
-      "title": "About spriteflexjs examples issues",
-      "url": "https://stackoverflow.com/questions/80004145/about-spriteflexjs-examples-issues",
-      "published_at": "2026-09-18T19:10:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "html",
-        "actionscript",
-        "flashdevelop",
-        "apache-royale"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Zhou"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2672,7 +2674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 267,
       "user": "droidrun"
     },
     {
@@ -2687,7 +2689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "kdbhalala"
     },
     {
@@ -2697,9 +2699,9 @@
       "description": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon fo",
       "tags": [
         "Startups",
-        "Tristan Walker",
         "board",
-        "Brynn Putnam"
+        "Brynn Putnam",
+        "Tristan Walker"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2737,21 +2739,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
     },
     {
       "title": "ELT with Dataform on Google Cloud",
@@ -2812,6 +2799,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "published_at": "2026-09-16T10:15:52Z",
+      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "tags": [
+        "raspberrypi",
+        "gemma",
+        "gemini",
+        "robotics"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
+      "source": "Dev.to",
+      "user": "bebechien"
     },
     {
       "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
@@ -3049,8 +3051,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 735,
       "user": "theoephraim"
+    },
+    {
+      "title": "Lambda MicroEgg",
+      "url": "https://www.philipzucker.com/lambda_miller_egg/",
+      "published_at": "2026-09-20T11:04:18.544-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "formalmethods",
+        "plt"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "philzook"
     }
   ],
   "Database": [
@@ -3519,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 735,
       "user": "theoephraim"
     },
     {
@@ -3534,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 514,
       "user": "dofastted"
     },
     {
@@ -3549,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 455,
       "user": "Sac-Y"
     },
     {
@@ -3564,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 267,
       "user": "droidrun"
     },
     {
@@ -3579,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 251,
       "user": "gargpratyush"
     },
     {
@@ -3594,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 11073,
+      "stars": 11385,
       "user": "browser-use"
     },
     {
@@ -3609,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 2860,
+      "stars": 3370,
       "user": "NandhaKishorM"
     },
     {
@@ -3624,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2346,
       "user": "TheoLeeCJ"
     },
     {
@@ -3639,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1850,
+      "stars": 1916,
       "user": "mcncarl"
     },
     {
@@ -3654,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1347,
       "user": "TianyuCodings"
     },
     {
@@ -3669,7 +3684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 478,
       "user": "gylive"
     },
     {
@@ -3684,7 +3699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "HyNetworks"
     },
     {
@@ -3699,7 +3714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "kdbhalala"
     },
     {
@@ -3714,7 +3729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 150,
       "user": "wangyunjeff"
     },
     {
@@ -3744,7 +3759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4873,
+      "stars": 4981,
       "user": "tamaratran"
     },
     {
@@ -3759,7 +3774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1475,
       "user": "jarrodwatts"
     },
     {
@@ -3774,7 +3789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 586,
       "user": "githubnext"
     },
     {
@@ -3789,7 +3804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "devagrawal09"
     },
     {
@@ -3804,7 +3819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 332,
       "user": "dabit3"
     },
     {
@@ -3819,7 +3834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "jackwener"
     },
     {
@@ -3834,7 +3849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 324,
       "user": "Haleclipse"
     },
     {
@@ -3849,7 +3864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 263,
       "user": "eliasstravik"
     },
     {
@@ -3864,7 +3879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 257,
       "user": "Lumid-Off"
     },
     {
@@ -3879,7 +3894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 189,
       "user": "ejfkdev"
     },
     {
