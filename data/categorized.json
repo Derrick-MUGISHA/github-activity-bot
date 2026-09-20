@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "theoephraim"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 110,
       "user": "itsmostafa"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1284,
       "user": "jarrodwatts"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 613,
       "user": "jackwener"
     },
     {
@@ -820,7 +820,7 @@
       "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
       "url": "https://stackoverflow.com/questions/80004311/neoforge-1-21-1-minecraft-modded-general-advice-where-do-i-go-mobs-driving",
       "published_at": "2026-09-19T15:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "javascript",
@@ -1353,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "theoephraim"
     },
     {
@@ -1368,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 364,
       "user": "dofastted"
     },
     {
@@ -1383,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 296,
       "user": "Sac-Y"
     },
     {
@@ -1398,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 224,
       "user": "droidrun"
     },
     {
@@ -1413,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 208,
       "user": "gargpratyush"
     },
     {
@@ -1428,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4203,
+      "stars": 4274,
       "user": "tamaratran"
     },
     {
@@ -1443,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1284,
       "user": "jarrodwatts"
     },
     {
@@ -1458,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 427,
       "user": "githubnext"
     },
     {
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "devagrawal09"
     },
     {
@@ -1488,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "dabit3"
     },
     {
@@ -1525,7 +1525,7 @@
       "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
       "url": "https://stackoverflow.com/questions/80004311/neoforge-1-21-1-minecraft-modded-general-advice-where-do-i-go-mobs-driving",
       "published_at": "2026-09-19T15:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "javascript",
@@ -1541,7 +1541,7 @@
       "title": "Build update from Server to Client",
       "url": "https://stackoverflow.com/questions/80004270/build-update-from-server-to-client",
       "published_at": "2026-09-19T11:20:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "advice",
         "javascript",
@@ -1683,21 +1683,6 @@
       "user": "xbill"
     },
     {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
-      "published_at": "2026-09-17T02:43:18Z",
-      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
-      "tags": [
-        "amd",
-        "mcp",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
       "published_at": "2026-09-13T18:25:49Z",
@@ -1724,6 +1709,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
+      "published_at": "2026-09-17T02:43:18Z",
+      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
+      "tags": [
+        "amd",
+        "mcp",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 8309,
+      "stars": 8583,
       "user": "browser-use"
     },
     {
@@ -1979,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1921,
+      "stars": 1952,
       "user": "TheoLeeCJ"
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1565,
       "user": "mcncarl"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1334,
       "user": "NandhaKishorM"
     },
     {
@@ -2024,8 +2024,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 989,
       "user": "vinnylarouge"
+    },
+    {
+      "title": "Python's gc.collect() method is fatally flawed",
+      "url": "https://stackoverflow.com/questions/80004367/pythons-gc-collect-method-is-fatally-flawed",
+      "published_at": "2026-09-19T23:12:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "advice",
+        "python",
+        "garbage-collection"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hal2010"
     },
     {
       "title": "Replace a printed line when it overflows to the next line",
@@ -2148,20 +2162,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Venkata Sai"
-    },
-    {
-      "title": "sympy parse/expand without alphabetical ordering",
-      "url": "https://stackoverflow.com/questions/80004052/sympy-parse-expand-without-alphabetical-ordering",
-      "published_at": "2026-09-18T13:03:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "parsing",
-        "sympy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luca Braglia"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
@@ -2655,7 +2655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 224,
       "user": "droidrun"
     },
     {
@@ -2670,7 +2670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "kdbhalala"
     },
     {
@@ -2722,21 +2722,6 @@
       "user": "bebechien"
     },
     {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
-      "published_at": "2026-09-17T02:43:18Z",
-      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
-      "tags": [
-        "amd",
-        "mcp",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "ELT with Dataform on Google Cloud",
       "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
       "published_at": "2026-09-16T16:29:00Z",
@@ -2765,6 +2750,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
       "source": "Dev.to",
       "user": "Mazlum Tosun"
+    },
+    {
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
+      "published_at": "2026-09-17T02:43:18Z",
+      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
+      "tags": [
+        "amd",
+        "mcp",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
@@ -3017,7 +3017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "theoephraim"
     },
     {
@@ -3062,7 +3062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "planetscale"
     },
     {
@@ -3520,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "theoephraim"
     },
     {
@@ -3535,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 364,
       "user": "dofastted"
     },
     {
@@ -3550,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 296,
       "user": "Sac-Y"
     },
     {
@@ -3565,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 224,
       "user": "droidrun"
     },
     {
@@ -3580,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 208,
       "user": "gargpratyush"
     },
     {
@@ -3595,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 8309,
+      "stars": 8583,
       "user": "browser-use"
     },
     {
@@ -3610,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 1921,
+      "stars": 1952,
       "user": "TheoLeeCJ"
     },
     {
@@ -3625,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1565,
       "user": "mcncarl"
     },
     {
@@ -3640,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1334,
       "user": "NandhaKishorM"
     },
     {
@@ -3655,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5328067?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 989,
       "user": "vinnylarouge"
     },
     {
@@ -3670,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 343,
       "user": "gylive"
     },
     {
@@ -3685,7 +3685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "kdbhalala"
     },
     {
@@ -3700,7 +3700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 155,
       "user": "HyNetworks"
     },
     {
@@ -3715,7 +3715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "YongshengWin"
     },
     {
@@ -3730,7 +3730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 110,
       "user": "itsmostafa"
     },
     {
@@ -3745,7 +3745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4203,
+      "stars": 4274,
       "user": "tamaratran"
     },
     {
@@ -3760,7 +3760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1247,
+      "stars": 1284,
       "user": "jarrodwatts"
     },
     {
@@ -3775,7 +3775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 427,
       "user": "githubnext"
     },
     {
@@ -3790,7 +3790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 351,
       "user": "devagrawal09"
     },
     {
@@ -3805,7 +3805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "dabit3"
     },
     {
@@ -3820,7 +3820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 613,
       "user": "jackwener"
     },
     {
@@ -3835,7 +3835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 248,
       "user": "eliasstravik"
     },
     {
@@ -3850,23 +3850,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "dmtrKovalenko"
-    },
-    {
-      "title": "planetscale/lead - A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
-      "url": "https://github.com/planetscale/lead",
-      "published_at": "2026-09-17T14:29:30Z",
-      "description": "A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
-      "source": "GitHub",
-      "stars": 126,
-      "user": "planetscale"
     },
     {
       "title": "ejfkdev/ddc - DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI",
@@ -3880,8 +3865,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 128,
       "user": "ejfkdev"
+    },
+    {
+      "title": "planetscale/lead - A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
+      "url": "https://github.com/planetscale/lead",
+      "published_at": "2026-09-17T14:29:30Z",
+      "description": "A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35612527?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "planetscale"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
