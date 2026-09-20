@@ -731,23 +731,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 738,
       "user": "theoephraim"
-    },
-    {
-      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "url": "https://github.com/TianyuCodings/NanoJev",
-      "published_at": "2026-09-17T16:08:30Z",
-      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
-      "source": "GitHub",
-      "stars": 1347,
-      "user": "TianyuCodings"
     },
     {
       "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1475,
+      "stars": 1499,
       "user": "jarrodwatts"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 698,
       "user": "jackwener"
     },
     {
@@ -791,8 +776,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 267,
       "user": "Lumid-Off"
+    },
+    {
+      "title": "An actively maintained and updated Motif fork actually exists",
+      "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+      "published_at": "2026-09-20T12:13:41.124-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "raymii"
     },
     {
       "title": "AI Is an Elite Crime Spree",
@@ -819,22 +816,10 @@
       "user": "jrgtt"
     },
     {
-      "title": "An actively maintained and updated Motif fork actually exists",
-      "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
-      "published_at": "2026-09-20T12:13:41.124-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "linux"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
-    },
-    {
       "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
       "url": "https://stackoverflow.com/questions/80004484/how-should-betterantispam-discord-js-offload-anti-spam-and-anti-raid-work-so-t",
       "published_at": "2026-09-20T18:31:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "node.js",
@@ -847,20 +832,33 @@
       "user": "BetterAntispam"
     },
     {
-      "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
-      "url": "https://stackoverflow.com/questions/80004311/neoforge-1-21-1-minecraft-modded-general-advice-where-do-i-go-mobs-driving",
-      "published_at": "2026-09-19T15:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Puppeteer wait until page is completely loaded",
+      "url": "https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded",
+      "published_at": "2018-09-25T11:35:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 143",
       "tags": [
-        "advice",
         "javascript",
-        "java",
-        "artificial-intelligence",
-        "minecraft"
+        "pdf-generation",
+        "puppeteer",
+        "google-chrome-headless"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "TableCloth"
+      "user": "n.sharvarish"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "published_at": "2026-09-20T20:29:07.000Z",
+      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "tags": [
+        "AI",
+        "TC",
+        "world models"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "Is the AI industry really ready to slow down?",
@@ -980,36 +978,6 @@
         "AI",
         "Government & Policy",
         "Flock"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "published_at": "2026-09-19T19:57:47.000Z",
-      "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Donald Trump"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "published_at": "2026-09-19T17:30:00.000Z",
-      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "tags": [
-        "Security",
-        "AI",
-        "Google",
-        "gemini",
-        "Alphabet"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1376,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 738,
       "user": "theoephraim"
     },
     {
@@ -1406,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 459,
       "user": "Sac-Y"
     },
     {
@@ -1421,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "droidrun"
     },
     {
@@ -1436,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "gargpratyush"
     },
     {
@@ -1451,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4981,
+      "stars": 5056,
       "user": "tamaratran"
     },
     {
@@ -1466,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1475,
+      "stars": 1499,
       "user": "jarrodwatts"
     },
     {
@@ -1481,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 598,
       "user": "githubnext"
     },
     {
@@ -1496,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 406,
       "user": "devagrawal09"
     },
     {
@@ -1511,14 +1479,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 336,
       "user": "dabit3"
     },
     {
       "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
       "url": "https://stackoverflow.com/questions/80004484/how-should-betterantispam-discord-js-offload-anti-spam-and-anti-raid-work-so-t",
       "published_at": "2026-09-20T18:31:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "node.js",
@@ -1534,7 +1502,7 @@
       "title": "SPA with multiple steps",
       "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
       "published_at": "2026-09-20T15:06:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "html",
@@ -1544,18 +1512,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abhishek Bhatt"
-    },
-    {
-      "title": "How should I sort football standings when the API already returns a position field?",
-      "url": "https://stackoverflow.com/questions/80004427/how-should-i-sort-football-standings-when-the-api-already-returns-a-position-fie",
-      "published_at": "2026-09-20T11:33:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -11",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "veotuises"
     },
     {
       "title": "onclick=\"showContent('x')\" only works once",
@@ -1572,20 +1528,16 @@
       "user": "lunaregemini"
     },
     {
-      "title": "How should i remove the extra space in the code using antigravity ide",
-      "url": "https://stackoverflow.com/questions/80004286/how-should-i-remove-the-extra-space-in-the-code-using-antigravity-ide",
-      "published_at": "2026-09-19T13:20:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "How should I sort football standings when the API already returns a position field?",
+      "url": "https://stackoverflow.com/questions/80004427/how-should-i-sort-football-standings-when-the-api-already-returns-a-position-fie",
+      "published_at": "2026-09-20T11:33:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score -11",
       "tags": [
-        "javascript",
-        "typescript",
-        "vs-code",
-        "ide",
-        "antigravity"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Saurabh Belwal"
+      "user": "veotuises"
     },
     {
       "title": "How can I get \"stringified\" object with nested objects?",
@@ -1598,22 +1550,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "LUN"
-    },
-    {
-      "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
-      "url": "https://stackoverflow.com/questions/80004311/neoforge-1-21-1-minecraft-modded-general-advice-where-do-i-go-mobs-driving",
-      "published_at": "2026-09-19T15:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "advice",
-        "javascript",
-        "java",
-        "artificial-intelligence",
-        "minecraft"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TableCloth"
     },
     {
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
@@ -1657,6 +1593,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "VIXSIN"
+    },
+    {
+      "title": "Puppeteer wait until page is completely loaded",
+      "url": "https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded",
+      "published_at": "2018-09-25T11:35:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 143",
+      "tags": [
+        "javascript",
+        "pdf-generation",
+        "puppeteer",
+        "google-chrome-headless"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "n.sharvarish"
+    },
+    {
+      "title": "Adding two numbers concatenates them instead of calculating the sum",
+      "url": "https://stackoverflow.com/questions/14496531/adding-two-numbers-concatenates-them-instead-of-calculating-the-sum",
+      "published_at": "2013-01-24T08:06:43.000Z",
+      "description": "Stack Overflow question · 24 answers · score 262",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "okconfused"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1986,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 11385,
+      "stars": 11599,
       "user": "browser-use"
     },
     {
@@ -2001,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 3370,
+      "stars": 3690,
       "user": "NandhaKishorM"
     },
     {
@@ -2016,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2346,
+      "stars": 2400,
       "user": "TheoLeeCJ"
     },
     {
@@ -2031,23 +1995,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1916,
+      "stars": 1935,
       "user": "mcncarl"
     },
     {
-      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "url": "https://github.com/TianyuCodings/NanoJev",
-      "published_at": "2026-09-17T16:08:30Z",
-      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "published_at": "2026-09-19T13:50:26Z",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1347,
-      "user": "TianyuCodings"
+      "stars": 1479,
+      "user": "mizorewww"
+    },
+    {
+      "title": "Calculating metrics from different subfolders at several stations in Python",
+      "url": "https://stackoverflow.com/questions/80004503/calculating-metrics-from-different-subfolders-at-several-stations-in-python",
+      "published_at": "2026-09-20T20:48:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zilore Mumba"
     },
     {
       "title": "OSError: Repo id must use alphanumeric chars, '-', '_' or '.'. The name cannot start or end with '-' or '.' ........ 'T5ForConditionalGeneration(",
@@ -2061,6 +2037,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bussller"
+    },
+    {
+      "title": "Adding columns in matplotlib graph breaks row layout",
+      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
+      "published_at": "2026-09-19T19:26:49.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Auguste Eclancher"
     },
     {
       "title": "Advice for Folium Map",
@@ -2101,19 +2090,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "Adding columns in matplotlib graph breaks row layout",
-      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
-      "published_at": "2026-09-19T19:26:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "matplotlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Auguste Eclancher"
     },
     {
       "title": "sympy parse/expand without alphabetical ordering",
@@ -2170,18 +2146,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "Display every conversation that matches the selected sentiment",
-      "url": "https://stackoverflow.com/questions/80003937/display-every-conversation-that-matches-the-selected-sentiment",
-      "published_at": "2026-09-18T01:36:29.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
@@ -2550,7 +2514,7 @@
       "title": "SPA with multiple steps",
       "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
       "published_at": "2026-09-20T15:06:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "html",
@@ -2588,6 +2552,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "timholz"
+    },
+    {
+      "title": "Adding two numbers concatenates them instead of calculating the sum",
+      "url": "https://stackoverflow.com/questions/14496531/adding-two-numbers-concatenates-them-instead-of-calculating-the-sum",
+      "published_at": "2013-01-24T08:06:43.000Z",
+      "description": "Stack Overflow question · 24 answers · score 262",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "okconfused"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2674,7 +2651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "droidrun"
     },
     {
@@ -2689,7 +2666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "kdbhalala"
     },
     {
@@ -3051,8 +3028,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 738,
       "user": "theoephraim"
+    },
+    {
+      "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "published_at": "2026-09-19T13:50:26Z",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 1479,
+      "user": "mizorewww"
     },
     {
       "title": "Lambda MicroEgg",
@@ -3319,22 +3311,6 @@
       "user": "apropos"
     },
     {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "published_at": "2026-09-19T17:30:00.000Z",
-      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "tags": [
-        "Security",
-        "AI",
-        "Google",
-        "gemini",
-        "Alphabet"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
       "published_at": "2026-09-18T16:03:13.000Z",
@@ -3534,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 738,
       "user": "theoephraim"
     },
     {
@@ -3564,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 459,
       "user": "Sac-Y"
     },
     {
@@ -3579,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "droidrun"
     },
     {
@@ -3594,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "gargpratyush"
     },
     {
@@ -3609,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 11385,
+      "stars": 11599,
       "user": "browser-use"
     },
     {
@@ -3624,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 3370,
+      "stars": 3690,
       "user": "NandhaKishorM"
     },
     {
@@ -3639,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2346,
+      "stars": 2400,
       "user": "TheoLeeCJ"
     },
     {
@@ -3654,23 +3630,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1916,
+      "stars": 1935,
       "user": "mcncarl"
     },
     {
-      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "url": "https://github.com/TianyuCodings/NanoJev",
-      "published_at": "2026-09-17T16:08:30Z",
-      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "published_at": "2026-09-19T13:50:26Z",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1347,
-      "user": "TianyuCodings"
+      "stars": 1479,
+      "user": "mizorewww"
     },
     {
       "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
@@ -3684,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 481,
       "user": "gylive"
     },
     {
@@ -3714,7 +3690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "kdbhalala"
     },
     {
@@ -3729,7 +3705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "wangyunjeff"
     },
     {
@@ -3759,7 +3735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4981,
+      "stars": 5056,
       "user": "tamaratran"
     },
     {
@@ -3774,7 +3750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1475,
+      "stars": 1499,
       "user": "jarrodwatts"
     },
     {
@@ -3789,7 +3765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 598,
       "user": "githubnext"
     },
     {
@@ -3804,7 +3780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 406,
       "user": "devagrawal09"
     },
     {
@@ -3819,7 +3795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 336,
       "user": "dabit3"
     },
     {
@@ -3834,7 +3810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 698,
       "user": "jackwener"
     },
     {
@@ -3849,23 +3825,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "Haleclipse"
-    },
-    {
-      "title": "eliasstravik/herdr-projects - A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
-      "url": "https://github.com/eliasstravik/herdr-projects",
-      "published_at": "2026-09-18T07:28:36Z",
-      "description": "A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "eliasstravik"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -3879,8 +3840,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 267,
       "user": "Lumid-Off"
+    },
+    {
+      "title": "eliasstravik/herdr-projects - A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
+      "url": "https://github.com/eliasstravik/herdr-projects",
+      "published_at": "2026-09-18T07:28:36Z",
+      "description": "A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "eliasstravik"
     },
     {
       "title": "ejfkdev/ddc - DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI",
@@ -3894,7 +3870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 191,
       "user": "ejfkdev"
     },
     {
