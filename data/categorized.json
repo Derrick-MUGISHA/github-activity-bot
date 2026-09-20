@@ -76,21 +76,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
-      "published_at": "2026-09-16T14:30:05Z",
-      "description": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
-      "tags": [
-        "ai",
-        "live",
-        "voice",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fow0e126ujeat6lp7vwkj.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
       "url": "https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l",
       "published_at": "2026-09-10T18:51:51Z",
@@ -254,6 +239,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
+      "published_at": "2026-09-16T14:30:05Z",
+      "description": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
+      "tags": [
+        "ai",
+        "live",
+        "voice",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fow0e126ujeat6lp7vwkj.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 733,
       "user": "theoephraim"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1304,
       "user": "TianyuCodings"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1453,
       "user": "jarrodwatts"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 694,
       "user": "jackwener"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 243,
       "user": "Lumid-Off"
     },
     {
@@ -822,7 +822,7 @@
       "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
       "url": "https://stackoverflow.com/questions/80004311/neoforge-1-21-1-minecraft-modded-general-advice-where-do-i-go-mobs-driving",
       "published_at": "2026-09-19T15:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "javascript",
@@ -847,6 +847,52 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hominer"
+    },
+    {
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "published_at": "2026-09-20T16:02:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "tags": [
+        "Transportation",
+        "avs",
+        "May Mobility",
+        "techcrunch mobility"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "published_at": "2026-09-20T15:00:00.000Z",
+      "description": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon fo",
+      "tags": [
+        "Startups",
+        "Tristan Walker",
+        "board",
+        "Brynn Putnam"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-20T14:00:00.000Z",
+      "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Robotics"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -938,7 +984,7 @@
       "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
       "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
       "published_at": "2026-09-19T14:00:00.000Z",
-      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
       "tags": [
         "AI",
         "Biotech & Health",
@@ -949,50 +995,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "published_at": "2026-09-19T13:00:00.000Z",
-      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "tags": [
-        "AI",
-        "Andreessen Horowitz",
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "published_at": "2026-09-19T01:00:00.000Z",
-      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "robocalls",
-        "spam",
-        "Truecaller"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "published_at": "2026-09-19T00:12:07.000Z",
-      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "tilly norwood"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
@@ -1355,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 733,
       "user": "theoephraim"
     },
     {
@@ -1370,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 513,
       "user": "dofastted"
     },
     {
@@ -1385,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 447,
       "user": "Sac-Y"
     },
     {
@@ -1400,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "droidrun"
     },
     {
@@ -1415,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 244,
       "user": "gargpratyush"
     },
     {
@@ -1430,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4646,
+      "stars": 4873,
       "user": "tamaratran"
     },
     {
@@ -1445,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1453,
       "user": "jarrodwatts"
     },
     {
@@ -1460,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 575,
       "user": "githubnext"
     },
     {
@@ -1475,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 396,
       "user": "devagrawal09"
     },
     {
@@ -1490,14 +1492,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 328,
       "user": "dabit3"
+    },
+    {
+      "title": "SPA with multiple steps",
+      "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
+      "published_at": "2026-09-20T15:06:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "forms"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abhishek Bhatt"
     },
     {
       "title": "How should I sort football standings when the API already returns a position field?",
       "url": "https://stackoverflow.com/questions/80004427/how-should-i-sort-football-standings-when-the-api-already-returns-a-position-fie",
       "published_at": "2026-09-20T11:33:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -11",
       "tags": [
         "javascript"
       ],
@@ -1509,7 +1526,7 @@
       "title": "onclick=\"showContent('x')\" only works once",
       "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
       "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
+      "description": "Stack Overflow question · 5 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -1551,7 +1568,7 @@
       "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
       "url": "https://stackoverflow.com/questions/80004311/neoforge-1-21-1-minecraft-modded-general-advice-where-do-i-go-mobs-driving",
       "published_at": "2026-09-19T15:46:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "javascript",
@@ -1581,7 +1598,7 @@
       "title": "Build update from Server to Client",
       "url": "https://stackoverflow.com/questions/80004270/build-update-from-server-to-client",
       "published_at": "2026-09-19T11:20:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "advice",
         "javascript",
@@ -1621,21 +1638,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Zhou"
-    },
-    {
-      "title": "Traversing the DOM of a Service Now page - Stuck on a Shadowroot",
-      "url": "https://stackoverflow.com/questions/80003607/traversing-the-dom-of-a-service-now-page-stuck-on-a-shadowroot",
-      "published_at": "2026-09-16T20:11:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "jquery",
-        "dom",
-        "tampermonkey"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user66001"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1965,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 10477,
+      "stars": 11073,
       "user": "browser-use"
     },
     {
@@ -1980,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2860,
       "user": "NandhaKishorM"
     },
     {
@@ -1995,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2185,
+      "stars": 2282,
       "user": "TheoLeeCJ"
     },
     {
@@ -2010,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1850,
       "user": "mcncarl"
     },
     {
@@ -2025,14 +2027,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1304,
       "user": "TianyuCodings"
     },
     {
       "title": "Advice for Folium Map",
       "url": "https://stackoverflow.com/questions/80004404/advice-for-folium-map",
       "published_at": "2026-09-20T07:05:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "advice",
         "python",
@@ -2055,19 +2057,6 @@
       "user": "Kali"
     },
     {
-      "title": "Adding columns in matplotlib graph breaks row layout",
-      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
-      "published_at": "2026-09-19T19:26:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "matplotlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Auguste Eclancher"
-    },
-    {
       "title": "Why groups are not populated upon `auth_permission`?",
       "url": "https://stackoverflow.com/questions/80004310/why-groups-are-not-populated-upon-auth-permission",
       "published_at": "2026-09-19T15:43:12.000Z",
@@ -2080,6 +2069,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
+    },
+    {
+      "title": "Adding columns in matplotlib graph breaks row layout",
+      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
+      "published_at": "2026-09-19T19:26:49.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Auguste Eclancher"
     },
     {
       "title": "sympy parse/expand without alphabetical ordering",
@@ -2113,7 +2115,7 @@
       "title": "Font size going down when you delete all text in tkinter scrolledtext",
       "url": "https://stackoverflow.com/questions/80004137/font-size-going-down-when-you-delete-all-text-in-tkinter-scrolledtext",
       "published_at": "2026-09-18T18:30:53.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "python",
         "font-size",
@@ -2527,10 +2529,25 @@
       "user": "velmu"
     },
     {
+      "title": "SPA with multiple steps",
+      "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
+      "published_at": "2026-09-20T15:06:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "forms"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abhishek Bhatt"
+    },
+    {
       "title": "onclick=\"showContent('x')\" only works once",
       "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
       "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
+      "description": "Stack Overflow question · 5 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -2655,7 +2672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "droidrun"
     },
     {
@@ -2670,8 +2687,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 160,
       "user": "kdbhalala"
+    },
+    {
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "published_at": "2026-09-20T15:00:00.000Z",
+      "description": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon fo",
+      "tags": [
+        "Startups",
+        "Tristan Walker",
+        "board",
+        "Brynn Putnam"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -3017,7 +3049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 733,
       "user": "theoephraim"
     }
   ],
@@ -3245,6 +3277,20 @@
       "user": "ewenjo"
     },
     {
+      "title": "Software sandboxing: The basics (2025)",
+      "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+      "published_at": "2026-09-20T09:13:11.598-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "programming",
+        "security",
+        "unix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vinipsmaker"
+    },
+    {
       "title": "we have a year to fix security everywhere",
       "url": "https://jyn.dev/a-year-to-fix-security/",
       "published_at": "2026-09-19T14:27:46.429-05:00",
@@ -3256,19 +3302,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "apropos"
-    },
-    {
-      "title": "HEIF Heist",
-      "url": "https://heif-heist.com",
-      "published_at": "2026-09-20T00:56:25.944-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "graphics",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "atmosx"
     },
     {
       "title": "Google’s Gemini is the latest AI model to hack other companies",
@@ -3486,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 733,
       "user": "theoephraim"
     },
     {
@@ -3501,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 513,
       "user": "dofastted"
     },
     {
@@ -3516,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 447,
       "user": "Sac-Y"
     },
     {
@@ -3531,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "droidrun"
     },
     {
@@ -3546,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 244,
       "user": "gargpratyush"
     },
     {
@@ -3561,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 10477,
+      "stars": 11073,
       "user": "browser-use"
     },
     {
@@ -3576,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 2306,
+      "stars": 2860,
       "user": "NandhaKishorM"
     },
     {
@@ -3591,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2185,
+      "stars": 2282,
       "user": "TheoLeeCJ"
     },
     {
@@ -3606,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1850,
       "user": "mcncarl"
     },
     {
@@ -3621,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1228,
+      "stars": 1304,
       "user": "TianyuCodings"
     },
     {
@@ -3636,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 465,
       "user": "gylive"
     },
     {
@@ -3651,7 +3684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 231,
       "user": "HyNetworks"
     },
     {
@@ -3666,23 +3699,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 160,
       "user": "kdbhalala"
-    },
-    {
-      "title": "YongshengWin/VpsCT - 面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
-      "url": "https://github.com/YongshengWin/VpsCT",
-      "published_at": "2026-09-15T10:55:08Z",
-      "description": "面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "YongshengWin"
     },
     {
       "title": "wangyunjeff/sub2api-state-kit - Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
@@ -3696,8 +3714,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 146,
       "user": "wangyunjeff"
+    },
+    {
+      "title": "YongshengWin/VpsCT - 面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
+      "url": "https://github.com/YongshengWin/VpsCT",
+      "published_at": "2026-09-15T10:55:08Z",
+      "description": "面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58181570?v=4",
+      "source": "GitHub",
+      "stars": 139,
+      "user": "YongshengWin"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -3711,7 +3744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 4646,
+      "stars": 4873,
       "user": "tamaratran"
     },
     {
@@ -3726,7 +3759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1453,
       "user": "jarrodwatts"
     },
     {
@@ -3741,7 +3774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 575,
       "user": "githubnext"
     },
     {
@@ -3756,7 +3789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 396,
       "user": "devagrawal09"
     },
     {
@@ -3771,7 +3804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 328,
       "user": "dabit3"
     },
     {
@@ -3786,23 +3819,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 694,
       "user": "jackwener"
-    },
-    {
-      "title": "eliasstravik/herdr-projects - A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
-      "url": "https://github.com/eliasstravik/herdr-projects",
-      "published_at": "2026-09-18T07:28:36Z",
-      "description": "A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
-      "source": "GitHub",
-      "stars": 258,
-      "user": "eliasstravik"
     },
     {
       "title": "Haleclipse/CometixCode - An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
@@ -3816,8 +3834,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 308,
       "user": "Haleclipse"
+    },
+    {
+      "title": "eliasstravik/herdr-projects - A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
+      "url": "https://github.com/eliasstravik/herdr-projects",
+      "published_at": "2026-09-18T07:28:36Z",
+      "description": "A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
+      "source": "GitHub",
+      "stars": 262,
+      "user": "eliasstravik"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -3831,23 +3864,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 243,
       "user": "Lumid-Off"
     },
     {
-      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
-      "url": "https://github.com/dmtrKovalenko/bashka",
-      "published_at": "2026-09-15T21:31:30Z",
-      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "title": "ejfkdev/ddc - DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI",
+      "url": "https://github.com/ejfkdev/ddc",
+      "published_at": "2026-09-18T05:07:46Z",
+      "description": "DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 180,
-      "user": "dmtrKovalenko"
+      "stars": 187,
+      "user": "ejfkdev"
+    },
+    {
+      "title": "Beyond jj: config & tools ecosystem",
+      "url": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+      "published_at": "2026-09-20T05:51:04.335-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "abhin4v"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
