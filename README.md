@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-20 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-21 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Join the Sanity Challenge: $2,500 in prizes for FIVE winners!](https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m) | Dev.to |
 | 20 | [Welcome Thread - v 393](https://dev.to/sloan/welcome-thread-v-393-5f09) | Dev.to |
 
-<sub>Last fetched: Sun, 20 Sep 2026 23:16:37 CAT</sub>
+<sub>Last fetched: Mon, 21 Sep 2026 01:20:31 CAT</sub>
 
 
 ---
@@ -122,7 +122,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is the difference between SQL and NoSQL databases?**
+**1. `DataStructures` — Implement a function to reverse a linked list**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Iterative or recursive, three pointers
+
+</details>
+
+**2. `Database` — What is the difference between SQL and NoSQL databases?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
@@ -133,25 +144,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**3. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Hash function, database design, caching, analytics
-
-</details>
-
-**3. `SystemDesign` — How would you design a rate limiter?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Mutability, performance, use cases
 
 </details>
 
@@ -165,7 +165,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 76 | 41.3% | `████████████████████` |
-| **Tools** | 41 | 22.3% | `███████████░░░░░░░░░` |
+| **Tools** | 42 | 22.8% | `███████████░░░░░░░░░` |
 | **JavaScript** | 40 | 21.7% | `███████████░░░░░░░░░` |
 | **Python** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Cloud** | 24 | 13.0% | `██████░░░░░░░░░░░░░░` |
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 20 Sep 2026 21:16:37 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 20 Sep 2026 23:20:31 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

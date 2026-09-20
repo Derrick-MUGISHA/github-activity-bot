@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 740,
       "user": "theoephraim"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1515,
       "user": "jarrodwatts"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 277,
       "user": "Lumid-Off"
     },
     {
@@ -785,23 +785,11 @@
       "published_at": "2026-09-20T12:13:41.124-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "linux"
+        "unix"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "raymii"
-    },
-    {
-      "title": "AI Is an Elite Crime Spree",
-      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-      "published_at": "2026-09-19T10:44:52.572-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "law"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jcd"
     },
     {
       "title": "ChatGPT now knows what you do on other websites via ad collector",
@@ -814,6 +802,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jrgtt"
+    },
+    {
+      "title": "AI Is an Elite Crime Spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "published_at": "2026-09-19T10:44:52.572-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "law"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jcd"
     },
     {
       "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
@@ -845,6 +845,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "n.sharvarish"
+    },
+    {
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-20T21:41:08.000Z",
+      "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Robotics"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "World model companies are keeping a lot of secrets",
@@ -952,22 +968,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-20T14:00:00.000Z",
-      "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Fintech",
-        "Fundraising",
-        "Robotics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -1344,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 740,
       "user": "theoephraim"
     },
     {
@@ -1374,8 +1374,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "Sac-Y"
+    },
+    {
+      "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "published_at": "2026-09-20T05:05:12Z",
+      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "rmalde"
     },
     {
       "title": "droidrun/mobile-jev - GitHub Repository",
@@ -1389,23 +1404,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "droidrun"
-    },
-    {
-      "title": "gargpratyush/jev-router - Route to the cheapest model in claude code for your task using jev-router",
-      "url": "https://github.com/gargpratyush/jev-router",
-      "published_at": "2026-09-16T20:39:22Z",
-      "description": "Route to the cheapest model in claude code for your task using jev-router",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
-      "source": "GitHub",
-      "stars": 254,
-      "user": "gargpratyush"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -1419,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5056,
+      "stars": 5122,
       "user": "tamaratran"
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1515,
       "user": "jarrodwatts"
     },
     {
@@ -1449,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 606,
       "user": "githubnext"
     },
     {
@@ -1464,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 408,
       "user": "devagrawal09"
     },
     {
@@ -1479,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 339,
       "user": "dabit3"
     },
     {
@@ -1502,7 +1502,7 @@
       "title": "SPA with multiple steps",
       "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
       "published_at": "2026-09-20T15:06:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "html",
@@ -1950,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 11599,
+      "stars": 11739,
       "user": "browser-use"
     },
     {
@@ -1965,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 3690,
+      "stars": 3923,
       "user": "NandhaKishorM"
     },
     {
@@ -1980,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2400,
+      "stars": 2432,
       "user": "TheoLeeCJ"
     },
     {
@@ -1995,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1935,
+      "stars": 1959,
       "user": "mcncarl"
     },
     {
@@ -2010,14 +2010,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1604,
       "user": "mizorewww"
     },
     {
       "title": "Calculating metrics from different subfolders at several stations in Python",
       "url": "https://stackoverflow.com/questions/80004503/calculating-metrics-from-different-subfolders-at-several-stations-in-python",
       "published_at": "2026-09-20T20:48:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -2514,7 +2514,7 @@
       "title": "SPA with multiple steps",
       "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
       "published_at": "2026-09-20T15:06:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "html",
@@ -2651,7 +2651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "droidrun"
     },
     {
@@ -3028,7 +3028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 740,
       "user": "theoephraim"
     },
     {
@@ -3043,7 +3043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1604,
       "user": "mizorewww"
     },
     {
@@ -3510,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 740,
       "user": "theoephraim"
     },
     {
@@ -3540,8 +3540,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "Sac-Y"
+    },
+    {
+      "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "published_at": "2026-09-20T05:05:12Z",
+      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "rmalde"
     },
     {
       "title": "droidrun/mobile-jev - GitHub Repository",
@@ -3555,23 +3570,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 272,
       "user": "droidrun"
-    },
-    {
-      "title": "gargpratyush/jev-router - Route to the cheapest model in claude code for your task using jev-router",
-      "url": "https://github.com/gargpratyush/jev-router",
-      "published_at": "2026-09-16T20:39:22Z",
-      "description": "Route to the cheapest model in claude code for your task using jev-router",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75370041?v=4",
-      "source": "GitHub",
-      "stars": 254,
-      "user": "gargpratyush"
     },
     {
       "title": "browser-use/jev-ultrafast - i. am. speed.",
@@ -3585,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 11599,
+      "stars": 11739,
       "user": "browser-use"
     },
     {
@@ -3600,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 3690,
+      "stars": 3923,
       "user": "NandhaKishorM"
     },
     {
@@ -3615,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2400,
+      "stars": 2432,
       "user": "TheoLeeCJ"
     },
     {
@@ -3630,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1935,
+      "stars": 1959,
       "user": "mcncarl"
     },
     {
@@ -3645,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1604,
       "user": "mizorewww"
     },
     {
@@ -3660,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "gylive"
     },
     {
@@ -3675,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "HyNetworks"
     },
     {
@@ -3705,7 +3705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "wangyunjeff"
     },
     {
@@ -3735,7 +3735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5056,
+      "stars": 5122,
       "user": "tamaratran"
     },
     {
@@ -3750,7 +3750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1515,
       "user": "jarrodwatts"
     },
     {
@@ -3765,7 +3765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 606,
       "user": "githubnext"
     },
     {
@@ -3780,7 +3780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 408,
       "user": "devagrawal09"
     },
     {
@@ -3795,7 +3795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 339,
       "user": "dabit3"
     },
     {
@@ -3840,7 +3840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 277,
       "user": "Lumid-Off"
     },
     {
@@ -3855,7 +3855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "eliasstravik"
     },
     {
@@ -3870,7 +3870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 192,
       "user": "ejfkdev"
     },
     {
@@ -3884,6 +3884,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "abhin4v"
+    },
+    {
+      "title": "Deterministic Core, Non-Deterministic Shell",
+      "url": "https://outdata.net/blog/260803",
+      "published_at": "2026-09-20T16:13:51.416-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "testing"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "teymour"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
