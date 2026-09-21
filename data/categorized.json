@@ -226,6 +226,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
       "published_at": "2026-09-10T18:31:29Z",
@@ -284,21 +299,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-qat-cover.74744fbf.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
-      "published_at": "2026-09-16T21:28:40Z",
-      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
-      "tags": [
-        "ai",
-        "mcp",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
@@ -761,8 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 755,
       "user": "theoephraim"
+    },
+    {
+      "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "url": "https://github.com/jaredpalmer/kev",
+      "published_at": "2026-09-17T20:49:39Z",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
+      "source": "GitHub",
+      "stars": 2362,
+      "user": "jaredpalmer"
     },
     {
       "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 211,
       "user": "itsmostafa"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 5534,
       "user": "zai-org"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1787,
+      "stars": 1832,
       "user": "jarrodwatts"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 585,
       "user": "hydra-db"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Lumid-Off"
     },
     {
@@ -873,7 +888,7 @@
       "title": "Playwright installation fails on Linux Mint Gigi",
       "url": "https://stackoverflow.com/questions/80004634/playwright-installation-fails-on-linux-mint-gigi",
       "published_at": "2026-09-21T11:18:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "python",
         "playwright",
@@ -884,10 +899,56 @@
       "user": "Horus Lupercal"
     },
     {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "published_at": "2026-09-21T20:15:58.000Z",
+      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "tags": [
+        "AI",
+        "mathematics",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-21T19:25:00.000Z",
+      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Fintech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jessica Barrera"
+    },
+    {
+      "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "published_at": "2026-09-21T19:19:21.000Z",
+      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "tags": [
+        "AI",
+        "Apps",
+        "TC",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
       "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
       "published_at": "2026-09-21T18:23:05.000Z",
-      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50 megawatt nuclear power plant.",
+      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
       "tags": [
         "Climate",
         "Kairos Power",
@@ -901,10 +962,11 @@
       "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
       "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
       "published_at": "2026-09-21T17:55:18.000Z",
-      "description": "Muse isn't welcome as a shopper anymore.",
+      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
       "tags": [
         "AI",
         "Amazon",
+        "In Brief",
         "Meta",
         "muse"
       ],
@@ -919,7 +981,9 @@
       "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
       "tags": [
         "AI",
-        "Startup Battlefield 200"
+        "accounting",
+        "Startup Battlefield 200",
+        "Tabby"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -956,51 +1020,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-21T14:30:00.000Z",
-      "description": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Google",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-21T14:15:00.000Z",
-      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Climate",
-        "Fundraising",
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
-      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
-      "published_at": "2026-09-21T13:49:00.000Z",
-      "description": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "health benefits"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
@@ -1363,8 +1382,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 755,
       "user": "theoephraim"
+    },
+    {
+      "title": "Sac-Y/Jev-cu - GitHub Repository",
+      "url": "https://github.com/Sac-Y/Jev-cu",
+      "published_at": "2026-09-18T16:56:08Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "source": "GitHub",
+      "stars": 541,
+      "user": "Sac-Y"
     },
     {
       "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
@@ -1382,21 +1416,6 @@
       "user": "dofastted"
     },
     {
-      "title": "Sac-Y/Jev-cu - GitHub Repository",
-      "url": "https://github.com/Sac-Y/Jev-cu",
-      "published_at": "2026-09-18T16:56:08Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
-      "source": "GitHub",
-      "stars": 539,
-      "user": "Sac-Y"
-    },
-    {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
       "url": "https://github.com/rmalde/minecraft-agent",
       "published_at": "2026-09-20T05:05:12Z",
@@ -1408,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 460,
       "user": "rmalde"
     },
     {
@@ -1423,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "droidrun"
     },
     {
@@ -1438,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5898,
+      "stars": 5933,
       "user": "tamaratran"
     },
     {
@@ -1453,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 5534,
       "user": "zai-org"
     },
     {
@@ -1468,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1787,
+      "stars": 1832,
       "user": "jarrodwatts"
     },
     {
@@ -1483,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 694,
       "user": "githubnext"
     },
     {
@@ -1498,7 +1517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 585,
       "user": "hydra-db"
     },
     {
@@ -1514,6 +1533,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "daniele"
+    },
+    {
+      "title": "Trouble with getting RGB data from getImageData()",
+      "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
+      "published_at": "2026-09-21T19:00:35.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MijiGamin1"
     },
     {
       "title": "How can I use a composite IN query with Postgres.js?",
@@ -1533,7 +1565,7 @@
       "title": "How to make it so tab doesn't go to the next text box in HTML?",
       "url": "https://stackoverflow.com/questions/80004679/how-to-make-it-so-tab-doesnt-go-to-the-next-text-box-in-html",
       "published_at": "2026-09-21T13:50:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -1542,20 +1574,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AB C"
-    },
-    {
-      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
-      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
-      "published_at": "2026-09-21T02:20:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "css",
-        "lottie"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hann Undefined"
     },
     {
       "title": "React input form not rendering",
@@ -1572,20 +1590,18 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "How to configure pg to work natively with Temporal.PlainDate?",
-      "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
-      "published_at": "2026-09-20T22:54:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
+      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
+      "published_at": "2026-09-21T02:20:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
-        "postgresql",
-        "date",
-        "node-postgres",
-        "temporal"
+        "css",
+        "lottie"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "hb20007"
+      "user": "Hann Undefined"
     },
     {
       "title": "Toggle tab panes using onclick",
@@ -1600,6 +1616,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
+    },
+    {
+      "title": "How to configure pg to work natively with Temporal.PlainDate?",
+      "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
+      "published_at": "2026-09-20T22:54:29.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "date",
+        "node-postgres",
+        "temporal"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hb20007"
     },
     {
       "title": "Scrape from a Javascript table",
@@ -1642,22 +1674,10 @@
       "user": "timholz"
     },
     {
-      "title": "How can I get \"stringified\" object with nested objects?",
-      "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
-      "published_at": "2026-09-18T20:32:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "LUN"
-    },
-    {
       "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
       "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
       "published_at": "2026-09-21T18:23:05.000Z",
-      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50 megawatt nuclear power plant.",
+      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
       "tags": [
         "Climate",
         "Kairos Power",
@@ -2010,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 15209,
+      "stars": 15521,
       "user": "browser-use"
     },
     {
@@ -2025,7 +2045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 9230,
+      "stars": 9838,
       "user": "NandhaKishorM"
     },
     {
@@ -2040,7 +2060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3401,
+      "stars": 3674,
       "user": "mizorewww"
     },
     {
@@ -2055,37 +2075,61 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3021,
+      "stars": 3176,
       "user": "TheoLeeCJ"
     },
     {
-      "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "url": "https://github.com/mcncarl/jianying-headless",
-      "published_at": "2026-09-15T11:51:15Z",
-      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "url": "https://github.com/jaredpalmer/kev",
+      "published_at": "2026-09-17T20:49:39Z",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2348,
-      "user": "mcncarl"
+      "stars": 2362,
+      "user": "jaredpalmer"
     },
     {
-      "title": "Playwright installation fails on Linux Mint Gigi",
-      "url": "https://stackoverflow.com/questions/80004634/playwright-installation-fails-on-linux-mint-gigi",
-      "published_at": "2026-09-21T11:18:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "Subclassing mysql.connector",
+      "url": "https://stackoverflow.com/questions/80004790/subclassing-mysql-connector",
+      "published_at": "2026-09-21T21:38:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "playwright",
-        "linux-mint"
+        "mysql"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Horus Lupercal"
+      "user": "NickC"
+    },
+    {
+      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
+      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
+      "published_at": "2026-09-21T21:15:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "unknownx"
+    },
+    {
+      "title": "Projectile flies horizontally instead of toward the clicked point",
+      "url": "https://stackoverflow.com/questions/80004776/projectile-flies-horizontally-instead-of-toward-the-clicked-point",
+      "published_at": "2026-09-21T20:50:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "panda3d"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marek"
     },
     {
       "title": "Necessary to check if mysql.connector is connected",
@@ -2099,6 +2143,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "Playwright installation fails on Linux Mint Gigi",
+      "url": "https://stackoverflow.com/questions/80004634/playwright-installation-fails-on-linux-mint-gigi",
+      "published_at": "2026-09-21T11:18:35.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "python",
+        "playwright",
+        "linux-mint"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Horus Lupercal"
     },
     {
       "title": "Finding a specific phrase in a text using Neuro-Linguistic Programming in Python",
@@ -2168,47 +2226,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Auguste Eclancher"
-    },
-    {
-      "title": "Replace a printed line when it overflows to the next line",
-      "url": "https://stackoverflow.com/questions/80004341/replace-a-printed-line-when-it-overflows-to-the-next-line",
-      "published_at": "2026-09-19T20:09:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kali"
-    },
-    {
-      "title": "sympy parse/expand without alphabetical ordering",
-      "url": "https://stackoverflow.com/questions/80004052/sympy-parse-expand-without-alphabetical-ordering",
-      "published_at": "2026-09-18T13:03:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "parsing",
-        "sympy",
-        "abstract-syntax-tree"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luca Braglia"
-    },
-    {
-      "title": "Advice for Folium Map",
-      "url": "https://stackoverflow.com/questions/80004404/advice-for-folium-map",
-      "published_at": "2026-09-20T07:05:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "advice",
-        "python",
-        "folium"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TXpy890"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
@@ -2499,10 +2516,23 @@
       "user": "velmu"
     },
     {
+      "title": "Trouble with getting RGB data from getImageData()",
+      "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
+      "published_at": "2026-09-21T19:00:35.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MijiGamin1"
+    },
+    {
       "title": "How to make it so tab doesn't go to the next text box in HTML?",
       "url": "https://stackoverflow.com/questions/80004679/how-to-make-it-so-tab-doesnt-go-to-the-next-text-box-in-html",
       "published_at": "2026-09-21T13:50:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -2511,20 +2541,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AB C"
-    },
-    {
-      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
-      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
-      "published_at": "2026-09-21T02:20:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "css",
-        "lottie"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hann Undefined"
     },
     {
       "title": "React input form not rendering",
@@ -2539,6 +2555,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
+    },
+    {
+      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
+      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
+      "published_at": "2026-09-21T02:20:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "css",
+        "lottie"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hann Undefined"
     },
     {
       "title": "Toggle tab panes using onclick",
@@ -2685,7 +2715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "droidrun"
     },
     {
@@ -2702,6 +2732,22 @@
       "source": "GitHub",
       "stars": 173,
       "user": "kdbhalala"
+    },
+    {
+      "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "published_at": "2026-09-21T19:19:21.000Z",
+      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "tags": [
+        "AI",
+        "Apps",
+        "TC",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -2782,6 +2828,21 @@
       "user": "xbill"
     },
     {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
       "published_at": "2026-09-10T18:31:29Z",
@@ -2825,21 +2886,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
-      "published_at": "2026-09-16T21:28:40Z",
-      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
-      "tags": [
-        "ai",
-        "mcp",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
@@ -2987,7 +3033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 755,
       "user": "theoephraim"
     },
     {
@@ -3002,7 +3048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3401,
+      "stars": 3674,
       "user": "mizorewww"
     },
     {
@@ -3091,6 +3137,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hb20007"
+    },
+    {
+      "title": "Subclassing mysql.connector",
+      "url": "https://stackoverflow.com/questions/80004790/subclassing-mysql-connector",
+      "published_at": "2026-09-21T21:38:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "mysql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Necessary to check if mysql.connector is connected",
@@ -3301,20 +3360,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Software sandboxing: The basics (2025)",
-      "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-      "published_at": "2026-09-20T09:13:11.598-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming",
-        "security",
-        "unix"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vinipsmaker"
-    },
-    {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
       "published_at": "2026-09-18T16:03:13.000Z",
@@ -3407,21 +3452,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
-      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
-      "published_at": "2026-09-16T02:20:49Z",
-      "description": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.",
-      "tags": [
-        "iceberg",
-        "aiagents",
-        "lakehouse",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
       "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
       "published_at": "2026-09-16T21:28:40Z",
@@ -3435,6 +3465,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
+      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
+      "published_at": "2026-09-16T02:20:49Z",
+      "description": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.",
+      "tags": [
+        "iceberg",
+        "aiagents",
+        "lakehouse",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
@@ -3574,8 +3619,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 755,
       "user": "theoephraim"
+    },
+    {
+      "title": "Sac-Y/Jev-cu - GitHub Repository",
+      "url": "https://github.com/Sac-Y/Jev-cu",
+      "published_at": "2026-09-18T16:56:08Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "source": "GitHub",
+      "stars": 541,
+      "user": "Sac-Y"
     },
     {
       "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
@@ -3593,21 +3653,6 @@
       "user": "dofastted"
     },
     {
-      "title": "Sac-Y/Jev-cu - GitHub Repository",
-      "url": "https://github.com/Sac-Y/Jev-cu",
-      "published_at": "2026-09-18T16:56:08Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
-      "source": "GitHub",
-      "stars": 539,
-      "user": "Sac-Y"
-    },
-    {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
       "url": "https://github.com/rmalde/minecraft-agent",
       "published_at": "2026-09-20T05:05:12Z",
@@ -3619,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 460,
       "user": "rmalde"
     },
     {
@@ -3634,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "droidrun"
     },
     {
@@ -3649,7 +3694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 15209,
+      "stars": 15521,
       "user": "browser-use"
     },
     {
@@ -3664,7 +3709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 9230,
+      "stars": 9838,
       "user": "NandhaKishorM"
     },
     {
@@ -3679,7 +3724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3401,
+      "stars": 3674,
       "user": "mizorewww"
     },
     {
@@ -3694,23 +3739,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3021,
+      "stars": 3176,
       "user": "TheoLeeCJ"
     },
     {
-      "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "url": "https://github.com/mcncarl/jianying-headless",
-      "published_at": "2026-09-15T11:51:15Z",
-      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "url": "https://github.com/jaredpalmer/kev",
+      "published_at": "2026-09-17T20:49:39Z",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2348,
-      "user": "mcncarl"
+      "stars": 2362,
+      "user": "jaredpalmer"
     },
     {
       "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
@@ -3724,7 +3769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 561,
       "user": "gylive"
     },
     {
@@ -3754,7 +3799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 211,
       "user": "itsmostafa"
     },
     {
@@ -3799,7 +3844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5898,
+      "stars": 5933,
       "user": "tamaratran"
     },
     {
@@ -3814,7 +3859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 5534,
       "user": "zai-org"
     },
     {
@@ -3829,7 +3874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1787,
+      "stars": 1832,
       "user": "jarrodwatts"
     },
     {
@@ -3844,7 +3889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 694,
       "user": "githubnext"
     },
     {
@@ -3859,7 +3904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 585,
       "user": "hydra-db"
     },
     {
@@ -3874,7 +3919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Lumid-Off"
     },
     {
@@ -3889,7 +3934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 453,
       "user": "Haleclipse"
     },
     {
@@ -3904,7 +3949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 281,
       "user": "eliasstravik"
     },
     {
@@ -3919,7 +3964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 212,
       "user": "ejfkdev"
     },
     {
