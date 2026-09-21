@@ -91,21 +91,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
-      "published_at": "2026-09-16T15:39:30Z",
-      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "tags": [
-        "ai",
-        "docker",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
       "published_at": "2026-09-13T18:25:49Z",
@@ -462,6 +447,21 @@
       "user": "Alister Baroi"
     },
     {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
+    },
+    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
       "published_at": "2026-08-17T20:12:46Z",
@@ -477,19 +477,19 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
+      "published_at": "2026-09-16T15:39:30Z",
+      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
       "tags": [
         "ai",
-        "firebase",
-        "gemini",
-        "angular"
+        "docker",
+        "llm",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
       "source": "Dev.to",
-      "user": "Wayne Gakuo"
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 755,
       "user": "theoephraim"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 181,
       "user": "itsmostafa"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 3851,
+      "stars": 5055,
       "user": "zai-org"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1711,
       "user": "jarrodwatts"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 419,
       "user": "Lumid-Off"
     },
     {
@@ -812,6 +812,7 @@
       "published_at": "2026-09-20T12:43:10.204-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "ai",
         "privacy"
       ],
       "cover_image": null,
@@ -822,7 +823,7 @@
       "title": "How to configure pg to work natively with Temporal.PlainDate?",
       "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
       "published_at": "2026-09-20T22:54:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "postgresql",
@@ -835,20 +836,32 @@
       "user": "hb20007"
     },
     {
-      "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
-      "url": "https://stackoverflow.com/questions/80004484/how-should-betterantispam-discord-js-offload-anti-spam-and-anti-raid-work-so-t",
-      "published_at": "2026-09-20T18:31:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "title": "Puppeteer wait until page is completely loaded",
+      "url": "https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded",
+      "published_at": "2018-09-25T11:35:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 143",
       "tags": [
         "javascript",
-        "node.js",
-        "asynchronous",
-        "discord",
-        "discord.js"
+        "pdf-generation",
+        "puppeteer",
+        "google-chrome-headless"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "BetterAntispam"
+      "user": "n.sharvarish"
+    },
+    {
+      "title": "Playwright installation fails on Linux Mint Gigi",
+      "url": "https://stackoverflow.com/questions/80004634/playwright-installation-fails-on-linux-mint-gigi",
+      "published_at": "2026-09-21T11:18:35.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Horus Lupercal"
     },
     {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -884,7 +897,7 @@
       "title": "Is the AI industry really ready to slow down?",
       "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "published_at": "2026-09-20T18:56:04.000Z",
-      "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "description": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "tags": [
         "AI",
         "Government & Policy",
@@ -1112,21 +1125,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "ELT with Dataform on Google Cloud",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
-      "published_at": "2026-09-16T16:29:00Z",
-      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
-      "tags": [
-        "dataform",
-        "bigquery",
-        "googlecloud",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
       "published_at": "2026-09-16T10:15:52Z",
@@ -1200,6 +1198,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
       "source": "Dev.to",
       "user": "Wayne Gakuo"
+    },
+    {
+      "title": "ELT with Dataform on Google Cloud",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
+      "published_at": "2026-09-16T16:29:00Z",
+      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
+      "tags": [
+        "dataform",
+        "bigquery",
+        "googlecloud",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1333,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 755,
       "user": "theoephraim"
     },
     {
@@ -1348,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 537,
       "user": "dofastted"
     },
     {
@@ -1363,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 524,
       "user": "Sac-Y"
     },
     {
@@ -1378,23 +1391,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 417,
       "user": "rmalde"
     },
     {
-      "title": "droidrun/mobile-jev - GitHub Repository",
-      "url": "https://github.com/droidrun/mobile-jev",
-      "published_at": "2026-09-17T10:41:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "url": "https://github.com/wy-coliney/jev-browser-use",
+      "published_at": "2026-09-18T06:58:34Z",
+      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 289,
-      "user": "droidrun"
+      "stars": 306,
+      "user": "wy-coliney"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -1408,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5497,
+      "stars": 5802,
       "user": "tamaratran"
     },
     {
@@ -1423,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 3851,
+      "stars": 5055,
       "user": "zai-org"
     },
     {
@@ -1438,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1711,
       "user": "jarrodwatts"
     },
     {
@@ -1453,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 677,
       "user": "githubnext"
     },
     {
@@ -1468,28 +1481,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 450,
       "user": "devagrawal09"
-    },
-    {
-      "title": "Scrape from a Javascript table",
-      "url": "https://stackoverflow.com/questions/80004548/scrape-from-a-javascript-table",
-      "published_at": "2026-09-21T03:42:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "advice",
-        "javascript",
-        "excel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bones"
     },
     {
       "title": "React input form not rendering",
       "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
       "published_at": "2026-09-21T00:07:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1503,7 +1502,7 @@
       "title": "How to configure pg to work natively with Temporal.PlainDate?",
       "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
       "published_at": "2026-09-20T22:54:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "postgresql",
@@ -1516,20 +1515,18 @@
       "user": "hb20007"
     },
     {
-      "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
-      "url": "https://stackoverflow.com/questions/80004484/how-should-betterantispam-discord-js-offload-anti-spam-and-anti-raid-work-so-t",
-      "published_at": "2026-09-20T18:31:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "title": "Scrape from a Javascript table",
+      "url": "https://stackoverflow.com/questions/80004548/scrape-from-a-javascript-table",
+      "published_at": "2026-09-21T03:42:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
+        "advice",
         "javascript",
-        "node.js",
-        "asynchronous",
-        "discord",
-        "discord.js"
+        "excel"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "BetterAntispam"
+      "user": "bones"
     },
     {
       "title": "onclick=\"showContent('x')\" only works once",
@@ -1546,25 +1543,10 @@
       "user": "lunaregemini"
     },
     {
-      "title": "SPA with multiple steps",
-      "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
-      "published_at": "2026-09-20T15:06:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "forms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abhishek Bhatt"
-    },
-    {
       "title": "How should I sort football standings when the API already returns a position field?",
       "url": "https://stackoverflow.com/questions/80004427/how-should-i-sort-football-standings-when-the-api-already-returns-a-position-fie",
       "published_at": "2026-09-20T11:33:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -11",
+      "description": "Stack Overflow question · 1 answers · score -12",
       "tags": [
         "javascript"
       ],
@@ -1599,20 +1581,46 @@
       "user": "LUN"
     },
     {
-      "title": "Build update from Server to Client",
-      "url": "https://stackoverflow.com/questions/80004270/build-update-from-server-to-client",
-      "published_at": "2026-09-19T11:20:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How do I correctly calculate the velocity with (key === right - key === left) * moveSpeed",
+      "url": "https://stackoverflow.com/questions/80003350/how-do-i-correctly-calculate-the-velocity-with-key-right-key-left",
+      "published_at": "2026-09-15T20:49:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
-        "advice",
         "javascript",
-        "performance",
-        "http",
-        "caching"
+        "operator-precedence"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Md Irfan Rahman Mubin"
+      "user": "VIXSIN"
+    },
+    {
+      "title": "Validate decimal numbers in JavaScript - IsNumeric()",
+      "url": "https://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric",
+      "published_at": "2008-08-20T14:21:13.000Z",
+      "description": "Stack Overflow question · 53 answers · score 2574",
+      "tags": [
+        "javascript",
+        "validation",
+        "numbers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Michael Haren"
+    },
+    {
+      "title": "Puppeteer wait until page is completely loaded",
+      "url": "https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded",
+      "published_at": "2018-09-25T11:35:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 143",
+      "tags": [
+        "javascript",
+        "pdf-generation",
+        "puppeteer",
+        "google-chrome-headless"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "n.sharvarish"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1942,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 13033,
+      "stars": 14412,
       "user": "browser-use"
     },
     {
@@ -1957,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 5670,
+      "stars": 7755,
       "user": "NandhaKishorM"
     },
     {
@@ -1972,23 +1980,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2613,
+      "stars": 2850,
       "user": "TheoLeeCJ"
-    },
-    {
-      "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "url": "https://github.com/mcncarl/jianying-headless",
-      "published_at": "2026-09-15T11:51:15Z",
-      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
-      "source": "GitHub",
-      "stars": 2139,
-      "user": "mcncarl"
     },
     {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
@@ -2002,8 +1995,64 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 2056,
+      "stars": 2706,
       "user": "mizorewww"
+    },
+    {
+      "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "published_at": "2026-09-15T11:51:15Z",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
+      "source": "GitHub",
+      "stars": 2277,
+      "user": "mcncarl"
+    },
+    {
+      "title": "Playwright installation fails on Linux Mint Gigi",
+      "url": "https://stackoverflow.com/questions/80004634/playwright-installation-fails-on-linux-mint-gigi",
+      "published_at": "2026-09-21T11:18:35.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Horus Lupercal"
+    },
+    {
+      "title": "Necessary to check if mysql.connector is connected",
+      "url": "https://stackoverflow.com/questions/80004612/necessary-to-check-if-mysql-connector-is-connected",
+      "published_at": "2026-09-21T10:06:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "mysql-connector"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "Finding a specific phrase in a text using Neuro-Linguistic Programming in Python",
+      "url": "https://stackoverflow.com/questions/80004581/finding-a-specific-phrase-in-a-text-using-neuro-linguistic-programming-in-python",
+      "published_at": "2026-09-21T07:04:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "machine-learning",
+        "deep-learning",
+        "nlp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "giak"
     },
     {
       "title": "How do I create a function to display statistics from a list?",
@@ -2037,7 +2086,7 @@
       "title": "OSError: Repo id must use alphanumeric chars, '-', '_' or '.'. The name cannot start or end with '-' or '.' ........ 'T5ForConditionalGeneration(",
       "url": "https://stackoverflow.com/questions/80004401/oserror-repo-id-must-use-alphanumeric-chars-or-the-name-cannot-s",
       "published_at": "2026-09-20T06:36:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "huggingface-transformers"
@@ -2098,48 +2147,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "sympy parse/expand without alphabetical ordering",
-      "url": "https://stackoverflow.com/questions/80004052/sympy-parse-expand-without-alphabetical-ordering",
-      "published_at": "2026-09-18T13:03:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "parsing",
-        "sympy",
-        "abstract-syntax-tree"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luca Braglia"
-    },
-    {
-      "title": "Some Non-Hashable Objects still Work as Auxiliary Data in Custom Pytree",
-      "url": "https://stackoverflow.com/questions/80004106/some-non-hashable-objects-still-work-as-auxiliary-data-in-custom-pytree",
-      "published_at": "2026-09-18T16:19:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "jax"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yahya"
-    },
-    {
-      "title": "Font size going down when you delete all text in tkinter scrolledtext",
-      "url": "https://stackoverflow.com/questions/80004137/font-size-going-down-when-you-delete-all-text-in-tkinter-scrolledtext",
-      "published_at": "2026-09-18T18:30:53.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "python",
-        "font-size",
-        "tkinter-scrolledtext"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
@@ -2221,36 +2228,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "ELT with Dataform on Google Cloud",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
-      "published_at": "2026-09-16T16:29:00Z",
-      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
-      "tags": [
-        "dataform",
-        "bigquery",
-        "googlecloud",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
-      "published_at": "2026-09-16T15:39:30Z",
-      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "tags": [
-        "ai",
-        "docker",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -2279,6 +2256,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "ELT with Dataform on Google Cloud",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
+      "published_at": "2026-09-16T16:29:00Z",
+      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
+      "tags": [
+        "dataform",
+        "bigquery",
+        "googlecloud",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
+      "published_at": "2026-09-16T15:39:30Z",
+      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
+      "tags": [
+        "ai",
+        "docker",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
@@ -2508,7 +2515,7 @@
       "title": "React input form not rendering",
       "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
       "published_at": "2026-09-21T00:07:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2531,21 +2538,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
-    },
-    {
-      "title": "SPA with multiple steps",
-      "url": "https://stackoverflow.com/questions/80004459/spa-with-multiple-steps",
-      "published_at": "2026-09-20T15:06:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "forms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abhishek Bhatt"
     },
     {
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
@@ -2635,21 +2627,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "droidrun/mobile-jev - GitHub Repository",
-      "url": "https://github.com/droidrun/mobile-jev",
-      "published_at": "2026-09-17T10:41:01Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "droidrun"
-    },
-    {
       "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
       "url": "https://github.com/kdbhalala/avdslim",
       "published_at": "2026-09-16T06:52:40Z",
@@ -2661,7 +2638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 170,
       "user": "kdbhalala"
     },
     {
@@ -2696,36 +2673,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "ELT with Dataform on Google Cloud",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
-      "published_at": "2026-09-16T16:29:00Z",
-      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
-      "tags": [
-        "dataform",
-        "bigquery",
-        "googlecloud",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
-      "published_at": "2026-09-16T15:39:30Z",
-      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "tags": [
-        "ai",
-        "docker",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
     },
     {
       "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
@@ -2922,6 +2869,36 @@
       "user": "Tanaike"
     },
     {
+      "title": "ELT with Dataform on Google Cloud",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
+      "published_at": "2026-09-16T16:29:00Z",
+      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
+      "tags": [
+        "dataform",
+        "bigquery",
+        "googlecloud",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
+      "published_at": "2026-09-16T15:39:30Z",
+      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
+      "tags": [
+        "ai",
+        "docker",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -3008,7 +2985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 755,
       "user": "theoephraim"
     },
     {
@@ -3023,21 +3000,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 2056,
+      "stars": 2706,
       "user": "mizorewww"
-    },
-    {
-      "title": "Lambda MicroEgg",
-      "url": "https://www.philipzucker.com/lambda_miller_egg/",
-      "published_at": "2026-09-20T11:04:18.544-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "formalmethods",
-        "plt"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "philzook"
     }
   ],
   "Database": [
@@ -3057,7 +3021,7 @@
       "title": "How to configure pg to work natively with Temporal.PlainDate?",
       "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
       "published_at": "2026-09-20T22:54:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "postgresql",
@@ -3068,6 +3032,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hb20007"
+    },
+    {
+      "title": "Necessary to check if mysql.connector is connected",
+      "url": "https://stackoverflow.com/questions/80004612/necessary-to-check-if-mysql-connector-is-connected",
+      "published_at": "2026-09-21T10:06:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "mysql-connector"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
@@ -3280,6 +3257,18 @@
       "user": "ewenjo"
     },
     {
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "published_at": "2026-09-21T03:56:58.850-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dimonomid"
+    },
+    {
       "title": "Software sandboxing: The basics (2025)",
       "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
       "published_at": "2026-09-20T09:13:11.598-05:00",
@@ -3324,36 +3313,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "ELT with Dataform on Google Cloud",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
-      "published_at": "2026-09-16T16:29:00Z",
-      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
-      "tags": [
-        "dataform",
-        "bigquery",
-        "googlecloud",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
-      "published_at": "2026-09-16T15:39:30Z",
-      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "tags": [
-        "ai",
-        "docker",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
     },
     {
       "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
@@ -3446,6 +3405,36 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "ELT with Dataform on Google Cloud",
+      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
+      "published_at": "2026-09-16T16:29:00Z",
+      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
+      "tags": [
+        "dataform",
+        "bigquery",
+        "googlecloud",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
+      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
+      "published_at": "2026-09-16T15:39:30Z",
+      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
+      "tags": [
+        "ai",
+        "docker",
+        "llm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3493,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 755,
       "user": "theoephraim"
     },
     {
@@ -3508,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 537,
       "user": "dofastted"
     },
     {
@@ -3523,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 524,
       "user": "Sac-Y"
     },
     {
@@ -3538,23 +3527,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 417,
       "user": "rmalde"
     },
     {
-      "title": "droidrun/mobile-jev - GitHub Repository",
-      "url": "https://github.com/droidrun/mobile-jev",
-      "published_at": "2026-09-17T10:41:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "url": "https://github.com/wy-coliney/jev-browser-use",
+      "published_at": "2026-09-18T06:58:34Z",
+      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 289,
-      "user": "droidrun"
+      "stars": 306,
+      "user": "wy-coliney"
     },
     {
       "title": "browser-use/jev-ultrafast - i. am. speed.",
@@ -3568,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 13033,
+      "stars": 14412,
       "user": "browser-use"
     },
     {
@@ -3583,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 5670,
+      "stars": 7755,
       "user": "NandhaKishorM"
     },
     {
@@ -3598,23 +3587,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2613,
+      "stars": 2850,
       "user": "TheoLeeCJ"
-    },
-    {
-      "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "url": "https://github.com/mcncarl/jianying-headless",
-      "published_at": "2026-09-15T11:51:15Z",
-      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
-      "source": "GitHub",
-      "stars": 2139,
-      "user": "mcncarl"
     },
     {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
@@ -3628,8 +3602,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 2056,
+      "stars": 2706,
       "user": "mizorewww"
+    },
+    {
+      "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "published_at": "2026-09-15T11:51:15Z",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
+      "source": "GitHub",
+      "stars": 2277,
+      "user": "mcncarl"
     },
     {
       "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
@@ -3643,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 549,
       "user": "gylive"
     },
     {
@@ -3658,8 +3647,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 245,
       "user": "HyNetworks"
+    },
+    {
+      "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "url": "https://github.com/itsmostafa/typesafe-mcp",
+      "published_at": "2026-09-17T05:23:34Z",
+      "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
+      "source": "GitHub",
+      "stars": 181,
+      "user": "itsmostafa"
     },
     {
       "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
@@ -3673,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 170,
       "user": "kdbhalala"
     },
     {
@@ -3688,23 +3692,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 168,
       "user": "wangyunjeff"
-    },
-    {
-      "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
-      "url": "https://github.com/itsmostafa/typesafe-mcp",
-      "published_at": "2026-09-17T05:23:34Z",
-      "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
-      "source": "GitHub",
-      "stars": 158,
-      "user": "itsmostafa"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -3718,7 +3707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5497,
+      "stars": 5802,
       "user": "tamaratran"
     },
     {
@@ -3733,7 +3722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 3851,
+      "stars": 5055,
       "user": "zai-org"
     },
     {
@@ -3748,7 +3737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1711,
       "user": "jarrodwatts"
     },
     {
@@ -3763,7 +3752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 677,
       "user": "githubnext"
     },
     {
@@ -3778,7 +3767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 450,
       "user": "devagrawal09"
     },
     {
@@ -3793,7 +3782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 440,
       "user": "Haleclipse"
     },
     {
@@ -3808,7 +3797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 419,
       "user": "Lumid-Off"
     },
     {
@@ -3823,7 +3812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "eliasstravik"
     },
     {
@@ -3838,7 +3827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 207,
       "user": "ejfkdev"
     },
     {
@@ -3853,32 +3842,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "dmtrKovalenko"
-    },
-    {
-      "title": "Beyond jj: config & tools ecosystem",
-      "url": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
-      "published_at": "2026-09-20T05:51:04.335-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "abhin4v"
-    },
-    {
-      "title": "Deterministic Core, Non-Deterministic Shell",
-      "url": "https://outdata.net/blog/260803",
-      "published_at": "2026-09-20T16:13:51.416-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "teymour"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
