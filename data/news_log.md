@@ -180736,3 +180736,1059 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-09-21 8:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (75 articles)
+
+#### 1. [The Symmetry of State: Why Flutter Deserves context.value and context.state](https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250)
+📅 Fri, 11 Sep 2026 01:51:14 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![The Symmetry of State: Why Flutter Deserves context.value and context.state](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png)
+
+Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between containers and BuildContext unlocks cleaner, faster reactive apps.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `programming`
+
+---
+
+#### 2. [Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4](https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b)
+📅 Mon, 14 Sep 2026 00:57:31 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg)
+
+Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small Dockerfile fixes that and gives you a persistent Debian 13 VM with systemd, your Mac user and your home folder. The VM has no GPU, so Ollama runs on macOS and the VM calls it at 192.168.64.1:8000. From inside Debian, gemma4:e2b answered at 45.2 tok/s, loaded 100% on the M3 GPU.
+
+🏷️ Tags: `debian`, `macos`, `ollama`, `linux`
+
+---
+
+#### 3. [Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9)
+📅 Thu, 17 Sep 2026 21:36:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg)
+
+A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.
+
+🏷️ Tags: `amd`, `vllm`, `rocm`, `machinelearning`
+
+---
+
+#### 4. [The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives](https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h)
+📅 Wed, 09 Sep 2026 20:19:53 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png)
+
+A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `programming`
+
+---
+
+#### 5. [Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6](https://dev.to/gde/gemma-4-on-an-old-4-gb-laptop-gpu-qat-takes-it-from-95-gib-to-16-b5l)
+📅 Thu, 10 Sep 2026 18:51:51 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-1650ti-2b-q4_0%2Fdocs%2Fdevto-cover.225eaada.jpg)
+
+Step-by-step: running Google's quantization-aware-trained Gemma 4 E2B on a 10th-gen Core i7 laptop with a 4 GB GTX 1650 Ti — why bf16 and int8 cannot fit, why the QAT GGUF does with room to spare, and managing it with an MCP server.
+
+🏷️ Tags: `gemma`, `llamacpp`, `mcp`, `cuda`
+
+---
+
+#### 6. [The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001](https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf)
+📅 Thu, 17 Sep 2026 09:57:31 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg)
+
+Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.
+
+🏷️ Tags: `security`, `devops`, `docker`, `kubernetes`
+
+---
+
+#### 7. [Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db)
+📅 Wed, 16 Sep 2026 15:39:30 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png)
+
+How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.
+
+🏷️ Tags: `ai`, `docker`, `llm`, `googlecloud`
+
+---
+
+#### 8. [Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs](https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5)
+📅 Sun, 13 Sep 2026 18:25:49 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg)
+
+The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and one server now runs in Claude Code, Codex and Antigravity CLI.
+
+🏷️ Tags: `mcp`, `python`, `gemini`, `claudecode`
+
+---
+
+#### 9. [Harness engineering doesn't mean building your own harness](https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk)
+📅 Tue, 15 Sep 2026 01:04:48 GMT
+👤 By: Tilde A. Thurium | 📌 Source: Dev.to
+
+![Harness engineering doesn't mean building your own harness](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw1f6tqns0aa4y46ct40.png)
+
+It means giving the agent enough context to do the right thing  For this week's Agent Factory...
+
+🏷️ Tags: `agents`, `ai`, `automation`, `softwareengineering`
+
+---
+
+#### 10. [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii)
+📅 Thu, 03 Sep 2026 06:44:57 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fez62u2w0ldk0fec35ytb.png)
+
+Do you ever feel like the AI world has moved forward a little too quickly?&nbsp;You hear about...
+
+🏷️ Tags: `ai`, `agents`, `mcp`, `beginners`
+
+---
+
+### 🏷️ JavaScript (40 articles)
+
+#### 1. [The Symmetry of State: Why Flutter Deserves context.value and context.state](https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250)
+📅 Fri, 11 Sep 2026 01:51:14 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![The Symmetry of State: Why Flutter Deserves context.value and context.state](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png)
+
+Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between containers and BuildContext unlocks cleaner, faster reactive apps.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `programming`
+
+---
+
+#### 2. [The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives](https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h)
+📅 Wed, 09 Sep 2026 20:19:53 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png)
+
+A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `programming`
+
+---
+
+#### 3. [ELT with Dataform on Google Cloud](https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9)
+📅 Wed, 16 Sep 2026 16:29:00 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![ELT with Dataform on Google Cloud](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png)
+
+A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.
+
+🏷️ Tags: `dataform`, `bigquery`, `googlecloud`, `dataengineering`
+
+---
+
+#### 4. [How we built a desktop companion robot with Gemma 4 and Raspberry Pi](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke)
+📅 Wed, 16 Sep 2026 10:15:52 GMT
+👤 By: bebechien | 📌 Source: Dev.to
+
+![How we built a desktop companion robot with Gemma 4 and Raspberry Pi](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png)
+
+The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.
+
+🏷️ Tags: `raspberrypi`, `gemma`, `gemini`, `robotics`
+
+---
+
+#### 5. [Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg)
+📅 Wed, 09 Sep 2026 12:48:25 GMT
+👤 By: nyaomaru | 📌 Source: Dev.to
+
+![Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif)
+
+Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...
+
+🏷️ Tags: `typescript`, `algorithms`, `opensource`, `dsa`
+
+---
+
+#### 6. [Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically](https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b)
+📅 Fri, 11 Sep 2026 06:58:39 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg)
+
+Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.
+
+🏷️ Tags: `devops`, `docker`, `go`, `cloud`
+
+---
+
+#### 7. [I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things](https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg)
+📅 Thu, 03 Sep 2026 15:24:18 GMT
+👤 By: Hemapriya Kanagala | 📌 Source: Dev.to
+
+![I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg)
+
+TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...
+
+🏷️ Tags: `discuss`, `aws`, `beginners`, `agents`
+
+---
+
+#### 8. [Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend](https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh)
+📅 Wed, 16 Sep 2026 17:18:58 GMT
+👤 By: Wayne Gakuo | 📌 Source: Dev.to
+
+![Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png)
+
+Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...
+
+🏷️ Tags: `ai`, `firebase`, `gemini`, `angular`
+
+---
+
+#### 9. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (39 articles)
+
+#### 1. [Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9)
+📅 Thu, 17 Sep 2026 21:36:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg)
+
+A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.
+
+🏷️ Tags: `amd`, `vllm`, `rocm`, `machinelearning`
+
+---
+
+#### 2. [Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs](https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5)
+📅 Sun, 13 Sep 2026 18:25:49 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg)
+
+The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and one server now runs in Claude Code, Codex and Antigravity CLI.
+
+🏷️ Tags: `mcp`, `python`, `gemini`, `claudecode`
+
+---
+
+#### 3. [A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4](https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150)
+📅 Wed, 16 Sep 2026 20:03:02 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg)
+
+Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.
+
+🏷️ Tags: `machinelearning`, `gpu`, `benchmarking`, `python`
+
+---
+
+#### 4. [An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't](https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9)
+📅 Thu, 17 Sep 2026 02:43:18 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg)
+
+One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.
+
+🏷️ Tags: `amd`, `mcp`, `rocm`, `machinelearning`
+
+---
+
+#### 5. [2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3)
+📅 Thu, 10 Sep 2026 18:31:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg)
+
+Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated to the MCP SDK 2.x.
+
+🏷️ Tags: `mcp`, `gemma`, `googlecloud`, `claudecode`
+
+---
+
+#### 6. [Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions](https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj)
+📅 Tue, 15 Sep 2026 16:32:21 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg)
+
+The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and Kiro CLI 3 needs a permissions rule before it will call the tools headless.
+
+🏷️ Tags: `kiro`, `mcp`, `gemini`, `python`
+
+---
+
+#### 7. [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod)
+📅 Thu, 27 Aug 2026 15:00:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud A2A Agent Card Field Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg)
+
+Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...
+
+🏷️ Tags: `a2a`, `multicloud`, `ai`, `python`
+
+---
+
+#### 8. [Step up to the Sheets: AI Eval Export and Illustrating Data](https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak)
+📅 Tue, 01 Sep 2026 07:00:00 GMT
+👤 By: Katie McLaughlin | 📌 Source: Dev.to
+
+![Step up to the Sheets: AI Eval Export and Illustrating Data](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp)
+
+Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...
+
+🏷️ Tags: `ai`, `python`, `datascience`, `productivity`
+
+---
+
+#### 9. [Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace](https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5)
+📅 Thu, 10 Sep 2026 02:43:19 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fklhc7kkq2althrawzb4l.png)
+
+Deterministic Sub-Second Python and Bash Execution, Zero-Trust gVisor Isolation, and Zero...
+
+🏷️ Tags: `googleappsscript`, `googlecloud`, `googlecloudrun`, `googleworkspace`
+
+---
+
+#### 10. [An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env](https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf)
+📅 Mon, 07 Sep 2026 15:57:07 GMT
+👤 By: Alister Baroi | 📌 Source: Dev.to
+
+![An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png)
+
+Every framework, every job posting, and about half of LinkedIn wants to tell you what an "AI agent"...
+
+🏷️ Tags: `ai`, `python`, `security`, `beginners`
+
+---
+
+### 🏷️ DevOps (19 articles)
+
+#### 1. [Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4](https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b)
+📅 Mon, 14 Sep 2026 00:57:31 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg)
+
+Apple's container CLI 1.4.1 cannot boot the official debian:13 image as a machine, because it has no /sbin/init. A small Dockerfile fixes that and gives you a persistent Debian 13 VM with systemd, your Mac user and your home folder. The VM has no GPU, so Ollama runs on macOS and the VM calls it at 192.168.64.1:8000. From inside Debian, gemma4:e2b answered at 45.2 tok/s, loaded 100% on the M3 GPU.
+
+🏷️ Tags: `debian`, `macos`, `ollama`, `linux`
+
+---
+
+#### 2. [The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001](https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf)
+📅 Thu, 17 Sep 2026 09:57:31 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg)
+
+Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.
+
+🏷️ Tags: `security`, `devops`, `docker`, `kubernetes`
+
+---
+
+#### 3. [ELT with Dataform on Google Cloud](https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9)
+📅 Wed, 16 Sep 2026 16:29:00 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![ELT with Dataform on Google Cloud](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png)
+
+A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.
+
+🏷️ Tags: `dataform`, `bigquery`, `googlecloud`, `dataengineering`
+
+---
+
+#### 4. [Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db)
+📅 Wed, 16 Sep 2026 15:39:30 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png)
+
+How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.
+
+🏷️ Tags: `ai`, `docker`, `llm`, `googlecloud`
+
+---
+
+#### 5. [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l)
+📅 Thu, 27 Aug 2026 17:56:45 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png)
+
+Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 6. [Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically](https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b)
+📅 Fri, 11 Sep 2026 06:58:39 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg)
+
+Discover how Gubernator delivers declarative Horizontal Pod Autoscaling (HPA) for plain Docker Compose stacks with CPU and NVIDIA GPU metrics across multi-node clusters.
+
+🏷️ Tags: `devops`, `docker`, `go`, `cloud`
+
+---
+
+#### 7. [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+📅 Tue, 25 Aug 2026 20:44:29 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png)
+
+Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 8. [Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)](https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o)
+📅 Fri, 04 Sep 2026 01:59:20 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png)
+
+Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...
+
+🏷️ Tags: `ai`, `googlecloud`, `kubernetes`, `security`
+
+---
+
+#### 9. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (10 articles)
+
+#### 1. [Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg)
+📅 Wed, 09 Sep 2026 12:48:25 GMT
+👤 By: nyaomaru | 📌 Source: Dev.to
+
+![Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif)
+
+Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...
+
+🏷️ Tags: `typescript`, `algorithms`, `opensource`, `dsa`
+
+---
+
+#### 2. [Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend](https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh)
+📅 Wed, 16 Sep 2026 17:18:58 GMT
+👤 By: Wayne Gakuo | 📌 Source: Dev.to
+
+![Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png)
+
+Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...
+
+🏷️ Tags: `ai`, `firebase`, `gemini`, `angular`
+
+---
+
+#### 3. [FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x](https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj)
+📅 Fri, 11 Sep 2026 13:20:27 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg)
+
+Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.
+
+🏷️ Tags: `mcp`, `python`, `googlecloud`, `vllm`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [React input form not rendering](https://stackoverflow.com/questions/80004523/react-input-form-not-rendering)
+📅 Mon, 21 Sep 2026 00:07:59 GMT
+👤 By: BoJacks JJ | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 3
+
+🏷️ Tags: `javascript`, `html`, `reactjs`
+
+---
+
+#### 6. [onclick="showContent('x')" only works once](https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once)
+📅 Sat, 19 Sep 2026 19:17:23 GMT
+👤 By: lunaregemini | 📌 Source: StackOverflow
+
+Stack Overflow question · 5 answers · score 4
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 7. [SPA with multiple steps](https://stackoverflow.com/questions/80004459/spa-with-multiple-steps)
+📅 Sun, 20 Sep 2026 15:06:16 GMT
+👤 By: Abhishek Bhatt | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -10
+
+🏷️ Tags: `javascript`, `html`, `css`, `forms`
+
+---
+
+#### 8. [IntersectionObserver with bxslider background-image slideshow behaves strangely](https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely)
+📅 Fri, 18 Sep 2026 14:57:42 GMT
+👤 By: timholz | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score -1
+
+🏷️ Tags: `javascript`, `html`, `intersection-observer`
+
+---
+
+#### 9. [How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript](https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/)
+📅 Fri, 18 Sep 2026 15:47:01 GMT
+👤 By: Bansidhar Kadiya | 📌 Source: freeCodeCamp
+
+High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image
+
+🏷️ Tags: `JavaScript`, `Web Development`
+
+---
+
+#### 10. [Learn How to Deploy, Secure, and Automate Full-Stack Web Apps](https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/)
+📅 Wed, 16 Sep 2026 15:28:18 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode
+
+🏷️ Tags: `full stack`, `youtube`
+
+---
+
+### 🏷️ Mobile (6 articles)
+
+#### 1. [The Symmetry of State: Why Flutter Deserves context.value and context.state](https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250)
+📅 Fri, 11 Sep 2026 01:51:14 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![The Symmetry of State: Why Flutter Deserves context.value and context.state](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png)
+
+Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between containers and BuildContext unlocks cleaner, faster reactive apps.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `programming`
+
+---
+
+#### 2. [The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives](https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h)
+📅 Wed, 09 Sep 2026 20:19:53 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png)
+
+A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `programming`
+
+---
+
+#### 3. [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8)
+📅 Sun, 30 Aug 2026 01:27:54 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png)
+
+Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and Riverpod now operate as first-class bidirectional peers at the Grand Central State Terminal.
+
+🏷️ Tags: `flutter`, `dart`, `riverpod`, `architecture`
+
+---
+
+#### 4. [droidrun/mobile-jev - GitHub Repository](https://github.com/droidrun/mobile-jev)
+📅 Thu, 17 Sep 2026 10:41:01 GMT
+👤 By: droidrun | 📌 Source: GitHub
+
+![droidrun/mobile-jev - GitHub Repository](https://avatars.githubusercontent.com/u/207381488?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 289
+
+---
+
+#### 5. [kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.](https://github.com/kdbhalala/avdslim)
+📅 Wed, 16 Sep 2026 06:52:40 GMT
+👤 By: kdbhalala | 📌 Source: GitHub
+
+![kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.](https://avatars.githubusercontent.com/u/20184673?v=4)
+
+⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 164
+
+---
+
+#### 6. [The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native](https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/)
+📅 Sat, 19 Sep 2026 17:15:45 GMT
+👤 By: Farouq Seriki | 📌 Source: freeCodeCamp
+
+Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th
+
+🏷️ Tags: `React Native`, `iOS`, `Swift`, `Mobile Development`, `TypeScript`
+
+---
+
+### 🏷️ Cloud (24 articles)
+
+#### 1. [Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9)
+📅 Thu, 17 Sep 2026 21:36:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg)
+
+A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.
+
+🏷️ Tags: `amd`, `vllm`, `rocm`, `machinelearning`
+
+---
+
+#### 2. [ELT with Dataform on Google Cloud](https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9)
+📅 Wed, 16 Sep 2026 16:29:00 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![ELT with Dataform on Google Cloud](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png)
+
+A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.
+
+🏷️ Tags: `dataform`, `bigquery`, `googlecloud`, `dataengineering`
+
+---
+
+#### 3. [Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db)
+📅 Wed, 16 Sep 2026 15:39:30 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png)
+
+How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.
+
+🏷️ Tags: `ai`, `docker`, `llm`, `googlecloud`
+
+---
+
+#### 4. [An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't](https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9)
+📅 Thu, 17 Sep 2026 02:43:18 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg)
+
+One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.
+
+🏷️ Tags: `amd`, `mcp`, `rocm`, `machinelearning`
+
+---
+
+#### 5. [2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3)
+📅 Thu, 10 Sep 2026 18:31:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg)
+
+Step by step deployment of Gemma 4 E2B to a Cloud Run NVIDIA L4 GPU with vLLM, managed by a Python MCP server migrated to the MCP SDK 2.x.
+
+🏷️ Tags: `mcp`, `gemma`, `googlecloud`, `claudecode`
+
+---
+
+#### 6. [How we built a desktop companion robot with Gemma 4 and Raspberry Pi](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke)
+📅 Wed, 16 Sep 2026 10:15:52 GMT
+👤 By: bebechien | 📌 Source: Dev.to
+
+![How we built a desktop companion robot with Gemma 4 and Raspberry Pi](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png)
+
+The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.
+
+🏷️ Tags: `raspberrypi`, `gemma`, `gemini`, `robotics`
+
+---
+
+#### 7. [Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't](https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g)
+📅 Wed, 16 Sep 2026 02:20:49 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg)
+
+Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.
+
+🏷️ Tags: `iceberg`, `aiagents`, `lakehouse`, `dataengineering`
+
+---
+
+#### 8. [Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script](https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg)
+📅 Tue, 08 Sep 2026 05:06:23 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png)
+
+Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...
+
+🏷️ Tags: `googleworkspace`, `googlecloud`, `bigquery`, `apacheiceberg`
+
+---
+
+#### 9. [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l)
+📅 Thu, 27 Aug 2026 17:56:45 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png)
+
+Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 10. [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod)
+📅 Thu, 27 Aug 2026 15:00:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud A2A Agent Card Field Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg)
+
+Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...
+
+🏷️ Tags: `a2a`, `multicloud`, `ai`, `python`
+
+---
+
+### 🏷️ Database (3 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [How to configure pg to work natively with Temporal.PlainDate?](https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate)
+📅 Sun, 20 Sep 2026 22:54:29 GMT
+👤 By: hb20007 | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score 0
+
+🏷️ Tags: `javascript`, `postgresql`, `date`, `node-postgres`, `temporal`
+
+---
+
+#### 3. [How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite](https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/)
+📅 Thu, 17 Sep 2026 23:27:03 GMT
+👤 By: Hugo Teijiz | 📌 Source: freeCodeCamp
+
+Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users
+
+🏷️ Tags: `legacy code`, `software architecture`, `migration`, `refactoring`, `Artificial Intelligence`
+
+---
+
+### 🏷️ Security (17 articles)
+
+#### 1. [The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001](https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf)
+📅 Thu, 17 Sep 2026 09:57:31 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg)
+
+Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.
+
+🏷️ Tags: `security`, `devops`, `docker`, `kubernetes`
+
+---
+
+#### 2. [An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env](https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf)
+📅 Mon, 07 Sep 2026 15:57:07 GMT
+👤 By: Alister Baroi | 📌 Source: Dev.to
+
+![An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png)
+
+Every framework, every job posting, and about half of LinkedIn wants to tell you what an "AI agent"...
+
+🏷️ Tags: `ai`, `python`, `security`, `beginners`
+
+---
+
+#### 3. [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+📅 Tue, 25 Aug 2026 20:44:29 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png)
+
+Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 4. [Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)](https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o)
+📅 Fri, 04 Sep 2026 01:59:20 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png)
+
+Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...
+
+🏷️ Tags: `ai`, `googlecloud`, `kubernetes`, `security`
+
+---
+
+#### 5. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (42 articles)
+
+#### 1. [Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9)
+📅 Thu, 17 Sep 2026 21:36:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg)
+
+A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.
+
+🏷️ Tags: `amd`, `vllm`, `rocm`, `machinelearning`
+
+---
+
+#### 2. [ELT with Dataform on Google Cloud](https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9)
+📅 Wed, 16 Sep 2026 16:29:00 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![ELT with Dataform on Google Cloud](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png)
+
+A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.
+
+🏷️ Tags: `dataform`, `bigquery`, `googlecloud`, `dataengineering`
+
+---
+
+#### 3. [Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db)
+📅 Wed, 16 Sep 2026 15:39:30 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png)
+
+How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.
+
+🏷️ Tags: `ai`, `docker`, `llm`, `googlecloud`
+
+---
+
+#### 4. [Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't](https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g)
+📅 Wed, 16 Sep 2026 02:20:49 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg)
+
+Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.
+
+🏷️ Tags: `iceberg`, `aiagents`, `lakehouse`, `dataengineering`
+
+---
+
+#### 5. [Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions](https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj)
+📅 Tue, 15 Sep 2026 16:32:21 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg)
+
+The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and Kiro CLI 3 needs a permissions rule before it will call the tools headless.
+
+🏷️ Tags: `kiro`, `mcp`, `gemini`, `python`
+
+---
+
+#### 6. [Progressive Disclosure: What, Where, When, and Why](https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3)
+📅 Wed, 16 Sep 2026 18:01:55 GMT
+👤 By:  Gábor Mészáros | 📌 Source: Dev.to
+
+![Progressive Disclosure: What, Where, When, and Why](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png)
+
+Do you remember when we first started using AGENTS.md files?   You would have a project root file...
+
+🏷️ Tags: `ai`, `claude`, `performance`, `productivity`
+
+---
+
+#### 7. [Step up to the Sheets: AI Eval Export and Illustrating Data](https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak)
+📅 Tue, 01 Sep 2026 07:00:00 GMT
+👤 By: Katie McLaughlin | 📌 Source: Dev.to
+
+![Step up to the Sheets: AI Eval Export and Illustrating Data](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp)
+
+Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...
+
+🏷️ Tags: `ai`, `python`, `datascience`, `productivity`
+
+---
+
+#### 8. [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)
+📅 Tue, 25 Aug 2026 13:36:11 GMT
+👤 By: Ashley Childress | 📌 Source: Dev.to
+
+![What Do You Do While AI Codes?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png)
+
+AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one "quick" habit that makes you the bottleneck.
+
+🏷️ Tags: `discuss`, `ai`, `productivity`, `devex`
+
+---
+
+#### 9. [Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom](https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m)
+📅 Fri, 11 Sep 2026 23:07:27 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png)
+
+Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `productivity`
+
+---
+
+#### 10. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+

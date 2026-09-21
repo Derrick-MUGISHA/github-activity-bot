@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-21 3:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-21 8:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -108,12 +108,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 14 | [A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4](https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150) | Dev.to |
 | 15 | [An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't](https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9) | Dev.to |
 | 16 | [Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford's Code in Place X, and Dev3Pack Hackathon](https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm) | Dev.to |
-| 17 | [Join the Sanity Challenge: $2,500 in prizes for FIVE winners!](https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m) | Dev.to |
-| 18 | [Welcome Thread - v 393](https://dev.to/sloan/welcome-thread-v-393-5f09) | Dev.to |
+| 17 | [Welcome Thread - v 393](https://dev.to/sloan/welcome-thread-v-393-5f09) | Dev.to |
+| 18 | [Join the Sanity Challenge: $2,500 in prizes for FIVE winners!](https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m) | Dev.to |
 | 19 | [2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code](https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3) | Dev.to |
 | 20 | [How we built a desktop companion robot with Gemma 4 and Raspberry Pi](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke) | Dev.to |
 
-<sub>Last fetched: Mon, 21 Sep 2026 03:17:29 CAT</sub>
+<sub>Last fetched: Mon, 21 Sep 2026 08:34:01 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — Implement rate limiting for an API**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Hash function, database design, caching, analytics
 
 </details>
 
-**2. `SystemDesign` — Design Twitter's timeline feature**
+**2. `Python` — What are generators and when would you use them?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-**3. `React` — What is the Virtual DOM and how does React use it?**
+**3. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.3% | `████████████████████` |
+| **AI** | 75 | 40.8% | `████████████████████` |
 | **Tools** | 42 | 22.8% | `███████████░░░░░░░░░` |
 | **JavaScript** | 40 | 21.7% | `███████████░░░░░░░░░` |
 | **Python** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Cloud** | 24 | 13.0% | `██████░░░░░░░░░░░░░░` |
 | **DevOps** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,15 +194,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.9%
-JavaScript      ██████████████████████████ 24.2%
-Python          █████████████████████████ 23.6%
-Java            ██████████████████ 17.0%
-Rust            █████ 4.2%
-Swift           █ 1.2%
+Go              ██████████████████████████████ 28.0%
+JavaScript      ██████████████████████████ 24.4%
+Python          ██████████████████████████ 23.8%
+Java            ██████████████████ 17.1%
+Rust            █████ 4.3%
 CSharp          █ 0.6%
 Ruby            █ 0.6%
 Kotlin          █ 0.6%
+Swift           █ 0.6%
 
 ```
 
@@ -213,9 +213,9 @@ pie title Programming Languages Distribution
     "Python" : 39
     "Java" : 28
     "Rust" : 7
-    "Swift" : 2
     "CSharp" : 1
     "Ruby" : 1
+    "Kotlin" : 1
 ```
 
 
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 21 Sep 2026 01:17:29 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 21 Sep 2026 06:34:01 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
