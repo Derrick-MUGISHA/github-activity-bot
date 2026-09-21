@@ -91,36 +91,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "tags": [
-        "ai",
-        "claude",
-        "performance",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
-    },
-    {
       "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
       "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
       "published_at": "2026-09-16T15:39:30Z",
@@ -345,6 +315,21 @@
       "user": "ujja"
     },
     {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "tags": [
+        "ai",
+        "claude",
+        "performance",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
+    },
+    {
       "title": "My Agents Never Get Tired. I Do: On Satisficing",
       "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
       "published_at": "2026-09-11T03:49:55Z",
@@ -490,6 +475,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
     },
     {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 742,
       "user": "theoephraim"
     },
     {
@@ -746,23 +746,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1515,
+      "stars": 1535,
       "user": "jarrodwatts"
     },
     {
-      "title": "jackwener/wx-cli-again - WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
-      "url": "https://github.com/jackwener/wx-cli-again",
-      "published_at": "2026-09-14T07:43:27Z",
-      "description": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
+      "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "url": "https://github.com/zai-org/ZCode",
+      "published_at": "2026-09-20T12:01:16Z",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 698,
-      "user": "jackwener"
+      "stars": 385,
+      "user": "zai-org"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 286,
       "user": "Lumid-Off"
     },
     {
@@ -816,6 +816,22 @@
       "user": "jcd"
     },
     {
+      "title": "How to configure pg to work natively with Temporal.PlainDate?",
+      "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
+      "published_at": "2026-09-20T22:54:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "date",
+        "node-postgres",
+        "temporal"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hb20007"
+    },
+    {
       "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
       "url": "https://stackoverflow.com/questions/80004484/how-should-betterantispam-discord-js-offload-anti-spam-and-anti-raid-work-so-t",
       "published_at": "2026-09-20T18:31:59.000Z",
@@ -830,21 +846,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BetterAntispam"
-    },
-    {
-      "title": "Puppeteer wait until page is completely loaded",
-      "url": "https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded",
-      "published_at": "2018-09-25T11:35:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 143",
-      "tags": [
-        "javascript",
-        "pdf-generation",
-        "puppeteer",
-        "google-chrome-headless"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "n.sharvarish"
     },
     {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -914,11 +915,11 @@
       "published_at": "2026-09-20T18:00:00.000Z",
       "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
       "tags": [
-        "Startups",
         "AI",
         "Social",
-        "TechCrunch Disrupt",
-        "Startup Battlefield 200"
+        "Startups",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1123,21 +1124,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
-    },
-    {
       "title": "ELT with Dataform on Google Cloud",
       "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
       "published_at": "2026-09-16T16:29:00Z",
@@ -1211,6 +1197,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1344,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 742,
       "user": "theoephraim"
     },
     {
@@ -1374,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 477,
       "user": "Sac-Y"
     },
     {
@@ -1389,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 292,
       "user": "rmalde"
     },
     {
@@ -1404,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 275,
       "user": "droidrun"
     },
     {
@@ -1419,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5122,
+      "stars": 5199,
       "user": "tamaratran"
     },
     {
@@ -1434,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1515,
+      "stars": 1535,
       "user": "jarrodwatts"
     },
     {
@@ -1449,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 613,
       "user": "githubnext"
     },
     {
@@ -1464,23 +1465,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 410,
       "user": "devagrawal09"
     },
     {
-      "title": "dabit3/jev-experiments - GitHub Repository",
-      "url": "https://github.com/dabit3/jev-experiments",
-      "published_at": "2026-09-17T23:36:37Z",
-      "description": "Trending GitHub Repository",
+      "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "url": "https://github.com/zai-org/ZCode",
+      "published_at": "2026-09-20T12:01:16Z",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 339,
-      "user": "dabit3"
+      "stars": 385,
+      "user": "zai-org"
+    },
+    {
+      "title": "React input form not rendering",
+      "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
+      "published_at": "2026-09-21T00:07:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BoJacks JJ"
+    },
+    {
+      "title": "How to configure pg to work natively with Temporal.PlainDate?",
+      "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
+      "published_at": "2026-09-20T22:54:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "date",
+        "node-postgres",
+        "temporal"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hb20007"
     },
     {
       "title": "How should BetterAntiSpam (discord.js) offload anti-spam and anti-raid work so the gateway thread can still ACK interactions?",
@@ -1593,34 +1624,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "VIXSIN"
-    },
-    {
-      "title": "Puppeteer wait until page is completely loaded",
-      "url": "https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded",
-      "published_at": "2018-09-25T11:35:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 143",
-      "tags": [
-        "javascript",
-        "pdf-generation",
-        "puppeteer",
-        "google-chrome-headless"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "n.sharvarish"
-    },
-    {
-      "title": "Adding two numbers concatenates them instead of calculating the sum",
-      "url": "https://stackoverflow.com/questions/14496531/adding-two-numbers-concatenates-them-instead-of-calculating-the-sum",
-      "published_at": "2013-01-24T08:06:43.000Z",
-      "description": "Stack Overflow question · 24 answers · score 262",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "okconfused"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1950,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 11739,
+      "stars": 11960,
       "user": "browser-use"
     },
     {
@@ -1965,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 3923,
+      "stars": 4218,
       "user": "NandhaKishorM"
     },
     {
@@ -1980,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2432,
+      "stars": 2456,
       "user": "TheoLeeCJ"
     },
     {
@@ -1995,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 2002,
       "user": "mcncarl"
     },
     {
@@ -2010,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1604,
+      "stars": 1721,
       "user": "mizorewww"
     },
     {
@@ -2055,7 +2058,7 @@
       "title": "Advice for Folium Map",
       "url": "https://stackoverflow.com/questions/80004404/advice-for-folium-map",
       "published_at": "2026-09-20T07:05:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "advice",
         "python",
@@ -2454,21 +2457,6 @@
   ],
   "WebDev": [
     {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
-    },
-    {
       "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
       "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
       "published_at": "2026-09-09T12:48:25Z",
@@ -2482,6 +2470,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
+    },
+    {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
     },
     {
       "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
@@ -2509,6 +2512,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "React input form not rendering",
+      "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
+      "published_at": "2026-09-21T00:07:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BoJacks JJ"
     },
     {
       "title": "SPA with multiple steps",
@@ -2552,19 +2569,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "timholz"
-    },
-    {
-      "title": "Adding two numbers concatenates them instead of calculating the sum",
-      "url": "https://stackoverflow.com/questions/14496531/adding-two-numbers-concatenates-them-instead-of-calculating-the-sum",
-      "published_at": "2013-01-24T08:06:43.000Z",
-      "description": "Stack Overflow question · 24 answers · score 262",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "okconfused"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2651,7 +2655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 275,
       "user": "droidrun"
     },
     {
@@ -2666,7 +2670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "kdbhalala"
     },
     {
@@ -3028,7 +3032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 742,
       "user": "theoephraim"
     },
     {
@@ -3043,7 +3047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1604,
+      "stars": 1721,
       "user": "mizorewww"
     },
     {
@@ -3072,6 +3076,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "How to configure pg to work natively with Temporal.PlainDate?",
+      "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
+      "published_at": "2026-09-20T22:54:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "date",
+        "node-postgres",
+        "temporal"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hb20007"
     },
     {
       "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
@@ -3298,19 +3318,6 @@
       "user": "vinipsmaker"
     },
     {
-      "title": "we have a year to fix security everywhere",
-      "url": "https://jyn.dev/a-year-to-fix-security/",
-      "published_at": "2026-09-19T14:27:46.429-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "apropos"
-    },
-    {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
       "published_at": "2026-09-18T16:03:13.000Z",
@@ -3341,21 +3348,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "tags": [
-        "ai",
-        "claude",
-        "performance",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
     },
     {
       "title": "ELT with Dataform on Google Cloud",
@@ -3416,6 +3408,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "tags": [
+        "ai",
+        "claude",
+        "performance",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -3510,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 742,
       "user": "theoephraim"
     },
     {
@@ -3540,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 477,
       "user": "Sac-Y"
     },
     {
@@ -3555,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 292,
       "user": "rmalde"
     },
     {
@@ -3570,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 275,
       "user": "droidrun"
     },
     {
@@ -3585,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 11739,
+      "stars": 11960,
       "user": "browser-use"
     },
     {
@@ -3600,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 3923,
+      "stars": 4218,
       "user": "NandhaKishorM"
     },
     {
@@ -3615,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 2432,
+      "stars": 2456,
       "user": "TheoLeeCJ"
     },
     {
@@ -3630,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 2002,
       "user": "mcncarl"
     },
     {
@@ -3645,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1604,
+      "stars": 1721,
       "user": "mizorewww"
     },
     {
@@ -3660,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 488,
       "user": "gylive"
     },
     {
@@ -3675,7 +3682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 236,
       "user": "HyNetworks"
     },
     {
@@ -3690,7 +3697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "kdbhalala"
     },
     {
@@ -3705,7 +3712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "wangyunjeff"
     },
     {
@@ -3735,7 +3742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5122,
+      "stars": 5199,
       "user": "tamaratran"
     },
     {
@@ -3750,7 +3757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1515,
+      "stars": 1535,
       "user": "jarrodwatts"
     },
     {
@@ -3765,7 +3772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 613,
       "user": "githubnext"
     },
     {
@@ -3780,38 +3787,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 410,
       "user": "devagrawal09"
     },
     {
-      "title": "dabit3/jev-experiments - GitHub Repository",
-      "url": "https://github.com/dabit3/jev-experiments",
-      "published_at": "2026-09-17T23:36:37Z",
-      "description": "Trending GitHub Repository",
+      "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "url": "https://github.com/zai-org/ZCode",
+      "published_at": "2026-09-20T12:01:16Z",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1857282?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 339,
-      "user": "dabit3"
-    },
-    {
-      "title": "jackwener/wx-cli-again - WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
-      "url": "https://github.com/jackwener/wx-cli-again",
-      "published_at": "2026-09-14T07:43:27Z",
-      "description": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30525741?v=4",
-      "source": "GitHub",
-      "stars": 698,
-      "user": "jackwener"
+      "stars": 385,
+      "user": "zai-org"
     },
     {
       "title": "Haleclipse/CometixCode - An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
@@ -3825,7 +3817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 357,
       "user": "Haleclipse"
     },
     {
@@ -3840,7 +3832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 286,
       "user": "Lumid-Off"
     },
     {
@@ -3870,8 +3862,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 196,
       "user": "ejfkdev"
+    },
+    {
+      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "url": "https://github.com/dmtrKovalenko/bashka",
+      "published_at": "2026-09-15T21:31:30Z",
+      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
+      "source": "GitHub",
+      "stars": 194,
+      "user": "dmtrKovalenko"
     },
     {
       "title": "Beyond jj: config & tools ecosystem",
