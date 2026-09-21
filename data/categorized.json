@@ -1,6 +1,51 @@
 {
   "AI": [
     {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
+      "published_at": "2026-09-20T19:48:39Z",
+      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
+      "tags": [
+        "dart",
+        "flutter",
+        "testing",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
+      "published_at": "2026-09-20T23:30:02Z",
+      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
+      "tags": [
+        "python",
+        "debugging",
+        "api",
+        "postmortem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
+      "source": "Dev.to",
+      "user": "Wataru Suda"
+    },
+    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -76,6 +121,21 @@
       "user": "xbill"
     },
     {
+      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
+      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6",
+      "published_at": "2026-09-19T16:39:25Z",
+      "description": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
+      "tags": [
+        "googlecloud",
+        "adk",
+        "jev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5a72kpxcffbw2sjqlaoc.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
+    },
+    {
       "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
       "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
       "published_at": "2026-09-17T09:57:31Z",
@@ -136,6 +196,36 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
+      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
+      "published_at": "2026-09-14T17:12:10Z",
+      "description": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
+      "tags": [
+        "discuss",
+        "ai",
+        "programming",
+        "chatgpt"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmbizy1bvs5mibcqzbtyo.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
       "published_at": "2026-09-10T18:31:29Z",
@@ -179,6 +269,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on a Tesla T4: QAT Weights Decode 1.79x Faster Than bf16",
+      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-qat-weights-decode-179x-faster-than-bf16-2fi4",
+      "published_at": "2026-09-18T21:48:13Z",
+      "description": "A step by step deployment of Gemma 4 E2B with vLLM on a single Tesla T4 attached to a Compute Engine VM, and a measured comparison of the QAT w4a16 checkpoint against the bf16 reference on the same card.",
+      "tags": [
+        "gemma",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-qat-cover.74744fbf.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
@@ -283,6 +403,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "🧩 Don't make Tech your entire personality.",
+      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
+      "published_at": "2026-09-15T10:46:53Z",
+      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
+      "tags": [
+        "productivity",
+        "webdev",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
+      "source": "Dev.to",
+      "user": "Tanay Dwivedi"
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
@@ -445,111 +580,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
       "source": "Dev.to",
       "user": "Alister Baroi"
-    },
-    {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
-    },
-    {
-      "title": "Coding agents got boring the moment we built a really good one.",
-      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
-      "published_at": "2026-08-17T20:12:46Z",
-      "description": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
-      "tags": [
-        "agents",
-        "ai",
-        "coding",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
-      "published_at": "2026-09-16T15:39:30Z",
-      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "tags": [
-        "ai",
-        "docker",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
-      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
-      "published_at": "2026-08-23T20:12:24Z",
-      "description": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Container Apps — all speaking A2A v1.0. Where the platforms differ, where the models differ, and what has to be held constant before either is readable.",
-      "tags": [
-        "a2a",
-        "aiagents",
-        "aws",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
-      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
-      "published_at": "2026-08-25T20:44:29Z",
-      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
-      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
-      "published_at": "2026-09-04T01:59:20Z",
-      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -731,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 754,
       "user": "theoephraim"
     },
     {
@@ -746,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 198,
       "user": "itsmostafa"
     },
     {
@@ -761,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5055,
+      "stars": 5448,
       "user": "zai-org"
     },
     {
@@ -776,8 +806,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1787,
       "user": "jarrodwatts"
+    },
+    {
+      "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "url": "https://github.com/hydra-db/open-glean",
+      "published_at": "2026-09-17T05:22:08Z",
+      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "hydra-db"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -791,33 +836,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 460,
       "user": "Lumid-Off"
     },
     {
-      "title": "An actively maintained and updated Motif fork actually exists",
-      "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
-      "published_at": "2026-09-20T12:13:41.124-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
+      "url": "https://github.com/dtonon/squalk",
+      "published_at": "2026-09-21T09:44:12.725-05:00",
+      "description": "I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.\r\n\r\nThe design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.\r\n\r\nTechnical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.\r\n\r\nPilot community (real threads, browsable without an account): https://nostr-proto.org  \r\nTest instance where you are welcome to make a mess: https://squalk-test.dtonon.com\r\n\r\nCaveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.\r\n\r\nFeedback on the architecture is welcome!",
       "tags": [
-        "unix"
+        "distributed",
+        "show",
+        "web"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "raymii"
-    },
-    {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "published_at": "2026-09-20T12:43:10.204-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "privacy"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jrgtt"
+      "user": "daniele"
     },
     {
       "title": "How to configure pg to work natively with Temporal.PlainDate?",
@@ -836,157 +870,155 @@
       "user": "hb20007"
     },
     {
-      "title": "Puppeteer wait until page is completely loaded",
-      "url": "https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded",
-      "published_at": "2018-09-25T11:35:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 143",
-      "tags": [
-        "javascript",
-        "pdf-generation",
-        "puppeteer",
-        "google-chrome-headless"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "n.sharvarish"
-    },
-    {
       "title": "Playwright installation fails on Linux Mint Gigi",
       "url": "https://stackoverflow.com/questions/80004634/playwright-installation-fails-on-linux-mint-gigi",
       "published_at": "2026-09-21T11:18:35.000Z",
       "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
-        "playwright"
+        "playwright",
+        "linux-mint"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Horus Lupercal"
     },
     {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-20T21:41:08.000Z",
-      "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "published_at": "2026-09-21T18:23:05.000Z",
+      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50 megawatt nuclear power plant.",
       "tags": [
-        "AI",
-        "Biotech & Health",
-        "Fintech",
-        "Fundraising",
-        "Robotics"
+        "Climate",
+        "Kairos Power",
+        "nuclear power"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "TechCrunch Events"
+      "user": "Tim De Chant"
     },
     {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "published_at": "2026-09-20T20:29:07.000Z",
-      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "published_at": "2026-09-21T17:55:18.000Z",
+      "description": "Muse isn't welcome as a shopper anymore.",
       "tags": [
         "AI",
-        "TC",
-        "world models"
+        "Amazon",
+        "Meta",
+        "muse"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
     },
     {
-      "title": "Is the AI industry really ready to slow down?",
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "published_at": "2026-09-20T18:56:04.000Z",
-      "description": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "published_at": "2026-09-21T16:38:51.000Z",
+      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "dario amodei",
-        "Equity podcast",
-        "Jensen Huang"
+        "Startup Battlefield 200"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Russell Brandom"
     },
     {
-      "title": "Vocci&#8217;s ring adds a new form factor to meeting note-taking",
-      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "published_at": "2026-09-20T18:32:52.000Z",
-      "description": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-21T15:00:00.000Z",
+      "description": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
       "tags": [
         "AI",
-        "Apps",
-        "Hardware",
-        "TC",
-        "AI hardware"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "published_at": "2026-09-20T18:00:00.000Z",
-      "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
-      "tags": [
-        "AI",
-        "Social",
+        "Fundraising",
         "Startups",
-        "Startup Battlefield 200",
+        "Venture",
+        "Benchmark"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "published_at": "2026-09-21T14:39:22.000Z",
+      "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "chromebook",
+        "gemini",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-21T14:30:00.000Z",
+      "description": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Google",
         "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "user": "TechCrunch Events"
     },
     {
-      "title": "New California law will penalize influencers who don&#8217;t disclose political ads",
-      "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
-      "published_at": "2026-09-20T16:30:00.000Z",
-      "description": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
-      "tags": [
-        "Government & Policy",
-        "Media & Entertainment",
-        "Social",
-        "Gavin Newsom"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
-      "published_at": "2026-09-20T16:02:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
-      "tags": [
-        "Transportation",
-        "avs",
-        "May Mobility",
-        "techcrunch mobility"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "published_at": "2026-09-19T20:39:13.000Z",
-      "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-21T14:15:00.000Z",
+      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "Flock"
+        "Biotech & Health",
+        "Climate",
+        "Fundraising",
+        "Startups"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "TechCrunch Events"
     },
     {
-      "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "published_at": "2026-09-21T13:49:00.000Z",
+      "description": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "health benefits"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
+      "url": "https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/",
+      "published_at": "2026-09-21T11:58:11.000Z",
+      "description": "The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T",
+      "tags": [
+        "Firebase ai logic",
+        "Firebase",
+        "firebase app check",
+        "gemini"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Caleb Mintoumba"
+    },
+    {
+      "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
       "published_at": "2026-09-19T17:30:12.000Z",
       "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
@@ -1155,6 +1187,21 @@
       "user": "nyaomaru"
     },
     {
+      "title": "🧩 Don't make Tech your entire personality.",
+      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
+      "published_at": "2026-09-15T10:46:53Z",
+      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
+      "tags": [
+        "productivity",
+        "webdev",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
+      "source": "Dev.to",
+      "user": "Tanay Dwivedi"
+    },
+    {
       "title": "Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically",
       "url": "https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b",
       "published_at": "2026-09-11T06:58:39Z",
@@ -1183,36 +1230,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
-    },
-    {
-      "title": "ELT with Dataform on Google Cloud",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
-      "published_at": "2026-09-16T16:29:00Z",
-      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
-      "tags": [
-        "dataform",
-        "bigquery",
-        "googlecloud",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1346,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 754,
       "user": "theoephraim"
     },
     {
@@ -1361,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 540,
       "user": "dofastted"
     },
     {
@@ -1376,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 539,
       "user": "Sac-Y"
     },
     {
@@ -1391,23 +1408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 449,
       "user": "rmalde"
     },
     {
-      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "url": "https://github.com/wy-coliney/jev-browser-use",
-      "published_at": "2026-09-18T06:58:34Z",
-      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "title": "droidrun/mobile-jev - GitHub Repository",
+      "url": "https://github.com/droidrun/mobile-jev",
+      "published_at": "2026-09-17T10:41:01Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 306,
-      "user": "wy-coliney"
+      "stars": 321,
+      "user": "droidrun"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -1421,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5802,
+      "stars": 5898,
       "user": "tamaratran"
     },
     {
@@ -1436,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5055,
+      "stars": 5448,
       "user": "zai-org"
     },
     {
@@ -1451,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1787,
       "user": "jarrodwatts"
     },
     {
@@ -1466,29 +1483,85 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 690,
       "user": "githubnext"
     },
     {
-      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "url": "https://github.com/devagrawal09/jev-review",
-      "published_at": "2026-09-16T21:45:36Z",
-      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "url": "https://github.com/hydra-db/open-glean",
+      "published_at": "2026-09-17T05:22:08Z",
+      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 450,
-      "user": "devagrawal09"
+      "stars": 567,
+      "user": "hydra-db"
+    },
+    {
+      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
+      "url": "https://github.com/dtonon/squalk",
+      "published_at": "2026-09-21T09:44:12.725-05:00",
+      "description": "I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.\r\n\r\nThe design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.\r\n\r\nTechnical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.\r\n\r\nPilot community (real threads, browsable without an account): https://nostr-proto.org  \r\nTest instance where you are welcome to make a mess: https://squalk-test.dtonon.com\r\n\r\nCaveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.\r\n\r\nFeedback on the architecture is welcome!",
+      "tags": [
+        "distributed",
+        "show",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "daniele"
+    },
+    {
+      "title": "How can I use a composite IN query with Postgres.js?",
+      "url": "https://stackoverflow.com/questions/80004727/how-can-i-use-a-composite-in-query-with-postgres-js",
+      "published_at": "2026-09-21T16:34:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "postgres.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
+    },
+    {
+      "title": "How to make it so tab doesn't go to the next text box in HTML?",
+      "url": "https://stackoverflow.com/questions/80004679/how-to-make-it-so-tab-doesnt-go-to-the-next-text-box-in-html",
+      "published_at": "2026-09-21T13:50:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "html",
+        "lm-studio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AB C"
+    },
+    {
+      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
+      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
+      "published_at": "2026-09-21T02:20:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "css",
+        "lottie"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hann Undefined"
     },
     {
       "title": "React input form not rendering",
       "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
       "published_at": "2026-09-21T00:07:59.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -1515,24 +1588,10 @@
       "user": "hb20007"
     },
     {
-      "title": "Scrape from a Javascript table",
-      "url": "https://stackoverflow.com/questions/80004548/scrape-from-a-javascript-table",
-      "published_at": "2026-09-21T03:42:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "advice",
-        "javascript",
-        "excel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bones"
-    },
-    {
-      "title": "onclick=\"showContent('x')\" only works once",
-      "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
+      "title": "Toggle tab panes using onclick",
+      "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
       "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 5 answers · score 4",
+      "description": "Stack Overflow question · 6 answers · score 5",
       "tags": [
         "javascript",
         "html",
@@ -1541,6 +1600,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
+    },
+    {
+      "title": "Scrape from a Javascript table",
+      "url": "https://stackoverflow.com/questions/80004548/scrape-from-a-javascript-table",
+      "published_at": "2026-09-21T03:42:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "advice",
+        "javascript",
+        "excel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bones"
     },
     {
       "title": "How should I sort football standings when the API already returns a position field?",
@@ -1581,46 +1654,18 @@
       "user": "LUN"
     },
     {
-      "title": "How do I correctly calculate the velocity with (key === right - key === left) * moveSpeed",
-      "url": "https://stackoverflow.com/questions/80003350/how-do-i-correctly-calculate-the-velocity-with-key-right-key-left",
-      "published_at": "2026-09-15T20:49:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "published_at": "2026-09-21T18:23:05.000Z",
+      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50 megawatt nuclear power plant.",
       "tags": [
-        "javascript",
-        "operator-precedence"
+        "Climate",
+        "Kairos Power",
+        "nuclear power"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VIXSIN"
-    },
-    {
-      "title": "Validate decimal numbers in JavaScript - IsNumeric()",
-      "url": "https://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric",
-      "published_at": "2008-08-20T14:21:13.000Z",
-      "description": "Stack Overflow question · 53 answers · score 2574",
-      "tags": [
-        "javascript",
-        "validation",
-        "numbers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Michael Haren"
-    },
-    {
-      "title": "Puppeteer wait until page is completely loaded",
-      "url": "https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded",
-      "published_at": "2018-09-25T11:35:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 143",
-      "tags": [
-        "javascript",
-        "pdf-generation",
-        "puppeteer",
-        "google-chrome-headless"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "n.sharvarish"
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1654,6 +1699,36 @@
   ],
   "Python": [
     {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
+      "published_at": "2026-09-20T23:30:02Z",
+      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
+      "tags": [
+        "python",
+        "debugging",
+        "api",
+        "postmortem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
+      "source": "Dev.to",
+      "user": "Wataru Suda"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -1680,21 +1755,6 @@
         "claudecode"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
-      "published_at": "2026-09-16T20:03:02Z",
-      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
-      "tags": [
-        "machinelearning",
-        "gpu",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1759,6 +1819,21 @@
       "user": "xbill"
     },
     {
+      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
+      "published_at": "2026-09-16T20:03:02Z",
+      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
+      "tags": [
+        "machinelearning",
+        "gpu",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
       "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
       "published_at": "2026-09-01T07:00:00Z",
@@ -1802,21 +1877,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
       "source": "Dev.to",
       "user": "Alister Baroi"
-    },
-    {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1939,10 +1999,10 @@
       "user": "arathore"
     },
     {
-      "title": "browser-use/jev-ultrafast - i. am. speed.",
+      "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "published_at": "2026-09-16T21:30:12Z",
-      "description": "i. am. speed.",
+      "description": "Fastest and cheapest web agent",
       "tags": [
         "python",
         "github",
@@ -1950,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 14412,
+      "stars": 15209,
       "user": "browser-use"
     },
     {
@@ -1965,23 +2025,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 7755,
+      "stars": 9230,
       "user": "NandhaKishorM"
-    },
-    {
-      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
-      "published_at": "2026-09-16T03:51:21Z",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
-      "source": "GitHub",
-      "stars": 2850,
-      "user": "TheoLeeCJ"
     },
     {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
@@ -1995,8 +2040,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 2706,
+      "stars": 3401,
       "user": "mizorewww"
+    },
+    {
+      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "published_at": "2026-09-16T03:51:21Z",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
+      "source": "GitHub",
+      "stars": 3021,
+      "user": "TheoLeeCJ"
     },
     {
       "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
@@ -2010,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2348,
       "user": "mcncarl"
     },
     {
@@ -2020,7 +2080,8 @@
       "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
-        "playwright"
+        "playwright",
+        "linux-mint"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2071,7 +2132,7 @@
       "title": "MEGA-CC for selection of the best DNA model for an alignment",
       "url": "https://stackoverflow.com/questions/80004527/mega-cc-for-selection-of-the-best-dna-model-for-an-alignment",
       "published_at": "2026-09-21T00:52:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "pipeline",
@@ -2121,6 +2182,21 @@
       "user": "Kali"
     },
     {
+      "title": "sympy parse/expand without alphabetical ordering",
+      "url": "https://stackoverflow.com/questions/80004052/sympy-parse-expand-without-alphabetical-ordering",
+      "published_at": "2026-09-18T13:03:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "parsing",
+        "sympy",
+        "abstract-syntax-tree"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luca Braglia"
+    },
+    {
       "title": "Advice for Folium Map",
       "url": "https://stackoverflow.com/questions/80004404/advice-for-folium-map",
       "published_at": "2026-09-20T07:05:34.000Z",
@@ -2135,21 +2211,7 @@
       "user": "TXpy890"
     },
     {
-      "title": "Why groups are not populated upon `auth_permission`?",
-      "url": "https://stackoverflow.com/questions/80004310/why-groups-are-not-populated-upon-auth-permission",
-      "published_at": "2026-09-19T15:43:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "django",
-        "django-models"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
+      "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
       "published_at": "2026-09-19T17:30:12.000Z",
       "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
@@ -2197,6 +2259,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b",
@@ -2256,66 +2333,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "ELT with Dataform on Google Cloud",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
-      "published_at": "2026-09-16T16:29:00Z",
-      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
-      "tags": [
-        "dataform",
-        "bigquery",
-        "googlecloud",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
-      "published_at": "2026-09-16T15:39:30Z",
-      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "tags": [
-        "ai",
-        "docker",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
-      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
-      "published_at": "2026-08-25T20:44:29Z",
-      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
-      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
-      "published_at": "2026-09-04T01:59:20Z",
-      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2470,36 +2487,6 @@
       "user": "nyaomaru"
     },
     {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
-    },
-    {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2512,10 +2499,38 @@
       "user": "velmu"
     },
     {
+      "title": "How to make it so tab doesn't go to the next text box in HTML?",
+      "url": "https://stackoverflow.com/questions/80004679/how-to-make-it-so-tab-doesnt-go-to-the-next-text-box-in-html",
+      "published_at": "2026-09-21T13:50:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "html",
+        "lm-studio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AB C"
+    },
+    {
+      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
+      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
+      "published_at": "2026-09-21T02:20:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "css",
+        "lottie"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hann Undefined"
+    },
+    {
       "title": "React input form not rendering",
       "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
       "published_at": "2026-09-21T00:07:59.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -2526,10 +2541,10 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "onclick=\"showContent('x')\" only works once",
-      "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
+      "title": "Toggle tab panes using onclick",
+      "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
       "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 5 answers · score 4",
+      "description": "Stack Overflow question · 6 answers · score 5",
       "tags": [
         "javascript",
         "html",
@@ -2565,22 +2580,54 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bansidhar Kadiya"
-    },
-    {
-      "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
-      "url": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
-      "published_at": "2026-09-16T15:28:18.000Z",
-      "description": "Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode",
-      "tags": [
-        "full stack",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Mobile": [
+    {
+      "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
+      "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9",
+      "published_at": "2026-09-20T20:03:10Z",
+      "description": "How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-safe polymorphic factories.",
+      "tags": [
+        "dart",
+        "flutter",
+        "architecture",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2k3pdkwhv7eywa1crtek.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
+      "published_at": "2026-09-20T19:48:39Z",
+      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
+      "tags": [
+        "dart",
+        "flutter",
+        "testing",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
+      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
+      "published_at": "2026-09-20T20:43:19Z",
+      "description": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.",
+      "tags": [
+        "dart",
+        "flutter",
+        "architecture",
+        "concurrency"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
     {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
@@ -2627,6 +2674,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "droidrun/mobile-jev - GitHub Repository",
+      "url": "https://github.com/droidrun/mobile-jev",
+      "published_at": "2026-09-17T10:41:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
+      "source": "GitHub",
+      "stars": 321,
+      "user": "droidrun"
+    },
+    {
       "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
       "url": "https://github.com/kdbhalala/avdslim",
       "published_at": "2026-09-16T06:52:40Z",
@@ -2638,7 +2700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 173,
       "user": "kdbhalala"
     },
     {
@@ -2660,6 +2722,21 @@
   ],
   "Cloud": [
     {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -2673,6 +2750,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
+      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6",
+      "published_at": "2026-09-19T16:39:25Z",
+      "description": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
+      "tags": [
+        "googlecloud",
+        "adk",
+        "jev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5a72kpxcffbw2sjqlaoc.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
@@ -2733,6 +2825,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
@@ -2869,111 +2976,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "ELT with Dataform on Google Cloud",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
-      "published_at": "2026-09-16T16:29:00Z",
-      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
-      "tags": [
-        "dataform",
-        "bigquery",
-        "googlecloud",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
-      "published_at": "2026-09-16T15:39:30Z",
-      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "tags": [
-        "ai",
-        "docker",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
-      "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
-      "published_at": "2026-08-23T20:12:24Z",
-      "description": "The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Container Apps — all speaking A2A v1.0. Where the platforms differ, where the models differ, and what has to be held constant before either is readable.",
-      "tags": [
-        "a2a",
-        "aiagents",
-        "aws",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
-      "url": "https://dev.to/gde/fastmcp-is-now-mcpserver-migrating-a-python-mcp-server-to-the-mcp-sdk-2x-2nhj",
-      "published_at": "2026-09-11T13:20:27Z",
-      "description": "Step-by-step: moving a FastMCP server to the MCP Python SDK 2.x — what broke, what changed, what did not, and a redeploy of its Gemma 4 vLLM backend to a Cloud Run L4 GPU.",
-      "tags": [
-        "mcp",
-        "python",
-        "googlecloud",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdevto-cover.5bbae7c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
-      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
-      "published_at": "2026-08-25T20:44:29Z",
-      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
-      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
-      "published_at": "2026-09-04T01:59:20Z",
-      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Taking Advantage of Gemini Managed Agents with Google Apps Script",
-      "url": "https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp",
-      "published_at": "2026-08-30T07:45:24Z",
-      "description": "Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...",
-      "tags": [
-        "googleappsscript",
-        "gemini",
-        "antigravity",
-        "linux"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8ydhpymfaq4bw5lly2zv.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
       "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
       "published_at": "2026-09-15T09:39:14Z",
@@ -2985,7 +2987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 754,
       "user": "theoephraim"
     },
     {
@@ -3000,8 +3002,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 2706,
+      "stars": 3401,
       "user": "mizorewww"
+    },
+    {
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "published_at": "2026-09-21T17:45:35.000Z",
+      "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "social media",
+        "X"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Database": [
@@ -3016,6 +3034,47 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
+      "url": "https://github.com/dtonon/squalk",
+      "published_at": "2026-09-21T09:44:12.725-05:00",
+      "description": "I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.\r\n\r\nThe design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.\r\n\r\nTechnical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.\r\n\r\nPilot community (real threads, browsable without an account): https://nostr-proto.org  \r\nTest instance where you are welcome to make a mess: https://squalk-test.dtonon.com\r\n\r\nCaveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.\r\n\r\nFeedback on the architecture is welcome!",
+      "tags": [
+        "distributed",
+        "show",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "daniele"
+    },
+    {
+      "title": "Relation algebra is not relational algebra",
+      "url": "https://remy.wang/blog/ra-ra.html",
+      "published_at": "2026-09-21T12:01:35.726-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "math"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "aphaelion"
+    },
+    {
+      "title": "How can I use a composite IN query with Postgres.js?",
+      "url": "https://stackoverflow.com/questions/80004727/how-can-i-use-a-composite-in-query-with-postgres-js",
+      "published_at": "2026-09-21T16:34:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "postgres.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
     },
     {
       "title": "How to configure pg to work natively with Temporal.PlainDate?",
@@ -3065,6 +3124,21 @@
   ],
   "Security": [
     {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
       "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
       "published_at": "2026-09-17T09:57:31Z",
@@ -3093,36 +3167,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
       "source": "Dev.to",
       "user": "Alister Baroi"
-    },
-    {
-      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
-      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
-      "published_at": "2026-08-25T20:44:29Z",
-      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Kong AI Gateway 2.0 on Google Cloud: Securing GKE, Cloud Run, and Vertex AI(Agent Platform)",
-      "url": "https://dev.to/gde/kong-ai-gateway-20-on-google-cloud-securing-gke-cloud-run-and-vertex-ai-219o",
-      "published_at": "2026-09-04T01:59:20Z",
-      "description": "Most teams running on Google Cloud don't pick one compute model and stay there. Some services live...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ea6bpl8j1v5hfxd8iia.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3257,18 +3301,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "published_at": "2026-09-21T03:56:58.850-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dimonomid"
-    },
-    {
       "title": "Software sandboxing: The basics (2025)",
       "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
       "published_at": "2026-09-20T09:13:11.598-05:00",
@@ -3300,6 +3332,51 @@
   ],
   "Tools": [
     {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
+      "published_at": "2026-09-20T19:48:39Z",
+      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
+      "tags": [
+        "dart",
+        "flutter",
+        "testing",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -3313,6 +3390,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
@@ -3330,6 +3422,21 @@
       "user": "xbill"
     },
     {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
       "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj",
       "published_at": "2026-09-15T16:32:21Z",
@@ -3343,6 +3450,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "🧩 Don't make Tech your entire personality.",
+      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
+      "published_at": "2026-09-15T10:46:53Z",
+      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
+      "tags": [
+        "productivity",
+        "webdev",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
+      "source": "Dev.to",
+      "user": "Tanay Dwivedi"
     },
     {
       "title": "Progressive Disclosure: What, Where, When, and Why",
@@ -3405,36 +3527,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "ELT with Dataform on Google Cloud",
-      "url": "https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9",
-      "published_at": "2026-09-16T16:29:00Z",
-      "description": "A real-world ELT pipeline with Dataform and BigQuery — staging and mart layers, JavaScript includes, dynamic tables and views, GitHub sync over SSH and Terraform provisioning.",
-      "tags": [
-        "dataform",
-        "bigquery",
-        "googlecloud",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2Au91Q9NTao0sNYH3-bE2I1A.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "Running an AI Agent Locally: ADK, Gemma 4, and Docker Model Runner",
-      "url": "https://dev.to/gde/running-an-ai-agent-locally-adk-gemma-4-and-docker-model-runner-44db",
-      "published_at": "2026-09-16T15:39:30Z",
-      "description": "How I replaced a cloud LLM with a fully local one — same agent, same tools, zero inference cost.",
-      "tags": [
-        "ai",
-        "docker",
-        "llm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncxrmekvmhlscfr5hfk.png",
-      "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3482,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 754,
       "user": "theoephraim"
     },
     {
@@ -3497,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 540,
       "user": "dofastted"
     },
     {
@@ -3512,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 539,
       "user": "Sac-Y"
     },
     {
@@ -3527,29 +3619,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 449,
       "user": "rmalde"
     },
     {
-      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "url": "https://github.com/wy-coliney/jev-browser-use",
-      "published_at": "2026-09-18T06:58:34Z",
-      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "title": "droidrun/mobile-jev - GitHub Repository",
+      "url": "https://github.com/droidrun/mobile-jev",
+      "published_at": "2026-09-17T10:41:01Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 306,
-      "user": "wy-coliney"
+      "stars": 321,
+      "user": "droidrun"
     },
     {
-      "title": "browser-use/jev-ultrafast - i. am. speed.",
+      "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "published_at": "2026-09-16T21:30:12Z",
-      "description": "i. am. speed.",
+      "description": "Fastest and cheapest web agent",
       "tags": [
         "python",
         "github",
@@ -3557,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 14412,
+      "stars": 15209,
       "user": "browser-use"
     },
     {
@@ -3572,23 +3664,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 7755,
+      "stars": 9230,
       "user": "NandhaKishorM"
-    },
-    {
-      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
-      "published_at": "2026-09-16T03:51:21Z",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
-      "source": "GitHub",
-      "stars": 2850,
-      "user": "TheoLeeCJ"
     },
     {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
@@ -3602,8 +3679,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 2706,
+      "stars": 3401,
       "user": "mizorewww"
+    },
+    {
+      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "url": "https://github.com/TheoLeeCJ/SemIf",
+      "published_at": "2026-09-16T03:51:21Z",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
+      "source": "GitHub",
+      "stars": 3021,
+      "user": "TheoLeeCJ"
     },
     {
       "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
@@ -3617,7 +3709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204130968?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2348,
       "user": "mcncarl"
     },
     {
@@ -3632,7 +3724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 558,
       "user": "gylive"
     },
     {
@@ -3647,7 +3739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "HyNetworks"
     },
     {
@@ -3662,7 +3754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 198,
       "user": "itsmostafa"
     },
     {
@@ -3677,7 +3769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 173,
       "user": "kdbhalala"
     },
     {
@@ -3692,7 +3784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "wangyunjeff"
     },
     {
@@ -3707,7 +3799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5802,
+      "stars": 5898,
       "user": "tamaratran"
     },
     {
@@ -3722,7 +3814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5055,
+      "stars": 5448,
       "user": "zai-org"
     },
     {
@@ -3737,7 +3829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1711,
+      "stars": 1787,
       "user": "jarrodwatts"
     },
     {
@@ -3752,38 +3844,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 690,
       "user": "githubnext"
     },
     {
-      "title": "devagrawal09/jev-review - A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "url": "https://github.com/devagrawal09/jev-review",
-      "published_at": "2026-09-16T21:45:36Z",
-      "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+      "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "url": "https://github.com/hydra-db/open-glean",
+      "published_at": "2026-09-17T05:22:08Z",
+      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/19648701?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 450,
-      "user": "devagrawal09"
-    },
-    {
-      "title": "Haleclipse/CometixCode - An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
-      "url": "https://github.com/Haleclipse/CometixCode",
-      "published_at": "2026-09-20T08:58:08Z",
-      "description": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
-      "source": "GitHub",
-      "stars": 440,
-      "user": "Haleclipse"
+      "stars": 567,
+      "user": "hydra-db"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -3797,8 +3874,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 460,
       "user": "Lumid-Off"
+    },
+    {
+      "title": "Haleclipse/CometixCode - An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
+      "url": "https://github.com/Haleclipse/CometixCode",
+      "published_at": "2026-09-20T08:58:08Z",
+      "description": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
+      "source": "GitHub",
+      "stars": 451,
+      "user": "Haleclipse"
     },
     {
       "title": "eliasstravik/herdr-projects - A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
@@ -3812,7 +3904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 276,
       "user": "eliasstravik"
     },
     {
@@ -3827,7 +3919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 211,
       "user": "ejfkdev"
     },
     {
@@ -3842,8 +3934,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 204,
       "user": "dmtrKovalenko"
+    },
+    {
+      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
+      "url": "https://github.com/dtonon/squalk",
+      "published_at": "2026-09-21T09:44:12.725-05:00",
+      "description": "I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.\r\n\r\nThe design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.\r\n\r\nTechnical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.\r\n\r\nPilot community (real threads, browsable without an account): https://nostr-proto.org  \r\nTest instance where you are welcome to make a mess: https://squalk-test.dtonon.com\r\n\r\nCaveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.\r\n\r\nFeedback on the architecture is welcome!",
+      "tags": [
+        "distributed",
+        "show",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "daniele"
+    },
+    {
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "published_at": "2026-09-21T17:45:35.000Z",
+      "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "social media",
+        "X"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
