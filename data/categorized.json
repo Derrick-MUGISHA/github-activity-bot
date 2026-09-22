@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
-      "published_at": "2026-09-20T23:30:02Z",
-      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
-      "tags": [
-        "python",
-        "debugging",
-        "api",
-        "postmortem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
-      "source": "Dev.to",
-      "user": "Wataru Suda"
-    },
-    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
+      "published_at": "2026-09-20T23:30:02Z",
+      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
+      "tags": [
+        "python",
+        "debugging",
+        "api",
+        "postmortem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
+      "source": "Dev.to",
+      "user": "Wataru Suda"
     },
     {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
@@ -134,21 +134,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Harness engineering doesn't mean building your own harness",
-      "url": "https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk",
-      "published_at": "2026-09-15T01:04:48Z",
-      "description": "It means giving the agent enough context to do the right thing  For this week's Agent Factory...",
-      "tags": [
-        "agents",
-        "ai",
-        "automation",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw1f6tqns0aa4y46ct40.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 354,
       "user": "logicrw"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2702,
+      "stars": 3026,
       "user": "jaredpalmer"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 249,
       "user": "itsmostafa"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5925,
+      "stars": 6127,
       "user": "zai-org"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1895,
+      "stars": 1957,
       "user": "jarrodwatts"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 725,
       "user": "hydra-db"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 568,
       "user": "Lumid-Off"
     },
     {
@@ -836,38 +821,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "ghuntley"
     },
     {
-      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-      "url": "https://github.com/dtonon/squalk",
-      "published_at": "2026-09-21T09:44:12.725-05:00",
-      "description": "I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.\r\n\r\nThe design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.\r\n\r\nTechnical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.\r\n\r\nPilot community (real threads, browsable without an account): https://nostr-proto.org  \r\nTest instance where you are welcome to make a mess: https://squalk-test.dtonon.com\r\n\r\nCaveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.\r\n\r\nFeedback on the architecture is welcome!",
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "published_at": "2026-09-22T02:27:56.998-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "distributed",
-        "show",
-        "web"
+        "privacy"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "daniele"
+      "user": "bezdomni"
     },
     {
-      "title": "How to configure pg to work natively with Temporal.PlainDate?",
-      "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
-      "published_at": "2026-09-20T22:54:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
+      "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
+      "published_at": "2026-09-22T10:52:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "javascript",
-        "postgresql",
-        "date",
-        "node-postgres",
-        "temporal"
+        "python",
+        "twilio",
+        "webhooks",
+        "hmac"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "hb20007"
+      "user": "Haydar Hinisli"
     },
     {
       "title": "Playwright installation fails on Linux Mint Gigi",
@@ -984,21 +966,6 @@
         "In Brief",
         "Meta",
         "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "published_at": "2026-09-21T16:38:51.000Z",
-      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "tags": [
-        "AI",
-        "accounting",
-        "Startup Battlefield 200",
-        "Tabby"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1337,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 566,
       "user": "Sac-Y"
     },
     {
@@ -1352,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "dofastted"
     },
     {
@@ -1367,23 +1334,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 497,
       "user": "rmalde"
-    },
-    {
-      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "url": "https://github.com/wy-coliney/jev-browser-use",
-      "published_at": "2026-09-18T06:58:34Z",
-      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "wy-coliney"
     },
     {
       "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
@@ -1397,8 +1349,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 354,
       "user": "logicrw"
+    },
+    {
+      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "url": "https://github.com/wy-coliney/jev-browser-use",
+      "published_at": "2026-09-18T06:58:34Z",
+      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
+      "source": "GitHub",
+      "stars": 351,
+      "user": "wy-coliney"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -1412,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6063,
+      "stars": 6176,
       "user": "tamaratran"
     },
     {
@@ -1427,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5925,
+      "stars": 6127,
       "user": "zai-org"
     },
     {
@@ -1442,23 +1409,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1895,
+      "stars": 1957,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "githubnext/localjev - GitHub Repository",
-      "url": "https://github.com/githubnext/localjev",
-      "published_at": "2026-09-18T16:59:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
-      "source": "GitHub",
-      "stars": 704,
-      "user": "githubnext"
     },
     {
       "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
@@ -1472,22 +1424,52 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 725,
       "user": "hydra-db"
     },
     {
-      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-      "url": "https://github.com/dtonon/squalk",
-      "published_at": "2026-09-21T09:44:12.725-05:00",
-      "description": "I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.\r\n\r\nThe design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.\r\n\r\nTechnical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.\r\n\r\nPilot community (real threads, browsable without an account): https://nostr-proto.org  \r\nTest instance where you are welcome to make a mess: https://squalk-test.dtonon.com\r\n\r\nCaveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.\r\n\r\nFeedback on the architecture is welcome!",
+      "title": "githubnext/localjev - GitHub Repository",
+      "url": "https://github.com/githubnext/localjev",
+      "published_at": "2026-09-18T16:59:55Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "distributed",
-        "show",
-        "web"
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
+      "source": "GitHub",
+      "stars": 713,
+      "user": "githubnext"
+    },
+    {
+      "title": "How do I download any quality video through yt-dlp in browser rather than in yt-dlp.exe location directory",
+      "url": "https://stackoverflow.com/questions/80004866/how-do-i-download-any-quality-video-through-yt-dlp-in-browser-rather-than-in-yt",
+      "published_at": "2026-09-22T07:02:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "node.js",
+        "typescript",
+        "ffmpeg",
+        "yt-dlp"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "daniele"
+      "source": "StackOverflow",
+      "user": "webdevShubhamKumar"
+    },
+    {
+      "title": "Repeat previous value inside a forEach loop when reaching a key with no value",
+      "url": "https://stackoverflow.com/questions/80004853/repeat-previous-value-inside-a-foreach-loop-when-reaching-a-key-with-no-value",
+      "published_at": "2026-09-22T06:16:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "foreach"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Wammy"
     },
     {
       "title": "Modifying elements of SVG image as background-image property",
@@ -1508,7 +1490,7 @@
       "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
       "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
       "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -1517,6 +1499,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lance"
+    },
+    {
+      "title": "Trouble with getting RGB data from getImageData()",
+      "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
+      "published_at": "2026-09-21T19:00:35.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MijiGamin1"
     },
     {
       "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
@@ -1531,19 +1526,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ahmad Ataya"
-    },
-    {
-      "title": "Trouble with getting RGB data from getImageData()",
-      "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
-      "published_at": "2026-09-21T19:00:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MijiGamin1"
     },
     {
       "title": "How can I use a composite IN query with Postgres.js?",
@@ -1602,40 +1584,25 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
-      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
-      "published_at": "2026-09-21T02:20:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
+      "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
+      "published_at": "2026-09-22T10:52:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "javascript",
-        "css",
-        "lottie"
+        "python",
+        "twilio",
+        "webhooks",
+        "hmac"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Hann Undefined"
-    },
-    {
-      "title": "How to configure pg to work natively with Temporal.PlainDate?",
-      "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
-      "published_at": "2026-09-20T22:54:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "postgresql",
-        "date",
-        "node-postgres",
-        "temporal"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "hb20007"
+      "user": "Haydar Hinisli"
     },
     {
       "title": "How should I safely clear extracted JSON data when a corresponding section is missing from OCR markdown in Python?",
       "url": "https://stackoverflow.com/questions/80004819/how-should-i-safely-clear-extracted-json-data-when-a-corresponding-section-is-mi",
       "published_at": "2026-09-22T01:32:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python"
       ],
@@ -1689,21 +1656,6 @@
   ],
   "Python": [
     {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
-      "published_at": "2026-09-20T23:30:02Z",
-      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
-      "tags": [
-        "python",
-        "debugging",
-        "api",
-        "postmortem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
-      "source": "Dev.to",
-      "user": "Wataru Suda"
-    },
-    {
       "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
       "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
       "published_at": "2026-09-20T20:30:58Z",
@@ -1717,6 +1669,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
+      "published_at": "2026-09-20T23:30:02Z",
+      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
+      "tags": [
+        "python",
+        "debugging",
+        "api",
+        "postmortem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
+      "source": "Dev.to",
+      "user": "Wataru Suda"
     },
     {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
@@ -1985,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 16536,
+      "stars": 17357,
       "user": "browser-use"
     },
     {
@@ -2000,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 11943,
+      "stars": 13838,
       "user": "NandhaKishorM"
     },
     {
@@ -2015,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 4297,
+      "stars": 4818,
       "user": "mizorewww"
     },
     {
@@ -2030,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3390,
+      "stars": 3559,
       "user": "TheoLeeCJ"
     },
     {
@@ -2045,14 +2012,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2702,
+      "stars": 3026,
       "user": "jaredpalmer"
+    },
+    {
+      "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
+      "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
+      "published_at": "2026-09-22T10:52:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "twilio",
+        "webhooks",
+        "hmac"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Haydar Hinisli"
+    },
+    {
+      "title": "I am trying to use cap = cv2.VideoCapture() and i have to keep changing the camera index to like 0 or 1 or 2",
+      "url": "https://stackoverflow.com/questions/80004888/i-am-trying-to-use-cap-cv2-videocapture-and-i-have-to-keep-changing-the-came",
+      "published_at": "2026-09-22T08:32:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "macos",
+        "opencv",
+        "camera"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Esh"
     },
     {
       "title": "Is there a better alternative to using os.getenv() for FastAPI settings?",
       "url": "https://stackoverflow.com/questions/80004839/is-there-a-better-alternative-to-using-os-getenv-for-fastapi-settings",
       "published_at": "2026-09-22T04:54:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -2066,25 +2063,13 @@
       "title": "How should I safely clear extracted JSON data when a corresponding section is missing from OCR markdown in Python?",
       "url": "https://stackoverflow.com/questions/80004819/how-should-i-safely-clear-extracted-json-data-when-a-corresponding-section-is-mi",
       "published_at": "2026-09-22T01:32:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hitesh Aswani"
-    },
-    {
-      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
-      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
-      "published_at": "2026-09-21T21:15:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "unknownx"
     },
     {
       "title": "Subclassing mysql.connector",
@@ -2098,6 +2083,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
+      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
+      "published_at": "2026-09-21T21:15:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "unknownx"
     },
     {
       "title": "Projectile flies horizontally instead of toward the clicked point",
@@ -2127,19 +2124,6 @@
       "user": "Horus Lupercal"
     },
     {
-      "title": "Necessary to check if mysql.connector is connected",
-      "url": "https://stackoverflow.com/questions/80004612/necessary-to-check-if-mysql-connector-is-connected",
-      "published_at": "2026-09-21T10:06:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "mysql-connector"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "Finding a specific phrase in a text using Neuro-Linguistic Programming in Python",
       "url": "https://stackoverflow.com/questions/80004581/finding-a-specific-phrase-in-a-text-using-neuro-linguistic-programming-in-python",
       "published_at": "2026-09-21T07:04:53.000Z",
@@ -2153,19 +2137,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "giak"
-    },
-    {
-      "title": "How do I create a function to display statistics from a list?",
-      "url": "https://stackoverflow.com/questions/80004529/how-do-i-create-a-function-to-display-statistics-from-a-list",
-      "published_at": "2026-09-21T01:17:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "function"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David"
     },
     {
       "title": "MEGA-CC for selection of the best DNA model for an alignment",
@@ -2443,6 +2414,21 @@
       "user": "jknupp"
     },
     {
+      "title": "Cheap and easy throwaway VPN server",
+      "url": "https://a.l3x.in/blog/throwaway-vpn/",
+      "published_at": "2026-09-22T01:56:57.611-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "networking",
+        "privacy",
+        "show"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Al3xFor"
+    },
+    {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
       "published_at": "2026-09-18T16:03:13.000Z",
@@ -2505,7 +2491,7 @@
       "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
       "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
       "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2569,20 +2555,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
-    },
-    {
-      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
-      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
-      "published_at": "2026-09-21T02:20:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "css",
-        "lottie"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hann Undefined"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2686,7 +2658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "kdbhalala"
     },
     {
@@ -2974,7 +2946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 4297,
+      "stars": 4818,
       "user": "mizorewww"
     },
     {
@@ -3008,33 +2980,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-      "url": "https://github.com/dtonon/squalk",
-      "published_at": "2026-09-21T09:44:12.725-05:00",
-      "description": "I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.\r\n\r\nThe design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.\r\n\r\nTechnical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.\r\n\r\nPilot community (real threads, browsable without an account): https://nostr-proto.org  \r\nTest instance where you are welcome to make a mess: https://squalk-test.dtonon.com\r\n\r\nCaveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.\r\n\r\nFeedback on the architecture is welcome!",
-      "tags": [
-        "distributed",
-        "show",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "daniele"
-    },
-    {
-      "title": "Relation algebra is not relational algebra",
-      "url": "https://remy.wang/blog/ra-ra.html",
-      "published_at": "2026-09-21T12:01:35.726-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "math"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aphaelion"
-    },
-    {
       "title": "How can I use a composite IN query with Postgres.js?",
       "url": "https://stackoverflow.com/questions/80004727/how-can-i-use-a-composite-in-query-with-postgres-js",
       "published_at": "2026-09-21T16:34:43.000Z",
@@ -3049,39 +2994,10 @@
       "user": "erkanunluturk"
     },
     {
-      "title": "How to configure pg to work natively with Temporal.PlainDate?",
-      "url": "https://stackoverflow.com/questions/80004520/how-to-configure-pg-to-work-natively-with-temporal-plaindate",
-      "published_at": "2026-09-20T22:54:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "postgresql",
-        "date",
-        "node-postgres",
-        "temporal"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "hb20007"
-    },
-    {
       "title": "Subclassing mysql.connector",
       "url": "https://stackoverflow.com/questions/80004790/subclassing-mysql-connector",
       "published_at": "2026-09-21T21:38:07.000Z",
       "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "mysql-connector"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Necessary to check if mysql.connector is connected",
-      "url": "https://stackoverflow.com/questions/80004612/necessary-to-check-if-mysql-connector-is-connected",
-      "published_at": "2026-09-21T10:06:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "mysql-connector"
@@ -3530,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 566,
       "user": "Sac-Y"
     },
     {
@@ -3545,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "dofastted"
     },
     {
@@ -3560,23 +3476,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 497,
       "user": "rmalde"
-    },
-    {
-      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "url": "https://github.com/wy-coliney/jev-browser-use",
-      "published_at": "2026-09-18T06:58:34Z",
-      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "wy-coliney"
     },
     {
       "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
@@ -3590,8 +3491,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 354,
       "user": "logicrw"
+    },
+    {
+      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "url": "https://github.com/wy-coliney/jev-browser-use",
+      "published_at": "2026-09-18T06:58:34Z",
+      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
+      "source": "GitHub",
+      "stars": 351,
+      "user": "wy-coliney"
     },
     {
       "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
@@ -3605,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 16536,
+      "stars": 17357,
       "user": "browser-use"
     },
     {
@@ -3620,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 11943,
+      "stars": 13838,
       "user": "NandhaKishorM"
     },
     {
@@ -3635,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 4297,
+      "stars": 4818,
       "user": "mizorewww"
     },
     {
@@ -3650,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3390,
+      "stars": 3559,
       "user": "TheoLeeCJ"
     },
     {
@@ -3665,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2702,
+      "stars": 3026,
       "user": "jaredpalmer"
     },
     {
@@ -3680,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 582,
       "user": "gylive"
     },
     {
@@ -3710,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 249,
       "user": "itsmostafa"
     },
     {
@@ -3725,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 188,
       "user": "wangyunjeff"
     },
     {
@@ -3740,7 +3656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "kdbhalala"
     },
     {
@@ -3755,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6063,
+      "stars": 6176,
       "user": "tamaratran"
     },
     {
@@ -3770,7 +3686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5925,
+      "stars": 6127,
       "user": "zai-org"
     },
     {
@@ -3785,23 +3701,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1895,
+      "stars": 1957,
       "user": "jarrodwatts"
-    },
-    {
-      "title": "githubnext/localjev - GitHub Repository",
-      "url": "https://github.com/githubnext/localjev",
-      "published_at": "2026-09-18T16:59:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
-      "source": "GitHub",
-      "stars": 704,
-      "user": "githubnext"
     },
     {
       "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
@@ -3815,8 +3716,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 725,
       "user": "hydra-db"
+    },
+    {
+      "title": "githubnext/localjev - GitHub Repository",
+      "url": "https://github.com/githubnext/localjev",
+      "published_at": "2026-09-18T16:59:55Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
+      "source": "GitHub",
+      "stars": 713,
+      "user": "githubnext"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -3830,7 +3746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 568,
       "user": "Lumid-Off"
     },
     {
@@ -3845,7 +3761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 473,
       "user": "Haleclipse"
     },
     {
@@ -3860,7 +3776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 293,
       "user": "eliasstravik"
     },
     {
@@ -3875,7 +3791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 254,
       "user": "ejfkdev"
     },
     {
@@ -3890,28 +3806,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "ghuntley"
     },
     {
-      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-      "url": "https://github.com/dtonon/squalk",
-      "published_at": "2026-09-21T09:44:12.725-05:00",
-      "description": "I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.\r\n\r\nThe design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.\r\n\r\nTechnical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.\r\n\r\nPilot community (real threads, browsable without an account): https://nostr-proto.org  \r\nTest instance where you are welcome to make a mess: https://squalk-test.dtonon.com\r\n\r\nCaveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.\r\n\r\nFeedback on the architecture is welcome!",
+      "title": "Looking forward to Git 2.56 - and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "published_at": "2026-09-22T00:23:55.135-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "distributed",
-        "show",
-        "web"
+        "vcs"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "daniele"
+      "user": "dimonomid"
     },
     {
       "title": "Is there a better alternative to using os.getenv() for FastAPI settings?",
       "url": "https://stackoverflow.com/questions/80004839/is-there-a-better-alternative-to-using-os-getenv-for-fastapi-settings",
       "published_at": "2026-09-22T04:54:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "tooling-recommendation",
         "python",
