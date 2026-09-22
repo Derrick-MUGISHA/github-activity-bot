@@ -720,6 +720,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "url": "https://github.com/logicrw/awesome-jev-projects",
+      "published_at": "2026-09-18T06:41:50Z",
+      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
+      "source": "GitHub",
+      "stars": 336,
+      "user": "logicrw"
+    },
+    {
       "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "url": "https://github.com/jaredpalmer/kev",
       "published_at": "2026-09-17T20:49:39Z",
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2457,
+      "stars": 2702,
       "user": "jaredpalmer"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 229,
       "user": "itsmostafa"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5606,
+      "stars": 5925,
       "user": "zai-org"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1856,
+      "stars": 1895,
       "user": "jarrodwatts"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 664,
       "user": "hydra-db"
     },
     {
@@ -806,8 +821,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 514,
       "user": "Lumid-Off"
+    },
+    {
+      "title": "ghuntley/underclass - underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
+      "url": "https://github.com/ghuntley/underclass",
+      "published_at": "2026-09-20T07:00:32Z",
+      "description": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "ghuntley"
     },
     {
       "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
@@ -852,6 +882,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Horus Lupercal"
+    },
+    {
+      "title": "Morphotonics raises €40M to expand its display tech into data centers",
+      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "published_at": "2026-09-22T06:00:00.000Z",
+      "description": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "deep tech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta, Dominic-Madori Davis"
     },
     {
       "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
@@ -961,22 +1005,6 @@
       "user": "Russell Brandom"
     },
     {
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-21T15:00:00.000Z",
-      "description": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "Venture",
-        "Benchmark"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
       "url": "https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/",
       "published_at": "2026-09-21T11:58:11.000Z",
@@ -1084,19 +1112,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
-      "url": "https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/",
-      "published_at": "2026-09-17T18:00:11.000Z",
-      "description": "Geoffrey Hinton is known as the \"the Godfather of AI\". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak",
-      "tags": [
-        "Deep Learning",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
@@ -1322,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 549,
       "user": "Sac-Y"
     },
     {
@@ -1337,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "dofastted"
     },
     {
@@ -1352,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 489,
       "user": "rmalde"
     },
     {
@@ -1367,23 +1382,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 336,
       "user": "wy-coliney"
     },
     {
-      "title": "droidrun/mobile-jev - GitHub Repository",
-      "url": "https://github.com/droidrun/mobile-jev",
-      "published_at": "2026-09-17T10:41:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "url": "https://github.com/logicrw/awesome-jev-projects",
+      "published_at": "2026-09-18T06:41:50Z",
+      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 323,
-      "user": "droidrun"
+      "stars": 336,
+      "user": "logicrw"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -1397,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5966,
+      "stars": 6063,
       "user": "tamaratran"
     },
     {
@@ -1412,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5606,
+      "stars": 5925,
       "user": "zai-org"
     },
     {
@@ -1427,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1856,
+      "stars": 1895,
       "user": "jarrodwatts"
     },
     {
@@ -1442,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 704,
       "user": "githubnext"
     },
     {
@@ -1457,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 664,
       "user": "hydra-db"
     },
     {
@@ -1475,10 +1490,25 @@
       "user": "daniele"
     },
     {
+      "title": "Modifying elements of SVG image as background-image property",
+      "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
+      "published_at": "2026-09-21T22:58:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "svg",
+        "background-image"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marcus M&#252;ller"
+    },
+    {
       "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
       "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
       "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1489,19 +1519,18 @@
       "user": "Lance"
     },
     {
-      "title": "Modifying elements of SVG image as background-image property",
-      "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
-      "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
+      "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
+      "published_at": "2026-09-21T20:48:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
-        "html",
-        "svg",
-        "background-image"
+        "google-analytics",
+        "google-analytics-4"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Marcus M&#252;ller"
+      "user": "Ahmad Ataya"
     },
     {
       "title": "Trouble with getting RGB data from getImageData()",
@@ -1517,24 +1546,10 @@
       "user": "MijiGamin1"
     },
     {
-      "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
-      "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
-      "published_at": "2026-09-21T20:48:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-analytics",
-        "google-analytics-4"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmad Ataya"
-    },
-    {
       "title": "How can I use a composite IN query with Postgres.js?",
       "url": "https://stackoverflow.com/questions/80004727/how-can-i-use-a-composite-in-query-with-postgres-js",
       "published_at": "2026-09-21T16:34:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "postgresql",
@@ -1559,20 +1574,6 @@
       "user": "AB C"
     },
     {
-      "title": "React input form not rendering",
-      "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
-      "published_at": "2026-09-21T00:07:59.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
-    },
-    {
       "title": "Toggle tab panes using onclick",
       "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
       "published_at": "2026-09-19T19:17:23.000Z",
@@ -1585,6 +1586,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
+    },
+    {
+      "title": "React input form not rendering",
+      "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
+      "published_at": "2026-09-21T00:07:59.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BoJacks JJ"
     },
     {
       "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
@@ -1615,6 +1630,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hb20007"
+    },
+    {
+      "title": "How should I safely clear extracted JSON data when a corresponding section is missing from OCR markdown in Python?",
+      "url": "https://stackoverflow.com/questions/80004819/how-should-i-safely-clear-extracted-json-data-when-a-corresponding-section-is-mi",
+      "published_at": "2026-09-22T01:32:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hitesh Aswani"
     },
     {
       "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
@@ -1958,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 15755,
+      "stars": 16536,
       "user": "browser-use"
     },
     {
@@ -1973,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 10345,
+      "stars": 11943,
       "user": "NandhaKishorM"
     },
     {
@@ -1988,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3861,
+      "stars": 4297,
       "user": "mizorewww"
     },
     {
@@ -2003,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3248,
+      "stars": 3390,
       "user": "TheoLeeCJ"
     },
     {
@@ -2018,8 +2045,46 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2457,
+      "stars": 2702,
       "user": "jaredpalmer"
+    },
+    {
+      "title": "Is there a better alternative to using os.getenv() for FastAPI settings?",
+      "url": "https://stackoverflow.com/questions/80004839/is-there-a-better-alternative-to-using-os-getenv-for-fastapi-settings",
+      "published_at": "2026-09-22T04:54:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user30892144"
+    },
+    {
+      "title": "How should I safely clear extracted JSON data when a corresponding section is missing from OCR markdown in Python?",
+      "url": "https://stackoverflow.com/questions/80004819/how-should-i-safely-clear-extracted-json-data-when-a-corresponding-section-is-mi",
+      "published_at": "2026-09-22T01:32:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hitesh Aswani"
+    },
+    {
+      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
+      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
+      "published_at": "2026-09-21T21:15:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "unknownx"
     },
     {
       "title": "Subclassing mysql.connector",
@@ -2035,22 +2100,10 @@
       "user": "NickC"
     },
     {
-      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
-      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
-      "published_at": "2026-09-21T21:15:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "unknownx"
-    },
-    {
       "title": "Projectile flies horizontally instead of toward the clicked point",
       "url": "https://stackoverflow.com/questions/80004776/projectile-flies-horizontally-instead-of-toward-the-clicked-point",
       "published_at": "2026-09-21T20:50:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "panda3d"
@@ -2058,19 +2111,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marek"
-    },
-    {
-      "title": "Necessary to check if mysql.connector is connected",
-      "url": "https://stackoverflow.com/questions/80004612/necessary-to-check-if-mysql-connector-is-connected",
-      "published_at": "2026-09-21T10:06:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "mysql-connector"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "Playwright installation fails on Linux Mint Gigi",
@@ -2085,6 +2125,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Horus Lupercal"
+    },
+    {
+      "title": "Necessary to check if mysql.connector is connected",
+      "url": "https://stackoverflow.com/questions/80004612/necessary-to-check-if-mysql-connector-is-connected",
+      "published_at": "2026-09-21T10:06:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "mysql-connector"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Finding a specific phrase in a text using Neuro-Linguistic Programming in Python",
@@ -2130,33 +2183,20 @@
       "user": "C&#233;sar Mart&#237;nez"
     },
     {
-      "title": "OSError: Repo id must use alphanumeric chars, '-', '_' or '.'. The name cannot start or end with '-' or '.' ........ 'T5ForConditionalGeneration(",
-      "url": "https://stackoverflow.com/questions/80004401/oserror-repo-id-must-use-alphanumeric-chars-or-the-name-cannot-s",
-      "published_at": "2026-09-20T06:36:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
+      "published_at": "2026-09-21T20:57:10.000Z",
+      "description": "I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information",
       "tags": [
-        "python",
-        "huggingface-transformers"
+        "Python",
+        "Blogging",
+        "markdown",
+        "blog",
+        "academic writing"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bussller"
-    },
-    {
-      "title": "Display every conversation that matches the selected sentiment",
-      "url": "https://stackoverflow.com/questions/80003937/display-every-conversation-that-matches-the-selected-sentiment",
-      "published_at": "2026-09-18T01:36:29.000Z",
-      "description": "Stack Overflow question · 4 answers · score -1",
-      "tags": [
-        "python",
-        "dictionary",
-        "data-wrangling",
-        "data-retrieval",
-        "data-filtering"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David"
+      "source": "freeCodeCamp",
+      "user": "brooklyn"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
@@ -2447,24 +2487,10 @@
       "user": "velmu"
     },
     {
-      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
-      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
-      "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lance"
-    },
-    {
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2474,6 +2500,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marcus M&#252;ller"
+    },
+    {
+      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
+      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
+      "published_at": "2026-09-22T00:15:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lance"
     },
     {
       "title": "Trouble with getting RGB data from getImageData()",
@@ -2503,20 +2543,6 @@
       "user": "AB C"
     },
     {
-      "title": "React input form not rendering",
-      "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
-      "published_at": "2026-09-21T00:07:59.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
-    },
-    {
       "title": "Toggle tab panes using onclick",
       "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
       "published_at": "2026-09-19T19:17:23.000Z",
@@ -2529,6 +2555,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
+    },
+    {
+      "title": "React input form not rendering",
+      "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
+      "published_at": "2026-09-21T00:07:59.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BoJacks JJ"
     },
     {
       "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
@@ -2560,21 +2600,6 @@
   ],
   "Mobile": [
     {
-      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
-      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
-      "published_at": "2026-09-20T20:43:19Z",
-      "description": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.",
-      "tags": [
-        "dart",
-        "flutter",
-        "architecture",
-        "concurrency"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
       "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9",
       "published_at": "2026-09-20T20:03:10Z",
@@ -2601,6 +2626,21 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
+      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
+      "published_at": "2026-09-20T20:43:19Z",
+      "description": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.",
+      "tags": [
+        "dart",
+        "flutter",
+        "architecture",
+        "concurrency"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2635,21 +2675,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "droidrun/mobile-jev - GitHub Repository",
-      "url": "https://github.com/droidrun/mobile-jev",
-      "published_at": "2026-09-17T10:41:01Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
-      "source": "GitHub",
-      "stars": 323,
-      "user": "droidrun"
-    },
-    {
       "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
       "url": "https://github.com/kdbhalala/avdslim",
       "published_at": "2026-09-16T06:52:40Z",
@@ -2661,7 +2686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 178,
       "user": "kdbhalala"
     },
     {
@@ -2949,7 +2974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3861,
+      "stars": 4297,
       "user": "mizorewww"
     },
     {
@@ -3013,7 +3038,7 @@
       "title": "How can I use a composite IN query with Postgres.js?",
       "url": "https://stackoverflow.com/questions/80004727/how-can-i-use-a-composite-in-query-with-postgres-js",
       "published_at": "2026-09-21T16:34:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "postgresql",
@@ -3505,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 549,
       "user": "Sac-Y"
     },
     {
@@ -3520,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 542,
       "user": "dofastted"
     },
     {
@@ -3535,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 489,
       "user": "rmalde"
     },
     {
@@ -3550,23 +3575,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 336,
       "user": "wy-coliney"
     },
     {
-      "title": "droidrun/mobile-jev - GitHub Repository",
-      "url": "https://github.com/droidrun/mobile-jev",
-      "published_at": "2026-09-17T10:41:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "url": "https://github.com/logicrw/awesome-jev-projects",
+      "published_at": "2026-09-18T06:41:50Z",
+      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 323,
-      "user": "droidrun"
+      "stars": 336,
+      "user": "logicrw"
     },
     {
       "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
@@ -3580,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 15755,
+      "stars": 16536,
       "user": "browser-use"
     },
     {
@@ -3595,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 10345,
+      "stars": 11943,
       "user": "NandhaKishorM"
     },
     {
@@ -3610,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3861,
+      "stars": 4297,
       "user": "mizorewww"
     },
     {
@@ -3625,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3248,
+      "stars": 3390,
       "user": "TheoLeeCJ"
     },
     {
@@ -3640,7 +3665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2457,
+      "stars": 2702,
       "user": "jaredpalmer"
     },
     {
@@ -3655,7 +3680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 573,
       "user": "gylive"
     },
     {
@@ -3670,7 +3695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "HyNetworks"
     },
     {
@@ -3685,23 +3710,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 229,
       "user": "itsmostafa"
-    },
-    {
-      "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
-      "url": "https://github.com/kdbhalala/avdslim",
-      "published_at": "2026-09-16T06:52:40Z",
-      "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "kdbhalala"
     },
     {
       "title": "wangyunjeff/sub2api-state-kit - Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
@@ -3715,8 +3725,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 178,
       "user": "wangyunjeff"
+    },
+    {
+      "title": "kdbhalala/avdslim - ⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "url": "https://github.com/kdbhalala/avdslim",
+      "published_at": "2026-09-16T06:52:40Z",
+      "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
+      "source": "GitHub",
+      "stars": 178,
+      "user": "kdbhalala"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -3730,7 +3755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5966,
+      "stars": 6063,
       "user": "tamaratran"
     },
     {
@@ -3745,7 +3770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5606,
+      "stars": 5925,
       "user": "zai-org"
     },
     {
@@ -3760,7 +3785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1856,
+      "stars": 1895,
       "user": "jarrodwatts"
     },
     {
@@ -3775,7 +3800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 704,
       "user": "githubnext"
     },
     {
@@ -3790,7 +3815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 664,
       "user": "hydra-db"
     },
     {
@@ -3805,7 +3830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 514,
       "user": "Lumid-Off"
     },
     {
@@ -3820,7 +3845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 469,
       "user": "Haleclipse"
     },
     {
@@ -3835,7 +3860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 290,
       "user": "eliasstravik"
     },
     {
@@ -3850,23 +3875,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 237,
       "user": "ejfkdev"
     },
     {
-      "title": "leoliu0/ratex - GitHub Repository",
-      "url": "https://github.com/leoliu0/ratex",
-      "published_at": "2026-09-16T05:19:37Z",
-      "description": "Trending GitHub Repository",
+      "title": "ghuntley/underclass - underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
+      "url": "https://github.com/ghuntley/underclass",
+      "published_at": "2026-09-20T07:00:32Z",
+      "description": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38640768?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 148,
-      "user": "leoliu0"
+      "stars": 151,
+      "user": "ghuntley"
     },
     {
       "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
@@ -3881,6 +3906,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "daniele"
+    },
+    {
+      "title": "Is there a better alternative to using os.getenv() for FastAPI settings?",
+      "url": "https://stackoverflow.com/questions/80004839/is-there-a-better-alternative-to-using-os-getenv-for-fastapi-settings",
+      "published_at": "2026-09-22T04:54:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user30892144"
     },
     {
       "title": "X will now tell users when governments have forced it to limit their posts",
