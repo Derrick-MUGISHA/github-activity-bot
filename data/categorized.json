@@ -106,21 +106,6 @@
       "user": "JimmyLiao"
     },
     {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
-      "published_at": "2026-09-17T09:57:31Z",
-      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
-      "tags": [
-        "security",
-        "devops",
-        "docker",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
       "published_at": "2026-09-13T18:25:49Z",
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 369,
       "user": "logicrw"
     },
     {
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 3026,
+      "stars": 3457,
       "user": "jaredpalmer"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "itsmostafa"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6127,
+      "stars": 6209,
       "user": "zai-org"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1957,
+      "stars": 1995,
       "user": "jarrodwatts"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 804,
       "user": "hydra-db"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 607,
       "user": "Lumid-Off"
     },
     {
@@ -821,26 +806,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "ghuntley"
     },
     {
-      "title": "I said no and Apple said yes",
-      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-      "published_at": "2026-09-22T02:27:56.998-05:00",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "published_at": "2026-09-22T06:55:39.143-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "privacy"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "bezdomni"
+      "user": "cgrinds"
     },
     {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
       "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
       "published_at": "2026-09-22T10:52:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "twilio",
@@ -866,110 +851,123 @@
       "user": "Horus Lupercal"
     },
     {
-      "title": "Morphotonics raises €40M to expand its display tech into data centers",
-      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-      "published_at": "2026-09-22T06:00:00.000Z",
-      "description": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "deep tech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta, Dominic-Madori Davis"
-    },
-    {
-      "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "published_at": "2026-09-21T23:44:28.000Z",
-      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "agentic commerce",
-        "Apple",
-        "ron johnson"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "published_at": "2026-09-21T20:15:58.000Z",
-      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "tags": [
-        "AI",
-        "mathematics",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-21T19:25:00.000Z",
-      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Biotech & Health",
-        "Climate",
-        "Fintech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jessica Barrera"
-    },
-    {
-      "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "published_at": "2026-09-21T19:19:21.000Z",
-      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "tags": [
-        "AI",
-        "Apps",
-        "TC",
-        "Meta",
-        "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "published_at": "2026-09-21T18:23:05.000Z",
-      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "published_at": "2026-09-22T15:00:00.000Z",
+      "description": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
       "tags": [
         "Climate",
-        "Kairos Power",
-        "nuclear power"
+        "Startup Battlefield 200"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
     },
     {
-      "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "published_at": "2026-09-21T17:55:18.000Z",
-      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "published_at": "2026-09-22T15:00:00.000Z",
+      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
       "tags": [
+        "TC",
+        "Startups",
         "AI",
-        "Amazon",
-        "In Brief",
-        "Meta",
-        "muse"
+        "Robotics",
+        "Okta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "published_at": "2026-09-22T15:00:00.000Z",
+      "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "tags": [
+        "Space",
+        "AI",
+        "Exclusive",
+        "space startups",
+        "astroforge"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "published_at": "2026-09-22T14:30:00.000Z",
+      "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "tags": [
+        "Startups",
+        "Hardware",
+        "AI",
+        "Robotics",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "published_at": "2026-09-22T14:15:00.000Z",
+      "description": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+      "tags": [
+        "Startups",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+      "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+      "published_at": "2026-09-22T13:20:00.000Z",
+      "description": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
+      "tags": [
+        "Fundraising",
+        "Hardware",
+        "Startups",
+        "semiconductors"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+      "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+      "published_at": "2026-09-22T13:00:00.000Z",
+      "description": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
+      "tags": [
+        "Climate",
+        "Breakthrough Energy",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Everyone can find a reason to dislike data center construction",
+      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "published_at": "2026-09-22T13:00:00.000Z",
+      "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "tags": [
+        "AI",
+        "data centers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
@@ -1304,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 574,
       "user": "Sac-Y"
     },
     {
@@ -1319,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 544,
       "user": "dofastted"
     },
     {
@@ -1334,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 510,
       "user": "rmalde"
     },
     {
@@ -1349,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 369,
       "user": "logicrw"
     },
     {
@@ -1364,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 364,
       "user": "wy-coliney"
     },
     {
@@ -1379,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6176,
+      "stars": 6240,
       "user": "tamaratran"
     },
     {
@@ -1394,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6127,
+      "stars": 6209,
       "user": "zai-org"
     },
     {
@@ -1409,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1957,
+      "stars": 1995,
       "user": "jarrodwatts"
     },
     {
@@ -1424,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 804,
       "user": "hydra-db"
     },
     {
@@ -1439,14 +1437,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 721,
       "user": "githubnext"
+    },
+    {
+      "title": "Correct tags to make hamburger menu open on iOS",
+      "url": "https://stackoverflow.com/questions/80004950/correct-tags-to-make-hamburger-menu-open-on-ios",
+      "published_at": "2026-09-22T12:17:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "ios",
+        "mobile",
+        "responsive-design"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Silent Takudzwa"
+    },
+    {
+      "title": "Modifying elements of SVG image as background-image property",
+      "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
+      "published_at": "2026-09-21T22:58:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "svg",
+        "background-image"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marcus M&#252;ller"
     },
     {
       "title": "How do I download any quality video through yt-dlp in browser rather than in yt-dlp.exe location directory",
       "url": "https://stackoverflow.com/questions/80004866/how-do-i-download-any-quality-video-through-yt-dlp-in-browser-rather-than-in-yt",
       "published_at": "2026-09-22T07:02:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "node.js",
@@ -1472,35 +1500,6 @@
       "user": "Wammy"
     },
     {
-      "title": "Modifying elements of SVG image as background-image property",
-      "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
-      "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "svg",
-        "background-image"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marcus M&#252;ller"
-    },
-    {
-      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
-      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
-      "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lance"
-    },
-    {
       "title": "Trouble with getting RGB data from getImageData()",
       "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
       "published_at": "2026-09-21T19:00:35.000Z",
@@ -1512,6 +1511,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MijiGamin1"
+    },
+    {
+      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
+      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
+      "published_at": "2026-09-22T00:15:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lance"
     },
     {
       "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
@@ -1559,7 +1572,7 @@
       "title": "Toggle tab panes using onclick",
       "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
       "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 6 answers · score 5",
+      "description": "Stack Overflow question · 6 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -1570,24 +1583,10 @@
       "user": "lunaregemini"
     },
     {
-      "title": "React input form not rendering",
-      "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
-      "published_at": "2026-09-21T00:07:59.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
-    },
-    {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
       "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
       "published_at": "2026-09-22T10:52:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "twilio",
@@ -1597,32 +1596,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Haydar Hinisli"
-    },
-    {
-      "title": "How should I safely clear extracted JSON data when a corresponding section is missing from OCR markdown in Python?",
-      "url": "https://stackoverflow.com/questions/80004819/how-should-i-safely-clear-extracted-json-data-when-a-corresponding-section-is-mi",
-      "published_at": "2026-09-22T01:32:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hitesh Aswani"
-    },
-    {
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "published_at": "2026-09-21T18:23:05.000Z",
-      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
-      "tags": [
-        "Climate",
-        "Kairos Power",
-        "nuclear power"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1656,21 +1629,6 @@
   ],
   "Python": [
     {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
       "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
       "published_at": "2026-09-20T23:30:02Z",
@@ -1684,6 +1642,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
       "source": "Dev.to",
       "user": "Wataru Suda"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
@@ -1952,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 17357,
+      "stars": 17681,
       "user": "browser-use"
     },
     {
@@ -1967,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 13838,
+      "stars": 15073,
       "user": "NandhaKishorM"
     },
     {
@@ -1982,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 4818,
+      "stars": 5118,
       "user": "mizorewww"
     },
     {
@@ -1997,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3559,
+      "stars": 3679,
       "user": "TheoLeeCJ"
     },
     {
@@ -2012,14 +1985,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 3026,
+      "stars": 3457,
       "user": "jaredpalmer"
+    },
+    {
+      "title": "Replace duplicated DataFrame indices with a single Series",
+      "url": "https://stackoverflow.com/questions/80004970/replace-duplicated-dataframe-indices-with-a-single-series",
+      "published_at": "2026-09-22T13:28:35.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "pandas"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kes Perron"
+    },
+    {
+      "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
+      "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
+      "published_at": "2026-09-22T12:53:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 5",
+      "tags": [
+        "python",
+        "c++",
+        "binaryfiles"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "machiel"
     },
     {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
       "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
       "published_at": "2026-09-22T10:52:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "twilio",
@@ -2034,7 +2034,7 @@
       "title": "I am trying to use cap = cv2.VideoCapture() and i have to keep changing the camera index to like 0 or 1 or 2",
       "url": "https://stackoverflow.com/questions/80004888/i-am-trying-to-use-cap-cv2-videocapture-and-i-have-to-keep-changing-the-came",
       "published_at": "2026-09-22T08:32:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "macos",
@@ -2060,16 +2060,17 @@
       "user": "user30892144"
     },
     {
-      "title": "How should I safely clear extracted JSON data when a corresponding section is missing from OCR markdown in Python?",
-      "url": "https://stackoverflow.com/questions/80004819/how-should-i-safely-clear-extracted-json-data-when-a-corresponding-section-is-mi",
-      "published_at": "2026-09-22T01:32:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
+      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
+      "published_at": "2026-09-21T21:15:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "python"
+        "python",
+        "python-dataclasses"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Hitesh Aswani"
+      "user": "unknownx"
     },
     {
       "title": "Subclassing mysql.connector",
@@ -2085,22 +2086,10 @@
       "user": "NickC"
     },
     {
-      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
-      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
-      "published_at": "2026-09-21T21:15:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "unknownx"
-    },
-    {
       "title": "Projectile flies horizontally instead of toward the clicked point",
       "url": "https://stackoverflow.com/questions/80004776/projectile-flies-horizontally-instead-of-toward-the-clicked-point",
       "published_at": "2026-09-21T20:50:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "panda3d"
@@ -2137,21 +2126,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "giak"
-    },
-    {
-      "title": "MEGA-CC for selection of the best DNA model for an alignment",
-      "url": "https://stackoverflow.com/questions/80004527/mega-cc-for-selection-of-the-best-dna-model-for-an-alignment",
-      "published_at": "2026-09-21T00:52:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "pipeline",
-        "bioinformatics",
-        "phylogeny"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "C&#233;sar Mart&#237;nez"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2247,21 +2221,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
-      "published_at": "2026-09-17T09:57:31Z",
-      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
-      "tags": [
-        "security",
-        "devops",
-        "docker",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2414,21 +2373,6 @@
       "user": "jknupp"
     },
     {
-      "title": "Cheap and easy throwaway VPN server",
-      "url": "https://a.l3x.in/blog/throwaway-vpn/",
-      "published_at": "2026-09-22T01:56:57.611-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "networking",
-        "privacy",
-        "show"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Al3xFor"
-    },
-    {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
       "published_at": "2026-09-18T16:03:13.000Z",
@@ -2476,7 +2420,7 @@
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2486,20 +2430,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marcus M&#252;ller"
-    },
-    {
-      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
-      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
-      "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lance"
     },
     {
       "title": "Trouble with getting RGB data from getImageData()",
@@ -2513,6 +2443,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MijiGamin1"
+    },
+    {
+      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
+      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
+      "published_at": "2026-09-22T00:15:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lance"
     },
     {
       "title": "How to make it so tab doesn't go to the next text box in HTML?",
@@ -2532,7 +2476,7 @@
       "title": "Toggle tab panes using onclick",
       "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
       "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 6 answers · score 5",
+      "description": "Stack Overflow question · 6 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -2541,20 +2485,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
-    },
-    {
-      "title": "React input form not rendering",
-      "url": "https://stackoverflow.com/questions/80004523/react-input-form-not-rendering",
-      "published_at": "2026-09-21T00:07:59.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2658,24 +2588,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "kdbhalala"
     },
     {
-      "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "published_at": "2026-09-21T19:19:21.000Z",
-      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "title": "Correct tags to make hamburger menu open on iOS",
+      "url": "https://stackoverflow.com/questions/80004950/correct-tags-to-make-hamburger-menu-open-on-ios",
+      "published_at": "2026-09-22T12:17:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "AI",
-        "Apps",
-        "TC",
-        "Meta",
-        "muse"
+        "javascript",
+        "ios",
+        "mobile",
+        "responsive-design"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "StackOverflow",
+      "user": "Silent Takudzwa"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -2946,24 +2875,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 4818,
+      "stars": 5118,
       "user": "mizorewww"
     },
     {
-      "title": "X will now tell users when governments have forced it to limit their posts",
-      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-      "published_at": "2026-09-21T17:45:35.000Z",
-      "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "published_at": "2026-09-22T15:00:00.000Z",
+      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
       "tags": [
-        "Apps",
-        "Government & Policy",
-        "Social",
-        "social media",
-        "X"
+        "TC",
+        "Startups",
+        "AI",
+        "Robotics",
+        "Okta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "user": "TechCrunch Events"
     }
   ],
   "Database": [
@@ -3038,21 +2967,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
-      "published_at": "2026-09-17T09:57:31Z",
-      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
-      "tags": [
-        "security",
-        "devops",
-        "docker",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
@@ -3219,21 +3133,6 @@
   ],
   "Tools": [
     {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -3262,6 +3161,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
@@ -3446,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 574,
       "user": "Sac-Y"
     },
     {
@@ -3461,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 544,
       "user": "dofastted"
     },
     {
@@ -3476,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 510,
       "user": "rmalde"
     },
     {
@@ -3491,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 369,
       "user": "logicrw"
     },
     {
@@ -3506,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 364,
       "user": "wy-coliney"
     },
     {
@@ -3521,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 17357,
+      "stars": 17681,
       "user": "browser-use"
     },
     {
@@ -3536,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 13838,
+      "stars": 15073,
       "user": "NandhaKishorM"
     },
     {
@@ -3551,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 4818,
+      "stars": 5118,
       "user": "mizorewww"
     },
     {
@@ -3566,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3559,
+      "stars": 3679,
       "user": "TheoLeeCJ"
     },
     {
@@ -3581,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 3026,
+      "stars": 3457,
       "user": "jaredpalmer"
     },
     {
@@ -3596,23 +3510,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 589,
       "user": "gylive"
-    },
-    {
-      "title": "HyNetworks/OpenGFW - OpenGFW is your very own DIY Great Firewall of China",
-      "url": "https://github.com/HyNetworks/OpenGFW",
-      "published_at": "2026-09-19T09:21:17Z",
-      "description": "OpenGFW is your very own DIY Great Firewall of China",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
-      "source": "GitHub",
-      "stars": 249,
-      "user": "HyNetworks"
     },
     {
       "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
@@ -3626,8 +3525,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "itsmostafa"
+    },
+    {
+      "title": "HyNetworks/OpenGFW - OpenGFW is your very own DIY Great Firewall of China",
+      "url": "https://github.com/HyNetworks/OpenGFW",
+      "published_at": "2026-09-19T09:21:17Z",
+      "description": "OpenGFW is your very own DIY Great Firewall of China",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "HyNetworks"
     },
     {
       "title": "wangyunjeff/sub2api-state-kit - Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
@@ -3641,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 191,
       "user": "wangyunjeff"
     },
     {
@@ -3656,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "kdbhalala"
     },
     {
@@ -3671,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6176,
+      "stars": 6240,
       "user": "tamaratran"
     },
     {
@@ -3686,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6127,
+      "stars": 6209,
       "user": "zai-org"
     },
     {
@@ -3701,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1957,
+      "stars": 1995,
       "user": "jarrodwatts"
     },
     {
@@ -3716,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 804,
       "user": "hydra-db"
     },
     {
@@ -3731,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 721,
       "user": "githubnext"
     },
     {
@@ -3746,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 607,
       "user": "Lumid-Off"
     },
     {
@@ -3761,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 484,
       "user": "Haleclipse"
     },
     {
@@ -3776,7 +3690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 298,
       "user": "eliasstravik"
     },
     {
@@ -3791,7 +3705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 260,
       "user": "ejfkdev"
     },
     {
@@ -3806,7 +3720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "ghuntley"
     },
     {
@@ -3834,22 +3748,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user30892144"
-    },
-    {
-      "title": "X will now tell users when governments have forced it to limit their posts",
-      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-      "published_at": "2026-09-21T17:45:35.000Z",
-      "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "Social",
-        "social media",
-        "X"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
