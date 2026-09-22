@@ -1,6 +1,19 @@
 {
   "AI": [
     {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
+      "published_at": "2026-09-22T17:48:24Z",
+      "description": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "tags": [
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -701,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 382,
       "user": "logicrw"
     },
     {
@@ -716,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 3856,
+      "stars": 4101,
       "user": "jaredpalmer"
     },
     {
@@ -731,14 +744,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 768,
       "user": "unreallabsai"
     },
     {
-      "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
       "url": "https://github.com/itsmostafa/typesafe-mcp",
       "published_at": "2026-09-17T05:23:34Z",
-      "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
       "tags": [
         "go",
         "github",
@@ -746,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "itsmostafa"
     },
     {
@@ -761,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6248,
+      "stars": 6271,
       "user": "zai-org"
     },
     {
@@ -776,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2052,
       "user": "jarrodwatts"
     },
     {
@@ -791,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 842,
       "user": "hydra-db"
     },
     {
@@ -806,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 626,
       "user": "Lumid-Off"
     },
     {
@@ -851,6 +864,36 @@
       "user": "Horus Lupercal"
     },
     {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "published_at": "2026-09-22T21:56:43.000Z",
+      "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "data labeling",
+        "snorkel ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "published_at": "2026-09-22T20:00:00.000Z",
+      "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Qualcomm"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence",
       "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
       "published_at": "2026-09-22T19:09:11.000Z",
@@ -873,10 +916,10 @@
       "description": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
       "tags": [
         "Security",
-        "hack",
-        "FBI",
+        "counterintelligence",
+        "cyberattack",
         "cybersecurity",
-        "cyberattack"
+        "FBI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -910,53 +953,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
-      "published_at": "2026-09-22T15:00:00.000Z",
-      "description": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
-      "tags": [
-        "Climate",
-        "EV chargers",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "published_at": "2026-09-22T15:00:00.000Z",
-      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Anthropic",
-        "AWS",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "published_at": "2026-09-22T15:00:00.000Z",
-      "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-      "tags": [
-        "AI",
-        "Space",
-        "astroforge",
-        "Exclusive",
-        "space startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
@@ -1321,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "rmalde"
     },
     {
@@ -1336,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 382,
       "user": "logicrw"
     },
     {
@@ -1351,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "wy-coliney"
     },
     {
@@ -1366,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6272,
+      "stars": 6298,
       "user": "tamaratran"
     },
     {
@@ -1381,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6248,
+      "stars": 6271,
       "user": "zai-org"
     },
     {
@@ -1396,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2052,
       "user": "jarrodwatts"
     },
     {
@@ -1411,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 842,
       "user": "hydra-db"
     },
     {
@@ -1426,8 +1422,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 728,
       "user": "githubnext"
+    },
+    {
+      "title": "How to use array.prototype.every to check if all audio files are muted",
+      "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
+      "published_at": "2026-09-22T20:14:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "arrays"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "camwormy"
     },
     {
       "title": "Correct tags to make hamburger menu open on iOS",
@@ -1460,6 +1470,20 @@
       "user": "Marcus M&#252;ller"
     },
     {
+      "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
+      "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
+      "published_at": "2026-09-21T20:48:41.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "google-analytics",
+        "google-analytics-4"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ahmad Ataya"
+    },
+    {
       "title": "Repeat previous value inside a forEach loop when reaching a key with no value",
       "url": "https://stackoverflow.com/questions/80004853/repeat-previous-value-inside-a-foreach-loop-when-reaching-a-key-with-no-value",
       "published_at": "2026-09-22T06:16:45.000Z",
@@ -1476,7 +1500,7 @@
       "title": "How do I download any quality video through yt-dlp in browser rather than in yt-dlp.exe location directory",
       "url": "https://stackoverflow.com/questions/80004866/how-do-i-download-any-quality-video-through-yt-dlp-in-browser-rather-than-in-yt",
       "published_at": "2026-09-22T07:02:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "node.js",
@@ -1487,20 +1511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "webdevShubhamKumar"
-    },
-    {
-      "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
-      "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
-      "published_at": "2026-09-21T20:48:41.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "google-analytics",
-        "google-analytics-4"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmad Ataya"
     },
     {
       "title": "Trouble with getting RGB data from getImageData()",
@@ -1556,20 +1566,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
-    },
-    {
-      "title": "How to make it so tab doesn't go to the next text box in HTML?",
-      "url": "https://stackoverflow.com/questions/80004679/how-to-make-it-so-tab-doesnt-go-to-the-next-text-box-in-html",
-      "published_at": "2026-09-21T13:50:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "lm-studio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AB C"
     },
     {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
@@ -1914,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 17891,
+      "stars": 17993,
       "user": "browser-use"
     },
     {
@@ -1929,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 15871,
+      "stars": 16296,
       "user": "NandhaKishorM"
     },
     {
@@ -1944,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5278,
+      "stars": 5396,
       "user": "mizorewww"
     },
     {
@@ -1959,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 3856,
+      "stars": 4101,
       "user": "jaredpalmer"
     },
     {
@@ -1974,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3760,
+      "stars": 3814,
       "user": "TheoLeeCJ"
     },
     {
@@ -2016,6 +2012,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammed Irfan"
+    },
+    {
+      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
+      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
+      "published_at": "2026-09-21T21:15:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "python-dataclasses"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "unknownx"
     },
     {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
@@ -2060,19 +2069,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Esh"
-    },
-    {
-      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
-      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
-      "published_at": "2026-09-21T21:15:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-dataclasses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "unknownx"
     },
     {
       "title": "Subclassing mysql.connector",
@@ -2404,6 +2400,20 @@
       "user": "velmu"
     },
     {
+      "title": "How to use array.prototype.every to check if all audio files are muted",
+      "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
+      "published_at": "2026-09-22T20:14:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "arrays"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "camwormy"
+    },
+    {
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
@@ -2458,20 +2468,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
-    },
-    {
-      "title": "How to make it so tab doesn't go to the next text box in HTML?",
-      "url": "https://stackoverflow.com/questions/80004679/how-to-make-it-so-tab-doesnt-go-to-the-next-text-box-in-html",
-      "published_at": "2026-09-21T13:50:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "lm-studio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AB C"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2596,6 +2592,19 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
+      "published_at": "2026-09-22T17:48:24Z",
+      "description": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "tags": [
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
     {
       "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
       "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
@@ -2847,24 +2856,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5278,
+      "stars": 5396,
       "user": "mizorewww"
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "published_at": "2026-09-22T15:00:00.000Z",
-      "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Anthropic",
-        "AWS",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     }
   ],
   "Database": [
@@ -3088,29 +3081,16 @@
       "user": "ewenjo"
     },
     {
-      "title": "EvilVM: Forth shellcode",
-      "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
-      "published_at": "2026-09-22T09:10:07.498-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "concatenative",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vinipsmaker"
-    },
-    {
       "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents&#8217; and applicants&#8217; data",
       "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
       "published_at": "2026-09-22T18:40:30.000Z",
       "description": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
       "tags": [
         "Security",
-        "hack",
-        "FBI",
+        "counterintelligence",
+        "cyberattack",
         "cybersecurity",
-        "cyberattack"
+        "FBI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3407,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "rmalde"
     },
     {
@@ -3422,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 382,
       "user": "logicrw"
     },
     {
@@ -3437,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "wy-coliney"
     },
     {
@@ -3452,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 17891,
+      "stars": 17993,
       "user": "browser-use"
     },
     {
@@ -3467,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 15871,
+      "stars": 16296,
       "user": "NandhaKishorM"
     },
     {
@@ -3482,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5278,
+      "stars": 5396,
       "user": "mizorewww"
     },
     {
@@ -3497,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 3856,
+      "stars": 4101,
       "user": "jaredpalmer"
     },
     {
@@ -3512,8 +3492,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3760,
+      "stars": 3814,
       "user": "TheoLeeCJ"
+    },
+    {
+      "title": "unreallabsai/unreal-agent - Async-first agent harness",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "published_at": "2026-09-21T23:14:02Z",
+      "description": "Async-first agent harness",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
+      "source": "GitHub",
+      "stars": 768,
+      "user": "unreallabsai"
     },
     {
       "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
@@ -3531,25 +3526,10 @@
       "user": "gylive"
     },
     {
-      "title": "unreallabsai/unreal-agent - Async-first agent harness",
-      "url": "https://github.com/unreallabsai/unreal-agent",
-      "published_at": "2026-09-21T23:14:02Z",
-      "description": "Async-first agent harness",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
-      "source": "GitHub",
-      "stars": 332,
-      "user": "unreallabsai"
-    },
-    {
-      "title": "itsmostafa/typesafe-mcp - mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
       "url": "https://github.com/itsmostafa/typesafe-mcp",
       "published_at": "2026-09-17T05:23:34Z",
-      "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+      "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
       "tags": [
         "go",
         "github",
@@ -3557,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "itsmostafa"
     },
     {
@@ -3602,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6272,
+      "stars": 6298,
       "user": "tamaratran"
     },
     {
@@ -3617,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6248,
+      "stars": 6271,
       "user": "zai-org"
     },
     {
@@ -3632,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2052,
       "user": "jarrodwatts"
     },
     {
@@ -3647,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 842,
       "user": "hydra-db"
     },
     {
@@ -3662,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 728,
       "user": "githubnext"
     },
     {
@@ -3677,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 626,
       "user": "Lumid-Off"
     },
     {
@@ -3707,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 302,
       "user": "eliasstravik"
     },
     {
@@ -3737,7 +3717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38640768?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "leoliu0"
     },
     {
