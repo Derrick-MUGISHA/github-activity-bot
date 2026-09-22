@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
+      "published_at": "2026-09-20T23:30:02Z",
+      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
+      "tags": [
+        "python",
+        "debugging",
+        "api",
+        "postmortem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
+      "source": "Dev.to",
+      "user": "Wataru Suda"
+    },
+    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -31,21 +46,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
-      "published_at": "2026-09-20T23:30:02Z",
-      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
-      "tags": [
-        "python",
-        "debugging",
-        "api",
-        "postmortem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
-      "source": "Dev.to",
-      "user": "Wataru Suda"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -74,36 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
-      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
-      "published_at": "2026-09-09T20:19:53Z",
-      "description": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
@@ -750,21 +720,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "published_at": "2026-09-15T09:39:14Z",
-      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
-      "source": "GitHub",
-      "stars": 755,
-      "user": "theoephraim"
-    },
-    {
       "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
       "url": "https://github.com/jaredpalmer/kev",
       "published_at": "2026-09-17T20:49:39Z",
@@ -776,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2362,
+      "stars": 2457,
       "user": "jaredpalmer"
     },
     {
@@ -791,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 217,
       "user": "itsmostafa"
     },
     {
@@ -806,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5534,
+      "stars": 5606,
       "user": "zai-org"
     },
     {
@@ -821,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1832,
+      "stars": 1856,
       "user": "jarrodwatts"
     },
     {
@@ -836,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 590,
       "user": "hydra-db"
     },
     {
@@ -851,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 472,
       "user": "Lumid-Off"
     },
     {
@@ -897,6 +852,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Horus Lupercal"
+    },
+    {
+      "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "published_at": "2026-09-21T23:44:28.000Z",
+      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "agentic commerce",
+        "Apple",
+        "ron johnson"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
@@ -1004,22 +975,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "published_at": "2026-09-21T14:39:22.000Z",
-      "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "chromebook",
-        "gemini",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
@@ -1157,21 +1112,6 @@
         "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
-      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
-      "published_at": "2026-09-09T20:19:53Z",
-      "description": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -1371,21 +1311,6 @@
       "user": "velmu"
     },
     {
-      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "published_at": "2026-09-15T09:39:14Z",
-      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
-      "source": "GitHub",
-      "stars": 755,
-      "user": "theoephraim"
-    },
-    {
       "title": "Sac-Y/Jev-cu - GitHub Repository",
       "url": "https://github.com/Sac-Y/Jev-cu",
       "published_at": "2026-09-18T16:56:08Z",
@@ -1397,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "Sac-Y"
     },
     {
@@ -1412,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 539,
       "user": "dofastted"
     },
     {
@@ -1427,8 +1352,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 471,
       "user": "rmalde"
+    },
+    {
+      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "url": "https://github.com/wy-coliney/jev-browser-use",
+      "published_at": "2026-09-18T06:58:34Z",
+      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "wy-coliney"
     },
     {
       "title": "droidrun/mobile-jev - GitHub Repository",
@@ -1442,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "droidrun"
     },
     {
@@ -1457,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5933,
+      "stars": 5966,
       "user": "tamaratran"
     },
     {
@@ -1472,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5534,
+      "stars": 5606,
       "user": "zai-org"
     },
     {
@@ -1487,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1832,
+      "stars": 1856,
       "user": "jarrodwatts"
     },
     {
@@ -1502,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 698,
       "user": "githubnext"
     },
     {
@@ -1517,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 590,
       "user": "hydra-db"
     },
     {
@@ -1535,6 +1475,35 @@
       "user": "daniele"
     },
     {
+      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
+      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
+      "published_at": "2026-09-22T00:15:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lance"
+    },
+    {
+      "title": "Modifying elements of SVG image as background-image property",
+      "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
+      "published_at": "2026-09-21T22:58:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "svg",
+        "background-image"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marcus M&#252;ller"
+    },
+    {
       "title": "Trouble with getting RGB data from getImageData()",
       "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
       "published_at": "2026-09-21T19:00:35.000Z",
@@ -1546,6 +1515,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MijiGamin1"
+    },
+    {
+      "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
+      "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
+      "published_at": "2026-09-21T20:48:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-analytics",
+        "google-analytics-4"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ahmad Ataya"
     },
     {
       "title": "How can I use a composite IN query with Postgres.js?",
@@ -1590,20 +1573,6 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
-      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
-      "published_at": "2026-09-21T02:20:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "css",
-        "lottie"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hann Undefined"
-    },
-    {
       "title": "Toggle tab panes using onclick",
       "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
       "published_at": "2026-09-19T19:17:23.000Z",
@@ -1616,6 +1585,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
+    },
+    {
+      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
+      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
+      "published_at": "2026-09-21T02:20:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "css",
+        "lottie"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hann Undefined"
     },
     {
       "title": "How to configure pg to work natively with Temporal.PlainDate?",
@@ -1632,46 +1615,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hb20007"
-    },
-    {
-      "title": "Scrape from a Javascript table",
-      "url": "https://stackoverflow.com/questions/80004548/scrape-from-a-javascript-table",
-      "published_at": "2026-09-21T03:42:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "advice",
-        "javascript",
-        "excel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bones"
-    },
-    {
-      "title": "How should I sort football standings when the API already returns a position field?",
-      "url": "https://stackoverflow.com/questions/80004427/how-should-i-sort-football-standings-when-the-api-already-returns-a-position-fie",
-      "published_at": "2026-09-20T11:33:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -12",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "veotuises"
-    },
-    {
-      "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
-      "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
-      "published_at": "2026-09-18T14:57:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "intersection-observer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "timholz"
     },
     {
       "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
@@ -1745,21 +1688,6 @@
         "dataengineering"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2030,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 15521,
+      "stars": 15755,
       "user": "browser-use"
     },
     {
@@ -2045,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 9838,
+      "stars": 10345,
       "user": "NandhaKishorM"
     },
     {
@@ -2060,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3674,
+      "stars": 3861,
       "user": "mizorewww"
     },
     {
@@ -2075,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3176,
+      "stars": 3248,
       "user": "TheoLeeCJ"
     },
     {
@@ -2090,17 +2018,17 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2362,
+      "stars": 2457,
       "user": "jaredpalmer"
     },
     {
       "title": "Subclassing mysql.connector",
       "url": "https://stackoverflow.com/questions/80004790/subclassing-mysql-connector",
       "published_at": "2026-09-21T21:38:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
-        "mysql"
+        "mysql-connector"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2110,7 +2038,7 @@
       "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
       "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
       "published_at": "2026-09-21T21:15:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python"
       ],
@@ -2215,17 +2143,20 @@
       "user": "Bussller"
     },
     {
-      "title": "Adding columns in matplotlib graph breaks row layout",
-      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
-      "published_at": "2026-09-19T19:26:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "Display every conversation that matches the selected sentiment",
+      "url": "https://stackoverflow.com/questions/80003937/display-every-conversation-that-matches-the-selected-sentiment",
+      "published_at": "2026-09-18T01:36:29.000Z",
+      "description": "Stack Overflow question · 4 answers · score -1",
       "tags": [
         "python",
-        "matplotlib"
+        "dictionary",
+        "data-wrangling",
+        "data-retrieval",
+        "data-filtering"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Auguste Eclancher"
+      "user": "David"
     },
     {
       "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
@@ -2516,6 +2447,35 @@
       "user": "velmu"
     },
     {
+      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
+      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
+      "published_at": "2026-09-22T00:15:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lance"
+    },
+    {
+      "title": "Modifying elements of SVG image as background-image property",
+      "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
+      "published_at": "2026-09-21T22:58:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "svg",
+        "background-image"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marcus M&#252;ller"
+    },
+    {
       "title": "Trouble with getting RGB data from getImageData()",
       "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
       "published_at": "2026-09-21T19:00:35.000Z",
@@ -2557,20 +2517,6 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
-      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
-      "published_at": "2026-09-21T02:20:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "css",
-        "lottie"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hann Undefined"
-    },
-    {
       "title": "Toggle tab panes using onclick",
       "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
       "published_at": "2026-09-19T19:17:23.000Z",
@@ -2585,18 +2531,18 @@
       "user": "lunaregemini"
     },
     {
-      "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
-      "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
-      "published_at": "2026-09-18T14:57:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Why does my 64x64 pixel art DotLottie animation still look blurry even with image-rendering: pixelated and devicePixelRatio: 1?",
+      "url": "https://stackoverflow.com/questions/80004539/why-does-my-64x64-pixel-art-dotlottie-animation-still-look-blurry-even-with-imag",
+      "published_at": "2026-09-21T02:20:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
-        "html",
-        "intersection-observer"
+        "css",
+        "lottie"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "timholz"
+      "user": "Hann Undefined"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2613,6 +2559,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
+      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
+      "published_at": "2026-09-20T20:43:19Z",
+      "description": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.",
+      "tags": [
+        "dart",
+        "flutter",
+        "architecture",
+        "concurrency"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
     {
       "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
       "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9",
@@ -2644,21 +2605,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
-      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
-      "published_at": "2026-09-20T20:43:19Z",
-      "description": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.",
-      "tags": [
-        "dart",
-        "flutter",
-        "architecture",
-        "concurrency"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -2670,21 +2616,6 @@
         "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "The Modern Pitch for BlocSignal: Why Engineering Leads Are Moving to Reactive Primitives",
-      "url": "https://dev.to/gde/the-modern-pitch-for-blocsignal-why-engineering-leads-are-moving-to-reactive-primitives-5d5h",
-      "published_at": "2026-09-09T20:19:53Z",
-      "description": "A comprehensive guide for tech leads, staff architects, and engineering managers evaluating BlocSignal: cutting through CISC ceremony, unlocking AI agent velocity, eliminating the code-gen tax, and mastering push-pull reactivity.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwq96uam3msbnwq922ymu.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2715,7 +2646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "droidrun"
     },
     {
@@ -2730,7 +2661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "kdbhalala"
     },
     {
@@ -2779,21 +2710,6 @@
         "dataengineering"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3022,21 +2938,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "published_at": "2026-09-15T09:39:14Z",
-      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
-      "source": "GitHub",
-      "stars": 755,
-      "user": "theoephraim"
-    },
-    {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "url": "https://github.com/mizorewww/laya-mlx",
       "published_at": "2026-09-19T13:50:26Z",
@@ -3048,7 +2949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3674,
+      "stars": 3861,
       "user": "mizorewww"
     },
     {
@@ -3142,10 +3043,10 @@
       "title": "Subclassing mysql.connector",
       "url": "https://stackoverflow.com/questions/80004790/subclassing-mysql-connector",
       "published_at": "2026-09-21T21:38:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
-        "mysql"
+        "mysql-connector"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -3377,6 +3278,21 @@
   ],
   "Tools": [
     {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -3405,36 +3321,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
@@ -3608,21 +3494,6 @@
       "user": "pabs3"
     },
     {
-      "title": "theoephraim/awesome-cloudflare-selfhosted - 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "published_at": "2026-09-15T09:39:14Z",
-      "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1158956?v=4",
-      "source": "GitHub",
-      "stars": 755,
-      "user": "theoephraim"
-    },
-    {
       "title": "Sac-Y/Jev-cu - GitHub Repository",
       "url": "https://github.com/Sac-Y/Jev-cu",
       "published_at": "2026-09-18T16:56:08Z",
@@ -3634,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "Sac-Y"
     },
     {
@@ -3649,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 539,
       "user": "dofastted"
     },
     {
@@ -3664,8 +3535,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 471,
       "user": "rmalde"
+    },
+    {
+      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "url": "https://github.com/wy-coliney/jev-browser-use",
+      "published_at": "2026-09-18T06:58:34Z",
+      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "wy-coliney"
     },
     {
       "title": "droidrun/mobile-jev - GitHub Repository",
@@ -3679,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 323,
       "user": "droidrun"
     },
     {
@@ -3694,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 15521,
+      "stars": 15755,
       "user": "browser-use"
     },
     {
@@ -3709,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 9838,
+      "stars": 10345,
       "user": "NandhaKishorM"
     },
     {
@@ -3724,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 3674,
+      "stars": 3861,
       "user": "mizorewww"
     },
     {
@@ -3739,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
       "source": "GitHub",
-      "stars": 3176,
+      "stars": 3248,
       "user": "TheoLeeCJ"
     },
     {
@@ -3754,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 2362,
+      "stars": 2457,
       "user": "jaredpalmer"
     },
     {
@@ -3773,10 +3659,10 @@
       "user": "gylive"
     },
     {
-      "title": "HyNetworks/OpenGFW - GitHub Repository",
+      "title": "HyNetworks/OpenGFW - OpenGFW is your very own DIY Great Firewall of China",
       "url": "https://github.com/HyNetworks/OpenGFW",
       "published_at": "2026-09-19T09:21:17Z",
-      "description": "Trending GitHub Repository",
+      "description": "OpenGFW is your very own DIY Great Firewall of China",
       "tags": [
         "go",
         "github",
@@ -3799,7 +3685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 217,
       "user": "itsmostafa"
     },
     {
@@ -3814,7 +3700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20184673?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "kdbhalala"
     },
     {
@@ -3844,7 +3730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 5933,
+      "stars": 5966,
       "user": "tamaratran"
     },
     {
@@ -3859,7 +3745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 5534,
+      "stars": 5606,
       "user": "zai-org"
     },
     {
@@ -3874,7 +3760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
       "source": "GitHub",
-      "stars": 1832,
+      "stars": 1856,
       "user": "jarrodwatts"
     },
     {
@@ -3889,7 +3775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 698,
       "user": "githubnext"
     },
     {
@@ -3904,7 +3790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 590,
       "user": "hydra-db"
     },
     {
@@ -3919,7 +3805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 472,
       "user": "Lumid-Off"
     },
     {
@@ -3934,7 +3820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 454,
       "user": "Haleclipse"
     },
     {
@@ -3949,7 +3835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "eliasstravik"
     },
     {
@@ -3964,23 +3850,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 215,
       "user": "ejfkdev"
     },
     {
-      "title": "dmtrKovalenko/bashka - Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
-      "url": "https://github.com/dmtrKovalenko/bashka",
-      "published_at": "2026-09-15T21:31:30Z",
-      "description": "Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "title": "leoliu0/ratex - GitHub Repository",
+      "url": "https://github.com/leoliu0/ratex",
+      "published_at": "2026-09-16T05:19:37Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16926049?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/38640768?v=4",
       "source": "GitHub",
-      "stars": 204,
-      "user": "dmtrKovalenko"
+      "stars": 148,
+      "user": "leoliu0"
     },
     {
       "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
