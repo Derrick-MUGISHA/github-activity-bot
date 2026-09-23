@@ -104,21 +104,6 @@
       "user": "xbill"
     },
     {
-      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
-      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6",
-      "published_at": "2026-09-19T16:39:25Z",
-      "description": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
-      "tags": [
-        "googlecloud",
-        "adk",
-        "jev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5a72kpxcffbw2sjqlaoc.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
       "published_at": "2026-09-13T18:25:49Z",
@@ -207,6 +192,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
+      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6",
+      "published_at": "2026-09-19T16:39:25Z",
+      "description": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
+      "tags": [
+        "googlecloud",
+        "adk",
+        "jev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5a72kpxcffbw2sjqlaoc.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
@@ -714,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 389,
       "user": "logicrw"
     },
     {
@@ -729,8 +729,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4101,
+      "stars": 4239,
       "user": "jaredpalmer"
+    },
+    {
+      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "published_at": "2026-09-17T16:08:30Z",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
+      "source": "GitHub",
+      "stars": 1998,
+      "user": "TianyuCodings"
+    },
+    {
+      "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "published_at": "2026-09-18T09:07:48Z",
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
+      "source": "GitHub",
+      "stars": 1626,
+      "user": "bespokelabsai"
     },
     {
       "title": "unreallabsai/unreal-agent - Async-first agent harness",
@@ -744,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 938,
       "user": "unreallabsai"
     },
     {
@@ -774,23 +804,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6271,
+      "stars": 6290,
       "user": "zai-org"
-    },
-    {
-      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "url": "https://github.com/jarrodwatts/jev-trader",
-      "published_at": "2026-09-16T21:36:20Z",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
-      "source": "GitHub",
-      "stars": 2052,
-      "user": "jarrodwatts"
     },
     {
       "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
@@ -808,6 +823,21 @@
       "user": "hydra-db"
     },
     {
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "published_at": "2026-09-19T05:14:36Z",
+      "description": "A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
+      "source": "GitHub",
+      "stars": 542,
+      "user": "heyjunpenn"
+    },
+    {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
       "url": "https://github.com/Lumid-Off/AirCard-Windows",
       "published_at": "2026-09-18T14:27:48Z",
@@ -819,8 +849,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 640,
       "user": "Lumid-Off"
+    },
+    {
+      "title": "ghuntley/underclass - underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
+      "url": "https://github.com/ghuntley/underclass",
+      "published_at": "2026-09-20T07:00:32Z",
+      "description": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "ghuntley"
     },
     {
       "title": "Plain-text files are at risk",
@@ -850,18 +895,19 @@
       "user": "Haydar Hinisli"
     },
     {
-      "title": "Playwright installation fails on Linux Mint Gigi",
-      "url": "https://stackoverflow.com/questions/80004634/playwright-installation-fails-on-linux-mint-gigi",
-      "published_at": "2026-09-21T11:18:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "published_at": "2026-09-22T23:21:49.000Z",
+      "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
       "tags": [
-        "python",
-        "playwright",
-        "linux-mint"
+        "AI",
+        "Startups",
+        "Venture",
+        "TechCrunch Founder Summit"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Horus Lupercal"
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
@@ -1287,23 +1333,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "Sac-Y"
-    },
-    {
-      "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
-      "url": "https://github.com/dofastted/vm2api",
-      "published_at": "2026-09-16T08:38:18Z",
-      "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
-      "source": "GitHub",
-      "stars": 545,
-      "user": "dofastted"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -1317,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 520,
       "user": "rmalde"
     },
     {
@@ -1332,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 389,
       "user": "logicrw"
     },
     {
@@ -1347,8 +1378,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 377,
       "user": "wy-coliney"
+    },
+    {
+      "title": "droidrun/mobile-jev - GitHub Repository",
+      "url": "https://github.com/droidrun/mobile-jev",
+      "published_at": "2026-09-17T10:41:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "droidrun"
     },
     {
       "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
@@ -1362,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6298,
+      "stars": 6311,
       "user": "tamaratran"
     },
     {
@@ -1377,23 +1423,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6271,
+      "stars": 6290,
       "user": "zai-org"
-    },
-    {
-      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "url": "https://github.com/jarrodwatts/jev-trader",
-      "published_at": "2026-09-16T21:36:20Z",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
-      "source": "GitHub",
-      "stars": 2052,
-      "user": "jarrodwatts"
     },
     {
       "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
@@ -1422,8 +1453,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 730,
       "user": "githubnext"
+    },
+    {
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "published_at": "2026-09-19T05:14:36Z",
+      "description": "A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
+      "source": "GitHub",
+      "stars": 542,
+      "user": "heyjunpenn"
+    },
+    {
+      "title": "Creating a reusable Object from JavaScript array",
+      "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
+      "published_at": "2026-09-22T21:48:42.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "javascript",
+        "object",
+        "foreach"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Realto619"
     },
     {
       "title": "How to use array.prototype.every to check if all audio files are muted",
@@ -1554,20 +1614,6 @@
       "user": "Lance"
     },
     {
-      "title": "Toggle tab panes using onclick",
-      "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
-      "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 6 answers · score 4",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lunaregemini"
-    },
-    {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
       "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
       "published_at": "2026-09-22T10:52:57.000Z",
@@ -1629,21 +1675,6 @@
       "user": "Wataru Suda"
     },
     {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
       "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
       "published_at": "2026-09-13T18:25:49Z",
@@ -1670,6 +1701,21 @@
         "machinelearning"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1899,21 +1945,6 @@
       "user": "arathore"
     },
     {
-      "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "published_at": "2026-09-16T21:30:12Z",
-      "description": "Fastest and cheapest web agent",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 17993,
-      "user": "browser-use"
-    },
-    {
       "title": "NandhaKishorM/laya - GitHub Repository",
       "url": "https://github.com/NandhaKishorM/laya",
       "published_at": "2026-09-18T04:46:33Z",
@@ -1925,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 16296,
+      "stars": 16548,
       "user": "NandhaKishorM"
     },
     {
@@ -1940,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5396,
+      "stars": 5448,
       "user": "mizorewww"
     },
     {
@@ -1955,23 +1986,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4101,
+      "stars": 4239,
       "user": "jaredpalmer"
     },
     {
-      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
-      "published_at": "2026-09-16T03:51:21Z",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "published_at": "2026-09-17T16:08:30Z",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 3814,
-      "user": "TheoLeeCJ"
+      "stars": 1998,
+      "user": "TianyuCodings"
+    },
+    {
+      "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "published_at": "2026-09-18T09:07:48Z",
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
+      "source": "GitHub",
+      "stars": 1626,
+      "user": "bespokelabsai"
+    },
+    {
+      "title": "PyMySQL pool - how to close pool cleanly",
+      "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
+      "published_at": "2026-09-22T22:16:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pymysql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
@@ -2095,20 +2154,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marek"
-    },
-    {
-      "title": "Playwright installation fails on Linux Mint Gigi",
-      "url": "https://stackoverflow.com/questions/80004634/playwright-installation-fails-on-linux-mint-gigi",
-      "published_at": "2026-09-21T11:18:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "python",
-        "playwright",
-        "linux-mint"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Horus Lupercal"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2456,20 +2501,6 @@
       "user": "Lance"
     },
     {
-      "title": "Toggle tab panes using onclick",
-      "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
-      "published_at": "2026-09-19T19:17:23.000Z",
-      "description": "Stack Overflow question · 6 answers · score 4",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lunaregemini"
-    },
-    {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/",
       "published_at": "2026-09-18T15:47:01.000Z",
@@ -2515,21 +2546,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
-      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
-      "published_at": "2026-09-20T20:43:19Z",
-      "description": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.",
-      "tags": [
-        "dart",
-        "flutter",
-        "architecture",
-        "concurrency"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
       "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
       "published_at": "2026-09-11T01:51:14Z",
@@ -2541,6 +2557,21 @@
         "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fau9a487wkx7hj8p3vjnx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
+      "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
+      "published_at": "2026-09-20T20:43:19Z",
+      "description": "How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.",
+      "tags": [
+        "dart",
+        "flutter",
+        "architecture",
+        "concurrency"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2558,6 +2589,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "droidrun/mobile-jev - GitHub Repository",
+      "url": "https://github.com/droidrun/mobile-jev",
+      "published_at": "2026-09-17T10:41:01Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "droidrun"
     },
     {
       "title": "Correct tags to make hamburger menu open on iOS",
@@ -2606,36 +2652,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
-      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6",
-      "published_at": "2026-09-19T16:39:25Z",
-      "description": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
-      "tags": [
-        "googlecloud",
-        "adk",
-        "jev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5a72kpxcffbw2sjqlaoc.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
       "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
       "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
       "published_at": "2026-09-17T02:43:18Z",
@@ -2666,6 +2682,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "2B Gemma 4 Deployment with Cloud Run, NVIDIA L4, MCP SDK 2.x, and Claude Code",
       "url": "https://dev.to/gde/2b-gemma-4-deployment-with-cloud-run-nvidia-l4-mcp-sdk-2x-and-claude-code-4ml3",
       "published_at": "2026-09-10T18:31:29Z",
@@ -2679,6 +2710,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-2B-cloudrun-devops-agent%2Fdocs%2Fdeploy%2Fdevto-cover.24212670.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
+      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6",
+      "published_at": "2026-09-19T16:39:25Z",
+      "description": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
+      "tags": [
+        "googlecloud",
+        "adk",
+        "jev",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5a72kpxcffbw2sjqlaoc.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
@@ -2856,7 +2902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5396,
+      "stars": 5448,
       "user": "mizorewww"
     }
   ],
@@ -2886,6 +2932,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erkanunluturk"
+    },
+    {
+      "title": "PyMySQL pool - how to close pool cleanly",
+      "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
+      "published_at": "2026-09-22T22:16:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pymysql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Subclassing mysql.connector",
@@ -3097,22 +3156,6 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "Stolen passwords are exposing America&#8217;s water providers to hackers",
-      "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-      "published_at": "2026-09-22T15:50:58.000Z",
-      "description": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "infostealer",
-        "malware",
-        "water providers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
       "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
       "published_at": "2026-09-18T16:03:13.000Z",
@@ -3160,21 +3203,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
       "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
       "published_at": "2026-09-19T01:56:39Z",
@@ -3203,6 +3231,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
@@ -3357,23 +3400,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "Sac-Y"
-    },
-    {
-      "title": "dofastted/vm2api - vm2api 使用虚拟机完全拟真方案的订阅转api",
-      "url": "https://github.com/dofastted/vm2api",
-      "published_at": "2026-09-16T08:38:18Z",
-      "description": "vm2api 使用虚拟机完全拟真方案的订阅转api",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/278058887?v=4",
-      "source": "GitHub",
-      "stars": 545,
-      "user": "dofastted"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -3387,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 520,
       "user": "rmalde"
     },
     {
@@ -3402,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 389,
       "user": "logicrw"
     },
     {
@@ -3417,23 +3445,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 377,
       "user": "wy-coliney"
     },
     {
-      "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "published_at": "2026-09-16T21:30:12Z",
-      "description": "Fastest and cheapest web agent",
+      "title": "droidrun/mobile-jev - GitHub Repository",
+      "url": "https://github.com/droidrun/mobile-jev",
+      "published_at": "2026-09-17T10:41:01Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 17993,
-      "user": "browser-use"
+      "stars": 353,
+      "user": "droidrun"
     },
     {
       "title": "NandhaKishorM/laya - GitHub Repository",
@@ -3447,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 16296,
+      "stars": 16548,
       "user": "NandhaKishorM"
     },
     {
@@ -3462,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5396,
+      "stars": 5448,
       "user": "mizorewww"
     },
     {
@@ -3477,23 +3505,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4101,
+      "stars": 4239,
       "user": "jaredpalmer"
     },
     {
-      "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-      "url": "https://github.com/TheoLeeCJ/SemIf",
-      "published_at": "2026-09-16T03:51:21Z",
-      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "url": "https://github.com/TianyuCodings/NanoJev",
+      "published_at": "2026-09-17T16:08:30Z",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22087932?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 3814,
-      "user": "TheoLeeCJ"
+      "stars": 1998,
+      "user": "TianyuCodings"
+    },
+    {
+      "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
+      "url": "https://github.com/bespokelabsai/nimble",
+      "published_at": "2026-09-18T09:07:48Z",
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
+      "source": "GitHub",
+      "stars": 1626,
+      "user": "bespokelabsai"
     },
     {
       "title": "unreallabsai/unreal-agent - Async-first agent harness",
@@ -3507,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 938,
       "user": "unreallabsai"
     },
     {
@@ -3582,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6298,
+      "stars": 6311,
       "user": "tamaratran"
     },
     {
@@ -3597,23 +3640,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6271,
+      "stars": 6290,
       "user": "zai-org"
-    },
-    {
-      "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "url": "https://github.com/jarrodwatts/jev-trader",
-      "published_at": "2026-09-16T21:36:20Z",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35651410?v=4",
-      "source": "GitHub",
-      "stars": 2052,
-      "user": "jarrodwatts"
     },
     {
       "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
@@ -3642,8 +3670,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 730,
       "user": "githubnext"
+    },
+    {
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "published_at": "2026-09-19T05:14:36Z",
+      "description": "A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
+      "source": "GitHub",
+      "stars": 542,
+      "user": "heyjunpenn"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -3657,7 +3700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 640,
       "user": "Lumid-Off"
     },
     {
@@ -3672,7 +3715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "Haleclipse"
     },
     {
@@ -3687,7 +3730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 304,
       "user": "eliasstravik"
     },
     {
@@ -3702,23 +3745,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 268,
       "user": "ejfkdev"
     },
     {
-      "title": "leoliu0/ratex - GitHub Repository",
-      "url": "https://github.com/leoliu0/ratex",
-      "published_at": "2026-09-16T05:19:37Z",
-      "description": "Trending GitHub Repository",
+      "title": "ghuntley/underclass - underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
+      "url": "https://github.com/ghuntley/underclass",
+      "published_at": "2026-09-20T07:00:32Z",
+      "description": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38640768?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
       "stars": 155,
-      "user": "leoliu0"
+      "user": "ghuntley"
     },
     {
       "title": "Looking forward to Git 2.56 - and 3.0",
