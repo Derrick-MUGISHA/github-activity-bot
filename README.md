@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-23 17:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-23 21:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,6 +37,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkefqnwarmqoxiv5dy8n.jpg" width="200" alt="Disappeared Since March: Taking a Long Break Was My Best Decision Yet" />
+      <br/>
+      <b>Disappeared Since March: Taking a Long Break Was M...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png" width="200" alt="The Grand Unifying Architecture of Frontend" />
       <br/>
@@ -45,22 +54,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futadyyuprqovv7imkzo7.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti-abba%2Fdevto-cover.78380332.jpg" width="200" alt="A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-M...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg" width="200" alt="What Nobody Is Using in Your Google Cloud Projects, and What It Costs" />
+    <a href="https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png" width="200" alt="The missing layer in AI tooling: sharing what your assistant already knows" />
       <br/>
-      <b>What Nobody Is Using in Your Google Cloud Projects...</b>
+      <b>The missing layer in AI tooling: sharing what your...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -70,15 +79,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F870l5im1fzhvkdzd0fhe.jpeg" width="200" alt="Welcome Thread - v 394" />
       <br/>
       <b>Welcome Thread - v 394</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6kkrywlbq712q0oow60.png" width="200" alt="Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg" />
-      <br/>
-      <b>Production RAG on the Lakehouse with BigQuery Vect...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,27 +93,27 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd) | Dev.to |
-| 2 | [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk) | Dev.to |
-| 3 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl) | Dev.to |
-| 4 | [What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0) | Dev.to |
-| 5 | [Welcome Thread - v 394](https://dev.to/sloan/welcome-thread-v-394-22l2) | Dev.to |
-| 6 | [Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg](https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3) | Dev.to |
-| 7 | [Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1) | Dev.to |
-| 8 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
-| 9 | [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g) | Dev.to |
-| 10 | [Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents](https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4) | Dev.to |
-| 11 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2hcb) | Dev.to |
-| 12 | [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9) | Dev.to |
-| 13 | [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif) | Dev.to |
-| 14 | [Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b) | Dev.to |
-| 15 | [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) | Dev.to |
-| 16 | [A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.](https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f) | Dev.to |
-| 17 | [What Happens When AI Outgrows the Tests We Use to Measure It?](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al) | Dev.to |
-| 18 | [How AI Actually Calls an API? Tool Calling Explained from Scratch](https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8) | Dev.to |
-| 19 | [Welcome Thread - v 393](https://dev.to/sloan/welcome-thread-v-393-5f09) | Dev.to |
-| 20 | [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605) | Dev.to |
+| 2 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
+| 3 | [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk) | Dev.to |
+| 4 | [A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x](https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56) | Dev.to |
+| 5 | [The missing layer in AI tooling: sharing what your assistant already knows](https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch) | Dev.to |
+| 6 | [Welcome Thread - v 394](https://dev.to/sloan/welcome-thread-v-394-22l2) | Dev.to |
+| 7 | [Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg](https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3) | Dev.to |
+| 8 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl) | Dev.to |
+| 9 | [Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1) | Dev.to |
+| 10 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 11 | [What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0) | Dev.to |
+| 12 | [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g) | Dev.to |
+| 13 | [Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents](https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4) | Dev.to |
+| 14 | [MCP vs. API Explained: Do We Still Need APIs After MCP?](https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk) | Dev.to |
+| 15 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2hcb) | Dev.to |
+| 16 | [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9) | Dev.to |
+| 17 | [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif) | Dev.to |
+| 18 | [Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b) | Dev.to |
+| 19 | [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) | Dev.to |
+| 20 | [A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.](https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f) | Dev.to |
 
-<sub>Last fetched: Wed, 23 Sep 2026 17:02:28 CAT</sub>
+<sub>Last fetched: Wed, 23 Sep 2026 21:01:24 CAT</sub>
 
 
 ---
@@ -122,25 +122,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Implement a context manager using __enter__ and __exit__**
+**1. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
-**2. `NodeJS` — Implement rate limiting for an API**
+**2. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 82 | 44.6% | `████████████████████` |
-| **Tools** | 47 | 25.5% | `███████████░░░░░░░░░` |
-| **JavaScript** | 41 | 22.3% | `██████████░░░░░░░░░░` |
-| **Python** | 39 | 21.2% | `██████████░░░░░░░░░░` |
-| **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 78 | 42.4% | `████████████████████` |
+| **Tools** | 45 | 24.5% | `████████████░░░░░░░░` |
+| **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
+| **Python** | 38 | 20.7% | `██████████░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,12 +194,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.5%
-Python          █████████████████████████████ 26.2%
-Go              ███████████████████████ 20.8%
-Java            █████████████████████ 19.5%
-Rust            ████ 3.4%
-Swift           █ 1.3%
+JavaScript      ██████████████████████████████ 27.3%
+Python          █████████████████████████████ 26.6%
+Java            ██████████████████████ 20.3%
+Go              █████████████████████ 18.9%
+Rust            █████ 4.2%
+Swift           ██ 1.4%
 CSharp          █ 0.7%
 Kotlin          █ 0.7%
 
@@ -207,11 +207,11 @@ Kotlin          █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 41
-    "Python" : 39
-    "Go" : 31
+    "JavaScript" : 39
+    "Python" : 38
     "Java" : 29
-    "Rust" : 5
+    "Go" : 27
+    "Rust" : 6
     "Swift" : 2
     "CSharp" : 1
     "Kotlin" : 1
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-37-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-36-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![mcp](https://img.shields.io/badge/mcp-7-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 23 Sep 2026 15:02:28 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 23 Sep 2026 19:01:24 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
