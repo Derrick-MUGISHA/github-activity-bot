@@ -59,21 +59,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
-      "published_at": "2026-09-20T23:30:02Z",
-      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
-      "tags": [
-        "python",
-        "debugging",
-        "api",
-        "postmortem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
-      "source": "Dev.to",
-      "user": "Wataru Suda"
-    },
-    {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b",
       "published_at": "2026-09-14T00:57:31Z",
@@ -104,21 +89,6 @@
       "user": "xbill"
     },
     {
-      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
-      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
-      "published_at": "2026-09-13T18:25:49Z",
-      "description": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and one server now runs in Claude Code, Codex and Antigravity CLI.",
-      "tags": [
-        "mcp",
-        "python",
-        "gemini",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
       "published_at": "2026-09-03T06:44:57Z",
@@ -132,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fez62u2w0ldk0fec35ytb.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
+      "published_at": "2026-09-20T23:30:02Z",
+      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
+      "tags": [
+        "python",
+        "debugging",
+        "api",
+        "postmortem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
+      "source": "Dev.to",
+      "user": "Wataru Suda"
     },
     {
       "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
@@ -358,19 +343,19 @@
       "user": "xbill"
     },
     {
-      "title": "🧩 Don't make Tech your entire personality.",
-      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
-      "published_at": "2026-09-15T10:46:53Z",
-      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
       "tags": [
-        "productivity",
-        "webdev",
         "ai",
-        "javascript"
+        "claude",
+        "performance",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
       "source": "Dev.to",
-      "user": "Tanay Dwivedi"
+      "user": " Gábor Mészáros"
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
@@ -388,19 +373,19 @@
       "user": "ujja"
     },
     {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "title": "🧩 Don't make Tech your entire personality.",
+      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
+      "published_at": "2026-09-15T10:46:53Z",
+      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
       "tags": [
+        "productivity",
+        "webdev",
         "ai",
-        "claude",
-        "performance",
-        "productivity"
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
       "source": "Dev.to",
-      "user": " Gábor Mészáros"
+      "user": "Tanay Dwivedi"
     },
     {
       "title": "My Agents Never Get Tired. I Do: On Satisficing",
@@ -431,6 +416,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -533,6 +533,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
       "source": "Dev.to",
       "user": "Alister Baroi"
+    },
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
+      "published_at": "2026-09-17T09:57:31Z",
+      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "tags": [
+        "security",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -714,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 400,
       "user": "logicrw"
     },
     {
@@ -729,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4239,
+      "stars": 4647,
       "user": "jaredpalmer"
     },
     {
@@ -744,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1998,
+      "stars": 2024,
       "user": "TianyuCodings"
     },
     {
@@ -759,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1626,
+      "stars": 1647,
       "user": "bespokelabsai"
     },
     {
@@ -774,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 1169,
       "user": "unreallabsai"
     },
     {
@@ -789,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "itsmostafa"
     },
     {
@@ -804,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6290,
+      "stars": 6375,
       "user": "zai-org"
     },
     {
@@ -819,14 +849,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 859,
       "user": "hydra-db"
     },
     {
-      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 657 open-source projects built with Jev.",
       "url": "https://github.com/heyjunpenn/awesome-jev",
       "published_at": "2026-09-19T05:14:36Z",
-      "description": "A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "description": "A verified, community-maintained catalog of 657 open-source projects built with Jev.",
       "tags": [
         "typescript",
         "github",
@@ -834,7 +864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 614,
       "user": "heyjunpenn"
     },
     {
@@ -849,7 +879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 688,
       "user": "Lumid-Off"
     },
     {
@@ -864,7 +894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "ghuntley"
     },
     {
@@ -880,6 +910,31 @@
       "user": "awal"
     },
     {
+      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+      "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+      "published_at": "2026-09-22T16:45:11.788-05:00",
+      "description": "Very good to use for documentation of systems and tasks",
+      "tags": [
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "chobeat"
+    },
+    {
+      "title": "Why deleting attribute doesn’t raise SyntaxError for deleting literal in Python",
+      "url": "https://stackoverflow.com/questions/80005127/why-deleting-attribute-doesn-t-raise-syntaxerror-for-deleting-literal-in-python",
+      "published_at": "2026-09-23T04:40:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "antialiased"
+    },
+    {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
       "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
       "published_at": "2026-09-22T10:52:57.000Z",
@@ -893,6 +948,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Haydar Hinisli"
+    },
+    {
+      "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "published_at": "2026-09-23T04:59:08.000Z",
+      "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "tags": [
+        "AI",
+        "Kyriakos Mitsotakis"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
@@ -985,20 +1053,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "published_at": "2026-09-22T16:30:07.000Z",
-      "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Opus"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
@@ -1202,6 +1256,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1333,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 584,
       "user": "Sac-Y"
     },
     {
@@ -1348,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 524,
       "user": "rmalde"
     },
     {
@@ -1363,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 400,
       "user": "logicrw"
     },
     {
@@ -1378,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 396,
       "user": "wy-coliney"
     },
     {
@@ -1393,23 +1462,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 358,
       "user": "droidrun"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "published_at": "2026-09-17T05:57:20Z",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
-      "source": "GitHub",
-      "stars": 6311,
-      "user": "tamaratran"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -1423,8 +1477,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6290,
+      "stars": 6375,
       "user": "zai-org"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "published_at": "2026-09-17T05:57:20Z",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "source": "GitHub",
+      "stars": 6369,
+      "user": "tamaratran"
     },
     {
       "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
@@ -1438,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 859,
       "user": "hydra-db"
     },
     {
@@ -1453,14 +1522,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 732,
       "user": "githubnext"
     },
     {
-      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 657 open-source projects built with Jev.",
       "url": "https://github.com/heyjunpenn/awesome-jev",
       "published_at": "2026-09-19T05:14:36Z",
-      "description": "A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "description": "A verified, community-maintained catalog of 657 open-source projects built with Jev.",
       "tags": [
         "typescript",
         "github",
@@ -1468,14 +1537,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 614,
       "user": "heyjunpenn"
     },
     {
       "title": "Creating a reusable Object from JavaScript array",
       "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
       "published_at": "2026-09-22T21:48:42.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "javascript",
         "object",
@@ -1489,7 +1558,7 @@
       "title": "How to use array.prototype.every to check if all audio files are muted",
       "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
       "published_at": "2026-09-22T20:14:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1518,7 +1587,7 @@
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1600,10 +1669,10 @@
       "user": "erkanunluturk"
     },
     {
-      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
-      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
-      "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "Toggle tab panes using onclick",
+      "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
+      "published_at": "2026-09-19T19:17:23.000Z",
+      "description": "Stack Overflow question · 6 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -1611,7 +1680,7 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Lance"
+      "user": "lunaregemini"
     },
     {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
@@ -1673,21 +1742,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
       "source": "Dev.to",
       "user": "Wataru Suda"
-    },
-    {
-      "title": "Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs",
-      "url": "https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5",
-      "published_at": "2026-09-13T18:25:49Z",
-      "description": "The Nano Banana 2 Lite MCP server from July, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and one server now runs in Claude Code, Codex and Antigravity CLI.",
-      "tags": [
-        "mcp",
-        "python",
-        "gemini",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite%2Fmain%2Fdocs%2Fdevto-cover.57272bb7.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
@@ -1761,6 +1815,21 @@
         "python"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1956,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 16548,
+      "stars": 17506,
       "user": "NandhaKishorM"
     },
     {
@@ -1971,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 5591,
       "user": "mizorewww"
     },
     {
@@ -1986,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4239,
+      "stars": 4647,
       "user": "jaredpalmer"
     },
     {
@@ -2001,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1998,
+      "stars": 2024,
       "user": "TianyuCodings"
     },
     {
@@ -2016,14 +2085,54 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1626,
+      "stars": 1647,
       "user": "bespokelabsai"
+    },
+    {
+      "title": "Why deleting attribute doesn’t raise SyntaxError for deleting literal in Python",
+      "url": "https://stackoverflow.com/questions/80005127/why-deleting-attribute-doesn-t-raise-syntaxerror-for-deleting-literal-in-python",
+      "published_at": "2026-09-23T04:40:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "antialiased"
+    },
+    {
+      "title": "How to add a method to a specific instance in Python",
+      "url": "https://stackoverflow.com/questions/80005112/how-to-add-a-method-to-a-specific-instance-in-python",
+      "published_at": "2026-09-23T02:28:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "methods"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "antialiased"
+    },
+    {
+      "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
+      "url": "https://stackoverflow.com/questions/80005109/how-can-i-tighten-a-provable-upper-bound-for-an-exact-samegame-solver",
+      "published_at": "2026-09-23T01:39:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "algorithm",
+        "optimization",
+        "dynamic-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Louis Cha"
     },
     {
       "title": "PyMySQL pool - how to close pool cleanly",
       "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
       "published_at": "2026-09-22T22:16:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "pymysql"
@@ -2060,6 +2169,19 @@
       "user": "Kes Perron"
     },
     {
+      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
+      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
+      "published_at": "2026-09-21T21:15:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "python-dataclasses"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "unknownx"
+    },
+    {
       "title": "NGBoost multi-step ahead probabilistic forecasting for 96 time steps",
       "url": "https://stackoverflow.com/questions/80005007/ngboost-multi-step-ahead-probabilistic-forecasting-for-96-time-steps",
       "published_at": "2026-09-22T15:15:10.000Z",
@@ -2071,19 +2193,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammed Irfan"
-    },
-    {
-      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
-      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
-      "published_at": "2026-09-21T21:15:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "python-dataclasses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "unknownx"
     },
     {
       "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
@@ -2113,47 +2222,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user30892144"
-    },
-    {
-      "title": "I am trying to use cap = cv2.VideoCapture() and i have to keep changing the camera index to like 0 or 1 or 2",
-      "url": "https://stackoverflow.com/questions/80004888/i-am-trying-to-use-cap-cv2-videocapture-and-i-have-to-keep-changing-the-came",
-      "published_at": "2026-09-22T08:32:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "macos",
-        "opencv",
-        "camera"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Esh"
-    },
-    {
-      "title": "Subclassing mysql.connector",
-      "url": "https://stackoverflow.com/questions/80004790/subclassing-mysql-connector",
-      "published_at": "2026-09-21T21:38:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "mysql-connector"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Projectile flies horizontally instead of toward the clicked point",
-      "url": "https://stackoverflow.com/questions/80004776/projectile-flies-horizontally-instead-of-toward-the-clicked-point",
-      "published_at": "2026-09-21T20:50:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "panda3d"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marek"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2277,6 +2345,21 @@
         "cloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_autoscaling_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
+      "published_at": "2026-09-17T09:57:31Z",
+      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "tags": [
+        "security",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
     },
@@ -2433,6 +2516,21 @@
       "user": "nyaomaru"
     },
     {
+      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
+      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
+      "published_at": "2026-09-16T17:18:58Z",
+      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini",
+        "angular"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "source": "Dev.to",
+      "user": "Wayne Gakuo"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2448,7 +2546,7 @@
       "title": "How to use array.prototype.every to check if all audio files are muted",
       "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
       "published_at": "2026-09-22T20:14:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2462,7 +2560,7 @@
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2487,10 +2585,10 @@
       "user": "MijiGamin1"
     },
     {
-      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
-      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
-      "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "Toggle tab panes using onclick",
+      "url": "https://stackoverflow.com/questions/80004333/toggle-tab-panes-using-onclick",
+      "published_at": "2026-09-19T19:17:23.000Z",
+      "description": "Stack Overflow question · 6 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -2498,7 +2596,7 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Lance"
+      "user": "lunaregemini"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2602,7 +2700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 358,
       "user": "droidrun"
     },
     {
@@ -2832,6 +2930,21 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
+      "tags": [
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace",
       "url": "https://dev.to/gde/taking-advantage-of-cloud-run-sandboxes-with-google-apps-script-for-google-workspace-5fc5",
       "published_at": "2026-09-10T02:43:19Z",
@@ -2902,7 +3015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 5591,
       "user": "mizorewww"
     }
   ],
@@ -2937,23 +3050,10 @@
       "title": "PyMySQL pool - how to close pool cleanly",
       "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
       "published_at": "2026-09-22T22:16:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "pymysql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Subclassing mysql.connector",
-      "url": "https://stackoverflow.com/questions/80004790/subclassing-mysql-connector",
-      "published_at": "2026-09-21T21:38:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "mysql-connector"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -3006,6 +3106,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
       "source": "Dev.to",
       "user": "Alister Baroi"
+    },
+    {
+      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
+      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
+      "published_at": "2026-09-17T09:57:31Z",
+      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "tags": [
+        "security",
+        "devops",
+        "docker",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3138,6 +3253,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "GitHub Actions leaking secrets when Miri output is cached",
+      "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+      "published_at": "2026-09-22T16:38:02.383-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "peter"
     },
     {
       "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents&#8217; and applicants&#8217; data",
@@ -3278,6 +3406,21 @@
       "user": "xbill"
     },
     {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "tags": [
+        "ai",
+        "claude",
+        "performance",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
+    },
+    {
       "title": "🧩 Don't make Tech your entire personality.",
       "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
       "published_at": "2026-09-15T10:46:53Z",
@@ -3293,19 +3436,19 @@
       "user": "Tanay Dwivedi"
     },
     {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
+      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
+      "published_at": "2026-09-17T21:36:22Z",
+      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
       "tags": [
-        "ai",
-        "claude",
-        "performance",
-        "productivity"
+        "amd",
+        "vllm",
+        "rocm",
+        "machinelearning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
       "source": "Dev.to",
-      "user": " Gábor Mészáros"
+      "user": "xbill"
     },
     {
       "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
@@ -3400,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 584,
       "user": "Sac-Y"
     },
     {
@@ -3415,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 524,
       "user": "rmalde"
     },
     {
@@ -3430,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 400,
       "user": "logicrw"
     },
     {
@@ -3445,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 396,
       "user": "wy-coliney"
     },
     {
@@ -3460,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 358,
       "user": "droidrun"
     },
     {
@@ -3475,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 16548,
+      "stars": 17506,
       "user": "NandhaKishorM"
     },
     {
@@ -3490,7 +3633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5448,
+      "stars": 5591,
       "user": "mizorewww"
     },
     {
@@ -3505,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4239,
+      "stars": 4647,
       "user": "jaredpalmer"
     },
     {
@@ -3520,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 1998,
+      "stars": 2024,
       "user": "TianyuCodings"
     },
     {
@@ -3535,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1626,
+      "stars": 1647,
       "user": "bespokelabsai"
     },
     {
@@ -3550,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 1169,
       "user": "unreallabsai"
     },
     {
@@ -3565,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 601,
       "user": "gylive"
     },
     {
@@ -3580,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 264,
       "user": "itsmostafa"
     },
     {
@@ -3595,7 +3738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "HyNetworks"
     },
     {
@@ -3610,23 +3753,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 196,
       "user": "wangyunjeff"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "published_at": "2026-09-17T05:57:20Z",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
-      "source": "GitHub",
-      "stars": 6311,
-      "user": "tamaratran"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -3640,8 +3768,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6290,
+      "stars": 6375,
       "user": "zai-org"
+    },
+    {
+      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "published_at": "2026-09-17T05:57:20Z",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "source": "GitHub",
+      "stars": 6369,
+      "user": "tamaratran"
     },
     {
       "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
@@ -3655,7 +3798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 859,
       "user": "hydra-db"
     },
     {
@@ -3670,14 +3813,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 732,
       "user": "githubnext"
     },
     {
-      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 657 open-source projects built with Jev.",
       "url": "https://github.com/heyjunpenn/awesome-jev",
       "published_at": "2026-09-19T05:14:36Z",
-      "description": "A verified, community-maintained catalog of 640 open-source projects built with Jev.",
+      "description": "A verified, community-maintained catalog of 657 open-source projects built with Jev.",
       "tags": [
         "typescript",
         "github",
@@ -3685,7 +3828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 614,
       "user": "heyjunpenn"
     },
     {
@@ -3700,7 +3843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 688,
       "user": "Lumid-Off"
     },
     {
@@ -3715,7 +3858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 498,
       "user": "Haleclipse"
     },
     {
@@ -3745,7 +3888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 277,
       "user": "ejfkdev"
     },
     {
@@ -3760,7 +3903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "ghuntley"
     },
     {
@@ -3774,6 +3917,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dimonomid"
+    },
+    {
+      "title": "GitHub Actions leaking secrets when Miri output is cached",
+      "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+      "published_at": "2026-09-22T16:38:02.383-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "peter"
     },
     {
       "title": "Is there a better alternative to using os.getenv() for FastAPI settings?",
