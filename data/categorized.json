@@ -16,19 +16,34 @@
       "user": "Mika Flowers"
     },
     {
-      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
-      "published_at": "2026-09-22T16:59:06Z",
-      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
+      "published_at": "2026-09-23T20:59:28Z",
+      "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "machinelearning",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
+      "published_at": "2026-09-23T19:19:19Z",
+      "description": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
       "tags": [
         "ai",
-        "opensource",
-        "mcp",
-        "devtools"
+        "llm",
+        "docker",
+        "postgres"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
       "source": "Dev.to",
-      "user": "Uri Shmueli"
+      "user": "Sanskriti Harmukh"
     },
     {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
@@ -74,6 +89,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
+      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
+      "published_at": "2026-09-22T16:59:06Z",
+      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "tags": [
+        "ai",
+        "opensource",
+        "mcp",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
+      "source": "Dev.to",
+      "user": "Uri Shmueli"
+    },
+    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -87,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
-      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
-      "published_at": "2026-09-19T16:55:23Z",
-      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
-      "tags": [
-        "ai",
-        "api",
-        "llm",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv23rks6vwzdj1e5trlaw.png",
-      "source": "Dev.to",
-      "user": "Sneha M K"
     },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
@@ -253,19 +268,79 @@
       "user": "James Anderson"
     },
     {
-      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
-      "published_at": "2026-09-04T09:24:10Z",
-      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "published_at": "2026-09-09T12:48:25Z",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "tags": [
+        "typescript",
+        "algorithms",
+        "opensource",
+        "dsa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
+    },
+    {
+      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
+      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
+      "published_at": "2026-08-27T17:56:45Z",
+      "description": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
+      "published_at": "2026-08-27T15:00:08Z",
+      "description": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
+      "tags": [
+        "a2a",
+        "multicloud",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
+      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
+      "published_at": "2026-09-19T16:55:23Z",
+      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
       "tags": [
         "ai",
-        "agents",
-        "software",
-        "discuss"
+        "api",
+        "llm",
+        "mcp"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv23rks6vwzdj1e5trlaw.png",
       "source": "Dev.to",
-      "user": "ujja"
+      "user": "Sneha M K"
+    },
+    {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "tags": [
+        "ai",
+        "claude",
+        "performance",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
     },
     {
       "title": "🧩 Don't make Tech your entire personality.",
@@ -281,6 +356,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
       "source": "Dev.to",
       "user": "Tanay Dwivedi"
+    },
+    {
+      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
+      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
+      "published_at": "2026-09-04T09:24:10Z",
+      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
+      "tags": [
+        "ai",
+        "agents",
+        "software",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
+      "source": "Dev.to",
+      "user": "ujja"
     },
     {
       "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
@@ -443,81 +533,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
-      "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj",
-      "published_at": "2026-09-15T16:32:21Z",
-      "description": "The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and Kiro CLI 3 needs a permissions rule before it will call the tools headless.",
-      "tags": [
-        "kiro",
-        "mcp",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
-      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
-      "published_at": "2026-09-07T15:57:07Z",
-      "description": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
-      "tags": [
-        "ai",
-        "python",
-        "security",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
-      "source": "Dev.to",
-      "user": "Alister Baroi"
-    },
-    {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
-      "published_at": "2026-09-17T09:57:31Z",
-      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
-      "tags": [
-        "security",
-        "devops",
-        "docker",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
-    },
-    {
-      "title": "Coding agents got boring the moment we built a really good one.",
-      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
-      "published_at": "2026-08-17T20:12:46Z",
-      "description": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
-      "tags": [
-        "agents",
-        "ai",
-        "coding",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -699,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 444,
       "user": "logicrw"
     },
     {
@@ -714,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 5751,
+      "stars": 5920,
       "user": "jaredpalmer"
     },
     {
@@ -729,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 2103,
+      "stars": 2111,
       "user": "TianyuCodings"
     },
     {
@@ -744,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1679,
       "user": "bespokelabsai"
     },
     {
@@ -759,14 +774,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1634,
+      "stars": 1697,
       "user": "unreallabsai"
     },
     {
-      "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
+      "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
       "url": "https://github.com/itsmostafa/typesafe-mcp",
       "published_at": "2026-09-17T05:23:34Z",
-      "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
+      "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
       "tags": [
         "go",
         "github",
@@ -774,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "itsmostafa"
     },
     {
@@ -789,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6516,
+      "stars": 6527,
       "user": "zai-org"
     },
     {
@@ -804,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1504,
       "user": "hydra-db"
     },
     {
@@ -819,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 778,
       "user": "Lumid-Off"
     },
     {
@@ -837,19 +852,6 @@
       "user": "joshsharp"
     },
     {
-      "title": "Plain-text files are at risk",
-      "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
-      "published_at": "2026-09-22T12:14:56.329-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "editors",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "awal"
-    },
-    {
       "title": "Cheaper LLM labelling",
       "url": "https://entropicthoughts.com/cheaper-llm-labeling",
       "published_at": "2026-09-23T08:14:06.452-05:00",
@@ -860,6 +862,37 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "kqr"
+    },
+    {
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "published_at": "2026-09-23T20:35:17.000Z",
+      "description": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+      "tags": [
+        "TC",
+        "Venture",
+        "Bessemer Venture Partners",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "published_at": "2026-09-23T19:31:28.000Z",
+      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Startups",
+        "clinical trials",
+        "Enveda"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
@@ -950,64 +983,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "YouTube&#8217;s conversational video editing tool lets creators make edits in natural language",
-      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-      "published_at": "2026-09-23T15:46:57.000Z",
-      "description": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
-      "tags": [
-        "Media & Entertainment",
-        "YouTube"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "YouTube Music gets more conversational with new AI features",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "published_at": "2026-09-23T15:19:30.000Z",
-      "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "YouTube Music"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Eight Sleep&#8217;s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
-      "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
-      "published_at": "2026-09-23T14:45:00.000Z",
-      "description": "Eight Sleep said the new pod is 20% faster than the previous generation.",
-      "tags": [
-        "Gadgets",
-        "TC",
-        "Eight Sleep",
-        "sleep tech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "published_at": "2026-09-23T14:30:00.000Z",
-      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Creators",
-        "YouTube"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
@@ -1166,6 +1141,21 @@
       "user": "bebechien"
     },
     {
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "published_at": "2026-09-09T12:48:25Z",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
+      "tags": [
+        "typescript",
+        "algorithms",
+        "opensource",
+        "dsa"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
+    },
+    {
       "title": "🧩 Don't make Tech your entire personality.",
       "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
       "published_at": "2026-09-15T10:46:53Z",
@@ -1194,21 +1184,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
-      "source": "Dev.to",
-      "user": "Wayne Gakuo"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1331,6 +1306,21 @@
       "user": "velmu"
     },
     {
+      "title": "SewCabinSpout/cleanupper - 🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
+      "url": "https://github.com/SewCabinSpout/cleanupper",
+      "published_at": "2026-09-23T17:19:45Z",
+      "description": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270956601?v=4",
+      "source": "GitHub",
+      "stars": 723,
+      "user": "SewCabinSpout"
+    },
+    {
       "title": "Sac-Y/Jev-cu - GitHub Repository",
       "url": "https://github.com/Sac-Y/Jev-cu",
       "published_at": "2026-09-18T16:56:08Z",
@@ -1344,6 +1334,21 @@
       "source": "GitHub",
       "stars": 586,
       "user": "Sac-Y"
+    },
+    {
+      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "published_at": "2026-09-23T06:31:00Z",
+      "description": "claude-opus-5-5-demo",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
+      "source": "GitHub",
+      "stars": 538,
+      "user": "riba2534"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -1361,21 +1366,6 @@
       "user": "rmalde"
     },
     {
-      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
-      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
-      "published_at": "2026-09-23T06:31:00Z",
-      "description": "claude-opus-5-5-demo",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
-      "source": "GitHub",
-      "stars": 528,
-      "user": "riba2534"
-    },
-    {
       "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
       "url": "https://github.com/logicrw/awesome-jev-projects",
       "published_at": "2026-09-18T06:41:50Z",
@@ -1387,23 +1377,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 444,
       "user": "logicrw"
-    },
-    {
-      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "url": "https://github.com/wy-coliney/jev-browser-use",
-      "published_at": "2026-09-18T06:58:34Z",
-      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
-      "source": "GitHub",
-      "stars": 425,
-      "user": "wy-coliney"
     },
     {
       "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
@@ -1417,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 492,
       "user": "kryvora-network"
     },
     {
@@ -1432,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6528,
+      "stars": 6560,
       "user": "tamaratran"
     },
     {
@@ -1447,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6516,
+      "stars": 6527,
       "user": "zai-org"
     },
     {
@@ -1462,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1504,
       "user": "hydra-db"
     },
     {
@@ -1477,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 735,
       "user": "githubnext"
     },
     {
@@ -1492,21 +1467,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270369317?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "superagents-lab"
-    },
-    {
-      "title": "children with same key",
-      "url": "https://stackoverflow.com/questions/80005301/children-with-same-key",
-      "published_at": "2026-09-23T16:55:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "react-native"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali"
     },
     {
       "title": "Encoding issues between Java WebSocket server and JavaScript client",
@@ -1598,19 +1560,6 @@
       "user": "Silent Takudzwa"
     },
     {
-      "title": "Repeat previous value inside a forEach loop when reaching a key with no value",
-      "url": "https://stackoverflow.com/questions/80004853/repeat-previous-value-inside-a-foreach-loop-when-reaching-a-key-with-no-value",
-      "published_at": "2026-09-22T06:16:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "foreach"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wammy"
-    },
-    {
       "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
       "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
       "published_at": "2026-09-21T20:48:41.000Z",
@@ -1625,17 +1574,43 @@
       "user": "Ahmad Ataya"
     },
     {
-      "title": "Trouble with getting RGB data from getImageData()",
-      "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
-      "published_at": "2026-09-21T19:00:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Repeat previous value inside a forEach loop when reaching a key with no value",
+      "url": "https://stackoverflow.com/questions/80004853/repeat-previous-value-inside-a-foreach-loop-when-reaching-a-key-with-no-value",
+      "published_at": "2026-09-22T06:16:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
-        "html"
+        "foreach"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "MijiGamin1"
+      "user": "Wammy"
+    },
+    {
+      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
+      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
+      "published_at": "2026-09-22T00:15:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lance"
+    },
+    {
+      "title": "How can I get \"stringified\" object with nested objects?",
+      "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
+      "published_at": "2026-09-18T20:32:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "LUN"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1714,6 +1689,21 @@
       "user": "xbill"
     },
     {
+      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
+      "published_at": "2026-08-27T15:00:08Z",
+      "description": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
+      "tags": [
+        "a2a",
+        "multicloud",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -1772,36 +1762,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
-      "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj",
-      "published_at": "2026-09-15T16:32:21Z",
-      "description": "The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and Kiro CLI 3 needs a permissions rule before it will call the tools headless.",
-      "tags": [
-        "kiro",
-        "mcp",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
-      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
-      "published_at": "2026-09-07T15:57:07Z",
-      "description": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
-      "tags": [
-        "ai",
-        "python",
-        "security",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
-      "source": "Dev.to",
-      "user": "Alister Baroi"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1935,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 19995,
+      "stars": 20291,
       "user": "NandhaKishorM"
     },
     {
@@ -1950,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5893,
+      "stars": 5927,
       "user": "mizorewww"
     },
     {
@@ -1965,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 5751,
+      "stars": 5920,
       "user": "jaredpalmer"
     },
     {
@@ -1980,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 2103,
+      "stars": 2111,
       "user": "TianyuCodings"
     },
     {
@@ -1995,14 +1955,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1679,
       "user": "bespokelabsai"
+    },
+    {
+      "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
+      "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
+      "published_at": "2026-09-23T18:45:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "edi",
+        "x12"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ArrowInTree"
     },
     {
       "title": "Schemdraw SVG file doesn't render properly with PySide6",
       "url": "https://stackoverflow.com/questions/80005306/schemdraw-svg-file-doesnt-render-properly-with-pyside6",
       "published_at": "2026-09-23T17:07:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "svg",
@@ -2018,7 +1992,7 @@
       "title": "How do I use the correct syntax for a variable being 0 in an if function",
       "url": "https://stackoverflow.com/questions/80005298/how-do-i-use-the-correct-syntax-for-a-variable-being-0-in-an-if-function",
       "published_at": "2026-09-23T16:45:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python"
       ],
@@ -2068,19 +2042,6 @@
       "user": "Kes Perron"
     },
     {
-      "title": "How to add a method to a specific instance in Python",
-      "url": "https://stackoverflow.com/questions/80005112/how-to-add-a-method-to-a-specific-instance-in-python",
-      "published_at": "2026-09-23T02:28:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "methods"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "antialiased"
-    },
-    {
       "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
       "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
       "published_at": "2026-09-22T12:53:29.000Z",
@@ -2095,19 +2056,17 @@
       "user": "machiel"
     },
     {
-      "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
-      "url": "https://stackoverflow.com/questions/80005109/how-can-i-tighten-a-provable-upper-bound-for-an-exact-samegame-solver",
-      "published_at": "2026-09-23T01:39:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How to add a method to a specific instance in Python",
+      "url": "https://stackoverflow.com/questions/80005112/how-to-add-a-method-to-a-specific-instance-in-python",
+      "published_at": "2026-09-23T02:28:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "algorithm",
-        "optimization",
-        "dynamic-programming"
+        "methods"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Louis Cha"
+      "user": "antialiased"
     },
     {
       "title": "PyMySQL pool - how to close pool cleanly",
@@ -2123,17 +2082,19 @@
       "user": "NickC"
     },
     {
-      "title": "Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance",
-      "url": "https://stackoverflow.com/questions/80004781/multiple-bases-have-instance-lay-out-conflict-when-dynamically-subclassing-data",
-      "published_at": "2026-09-21T21:15:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
+      "url": "https://stackoverflow.com/questions/80005109/how-can-i-tighten-a-provable-upper-bound-for-an-exact-samegame-solver",
+      "published_at": "2026-09-23T01:39:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "python-dataclasses"
+        "algorithm",
+        "optimization",
+        "dynamic-programming"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "unknownx"
+      "user": "Louis Cha"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2201,6 +2162,21 @@
   ],
   "DevOps": [
     {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
+      "published_at": "2026-09-23T19:19:19Z",
+      "description": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "tags": [
+        "ai",
+        "llm",
+        "docker",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
+      "source": "Dev.to",
+      "user": "Sanskriti Harmukh"
+    },
+    {
       "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
       "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
       "published_at": "2026-09-22T15:14:36Z",
@@ -2231,19 +2207,19 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
-      "published_at": "2026-09-17T09:57:31Z",
-      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
+      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
+      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
+      "published_at": "2026-08-27T17:56:45Z",
+      "description": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.",
       "tags": [
-        "security",
-        "devops",
-        "docker",
-        "kubernetes"
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
-      "user": "Mario Ezquerro"
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2398,19 +2374,19 @@
       "user": "Ryan Carniato"
     },
     {
-      "title": "Firebase AI Logic in Angular: Client-Side Gemini Without a Custom Backend",
-      "url": "https://dev.to/gde/firebase-ai-logic-in-angular-client-side-gemini-without-a-custom-backend-54eh",
-      "published_at": "2026-09-16T17:18:58Z",
-      "description": "Since I last wrote Building AI-powered e-commerce applications using Angular &amp; Firebase AI Logic...",
+      "title": "Learn Trapping Rain Water, Top K Frequent and Selection Sort with Step-by-Step Visualization in DSA View View 👀👀",
+      "url": "https://dev.to/nyaomaru/learn-trapping-rain-water-top-k-frequent-and-selection-sort-with-step-by-step-visualization-in-dsa-1flg",
+      "published_at": "2026-09-09T12:48:25Z",
+      "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who has been obsessed with ramen lately. 😸🍜  Have you...",
       "tags": [
-        "ai",
-        "firebase",
-        "gemini",
-        "angular"
+        "typescript",
+        "algorithms",
+        "opensource",
+        "dsa"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
-      "user": "Wayne Gakuo"
+      "user": "nyaomaru"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2454,17 +2430,18 @@
       "user": "Marcus M&#252;ller"
     },
     {
-      "title": "Trouble with getting RGB data from getImageData()",
-      "url": "https://stackoverflow.com/questions/80004749/trouble-with-getting-rgb-data-from-getimagedata",
-      "published_at": "2026-09-21T19:00:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
+      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
+      "published_at": "2026-09-22T00:15:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
-        "html"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "MijiGamin1"
+      "user": "Lance"
     },
     {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
@@ -2724,6 +2701,36 @@
       "user": "Tanaike"
     },
     {
+      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
+      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
+      "published_at": "2026-08-27T17:56:45Z",
+      "description": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
+      "published_at": "2026-08-27T15:00:08Z",
+      "description": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
+      "tags": [
+        "a2a",
+        "multicloud",
+        "ai",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -2798,21 +2805,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management",
-      "url": "https://dev.to/gde/unifying-google-workspace-and-apache-iceberg-serverless-lakehouse-management-ep3",
-      "published_at": "2026-09-06T07:35:05Z",
-      "description": "Turn Google Sheets into a Petabyte Lakehouse with Sub-Second ACID Queries.             ...",
-      "tags": [
-        "googleworkspace",
-        "googlecloud",
-        "bigquery",
-        "apacheiceberg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq3o7rjtqj3wecjfjtxe8.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "url": "https://github.com/mizorewww/laya-mlx",
       "published_at": "2026-09-19T13:50:26Z",
@@ -2824,7 +2816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5893,
+      "stars": 5927,
       "user": "mizorewww"
     }
   ],
@@ -2886,36 +2878,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "An AI agent is just a while loop. I built one in 70 lines of Python, then tricked it into leaking my .env",
-      "url": "https://dev.to/alisterbaroi/an-ai-agent-is-just-a-while-loop-i-built-one-in-70-lines-of-python-then-tricked-it-into-leaking-4ehf",
-      "published_at": "2026-09-07T15:57:07Z",
-      "description": "Every framework, every job posting, and about half of LinkedIn wants to tell you what an \"AI agent\"...",
-      "tags": [
-        "ai",
-        "python",
-        "security",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcnr2836ebojkn1sw2gc7.png",
-      "source": "Dev.to",
-      "user": "Alister Baroi"
-    },
-    {
-      "title": "The Only Container Orchestrator with Built-In Compliance: How Gubernator Enforces ENS, NIS 2, DORA, CIS Benchmark, and ISO 27001",
-      "url": "https://dev.to/gde/the-only-container-orchestrator-with-built-in-compliance-how-gubernator-enforces-ens-nis-2-cis-mbf",
-      "published_at": "2026-09-17T09:57:31Z",
-      "description": "Discover how Gubernator revolutionizes container orchestration by natively baking in ENS RD 311/2022, EU NIS 2, EU DORA (Reg. 2022/2554), CIS Docker Benchmark, ISO 27001, SHA-256 audit ledger, Cosign, and SBOM into a single sovereign Go binary.",
-      "tags": [
-        "security",
-        "devops",
-        "docker",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Farticles%2Fimages%2Fgubernator_security_compliance_dora_cover.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3171,6 +3133,21 @@
       "user": "xbill"
     },
     {
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "tags": [
+        "ai",
+        "claude",
+        "performance",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
+    },
+    {
       "title": "🧩 Don't make Tech your entire personality.",
       "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
       "published_at": "2026-09-15T10:46:53Z",
@@ -3276,21 +3253,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Nano Banana 2 Lite in Kiro CLI 3: MCP 2.0, the New Interactions API, and Headless Permissions",
-      "url": "https://dev.to/gde/nano-banana-2-lite-in-kiro-cli-3-mcp-20-the-new-interactions-api-and-headless-permissions-3faj",
-      "published_at": "2026-09-15T16:32:21Z",
-      "description": "The Kiro edition of the Nano Banana 2 Lite MCP server, updated: FastMCP is now MCPServer, google-genai 1.x gets a 400 from the Interactions API, and Kiro CLI 3 needs a permissions rule before it will call the tools headless.",
-      "tags": [
-        "kiro",
-        "mcp",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-kiro%2Fmain%2Fdocs%2Fdevto-cover.1bc9f155.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3327,6 +3289,21 @@
       "user": "pabs3"
     },
     {
+      "title": "SewCabinSpout/cleanupper - 🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
+      "url": "https://github.com/SewCabinSpout/cleanupper",
+      "published_at": "2026-09-23T17:19:45Z",
+      "description": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270956601?v=4",
+      "source": "GitHub",
+      "stars": 723,
+      "user": "SewCabinSpout"
+    },
+    {
       "title": "Sac-Y/Jev-cu - GitHub Repository",
       "url": "https://github.com/Sac-Y/Jev-cu",
       "published_at": "2026-09-18T16:56:08Z",
@@ -3340,6 +3317,21 @@
       "source": "GitHub",
       "stars": 586,
       "user": "Sac-Y"
+    },
+    {
+      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "published_at": "2026-09-23T06:31:00Z",
+      "description": "claude-opus-5-5-demo",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
+      "source": "GitHub",
+      "stars": 538,
+      "user": "riba2534"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -3357,21 +3349,6 @@
       "user": "rmalde"
     },
     {
-      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
-      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
-      "published_at": "2026-09-23T06:31:00Z",
-      "description": "claude-opus-5-5-demo",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
-      "source": "GitHub",
-      "stars": 528,
-      "user": "riba2534"
-    },
-    {
       "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
       "url": "https://github.com/logicrw/awesome-jev-projects",
       "published_at": "2026-09-18T06:41:50Z",
@@ -3383,23 +3360,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 444,
       "user": "logicrw"
-    },
-    {
-      "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "url": "https://github.com/wy-coliney/jev-browser-use",
-      "published_at": "2026-09-18T06:58:34Z",
-      "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
-      "source": "GitHub",
-      "stars": 425,
-      "user": "wy-coliney"
     },
     {
       "title": "NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
@@ -3413,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 19995,
+      "stars": 20291,
       "user": "NandhaKishorM"
     },
     {
@@ -3428,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5893,
+      "stars": 5927,
       "user": "mizorewww"
     },
     {
@@ -3443,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 5751,
+      "stars": 5920,
       "user": "jaredpalmer"
     },
     {
@@ -3458,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 2103,
+      "stars": 2111,
       "user": "TianyuCodings"
     },
     {
@@ -3473,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1679,
       "user": "bespokelabsai"
     },
     {
@@ -3488,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1634,
+      "stars": 1697,
       "user": "unreallabsai"
     },
     {
@@ -3518,14 +3480,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 492,
       "user": "kryvora-network"
     },
     {
-      "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
+      "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
       "url": "https://github.com/itsmostafa/typesafe-mcp",
       "published_at": "2026-09-17T05:23:34Z",
-      "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
+      "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
       "tags": [
         "go",
         "github",
@@ -3533,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 280,
       "user": "itsmostafa"
     },
     {
@@ -3563,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6528,
+      "stars": 6560,
       "user": "tamaratran"
     },
     {
@@ -3578,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6516,
+      "stars": 6527,
       "user": "zai-org"
     },
     {
@@ -3593,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1504,
       "user": "hydra-db"
     },
     {
@@ -3608,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 735,
       "user": "githubnext"
     },
     {
@@ -3623,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270369317?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "superagents-lab"
     },
     {
@@ -3638,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 778,
       "user": "Lumid-Off"
     },
     {
@@ -3668,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 331,
       "user": "eliasstravik"
     },
     {
@@ -3683,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 288,
       "user": "ejfkdev"
     },
     {
@@ -3702,17 +3664,34 @@
       "user": "BridgeDruidCompress"
     },
     {
-      "title": "YouTube&#8217;s conversational video editing tool lets creators make edits in natural language",
-      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-      "published_at": "2026-09-23T15:46:57.000Z",
-      "description": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+      "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
+      "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
+      "published_at": "2026-09-23T18:45:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "Media & Entertainment",
-        "YouTube"
+        "python",
+        "edi",
+        "x12"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ArrowInTree"
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "published_at": "2026-09-23T19:31:28.000Z",
+      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Startups",
+        "clinical trials",
+        "Enveda"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Amanda Silberling"
+      "user": "Marina Temkin"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
