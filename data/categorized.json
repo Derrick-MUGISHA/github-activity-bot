@@ -14,21 +14,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
-      "published_at": "2026-09-20T13:44:05Z",
-      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
-      "tags": [
-        "ai",
-        "devsecops",
-        "github",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
       "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
       "published_at": "2026-09-20T19:48:39Z",
@@ -89,6 +74,21 @@
       "user": "xbill"
     },
     {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
       "published_at": "2026-09-03T06:44:57Z",
@@ -117,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
       "source": "Dev.to",
       "user": "Wataru Suda"
-    },
-    {
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-      "published_at": "2026-09-19T01:56:39Z",
-      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
@@ -388,6 +373,21 @@
       "user": "Tanay Dwivedi"
     },
     {
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "My Agents Never Get Tired. I Do: On Satisficing",
       "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
       "published_at": "2026-09-11T03:49:55Z",
@@ -563,6 +563,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frejp8sl1nygg5ai2goq8.png",
       "source": "Dev.to",
       "user": "Wayne Gakuo"
+    },
+    {
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
+      "published_at": "2026-08-17T20:12:46Z",
+      "description": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "tags": [
+        "agents",
+        "ai",
+        "coding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -744,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 413,
       "user": "logicrw"
     },
     {
@@ -759,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4647,
+      "stars": 5062,
       "user": "jaredpalmer"
     },
     {
@@ -774,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 2024,
+      "stars": 2061,
       "user": "TianyuCodings"
     },
     {
@@ -789,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1662,
       "user": "bespokelabsai"
     },
     {
@@ -804,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1381,
       "user": "unreallabsai"
     },
     {
@@ -819,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 269,
       "user": "itsmostafa"
     },
     {
@@ -834,7 +849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6375,
+      "stars": 6458,
       "user": "zai-org"
     },
     {
@@ -849,14 +864,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 875,
       "user": "hydra-db"
     },
     {
-      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 657 open-source projects built with Jev.",
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 832 open-source projects built with Jev.",
       "url": "https://github.com/heyjunpenn/awesome-jev",
       "published_at": "2026-09-19T05:14:36Z",
-      "description": "A verified, community-maintained catalog of 657 open-source projects built with Jev.",
+      "description": "A verified, community-maintained catalog of 832 open-source projects built with Jev.",
       "tags": [
         "typescript",
         "github",
@@ -864,7 +879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 668,
       "user": "heyjunpenn"
     },
     {
@@ -879,7 +894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 725,
       "user": "Lumid-Off"
     },
     {
@@ -894,7 +909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "ghuntley"
     },
     {
@@ -903,7 +918,8 @@
       "published_at": "2026-09-22T12:14:56.329-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "editors"
+        "editors",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -915,7 +931,6 @@
       "published_at": "2026-09-22T16:45:11.788-05:00",
       "description": "Very good to use for documentation of systems and tasks",
       "tags": [
-        "ai",
         "vibecoding"
       ],
       "cover_image": null,
@@ -926,28 +941,13 @@
       "title": "Why deleting attribute doesn’t raise SyntaxError for deleting literal in Python",
       "url": "https://stackoverflow.com/questions/80005127/why-deleting-attribute-doesn-t-raise-syntaxerror-for-deleting-literal-in-python",
       "published_at": "2026-09-23T04:40:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "antialiased"
-    },
-    {
-      "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
-      "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
-      "published_at": "2026-09-22T10:52:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "twilio",
-        "webhooks",
-        "hmac"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Haydar Hinisli"
     },
     {
       "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
@@ -1402,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "Sac-Y"
     },
     {
@@ -1417,23 +1417,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 529,
       "user": "rmalde"
-    },
-    {
-      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "url": "https://github.com/logicrw/awesome-jev-projects",
-      "published_at": "2026-09-18T06:41:50Z",
-      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "logicrw"
     },
     {
       "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
@@ -1447,8 +1432,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 413,
       "user": "wy-coliney"
+    },
+    {
+      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "url": "https://github.com/logicrw/awesome-jev-projects",
+      "published_at": "2026-09-18T06:41:50Z",
+      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
+      "source": "GitHub",
+      "stars": 413,
+      "user": "logicrw"
     },
     {
       "title": "droidrun/mobile-jev - GitHub Repository",
@@ -1462,8 +1462,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 360,
       "user": "droidrun"
+    },
+    {
+      "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
+      "url": "https://github.com/kryvora-network/kryvora-node",
+      "published_at": "2026-09-22T16:10:23Z",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "kryvora-network"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -1477,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6375,
+      "stars": 6458,
       "user": "zai-org"
     },
     {
@@ -1492,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6369,
+      "stars": 6446,
       "user": "tamaratran"
     },
     {
@@ -1507,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 875,
       "user": "hydra-db"
     },
     {
@@ -1522,14 +1537,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 734,
       "user": "githubnext"
     },
     {
-      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 657 open-source projects built with Jev.",
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 832 open-source projects built with Jev.",
       "url": "https://github.com/heyjunpenn/awesome-jev",
       "published_at": "2026-09-19T05:14:36Z",
-      "description": "A verified, community-maintained catalog of 657 open-source projects built with Jev.",
+      "description": "A verified, community-maintained catalog of 832 open-source projects built with Jev.",
       "tags": [
         "typescript",
         "github",
@@ -1537,28 +1552,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 668,
       "user": "heyjunpenn"
     },
     {
-      "title": "Creating a reusable Object from JavaScript array",
-      "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
-      "published_at": "2026-09-22T21:48:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "title": "Parsing JSON Objects without intermediate ASTs",
+      "url": "https://arthi-chaud.github.io/posts/json-ir/",
+      "published_at": "2026-09-22T23:28:16.369-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "haskell"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "abhin4v"
+    },
+    {
+      "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
+      "url": "https://stackoverflow.com/questions/80005138/flutter-app-shows-default-counter-instead-of-my-custom-statefulwidget-todoapp",
+      "published_at": "2026-09-23T06:23:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
-        "object",
-        "foreach"
+        "android",
+        "flutter",
+        "windows",
+        "state"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Realto619"
+      "user": "Kyvin Magalona"
     },
     {
       "title": "How to use array.prototype.every to check if all audio files are muted",
       "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
       "published_at": "2026-09-22T20:14:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1567,6 +1596,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "camwormy"
+    },
+    {
+      "title": "Creating a reusable Object from JavaScript array",
+      "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
+      "published_at": "2026-09-22T21:48:42.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "object",
+        "foreach"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Realto619"
     },
     {
       "title": "Correct tags to make hamburger menu open on iOS",
@@ -1587,7 +1630,7 @@
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1624,22 +1667,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Wammy"
-    },
-    {
-      "title": "How do I download any quality video through yt-dlp in browser rather than in yt-dlp.exe location directory",
-      "url": "https://stackoverflow.com/questions/80004866/how-do-i-download-any-quality-video-through-yt-dlp-in-browser-rather-than-in-yt",
-      "published_at": "2026-09-22T07:02:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "node.js",
-        "typescript",
-        "ffmpeg",
-        "yt-dlp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "webdevShubhamKumar"
     },
     {
       "title": "Trouble with getting RGB data from getImageData()",
@@ -1681,21 +1708,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lunaregemini"
-    },
-    {
-      "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
-      "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
-      "published_at": "2026-09-22T10:52:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "twilio",
-        "webhooks",
-        "hmac"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Haydar Hinisli"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -2014,10 +2026,10 @@
       "user": "arathore"
     },
     {
-      "title": "NandhaKishorM/laya - GitHub Repository",
+      "title": "NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "url": "https://github.com/NandhaKishorM/laya",
       "published_at": "2026-09-18T04:46:33Z",
-      "description": "Trending GitHub Repository",
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "tags": [
         "python",
         "github",
@@ -2025,7 +2037,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 17506,
+      "stars": 18606,
       "user": "NandhaKishorM"
     },
     {
@@ -2040,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5591,
+      "stars": 5717,
       "user": "mizorewww"
     },
     {
@@ -2055,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4647,
+      "stars": 5062,
       "user": "jaredpalmer"
     },
     {
@@ -2070,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 2024,
+      "stars": 2061,
       "user": "TianyuCodings"
     },
     {
@@ -2085,14 +2097,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1662,
       "user": "bespokelabsai"
+    },
+    {
+      "title": "Bounded type parameter lists and backwards-compatible Python syntax",
+      "url": "https://stackoverflow.com/questions/80005171/bounded-type-parameter-lists-and-backwards-compatible-python-syntax",
+      "published_at": "2026-09-23T08:42:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "pep-695"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "A. Gocht"
     },
     {
       "title": "Why deleting attribute doesn’t raise SyntaxError for deleting literal in Python",
       "url": "https://stackoverflow.com/questions/80005127/why-deleting-attribute-doesn-t-raise-syntaxerror-for-deleting-literal-in-python",
       "published_at": "2026-09-23T04:40:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python"
       ],
@@ -2117,7 +2143,7 @@
       "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
       "url": "https://stackoverflow.com/questions/80005109/how-can-i-tighten-a-provable-upper-bound-for-an-exact-samegame-solver",
       "published_at": "2026-09-23T01:39:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "algorithm",
@@ -2132,7 +2158,7 @@
       "title": "PyMySQL pool - how to close pool cleanly",
       "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
       "published_at": "2026-09-22T22:16:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pymysql"
@@ -2185,7 +2211,7 @@
       "title": "NGBoost multi-step ahead probabilistic forecasting for 96 time steps",
       "url": "https://stackoverflow.com/questions/80005007/ngboost-multi-step-ahead-probabilistic-forecasting-for-96-time-steps",
       "published_at": "2026-09-22T15:15:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "time-series"
@@ -2195,25 +2221,10 @@
       "user": "Muhammed Irfan"
     },
     {
-      "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
-      "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
-      "published_at": "2026-09-22T10:52:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "twilio",
-        "webhooks",
-        "hmac"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Haydar Hinisli"
-    },
-    {
       "title": "Is there a better alternative to using os.getenv() for FastAPI settings?",
       "url": "https://stackoverflow.com/questions/80004839/is-there-a-better-alternative-to-using-os-getenv-for-fastapi-settings",
       "published_at": "2026-09-22T04:54:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -2289,21 +2300,6 @@
   ],
   "DevOps": [
     {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
-      "published_at": "2026-09-20T13:44:05Z",
-      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
-      "tags": [
-        "ai",
-        "devsecops",
-        "github",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Build in the VM, Think on the Mac GPU: Debian 13 on Apple container With a Local Gemma 4",
       "url": "https://dev.to/gde/build-in-the-vm-think-on-the-mac-gpu-debian-13-on-apple-container-with-a-local-gemma-4-2d8b",
       "published_at": "2026-09-14T00:57:31Z",
@@ -2317,6 +2313,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fapple-container-debian-tips%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.9231382f.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2546,7 +2557,7 @@
       "title": "How to use array.prototype.every to check if all audio files are muted",
       "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
       "published_at": "2026-09-22T20:14:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2560,7 +2571,7 @@
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2700,8 +2711,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 360,
       "user": "droidrun"
+    },
+    {
+      "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
+      "url": "https://stackoverflow.com/questions/80005138/flutter-app-shows-default-counter-instead-of-my-custom-statefulwidget-todoapp",
+      "published_at": "2026-09-23T06:23:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "android",
+        "flutter",
+        "windows",
+        "state"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kyvin Magalona"
     },
     {
       "title": "Correct tags to make hamburger menu open on iOS",
@@ -3015,7 +3042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5591,
+      "stars": 5717,
       "user": "mizorewww"
     }
   ],
@@ -3050,7 +3077,7 @@
       "title": "PyMySQL pool - how to close pool cleanly",
       "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
       "published_at": "2026-09-22T22:16:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pymysql"
@@ -3255,19 +3282,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "GitHub Actions leaking secrets when Miri output is cached",
-      "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
-      "published_at": "2026-09-22T16:38:02.383-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "peter"
-    },
-    {
       "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents&#8217; and applicants&#8217; data",
       "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
       "published_at": "2026-09-22T18:40:30.000Z",
@@ -3301,21 +3315,6 @@
   ],
   "Tools": [
     {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
-      "published_at": "2026-09-20T13:44:05Z",
-      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
-      "tags": [
-        "ai",
-        "devsecops",
-        "github",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
       "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
       "published_at": "2026-09-20T19:48:39Z",
@@ -3331,19 +3330,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-      "published_at": "2026-09-19T01:56:39Z",
-      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
       "tags": [
         "ai",
-        "programming",
-        "architecture",
-        "productivity"
+        "devsecops",
+        "github",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Jitendra Gupta"
     },
     {
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
@@ -3434,6 +3433,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
       "source": "Dev.to",
       "user": "Tanay Dwivedi"
+    },
+    {
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
@@ -3543,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "Sac-Y"
     },
     {
@@ -3558,23 +3572,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 529,
       "user": "rmalde"
-    },
-    {
-      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "url": "https://github.com/logicrw/awesome-jev-projects",
-      "published_at": "2026-09-18T06:41:50Z",
-      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "logicrw"
     },
     {
       "title": "wy-coliney/jev-browser-use - 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp.",
@@ -3588,8 +3587,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30455008?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 413,
       "user": "wy-coliney"
+    },
+    {
+      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "url": "https://github.com/logicrw/awesome-jev-projects",
+      "published_at": "2026-09-18T06:41:50Z",
+      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
+      "source": "GitHub",
+      "stars": 413,
+      "user": "logicrw"
     },
     {
       "title": "droidrun/mobile-jev - GitHub Repository",
@@ -3603,14 +3617,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207381488?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 360,
       "user": "droidrun"
     },
     {
-      "title": "NandhaKishorM/laya - GitHub Repository",
+      "title": "NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "url": "https://github.com/NandhaKishorM/laya",
       "published_at": "2026-09-18T04:46:33Z",
-      "description": "Trending GitHub Repository",
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "tags": [
         "python",
         "github",
@@ -3618,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 17506,
+      "stars": 18606,
       "user": "NandhaKishorM"
     },
     {
@@ -3633,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5591,
+      "stars": 5717,
       "user": "mizorewww"
     },
     {
@@ -3648,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
       "source": "GitHub",
-      "stars": 4647,
+      "stars": 5062,
       "user": "jaredpalmer"
     },
     {
@@ -3663,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
       "source": "GitHub",
-      "stars": 2024,
+      "stars": 2061,
       "user": "TianyuCodings"
     },
     {
@@ -3678,7 +3692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1647,
+      "stars": 1662,
       "user": "bespokelabsai"
     },
     {
@@ -3693,7 +3707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1381,
       "user": "unreallabsai"
     },
     {
@@ -3708,8 +3722,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 603,
       "user": "gylive"
+    },
+    {
+      "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
+      "url": "https://github.com/kryvora-network/kryvora-node",
+      "published_at": "2026-09-22T16:10:23Z",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "kryvora-network"
     },
     {
       "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model. ",
@@ -3723,7 +3752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 269,
       "user": "itsmostafa"
     },
     {
@@ -3738,23 +3767,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "HyNetworks"
-    },
-    {
-      "title": "wangyunjeff/sub2api-state-kit - Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
-      "url": "https://github.com/wangyunjeff/sub2api-state-kit",
-      "published_at": "2026-09-18T14:25:18Z",
-      "description": "Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
-      "source": "GitHub",
-      "stars": 196,
-      "user": "wangyunjeff"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -3768,7 +3782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6375,
+      "stars": 6458,
       "user": "zai-org"
     },
     {
@@ -3783,7 +3797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
       "source": "GitHub",
-      "stars": 6369,
+      "stars": 6446,
       "user": "tamaratran"
     },
     {
@@ -3798,7 +3812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 875,
       "user": "hydra-db"
     },
     {
@@ -3813,14 +3827,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 734,
       "user": "githubnext"
     },
     {
-      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 657 open-source projects built with Jev.",
+      "title": "heyjunpenn/awesome-jev - A verified, community-maintained catalog of 832 open-source projects built with Jev.",
       "url": "https://github.com/heyjunpenn/awesome-jev",
       "published_at": "2026-09-19T05:14:36Z",
-      "description": "A verified, community-maintained catalog of 657 open-source projects built with Jev.",
+      "description": "A verified, community-maintained catalog of 832 open-source projects built with Jev.",
       "tags": [
         "typescript",
         "github",
@@ -3828,7 +3842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33251742?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 668,
       "user": "heyjunpenn"
     },
     {
@@ -3843,7 +3857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 725,
       "user": "Lumid-Off"
     },
     {
@@ -3858,7 +3872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 503,
       "user": "Haleclipse"
     },
     {
@@ -3873,7 +3887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "eliasstravik"
     },
     {
@@ -3888,7 +3902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "ejfkdev"
     },
     {
@@ -3903,7 +3917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127353?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "ghuntley"
     },
     {
@@ -3919,23 +3933,10 @@
       "user": "dimonomid"
     },
     {
-      "title": "GitHub Actions leaking secrets when Miri output is cached",
-      "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
-      "published_at": "2026-09-22T16:38:02.383-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "peter"
-    },
-    {
       "title": "Is there a better alternative to using os.getenv() for FastAPI settings?",
       "url": "https://stackoverflow.com/questions/80004839/is-there-a-better-alternative-to-using-os-getenv-for-fastapi-settings",
       "published_at": "2026-09-22T04:54:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "python",
