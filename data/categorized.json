@@ -16,6 +16,36 @@
       "user": "Mika Flowers"
     },
     {
+      "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
+      "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
+      "published_at": "2026-09-24T16:32:26Z",
+      "description": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked against the same read on an NVIDIA L4 and against Jev 1.13.0's published results. What fits one chip, how to read labels when vLLM on TPU returns only the top 32 log-probabilities, speed, cost, and why no 31B loads today.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu%2Fdevto-jev-tpu-v6e1-cover.6a93fef0.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
+      "published_at": "2026-09-24T11:55:12Z",
+      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "tags": [
+        "ai",
+        "agents",
+        "agentskills",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
       "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
       "published_at": "2026-09-23T19:19:19Z",
@@ -46,6 +76,36 @@
       "user": "Jem"
     },
     {
+      "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
+      "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
+      "published_at": "2026-09-24T02:00:37Z",
+      "description": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) builds on one EC2 L4, on 1,200 labelled examples and on the 3,880-record public suite where Jev 1.13.0 has published results. Pre-registered, with accuracy, calibration, calibration after 0 to 150 labels, latency and cost.",
+      "tags": [
+        "gemma",
+        "aws",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
+      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
+      "published_at": "2026-09-24T02:00:52Z",
+      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
       "published_at": "2026-09-22T17:48:24Z",
@@ -57,21 +117,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
-    },
-    {
-      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
-      "published_at": "2026-09-22T16:59:06Z",
-      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
-      "tags": [
-        "ai",
-        "opensource",
-        "mcp",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
-      "source": "Dev.to",
-      "user": "Uri Shmueli"
     },
     {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
@@ -102,6 +147,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-vm-cover.25debff5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
+      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
+      "published_at": "2026-09-22T16:59:06Z",
+      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "tags": [
+        "ai",
+        "opensource",
+        "mcp",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
+      "source": "Dev.to",
+      "user": "Uri Shmueli"
     },
     {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
@@ -253,6 +313,21 @@
       "user": "nyaomaru"
     },
     {
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
       "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
       "published_at": "2026-09-16T14:30:05Z",
@@ -313,21 +388,6 @@
       "user": "xbill"
     },
     {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "tags": [
-        "ai",
-        "claude",
-        "performance",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
       "title": "🧩 Don't make Tech your entire personality.",
       "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
       "published_at": "2026-09-15T10:46:53Z",
@@ -358,19 +418,19 @@
       "user": "ujja"
     },
     {
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-      "published_at": "2026-09-19T01:56:39Z",
-      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
       "tags": [
         "ai",
-        "programming",
-        "architecture",
+        "claude",
+        "performance",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": " Gábor Mészáros"
     },
     {
       "title": "My Agents Never Get Tired. I Do: On Satisficing",
@@ -503,36 +563,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-qat-cover.74744fbf.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
-      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
-      "published_at": "2026-09-16T02:20:49Z",
-      "description": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.",
-      "tags": [
-        "iceberg",
-        "aiagents",
-        "lakehouse",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
-      "published_at": "2026-09-11T23:07:27Z",
-      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -714,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 496,
       "user": "logicrw"
     },
     {
@@ -729,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1719,
+      "stars": 1723,
       "user": "bespokelabsai"
     },
     {
@@ -744,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1424,
       "user": "mizorewww"
     },
     {
@@ -759,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1849,
+      "stars": 1865,
       "user": "unreallabsai"
     },
     {
@@ -774,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6679,
+      "stars": 6697,
       "user": "zai-org"
     },
     {
@@ -789,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 832,
       "user": "mikehasa"
     },
     {
@@ -804,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 865,
       "user": "Lumid-Off"
     },
     {
@@ -820,158 +850,150 @@
       "user": "Tymscar"
     },
     {
-      "title": "Beware overreliance on metaphor",
-      "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
-      "published_at": "2026-09-23T18:39:21.504-05:00",
+      "title": "AI Workers' Inquiry 2026",
+      "url": "https://techworkersinquiry.org/ai/",
+      "published_at": "2026-09-24T12:41:35.717-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
-        "historical",
-        "philosophy"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "evnm"
+      "user": "gmem"
     },
     {
-      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-24T15:00:00.000Z",
-      "description": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
-      "tags": [
-        "TC",
-        "Startups",
-        "Transportation",
-        "AI",
-        "Robotics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Lovable&#8217;s annualized revenue crosses $600M as vibe coding takes off",
-      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-      "published_at": "2026-09-24T14:43:25.000Z",
-      "description": "Lovable co-foudner Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "published_at": "2026-09-24T19:15:00.000Z",
+      "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
       "tags": [
         "AI",
-        "Lovable",
-        "vibe coding"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "published_at": "2026-09-24T14:31:00.000Z",
-      "description": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "AI agents",
-        "ando"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-      "published_at": "2026-09-24T14:30:00.000Z",
-      "description": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-      "tags": [
-        "TC",
-        "Startups",
+        "Apps",
         "Biotech & Health",
-        "AI",
-        "TechCrunch Disrupt"
+        "Climate",
+        "Crypto"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
     },
     {
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "published_at": "2026-09-24T12:54:19.000Z",
-      "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "published_at": "2026-09-24T19:00:42.000Z",
+      "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
       "tags": [
         "AI",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach"
+        "TC"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Aditya Mehta, Zack Whittaker"
+      "user": "Julie Bort"
     },
     {
-      "title": "Everything new coming to Meta&#8217;s AI agent Muse",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "published_at": "2026-09-24T01:13:32.000Z",
-      "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "published_at": "2026-09-24T18:11:44.000Z",
+      "description": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
       "tags": [
         "AI",
-        "TC",
-        "Meta",
-        "muse"
+        "data centers",
+        "oracle",
+        "stargate"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Kirsten Korosec, Lucas Ropek"
+      "user": "Aditya Mehta"
     },
     {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "published_at": "2026-09-24T00:46:17.000Z",
-      "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
-      "tags": [
-        "AI",
-        "Mark Zuckerberg",
-        "Meta",
-        "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Meta is trying VR glasses (again), this time with more IMAX",
-      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "published_at": "2026-09-23T23:47:35.000Z",
-      "description": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options.",
-      "tags": [
-        "Hardware",
-        "SMART Glasses",
-        "3d",
-        "Meta",
-        "VR"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "published_at": "2026-09-23T23:39:44.000Z",
-      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
+      "title": "Meta&#8217;s Muse Charm looks like a Tamagotchi, but it&#8217;s tapping into a much newer trend",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "published_at": "2026-09-24T17:39:24.000Z",
+      "description": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
       "tags": [
         "AI",
         "Gadgets",
         "Hardware",
-        "Social",
-        "ai glasses"
+        "TC",
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
+    },
+    {
+      "title": "Google Photos &#8216;Clueless&#8217;-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "published_at": "2026-09-24T17:00:00.000Z",
+      "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "tags": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google Photos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "published_at": "2026-09-24T16:46:47.000Z",
+      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "TechCrunch Founder Summit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "ElevenLabs&#8217; CEO on margins, IPO timing, and telling customers they&#8217;re talking to a bot",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "published_at": "2026-09-24T16:35:13.000Z",
+      "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "tags": [
+        "AI",
+        "ElevenLabs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-24T16:03:36.000Z",
+      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Fundraising",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
+      "url": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
+      "published_at": "2026-09-24T16:08:52.000Z",
+      "description": "Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat",
+      "tags": [
+        "software architecture",
+        "Devops",
+        "Artificial Intelligence",
+        "TypeScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course",
@@ -1047,22 +1069,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Lakshmi Mahabaleshwara"
-    },
-    {
-      "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
-      "url": "https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/",
-      "published_at": "2026-09-18T21:31:44.000Z",
-      "description": "AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "debugging",
-        "Programming Blogs",
-        "ai-coding-assistants"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "GAYATHRI BOLINENI"
     }
   ],
   "JavaScript": [
@@ -1140,21 +1146,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
       "source": "Dev.to",
       "user": "Tanay Dwivedi"
-    },
-    {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-      "published_at": "2026-09-03T15:24:18Z",
-      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
-      "tags": [
-        "discuss",
-        "aws",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1288,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 772,
       "user": "riba2534"
     },
     {
@@ -1303,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 655,
       "user": "JohnHeibel"
     },
     {
@@ -1333,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 541,
       "user": "rmalde"
     },
     {
@@ -1348,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 496,
       "user": "logicrw"
     },
     {
@@ -1363,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 691,
       "user": "kryvora-network"
     },
     {
@@ -1378,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6679,
+      "stars": 6697,
       "user": "zai-org"
     },
     {
@@ -1393,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 832,
       "user": "mikehasa"
     },
     {
@@ -1408,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 755,
       "user": "githubnext"
     },
     {
@@ -1423,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 555,
       "user": "anishfn"
     },
     {
@@ -1438,8 +1429,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 439,
       "user": "kyotofin"
+    },
+    {
+      "title": "What is the recommended JavaScript approach to parse Data Matrix scan data returned as a string?",
+      "url": "https://stackoverflow.com/questions/80005599/what-is-the-recommended-javascript-approach-to-parse-data-matrix-scan-data-retur",
+      "published_at": "2026-09-24T18:47:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "barcode-scanner",
+        "string-parsing",
+        "datamatrix",
+        "gs1-datamatrix"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CrimsonReverie"
     },
     {
       "title": "3D tilt effect with JS working only in highly specific areas of the element",
@@ -1459,7 +1466,7 @@
       "title": "How can I set up my classes so that I can perform operations with them? In Javascript",
       "url": "https://stackoverflow.com/questions/80005511/how-can-i-set-up-my-classes-so-that-i-can-perform-operations-with-them-in-javas",
       "published_at": "2026-09-24T12:46:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "class",
@@ -1570,18 +1577,19 @@
       "user": "Roshani Shrestha"
     },
     {
-      "title": "Validate decimal numbers in JavaScript - IsNumeric()",
-      "url": "https://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric",
-      "published_at": "2008-08-20T14:21:13.000Z",
-      "description": "Stack Overflow question · 53 answers · score 2575",
+      "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
+      "url": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
+      "published_at": "2026-09-24T16:08:52.000Z",
+      "description": "Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat",
       "tags": [
-        "javascript",
-        "validation",
-        "numbers"
+        "software architecture",
+        "Devops",
+        "Artificial Intelligence",
+        "TypeScript"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Michael Haren"
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1853,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 22378,
+      "stars": 22737,
       "user": "NandhaKishorM"
     },
     {
@@ -1868,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6161,
+      "stars": 6191,
       "user": "mizorewww"
     },
     {
@@ -1883,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1719,
+      "stars": 1723,
       "user": "bespokelabsai"
     },
     {
@@ -1898,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1424,
       "user": "mizorewww"
     },
     {
@@ -1913,27 +1921,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1411,
       "user": "newliver666"
-    },
-    {
-      "title": "whatsnewt: A TUI text adventure through what's new in Python 3.15",
-      "url": "https://pypi.org/project/whatsnewt/",
-      "published_at": "2026-09-24T07:19:28.852-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ngoldbaum"
     },
     {
       "title": "I'm trying to import cs50 in my program on VS Code, it keeps reporting: Warning. import \"cs50\" could not be resolved",
       "url": "https://stackoverflow.com/questions/80005440/im-trying-to-import-cs50-in-my-program-on-vs-code-it-keeps-reporting-warning",
       "published_at": "2026-09-24T08:10:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "vs-code",
@@ -1974,7 +1969,7 @@
       "title": "Flet app doesn't display when run due to exception",
       "url": "https://stackoverflow.com/questions/80005418/flet-app-doesnt-display-when-run-due-to-exception",
       "published_at": "2026-09-24T07:08:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "flet"
@@ -1997,19 +1992,6 @@
       "user": "Iain"
     },
     {
-      "title": "Simple FastAPI python project using static files",
-      "url": "https://stackoverflow.com/questions/80005375/simple-fastapi-python-project-using-static-files",
-      "published_at": "2026-09-24T00:20:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "asone _"
-    },
-    {
       "title": "Schemdraw SVG file doesn't render properly with PySide6",
       "url": "https://stackoverflow.com/questions/80005306/schemdraw-svg-file-doesnt-render-properly-with-pyside6",
       "published_at": "2026-09-23T17:07:58.000Z",
@@ -2026,6 +2008,18 @@
       "user": "Alias"
     },
     {
+      "title": "How do I use the correct syntax for a variable being 0 in an if function",
+      "url": "https://stackoverflow.com/questions/80005298/how-do-i-use-the-correct-syntax-for-a-variable-being-0-in-an-if-function",
+      "published_at": "2026-09-23T16:45:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Calumjt.13"
+    },
+    {
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
       "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
       "published_at": "2026-09-23T18:45:10.000Z",
@@ -2038,18 +2032,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ArrowInTree"
-    },
-    {
-      "title": "How do I use the correct syntax for a variable being 0 in an if function",
-      "url": "https://stackoverflow.com/questions/80005298/how-do-i-use-the-correct-syntax-for-a-variable-being-0-in-an-if-function",
-      "published_at": "2026-09-23T16:45:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Calumjt.13"
     },
     {
       "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
@@ -2065,6 +2047,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Louis Cha"
+    },
+    {
+      "title": "Anaconda Navigator?",
+      "url": "https://stackoverflow.com/questions/80005233/anaconda-navigator",
+      "published_at": "2026-09-23T12:21:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "spyder",
+        "anaconda3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rozemarijn Dik"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2112,22 +2108,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Kayode Adeniyi"
-    },
-    {
-      "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
-      "url": "https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/",
-      "published_at": "2026-09-18T21:31:44.000Z",
-      "description": "AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "debugging",
-        "Programming Blogs",
-        "ai-coding-assistants"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "GAYATHRI BOLINENI"
     }
   ],
   "DevOps": [
@@ -2310,6 +2290,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
+      "url": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
+      "published_at": "2026-09-24T16:08:52.000Z",
+      "description": "Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat",
+      "tags": [
+        "software architecture",
+        "Devops",
+        "Artificial Intelligence",
+        "TypeScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     }
   ],
   "WebDev": [
@@ -2367,7 +2362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 832,
       "user": "mikehasa"
     },
     {
@@ -2485,8 +2480,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1411,
       "user": "newliver666"
+    },
+    {
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "published_at": "2026-09-24T09:57:57.021-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "android"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tusharhero"
     },
     {
       "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
@@ -2505,19 +2512,35 @@
       "user": "Kyvin Magalona"
     },
     {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "published_at": "2026-09-24T00:46:17.000Z",
-      "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "title": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
+      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "published_at": "2026-09-24T18:52:38.000Z",
+      "description": "Feather is betting on a customizable, $30,000 platform built for software developers.",
       "tags": [
-        "AI",
-        "Mark Zuckerberg",
-        "Meta",
-        "muse"
+        "Robotics",
+        "Startups",
+        "Gradient Ventures",
+        "humanoid",
+        "humanoid robots"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Google Photos &#8216;Clueless&#8217;-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "published_at": "2026-09-24T17:00:00.000Z",
+      "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "tags": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google Photos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
@@ -2553,6 +2576,51 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
+      "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
+      "published_at": "2026-09-24T16:32:26Z",
+      "description": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked against the same read on an NVIDIA L4 and against Jev 1.13.0's published results. What fits one chip, how to read labels when vLLM on TPU returns only the top 32 log-probabilities, speed, cost, and why no 31B loads today.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu%2Fdevto-jev-tpu-v6e1-cover.6a93fef0.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
+      "published_at": "2026-09-24T11:55:12Z",
+      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "tags": [
+        "ai",
+        "agents",
+        "agentskills",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
+      "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
+      "published_at": "2026-09-24T02:00:37Z",
+      "description": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) builds on one EC2 L4, on 1,200 labelled examples and on the 3,880-record public suite where Jev 1.13.0 has published results. Pre-registered, with accuracy, calibration, calibration after 0 to 150 labels, latency and cost.",
+      "tags": [
+        "gemma",
+        "aws",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
@@ -2746,36 +2814,6 @@
       "user": "JimmyLiao"
     },
     {
-      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
-      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
-      "published_at": "2026-09-16T02:20:49Z",
-      "description": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.",
-      "tags": [
-        "iceberg",
-        "aiagents",
-        "lakehouse",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
-      "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-      "published_at": "2026-09-03T15:24:18Z",
-      "description": "TL;DR  I recently finished a project from Udacity's Future AWS Agent Engineer Nanodegree Program,...",
-      "tags": [
-        "discuss",
-        "aws",
-        "beginners",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbo9j0oe35ihh9hrf946q.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "url": "https://github.com/mizorewww/laya-mlx",
       "published_at": "2026-09-19T13:50:26Z",
@@ -2787,8 +2825,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6161,
+      "stars": 6191,
       "user": "mizorewww"
+    },
+    {
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "published_at": "2026-09-24T17:07:55.000Z",
+      "description": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "tags": [
+        "Enterprise",
+        "Startups",
+        "ali ghodsi",
+        "Databricks"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     }
   ],
   "Database": [
@@ -2816,7 +2869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 832,
       "user": "mikehasa"
     },
     {
@@ -3009,25 +3062,24 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tuxes"
-    },
-    {
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "published_at": "2026-09-24T12:54:19.000Z",
-      "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-      "tags": [
-        "AI",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta, Zack Whittaker"
     }
   ],
   "Tools": [
+    {
+      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
+      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
+      "published_at": "2026-09-24T02:00:52Z",
+      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "The missing layer in AI tooling: sharing what your assistant already knows",
       "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
@@ -3104,19 +3156,19 @@
       "user": "xbill"
     },
     {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
       "tags": [
         "ai",
-        "claude",
-        "performance",
+        "programming",
+        "architecture",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
       "source": "Dev.to",
-      "user": " Gábor Mészáros"
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "🧩 Don't make Tech your entire personality.",
@@ -3134,19 +3186,19 @@
       "user": "Tanay Dwivedi"
     },
     {
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-      "published_at": "2026-09-19T01:56:39Z",
-      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
+      "published_at": "2026-09-16T18:01:55Z",
+      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
       "tags": [
         "ai",
-        "programming",
-        "architecture",
+        "claude",
+        "performance",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": " Gábor Mészáros"
     },
     {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
@@ -3192,36 +3244,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
       "source": "Dev.to",
       "user": "Ashley Childress"
-    },
-    {
-      "title": "Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn't",
-      "url": "https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-a5g",
-      "published_at": "2026-09-16T02:20:49Z",
-      "description": "Four read-only Apache Iceberg tools bound into Google ADK, AWS Strands and Microsoft Agent Framework, run against five catalogs, 360 timed runs. Building the agent ports and running it does not; speed follows the model and how much it writes; the storage wiring under the tools is the per-cloud work.",
-      "tags": [
-        "iceberg",
-        "aiagents",
-        "lakehouse",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-agent-three-clouds%2Fcover.30ed1e97.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
-      "published_at": "2026-09-11T23:07:27Z",
-      "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fouu91m3sesvpnwuivkge.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3271,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 772,
       "user": "riba2534"
     },
     {
@@ -3286,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 655,
       "user": "JohnHeibel"
     },
     {
@@ -3316,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 541,
       "user": "rmalde"
     },
     {
@@ -3331,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 496,
       "user": "logicrw"
     },
     {
@@ -3346,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 22378,
+      "stars": 22737,
       "user": "NandhaKishorM"
     },
     {
@@ -3361,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6161,
+      "stars": 6191,
       "user": "mizorewww"
     },
     {
@@ -3376,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1719,
+      "stars": 1723,
       "user": "bespokelabsai"
     },
     {
@@ -3391,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1424,
       "user": "mizorewww"
     },
     {
@@ -3406,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1411,
       "user": "newliver666"
     },
     {
@@ -3421,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1849,
+      "stars": 1865,
       "user": "unreallabsai"
     },
     {
@@ -3436,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 691,
       "user": "kryvora-network"
     },
     {
@@ -3466,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 578,
       "user": "yetone"
     },
     {
@@ -3481,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "HyNetworks"
     },
     {
@@ -3496,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6679,
+      "stars": 6697,
       "user": "zai-org"
     },
     {
@@ -3511,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 832,
       "user": "mikehasa"
     },
     {
@@ -3526,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 755,
       "user": "githubnext"
     },
     {
@@ -3541,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 555,
       "user": "anishfn"
     },
     {
@@ -3556,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 439,
       "user": "kyotofin"
     },
     {
@@ -3571,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 865,
       "user": "Lumid-Off"
     },
     {
@@ -3586,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 536,
       "user": "Haleclipse"
     },
     {
@@ -3601,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 409,
       "user": "eliasstravik"
     },
     {
@@ -3616,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "ejfkdev"
     },
     {
@@ -3631,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307794066?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "BridgeDruidCompress"
     },
     {
@@ -3663,22 +3685,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
-      "url": "https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/",
-      "published_at": "2026-09-18T21:31:44.000Z",
-      "description": "AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "debugging",
-        "Programming Blogs",
-        "ai-coding-assistants"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "GAYATHRI BOLINENI"
     }
   ]
 }
