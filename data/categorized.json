@@ -16,6 +16,21 @@
       "user": "Mika Flowers"
     },
     {
+      "title": "This video is about how this video was made",
+      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
+      "published_at": "2026-09-24T19:54:35Z",
+      "description": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
+      "tags": [
+        "ai",
+        "claude",
+        "video",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
+    },
+    {
       "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
       "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
       "published_at": "2026-09-24T16:32:26Z",
@@ -134,21 +149,6 @@
       "user": "Vo Tu Duc"
     },
     {
-      "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1",
-      "published_at": "2026-09-22T17:24:01Z",
-      "description": "Building the smallest Compute Engine VM that serves Gemma 4 E2B on one Tesla T4, installing the driver and vLLM after boot, and a walkthrough of every option in the shell script that starts, checks and queries the server.",
-      "tags": [
-        "gemma",
-        "vllm",
-        "gcp",
-        "cuda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-vm-cover.25debff5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The missing layer in AI tooling: sharing what your assistant already knows",
       "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
       "published_at": "2026-09-22T16:59:06Z",
@@ -224,6 +224,21 @@
       "user": "Wataru Suda"
     },
     {
+      "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
+      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1",
+      "published_at": "2026-09-22T17:24:01Z",
+      "description": "Building the smallest Compute Engine VM that serves Gemma 4 E2B on one Tesla T4, installing the driver and vLLM after boot, and a walkthrough of every option in the shell script that starts, checks and queries the server.",
+      "tags": [
+        "gemma",
+        "vllm",
+        "gcp",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-vm-cover.25debff5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
       "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
       "published_at": "2026-09-14T17:12:10Z",
@@ -284,6 +299,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
       "published_at": "2026-09-01T05:53:57Z",
@@ -311,21 +341,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
-    },
-    {
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-      "published_at": "2026-09-19T01:56:39Z",
-      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
@@ -371,21 +386,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Cross Cloud A2A Agent Card Field Comparison",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
-      "published_at": "2026-08-27T15:00:08Z",
-      "description": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
-      "tags": [
-        "a2a",
-        "multicloud",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "🧩 Don't make Tech your entire personality.",
@@ -548,21 +548,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Gemma 4 on a Tesla T4: QAT Weights Decode 1.79x Faster Than bf16",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-qat-weights-decode-179x-faster-than-bf16-2fi4",
-      "published_at": "2026-09-18T21:48:13Z",
-      "description": "A step by step deployment of Gemma 4 E2B with vLLM on a single Tesla T4 attached to a Compute Engine VM, and a measured comparison of the QAT w4a16 checkpoint against the bf16 reference on the same card.",
-      "tags": [
-        "gemma",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-qat-cover.74744fbf.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -744,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 497,
       "user": "logicrw"
     },
     {
@@ -759,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1730,
       "user": "bespokelabsai"
     },
     {
@@ -774,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1433,
       "user": "mizorewww"
     },
     {
@@ -789,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1865,
+      "stars": 1874,
       "user": "unreallabsai"
     },
     {
@@ -804,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6697,
+      "stars": 6705,
       "user": "zai-org"
     },
     {
@@ -819,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 847,
       "user": "mikehasa"
     },
     {
@@ -834,20 +819,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 868,
       "user": "Lumid-Off"
-    },
-    {
-      "title": "Clankers Made Me Build a Second Brain",
-      "url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
-      "published_at": "2026-09-24T06:34:43.976-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Tymscar"
     },
     {
       "title": "AI Workers' Inquiry 2026",
@@ -860,6 +833,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "gmem"
+    },
+    {
+      "title": "Clankers Made Me Build a Second Brain",
+      "url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+      "published_at": "2026-09-24T06:34:43.976-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Tymscar"
     },
     {
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
@@ -884,7 +869,10 @@
       "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
       "tags": [
         "AI",
-        "TC"
+        "Startups",
+        "TC",
+        "LLMs",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -963,22 +951,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-24T16:03:36.000Z",
-      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Climate",
-        "Fundraising",
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1086,6 +1058,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
       "source": "Dev.to",
       "user": "Mika Flowers"
+    },
+    {
+      "title": "This video is about how this video was made",
+      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
+      "published_at": "2026-09-24T19:54:35Z",
+      "description": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
+      "tags": [
+        "ai",
+        "claude",
+        "video",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
     },
     {
       "title": "The Grand Unifying Architecture of Frontend",
@@ -1279,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 776,
       "user": "riba2534"
     },
     {
@@ -1294,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 682,
       "user": "JohnHeibel"
     },
     {
@@ -1309,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 596,
       "user": "Sac-Y"
     },
     {
@@ -1339,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 497,
       "user": "logicrw"
     },
     {
@@ -1354,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 703,
       "user": "kryvora-network"
     },
     {
@@ -1369,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6697,
+      "stars": 6705,
       "user": "zai-org"
     },
     {
@@ -1384,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 847,
       "user": "mikehasa"
     },
     {
@@ -1399,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 757,
       "user": "githubnext"
     },
     {
@@ -1414,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 567,
       "user": "anishfn"
     },
     {
@@ -1429,14 +1416,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 442,
       "user": "kyotofin"
     },
     {
       "title": "What is the recommended JavaScript approach to parse Data Matrix scan data returned as a string?",
       "url": "https://stackoverflow.com/questions/80005599/what-is-the-recommended-javascript-approach-to-parse-data-matrix-scan-data-retur",
       "published_at": "2026-09-24T18:47:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "barcode-scanner",
@@ -1452,7 +1439,7 @@
       "title": "3D tilt effect with JS working only in highly specific areas of the element",
       "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
       "published_at": "2026-09-24T10:05:58.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -1537,20 +1524,6 @@
       "user": "camwormy"
     },
     {
-      "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
-      "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
-      "published_at": "2026-09-21T20:48:41.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "google-analytics",
-        "google-analytics-4"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmad Ataya"
-    },
-    {
       "title": "How can I get \"stringified\" object with nested objects?",
       "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
       "published_at": "2026-09-18T20:32:45.000Z",
@@ -1575,6 +1548,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Roshani Shrestha"
+    },
+    {
+      "title": "Validate decimal numbers in JavaScript - IsNumeric()",
+      "url": "https://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric",
+      "published_at": "2008-08-20T14:21:13.000Z",
+      "description": "Stack Overflow question · 53 answers · score 2575",
+      "tags": [
+        "javascript",
+        "validation",
+        "numbers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Michael Haren"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1655,21 +1642,6 @@
       "user": "xbill"
     },
     {
-      "title": "Cross Cloud A2A Agent Card Field Comparison",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
-      "published_at": "2026-08-27T15:00:08Z",
-      "description": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
-      "tags": [
-        "a2a",
-        "multicloud",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -1681,21 +1653,6 @@
         "machinelearning"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
-      "published_at": "2026-09-16T20:03:02Z",
-      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
-      "tags": [
-        "machinelearning",
-        "gpu",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1713,6 +1670,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
+    },
+    {
+      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
+      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
+      "published_at": "2026-09-16T20:03:02Z",
+      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
+      "tags": [
+        "machinelearning",
+        "gpu",
+        "benchmarking",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
@@ -1861,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 22737,
+      "stars": 22936,
       "user": "NandhaKishorM"
     },
     {
@@ -1876,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6191,
+      "stars": 6210,
       "user": "mizorewww"
     },
     {
@@ -1891,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1730,
       "user": "bespokelabsai"
     },
     {
@@ -1906,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1433,
       "user": "mizorewww"
     },
     {
@@ -1921,8 +1893,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1414,
       "user": "newliver666"
+    },
+    {
+      "title": "Thonny IDE freezes on launch or loads blank files from ESP32/MicroPython on macOS with Python 3.14",
+      "url": "https://stackoverflow.com/questions/80005645/thonny-ide-freezes-on-launch-or-loads-blank-files-from-esp32-micropython-on-maco",
+      "published_at": "2026-09-24T21:55:36.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
+      "tags": [
+        "python",
+        "macos",
+        "tkinter",
+        "tcl",
+        "thonny"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe Takai"
+    },
+    {
+      "title": "Flet app doesn't display when run due to exception",
+      "url": "https://stackoverflow.com/questions/80005418/flet-app-doesnt-display-when-run-due-to-exception",
+      "published_at": "2026-09-24T07:08:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "flet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33152660"
     },
     {
       "title": "I'm trying to import cs50 in my program on VS Code, it keeps reporting: Warning. import \"cs50\" could not be resolved",
@@ -1966,17 +1967,18 @@
       "user": "A. Gocht"
     },
     {
-      "title": "Flet app doesn't display when run due to exception",
-      "url": "https://stackoverflow.com/questions/80005418/flet-app-doesnt-display-when-run-due-to-exception",
-      "published_at": "2026-09-24T07:08:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
+      "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
+      "published_at": "2026-09-22T12:53:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 8",
       "tags": [
         "python",
-        "flet"
+        "c++",
+        "binaryfiles"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33152660"
+      "user": "machiel"
     },
     {
       "title": "How to catch keypress event on arrow keys, and stop them from moving focus?",
@@ -2032,35 +2034,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ArrowInTree"
-    },
-    {
-      "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
-      "url": "https://stackoverflow.com/questions/80005109/how-can-i-tighten-a-provable-upper-bound-for-an-exact-samegame-solver",
-      "published_at": "2026-09-23T01:39:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "algorithm",
-        "optimization",
-        "dynamic-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Louis Cha"
-    },
-    {
-      "title": "Anaconda Navigator?",
-      "url": "https://stackoverflow.com/questions/80005233/anaconda-navigator",
-      "published_at": "2026-09-23T12:21:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "spyder",
-        "anaconda3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rozemarijn Dik"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2127,21 +2100,6 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
-      "published_at": "2026-09-22T15:14:36Z",
-      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
-      "tags": [
-        "googlecloud",
-        "python",
-        "devops",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -2155,6 +2113,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
+      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
+      "published_at": "2026-09-22T15:14:36Z",
+      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
+      "tags": [
+        "googlecloud",
+        "python",
+        "devops",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2362,7 +2335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 847,
       "user": "mikehasa"
     },
     {
@@ -2379,10 +2352,22 @@
       "user": "jjba23"
     },
     {
+      "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "published_at": "2026-09-24T15:38:32.218-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "winter"
+    },
+    {
       "title": "3D tilt effect with JS working only in highly specific areas of the element",
       "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
       "published_at": "2026-09-24T10:05:58.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -2480,7 +2465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1414,
       "user": "newliver666"
     },
     {
@@ -2494,6 +2479,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tusharhero"
+    },
+    {
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "published_at": "2026-09-24T13:43:01.847-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "android"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dimonomid"
     },
     {
       "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
@@ -2740,21 +2737,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Cross Cloud A2A Agent Card Field Comparison",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
-      "published_at": "2026-08-27T15:00:08Z",
-      "description": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
-      "tags": [
-        "a2a",
-        "multicloud",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
       "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
       "published_at": "2026-09-17T21:36:22Z",
@@ -2766,21 +2748,6 @@
         "machinelearning"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
-      "published_at": "2026-09-17T02:43:18Z",
-      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
-      "tags": [
-        "amd",
-        "mcp",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2797,6 +2764,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
+      "published_at": "2026-09-17T02:43:18Z",
+      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
+      "tags": [
+        "amd",
+        "mcp",
+        "rocm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
@@ -2825,14 +2807,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6191,
+      "stars": 6210,
       "user": "mizorewww"
     },
     {
       "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
       "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
       "published_at": "2026-09-24T17:07:55.000Z",
-      "description": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "description": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
       "tags": [
         "Enterprise",
         "Startups",
@@ -2869,22 +2851,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 847,
       "user": "mikehasa"
-    },
-    {
-      "title": "Pick OS is a Living Fossil of Computer History",
-      "url": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
-      "published_at": "2026-09-24T01:14:19.318-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "historical",
-        "osdev"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "veqq"
     },
     {
       "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
@@ -3048,6 +3016,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "published_at": "2026-09-24T15:38:32.218-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "winter"
     },
     {
       "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
@@ -3293,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 776,
       "user": "riba2534"
     },
     {
@@ -3308,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 682,
       "user": "JohnHeibel"
     },
     {
@@ -3323,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 596,
       "user": "Sac-Y"
     },
     {
@@ -3353,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 497,
       "user": "logicrw"
     },
     {
@@ -3368,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 22737,
+      "stars": 22936,
       "user": "NandhaKishorM"
     },
     {
@@ -3383,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6191,
+      "stars": 6210,
       "user": "mizorewww"
     },
     {
@@ -3398,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1730,
       "user": "bespokelabsai"
     },
     {
@@ -3413,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1433,
       "user": "mizorewww"
     },
     {
@@ -3428,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1414,
       "user": "newliver666"
     },
     {
@@ -3443,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1865,
+      "stars": 1874,
       "user": "unreallabsai"
     },
     {
@@ -3458,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 703,
       "user": "kryvora-network"
     },
     {
@@ -3488,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 599,
       "user": "yetone"
     },
     {
@@ -3518,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6697,
+      "stars": 6705,
       "user": "zai-org"
     },
     {
@@ -3533,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 847,
       "user": "mikehasa"
     },
     {
@@ -3548,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 757,
       "user": "githubnext"
     },
     {
@@ -3563,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 567,
       "user": "anishfn"
     },
     {
@@ -3578,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 442,
       "user": "kyotofin"
     },
     {
@@ -3593,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 868,
       "user": "Lumid-Off"
     },
     {
@@ -3608,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 537,
       "user": "Haleclipse"
     },
     {
@@ -3623,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 421,
       "user": "eliasstravik"
     },
     {
@@ -3638,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 296,
       "user": "ejfkdev"
     },
     {
