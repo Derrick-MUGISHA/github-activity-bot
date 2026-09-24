@@ -22,7 +22,7 @@
       "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
       "tags": [
         "devchallenge",
-        "kagglechallenge",
+        "kagglebenchmarkchallenge",
         "machinelearning",
         "ai"
       ],
@@ -714,38 +714,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 448,
       "user": "logicrw"
-    },
-    {
-      "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "url": "https://github.com/jaredpalmer/kev",
-      "published_at": "2026-09-17T20:49:39Z",
-      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
-      "source": "GitHub",
-      "stars": 5920,
-      "user": "jaredpalmer"
-    },
-    {
-      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "url": "https://github.com/TianyuCodings/NanoJev",
-      "published_at": "2026-09-17T16:08:30Z",
-      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
-      "source": "GitHub",
-      "stars": 2111,
-      "user": "TianyuCodings"
     },
     {
       "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
@@ -759,8 +729,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1684,
       "user": "bespokelabsai"
+    },
+    {
+      "title": "mizorewww/laya-coreml - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "url": "https://github.com/mizorewww/laya-coreml",
+      "published_at": "2026-09-19T23:14:13Z",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 1391,
+      "user": "mizorewww"
     },
     {
       "title": "unreallabsai/unreal-agent - Async-first agent harness",
@@ -774,23 +759,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1697,
+      "stars": 1713,
       "user": "unreallabsai"
-    },
-    {
-      "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
-      "url": "https://github.com/itsmostafa/typesafe-mcp",
-      "published_at": "2026-09-17T05:23:34Z",
-      "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
-      "source": "GitHub",
-      "stars": 280,
-      "user": "itsmostafa"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -804,23 +774,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6527,
+      "stars": 6535,
       "user": "zai-org"
-    },
-    {
-      "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-      "url": "https://github.com/hydra-db/open-glean",
-      "published_at": "2026-09-17T05:22:08Z",
-      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
-      "source": "GitHub",
-      "stars": 1504,
-      "user": "hydra-db"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -834,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 784,
       "user": "Lumid-Off"
     },
     {
@@ -862,6 +817,66 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "kqr"
+    },
+    {
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "published_at": "2026-09-23T23:47:35.000Z",
+      "description": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "tags": [
+        "Hardware",
+        "3d",
+        "imax",
+        "Meta",
+        "SMART Glasses"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "published_at": "2026-09-23T23:39:44.000Z",
+      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Social",
+        "ai glasses"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "published_at": "2026-09-23T23:33:22.000Z",
+      "description": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+      "tags": [
+        "Media & Entertainment",
+        "Fashion",
+        "vogue"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "published_at": "2026-09-23T22:17:39.000Z",
+      "description": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
@@ -923,66 +938,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-      "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
-      "published_at": "2026-09-23T17:28:38.000Z",
-      "description": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
-      "tags": [
-        "Transportation",
-        "autonomous vehicles",
-        "avs",
-        "Exclusive",
-        "robotaxis"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "published_at": "2026-09-23T17:00:00.000Z",
-      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI",
-        "voice"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Even Americans who use AI every day are worried about it",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "published_at": "2026-09-23T16:49:58.000Z",
-      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "tags": [
-        "AI",
-        "ai safety",
-        "AI trust"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
-      "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-      "published_at": "2026-09-23T16:03:44.000Z",
-      "description": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Creators",
-        "YouTube"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
@@ -1076,22 +1031,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "ILYAS RUFAI"
-    },
-    {
-      "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
-      "url": "https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/",
-      "published_at": "2026-09-17T23:27:03.000Z",
-      "description": "Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users",
-      "tags": [
-        "legacy code",
-        "software architecture",
-        "migration",
-        "refactoring",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "JavaScript": [
@@ -1332,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 587,
       "user": "Sac-Y"
     },
     {
@@ -1347,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 549,
       "user": "riba2534"
     },
     {
@@ -1377,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 448,
       "user": "logicrw"
     },
     {
@@ -1392,23 +1331,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 501,
       "user": "kryvora-network"
-    },
-    {
-      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "published_at": "2026-09-17T05:57:20Z",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
-      "source": "GitHub",
-      "stars": 6560,
-      "user": "tamaratran"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -1422,23 +1346,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6527,
+      "stars": 6535,
       "user": "zai-org"
-    },
-    {
-      "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-      "url": "https://github.com/hydra-db/open-glean",
-      "published_at": "2026-09-17T05:22:08Z",
-      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
-      "source": "GitHub",
-      "stars": 1504,
-      "user": "hydra-db"
     },
     {
       "title": "githubnext/localjev - GitHub Repository",
@@ -1452,23 +1361,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 736,
       "user": "githubnext"
     },
     {
-      "title": "superagents-lab/jev-search - Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
-      "url": "https://github.com/superagents-lab/jev-search",
-      "published_at": "2026-09-17T18:05:10Z",
-      "description": "Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
+      "title": "kyotofin/tax-doc-classifier - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+      "url": "https://github.com/kyotofin/tax-doc-classifier",
+      "published_at": "2026-09-18T14:40:45Z",
+      "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270369317?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
       "source": "GitHub",
-      "stars": 434,
-      "user": "superagents-lab"
+      "stars": 412,
+      "user": "kyotofin"
+    },
+    {
+      "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "url": "https://github.com/anishfn/shapeshift",
+      "published_at": "2026-09-22T08:52:32Z",
+      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
+      "source": "GitHub",
+      "stars": 409,
+      "user": "anishfn"
+    },
+    {
+      "title": "receptron/laya - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+      "url": "https://github.com/receptron/laya",
+      "published_at": "2026-09-19T15:30:52Z",
+      "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
+      "source": "GitHub",
+      "stars": 358,
+      "user": "receptron"
     },
     {
       "title": "Encoding issues between Java WebSocket server and JavaScript client",
@@ -1587,30 +1526,30 @@
       "user": "Wammy"
     },
     {
-      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
-      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
-      "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lance"
-    },
-    {
       "title": "How can I get \"stringified\" object with nested objects?",
       "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
       "published_at": "2026-09-18T20:32:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "LUN"
+    },
+    {
+      "title": "React Router UI gets stuck after TanStack Query API request returns 404",
+      "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
+      "published_at": "2026-08-26T10:45:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-query"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Roshani Shrestha"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -1895,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 20291,
+      "stars": 20435,
       "user": "NandhaKishorM"
     },
     {
@@ -1910,38 +1849,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5927,
+      "stars": 5951,
       "user": "mizorewww"
-    },
-    {
-      "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "url": "https://github.com/jaredpalmer/kev",
-      "published_at": "2026-09-17T20:49:39Z",
-      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
-      "source": "GitHub",
-      "stars": 5920,
-      "user": "jaredpalmer"
-    },
-    {
-      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "url": "https://github.com/TianyuCodings/NanoJev",
-      "published_at": "2026-09-17T16:08:30Z",
-      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
-      "source": "GitHub",
-      "stars": 2111,
-      "user": "TianyuCodings"
     },
     {
       "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
@@ -1955,22 +1864,64 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1684,
       "user": "bespokelabsai"
     },
     {
-      "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
-      "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
-      "published_at": "2026-09-23T18:45:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "mizorewww/laya-coreml - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "url": "https://github.com/mizorewww/laya-coreml",
+      "published_at": "2026-09-19T23:14:13Z",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
       "tags": [
         "python",
-        "edi",
-        "x12"
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 1391,
+      "user": "mizorewww"
+    },
+    {
+      "title": "newliver666/apk-reverse - Suitable for Android APK reverse engineering analysis",
+      "url": "https://github.com/newliver666/apk-reverse",
+      "published_at": "2026-09-19T13:12:54Z",
+      "description": "Suitable for Android APK reverse engineering analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
+      "source": "GitHub",
+      "stars": 1273,
+      "user": "newliver666"
+    },
+    {
+      "title": "Simple FastAPI python project using static files",
+      "url": "https://stackoverflow.com/questions/80005375/simple-fastapi-python-project-using-static-files",
+      "published_at": "2026-09-24T00:20:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "fastapi"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "ArrowInTree"
+      "user": "asone _"
+    },
+    {
+      "title": "How to catch keypress event on arrow keys, and stop them from moving focus?",
+      "url": "https://stackoverflow.com/questions/80005369/how-to-catch-keypress-event-on-arrow-keys-and-stop-them-from-moving-focus",
+      "published_at": "2026-09-23T22:38:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pyqt6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Iain"
     },
     {
       "title": "Schemdraw SVG file doesn't render properly with PySide6",
@@ -1989,10 +1940,24 @@
       "user": "Alias"
     },
     {
+      "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
+      "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
+      "published_at": "2026-09-23T18:45:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "edi",
+        "x12"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ArrowInTree"
+    },
+    {
       "title": "How do I use the correct syntax for a variable being 0 in an if function",
       "url": "https://stackoverflow.com/questions/80005298/how-do-i-use-the-correct-syntax-for-a-variable-being-0-in-an-if-function",
       "published_at": "2026-09-23T16:45:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -2067,34 +2032,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "antialiased"
-    },
-    {
-      "title": "PyMySQL pool - how to close pool cleanly",
-      "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
-      "published_at": "2026-09-22T22:16:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "pymysql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
-      "url": "https://stackoverflow.com/questions/80005109/how-can-i-tighten-a-provable-upper-bound-for-an-exact-samegame-solver",
-      "published_at": "2026-09-23T01:39:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "algorithm",
-        "optimization",
-        "dynamic-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Louis Cha"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2430,20 +2367,6 @@
       "user": "Marcus M&#252;ller"
     },
     {
-      "title": "how do i make button hover use my custom `:root` color instead of bootstrap’s default?",
-      "url": "https://stackoverflow.com/questions/80004807/how-do-i-make-button-hover-use-my-custom-root-color-instead-of-bootstrap-s-de",
-      "published_at": "2026-09-22T00:15:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lance"
-    },
-    {
       "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/",
       "published_at": "2026-09-18T15:47:01.000Z",
@@ -2519,6 +2442,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "newliver666/apk-reverse - Suitable for Android APK reverse engineering analysis",
+      "url": "https://github.com/newliver666/apk-reverse",
+      "published_at": "2026-09-19T13:12:54Z",
+      "description": "Suitable for Android APK reverse engineering analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
+      "source": "GitHub",
+      "stars": 1273,
+      "user": "newliver666"
+    },
+    {
       "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
       "url": "https://stackoverflow.com/questions/80005138/flutter-app-shows-default-counter-instead-of-my-custom-statefulwidget-todoapp",
       "published_at": "2026-09-23T06:23:11.000Z",
@@ -2550,19 +2488,20 @@
       "user": "Silent Takudzwa"
     },
     {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "published_at": "2026-09-23T17:00:00.000Z",
-      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
+      "url": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
+      "published_at": "2026-09-23T21:01:32.000Z",
+      "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
       "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI",
-        "voice"
+        "pub.dev",
+        "Flutter",
+        "mobile",
+        "Dart",
+        "sdk"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     },
     {
       "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
@@ -2816,7 +2755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5927,
+      "stars": 5951,
       "user": "mizorewww"
     }
   ],
@@ -2832,35 +2771,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "PyMySQL pool - how to close pool cleanly",
-      "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
-      "published_at": "2026-09-22T22:16:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "pymysql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
-      "url": "https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/",
-      "published_at": "2026-09-17T23:27:03.000Z",
-      "description": "Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users",
-      "tags": [
-        "legacy code",
-        "software architecture",
-        "migration",
-        "refactoring",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "Security": [
@@ -3315,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 587,
       "user": "Sac-Y"
     },
     {
@@ -3330,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 549,
       "user": "riba2534"
     },
     {
@@ -3360,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 448,
       "user": "logicrw"
     },
     {
@@ -3375,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 20291,
+      "stars": 20435,
       "user": "NandhaKishorM"
     },
     {
@@ -3390,38 +3300,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5927,
+      "stars": 5951,
       "user": "mizorewww"
-    },
-    {
-      "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "url": "https://github.com/jaredpalmer/kev",
-      "published_at": "2026-09-17T20:49:39Z",
-      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4060187?v=4",
-      "source": "GitHub",
-      "stars": 5920,
-      "user": "jaredpalmer"
-    },
-    {
-      "title": "TianyuCodings/NanoJev - A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "url": "https://github.com/TianyuCodings/NanoJev",
-      "published_at": "2026-09-17T16:08:30Z",
-      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48460209?v=4",
-      "source": "GitHub",
-      "stars": 2111,
-      "user": "TianyuCodings"
     },
     {
       "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
@@ -3435,8 +3315,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1684,
       "user": "bespokelabsai"
+    },
+    {
+      "title": "mizorewww/laya-coreml - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "url": "https://github.com/mizorewww/laya-coreml",
+      "published_at": "2026-09-19T23:14:13Z",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 1391,
+      "user": "mizorewww"
+    },
+    {
+      "title": "newliver666/apk-reverse - Suitable for Android APK reverse engineering analysis",
+      "url": "https://github.com/newliver666/apk-reverse",
+      "published_at": "2026-09-19T13:12:54Z",
+      "description": "Suitable for Android APK reverse engineering analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
+      "source": "GitHub",
+      "stars": 1273,
+      "user": "newliver666"
     },
     {
       "title": "unreallabsai/unreal-agent - Async-first agent harness",
@@ -3450,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1697,
+      "stars": 1713,
       "user": "unreallabsai"
     },
     {
@@ -3480,23 +3390,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 501,
       "user": "kryvora-network"
-    },
-    {
-      "title": "itsmostafa/typesafe-mcp - An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
-      "url": "https://github.com/itsmostafa/typesafe-mcp",
-      "published_at": "2026-09-17T05:23:34Z",
-      "description": "An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24395434?v=4",
-      "source": "GitHub",
-      "stars": 280,
-      "user": "itsmostafa"
     },
     {
       "title": "HyNetworks/OpenGFW - OpenGFW is your very own DIY Great Firewall of China",
@@ -3514,19 +3409,19 @@
       "user": "HyNetworks"
     },
     {
-      "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "published_at": "2026-09-17T05:57:20Z",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "title": "wangyunjeff/sub2api-state-kit - Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
+      "url": "https://github.com/wangyunjeff/sub2api-state-kit",
+      "published_at": "2026-09-18T14:25:18Z",
+      "description": "Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65584429?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
       "source": "GitHub",
-      "stars": 6560,
-      "user": "tamaratran"
+      "stars": 203,
+      "user": "wangyunjeff"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -3540,23 +3435,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6527,
+      "stars": 6535,
       "user": "zai-org"
-    },
-    {
-      "title": "hydra-db/open-glean - An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-      "url": "https://github.com/hydra-db/open-glean",
-      "published_at": "2026-09-17T05:22:08Z",
-      "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/244433600?v=4",
-      "source": "GitHub",
-      "stars": 1504,
-      "user": "hydra-db"
     },
     {
       "title": "githubnext/localjev - GitHub Repository",
@@ -3570,23 +3450,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 736,
       "user": "githubnext"
     },
     {
-      "title": "superagents-lab/jev-search - Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
-      "url": "https://github.com/superagents-lab/jev-search",
-      "published_at": "2026-09-17T18:05:10Z",
-      "description": "Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
+      "title": "kyotofin/tax-doc-classifier - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+      "url": "https://github.com/kyotofin/tax-doc-classifier",
+      "published_at": "2026-09-18T14:40:45Z",
+      "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270369317?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
       "source": "GitHub",
-      "stars": 434,
-      "user": "superagents-lab"
+      "stars": 412,
+      "user": "kyotofin"
+    },
+    {
+      "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "url": "https://github.com/anishfn/shapeshift",
+      "published_at": "2026-09-22T08:52:32Z",
+      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
+      "source": "GitHub",
+      "stars": 409,
+      "user": "anishfn"
+    },
+    {
+      "title": "receptron/laya - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+      "url": "https://github.com/receptron/laya",
+      "published_at": "2026-09-19T15:30:52Z",
+      "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
+      "source": "GitHub",
+      "stars": 358,
+      "user": "receptron"
     },
     {
       "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
@@ -3600,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 784,
       "user": "Lumid-Off"
     },
     {
@@ -3615,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "Haleclipse"
     },
     {
@@ -3630,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 345,
       "user": "eliasstravik"
     },
     {
@@ -3692,6 +3602,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
+    },
+    {
+      "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
+      "url": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
+      "published_at": "2026-09-23T21:01:32.000Z",
+      "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
+      "tags": [
+        "pub.dev",
+        "Flutter",
+        "mobile",
+        "Dart",
+        "sdk"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     },
     {
       "title": "How AI Coding Assistants Can Help You Debug Without Writing the Code for You",
