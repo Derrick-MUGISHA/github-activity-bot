@@ -209,21 +209,6 @@
       "user": "JimmyLiao"
     },
     {
-      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
-      "published_at": "2026-09-16T14:30:05Z",
-      "description": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
-      "tags": [
-        "ai",
-        "live",
-        "voice",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fow0e126ujeat6lp7vwkj.png",
-      "source": "Dev.to",
-      "user": "Thor 雷神 Schaeff"
-    },
-    {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
       "published_at": "2026-09-16T10:15:52Z",
@@ -281,6 +266,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
+    },
+    {
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
+      "published_at": "2026-09-16T14:30:05Z",
+      "description": "Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...",
+      "tags": [
+        "ai",
+        "live",
+        "voice",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fow0e126ujeat6lp7vwkj.png",
+      "source": "Dev.to",
+      "user": "Thor 雷神 Schaeff"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -714,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 459,
       "user": "logicrw"
     },
     {
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1699,
       "user": "bespokelabsai"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1400,
       "user": "mizorewww"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1713,
+      "stars": 1770,
       "user": "unreallabsai"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6535,
+      "stars": 6590,
       "user": "zai-org"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 802,
       "user": "Lumid-Off"
     },
     {
@@ -807,16 +807,34 @@
       "user": "joshsharp"
     },
     {
-      "title": "Cheaper LLM labelling",
-      "url": "https://entropicthoughts.com/cheaper-llm-labeling",
-      "published_at": "2026-09-23T08:14:06.452-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Everything new coming to Meta&#8217;s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "published_at": "2026-09-24T01:13:32.000Z",
+      "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
       "tags": [
-        "vibecoding"
+        "AI",
+        "TC",
+        "Meta",
+        "muse"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kqr"
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec, Lucas Ropek"
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "published_at": "2026-09-24T00:46:17.000Z",
+      "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "tags": [
+        "AI",
+        "Mark Zuckerberg",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Meta is trying VR glasses (again), this time with more IMAX",
@@ -908,36 +926,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-      "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-      "published_at": "2026-09-23T18:06:27.000Z",
-      "description": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
-      "tags": [
-        "Media & Entertainment",
-        "Disney Plus",
-        "Hulu",
-        "streaming service"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "The old cybersecurity model is breaking",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "published_at": "2026-09-23T17:44:02.000Z",
-      "description": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&#160;even seeing com",
-      "tags": [
-        "ai safety",
-        "cybersecurity startups",
-        "Index Ventures",
-        "wiz"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
@@ -1256,23 +1244,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270956601?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "SewCabinSpout"
-    },
-    {
-      "title": "Sac-Y/Jev-cu - GitHub Repository",
-      "url": "https://github.com/Sac-Y/Jev-cu",
-      "published_at": "2026-09-18T16:56:08Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
-      "source": "GitHub",
-      "stars": 587,
-      "user": "Sac-Y"
     },
     {
       "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
@@ -1286,8 +1259,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 631,
       "user": "riba2534"
+    },
+    {
+      "title": "Sac-Y/Jev-cu - GitHub Repository",
+      "url": "https://github.com/Sac-Y/Jev-cu",
+      "published_at": "2026-09-18T16:56:08Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "source": "GitHub",
+      "stars": 590,
+      "user": "Sac-Y"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -1301,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 533,
       "user": "rmalde"
     },
     {
@@ -1316,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 459,
       "user": "logicrw"
     },
     {
@@ -1331,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 557,
       "user": "kryvora-network"
     },
     {
@@ -1346,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6535,
+      "stars": 6590,
       "user": "zai-org"
     },
     {
@@ -1361,23 +1349,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 738,
       "user": "githubnext"
-    },
-    {
-      "title": "kyotofin/tax-doc-classifier - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
-      "url": "https://github.com/kyotofin/tax-doc-classifier",
-      "published_at": "2026-09-18T14:40:45Z",
-      "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
-      "source": "GitHub",
-      "stars": 412,
-      "user": "kyotofin"
     },
     {
       "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
@@ -1391,8 +1364,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 462,
       "user": "anishfn"
+    },
+    {
+      "title": "kyotofin/tax-doc-classifier - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+      "url": "https://github.com/kyotofin/tax-doc-classifier",
+      "published_at": "2026-09-18T14:40:45Z",
+      "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
+      "source": "GitHub",
+      "stars": 419,
+      "user": "kyotofin"
     },
     {
       "title": "receptron/laya - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
@@ -1406,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 369,
       "user": "receptron"
     },
     {
@@ -1484,6 +1472,20 @@
       "user": "Marcus M&#252;ller"
     },
     {
+      "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
+      "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
+      "published_at": "2026-09-21T20:48:41.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "google-analytics",
+        "google-analytics-4"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ahmad Ataya"
+    },
+    {
       "title": "Correct tags to make hamburger menu open on iOS",
       "url": "https://stackoverflow.com/questions/80004950/correct-tags-to-make-hamburger-menu-open-on-ios",
       "published_at": "2026-09-22T12:17:32.000Z",
@@ -1497,20 +1499,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Silent Takudzwa"
-    },
-    {
-      "title": "GA4 gtag.js: tag loads, dataLayer fills correctly, Tag Assistant sees it, but \"No hits were sent by this tag\"",
-      "url": "https://stackoverflow.com/questions/80004775/ga4-gtag-js-tag-loads-datalayer-fills-correctly-tag-assistant-sees-it-but-n",
-      "published_at": "2026-09-21T20:48:41.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "google-analytics",
-        "google-analytics-4"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ahmad Ataya"
     },
     {
       "title": "Repeat previous value inside a forEach loop when reaching a key with no value",
@@ -1834,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 20435,
+      "stars": 21095,
       "user": "NandhaKishorM"
     },
     {
@@ -1849,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5951,
+      "stars": 6040,
       "user": "mizorewww"
     },
     {
@@ -1864,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1699,
       "user": "bespokelabsai"
     },
     {
@@ -1879,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1400,
       "user": "mizorewww"
     },
     {
@@ -1894,14 +1882,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1273,
+      "stars": 1335,
       "user": "newliver666"
     },
     {
       "title": "Simple FastAPI python project using static files",
       "url": "https://stackoverflow.com/questions/80005375/simple-fastapi-python-project-using-static-files",
       "published_at": "2026-09-24T00:20:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "fastapi"
@@ -1914,7 +1902,7 @@
       "title": "How to catch keypress event on arrow keys, and stop them from moving focus?",
       "url": "https://stackoverflow.com/questions/80005369/how-to-catch-keypress-event-on-arrow-keys-and-stop-them-from-moving-focus",
       "published_at": "2026-09-23T22:38:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "pyqt6"
@@ -1927,7 +1915,7 @@
       "title": "Schemdraw SVG file doesn't render properly with PySide6",
       "url": "https://stackoverflow.com/questions/80005306/schemdraw-svg-file-doesnt-render-properly-with-pyside6",
       "published_at": "2026-09-23T17:07:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "svg",
@@ -1994,19 +1982,6 @@
       "user": "A. Gocht"
     },
     {
-      "title": "Replace duplicated DataFrame indices with a single Series",
-      "url": "https://stackoverflow.com/questions/80004970/replace-duplicated-dataframe-indices-with-a-single-series",
-      "published_at": "2026-09-22T13:28:35.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "pandas"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kes Perron"
-    },
-    {
       "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
       "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
       "published_at": "2026-09-22T12:53:29.000Z",
@@ -2021,17 +1996,30 @@
       "user": "machiel"
     },
     {
-      "title": "How to add a method to a specific instance in Python",
-      "url": "https://stackoverflow.com/questions/80005112/how-to-add-a-method-to-a-specific-instance-in-python",
-      "published_at": "2026-09-23T02:28:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Replace duplicated DataFrame indices with a single Series",
+      "url": "https://stackoverflow.com/questions/80004970/replace-duplicated-dataframe-indices-with-a-single-series",
+      "published_at": "2026-09-22T13:28:35.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
-        "methods"
+        "pandas"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "antialiased"
+      "user": "Kes Perron"
+    },
+    {
+      "title": "PyMySQL pool - how to close pool cleanly",
+      "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
+      "published_at": "2026-09-22T22:16:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pymysql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2453,7 +2441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1273,
+      "stars": 1335,
       "user": "newliver666"
     },
     {
@@ -2486,6 +2474,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Silent Takudzwa"
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "published_at": "2026-09-24T00:46:17.000Z",
+      "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "tags": [
+        "AI",
+        "Mark Zuckerberg",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
@@ -2755,7 +2758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5951,
+      "stars": 6040,
       "user": "mizorewww"
     }
   ],
@@ -2771,6 +2774,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "PyMySQL pool - how to close pool cleanly",
+      "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
+      "published_at": "2026-09-22T22:16:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pymysql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     }
   ],
   "Security": [
@@ -2934,21 +2950,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tuxes"
-    },
-    {
-      "title": "The old cybersecurity model is breaking",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "published_at": "2026-09-23T17:44:02.000Z",
-      "description": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&#160;even seeing com",
-      "tags": [
-        "ai safety",
-        "cybersecurity startups",
-        "Index Ventures",
-        "wiz"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "How to Prevent Poisoned GitHub Actions Dependencies",
@@ -3210,23 +3211,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270956601?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "SewCabinSpout"
-    },
-    {
-      "title": "Sac-Y/Jev-cu - GitHub Repository",
-      "url": "https://github.com/Sac-Y/Jev-cu",
-      "published_at": "2026-09-18T16:56:08Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
-      "source": "GitHub",
-      "stars": 587,
-      "user": "Sac-Y"
     },
     {
       "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
@@ -3240,8 +3226,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 631,
       "user": "riba2534"
+    },
+    {
+      "title": "Sac-Y/Jev-cu - GitHub Repository",
+      "url": "https://github.com/Sac-Y/Jev-cu",
+      "published_at": "2026-09-18T16:56:08Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
+      "source": "GitHub",
+      "stars": 590,
+      "user": "Sac-Y"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -3255,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 533,
       "user": "rmalde"
     },
     {
@@ -3270,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 459,
       "user": "logicrw"
     },
     {
@@ -3285,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 20435,
+      "stars": 21095,
       "user": "NandhaKishorM"
     },
     {
@@ -3300,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 5951,
+      "stars": 6040,
       "user": "mizorewww"
     },
     {
@@ -3315,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1699,
       "user": "bespokelabsai"
     },
     {
@@ -3330,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1400,
       "user": "mizorewww"
     },
     {
@@ -3345,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1273,
+      "stars": 1335,
       "user": "newliver666"
     },
     {
@@ -3360,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1713,
+      "stars": 1770,
       "user": "unreallabsai"
     },
     {
@@ -3375,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 612,
       "user": "gylive"
     },
     {
@@ -3390,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 557,
       "user": "kryvora-network"
     },
     {
@@ -3409,19 +3410,19 @@
       "user": "HyNetworks"
     },
     {
-      "title": "wangyunjeff/sub2api-state-kit - Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
-      "url": "https://github.com/wangyunjeff/sub2api-state-kit",
-      "published_at": "2026-09-18T14:25:18Z",
-      "description": "Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
+      "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "url": "https://github.com/yetone/magpie",
+      "published_at": "2026-09-23T16:22:35Z",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17672204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 203,
-      "user": "wangyunjeff"
+      "stars": 240,
+      "user": "yetone"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -3435,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6535,
+      "stars": 6590,
       "user": "zai-org"
     },
     {
@@ -3450,23 +3451,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 738,
       "user": "githubnext"
-    },
-    {
-      "title": "kyotofin/tax-doc-classifier - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
-      "url": "https://github.com/kyotofin/tax-doc-classifier",
-      "published_at": "2026-09-18T14:40:45Z",
-      "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
-      "source": "GitHub",
-      "stars": 412,
-      "user": "kyotofin"
     },
     {
       "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
@@ -3480,8 +3466,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 462,
       "user": "anishfn"
+    },
+    {
+      "title": "kyotofin/tax-doc-classifier - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+      "url": "https://github.com/kyotofin/tax-doc-classifier",
+      "published_at": "2026-09-18T14:40:45Z",
+      "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
+      "source": "GitHub",
+      "stars": 419,
+      "user": "kyotofin"
     },
     {
       "title": "receptron/laya - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
@@ -3495,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 369,
       "user": "receptron"
     },
     {
@@ -3510,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 802,
       "user": "Lumid-Off"
     },
     {
@@ -3525,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 518,
       "user": "Haleclipse"
     },
     {
@@ -3540,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 367,
       "user": "eliasstravik"
     },
     {
@@ -3555,23 +3556,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 291,
       "user": "ejfkdev"
     },
     {
-      "title": "BridgeDruidCompress/TauriKit - Modern UI component kit for Rust desktop applications",
-      "url": "https://github.com/BridgeDruidCompress/TauriKit",
-      "published_at": "2026-09-23T11:21:48Z",
-      "description": "Modern UI component kit for Rust desktop applications",
+      "title": "BricklayerSurmount/DockForge - Flexible dock and panel layout system for desktop apps",
+      "url": "https://github.com/BricklayerSurmount/DockForge",
+      "published_at": "2026-09-23T11:21:45Z",
+      "description": "Flexible dock and panel layout system for desktop apps",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307794066?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307793905?v=4",
       "source": "GitHub",
       "stars": 223,
-      "user": "BridgeDruidCompress"
+      "user": "BricklayerSurmount"
     },
     {
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
