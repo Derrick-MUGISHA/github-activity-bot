@@ -16,21 +16,6 @@
       "user": "Mika Flowers"
     },
     {
-      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
-      "published_at": "2026-09-23T20:59:28Z",
-      "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
-      "tags": [
-        "devchallenge",
-        "kagglebenchmarkchallenge",
-        "machinelearning",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
       "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
       "published_at": "2026-09-23T19:19:19Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6kkrywlbq712q0oow60.png",
       "source": "Dev.to",
       "user": "Vo Tu Duc"
+    },
+    {
+      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
+      "published_at": "2026-09-23T20:59:28Z",
+      "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
+      "tags": [
+        "devchallenge",
+        "kagglebenchmarkchallenge",
+        "machinelearning",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
@@ -164,21 +164,6 @@
       "user": "Wataru Suda"
     },
     {
-      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
-      "published_at": "2026-09-16T21:28:40Z",
-      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
-      "tags": [
-        "ai",
-        "mcp",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
       "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
       "published_at": "2026-09-14T17:12:10Z",
@@ -192,6 +177,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmbizy1bvs5mibcqzbtyo.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
     },
     {
       "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
@@ -283,6 +283,21 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
+      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
+      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
+      "published_at": "2026-09-19T16:55:23Z",
+      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
+      "tags": [
+        "ai",
+        "api",
+        "llm",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv23rks6vwzdj1e5trlaw.png",
+      "source": "Dev.to",
+      "user": "Sneha M K"
+    },
+    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -311,21 +326,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
-      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
-      "published_at": "2026-09-19T16:55:23Z",
-      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
-      "tags": [
-        "ai",
-        "api",
-        "llm",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv23rks6vwzdj1e5trlaw.png",
-      "source": "Dev.to",
-      "user": "Sneha M K"
     },
     {
       "title": "Progressive Disclosure: What, Where, When, and Why",
@@ -714,7 +714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 474,
       "user": "logicrw"
     },
     {
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1712,
       "user": "bespokelabsai"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1404,
       "user": "mizorewww"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1770,
+      "stars": 1826,
       "user": "unreallabsai"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6590,
+      "stars": 6651,
       "user": "zai-org"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 824,
       "user": "Lumid-Off"
     },
     {
@@ -928,6 +928,19 @@
       "user": "Marina Temkin"
     },
     {
+      "title": "Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course",
+      "url": "https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/",
+      "published_at": "2026-09-24T01:57:44.000Z",
+      "description": "Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch",
+      "tags": [
+        "claude",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
       "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
       "url": "https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/",
       "published_at": "2026-09-21T11:58:11.000Z",
@@ -1004,21 +1017,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "GAYATHRI BOLINENI"
-    },
-    {
-      "title": "How to Prevent Poisoned GitHub Actions Dependencies",
-      "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
-      "published_at": "2026-09-18T16:03:13.000Z",
-      "description": "Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to",
-      "tags": [
-        "DevSecOps",
-        "Security",
-        "GitHub",
-        "Devops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
     }
   ],
   "JavaScript": [
@@ -1233,21 +1231,6 @@
       "user": "velmu"
     },
     {
-      "title": "SewCabinSpout/cleanupper - 🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
-      "url": "https://github.com/SewCabinSpout/cleanupper",
-      "published_at": "2026-09-23T17:19:45Z",
-      "description": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270956601?v=4",
-      "source": "GitHub",
-      "stars": 724,
-      "user": "SewCabinSpout"
-    },
-    {
       "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
       "url": "https://github.com/riba2534/claude-opus-5-5-demo",
       "published_at": "2026-09-23T06:31:00Z",
@@ -1259,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 739,
       "user": "riba2534"
     },
     {
@@ -1274,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "Sac-Y"
     },
     {
@@ -1289,8 +1272,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 538,
       "user": "rmalde"
+    },
+    {
+      "title": "JohnHeibel/PDoomVideo - Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "url": "https://github.com/JohnHeibel/PDoomVideo",
+      "published_at": "2026-09-22T23:32:19Z",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
+      "source": "GitHub",
+      "stars": 508,
+      "user": "JohnHeibel"
     },
     {
       "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
@@ -1304,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 474,
       "user": "logicrw"
     },
     {
@@ -1319,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 623,
       "user": "kryvora-network"
     },
     {
@@ -1334,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6590,
+      "stars": 6651,
       "user": "zai-org"
     },
     {
@@ -1349,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 746,
       "user": "githubnext"
     },
     {
@@ -1364,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 493,
       "user": "anishfn"
     },
     {
@@ -1379,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 426,
       "user": "kyotofin"
     },
     {
@@ -1394,8 +1392,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 379,
       "user": "receptron"
+    },
+    {
+      "title": "3D tilt effect with JS working only in highly specific areas of the element (i'm new here, sorry if i do something wrong)",
+      "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element-im",
+      "published_at": "2026-09-24T10:05:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JacaneU"
+    },
+    {
+      "title": "Creating a reusable Object from JavaScript array",
+      "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
+      "published_at": "2026-09-22T21:48:42.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "object",
+        "foreach"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Realto619"
     },
     {
       "title": "Encoding issues between Java WebSocket server and JavaScript client",
@@ -1443,24 +1469,10 @@
       "user": "camwormy"
     },
     {
-      "title": "Creating a reusable Object from JavaScript array",
-      "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
-      "published_at": "2026-09-22T21:48:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "object",
-        "foreach"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Realto619"
-    },
-    {
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1499,19 +1511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Silent Takudzwa"
-    },
-    {
-      "title": "Repeat previous value inside a forEach loop when reaching a key with no value",
-      "url": "https://stackoverflow.com/questions/80004853/repeat-previous-value-inside-a-foreach-loop-when-reaching-a-key-with-no-value",
-      "published_at": "2026-09-22T06:16:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "foreach"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wammy"
     },
     {
       "title": "How can I get \"stringified\" object with nested objects?",
@@ -1554,19 +1553,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Farouq Seriki"
-    },
-    {
-      "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/",
-      "published_at": "2026-09-18T15:47:01.000Z",
-      "description": "High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image",
-      "tags": [
-        "JavaScript",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bansidhar Kadiya"
     }
   ],
   "Python": [
@@ -1822,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 21095,
+      "stars": 21816,
       "user": "NandhaKishorM"
     },
     {
@@ -1837,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6040,
+      "stars": 6115,
       "user": "mizorewww"
     },
     {
@@ -1852,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1712,
       "user": "bespokelabsai"
     },
     {
@@ -1867,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1404,
       "user": "mizorewww"
     },
     {
@@ -1882,27 +1868,67 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1386,
       "user": "newliver666"
     },
     {
-      "title": "Simple FastAPI python project using static files",
-      "url": "https://stackoverflow.com/questions/80005375/simple-fastapi-python-project-using-static-files",
-      "published_at": "2026-09-24T00:20:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How do I change sprites while they're not moving?",
+      "url": "https://stackoverflow.com/questions/80005449/how-do-i-change-sprites-while-theyre-not-moving",
+      "published_at": "2026-09-24T08:47:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "fastapi"
+        "pygame"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "asone _"
+      "user": "penis zalupenko"
+    },
+    {
+      "title": "Correct type annotation for default initialisation with generic dataclass inheritance",
+      "url": "https://stackoverflow.com/questions/80005425/correct-type-annotation-for-default-initialisation-with-generic-dataclass-inheri",
+      "published_at": "2026-09-24T07:30:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "python-dataclasses"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "A. Gocht"
+    },
+    {
+      "title": "I'm trying to import cs50 in my program on VS Code, it keeps reporting: Warning. import \"cs50\" could not be resolved",
+      "url": "https://stackoverflow.com/questions/80005440/im-trying-to-import-cs50-in-my-program-on-vs-code-it-keeps-reporting-warning",
+      "published_at": "2026-09-24T08:10:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "vs-code"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adam Usman"
+    },
+    {
+      "title": "Flet app doesn't display when run due to exception",
+      "url": "https://stackoverflow.com/questions/80005418/flet-app-doesnt-display-when-run-due-to-exception",
+      "published_at": "2026-09-24T07:08:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "flet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33152660"
     },
     {
       "title": "How to catch keypress event on arrow keys, and stop them from moving focus?",
       "url": "https://stackoverflow.com/questions/80005369/how-to-catch-keypress-event-on-arrow-keys-and-stop-them-from-moving-focus",
       "published_at": "2026-09-23T22:38:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pyqt6"
@@ -1910,6 +1936,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Iain"
+    },
+    {
+      "title": "Simple FastAPI python project using static files",
+      "url": "https://stackoverflow.com/questions/80005375/simple-fastapi-python-project-using-static-files",
+      "published_at": "2026-09-24T00:20:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "asone _"
     },
     {
       "title": "Schemdraw SVG file doesn't render properly with PySide6",
@@ -1966,60 +2005,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rozemarijn Dik"
-    },
-    {
-      "title": "Bounded type parameter lists and backwards-compatible Python syntax",
-      "url": "https://stackoverflow.com/questions/80005171/bounded-type-parameter-lists-and-backwards-compatible-python-syntax",
-      "published_at": "2026-09-23T08:42:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-typing",
-        "pep-695"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "A. Gocht"
-    },
-    {
-      "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
-      "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
-      "published_at": "2026-09-22T12:53:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 8",
-      "tags": [
-        "python",
-        "c++",
-        "binaryfiles"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "machiel"
-    },
-    {
-      "title": "Replace duplicated DataFrame indices with a single Series",
-      "url": "https://stackoverflow.com/questions/80004970/replace-duplicated-dataframe-indices-with-a-single-series",
-      "published_at": "2026-09-22T13:28:35.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "pandas"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kes Perron"
-    },
-    {
-      "title": "PyMySQL pool - how to close pool cleanly",
-      "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
-      "published_at": "2026-09-22T22:16:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "pymysql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2265,21 +2250,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "How to Prevent Poisoned GitHub Actions Dependencies",
-      "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
-      "published_at": "2026-09-18T16:03:13.000Z",
-      "description": "Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to",
-      "tags": [
-        "DevSecOps",
-        "Security",
-        "GitHub",
-        "Devops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
     }
   ],
   "WebDev": [
@@ -2326,6 +2296,20 @@
       "user": "velmu"
     },
     {
+      "title": "3D tilt effect with JS working only in highly specific areas of the element (i'm new here, sorry if i do something wrong)",
+      "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element-im",
+      "published_at": "2026-09-24T10:05:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JacaneU"
+    },
+    {
       "title": "How to use array.prototype.every to check if all audio files are muted",
       "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
       "published_at": "2026-09-22T20:14:20.000Z",
@@ -2343,7 +2327,7 @@
       "title": "Modifying elements of SVG image as background-image property",
       "url": "https://stackoverflow.com/questions/80004801/modifying-elements-of-svg-image-as-background-image-property",
       "published_at": "2026-09-21T22:58:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2353,19 +2337,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marcus M&#252;ller"
-    },
-    {
-      "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/",
-      "published_at": "2026-09-18T15:47:01.000Z",
-      "description": "High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image",
-      "tags": [
-        "JavaScript",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bansidhar Kadiya"
     }
   ],
   "Mobile": [
@@ -2441,7 +2412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1386,
       "user": "newliver666"
     },
     {
@@ -2758,7 +2729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6040,
+      "stars": 6115,
       "user": "mizorewww"
     }
   ],
@@ -2776,17 +2747,32 @@
       "user": "iancarroll"
     },
     {
-      "title": "PyMySQL pool - how to close pool cleanly",
-      "url": "https://stackoverflow.com/questions/80005085/pymysql-pool-how-to-close-pool-cleanly",
-      "published_at": "2026-09-22T22:16:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Pick OS is a Living Fossil of Computer History",
+      "url": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
+      "published_at": "2026-09-24T01:14:19.318-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "python",
-        "pymysql"
+        "databases",
+        "historical",
+        "osdev"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
+      "source": "Lobste.rs",
+      "user": "veqq"
+    },
+    {
+      "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
+      "url": "https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/",
+      "published_at": "2026-09-24T02:04:53.000Z",
+      "description": "Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for",
+      "tags": [
+        "timescaledb",
+        "youtube",
+        "PostgreSQL"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     }
   ],
   "Security": [
@@ -2950,21 +2936,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tuxes"
-    },
-    {
-      "title": "How to Prevent Poisoned GitHub Actions Dependencies",
-      "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
-      "published_at": "2026-09-18T16:03:13.000Z",
-      "description": "Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to",
-      "tags": [
-        "DevSecOps",
-        "Security",
-        "GitHub",
-        "Devops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
     }
   ],
   "Tools": [
@@ -3200,21 +3171,6 @@
       "user": "pabs3"
     },
     {
-      "title": "SewCabinSpout/cleanupper - 🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
-      "url": "https://github.com/SewCabinSpout/cleanupper",
-      "published_at": "2026-09-23T17:19:45Z",
-      "description": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270956601?v=4",
-      "source": "GitHub",
-      "stars": 724,
-      "user": "SewCabinSpout"
-    },
-    {
       "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
       "url": "https://github.com/riba2534/claude-opus-5-5-demo",
       "published_at": "2026-09-23T06:31:00Z",
@@ -3226,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 739,
       "user": "riba2534"
     },
     {
@@ -3241,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "Sac-Y"
     },
     {
@@ -3256,8 +3212,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 538,
       "user": "rmalde"
+    },
+    {
+      "title": "JohnHeibel/PDoomVideo - Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "url": "https://github.com/JohnHeibel/PDoomVideo",
+      "published_at": "2026-09-22T23:32:19Z",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
+      "source": "GitHub",
+      "stars": 508,
+      "user": "JohnHeibel"
     },
     {
       "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
@@ -3271,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 474,
       "user": "logicrw"
     },
     {
@@ -3286,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "source": "GitHub",
-      "stars": 21095,
+      "stars": 21816,
       "user": "NandhaKishorM"
     },
     {
@@ -3301,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6040,
+      "stars": 6115,
       "user": "mizorewww"
     },
     {
@@ -3316,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1712,
       "user": "bespokelabsai"
     },
     {
@@ -3331,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1404,
       "user": "mizorewww"
     },
     {
@@ -3346,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1386,
       "user": "newliver666"
     },
     {
@@ -3361,23 +3332,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1770,
+      "stars": 1826,
       "user": "unreallabsai"
-    },
-    {
-      "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
-      "url": "https://github.com/gylive/ccodex-sleep-state",
-      "published_at": "2026-09-18T09:02:44Z",
-      "description": "尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
-      "source": "GitHub",
-      "stars": 612,
-      "user": "gylive"
     },
     {
       "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
@@ -3391,8 +3347,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 623,
       "user": "kryvora-network"
+    },
+    {
+      "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
+      "url": "https://github.com/gylive/ccodex-sleep-state",
+      "published_at": "2026-09-18T09:02:44Z",
+      "description": "尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
+      "source": "GitHub",
+      "stars": 614,
+      "user": "gylive"
+    },
+    {
+      "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "url": "https://github.com/yetone/magpie",
+      "published_at": "2026-09-23T16:22:35Z",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 442,
+      "user": "yetone"
     },
     {
       "title": "HyNetworks/OpenGFW - OpenGFW is your very own DIY Great Firewall of China",
@@ -3410,21 +3396,6 @@
       "user": "HyNetworks"
     },
     {
-      "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "url": "https://github.com/yetone/magpie",
-      "published_at": "2026-09-23T16:22:35Z",
-      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "yetone"
-    },
-    {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "published_at": "2026-09-20T12:01:16Z",
@@ -3436,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6590,
+      "stars": 6651,
       "user": "zai-org"
     },
     {
@@ -3451,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 746,
       "user": "githubnext"
     },
     {
@@ -3466,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 493,
       "user": "anishfn"
     },
     {
@@ -3481,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 426,
       "user": "kyotofin"
     },
     {
@@ -3496,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 379,
       "user": "receptron"
     },
     {
@@ -3511,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 824,
       "user": "Lumid-Off"
     },
     {
@@ -3526,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 528,
       "user": "Haleclipse"
     },
     {
@@ -3541,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 384,
       "user": "eliasstravik"
     },
     {
@@ -3556,23 +3527,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "ejfkdev"
     },
     {
-      "title": "BricklayerSurmount/DockForge - Flexible dock and panel layout system for desktop apps",
-      "url": "https://github.com/BricklayerSurmount/DockForge",
-      "published_at": "2026-09-23T11:21:45Z",
-      "description": "Flexible dock and panel layout system for desktop apps",
+      "title": "BridgeDruidCompress/TauriKit - Modern UI component kit for Rust desktop applications",
+      "url": "https://github.com/BridgeDruidCompress/TauriKit",
+      "published_at": "2026-09-23T11:21:48Z",
+      "description": "Modern UI component kit for Rust desktop applications",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307793905?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307794066?v=4",
       "source": "GitHub",
       "stars": 223,
-      "user": "BricklayerSurmount"
+      "user": "BridgeDruidCompress"
     },
     {
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
@@ -3635,34 +3606,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "GAYATHRI BOLINENI"
-    },
-    {
-      "title": "How to Prevent Poisoned GitHub Actions Dependencies",
-      "url": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
-      "published_at": "2026-09-18T16:03:13.000Z",
-      "description": "Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to",
-      "tags": [
-        "DevSecOps",
-        "Security",
-        "GitHub",
-        "Devops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
-    },
-    {
-      "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/",
-      "published_at": "2026-09-18T15:47:01.000Z",
-      "description": "High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image",
-      "tags": [
-        "JavaScript",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bansidhar Kadiya"
     }
   ]
 }
