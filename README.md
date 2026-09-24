@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-24 12:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-24 17:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -66,19 +66,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futadyyuprqovv7imkzo7.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png" width="200" alt="Deploying LiteLLM: An Open-Source AI Gateway" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Deploying LiteLLM: An Open-Source AI Gateway</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png" width="200" alt="Deploying LiteLLM: An Open-Source AI Gateway" />
+    <a href="https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png" width="200" alt="Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!" />
       <br/>
-      <b>Deploying LiteLLM: An Open-Source AI Gateway</b>
+      <b>Join the Kaggle Benchmarking Challenge: $2,500 in ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -96,15 +96,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 2 | [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd) | Dev.to |
 | 3 | [Welcome Thread - v 394](https://dev.to/sloan/welcome-thread-v-394-22l2) | Dev.to |
 | 4 | [A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x](https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56) | Dev.to |
-| 5 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl) | Dev.to |
-| 6 | [Deploying LiteLLM: An Open-Source AI Gateway](https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp) | Dev.to |
-| 7 | [Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg](https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3) | Dev.to |
-| 8 | [Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!](https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml) | Dev.to |
-| 9 | [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk) | Dev.to |
-| 10 | [Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1) | Dev.to |
-| 11 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
-| 12 | [The missing layer in AI tooling: sharing what your assistant already knows](https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch) | Dev.to |
-| 13 | [What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0) | Dev.to |
+| 5 | [Deploying LiteLLM: An Open-Source AI Gateway](https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp) | Dev.to |
+| 6 | [Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!](https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml) | Dev.to |
+| 7 | [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk) | Dev.to |
+| 8 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 9 | [The missing layer in AI tooling: sharing what your assistant already knows](https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch) | Dev.to |
+| 10 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl) | Dev.to |
+| 11 | [What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0) | Dev.to |
+| 12 | [Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg](https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3) | Dev.to |
+| 13 | [Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-2-the-minimum-gce-vm-and-a-script-to-drive-it-3gk1) | Dev.to |
 | 14 | [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g) | Dev.to |
 | 15 | [Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents](https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4) | Dev.to |
 | 16 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2hcb) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b) | Dev.to |
 | 20 | [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) | Dev.to |
 
-<sub>Last fetched: Thu, 24 Sep 2026 12:20:33 CAT</sub>
+<sub>Last fetched: Thu, 24 Sep 2026 17:17:48 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain decorators in Python with an example**
+**1. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**2. `Java` — Explain the Java memory model**
+**2. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
-**3. `NodeJS` — Explain middleware in Express.js**
+**3. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Request/response cycle, next(), chain of functions
+> Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 71 | 38.6% | `████████████████████` |
-| **Tools** | 45 | 24.5% | `█████████████░░░░░░░` |
-| **JavaScript** | 38 | 20.7% | `███████████░░░░░░░░░` |
-| **Python** | 37 | 20.1% | `██████████░░░░░░░░░░` |
-| **Cloud** | 16 | 8.7% | `█████░░░░░░░░░░░░░░░` |
+| **AI** | 74 | 40.2% | `████████████████████` |
+| **Tools** | 44 | 23.9% | `████████████░░░░░░░░` |
+| **JavaScript** | 38 | 20.7% | `██████████░░░░░░░░░░` |
+| **Python** | 38 | 20.7% | `██████████░░░░░░░░░░` |
+| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Security** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,33 +194,33 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3%
-Python          █████████████████████████████ 26.6%
-Java            ██████████████████████ 20.1%
-Go              █████████████████████ 18.7%
-Rust            ████ 3.6%
+JavaScript      ██████████████████████████████ 26.8%
+Python          ██████████████████████████████ 26.8%
+Go              ███████████████████████ 20.4%
+Java            ██████████████████████ 19.7%
+Rust            ████ 3.5%
 Kotlin          ██ 1.4%
-Swift           ██ 1.4%
 CSharp          █ 0.7%
+Swift           █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 38
-    "Python" : 37
+    "Python" : 38
+    "Go" : 29
     "Java" : 28
-    "Go" : 26
     "Rust" : 5
     "Kotlin" : 2
-    "Swift" : 2
     "CSharp" : 1
+    "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-35-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-6-0969da?style=flat-square) ![mcp](https://img.shields.io/badge/mcp-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-36-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-6-0969da?style=flat-square) ![mcp](https://img.shields.io/badge/mcp-6-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 24 Sep 2026 10:20:33 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 24 Sep 2026 15:17:48 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
