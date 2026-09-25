@@ -134,21 +134,6 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
-      "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3",
-      "published_at": "2026-09-23T04:24:08Z",
-      "description": "As teams rush to build with Generative AI, they're creating a dangerous chasm between their data and...",
-      "tags": [
-        "lakehouse",
-        "bigquery",
-        "apacheiceberg",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6kkrywlbq712q0oow60.png",
-      "source": "Dev.to",
-      "user": "Vo Tu Duc"
-    },
-    {
       "title": "The missing layer in AI tooling: sharing what your assistant already knows",
       "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
       "published_at": "2026-09-22T16:59:06Z",
@@ -222,6 +207,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
       "source": "Dev.to",
       "user": "Wataru Suda"
+    },
+    {
+      "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
+      "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3",
+      "published_at": "2026-09-23T04:24:08Z",
+      "description": "As teams rush to build with Generative AI, they're creating a dangerous chasm between their data and...",
+      "tags": [
+        "lakehouse",
+        "bigquery",
+        "apacheiceberg",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6kkrywlbq712q0oow60.png",
+      "source": "Dev.to",
+      "user": "Vo Tu Duc"
     },
     {
       "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "maanHimself"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1464,
       "user": "mizorewww"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1929,
+      "stars": 1938,
       "user": "unreallabsai"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6768,
+      "stars": 6770,
       "user": "zai-org"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "mikehasa"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 316,
       "user": "Inkloom-art"
     },
     {
@@ -806,21 +806,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 230,
       "user": "OnlistTeam"
-    },
-    {
-      "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-      "url": "https://greasyfork.org/en/scripts?by=1646191",
-      "published_at": "2026-09-25T00:33:53.765-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "meta",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "joshka"
     },
     {
       "title": "Goodbye Google",
@@ -836,16 +823,17 @@
       "user": "classichasclass"
     },
     {
-      "title": "LLM Policies: Progress At All Costs",
-      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
-      "published_at": "2026-09-25T07:30:36.039-05:00",
+      "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+      "url": "https://greasyfork.org/en/scripts?by=1646191",
+      "published_at": "2026-09-25T00:33:53.765-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "meta",
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "user": "joshka"
     },
     {
       "title": "What About Rails?",
@@ -861,18 +849,32 @@
       "user": "nick4"
     },
     {
-      "title": "What kind of regulair expression captures the root of a URL (Uniform Resource Locator)?",
-      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regulair-expression-captures-the-root-of-a-url-uniform-resource-lo",
-      "published_at": "2026-09-25T19:09:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "published_at": "2026-09-25T22:20:47.000Z",
+      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "tags": [
-        "python",
-        "regex",
-        "regular-language"
+        "AI",
+        "OpenAI"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toothpick Anemone"
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "published_at": "2026-09-25T20:34:53.000Z",
+      "description": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
@@ -882,6 +884,8 @@
       "tags": [
         "AI",
         "TC",
+        "Akamai",
+        "Cloud Computing",
         "Anthropic"
       ],
       "cover_image": null,
@@ -966,50 +970,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "published_at": "2026-09-25T16:00:00.000Z",
-      "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
-      "tags": [
-        "AI",
-        "AI agents",
-        "consumer AI",
-        "Meta",
-        "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Kiteworks urges customers to shut down their servers amid &#8216;imminent&#8217; threat of cyberattack",
-      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-      "published_at": "2026-09-25T15:52:13.000Z",
-      "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "Kiteworks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "published_at": "2026-09-25T15:48:14.000Z",
-      "description": "The latest unauthorized agent swarms were discovered by researchers.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1309,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 880,
       "user": "JohnHeibel"
     },
     {
@@ -1324,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "riba2534"
     },
     {
@@ -1339,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 614,
       "user": "dgreenheck"
     },
     {
@@ -1369,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "maanHimself"
     },
     {
@@ -1384,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 817,
       "user": "kryvora-network"
     },
     {
@@ -1399,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6768,
+      "stars": 6770,
       "user": "zai-org"
     },
     {
@@ -1414,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "mikehasa"
     },
     {
@@ -1429,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 624,
       "user": "anishfn"
     },
     {
@@ -1444,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 474,
       "user": "receptron"
     },
     {
@@ -1459,14 +1419,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 316,
       "user": "Inkloom-art"
     },
     {
       "title": "I'm new to React, what is causing these errors?",
       "url": "https://stackoverflow.com/questions/80005849/im-new-to-react-what-is-causing-these-errors",
       "published_at": "2026-09-25T15:35:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "reactjs",
@@ -1876,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6322,
+      "stars": 6331,
       "user": "mizorewww"
     },
     {
@@ -1891,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1464,
       "user": "mizorewww"
     },
     {
@@ -1906,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1460,
       "user": "newliver666"
     },
     {
@@ -1921,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1245,
       "user": "Contrastive-LM"
     },
     {
@@ -1936,18 +1896,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1020,
       "user": "deepopen-com"
     },
     {
-      "title": "What kind of regulair expression captures the root of a URL (Uniform Resource Locator)?",
-      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regulair-expression-captures-the-root-of-a-url-uniform-resource-lo",
-      "published_at": "2026-09-25T19:09:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Type-hinting instance variables",
+      "url": "https://stackoverflow.com/questions/80005899/type-hinting-instance-variables",
+      "published_at": "2026-09-25T19:29:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "regex",
-        "regular-language"
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "How do I correctly type a wrapper that returns a classmethod?",
+      "url": "https://stackoverflow.com/questions/80005905/how-do-i-correctly-type-a-wrapper-that-returns-a-classmethod",
+      "published_at": "2026-09-25T20:07:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "class-method"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "User"
+    },
+    {
+      "title": "What kind of regular expression captures the root of a URL?",
+      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
+      "published_at": "2026-09-25T19:09:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "regex"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2049,33 +2035,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33152660"
-    },
-    {
-      "title": "How do I change sprites while they're not moving?",
-      "url": "https://stackoverflow.com/questions/80005449/how-do-i-change-sprites-while-theyre-not-moving",
-      "published_at": "2026-09-24T08:47:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "penis zalupenko"
-    },
-    {
-      "title": "I'm trying to import cs50 in my program on VS Code, it keeps reporting: Warning. import \"cs50\" could not be resolved",
-      "url": "https://stackoverflow.com/questions/80005440/im-trying-to-import-cs50-in-my-program-on-vs-code-it-keeps-reporting-warning",
-      "published_at": "2026-09-24T08:10:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "vs-code",
-        "cs50"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adam Usman"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2377,7 +2336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "mikehasa"
     },
     {
@@ -2480,7 +2439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1460,
       "user": "newliver666"
     },
     {
@@ -2778,7 +2737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6322,
+      "stars": 6331,
       "user": "mizorewww"
     },
     {
@@ -2789,6 +2748,8 @@
       "tags": [
         "AI",
         "TC",
+        "Akamai",
+        "Cloud Computing",
         "Anthropic"
       ],
       "cover_image": null,
@@ -2836,21 +2797,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "mikehasa"
-    },
-    {
-      "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "published_at": "2026-09-25T15:48:14.000Z",
-      "description": "The latest unauthorized agent swarms were discovered by researchers.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
@@ -3038,21 +2986,6 @@
         "cybersecurity",
         "data exposure",
         "Supabase"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Kiteworks urges customers to shut down their servers amid &#8216;imminent&#8217; threat of cyberattack",
-      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-      "published_at": "2026-09-25T15:52:13.000Z",
-      "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "Kiteworks"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3288,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 880,
       "user": "JohnHeibel"
     },
     {
@@ -3303,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "riba2534"
     },
     {
@@ -3318,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 614,
       "user": "dgreenheck"
     },
     {
@@ -3348,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 397,
       "user": "maanHimself"
     },
     {
@@ -3363,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6322,
+      "stars": 6331,
       "user": "mizorewww"
     },
     {
@@ -3378,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1464,
       "user": "mizorewww"
     },
     {
@@ -3393,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1460,
       "user": "newliver666"
     },
     {
@@ -3408,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1245,
       "user": "Contrastive-LM"
     },
     {
@@ -3423,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1020,
       "user": "deepopen-com"
     },
     {
@@ -3438,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1929,
+      "stars": 1938,
       "user": "unreallabsai"
     },
     {
@@ -3453,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 817,
       "user": "kryvora-network"
     },
     {
@@ -3468,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 796,
       "user": "yetone"
     },
     {
@@ -3498,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/43349905?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 152,
       "user": "mitkox"
     },
     {
@@ -3513,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6768,
+      "stars": 6770,
       "user": "zai-org"
     },
     {
@@ -3528,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 949,
       "user": "mikehasa"
     },
     {
@@ -3543,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 624,
       "user": "anishfn"
     },
     {
@@ -3558,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 474,
       "user": "receptron"
     },
     {
@@ -3573,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 316,
       "user": "Inkloom-art"
     },
     {
@@ -3588,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 885,
       "user": "tobi"
     },
     {
@@ -3618,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 238,
       "user": "jankeesvw"
     },
     {
@@ -3633,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 230,
       "user": "OnlistTeam"
     },
     {
@@ -3648,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7703?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 215,
       "user": "penso"
     },
     {
