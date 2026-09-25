@@ -46,21 +46,6 @@
       "user": "xbill"
     },
     {
-      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
-      "published_at": "2026-09-24T11:55:12Z",
-      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
-      "tags": [
-        "ai",
-        "agents",
-        "agentskills",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
       "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
       "published_at": "2026-09-24T02:00:37Z",
@@ -72,21 +57,6 @@
         "llm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
-      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
-      "published_at": "2026-09-24T02:00:52Z",
-      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -104,6 +74,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
+      "published_at": "2026-09-24T11:55:12Z",
+      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "tags": [
+        "ai",
+        "agents",
+        "agentskills",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
       "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
       "published_at": "2026-09-23T20:59:28Z",
@@ -117,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
+      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
+      "published_at": "2026-09-24T02:00:52Z",
+      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 386,
       "user": "maanHimself"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1444,
       "user": "mizorewww"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1885,
+      "stars": 1897,
       "user": "unreallabsai"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6725,
+      "stars": 6743,
       "user": "zai-org"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 919,
       "user": "mikehasa"
     },
     {
@@ -804,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "Alex314618-create"
     },
     {
@@ -823,6 +823,32 @@
       "user": "BinaryDeliverer"
     },
     {
+      "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+      "url": "https://greasyfork.org/en/scripts?by=1646191",
+      "published_at": "2026-09-25T00:33:53.765-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "meta",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "joshka"
+    },
+    {
+      "title": "Goodbye Google",
+      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "published_at": "2026-09-25T00:51:12.558-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "person"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "classichasclass"
+    },
+    {
       "title": "AI Workers' Inquiry 2026",
       "url": "https://techworkersinquiry.org/ai/",
       "published_at": "2026-09-24T12:41:35.717-05:00",
@@ -833,6 +859,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "gmem"
+    },
+    {
+      "title": "Pencils Down, Eyes Open: A Rails Developer After Rails World",
+      "url": "https://caio.ca/blog/pencils-down-eyes-open-rails-world",
+      "published_at": "2026-09-24T20:31:43.488-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ruby",
+        "rust",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Caio"
     },
     {
       "title": "Clankers Made Me Build a Second Brain",
@@ -850,7 +890,7 @@
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
       "published_at": "2026-09-25T05:00:00.000Z",
-      "description": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
       "tags": [
         "AI",
         "Startups",
@@ -1240,21 +1280,6 @@
       "user": "velmu"
     },
     {
-      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
-      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
-      "published_at": "2026-09-23T06:31:00Z",
-      "description": "claude-opus-5-5-demo",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
-      "source": "GitHub",
-      "stars": 785,
-      "user": "riba2534"
-    },
-    {
       "title": "JohnHeibel/PDoomVideo - Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
       "url": "https://github.com/JohnHeibel/PDoomVideo",
       "published_at": "2026-09-22T23:32:19Z",
@@ -1266,8 +1291,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 795,
       "user": "JohnHeibel"
+    },
+    {
+      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "published_at": "2026-09-23T06:31:00Z",
+      "description": "claude-opus-5-5-demo",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "riba2534"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -1281,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "rmalde"
     },
     {
@@ -1296,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 515,
       "user": "dgreenheck"
     },
     {
@@ -1311,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 386,
       "user": "maanHimself"
     },
     {
@@ -1326,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 756,
       "user": "kryvora-network"
     },
     {
@@ -1341,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6725,
+      "stars": 6743,
       "user": "zai-org"
     },
     {
@@ -1356,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 919,
       "user": "mikehasa"
     },
     {
@@ -1371,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 602,
       "user": "anishfn"
     },
     {
@@ -1386,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 452,
       "user": "receptron"
     },
     {
@@ -1401,8 +1441,46 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "Alex314618-create"
+    },
+    {
+      "title": "React form doesn't submit when pressing Enter in an input field",
+      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
+      "published_at": "2026-09-25T09:58:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ehan Siddique"
+    },
+    {
+      "title": "Uncaught Error: prompt() is not supported",
+      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
+      "published_at": "2026-09-25T08:18:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alex"
+    },
+    {
+      "title": "Error: Calling setState synchronously within an effect can trigger cascading renders",
+      "url": "https://stackoverflow.com/questions/80005734/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
+      "published_at": "2026-09-25T08:49:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pankaj Choudhary"
     },
     {
       "title": "What is the recommended JavaScript approach to parse Data Matrix scan data returned as a string?",
@@ -1424,7 +1502,7 @@
       "title": "3D tilt effect with JS working only in highly specific areas of the element",
       "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
       "published_at": "2026-09-24T10:05:58.000Z",
-      "description": "Stack Overflow question · 3 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -1479,36 +1557,6 @@
       "user": "Realto619"
     },
     {
-      "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
-      "url": "https://stackoverflow.com/questions/80005138/flutter-app-shows-default-counter-instead-of-my-custom-statefulwidget-todoapp",
-      "published_at": "2026-09-23T06:23:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "android",
-        "flutter",
-        "windows",
-        "state"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kyvin Magalona"
-    },
-    {
-      "title": "How to use array.prototype.every to check if all audio files are muted",
-      "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
-      "published_at": "2026-09-22T20:14:20.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "arrays"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "camwormy"
-    },
-    {
       "title": "How can I get \"stringified\" object with nested objects?",
       "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
       "published_at": "2026-09-18T20:32:45.000Z",
@@ -1533,18 +1581,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Roshani Shrestha"
-    },
-    {
-      "title": "Vue 3 Reactivity + shallowRef",
-      "url": "https://stackoverflow.com/questions/80000995/vue-3-reactivity-shallowref",
-      "published_at": "2026-08-27T11:42:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Maulik Paneliya"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1816,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6246,
+      "stars": 6283,
       "user": "mizorewww"
     },
     {
@@ -1831,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1444,
       "user": "mizorewww"
     },
     {
@@ -1846,23 +1882,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1427,
+      "stars": 1441,
       "user": "newliver666"
-    },
-    {
-      "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "url": "https://github.com/deepopen-com/deepopen",
-      "published_at": "2026-09-21T02:12:24Z",
-      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
-      "source": "GitHub",
-      "stars": 1011,
-      "user": "deepopen-com"
     },
     {
       "title": "Contrastive-LM/CLM - GitHub Repository",
@@ -1876,24 +1897,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 1018,
       "user": "Contrastive-LM"
     },
     {
-      "title": "Thonny IDE freezes on launch or loads blank files from ESP32/MicroPython on macOS with Python 3.14",
-      "url": "https://stackoverflow.com/questions/80005645/thonny-ide-freezes-on-launch-or-loads-blank-files-from-esp32-micropython-on-maco",
-      "published_at": "2026-09-24T21:55:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
+      "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "url": "https://github.com/deepopen-com/deepopen",
+      "published_at": "2026-09-21T02:12:24Z",
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
       "tags": [
         "python",
-        "macos",
-        "tkinter",
-        "tcl",
-        "thonny"
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
+      "source": "GitHub",
+      "stars": 1014,
+      "user": "deepopen-com"
+    },
+    {
+      "title": "Correct type annotation for default initialisation with generic dataclass inheritance",
+      "url": "https://stackoverflow.com/questions/80005425/correct-type-annotation-for-default-initialisation-with-generic-dataclass-inheri",
+      "published_at": "2026-09-24T07:30:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "python-dataclasses"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Joe Takai"
+      "user": "A. Gocht"
     },
     {
       "title": "Flet app doesn't display when run due to exception",
@@ -1907,6 +1941,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33152660"
+    },
+    {
+      "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
+      "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
+      "published_at": "2026-09-22T12:53:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 10",
+      "tags": [
+        "python",
+        "c++",
+        "binaryfiles"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "machiel"
     },
     {
       "title": "I'm trying to import cs50 in my program on VS Code, it keeps reporting: Warning. import \"cs50\" could not be resolved",
@@ -1936,20 +1984,6 @@
       "user": "penis zalupenko"
     },
     {
-      "title": "Correct type annotation for default initialisation with generic dataclass inheritance",
-      "url": "https://stackoverflow.com/questions/80005425/correct-type-annotation-for-default-initialisation-with-generic-dataclass-inheri",
-      "published_at": "2026-09-24T07:30:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "python-typing",
-        "python-dataclasses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "A. Gocht"
-    },
-    {
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
       "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
       "published_at": "2026-09-23T18:45:10.000Z",
@@ -1964,24 +1998,10 @@
       "user": "ArrowInTree"
     },
     {
-      "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
-      "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
-      "published_at": "2026-09-22T12:53:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 8",
-      "tags": [
-        "python",
-        "c++",
-        "binaryfiles"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "machiel"
-    },
-    {
       "title": "How to catch keypress event on arrow keys, and stop them from moving focus?",
       "url": "https://stackoverflow.com/questions/80005369/how-to-catch-keypress-event-on-arrow-keys-and-stop-them-from-moving-focus",
       "published_at": "2026-09-23T22:38:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "pyqt6"
@@ -2017,6 +2037,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Calumjt.13"
+    },
+    {
+      "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
+      "url": "https://stackoverflow.com/questions/80005109/how-can-i-tighten-a-provable-upper-bound-for-an-exact-samegame-solver",
+      "published_at": "2026-09-23T01:39:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "algorithm",
+        "optimization",
+        "dynamic-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Louis Cha"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2318,7 +2353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 919,
       "user": "mikehasa"
     },
     {
@@ -2334,23 +2369,10 @@
       "user": "winter"
     },
     {
-      "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-      "published_at": "2026-09-24T07:11:25.025-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "lisp",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jjba23"
-    },
-    {
       "title": "3D tilt effect with JS working only in highly specific areas of the element",
       "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
       "published_at": "2026-09-24T10:05:58.000Z",
-      "description": "Stack Overflow question · 3 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -2359,20 +2381,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JacaneU"
-    },
-    {
-      "title": "How to use array.prototype.every to check if all audio files are muted",
-      "url": "https://stackoverflow.com/questions/80005069/how-to-use-array-prototype-every-to-check-if-all-audio-files-are-muted",
-      "published_at": "2026-09-22T20:14:20.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "html",
-        "arrays"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "camwormy"
     }
   ],
   "Mobile": [
@@ -2448,7 +2456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1427,
+      "stars": 1441,
       "user": "newliver666"
     },
     {
@@ -2486,22 +2494,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "sneela"
-    },
-    {
-      "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
-      "url": "https://stackoverflow.com/questions/80005138/flutter-app-shows-default-counter-instead-of-my-custom-statefulwidget-todoapp",
-      "published_at": "2026-09-23T06:23:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "android",
-        "flutter",
-        "windows",
-        "state"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kyvin Magalona"
     },
     {
       "title": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
@@ -2584,21 +2576,6 @@
       "user": "xbill"
     },
     {
-      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
-      "published_at": "2026-09-24T11:55:12Z",
-      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
-      "tags": [
-        "ai",
-        "agents",
-        "agentskills",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
       "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
       "published_at": "2026-09-24T02:00:37Z",
@@ -2625,6 +2602,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
+      "published_at": "2026-09-24T11:55:12Z",
+      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "tags": [
+        "ai",
+        "agents",
+        "agentskills",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
@@ -2802,7 +2794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6246,
+      "stars": 6283,
       "user": "mizorewww"
     },
     {
@@ -2846,7 +2838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 919,
       "user": "mikehasa"
     },
     {
@@ -3255,21 +3247,6 @@
       "user": "pabs3"
     },
     {
-      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
-      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
-      "published_at": "2026-09-23T06:31:00Z",
-      "description": "claude-opus-5-5-demo",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
-      "source": "GitHub",
-      "stars": 785,
-      "user": "riba2534"
-    },
-    {
       "title": "JohnHeibel/PDoomVideo - Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
       "url": "https://github.com/JohnHeibel/PDoomVideo",
       "published_at": "2026-09-22T23:32:19Z",
@@ -3281,8 +3258,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 795,
       "user": "JohnHeibel"
+    },
+    {
+      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+      "published_at": "2026-09-23T06:31:00Z",
+      "description": "claude-opus-5-5-demo",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "riba2534"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -3296,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "rmalde"
     },
     {
@@ -3311,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 515,
       "user": "dgreenheck"
     },
     {
@@ -3326,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 386,
       "user": "maanHimself"
     },
     {
@@ -3341,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6246,
+      "stars": 6283,
       "user": "mizorewww"
     },
     {
@@ -3356,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1444,
       "user": "mizorewww"
     },
     {
@@ -3371,23 +3363,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1427,
+      "stars": 1441,
       "user": "newliver666"
-    },
-    {
-      "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "url": "https://github.com/deepopen-com/deepopen",
-      "published_at": "2026-09-21T02:12:24Z",
-      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
-      "source": "GitHub",
-      "stars": 1011,
-      "user": "deepopen-com"
     },
     {
       "title": "Contrastive-LM/CLM - GitHub Repository",
@@ -3401,8 +3378,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 1018,
       "user": "Contrastive-LM"
+    },
+    {
+      "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "url": "https://github.com/deepopen-com/deepopen",
+      "published_at": "2026-09-21T02:12:24Z",
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
+      "source": "GitHub",
+      "stars": 1014,
+      "user": "deepopen-com"
     },
     {
       "title": "unreallabsai/unreal-agent - Async-first agent harness",
@@ -3416,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1885,
+      "stars": 1897,
       "user": "unreallabsai"
     },
     {
@@ -3431,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 756,
       "user": "kryvora-network"
     },
     {
@@ -3446,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 741,
       "user": "yetone"
     },
     {
@@ -3476,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157717?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "dorkitude"
     },
     {
@@ -3491,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6725,
+      "stars": 6743,
       "user": "zai-org"
     },
     {
@@ -3506,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 919,
       "user": "mikehasa"
     },
     {
@@ -3521,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 602,
       "user": "anishfn"
     },
     {
@@ -3536,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 452,
       "user": "receptron"
     },
     {
@@ -3551,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "Alex314618-create"
     },
     {
@@ -3566,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 547,
       "user": "Haleclipse"
     },
     {
@@ -3581,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 478,
       "user": "tobi"
     },
     {
