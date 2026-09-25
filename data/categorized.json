@@ -61,21 +61,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
-      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
-      "published_at": "2026-09-23T19:19:19Z",
-      "description": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
-      "tags": [
-        "ai",
-        "llm",
-        "docker",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
-      "source": "Dev.to",
-      "user": "Sanskriti Harmukh"
-    },
-    {
       "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
       "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
       "published_at": "2026-09-23T20:59:28Z",
@@ -132,6 +117,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
+      "published_at": "2026-09-23T19:19:19Z",
+      "description": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "tags": [
+        "ai",
+        "llm",
+        "docker",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
+      "source": "Dev.to",
+      "user": "Sanskriti Harmukh"
     },
     {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
@@ -718,34 +718,19 @@
       "user": "caseyf7"
     },
     {
-      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "url": "https://github.com/logicrw/awesome-jev-projects",
-      "published_at": "2026-09-18T06:41:50Z",
-      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "title": "maanHimself/OpenDLSS-NR - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "published_at": "2026-09-20T22:35:35Z",
+      "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 497,
-      "user": "logicrw"
-    },
-    {
-      "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
-      "url": "https://github.com/bespokelabsai/nimble",
-      "published_at": "2026-09-18T09:07:48Z",
-      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
-      "source": "GitHub",
-      "stars": 1730,
-      "user": "bespokelabsai"
+      "stars": 379,
+      "user": "maanHimself"
     },
     {
       "title": "mizorewww/laya-coreml - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
@@ -759,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1439,
       "user": "mizorewww"
     },
     {
@@ -774,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1874,
+      "stars": 1879,
       "user": "unreallabsai"
     },
     {
@@ -789,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6705,
+      "stars": 6713,
       "user": "zai-org"
     },
     {
@@ -804,23 +789,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 877,
       "user": "mikehasa"
     },
     {
-      "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
-      "url": "https://github.com/Lumid-Off/AirCard-Windows",
-      "published_at": "2026-09-18T14:27:48Z",
-      "description": "Trending GitHub Repository",
+      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "url": "https://github.com/Alex314618-create/JevRev",
+      "published_at": "2026-09-21T01:53:13Z",
+      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "Alex314618-create"
+    },
+    {
+      "title": "BinaryDeliverer/CodexDesk - Desktop companion for AI coding agents and Codex workflows",
+      "url": "https://github.com/BinaryDeliverer/CodexDesk",
+      "published_at": "2026-09-23T11:21:44Z",
+      "description": "Desktop companion for AI coding agents and Codex workflows",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307794984?v=4",
       "source": "GitHub",
-      "stars": 868,
-      "user": "Lumid-Off"
+      "stars": 223,
+      "user": "BinaryDeliverer"
     },
     {
       "title": "AI Workers' Inquiry 2026",
@@ -940,17 +940,17 @@
       "user": "TechCrunch Events"
     },
     {
-      "title": "ElevenLabs&#8217; CEO on margins, IPO timing, and telling customers they&#8217;re talking to a bot",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "published_at": "2026-09-24T16:35:13.000Z",
-      "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "title": "Inside SeaHack: 24 Hours to Build an AI Startup",
+      "url": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
+      "published_at": "2026-09-24T18:53:36.000Z",
+      "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
       "tags": [
-        "AI",
-        "ElevenLabs"
+        "hackathon",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1025,22 +1025,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Kayode Adeniyi"
-    },
-    {
-      "title": "How to Turn a RECIST Line into a 3D Tumor Segmentation Mask",
-      "url": "https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/",
-      "published_at": "2026-09-18T21:32:56.000Z",
-      "description": "A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim",
-      "tags": [
-        "MachineLearning",
-        "Deep Learning",
-        "Artificial Intelligence",
-        "Medical Imaging",
-        "Computer Vision"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Lakshmi Mahabaleshwara"
     }
   ],
   "JavaScript": [
@@ -1266,7 +1250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 780,
       "user": "riba2534"
     },
     {
@@ -1281,23 +1265,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 698,
       "user": "JohnHeibel"
-    },
-    {
-      "title": "Sac-Y/Jev-cu - GitHub Repository",
-      "url": "https://github.com/Sac-Y/Jev-cu",
-      "published_at": "2026-09-18T16:56:08Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
-      "source": "GitHub",
-      "stars": 596,
-      "user": "Sac-Y"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -1311,23 +1280,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "rmalde"
     },
     {
-      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "url": "https://github.com/logicrw/awesome-jev-projects",
-      "published_at": "2026-09-18T06:41:50Z",
-      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "title": "dgreenheck/tidewater - Coastal town built with Opus 5.5",
+      "url": "https://github.com/dgreenheck/tidewater",
+      "published_at": "2026-09-23T21:40:29Z",
+      "description": "Coastal town built with Opus 5.5",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 497,
-      "user": "logicrw"
+      "stars": 423,
+      "user": "dgreenheck"
+    },
+    {
+      "title": "maanHimself/OpenDLSS-NR - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "published_at": "2026-09-20T22:35:35Z",
+      "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "maanHimself"
     },
     {
       "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
@@ -1341,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 715,
       "user": "kryvora-network"
     },
     {
@@ -1356,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6705,
+      "stars": 6713,
       "user": "zai-org"
     },
     {
@@ -1371,23 +1355,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 877,
       "user": "mikehasa"
-    },
-    {
-      "title": "githubnext/localjev - GitHub Repository",
-      "url": "https://github.com/githubnext/localjev",
-      "published_at": "2026-09-18T16:59:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
-      "source": "GitHub",
-      "stars": 757,
-      "user": "githubnext"
     },
     {
       "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
@@ -1401,29 +1370,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 576,
       "user": "anishfn"
     },
     {
-      "title": "kyotofin/tax-doc-classifier - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
-      "url": "https://github.com/kyotofin/tax-doc-classifier",
-      "published_at": "2026-09-18T14:40:45Z",
-      "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+      "title": "receptron/laya - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+      "url": "https://github.com/receptron/laya",
+      "published_at": "2026-09-19T15:30:52Z",
+      "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 442,
-      "user": "kyotofin"
+      "stars": 421,
+      "user": "receptron"
+    },
+    {
+      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "url": "https://github.com/Alex314618-create/JevRev",
+      "published_at": "2026-09-21T01:53:13Z",
+      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "Alex314618-create"
     },
     {
       "title": "What is the recommended JavaScript approach to parse Data Matrix scan data returned as a string?",
       "url": "https://stackoverflow.com/questions/80005599/what-is-the-recommended-javascript-approach-to-parse-data-matrix-scan-data-retur",
       "published_at": "2026-09-24T18:47:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "barcode-scanner",
@@ -1822,21 +1806,6 @@
       "user": "arathore"
     },
     {
-      "title": "NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "published_at": "2026-09-18T04:46:33Z",
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
-      "source": "GitHub",
-      "stars": 22936,
-      "user": "NandhaKishorM"
-    },
-    {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "url": "https://github.com/mizorewww/laya-mlx",
       "published_at": "2026-09-19T13:50:26Z",
@@ -1848,23 +1817,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6210,
+      "stars": 6224,
       "user": "mizorewww"
-    },
-    {
-      "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
-      "url": "https://github.com/bespokelabsai/nimble",
-      "published_at": "2026-09-18T09:07:48Z",
-      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
-      "source": "GitHub",
-      "stars": 1730,
-      "user": "bespokelabsai"
     },
     {
       "title": "mizorewww/laya-coreml - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
@@ -1878,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1439,
       "user": "mizorewww"
     },
     {
@@ -1893,8 +1847,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1414,
+      "stars": 1417,
       "user": "newliver666"
+    },
+    {
+      "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "url": "https://github.com/deepopen-com/deepopen",
+      "published_at": "2026-09-21T02:12:24Z",
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
+      "source": "GitHub",
+      "stars": 1006,
+      "user": "deepopen-com"
+    },
+    {
+      "title": "Contrastive-LM/CLM - GitHub Repository",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "published_at": "2026-09-23T19:29:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
+      "source": "GitHub",
+      "stars": 820,
+      "user": "Contrastive-LM"
     },
     {
       "title": "Thonny IDE freezes on launch or loads blank files from ESP32/MicroPython on macOS with Python 3.14",
@@ -1967,6 +1951,20 @@
       "user": "A. Gocht"
     },
     {
+      "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
+      "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
+      "published_at": "2026-09-23T18:45:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "edi",
+        "x12"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ArrowInTree"
+    },
+    {
       "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
       "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
       "published_at": "2026-09-22T12:53:29.000Z",
@@ -2020,20 +2018,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Calumjt.13"
-    },
-    {
-      "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
-      "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
-      "published_at": "2026-09-23T18:45:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "edi",
-        "x12"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ArrowInTree"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2335,8 +2319,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 877,
       "user": "mikehasa"
+    },
+    {
+      "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "published_at": "2026-09-24T15:38:32.218-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "winter"
     },
     {
       "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
@@ -2350,18 +2346,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jjba23"
-    },
-    {
-      "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
-      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "published_at": "2026-09-24T15:38:32.218-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "winter"
     },
     {
       "title": "3D tilt effect with JS working only in highly specific areas of the element",
@@ -2465,7 +2449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1414,
+      "stars": 1417,
       "user": "newliver666"
     },
     {
@@ -2807,7 +2791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6210,
+      "stars": 6224,
       "user": "mizorewww"
     },
     {
@@ -2851,7 +2835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 877,
       "user": "mikehasa"
     },
     {
@@ -3273,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 780,
       "user": "riba2534"
     },
     {
@@ -3288,23 +3272,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 698,
       "user": "JohnHeibel"
-    },
-    {
-      "title": "Sac-Y/Jev-cu - GitHub Repository",
-      "url": "https://github.com/Sac-Y/Jev-cu",
-      "published_at": "2026-09-18T16:56:08Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270291518?v=4",
-      "source": "GitHub",
-      "stars": 596,
-      "user": "Sac-Y"
     },
     {
       "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
@@ -3318,38 +3287,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "rmalde"
     },
     {
-      "title": "logicrw/awesome-jev-projects - Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "url": "https://github.com/logicrw/awesome-jev-projects",
-      "published_at": "2026-09-18T06:41:50Z",
-      "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "title": "dgreenheck/tidewater - Coastal town built with Opus 5.5",
+      "url": "https://github.com/dgreenheck/tidewater",
+      "published_at": "2026-09-23T21:40:29Z",
+      "description": "Coastal town built with Opus 5.5",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34853455?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 497,
-      "user": "logicrw"
+      "stars": 423,
+      "user": "dgreenheck"
     },
     {
-      "title": "NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "url": "https://github.com/NandhaKishorM/laya",
-      "published_at": "2026-09-18T04:46:33Z",
-      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "title": "maanHimself/OpenDLSS-NR - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "published_at": "2026-09-20T22:35:35Z",
+      "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48623612?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 22936,
-      "user": "NandhaKishorM"
+      "stars": 379,
+      "user": "maanHimself"
     },
     {
       "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
@@ -3363,23 +3332,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6210,
+      "stars": 6224,
       "user": "mizorewww"
-    },
-    {
-      "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
-      "url": "https://github.com/bespokelabsai/nimble",
-      "published_at": "2026-09-18T09:07:48Z",
-      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167806754?v=4",
-      "source": "GitHub",
-      "stars": 1730,
-      "user": "bespokelabsai"
     },
     {
       "title": "mizorewww/laya-coreml - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
@@ -3393,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1439,
       "user": "mizorewww"
     },
     {
@@ -3408,8 +3362,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1414,
+      "stars": 1417,
       "user": "newliver666"
+    },
+    {
+      "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "url": "https://github.com/deepopen-com/deepopen",
+      "published_at": "2026-09-21T02:12:24Z",
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
+      "source": "GitHub",
+      "stars": 1006,
+      "user": "deepopen-com"
+    },
+    {
+      "title": "Contrastive-LM/CLM - GitHub Repository",
+      "url": "https://github.com/Contrastive-LM/CLM",
+      "published_at": "2026-09-23T19:29:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
+      "source": "GitHub",
+      "stars": 820,
+      "user": "Contrastive-LM"
     },
     {
       "title": "unreallabsai/unreal-agent - Async-first agent harness",
@@ -3423,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1874,
+      "stars": 1879,
       "user": "unreallabsai"
     },
     {
@@ -3438,23 +3422,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 715,
       "user": "kryvora-network"
-    },
-    {
-      "title": "gylive/ccodex-sleep-state - 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
-      "url": "https://github.com/gylive/ccodex-sleep-state",
-      "published_at": "2026-09-18T09:02:44Z",
-      "description": "尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/87460536?v=4",
-      "source": "GitHub",
-      "stars": 619,
-      "user": "gylive"
     },
     {
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
@@ -3468,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 623,
       "user": "yetone"
     },
     {
@@ -3487,6 +3456,21 @@
       "user": "HyNetworks"
     },
     {
+      "title": "dorkitude/webctl - Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
+      "url": "https://github.com/dorkitude/webctl",
+      "published_at": "2026-09-20T07:27:00Z",
+      "description": "Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/157717?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "dorkitude"
+    },
+    {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "published_at": "2026-09-20T12:01:16Z",
@@ -3498,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6705,
+      "stars": 6713,
       "user": "zai-org"
     },
     {
@@ -3513,23 +3497,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 877,
       "user": "mikehasa"
-    },
-    {
-      "title": "githubnext/localjev - GitHub Repository",
-      "url": "https://github.com/githubnext/localjev",
-      "published_at": "2026-09-18T16:59:55Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89615882?v=4",
-      "source": "GitHub",
-      "stars": 757,
-      "user": "githubnext"
     },
     {
       "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
@@ -3543,38 +3512,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 576,
       "user": "anishfn"
     },
     {
-      "title": "kyotofin/tax-doc-classifier - Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
-      "url": "https://github.com/kyotofin/tax-doc-classifier",
-      "published_at": "2026-09-18T14:40:45Z",
-      "description": "Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page.",
+      "title": "receptron/laya - Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+      "url": "https://github.com/receptron/laya",
+      "published_at": "2026-09-19T15:30:52Z",
+      "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291348760?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 442,
-      "user": "kyotofin"
+      "stars": 421,
+      "user": "receptron"
     },
     {
-      "title": "Lumid-Off/AirCard-Windows - GitHub Repository",
-      "url": "https://github.com/Lumid-Off/AirCard-Windows",
-      "published_at": "2026-09-18T14:27:48Z",
-      "description": "Trending GitHub Repository",
+      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "url": "https://github.com/Alex314618-create/JevRev",
+      "published_at": "2026-09-21T01:53:13Z",
+      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100797807?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 868,
-      "user": "Lumid-Off"
+      "stars": 305,
+      "user": "Alex314618-create"
     },
     {
       "title": "Haleclipse/CometixCode - An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
@@ -3588,38 +3557,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 540,
       "user": "Haleclipse"
-    },
-    {
-      "title": "eliasstravik/herdr-projects - A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
-      "url": "https://github.com/eliasstravik/herdr-projects",
-      "published_at": "2026-09-18T07:28:36Z",
-      "description": "A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218792529?v=4",
-      "source": "GitHub",
-      "stars": 421,
-      "user": "eliasstravik"
-    },
-    {
-      "title": "ejfkdev/ddc - DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI",
-      "url": "https://github.com/ejfkdev/ddc",
-      "published_at": "2026-09-18T05:07:46Z",
-      "description": "DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/152914458?v=4",
-      "source": "GitHub",
-      "stars": 296,
-      "user": "ejfkdev"
     },
     {
       "title": "BridgeDruidCompress/TauriKit - Modern UI component kit for Rust desktop applications",
@@ -3635,6 +3574,51 @@
       "source": "GitHub",
       "stars": 224,
       "user": "BridgeDruidCompress"
+    },
+    {
+      "title": "AutocratGirder/ClashDesk - Modern cross-platform desktop client for proxy workflows",
+      "url": "https://github.com/AutocratGirder/ClashDesk",
+      "published_at": "2026-09-23T11:21:44Z",
+      "description": "Modern cross-platform desktop client for proxy workflows",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307795303?v=4",
+      "source": "GitHub",
+      "stars": 224,
+      "user": "AutocratGirder"
+    },
+    {
+      "title": "BinaryDeliverer/CodexDesk - Desktop companion for AI coding agents and Codex workflows",
+      "url": "https://github.com/BinaryDeliverer/CodexDesk",
+      "published_at": "2026-09-23T11:21:44Z",
+      "description": "Desktop companion for AI coding agents and Codex workflows",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307794984?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "BinaryDeliverer"
+    },
+    {
+      "title": "BricklayerSurmount/DockForge - Flexible dock and panel layout system for desktop apps",
+      "url": "https://github.com/BricklayerSurmount/DockForge",
+      "published_at": "2026-09-23T11:21:45Z",
+      "description": "Flexible dock and panel layout system for desktop apps",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307793905?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "BricklayerSurmount"
     },
     {
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
