@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "published_at": "2026-09-23T11:31:31Z",
-      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
+      "published_at": "2026-09-25T11:50:46Z",
+      "description": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
       "tags": [
-        "buildinpublic",
-        "webdev",
-        "nextjs",
+        "eventsinyourcity",
+        "claude",
+        "googlecloud",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
       "source": "Dev.to",
-      "user": "Mika Flowers"
+      "user": "Jen Harvey"
     },
     {
       "title": "This video is about how this video was made",
@@ -31,6 +31,21 @@
       "user": "Peter Kim Frank"
     },
     {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+      "published_at": "2026-09-23T11:31:31Z",
+      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "tags": [
+        "buildinpublic",
+        "webdev",
+        "nextjs",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
+    },
+    {
       "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
       "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
       "published_at": "2026-09-24T16:32:26Z",
@@ -42,21 +57,6 @@
         "llm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu%2Fdevto-jev-tpu-v6e1-cover.6a93fef0.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
-      "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
-      "published_at": "2026-09-24T02:00:37Z",
-      "description": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) builds on one EC2 L4, on 1,200 labelled examples and on the 3,880-record public suite where Jev 1.13.0 has published results. Pre-registered, with accuracy, calibration, calibration after 0 to 150 labels, latency and cost.",
-      "tags": [
-        "gemma",
-        "aws",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -74,21 +74,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
-      "published_at": "2026-09-24T11:55:12Z",
-      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
-      "tags": [
-        "ai",
-        "agents",
-        "agentskills",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
       "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
       "published_at": "2026-09-23T20:59:28Z",
@@ -102,6 +87,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
+      "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
+      "published_at": "2026-09-24T02:00:37Z",
+      "description": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) builds on one EC2 L4, on 1,200 labelled examples and on the 3,880-record public suite where Jev 1.13.0 has published results. Pre-registered, with accuracy, calibration, calibration after 0 to 150 labels, latency and cost.",
+      "tags": [
+        "gemma",
+        "aws",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
@@ -162,6 +162,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
       "source": "Dev.to",
       "user": "Uri Shmueli"
+    },
+    {
+      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
+      "published_at": "2026-09-24T11:55:12Z",
+      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "tags": [
+        "ai",
+        "agents",
+        "agentskills",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
     },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
@@ -269,21 +284,6 @@
       "user": "bebechien"
     },
     {
-      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
-      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
-      "published_at": "2026-09-08T05:06:23Z",
-      "description": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
-      "tags": [
-        "googleworkspace",
-        "googlecloud",
-        "bigquery",
-        "apacheiceberg"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -297,6 +297,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script",
+      "url": "https://dev.to/gde/serverless-multimodal-vector-search-on-apache-iceberg-via-google-apps-script-4fg",
+      "published_at": "2026-09-08T05:06:23Z",
+      "description": "Turn Google Drive into an AI-Powered Lakehouse Vector Engine across Converted PDFs, Binary Images,...",
+      "tags": [
+        "googleworkspace",
+        "googlecloud",
+        "bigquery",
+        "apacheiceberg"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
@@ -522,34 +537,6 @@
       "user": "JimmyLiao"
     },
     {
-      "title": "Elevating Antigravity agent skills, Part 2: Image generation",
-      "url": "https://dev.to/googleai/elevating-antigravity-agent-skills-part-2-image-generation-2jno",
-      "published_at": "2026-09-01T16:51:26Z",
-      "description": "By coupling native image generation directly with structured prompt synthesis, you turn your AI agent...",
-      "tags": [
-        "ai",
-        "agentskills",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx9byue1ygr1hxhl3hslf.jpg",
-      "source": "Dev.to",
-      "user": "James O'Reilly"
-    },
-    {
-      "title": "4 pitfalls of loop engineering (and how to fix them)",
-      "url": "https://dev.to/googleai/4-pitfalls-of-loop-engineering-and-how-to-fix-them-1ji2",
-      "published_at": "2026-09-09T17:37:13Z",
-      "description": "Perhaps you've heard the term Loop Engineering: instead of solving a problem by hand, you build a...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0x42aq3mpc7cvx43zb18.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -729,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 392,
       "user": "maanHimself"
     },
     {
@@ -744,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1451,
       "user": "mizorewww"
     },
     {
@@ -759,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 1918,
       "user": "unreallabsai"
     },
     {
@@ -774,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6743,
+      "stars": 6759,
       "user": "zai-org"
     },
     {
@@ -789,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 935,
       "user": "mikehasa"
     },
     {
@@ -804,23 +791,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 302,
       "user": "Alex314618-create"
     },
     {
-      "title": "BinaryDeliverer/CodexDesk - Desktop companion for AI coding agents and Codex workflows",
-      "url": "https://github.com/BinaryDeliverer/CodexDesk",
-      "published_at": "2026-09-23T11:21:44Z",
-      "description": "Desktop companion for AI coding agents and Codex workflows",
+      "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
+      "url": "https://github.com/OnlistTeam/ai-manager",
+      "published_at": "2026-09-21T05:07:53Z",
+      "description": "AI Manager desktop application for AI coding tools",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307794984?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 223,
-      "user": "BinaryDeliverer"
+      "stars": 206,
+      "user": "OnlistTeam"
     },
     {
       "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
@@ -836,6 +823,18 @@
       "user": "joshka"
     },
     {
+      "title": "LLM Policies: Progress At All Costs",
+      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+      "published_at": "2026-09-25T07:30:36.039-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
+    },
+    {
       "title": "Goodbye Google",
       "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
       "published_at": "2026-09-25T00:51:12.558-05:00",
@@ -849,42 +848,47 @@
       "user": "classichasclass"
     },
     {
-      "title": "AI Workers' Inquiry 2026",
-      "url": "https://techworkersinquiry.org/ai/",
-      "published_at": "2026-09-24T12:41:35.717-05:00",
+      "title": "AI is not “just a tool”",
+      "url": "https://brettcodes.com/ai-is-not-just-a-tool/",
+      "published_at": "2026-09-25T06:12:22.776-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "gmem"
+      "user": "FedericoSchonborn"
     },
     {
-      "title": "Pencils Down, Eyes Open: A Rails Developer After Rails World",
-      "url": "https://caio.ca/blog/pencils-down-eyes-open-rails-world",
-      "published_at": "2026-09-24T20:31:43.488-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "published_at": "2026-09-25T15:00:00.000Z",
+      "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
       "tags": [
-        "ruby",
-        "rust",
-        "vibecoding"
+        "TC",
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt",
+        "Ricursive Intelligence"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Caio"
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
-      "title": "Clankers Made Me Build a Second Brain",
-      "url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
-      "published_at": "2026-09-24T06:34:43.976-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+      "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+      "published_at": "2026-09-25T14:05:04.000Z",
+      "description": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
       "tags": [
-        "vibecoding"
+        "Gadgets",
+        "Hardware",
+        "meadow",
+        "smartphones"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Tymscar"
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -917,68 +921,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "published_at": "2026-09-24T19:00:42.000Z",
-      "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "LLMs",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "published_at": "2026-09-24T18:11:44.000Z",
-      "description": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-      "tags": [
-        "AI",
-        "data centers",
-        "oracle",
-        "stargate"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "Meta&#8217;s Muse Charm looks like a Tamagotchi, but it&#8217;s tapping into a much newer trend",
-      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "published_at": "2026-09-24T17:39:24.000Z",
-      "description": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "TC",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Google Photos &#8216;Clueless&#8217;-inspired virtual closet is now available on Android and iOS",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "published_at": "2026-09-24T17:00:00.000Z",
-      "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "tags": [
-        "AI",
-        "Apps",
-        "gemini",
-        "Google Photos"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Inside SeaHack: 24 Hours to Build an AI Startup",
@@ -1070,21 +1012,6 @@
   ],
   "JavaScript": [
     {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "published_at": "2026-09-23T11:31:31Z",
-      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "tags": [
-        "buildinpublic",
-        "webdev",
-        "nextjs",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
-    },
-    {
       "title": "This video is about how this video was made",
       "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
       "published_at": "2026-09-24T19:54:35Z",
@@ -1098,6 +1025,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
       "source": "Dev.to",
       "user": "Peter Kim Frank"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+      "published_at": "2026-09-23T11:31:31Z",
+      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "tags": [
+        "buildinpublic",
+        "webdev",
+        "nextjs",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
     },
     {
       "title": "The Grand Unifying Architecture of Frontend",
@@ -1291,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 843,
       "user": "JohnHeibel"
     },
     {
@@ -1306,23 +1248,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 793,
       "user": "riba2534"
-    },
-    {
-      "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
-      "url": "https://github.com/rmalde/minecraft-agent",
-      "published_at": "2026-09-20T05:05:12Z",
-      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
-      "source": "GitHub",
-      "stars": 545,
-      "user": "rmalde"
     },
     {
       "title": "dgreenheck/tidewater - Coastal town built with Opus 5.5",
@@ -1336,8 +1263,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 578,
       "user": "dgreenheck"
+    },
+    {
+      "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "published_at": "2026-09-20T05:05:12Z",
+      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
+      "source": "GitHub",
+      "stars": 546,
+      "user": "rmalde"
     },
     {
       "title": "maanHimself/OpenDLSS-NR - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
@@ -1351,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 392,
       "user": "maanHimself"
     },
     {
@@ -1366,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 789,
       "user": "kryvora-network"
     },
     {
@@ -1381,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6743,
+      "stars": 6759,
       "user": "zai-org"
     },
     {
@@ -1396,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 935,
       "user": "mikehasa"
     },
     {
@@ -1411,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 611,
       "user": "anishfn"
     },
     {
@@ -1426,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 465,
       "user": "receptron"
     },
     {
@@ -1441,14 +1383,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 302,
       "user": "Alex314618-create"
+    },
+    {
+      "title": "Uncaught Error: prompt() is not supported",
+      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
+      "published_at": "2026-09-25T08:18:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alex"
     },
     {
       "title": "React form doesn't submit when pressing Enter in an input field",
       "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
       "published_at": "2026-09-25T09:58:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "javascript",
         "reactjs"
@@ -1456,18 +1410,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ehan Siddique"
-    },
-    {
-      "title": "Uncaught Error: prompt() is not supported",
-      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
-      "published_at": "2026-09-25T08:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alex"
     },
     {
       "title": "Error: Calling setState synchronously within an effect can trigger cascading renders",
@@ -1483,10 +1425,24 @@
       "user": "Pankaj Choudhary"
     },
     {
+      "title": "3D tilt effect with JS working only in highly specific areas of the element",
+      "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
+      "published_at": "2026-09-24T10:05:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JacaneU"
+    },
+    {
       "title": "What is the recommended JavaScript approach to parse Data Matrix scan data returned as a string?",
       "url": "https://stackoverflow.com/questions/80005599/what-is-the-recommended-javascript-approach-to-parse-data-matrix-scan-data-retur",
       "published_at": "2026-09-24T18:47:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "barcode-scanner",
@@ -1497,20 +1453,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "CrimsonReverie"
-    },
-    {
-      "title": "3D tilt effect with JS working only in highly specific areas of the element",
-      "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
-      "published_at": "2026-09-24T10:05:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JacaneU"
     },
     {
       "title": "How can I set up my classes so that I can perform operations with them? In Javascript",
@@ -1557,6 +1499,22 @@
       "user": "Realto619"
     },
     {
+      "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
+      "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
+      "published_at": "2026-09-15T04:52:42.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "javascript",
+        "angular",
+        "google-chrome",
+        "browser",
+        "microsoft-edge"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tutte2k"
+    },
+    {
       "title": "How can I get \"stringified\" object with nested objects?",
       "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
       "published_at": "2026-09-18T20:32:45.000Z",
@@ -1567,20 +1525,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "LUN"
-    },
-    {
-      "title": "React Router UI gets stuck after TanStack Query API request returns 404",
-      "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
-      "published_at": "2026-08-26T10:45:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-query"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Roshani Shrestha"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1852,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6283,
+      "stars": 6306,
       "user": "mizorewww"
     },
     {
@@ -1867,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1451,
       "user": "mizorewww"
     },
     {
@@ -1882,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1442,
       "user": "newliver666"
     },
     {
@@ -1897,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1141,
       "user": "Contrastive-LM"
     },
     {
@@ -1912,8 +1856,50 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1016,
       "user": "deepopen-com"
+    },
+    {
+      "title": "Where is the Python documentation for handling ties with the built-in min function?",
+      "url": "https://stackoverflow.com/questions/80005838/where-is-the-python-documentation-for-handling-ties-with-the-built-in-min-functi",
+      "published_at": "2026-09-25T14:26:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "heretoinfinity"
+    },
+    {
+      "title": "JAX FFI handler does not find my CUDA function exported with nanobind",
+      "url": "https://stackoverflow.com/questions/80005798/jax-ffi-handler-does-not-find-my-cuda-function-exported-with-nanobind",
+      "published_at": "2026-09-25T12:14:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "c++",
+        "cuda",
+        "jax",
+        "nanobind"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "alo bre"
+    },
+    {
+      "title": "Correcting faulty N-body simulation using velocity Verlet integration",
+      "url": "https://stackoverflow.com/questions/80005775/correcting-faulty-n-body-simulation-using-velocity-verlet-integration",
+      "published_at": "2026-09-25T10:59:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "numerical-methods",
+        "astronomy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe_Hudson"
     },
     {
       "title": "Correct type annotation for default initialisation with generic dataclass inheritance",
@@ -1930,17 +1916,18 @@
       "user": "A. Gocht"
     },
     {
-      "title": "Flet app doesn't display when run due to exception",
-      "url": "https://stackoverflow.com/questions/80005418/flet-app-doesnt-display-when-run-due-to-exception",
-      "published_at": "2026-09-24T07:08:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
+      "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
+      "published_at": "2026-09-23T18:45:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "flet"
+        "edi",
+        "x12"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33152660"
+      "user": "ArrowInTree"
     },
     {
       "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
@@ -1955,6 +1942,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "machiel"
+    },
+    {
+      "title": "Flet app doesn't display when run due to exception",
+      "url": "https://stackoverflow.com/questions/80005418/flet-app-doesnt-display-when-run-due-to-exception",
+      "published_at": "2026-09-24T07:08:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "flet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33152660"
     },
     {
       "title": "I'm trying to import cs50 in my program on VS Code, it keeps reporting: Warning. import \"cs50\" could not be resolved",
@@ -1984,20 +1984,6 @@
       "user": "penis zalupenko"
     },
     {
-      "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
-      "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
-      "published_at": "2026-09-23T18:45:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "edi",
-        "x12"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ArrowInTree"
-    },
-    {
       "title": "How to catch keypress event on arrow keys, and stop them from moving focus?",
       "url": "https://stackoverflow.com/questions/80005369/how-to-catch-keypress-event-on-arrow-keys-and-stop-them-from-moving-focus",
       "published_at": "2026-09-23T22:38:08.000Z",
@@ -2009,49 +1995,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Iain"
-    },
-    {
-      "title": "Schemdraw SVG file doesn't render properly with PySide6",
-      "url": "https://stackoverflow.com/questions/80005306/schemdraw-svg-file-doesnt-render-properly-with-pyside6",
-      "published_at": "2026-09-23T17:07:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "svg",
-        "pyside6",
-        "pyqtgraph",
-        "schemdraw"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alias"
-    },
-    {
-      "title": "How do I use the correct syntax for a variable being 0 in an if function",
-      "url": "https://stackoverflow.com/questions/80005298/how-do-i-use-the-correct-syntax-for-a-variable-being-0-in-an-if-function",
-      "published_at": "2026-09-23T16:45:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Calumjt.13"
-    },
-    {
-      "title": "How can I tighten a provable upper bound for an exact SameGame solver?",
-      "url": "https://stackoverflow.com/questions/80005109/how-can-i-tighten-a-provable-upper-bound-for-an-exact-samegame-solver",
-      "published_at": "2026-09-23T01:39:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "algorithm",
-        "optimization",
-        "dynamic-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Louis Cha"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2353,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 935,
       "user": "mikehasa"
     },
     {
@@ -2372,7 +2315,7 @@
       "title": "3D tilt effect with JS working only in highly specific areas of the element",
       "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
       "published_at": "2026-09-24T10:05:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 5",
       "tags": [
         "javascript",
         "html",
@@ -2384,6 +2327,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)",
+      "url": "https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7",
+      "published_at": "2026-09-24T22:07:55Z",
+      "description": "For decades, platforms like Claris FileMaker, Microsoft Access, and 4D enabled businesses to build...",
+      "tags": [
+        "opensource",
+        "flutter",
+        "go",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8dsce3xxd0txso2shxb1.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
       "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9",
@@ -2430,21 +2388,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers",
-      "url": "https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8",
-      "published_at": "2026-08-30T01:27:54Z",
-      "description": "Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and Riverpod now operate as first-class bidirectional peers at the Grand Central State Terminal.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "newliver666/apk-reverse - Suitable for Android APK reverse engineering analysis",
       "url": "https://github.com/newliver666/apk-reverse",
       "published_at": "2026-09-19T13:12:54Z",
@@ -2456,7 +2399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1442,
       "user": "newliver666"
     },
     {
@@ -2496,37 +2439,6 @@
       "user": "sneela"
     },
     {
-      "title": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
-      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "published_at": "2026-09-24T18:52:38.000Z",
-      "description": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-      "tags": [
-        "Robotics",
-        "Startups",
-        "Gradient Ventures",
-        "humanoid",
-        "humanoid robots"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Google Photos &#8216;Clueless&#8217;-inspired virtual closet is now available on Android and iOS",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "published_at": "2026-09-24T17:00:00.000Z",
-      "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "tags": [
-        "AI",
-        "Apps",
-        "gemini",
-        "Google Photos"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
       "url": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
       "published_at": "2026-09-23T21:01:32.000Z",
@@ -2561,6 +2473,21 @@
   ],
   "Cloud": [
     {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
+      "published_at": "2026-09-25T11:50:46Z",
+      "description": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "tags": [
+        "eventsinyourcity",
+        "claude",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
       "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
       "published_at": "2026-09-24T16:32:26Z",
@@ -2576,6 +2503,19 @@
       "user": "xbill"
     },
     {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
+      "published_at": "2026-09-22T17:48:24Z",
+      "description": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "tags": [
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
       "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
       "published_at": "2026-09-24T02:00:37Z",
@@ -2589,19 +2529,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
-      "published_at": "2026-09-22T17:48:24Z",
-      "description": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
-      "tags": [
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
@@ -2794,23 +2721,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6283,
+      "stars": 6306,
       "user": "mizorewww"
-    },
-    {
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "published_at": "2026-09-24T17:07:55.000Z",
-      "description": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-      "tags": [
-        "Enterprise",
-        "Startups",
-        "ali ghodsi",
-        "Databricks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     }
   ],
   "Database": [
@@ -2838,7 +2750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 935,
       "user": "mikehasa"
     },
     {
@@ -3027,6 +2939,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "sneela"
+    },
+    {
+      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+      "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+      "published_at": "2026-09-25T13:24:34.000Z",
+      "description": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+      "tags": [
+        "Crypto",
+        "Security",
+        "crypto exchange",
+        "cyberattack",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3258,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 843,
       "user": "JohnHeibel"
     },
     {
@@ -3273,23 +3201,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 793,
       "user": "riba2534"
-    },
-    {
-      "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
-      "url": "https://github.com/rmalde/minecraft-agent",
-      "published_at": "2026-09-20T05:05:12Z",
-      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
-      "source": "GitHub",
-      "stars": 545,
-      "user": "rmalde"
     },
     {
       "title": "dgreenheck/tidewater - Coastal town built with Opus 5.5",
@@ -3303,8 +3216,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 578,
       "user": "dgreenheck"
+    },
+    {
+      "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "published_at": "2026-09-20T05:05:12Z",
+      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
+      "source": "GitHub",
+      "stars": 546,
+      "user": "rmalde"
     },
     {
       "title": "maanHimself/OpenDLSS-NR - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
@@ -3318,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 392,
       "user": "maanHimself"
     },
     {
@@ -3333,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6283,
+      "stars": 6306,
       "user": "mizorewww"
     },
     {
@@ -3348,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1451,
       "user": "mizorewww"
     },
     {
@@ -3363,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1442,
       "user": "newliver666"
     },
     {
@@ -3378,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1141,
       "user": "Contrastive-LM"
     },
     {
@@ -3393,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1016,
       "user": "deepopen-com"
     },
     {
@@ -3408,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 1918,
       "user": "unreallabsai"
     },
     {
@@ -3423,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 789,
       "user": "kryvora-network"
     },
     {
@@ -3438,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 772,
       "user": "yetone"
     },
     {
@@ -3453,23 +3381,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/287139448?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 255,
       "user": "HyNetworks"
     },
     {
-      "title": "dorkitude/webctl - Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
-      "url": "https://github.com/dorkitude/webctl",
-      "published_at": "2026-09-20T07:27:00Z",
-      "description": "Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
+      "title": "mitkox/esf - Self-hosted engineering software factory: Temporal, CubeSandbox agents, deterministic verification and durable evidence. MIT-licensed Machinist fork.",
+      "url": "https://github.com/mitkox/esf",
+      "published_at": "2026-09-19T16:07:54Z",
+      "description": "Self-hosted engineering software factory: Temporal, CubeSandbox agents, deterministic verification and durable evidence. MIT-licensed Machinist fork.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/157717?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/43349905?v=4",
       "source": "GitHub",
-      "stars": 143,
-      "user": "dorkitude"
+      "stars": 145,
+      "user": "mitkox"
     },
     {
       "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
@@ -3483,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6743,
+      "stars": 6759,
       "user": "zai-org"
     },
     {
@@ -3498,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 935,
       "user": "mikehasa"
     },
     {
@@ -3513,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 611,
       "user": "anishfn"
     },
     {
@@ -3528,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 465,
       "user": "receptron"
     },
     {
@@ -3543,8 +3471,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 302,
       "user": "Alex314618-create"
+    },
+    {
+      "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "url": "https://github.com/tobi/disktree",
+      "published_at": "2026-09-24T20:56:29Z",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
+      "source": "GitHub",
+      "stars": 692,
+      "user": "tobi"
     },
     {
       "title": "Haleclipse/CometixCode - An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
@@ -3562,64 +3505,61 @@
       "user": "Haleclipse"
     },
     {
-      "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-      "url": "https://github.com/tobi/disktree",
-      "published_at": "2026-09-24T20:56:29Z",
-      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "title": "penso/herdr-gpui - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+      "url": "https://github.com/penso/herdr-gpui",
+      "published_at": "2026-09-20T05:22:39Z",
+      "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7703?v=4",
       "source": "GitHub",
-      "stars": 478,
-      "user": "tobi"
+      "stars": 208,
+      "user": "penso"
     },
     {
-      "title": "BridgeDruidCompress/TauriKit - Modern UI component kit for Rust desktop applications",
-      "url": "https://github.com/BridgeDruidCompress/TauriKit",
-      "published_at": "2026-09-23T11:21:48Z",
-      "description": "Modern UI component kit for Rust desktop applications",
+      "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
+      "url": "https://github.com/OnlistTeam/ai-manager",
+      "published_at": "2026-09-21T05:07:53Z",
+      "description": "AI Manager desktop application for AI coding tools",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307794066?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 224,
-      "user": "BridgeDruidCompress"
+      "stars": 206,
+      "user": "OnlistTeam"
     },
     {
-      "title": "AutocratGirder/ClashDesk - Modern cross-platform desktop client for proxy workflows",
-      "url": "https://github.com/AutocratGirder/ClashDesk",
-      "published_at": "2026-09-23T11:21:44Z",
-      "description": "Modern cross-platform desktop client for proxy workflows",
+      "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+      "url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
+      "published_at": "2026-09-24T15:44:42Z",
+      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307795303?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 224,
-      "user": "AutocratGirder"
+      "stars": 202,
+      "user": "jankeesvw"
     },
     {
-      "title": "BinaryDeliverer/CodexDesk - Desktop companion for AI coding agents and Codex workflows",
-      "url": "https://github.com/BinaryDeliverer/CodexDesk",
-      "published_at": "2026-09-23T11:21:44Z",
-      "description": "Desktop companion for AI coding agents and Codex workflows",
+      "title": "AI is not “just a tool”",
+      "url": "https://brettcodes.com/ai-is-not-just-a-tool/",
+      "published_at": "2026-09-25T06:12:22.776-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "vibecoding"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307794984?v=4",
-      "source": "GitHub",
-      "stars": 223,
-      "user": "BinaryDeliverer"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
     },
     {
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
