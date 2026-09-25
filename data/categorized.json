@@ -61,21 +61,6 @@
       "user": "Remigiusz Samborski"
     },
     {
-      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
-      "published_at": "2026-09-23T20:59:28Z",
-      "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
-      "tags": [
-        "devchallenge",
-        "kagglebenchmarkchallenge",
-        "machinelearning",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
       "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
       "published_at": "2026-09-24T02:00:37Z",
@@ -117,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
+      "published_at": "2026-09-23T20:59:28Z",
+      "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
+      "tags": [
+        "devchallenge",
+        "kagglebenchmarkchallenge",
+        "machinelearning",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
@@ -162,21 +162,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
       "source": "Dev.to",
       "user": "Uri Shmueli"
-    },
-    {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
-      "published_at": "2026-09-20T13:44:05Z",
-      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
-      "tags": [
-        "ai",
-        "devsecops",
-        "github",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
@@ -297,6 +282,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "maanHimself"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1442,
       "user": "mizorewww"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1879,
+      "stars": 1885,
       "user": "unreallabsai"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6713,
+      "stars": 6725,
       "user": "zai-org"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 895,
       "user": "mikehasa"
     },
     {
@@ -804,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "Alex314618-create"
     },
     {
@@ -845,6 +845,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Tymscar"
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "published_at": "2026-09-25T05:00:00.000Z",
+      "description": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Exclusive",
+        "lightspeed"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
@@ -923,21 +939,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "published_at": "2026-09-24T16:46:47.000Z",
-      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "TechCrunch Founder Summit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "Inside SeaHack: 24 Hours to Build an AI Startup",
@@ -1250,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 785,
       "user": "riba2534"
     },
     {
@@ -1265,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 748,
       "user": "JohnHeibel"
     },
     {
@@ -1295,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 458,
       "user": "dgreenheck"
     },
     {
@@ -1310,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "maanHimself"
     },
     {
@@ -1325,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 729,
       "user": "kryvora-network"
     },
     {
@@ -1340,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6713,
+      "stars": 6725,
       "user": "zai-org"
     },
     {
@@ -1355,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 895,
       "user": "mikehasa"
     },
     {
@@ -1370,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 588,
       "user": "anishfn"
     },
     {
@@ -1385,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 438,
       "user": "receptron"
     },
     {
@@ -1400,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "Alex314618-create"
     },
     {
@@ -1437,7 +1438,7 @@
       "title": "How can I set up my classes so that I can perform operations with them? In Javascript",
       "url": "https://stackoverflow.com/questions/80005511/how-can-i-set-up-my-classes-so-that-i-can-perform-operations-with-them-in-javas",
       "published_at": "2026-09-24T12:46:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "class",
@@ -1534,18 +1535,16 @@
       "user": "Roshani Shrestha"
     },
     {
-      "title": "Validate decimal numbers in JavaScript - IsNumeric()",
-      "url": "https://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric",
-      "published_at": "2008-08-20T14:21:13.000Z",
-      "description": "Stack Overflow question · 53 answers · score 2575",
+      "title": "Vue 3 Reactivity + shallowRef",
+      "url": "https://stackoverflow.com/questions/80000995/vue-3-reactivity-shallowref",
+      "published_at": "2026-08-27T11:42:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "javascript",
-        "validation",
-        "numbers"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Michael Haren"
+      "user": "Maulik Paneliya"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1817,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6224,
+      "stars": 6246,
       "user": "mizorewww"
     },
     {
@@ -1832,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1442,
       "user": "mizorewww"
     },
     {
@@ -1847,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1427,
       "user": "newliver666"
     },
     {
@@ -1862,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1011,
       "user": "deepopen-com"
     },
     {
@@ -1877,14 +1876,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 922,
       "user": "Contrastive-LM"
     },
     {
       "title": "Thonny IDE freezes on launch or loads blank files from ESP32/MicroPython on macOS with Python 3.14",
       "url": "https://stackoverflow.com/questions/80005645/thonny-ide-freezes-on-launch-or-loads-blank-files-from-esp32-micropython-on-maco",
       "published_at": "2026-09-24T21:55:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
         "macos",
@@ -2084,21 +2083,6 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
-      "published_at": "2026-09-20T13:44:05Z",
-      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
-      "tags": [
-        "ai",
-        "devsecops",
-        "github",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
       "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
       "published_at": "2026-09-22T15:14:36Z",
@@ -2112,6 +2096,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2319,7 +2318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 895,
       "user": "mikehasa"
     },
     {
@@ -2449,7 +2448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1427,
       "user": "newliver666"
     },
     {
@@ -2475,6 +2474,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dimonomid"
+    },
+    {
+      "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
+      "url": "https://inoti.fyi/",
+      "published_at": "2026-09-24T21:50:41.729-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "sneela"
     },
     {
       "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
@@ -2791,7 +2802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6224,
+      "stars": 6246,
       "user": "mizorewww"
     },
     {
@@ -2835,7 +2846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 895,
       "user": "mikehasa"
     },
     {
@@ -3014,18 +3025,16 @@
       "user": "winter"
     },
     {
-      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
-      "published_at": "2026-09-23T09:34:37.015-05:00",
+      "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
+      "url": "https://inoti.fyi/",
+      "published_at": "2026-09-24T21:50:41.729-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "distributed",
-        "security",
-        "vcs"
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "tuxes"
+      "user": "sneela"
     }
   ],
   "Tools": [
@@ -3058,21 +3067,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
       "source": "Dev.to",
       "user": "Uri Shmueli"
-    },
-    {
-      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
-      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
-      "published_at": "2026-09-20T13:44:05Z",
-      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
-      "tags": [
-        "ai",
-        "devsecops",
-        "github",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
@@ -3118,6 +3112,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
+      "published_at": "2026-09-20T13:44:05Z",
+      "description": "A four-stage DevSecOps CI/CD architecture for securing enterprise AI agents with GitHub Actions, secret scanning, AI-assisted review, Veracode SCA, and Pipeline SAST.",
+      "tags": [
+        "ai",
+        "devsecops",
+        "github",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
@@ -3257,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 785,
       "user": "riba2534"
     },
     {
@@ -3272,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 748,
       "user": "JohnHeibel"
     },
     {
@@ -3302,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 458,
       "user": "dgreenheck"
     },
     {
@@ -3317,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "maanHimself"
     },
     {
@@ -3332,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6224,
+      "stars": 6246,
       "user": "mizorewww"
     },
     {
@@ -3347,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1442,
       "user": "mizorewww"
     },
     {
@@ -3362,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1427,
       "user": "newliver666"
     },
     {
@@ -3377,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1011,
       "user": "deepopen-com"
     },
     {
@@ -3392,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 922,
       "user": "Contrastive-LM"
     },
     {
@@ -3407,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1879,
+      "stars": 1885,
       "user": "unreallabsai"
     },
     {
@@ -3422,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 729,
       "user": "kryvora-network"
     },
     {
@@ -3437,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 689,
       "user": "yetone"
     },
     {
@@ -3482,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6713,
+      "stars": 6725,
       "user": "zai-org"
     },
     {
@@ -3497,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 895,
       "user": "mikehasa"
     },
     {
@@ -3512,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 588,
       "user": "anishfn"
     },
     {
@@ -3527,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 438,
       "user": "receptron"
     },
     {
@@ -3542,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 307,
       "user": "Alex314618-create"
     },
     {
@@ -3557,8 +3566,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 543,
       "user": "Haleclipse"
+    },
+    {
+      "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "url": "https://github.com/tobi/disktree",
+      "published_at": "2026-09-24T20:56:29Z",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "tobi"
     },
     {
       "title": "BridgeDruidCompress/TauriKit - Modern UI component kit for Rust desktop applications",
@@ -3604,21 +3628,6 @@
       "source": "GitHub",
       "stars": 223,
       "user": "BinaryDeliverer"
-    },
-    {
-      "title": "BricklayerSurmount/DockForge - Flexible dock and panel layout system for desktop apps",
-      "url": "https://github.com/BricklayerSurmount/DockForge",
-      "published_at": "2026-09-23T11:21:45Z",
-      "description": "Flexible dock and panel layout system for desktop apps",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307793905?v=4",
-      "source": "GitHub",
-      "stars": 223,
-      "user": "BricklayerSurmount"
     },
     {
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
