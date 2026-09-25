@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 394,
       "user": "maanHimself"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1451,
+      "stars": 1461,
       "user": "mizorewww"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 1929,
       "user": "unreallabsai"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6759,
+      "stars": 6768,
       "user": "zai-org"
     },
     {
@@ -776,23 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 945,
       "user": "mikehasa"
     },
     {
-      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "url": "https://github.com/Alex314618-create/JevRev",
-      "published_at": "2026-09-21T01:53:13Z",
-      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "title": "Inkloom-art/inkloom - Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "url": "https://github.com/Inkloom-art/inkloom",
+      "published_at": "2026-09-20T07:54:30Z",
+      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
       "source": "GitHub",
-      "stars": 302,
-      "user": "Alex314618-create"
+      "stars": 307,
+      "user": "Inkloom-art"
     },
     {
       "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 220,
       "user": "OnlistTeam"
     },
     {
@@ -823,18 +823,6 @@
       "user": "joshka"
     },
     {
-      "title": "LLM Policies: Progress At All Costs",
-      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
-      "published_at": "2026-09-25T07:30:36.039-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
-    },
-    {
       "title": "Goodbye Google",
       "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
       "published_at": "2026-09-25T00:51:12.558-05:00",
@@ -848,9 +836,9 @@
       "user": "classichasclass"
     },
     {
-      "title": "AI is not “just a tool”",
-      "url": "https://brettcodes.com/ai-is-not-just-a-tool/",
-      "published_at": "2026-09-25T06:12:22.776-05:00",
+      "title": "LLM Policies: Progress At All Costs",
+      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+      "published_at": "2026-09-25T07:30:36.039-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
         "vibecoding"
@@ -860,80 +848,168 @@
       "user": "FedericoSchonborn"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "published_at": "2026-09-25T15:00:00.000Z",
-      "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "published_at": "2026-09-25T09:44:57.530-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "TC",
-        "Startups",
+        "ruby",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nick4"
+    },
+    {
+      "title": "What kind of regulair expression captures the root of a URL (Uniform Resource Locator)?",
+      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regulair-expression-captures-the-root-of-a-url-uniform-resource-lo",
+      "published_at": "2026-09-25T19:09:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "regex",
+        "regular-language"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toothpick Anemone"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "published_at": "2026-09-25T19:13:38.000Z",
+      "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "tags": [
         "AI",
-        "TechCrunch Disrupt",
-        "Ricursive Intelligence"
+        "TC",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-25T18:48:33.000Z",
+      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Media & Entertainment"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
     },
     {
-      "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-      "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
-      "published_at": "2026-09-25T14:05:04.000Z",
-      "description": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "meadow",
-        "smartphones"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "published_at": "2026-09-25T05:00:00.000Z",
-      "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "published_at": "2026-09-25T18:33:59.000Z",
+      "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
       "tags": [
         "AI",
-        "Startups",
         "Venture",
-        "Exclusive",
-        "lightspeed"
+        "In Brief",
+        "nscale"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Marina Temkin"
     },
     {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "published_at": "2026-09-24T19:15:00.000Z",
-      "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "title": "Some Supabase customers are publicly exposing reams of people&#8217;s data to the web",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "published_at": "2026-09-25T17:29:46.000Z",
+      "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "tags": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "data exposure",
+        "Supabase"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Astra and Opus just passed Turing&#8217;s other test",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "published_at": "2026-09-25T17:24:36.000Z",
+      "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Astra",
+        "OpenAI",
+        "Opus"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "published_at": "2026-09-25T16:16:52.000Z",
+      "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
       "tags": [
         "AI",
         "Apps",
-        "Biotech & Health",
-        "Climate",
-        "Crypto"
+        "Social",
+        "Meta",
+        "muse"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "TechCrunch Events"
+      "user": "Sarah Perez"
     },
     {
-      "title": "Inside SeaHack: 24 Hours to Build an AI Startup",
-      "url": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
-      "published_at": "2026-09-24T18:53:36.000Z",
-      "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "published_at": "2026-09-25T16:00:00.000Z",
+      "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
       "tags": [
-        "hackathon",
-        "youtube"
+        "AI",
+        "AI agents",
+        "consumer AI",
+        "Meta",
+        "muse"
       ],
       "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Kiteworks urges customers to shut down their servers amid &#8216;imminent&#8217; threat of cyberattack",
+      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+      "published_at": "2026-09-25T15:52:13.000Z",
+      "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "Kiteworks"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "published_at": "2026-09-25T15:48:14.000Z",
+      "description": "The latest unauthorized agent swarms were discovered by researchers.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1233,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 865,
       "user": "JohnHeibel"
     },
     {
@@ -1263,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 599,
       "user": "dgreenheck"
     },
     {
@@ -1293,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 394,
       "user": "maanHimself"
     },
     {
@@ -1308,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 811,
       "user": "kryvora-network"
     },
     {
@@ -1323,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6759,
+      "stars": 6768,
       "user": "zai-org"
     },
     {
@@ -1338,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 945,
       "user": "mikehasa"
     },
     {
@@ -1353,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 617,
       "user": "anishfn"
     },
     {
@@ -1368,29 +1444,74 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "receptron"
     },
     {
-      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "url": "https://github.com/Alex314618-create/JevRev",
-      "published_at": "2026-09-21T01:53:13Z",
-      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "title": "Inkloom-art/inkloom - Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "url": "https://github.com/Inkloom-art/inkloom",
+      "published_at": "2026-09-20T07:54:30Z",
+      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
       "source": "GitHub",
-      "stars": 302,
-      "user": "Alex314618-create"
+      "stars": 307,
+      "user": "Inkloom-art"
+    },
+    {
+      "title": "I'm new to React, what is causing these errors?",
+      "url": "https://stackoverflow.com/questions/80005849/im-new-to-react-what-is-causing-these-errors",
+      "published_at": "2026-09-25T15:35:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rajveer Singh Kaler"
+    },
+    {
+      "title": "K6 - Split dataset among VUs without overlap",
+      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
+      "published_at": "2026-09-25T14:21:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "performance",
+        "go",
+        "testing",
+        "k6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Antares"
+    },
+    {
+      "title": "Error: Calling setState synchronously within an effect can trigger cascading renders",
+      "url": "https://stackoverflow.com/questions/80005734/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
+      "published_at": "2026-09-25T08:49:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "react-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pankaj Choudhary"
     },
     {
       "title": "Uncaught Error: prompt() is not supported",
       "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
       "published_at": "2026-09-25T08:18:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
+      "description": "Stack Overflow question · 3 answers · score -4",
       "tags": [
         "javascript"
       ],
@@ -1402,7 +1523,7 @@
       "title": "React form doesn't submit when pressing Enter in an input field",
       "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
       "published_at": "2026-09-25T09:58:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -3",
       "tags": [
         "javascript",
         "reactjs"
@@ -1410,19 +1531,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ehan Siddique"
-    },
-    {
-      "title": "Error: Calling setState synchronously within an effect can trigger cascading renders",
-      "url": "https://stackoverflow.com/questions/80005734/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
-      "published_at": "2026-09-25T08:49:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pankaj Choudhary"
     },
     {
       "title": "3D tilt effect with JS working only in highly specific areas of the element",
@@ -1497,34 +1605,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Realto619"
-    },
-    {
-      "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
-      "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
-      "published_at": "2026-09-15T04:52:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "javascript",
-        "angular",
-        "google-chrome",
-        "browser",
-        "microsoft-edge"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tutte2k"
-    },
-    {
-      "title": "How can I get \"stringified\" object with nested objects?",
-      "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
-      "published_at": "2026-09-18T20:32:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "LUN"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1796,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6306,
+      "stars": 6322,
       "user": "mizorewww"
     },
     {
@@ -1811,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1451,
+      "stars": 1461,
       "user": "mizorewww"
     },
     {
@@ -1826,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1453,
       "user": "newliver666"
     },
     {
@@ -1841,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1141,
+      "stars": 1208,
       "user": "Contrastive-LM"
     },
     {
@@ -1860,16 +1940,44 @@
       "user": "deepopen-com"
     },
     {
+      "title": "What kind of regulair expression captures the root of a URL (Uniform Resource Locator)?",
+      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regulair-expression-captures-the-root-of-a-url-uniform-resource-lo",
+      "published_at": "2026-09-25T19:09:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "regex",
+        "regular-language"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toothpick Anemone"
+    },
+    {
       "title": "Where is the Python documentation for handling ties with the built-in min function?",
       "url": "https://stackoverflow.com/questions/80005838/where-is-the-python-documentation-for-handling-ties-with-the-built-in-min-functi",
       "published_at": "2026-09-25T14:26:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "heretoinfinity"
+    },
+    {
+      "title": "Correcting faulty N-body simulation using velocity Verlet integration",
+      "url": "https://stackoverflow.com/questions/80005775/correcting-faulty-n-body-simulation-using-velocity-verlet-integration",
+      "published_at": "2026-09-25T10:59:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "numerical-methods",
+        "astronomy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe_Hudson"
     },
     {
       "title": "JAX FFI handler does not find my CUDA function exported with nanobind",
@@ -1886,20 +1994,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "alo bre"
-    },
-    {
-      "title": "Correcting faulty N-body simulation using velocity Verlet integration",
-      "url": "https://stackoverflow.com/questions/80005775/correcting-faulty-n-body-simulation-using-velocity-verlet-integration",
-      "published_at": "2026-09-25T10:59:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "numerical-methods",
-        "astronomy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe_Hudson"
     },
     {
       "title": "Correct type annotation for default initialisation with generic dataclass inheritance",
@@ -1919,7 +2013,7 @@
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
       "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
       "published_at": "2026-09-23T18:45:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "edi",
@@ -1947,7 +2041,7 @@
       "title": "Flet app doesn't display when run due to exception",
       "url": "https://stackoverflow.com/questions/80005418/flet-app-doesnt-display-when-run-due-to-exception",
       "published_at": "2026-09-24T07:08:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "flet"
@@ -1955,20 +2049,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33152660"
-    },
-    {
-      "title": "I'm trying to import cs50 in my program on VS Code, it keeps reporting: Warning. import \"cs50\" could not be resolved",
-      "url": "https://stackoverflow.com/questions/80005440/im-trying-to-import-cs50-in-my-program-on-vs-code-it-keeps-reporting-warning",
-      "published_at": "2026-09-24T08:10:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "vs-code",
-        "cs50"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adam Usman"
     },
     {
       "title": "How do I change sprites while they're not moving?",
@@ -1984,17 +2064,18 @@
       "user": "penis zalupenko"
     },
     {
-      "title": "How to catch keypress event on arrow keys, and stop them from moving focus?",
-      "url": "https://stackoverflow.com/questions/80005369/how-to-catch-keypress-event-on-arrow-keys-and-stop-them-from-moving-focus",
-      "published_at": "2026-09-23T22:38:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "I'm trying to import cs50 in my program on VS Code, it keeps reporting: Warning. import \"cs50\" could not be resolved",
+      "url": "https://stackoverflow.com/questions/80005440/im-trying-to-import-cs50-in-my-program-on-vs-code-it-keeps-reporting-warning",
+      "published_at": "2026-09-24T08:10:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
-        "pyqt6"
+        "vs-code",
+        "cs50"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Iain"
+      "user": "Adam Usman"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2296,7 +2377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 945,
       "user": "mikehasa"
     },
     {
@@ -2399,7 +2480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1453,
       "user": "newliver666"
     },
     {
@@ -2413,30 +2494,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tusharhero"
-    },
-    {
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "published_at": "2026-09-24T13:43:01.847-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "android"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dimonomid"
-    },
-    {
-      "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
-      "url": "https://inoti.fyi/",
-      "published_at": "2026-09-24T21:50:41.729-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "sneela"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
@@ -2721,8 +2778,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6306,
+      "stars": 6322,
       "user": "mizorewww"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "published_at": "2026-09-25T19:13:38.000Z",
+      "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "published_at": "2026-09-25T18:33:59.000Z",
+      "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
+      "tags": [
+        "AI",
+        "Venture",
+        "In Brief",
+        "nscale"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     }
   ],
   "Database": [
@@ -2750,8 +2836,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 945,
       "user": "mikehasa"
+    },
+    {
+      "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "published_at": "2026-09-25T15:48:14.000Z",
+      "description": "The latest unauthorized agent swarms were discovered by researchers.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
@@ -2929,28 +3028,31 @@
       "user": "winter"
     },
     {
-      "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
-      "url": "https://inoti.fyi/",
-      "published_at": "2026-09-24T21:50:41.729-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Some Supabase customers are publicly exposing reams of people&#8217;s data to the web",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "published_at": "2026-09-25T17:29:46.000Z",
+      "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
       "tags": [
-        "security"
+        "AI",
+        "Security",
+        "cybersecurity",
+        "data exposure",
+        "Supabase"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "sneela"
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
-      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
-      "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-      "published_at": "2026-09-25T13:24:34.000Z",
-      "description": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+      "title": "Kiteworks urges customers to shut down their servers amid &#8216;imminent&#8217; threat of cyberattack",
+      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+      "published_at": "2026-09-25T15:52:13.000Z",
+      "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
       "tags": [
-        "Crypto",
         "Security",
-        "crypto exchange",
         "cyberattack",
-        "cybersecurity"
+        "cybersecurity",
+        "Kiteworks"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3186,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 865,
       "user": "JohnHeibel"
     },
     {
@@ -3216,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 599,
       "user": "dgreenheck"
     },
     {
@@ -3246,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 394,
       "user": "maanHimself"
     },
     {
@@ -3261,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 6306,
+      "stars": 6322,
       "user": "mizorewww"
     },
     {
@@ -3276,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1451,
+      "stars": 1461,
       "user": "mizorewww"
     },
     {
@@ -3291,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328839634?v=4",
       "source": "GitHub",
-      "stars": 1442,
+      "stars": 1453,
       "user": "newliver666"
     },
     {
@@ -3306,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1141,
+      "stars": 1208,
       "user": "Contrastive-LM"
     },
     {
@@ -3336,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 1929,
       "user": "unreallabsai"
     },
     {
@@ -3351,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 811,
       "user": "kryvora-network"
     },
     {
@@ -3366,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 792,
       "user": "yetone"
     },
     {
@@ -3396,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/43349905?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "mitkox"
     },
     {
@@ -3411,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6759,
+      "stars": 6768,
       "user": "zai-org"
     },
     {
@@ -3426,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 945,
       "user": "mikehasa"
     },
     {
@@ -3441,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 617,
       "user": "anishfn"
     },
     {
@@ -3456,23 +3558,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/168242058?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "receptron"
     },
     {
-      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "url": "https://github.com/Alex314618-create/JevRev",
-      "published_at": "2026-09-21T01:53:13Z",
-      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "title": "Inkloom-art/inkloom - Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "url": "https://github.com/Inkloom-art/inkloom",
+      "published_at": "2026-09-20T07:54:30Z",
+      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
       "source": "GitHub",
-      "stars": 302,
-      "user": "Alex314618-create"
+      "stars": 307,
+      "user": "Inkloom-art"
     },
     {
       "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
@@ -3486,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 817,
       "user": "tobi"
     },
     {
@@ -3501,38 +3603,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 548,
       "user": "Haleclipse"
-    },
-    {
-      "title": "penso/herdr-gpui - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
-      "url": "https://github.com/penso/herdr-gpui",
-      "published_at": "2026-09-20T05:22:39Z",
-      "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7703?v=4",
-      "source": "GitHub",
-      "stars": 208,
-      "user": "penso"
-    },
-    {
-      "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
-      "url": "https://github.com/OnlistTeam/ai-manager",
-      "published_at": "2026-09-21T05:07:53Z",
-      "description": "AI Manager desktop application for AI coding tools",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
-      "source": "GitHub",
-      "stars": 206,
-      "user": "OnlistTeam"
     },
     {
       "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
@@ -3546,26 +3618,60 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 228,
       "user": "jankeesvw"
     },
     {
-      "title": "AI is not “just a tool”",
-      "url": "https://brettcodes.com/ai-is-not-just-a-tool/",
-      "published_at": "2026-09-25T06:12:22.776-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
+      "url": "https://github.com/OnlistTeam/ai-manager",
+      "published_at": "2026-09-21T05:07:53Z",
+      "description": "AI Manager desktop application for AI coding tools",
       "tags": [
-        "vibecoding"
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
+      "source": "GitHub",
+      "stars": 220,
+      "user": "OnlistTeam"
+    },
+    {
+      "title": "penso/herdr-gpui - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+      "url": "https://github.com/penso/herdr-gpui",
+      "published_at": "2026-09-20T05:22:39Z",
+      "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7703?v=4",
+      "source": "GitHub",
+      "stars": 210,
+      "user": "penso"
+    },
+    {
+      "title": "K6 - Split dataset among VUs without overlap",
+      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
+      "published_at": "2026-09-25T14:21:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "performance",
+        "go",
+        "testing",
+        "k6"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "source": "StackOverflow",
+      "user": "Antares"
     },
     {
       "title": "X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file",
       "url": "https://stackoverflow.com/questions/80005326/x12-edi-tools-validator-disagrees-with-x12-tidy-on-the-validity-of-an-x12-810-fi",
       "published_at": "2026-09-23T18:45:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "edi",
