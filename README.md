@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--09--26-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,26 +21,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-26 8:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-26 13:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-odj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8b68f4vboousukpjouay.jpg" width="200" alt="What was your win this week!?" />
+    <a href="https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkefqnwarmqoxiv5dy8n.jpg" width="200" alt="Disappeared Since March: Taking a Long Break Was My Best Decision Yet" />
       <br/>
-      <b>What was your win this week!?</b>
+      <b>Disappeared Since March: Taking a Long Break Was M...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkefqnwarmqoxiv5dy8n.jpg" width="200" alt="Disappeared Since March: Taking a Long Break Was My Best Decision Yet" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-odj">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8b68f4vboousukpjouay.jpg" width="200" alt="What was your win this week!?" />
       <br/>
-      <b>Disappeared Since March: Taking a Long Break Was M...</b>
+      <b>What was your win this week!?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,8 +92,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odj) | Dev.to |
-| 2 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
+| 1 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
+| 2 | [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odj) | Dev.to |
 | 3 | [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd) | Dev.to |
 | 4 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
 | 5 | [Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)](https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Equip your agent with Google Cloud best practices using google-cloud-developer plugin](https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1) | Dev.to |
 | 20 | [What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0) | Dev.to |
 
-<sub>Last fetched: Sat, 26 Sep 2026 08:05:58 CAT</sub>
+<sub>Last fetched: Sat, 26 Sep 2026 13:20:32 CAT</sub>
 
 
 ---
@@ -122,18 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What is the difference between abstract class and interface?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Multiple inheritance, method implementation, use cases
-
-</details>
-
-**2. `JavaScript` — Implement a debounce function from scratch**
+**1. `JavaScript` — Implement a debounce function from scratch**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
 
@@ -144,14 +133,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**3. `React` — What is the Virtual DOM and how does React use it?**
+**2. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Function + lexical environment, data privacy, callbacks
+
+</details>
+
+**3. `Python` — What is the difference between list and tuple in Python?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Mutability, performance, use cases
 
 </details>
 
@@ -164,14 +164,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.3% | `████████████████████` |
-| **Tools** | 44 | 23.9% | `████████████░░░░░░░░` |
-| **JavaScript** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **AI** | 77 | 41.8% | `████████████████████` |
+| **Tools** | 43 | 23.4% | `███████████░░░░░░░░░` |
+| **JavaScript** | 40 | 21.7% | `██████████░░░░░░░░░░` |
 | **Python** | 35 | 19.0% | `█████████░░░░░░░░░░░` |
 | **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -194,14 +194,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.8%
-Python          ██████████████████████████ 24.3%
-Go              ███████████████████████ 21.5%
-Java            █████████████████████ 19.4%
-Rust            █████ 4.2%
+JavaScript      ██████████████████████████████ 28.2%
+Python          ██████████████████████████ 24.6%
+Go              ██████████████████████ 21.1%
+Java            █████████████████████ 19.7%
+Rust            ████ 4.2%
 CSharp          █ 0.7%
 Ruby            █ 0.7%
-Kotlin          █ 0.7%
 Swift           █ 0.7%
 
 ```
@@ -210,12 +209,12 @@ Swift           █ 0.7%
 pie title Programming Languages Distribution
     "JavaScript" : 40
     "Python" : 35
-    "Go" : 31
+    "Go" : 30
     "Java" : 28
     "Rust" : 6
     "CSharp" : 1
     "Ruby" : 1
-    "Kotlin" : 1
+    "Swift" : 1
 ```
 
 
@@ -273,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 26 Sep 2026 06:05:58 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 26 Sep 2026 11:20:32 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
