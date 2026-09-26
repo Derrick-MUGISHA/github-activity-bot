@@ -134,21 +134,6 @@
       "user": "Uri Shmueli"
     },
     {
-      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
-      "published_at": "2026-09-24T11:55:12Z",
-      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
-      "tags": [
-        "ai",
-        "agents",
-        "agentskills",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
       "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
       "published_at": "2026-09-20T19:48:39Z",
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "maanHimself"
     },
     {
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 774,
       "user": "nokia-applied-research"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 715,
       "user": "yukitorido"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1953,
+      "stars": 1956,
       "user": "unreallabsai"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6811,
+      "stars": 6820,
       "user": "zai-org"
     },
     {
@@ -821,23 +806,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 970,
       "user": "mikehasa"
     },
     {
-      "title": "Inkloom-art/inkloom - Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
-      "url": "https://github.com/Inkloom-art/inkloom",
-      "published_at": "2026-09-20T07:54:30Z",
-      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "published_at": "2026-09-25T22:48:14Z",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 333,
-      "user": "Inkloom-art"
+      "stars": 359,
+      "user": "supermemoryai"
     },
     {
       "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 285,
       "user": "OnlistTeam"
     },
     {
@@ -881,29 +866,20 @@
       "user": "classichasclass"
     },
     {
-      "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-      "url": "https://greasyfork.org/en/scripts?by=1646191",
-      "published_at": "2026-09-25T00:33:53.765-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "published_at": "2026-09-26T14:00:00.000Z",
+      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
       "tags": [
-        "meta",
-        "vibecoding"
+        "Startups",
+        "Venture",
+        "AI",
+        "Synthesia",
+        "AI avatars"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "joshka"
-    },
-    {
-      "title": "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
-      "url": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/",
-      "published_at": "2026-09-26T01:10:13.457-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "hardware"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "stilic"
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
@@ -1324,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 993,
       "user": "JohnHeibel"
     },
     {
@@ -1339,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 807,
       "user": "riba2534"
     },
     {
@@ -1354,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 685,
       "user": "dgreenheck"
     },
     {
@@ -1369,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 553,
       "user": "rmalde"
     },
     {
@@ -1384,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "maanHimself"
     },
     {
@@ -1399,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 856,
       "user": "kryvora-network"
     },
     {
@@ -1429,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6811,
+      "stars": 6820,
       "user": "zai-org"
     },
     {
@@ -1444,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 970,
       "user": "mikehasa"
     },
     {
@@ -1459,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 670,
       "user": "anishfn"
     },
     {
@@ -1474,23 +1450,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 421,
       "user": "alexgreensh"
     },
     {
-      "title": "Inkloom-art/inkloom - Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
-      "url": "https://github.com/Inkloom-art/inkloom",
-      "published_at": "2026-09-20T07:54:30Z",
-      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "published_at": "2026-09-25T22:48:14Z",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 333,
-      "user": "Inkloom-art"
+      "stars": 359,
+      "user": "supermemoryai"
+    },
+    {
+      "title": "Elegant way to return a filter function from an HTML element",
+      "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
+      "published_at": "2026-09-26T14:40:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "arrays",
+        "forms",
+        "filter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "The Ratman"
+    },
+    {
+      "title": "How do I randomize the position of bezier vertices?",
+      "url": "https://stackoverflow.com/questions/80006033/how-do-i-randomize-the-position-of-bezier-vertices",
+      "published_at": "2026-09-26T13:57:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "random",
+        "bezier"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aurora Lane"
+    },
+    {
+      "title": "React form doesn't submit when pressing Enter in an input field",
+      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
+      "published_at": "2026-09-25T09:58:06.000Z",
+      "description": "Stack Overflow question · 3 answers · score -3",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ehan Siddique"
     },
     {
       "title": "I'm new to React, what is causing these errors?",
@@ -1550,33 +1569,6 @@
       "user": "Alex"
     },
     {
-      "title": "React form doesn't submit when pressing Enter in an input field",
-      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
-      "published_at": "2026-09-25T09:58:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ehan Siddique"
-    },
-    {
-      "title": "3D tilt effect with JS working only in highly specific areas of the element",
-      "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
-      "published_at": "2026-09-24T10:05:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JacaneU"
-    },
-    {
       "title": "What is the recommended JavaScript approach to parse Data Matrix scan data returned as a string?",
       "url": "https://stackoverflow.com/questions/80005599/what-is-the-recommended-javascript-approach-to-parse-data-matrix-scan-data-retur",
       "published_at": "2026-09-24T18:47:13.000Z",
@@ -1593,36 +1585,6 @@
       "user": "CrimsonReverie"
     },
     {
-      "title": "Encoding issues between Java WebSocket server and JavaScript client",
-      "url": "https://stackoverflow.com/questions/80005262/encoding-issues-between-java-websocket-server-and-javascript-client",
-      "published_at": "2026-09-23T14:06:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "websocket",
-        "client-server",
-        "java-websocket"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pestro"
-    },
-    {
-      "title": "How can I set up my classes so that I can perform operations with them? In Javascript",
-      "url": "https://stackoverflow.com/questions/80005511/how-can-i-set-up-my-classes-so-that-i-can-perform-operations-with-them-in-javas",
-      "published_at": "2026-09-24T12:46:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "class",
-        "object",
-        "addition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aaa"
-    },
-    {
       "title": "Creating a reusable Object from JavaScript array",
       "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
       "published_at": "2026-09-22T21:48:42.000Z",
@@ -1635,6 +1597,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Realto619"
+    },
+    {
+      "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
+      "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
+      "published_at": "2026-09-15T04:52:42.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "javascript",
+        "angular",
+        "google-chrome",
+        "browser",
+        "microsoft-edge"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tutte2k"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1906,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1389,
+      "stars": 1439,
       "user": "Contrastive-LM"
     },
     {
@@ -1921,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1030,
       "user": "deepopen-com"
     },
     {
@@ -1936,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 774,
       "user": "nokia-applied-research"
     },
     {
@@ -1966,8 +1944,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 715,
       "user": "yukitorido"
+    },
+    {
+      "title": "Passing a string of keyword arguments",
+      "url": "https://stackoverflow.com/questions/80006016/passing-a-string-of-keyword-arguments",
+      "published_at": "2026-09-26T12:08:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Is a broadcast variable shared across multiple concurrent Spark jobs?",
@@ -1984,18 +1974,6 @@
       "user": "Nitish N Banakar"
     },
     {
-      "title": "Using `with` and a custom class not setting attributes",
-      "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
-      "published_at": "2026-09-25T22:35:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "What kind of regular expression captures the root of a URL?",
       "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
       "published_at": "2026-09-25T19:09:34.000Z",
@@ -2007,6 +1985,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toothpick Anemone"
+    },
+    {
+      "title": "Using `with` and a custom class not setting attributes",
+      "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
+      "published_at": "2026-09-25T22:35:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How do I correctly type a wrapper that returns a classmethod?",
@@ -2076,20 +2066,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "alo bre"
-    },
-    {
-      "title": "Correct type annotation for default initialisation with generic dataclass inheritance",
-      "url": "https://stackoverflow.com/questions/80005425/correct-type-annotation-for-default-initialisation-with-generic-dataclass-inheri",
-      "published_at": "2026-09-24T07:30:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-typing",
-        "python-dataclasses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "A. Gocht"
     },
     {
       "title": "How to write Python integers to binary file using \"struct.pack\" equivalent to \"unsigned int\" in C++",
@@ -2405,22 +2381,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 970,
       "user": "mikehasa"
     },
     {
-      "title": "3D tilt effect with JS working only in highly specific areas of the element",
-      "url": "https://stackoverflow.com/questions/80005465/3d-tilt-effect-with-js-working-only-in-highly-specific-areas-of-the-element",
-      "published_at": "2026-09-24T10:05:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
+      "title": "Elegant way to return a filter function from an HTML element",
+      "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
+      "published_at": "2026-09-26T14:40:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
+        "best-practices",
         "javascript",
-        "html",
-        "css"
+        "arrays",
+        "forms",
+        "filter"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "JacaneU"
+      "user": "The Ratman"
     }
   ],
   "Mobile": [
@@ -2575,21 +2553,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
-      "published_at": "2026-09-24T11:55:12Z",
-      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
-      "tags": [
-        "ai",
-        "agents",
-        "agentskills",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
@@ -2812,7 +2775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 970,
       "user": "mikehasa"
     },
     {
@@ -3208,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 993,
       "user": "JohnHeibel"
     },
     {
@@ -3223,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 807,
       "user": "riba2534"
     },
     {
@@ -3238,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 685,
       "user": "dgreenheck"
     },
     {
@@ -3253,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 553,
       "user": "rmalde"
     },
     {
@@ -3268,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "maanHimself"
     },
     {
@@ -3283,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1389,
+      "stars": 1439,
       "user": "Contrastive-LM"
     },
     {
@@ -3298,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1030,
       "user": "deepopen-com"
     },
     {
@@ -3313,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 774,
       "user": "nokia-applied-research"
     },
     {
@@ -3343,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 715,
       "user": "yukitorido"
     },
     {
@@ -3358,23 +3321,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1953,
+      "stars": 1956,
       "user": "unreallabsai"
-    },
-    {
-      "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
-      "url": "https://github.com/kryvora-network/kryvora-node",
-      "published_at": "2026-09-22T16:10:23Z",
-      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
-      "source": "GitHub",
-      "stars": 847,
-      "user": "kryvora-network"
     },
     {
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
@@ -3388,8 +3336,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 884,
       "user": "yetone"
+    },
+    {
+      "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
+      "url": "https://github.com/kryvora-network/kryvora-node",
+      "published_at": "2026-09-22T16:10:23Z",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
+      "source": "GitHub",
+      "stars": 856,
+      "user": "kryvora-network"
     },
     {
       "title": "dorkitude/webctl - Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
@@ -3433,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6811,
+      "stars": 6820,
       "user": "zai-org"
     },
     {
@@ -3448,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 970,
       "user": "mikehasa"
     },
     {
@@ -3463,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 670,
       "user": "anishfn"
     },
     {
@@ -3478,23 +3441,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 421,
       "user": "alexgreensh"
     },
     {
-      "title": "Inkloom-art/inkloom - Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
-      "url": "https://github.com/Inkloom-art/inkloom",
-      "published_at": "2026-09-20T07:54:30Z",
-      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "published_at": "2026-09-25T22:48:14Z",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331548160?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 333,
-      "user": "Inkloom-art"
+      "stars": 359,
+      "user": "supermemoryai"
     },
     {
       "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
@@ -3508,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1159,
       "user": "tobi"
     },
     {
@@ -3523,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 554,
       "user": "Haleclipse"
     },
     {
@@ -3538,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 336,
       "user": "ollaya-dev"
     },
     {
@@ -3553,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 285,
       "user": "OnlistTeam"
     },
     {
@@ -3568,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 262,
       "user": "jankeesvw"
     },
     {
@@ -3586,6 +3549,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Antares"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "published_at": "2026-09-26T14:00:00.000Z",
+      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "AI",
+        "Synthesia",
+        "AI avatars"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",

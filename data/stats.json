@@ -1,7 +1,7 @@
 {
-  "total": 184,
+  "total": 183,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 77,
+    "AI": 75,
     "JavaScript": 40,
     "Python": 35,
     "DevOps": 15,
     "WebDev": 5,
     "Mobile": 6,
-    "Cloud": 18,
+    "Cloud": 17,
     "Database": 3,
     "Security": 12,
-    "Tools": 43
+    "Tools": 44
   },
   "by_language": {
     "JavaScript": 40,
@@ -27,17 +27,17 @@
     "Java": 28,
     "Python": 35,
     "CSharp": 1,
-    "Rust": 6,
+    "Rust": 7,
     "Ruby": 1,
     "Swift": 1
   },
   "by_date": {
-    "2026-09-23": 17,
-    "2026-09-25": 30,
-    "2026-09-24": 17,
+    "2026-09-23": 16,
+    "2026-09-25": 27,
+    "2026-09-24": 13,
     "2026-09-22": 12,
     "2026-09-17": 3,
-    "2026-09-20": 13,
+    "2026-09-20": 12,
     "2026-09-18": 5,
     "2026-09-03": 1,
     "2026-09-14": 1,
@@ -47,7 +47,7 @@
     "2026-09-01": 3,
     "2026-09-09": 3,
     "2026-08-27": 1,
-    "2026-09-15": 1,
+    "2026-09-15": 2,
     "2026-09-11": 2,
     "2026-09-04": 1,
     "2026-08-25": 1,
@@ -101,38 +101,38 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2026-09-21": 6,
-    "2026-09-26": 5
+    "2026-09-26": 12
   },
   "top_tags": {
     "github": 26,
-    "ai": 25,
     "open-source": 25,
+    "ai": 24,
     "python": 20,
     "javascript": 18,
-    "AI": 17,
+    "AI": 18,
     "Python": 13,
     "Security": 10,
     "JavaScript": 10,
     "DevOps": 10,
-    "googlecloud": 9,
-    "go": 7,
+    "googlecloud": 8,
+    "go": 8,
     "machinelearning": 7,
+    "rust": 7,
     "webdev": 6,
     "claude": 6,
     "opensource": 6,
     "gemma": 6,
-    "discuss": 6,
-    "programming": 6,
-    "mcp": 6
+    "mcp": 6,
+    "discuss": 6
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "28.2",
-    "Go": "21.1",
-    "Java": "19.7",
-    "Python": "24.6",
+    "JavaScript": "28.0",
+    "Go": "21.0",
+    "Java": "19.6",
+    "Python": "24.5",
     "CSharp": "0.7",
-    "Rust": "4.2",
+    "Rust": "4.9",
     "Ruby": "0.7",
     "Swift": "0.7"
   }
