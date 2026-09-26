@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 428,
       "user": "maanHimself"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "nokia-applied-research"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 730,
       "user": "asokurasu"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1964,
+      "stars": 1965,
       "user": "unreallabsai"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6830,
+      "stars": 6832,
       "user": "zai-org"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 496,
       "user": "supermemoryai"
     },
     {
@@ -851,8 +851,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 316,
       "user": "OnlistTeam"
+    },
+    {
+      "title": "AI Agents Push Humans Out of the Loop",
+      "url": "https://arxiv.org/abs/2608.23642",
+      "published_at": "2026-09-26T14:21:56.883-05:00",
+      "description": "Abstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not only do current approaches to AI agent design impede effective human oversight, but the cognitive capacities required for it are also themselves degraded by extended use of AI systems. This position paper argues that current approaches to the development and deployment of AI agent systems do not support effective human oversight -- they contribute to its degradation. To address this, a top priority in the advancement of AI agents should be supporting the situated goals and cognitive requirements of effective human oversight, treating the human needs of overseers at the same level of importance as AI agent capability. To put this idea into practice, we connect work on automation and human-computer interaction to AI agent processes, outlining design-level affordances and organizational protocols that (1) support overseers in exercising critical judgement and (2) counteract the skill atrophy that arises from extended use of automation. We urge developers and deployers to adopt these or similar approaches. Without explicit support for the cognitive demands of effective human-agent interaction, AI agent systems will continue to passively incentivize the degradation of the very human skills they rely on.",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "typesanitizer"
     },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
@@ -1287,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1041,
       "user": "JohnHeibel"
     },
     {
@@ -1317,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 732,
       "user": "dgreenheck"
     },
     {
@@ -1347,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 428,
       "user": "maanHimself"
     },
     {
@@ -1362,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 885,
       "user": "kryvora-network"
     },
     {
@@ -1392,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6830,
+      "stars": 6832,
       "user": "zai-org"
     },
     {
@@ -1422,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 683,
       "user": "anishfn"
     },
     {
@@ -1437,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 496,
       "user": "supermemoryai"
     },
     {
@@ -1452,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 471,
       "user": "alexgreensh"
     },
     {
@@ -1487,7 +1499,7 @@
       "title": "How should I identify starting players when a confirmed basketball lineup marks every player as substitute: true?",
       "url": "https://stackoverflow.com/questions/80006094/how-should-i-identify-starting-players-when-a-confirmed-basketball-lineup-marks",
       "published_at": "2026-09-26T17:59:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "json",
@@ -1541,19 +1553,6 @@
       "user": "Pankaj Choudhary"
     },
     {
-      "title": "React form doesn't submit when pressing Enter in an input field",
-      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
-      "published_at": "2026-09-25T09:58:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ehan Siddique"
-    },
-    {
       "title": "K6 - Split dataset among VUs without overlap",
       "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
       "published_at": "2026-09-25T14:21:03.000Z",
@@ -1568,6 +1567,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Antares"
+    },
+    {
+      "title": "React form doesn't submit when pressing Enter in an input field",
+      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
+      "published_at": "2026-09-25T09:58:06.000Z",
+      "description": "Stack Overflow question · 3 answers · score -3",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ehan Siddique"
     },
     {
       "title": "Uncaught Error: prompt() is not supported",
@@ -1883,7 +1895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1573,
       "user": "Contrastive-LM"
     },
     {
@@ -1898,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1034,
       "user": "deepopen-com"
     },
     {
@@ -1913,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "nokia-applied-research"
     },
     {
@@ -1928,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 730,
       "user": "asokurasu"
     },
     {
@@ -1947,10 +1959,22 @@
       "user": "yukitorido"
     },
     {
+      "title": "Github terraform to deploy to databricks",
+      "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
+      "published_at": "2026-09-26T22:27:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user28068905"
+    },
+    {
       "title": "Passing a string of keyword arguments",
       "url": "https://stackoverflow.com/questions/80006016/passing-a-string-of-keyword-arguments",
       "published_at": "2026-09-26T12:08:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "python"
       ],
@@ -1973,17 +1997,18 @@
       "user": "Nitish N Banakar"
     },
     {
-      "title": "What kind of regular expression captures the root of a URL?",
-      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
-      "published_at": "2026-09-25T19:09:34.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "title": "How do I correctly type a wrapper that returns a classmethod?",
+      "url": "https://stackoverflow.com/questions/80005905/how-do-i-correctly-type-a-wrapper-that-returns-a-classmethod",
+      "published_at": "2026-09-25T20:07:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "regex"
+        "python-typing",
+        "class-method"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Toothpick Anemone"
+      "user": "User"
     },
     {
       "title": "Type-hinting instance variables",
@@ -2011,18 +2036,17 @@
       "user": "NickC"
     },
     {
-      "title": "How do I correctly type a wrapper that returns a classmethod?",
-      "url": "https://stackoverflow.com/questions/80005905/how-do-i-correctly-type-a-wrapper-that-returns-a-classmethod",
-      "published_at": "2026-09-25T20:07:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "What kind of regular expression captures the root of a URL?",
+      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
+      "published_at": "2026-09-25T19:09:34.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "python",
-        "python-typing",
-        "class-method"
+        "regex"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "User"
+      "user": "Toothpick Anemone"
     },
     {
       "title": "Where is the Python documentation for handling ties with the built-in min function?",
@@ -2065,20 +2089,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "alo bre"
-    },
-    {
-      "title": "Correct type annotation for default initialisation with generic dataclass inheritance",
-      "url": "https://stackoverflow.com/questions/80005425/correct-type-annotation-for-default-initialisation-with-generic-dataclass-inheri",
-      "published_at": "2026-09-24T07:30:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-typing",
-        "python-dataclasses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "A. Gocht"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2308,6 +2318,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "Github terraform to deploy to databricks",
+      "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
+      "published_at": "2026-09-26T22:27:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user28068905"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -3154,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1041,
       "user": "JohnHeibel"
     },
     {
@@ -3184,7 +3206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 732,
       "user": "dgreenheck"
     },
     {
@@ -3214,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 428,
       "user": "maanHimself"
     },
     {
@@ -3229,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1573,
       "user": "Contrastive-LM"
     },
     {
@@ -3244,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1034,
       "user": "deepopen-com"
     },
     {
@@ -3259,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "nokia-applied-research"
     },
     {
@@ -3274,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 730,
       "user": "asokurasu"
     },
     {
@@ -3304,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1964,
+      "stars": 1965,
       "user": "unreallabsai"
     },
     {
@@ -3319,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 1012,
       "user": "yetone"
     },
     {
@@ -3334,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 885,
       "user": "kryvora-network"
     },
     {
@@ -3349,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/157717?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "dorkitude"
     },
     {
@@ -3379,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6830,
+      "stars": 6832,
       "user": "zai-org"
     },
     {
@@ -3409,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 683,
       "user": "anishfn"
     },
     {
@@ -3424,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 496,
       "user": "supermemoryai"
     },
     {
@@ -3439,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 471,
       "user": "alexgreensh"
     },
     {
@@ -3454,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1282,
       "user": "tobi"
     },
     {
@@ -3469,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 564,
       "user": "Haleclipse"
     },
     {
@@ -3484,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 407,
       "user": "ollaya-dev"
     },
     {
@@ -3499,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 316,
       "user": "OnlistTeam"
     },
     {
@@ -3514,21 +3536,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 273,
       "user": "jankeesvw"
-    },
-    {
-      "title": "Wrong, not broken",
-      "url": "https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/",
-      "published_at": "2026-09-26T12:08:06.946-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "testing",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "sp6370"
     },
     {
       "title": "K6 - Split dataset among VUs without overlap",
@@ -3545,6 +3554,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Antares"
+    },
+    {
+      "title": "Github terraform to deploy to databricks",
+      "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
+      "published_at": "2026-09-26T22:27:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user28068905"
     },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
