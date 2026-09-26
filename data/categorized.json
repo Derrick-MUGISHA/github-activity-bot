@@ -254,6 +254,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
+      "published_at": "2026-09-24T11:55:12Z",
+      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "tags": [
+        "ai",
+        "agents",
+        "agentskills",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
       "published_at": "2026-09-16T10:15:52Z",
@@ -701,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 419,
       "user": "maanHimself"
     },
     {
@@ -716,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 785,
       "user": "nokia-applied-research"
     },
     {
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 724,
       "user": "asokurasu"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 716,
       "user": "yukitorido"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1956,
+      "stars": 1958,
       "user": "unreallabsai"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/116695909?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "446599"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6820,
+      "stars": 6827,
       "user": "zai-org"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "mikehasa"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 435,
       "user": "supermemoryai"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 298,
       "user": "OnlistTeam"
     },
     {
@@ -864,6 +879,36 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "classichasclass"
+    },
+    {
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "published_at": "2026-09-26T17:44:00.000Z",
+      "description": "At least one social media company seems to be reversing its stance on whether it will accept advertising for Alex Gibney’s upcoming documentary about Elon Musk.",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Social",
+        "Alex Gibney",
+        "Elon Musk"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Levoit&#8217;s new air purifier is for the pet odors that have taken over your apartment",
+      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "published_at": "2026-09-26T17:00:00.000Z",
+      "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+      "tags": [
+        "Hardware",
+        "Gadgets",
+        "pet tech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -970,37 +1015,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-25T18:48:33.000Z",
-      "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Fintech",
-        "Fundraising",
-        "Media & Entertainment"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "published_at": "2026-09-25T18:33:59.000Z",
-      "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-      "tags": [
-        "AI",
-        "Venture",
-        "In Brief",
-        "nscale"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1300,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 993,
+      "stars": 1018,
       "user": "JohnHeibel"
     },
     {
@@ -1315,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 808,
       "user": "riba2534"
     },
     {
@@ -1330,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 708,
       "user": "dgreenheck"
     },
     {
@@ -1345,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "rmalde"
     },
     {
@@ -1360,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 419,
       "user": "maanHimself"
     },
     {
@@ -1375,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 863,
       "user": "kryvora-network"
     },
     {
@@ -1390,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/116695909?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "446599"
     },
     {
@@ -1405,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6820,
+      "stars": 6827,
       "user": "zai-org"
     },
     {
@@ -1420,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "mikehasa"
     },
     {
@@ -1435,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "anishfn"
     },
     {
@@ -1450,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 450,
       "user": "alexgreensh"
     },
     {
@@ -1465,14 +1479,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 435,
       "user": "supermemoryai"
+    },
+    {
+      "title": "How should I identify starting players when a confirmed basketball lineup marks every player as substitute: true?",
+      "url": "https://stackoverflow.com/questions/80006094/how-should-i-identify-starting-players-when-a-confirmed-basketball-lineup-marks",
+      "published_at": "2026-09-26T17:59:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "json",
+        "typescript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "veotuises"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
       "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
       "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "best-practices",
         "javascript",
@@ -1488,7 +1516,7 @@
       "title": "How do I randomize the position of bezier vertices?",
       "url": "https://stackoverflow.com/questions/80006033/how-do-i-randomize-the-position-of-bezier-vertices",
       "published_at": "2026-09-26T13:57:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "random",
@@ -1497,19 +1525,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aurora Lane"
-    },
-    {
-      "title": "React form doesn't submit when pressing Enter in an input field",
-      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
-      "published_at": "2026-09-25T09:58:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ehan Siddique"
     },
     {
       "title": "I'm new to React, what is causing these errors?",
@@ -1524,6 +1539,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rajveer Singh Kaler"
+    },
+    {
+      "title": "React form doesn't submit when pressing Enter in an input field",
+      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
+      "published_at": "2026-09-25T09:58:06.000Z",
+      "description": "Stack Overflow question · 3 answers · score -3",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ehan Siddique"
     },
     {
       "title": "Error: Calling setState synchronously within an effect can trigger cascading renders",
@@ -1583,20 +1611,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "CrimsonReverie"
-    },
-    {
-      "title": "Creating a reusable Object from JavaScript array",
-      "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
-      "published_at": "2026-09-22T21:48:42.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
-      "tags": [
-        "javascript",
-        "object",
-        "foreach"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Realto619"
     },
     {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
@@ -1884,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1500,
       "user": "Contrastive-LM"
     },
     {
@@ -1899,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1030,
+      "stars": 1035,
       "user": "deepopen-com"
     },
     {
@@ -1914,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 785,
       "user": "nokia-applied-research"
     },
     {
@@ -1929,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 724,
       "user": "asokurasu"
     },
     {
@@ -1944,14 +1958,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 716,
       "user": "yukitorido"
     },
     {
       "title": "Passing a string of keyword arguments",
       "url": "https://stackoverflow.com/questions/80006016/passing-a-string-of-keyword-arguments",
       "published_at": "2026-09-26T12:08:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python"
       ],
@@ -1963,7 +1977,7 @@
       "title": "Is a broadcast variable shared across multiple concurrent Spark jobs?",
       "url": "https://stackoverflow.com/questions/80005977/is-a-broadcast-variable-shared-across-multiple-concurrent-spark-jobs",
       "published_at": "2026-09-26T06:35:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "multithreading",
@@ -1977,7 +1991,7 @@
       "title": "What kind of regular expression captures the root of a URL?",
       "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
       "published_at": "2026-09-25T19:09:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
         "regex"
@@ -2381,14 +2395,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "mikehasa"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
       "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
       "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "best-practices",
         "javascript",
@@ -2615,6 +2629,21 @@
       "user": "xbill"
     },
     {
+      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
+      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
+      "published_at": "2026-09-24T11:55:12Z",
+      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "tags": [
+        "ai",
+        "agents",
+        "agentskills",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
       "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
       "published_at": "2026-09-16T10:15:52Z",
@@ -2733,21 +2762,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "published_at": "2026-09-25T18:33:59.000Z",
-      "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-      "tags": [
-        "AI",
-        "Venture",
-        "In Brief",
-        "nscale"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     }
   ],
   "Database": [
@@ -2775,7 +2789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "mikehasa"
     },
     {
@@ -3171,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 993,
+      "stars": 1018,
       "user": "JohnHeibel"
     },
     {
@@ -3186,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 808,
       "user": "riba2534"
     },
     {
@@ -3201,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 708,
       "user": "dgreenheck"
     },
     {
@@ -3216,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "rmalde"
     },
     {
@@ -3231,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 419,
       "user": "maanHimself"
     },
     {
@@ -3246,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1500,
       "user": "Contrastive-LM"
     },
     {
@@ -3261,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1030,
+      "stars": 1035,
       "user": "deepopen-com"
     },
     {
@@ -3276,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 785,
       "user": "nokia-applied-research"
     },
     {
@@ -3291,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 724,
       "user": "asokurasu"
     },
     {
@@ -3306,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 716,
       "user": "yukitorido"
     },
     {
@@ -3321,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1956,
+      "stars": 1958,
       "user": "unreallabsai"
     },
     {
@@ -3336,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 967,
       "user": "yetone"
     },
     {
@@ -3351,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 863,
       "user": "kryvora-network"
     },
     {
@@ -3381,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/116695909?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "446599"
     },
     {
@@ -3396,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
       "source": "GitHub",
-      "stars": 6820,
+      "stars": 6827,
       "user": "zai-org"
     },
     {
@@ -3411,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "mikehasa"
     },
     {
@@ -3426,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "anishfn"
     },
     {
@@ -3441,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 450,
       "user": "alexgreensh"
     },
     {
@@ -3456,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 435,
       "user": "supermemoryai"
     },
     {
@@ -3471,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1222,
       "user": "tobi"
     },
     {
@@ -3486,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 561,
       "user": "Haleclipse"
     },
     {
@@ -3501,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 367,
       "user": "ollaya-dev"
     },
     {
@@ -3516,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 298,
       "user": "OnlistTeam"
     },
     {
@@ -3531,8 +3545,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 268,
       "user": "jankeesvw"
+    },
+    {
+      "title": "Wrong, not broken",
+      "url": "https://aws.amazon.com/blogs/aws-insights/wrong-not-broken/",
+      "published_at": "2026-09-26T12:08:06.946-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "testing",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "sp6370"
     },
     {
       "title": "K6 - Split dataset among VUs without overlap",

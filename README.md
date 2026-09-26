@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--09--26-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-26 17:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-26 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,15 +37,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-odj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8b68f4vboousukpjouay.jpg" width="200" alt="What was your win this week!?" />
-      <br/>
-      <b>What was your win this week!?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg" width="200" alt="I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare" />
       <br/>
@@ -54,8 +45,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png" width="200" alt="Claude on Google Cloud workshop | NYC | 9/30" />
@@ -65,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8dsce3xxd0txso2shxb1.jpg" width="200" alt="Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)" />
@@ -83,6 +74,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png" width="200" alt="Claude Opus 5.5 is now available on Google Cloud" />
+      <br/>
+      <b>Claude Opus 5.5 is now available on Google Cloud</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -93,12 +93,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
-| 2 | [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odj) | Dev.to |
-| 3 | [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd) | Dev.to |
-| 4 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
-| 5 | [Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)](https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7) | Dev.to |
-| 6 | [Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU](https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g) | Dev.to |
-| 7 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 2 | [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd) | Dev.to |
+| 3 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
+| 4 | [Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)](https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7) | Dev.to |
+| 5 | [Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU](https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g) | Dev.to |
+| 6 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 7 | [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odj) | Dev.to |
 | 8 | [Welcome Thread - v 394](https://dev.to/sloan/welcome-thread-v-394-22l2) | Dev.to |
 | 9 | [A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x](https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56) | Dev.to |
 | 10 | [This video is about how this video was made](https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0) | Dev.to |
 | 20 | [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9) | Dev.to |
 
-<sub>Last fetched: Sat, 26 Sep 2026 17:04:13 CAT</sub>
+<sub>Last fetched: Sat, 26 Sep 2026 20:35:01 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is database normalization and denormalization?**
+**1. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Heap, stack, garbage collection
 
 </details>
 
-**2. `Java` — What are Java Streams and how do they work?**
+**2. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**3. `SystemDesign` — Design a URL shortening service like bit.ly**
+**3. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -164,13 +164,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 41.0% | `████████████████████` |
-| **Tools** | 44 | 24.0% | `████████████░░░░░░░░` |
-| **JavaScript** | 40 | 21.9% | `███████████░░░░░░░░░` |
-| **Python** | 35 | 19.1% | `█████████░░░░░░░░░░░` |
-| **Cloud** | 17 | 9.3% | `█████░░░░░░░░░░░░░░░` |
+| **AI** | 76 | 41.3% | `████████████████████` |
+| **Tools** | 45 | 24.5% | `████████████░░░░░░░░` |
+| **JavaScript** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **Python** | 35 | 19.0% | `█████████░░░░░░░░░░░` |
+| **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
+| **Security** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 59 |
+| Dev.to | 60 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.0%
-Python          ██████████████████████████ 24.5%
-Go              ███████████████████████ 21.0%
-Java            █████████████████████ 19.6%
-Rust            █████ 4.9%
+JavaScript      ██████████████████████████████ 27.8%
+Python          ██████████████████████████ 24.3%
+Go              ████████████████████████ 22.2%
+Java            █████████████████████ 19.4%
+Rust            █████ 4.2%
 CSharp          █ 0.7%
 Ruby            █ 0.7%
 Swift           █ 0.7%
@@ -209,9 +209,9 @@ Swift           █ 0.7%
 pie title Programming Languages Distribution
     "JavaScript" : 40
     "Python" : 35
-    "Go" : 30
+    "Go" : 32
     "Java" : 28
-    "Rust" : 7
+    "Rust" : 6
     "CSharp" : 1
     "Ruby" : 1
     "Swift" : 1
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 26 Sep 2026 15:04:13 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 26 Sep 2026 18:35:01 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
