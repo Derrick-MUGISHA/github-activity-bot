@@ -1,36 +1,6 @@
 {
   "AI": [
     {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "published_at": "2026-09-23T11:31:31Z",
-      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "tags": [
-        "buildinpublic",
-        "webdev",
-        "nextjs",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
-    },
-    {
-      "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
-      "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
-      "published_at": "2026-09-24T16:32:26Z",
-      "description": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked against the same read on an NVIDIA L4 and against Jev 1.13.0's published results. What fits one chip, how to read labels when vLLM on TPU returns only the top 32 log-probabilities, speed, cost, and why no 31B loads today.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu%2Fdevto-jev-tpu-v6e1-cover.6a93fef0.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
       "published_at": "2026-09-22T17:48:24Z",
@@ -74,36 +44,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
-      "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
-      "published_at": "2026-09-24T02:00:37Z",
-      "description": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) builds on one EC2 L4, on 1,200 labelled examples and on the 3,880-record public suite where Jev 1.13.0 has published results. Pre-registered, with accuracy, calibration, calibration after 0 to 150 labels, latency and cost.",
-      "tags": [
-        "gemma",
-        "aws",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
-      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
-      "published_at": "2026-09-24T02:00:52Z",
-      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
       "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
       "published_at": "2026-09-23T19:19:19Z",
@@ -119,19 +59,19 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
-      "published_at": "2026-09-22T16:59:06Z",
-      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+      "published_at": "2026-09-23T11:31:31Z",
+      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
       "tags": [
-        "ai",
-        "opensource",
-        "mcp",
-        "devtools"
+        "buildinpublic",
+        "webdev",
+        "nextjs",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
       "source": "Dev.to",
-      "user": "Uri Shmueli"
+      "user": "Mika Flowers"
     },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
@@ -164,6 +104,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
+      "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
+      "published_at": "2026-09-24T16:32:26Z",
+      "description": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked against the same read on an NVIDIA L4 and against Jev 1.13.0's published results. What fits one chip, how to read labels when vLLM on TPU returns only the top 32 log-probabilities, speed, cost, and why no 31B loads today.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu%2Fdevto-jev-tpu-v6e1-cover.6a93fef0.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
       "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
       "published_at": "2026-09-23T20:59:28Z",
@@ -179,19 +134,34 @@
       "user": "Jem"
     },
     {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
-      "published_at": "2026-09-20T23:30:02Z",
-      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
+      "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
+      "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
+      "published_at": "2026-09-24T02:00:37Z",
+      "description": "Plain Gemma 4 26B read by its label probabilities against DiffusionGemma's one-step read, both as community 4-bit (AWQ) builds on one EC2 L4, on 1,200 labelled examples and on the 3,880-record public suite where Jev 1.13.0 has published results. Pre-registered, with accuracy, calibration, calibration after 0 to 150 labels, latency and cost.",
       "tags": [
-        "python",
-        "debugging",
-        "api",
-        "postmortem"
+        "gemma",
+        "aws",
+        "machinelearning",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
       "source": "Dev.to",
-      "user": "Wataru Suda"
+      "user": "xbill"
+    },
+    {
+      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
+      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
+      "published_at": "2026-09-24T02:00:52Z",
+      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
@@ -267,6 +237,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
       "source": "Dev.to",
       "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
+      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
+      "published_at": "2026-09-22T16:59:06Z",
+      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "tags": [
+        "ai",
+        "opensource",
+        "mcp",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
+      "source": "Dev.to",
+      "user": "Uri Shmueli"
     },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
@@ -388,21 +373,6 @@
       "user": "Tanay Dwivedi"
     },
     {
-      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
-      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
-      "published_at": "2026-09-19T16:55:23Z",
-      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
-      "tags": [
-        "ai",
-        "api",
-        "llm",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv23rks6vwzdj1e5trlaw.png",
-      "source": "Dev.to",
-      "user": "Sneha M K"
-    },
-    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -416,6 +386,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
+      "url": "https://dev.to/thesnehamk/mcp-vs-api-explained-do-we-still-need-apis-after-mcp-2kkk",
+      "published_at": "2026-09-19T16:55:23Z",
+      "description": "No. MCP doesn't replace APIs — it sits on top of them. An MCP server is, almost always, a thin...",
+      "tags": [
+        "ai",
+        "api",
+        "llm",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv23rks6vwzdj1e5trlaw.png",
+      "source": "Dev.to",
+      "user": "Sneha M K"
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
@@ -446,6 +431,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
       "source": "Dev.to",
       "user": " Gábor Mészáros"
+    },
+    {
+      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
+      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
+      "published_at": "2026-09-20T23:30:02Z",
+      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
+      "tags": [
+        "python",
+        "debugging",
+        "api",
+        "postmortem"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
+      "source": "Dev.to",
+      "user": "Wataru Suda"
     },
     {
       "title": "My Agents Never Get Tired. I Do: On Satisficing",
@@ -716,23 +716,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 438,
       "user": "JohnHeibel"
     },
     {
-      "title": "miuuyy/Astra-Ares - Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
-      "url": "https://github.com/miuuyy/Astra-Ares",
-      "published_at": "2026-09-22T14:10:07Z",
-      "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "published_at": "2026-09-26T10:10:41Z",
+      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 286,
-      "user": "miuuyy"
+      "stars": 293,
+      "user": "lemomo-ai"
     },
     {
       "title": "nokia-applied-research/AnyJev - Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 811,
       "user": "nokia-applied-research"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 739,
       "user": "asokurasu"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 721,
       "user": "yukitorido"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1974,
+      "stars": 1980,
       "user": "unreallabsai"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "JaxsonWang"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 97,
       "user": "mvanhorn"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 997,
       "user": "mikehasa"
     },
     {
@@ -851,23 +851,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 626,
       "user": "supermemoryai"
-    },
-    {
-      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "url": "https://github.com/Alex314618-create/JevRev",
-      "published_at": "2026-09-21T01:53:13Z",
-      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "Alex314618-create"
     },
     {
       "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
@@ -881,8 +866,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 398,
       "user": "OnlistTeam"
+    },
+    {
+      "title": "One month without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "published_at": "2026-09-27T01:22:21.194-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Jackevansevo"
     },
     {
       "title": "AI Agents Push Humans Out of the Loop",
@@ -897,17 +894,17 @@
       "user": "typesanitizer"
     },
     {
-      "title": "One month without AI",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "published_at": "2026-09-27T01:22:21.194-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "What Improves Developer Productivity at Google? Code Quality",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+      "published_at": "2026-09-27T07:52:57.601-05:00",
+      "description": "Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. But the research literature either focuses on what correlates with developer productivity in ecologically valid settings or focuses on what causes developer productivity in highly constrained settings. In this paper, we bridge the gap by studying software developers at Google through two analyses. In the first analysis, we use panel data with 39 productivity factors, finding that code quality, technical debt, infrastructure tools and support, team communication, goals and priorities, and organizational change and process are all causally linked to self-reported developer productivity. In the second analysis, we use a lagged panel analysis to strengthen our causal claims. We find that increases in perceived code quality tend to be followed by increased perceived developer productivity, but not vice versa, providing the strongest evidence to date that code quality affects individual developer productivity.",
       "tags": [
-        "ai",
-        "vibecoding"
+        "pdf",
+        "practices"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Jackevansevo"
+      "user": "typesanitizer"
     },
     {
       "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
@@ -1046,6 +1043,19 @@
       "user": "Sarah Perez"
     },
     {
+      "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
+      "url": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
+      "published_at": "2026-09-27T07:57:15.000Z",
+      "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
+      "tags": [
+        "tutorial",
+        "webdev"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Casmir Onyekani"
+    },
+    {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
       "url": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
       "published_at": "2026-09-24T16:08:52.000Z",
@@ -1122,21 +1132,6 @@
   ],
   "JavaScript": [
     {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "published_at": "2026-09-23T11:31:31Z",
-      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "tags": [
-        "buildinpublic",
-        "webdev",
-        "nextjs",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
-    },
-    {
       "title": "This video is about how this video was made",
       "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
       "published_at": "2026-09-24T19:54:35Z",
@@ -1150,6 +1145,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
       "source": "Dev.to",
       "user": "Peter Kim Frank"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+      "published_at": "2026-09-23T11:31:31Z",
+      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "tags": [
+        "buildinpublic",
+        "webdev",
+        "nextjs",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
     },
     {
       "title": "The Grand Unifying Architecture of Frontend",
@@ -1343,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1147,
       "user": "JohnHeibel"
     },
     {
@@ -1358,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 818,
       "user": "riba2534"
     },
     {
@@ -1373,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 797,
       "user": "dgreenheck"
     },
     {
@@ -1388,23 +1398,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 438,
       "user": "JohnHeibel"
     },
     {
-      "title": "miuuyy/Astra-Ares - Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
-      "url": "https://github.com/miuuyy/Astra-Ares",
-      "published_at": "2026-09-22T14:10:07Z",
-      "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "published_at": "2026-09-26T10:10:41Z",
+      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 286,
-      "user": "miuuyy"
+      "stars": 293,
+      "user": "lemomo-ai"
     },
     {
       "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
@@ -1418,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 956,
       "user": "kryvora-network"
     },
     {
@@ -1433,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 997,
       "user": "mikehasa"
     },
     {
@@ -1448,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 693,
       "user": "anishfn"
     },
     {
@@ -1463,8 +1473,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 626,
       "user": "supermemoryai"
+    },
+    {
+      "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "published_at": "2026-09-24T21:33:53Z",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
+      "source": "GitHub",
+      "stars": 588,
+      "user": "mexicat"
     },
     {
       "title": "alexgreensh/anidoodle - Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
@@ -1478,41 +1503,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 526,
       "user": "alexgreensh"
     },
     {
-      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "url": "https://github.com/Alex314618-create/JevRev",
-      "published_at": "2026-09-21T01:53:13Z",
-      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "Alex314618-create"
-    },
-    {
-      "title": "The JavaScript Pun: tagged template literal",
-      "url": "https://shukla.io/blog/2026-09/pun.html",
-      "published_at": "2026-09-26T10:37:12.781-05:00",
+      "title": "Deploying Guix images on Linode",
+      "url": "https://dthompson.us/posts/deploying-guix-images-on-linode.html",
+      "published_at": "2026-09-26T19:10:18.481-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript"
+        "networking",
+        "nix"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "binroot"
+      "user": "FedericoSchonborn"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
       "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
       "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
         "best-practices",
         "javascript",
@@ -1537,20 +1548,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aurora Lane"
-    },
-    {
-      "title": "How should I identify starting players when a confirmed basketball lineup marks every player as substitute: true?",
-      "url": "https://stackoverflow.com/questions/80006094/how-should-i-identify-starting-players-when-a-confirmed-basketball-lineup-marks",
-      "published_at": "2026-09-26T17:59:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "javascript",
-        "json",
-        "typescript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "veotuises"
     },
     {
       "title": "Creating a reusable Object from JavaScript array",
@@ -1603,7 +1600,7 @@
       "title": "Uncaught Error: prompt() is not supported",
       "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
       "published_at": "2026-09-25T08:18:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -5",
+      "description": "Stack Overflow question · 2 answers · score -5",
       "tags": [
         "javascript"
       ],
@@ -1657,6 +1654,20 @@
       "user": "Geoff Nunes"
     },
     {
+      "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
+      "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
+      "published_at": "2026-08-15T20:56:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 3",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vscode-extensions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
+    },
+    {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
       "url": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
       "published_at": "2026-09-24T16:08:52.000Z",
@@ -1670,25 +1681,24 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
-      "url": "https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/",
-      "published_at": "2026-09-19T17:15:45.000Z",
-      "description": "Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th",
-      "tags": [
-        "React Native",
-        "iOS",
-        "Swift",
-        "Mobile Development",
-        "TypeScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Farouq Seriki"
     }
   ],
   "Python": [
+    {
+      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
+      "published_at": "2026-09-20T20:30:58Z",
+      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
+      "tags": [
+        "mcp",
+        "iceberg",
+        "python",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
       "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
@@ -1718,21 +1728,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
       "source": "Dev.to",
       "user": "Wataru Suda"
-    },
-    {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
@@ -1926,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1780,
       "user": "Contrastive-LM"
     },
     {
@@ -1941,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1044,
       "user": "deepopen-com"
     },
     {
@@ -1956,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 811,
       "user": "nokia-applied-research"
     },
     {
@@ -1971,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 739,
       "user": "asokurasu"
     },
     {
@@ -1986,14 +1981,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 721,
       "user": "yukitorido"
+    },
+    {
+      "title": "Detecting keypress and keyrelease on arrow keys",
+      "url": "https://stackoverflow.com/questions/80006215/detecting-keypress-and-keyrelease-on-arrow-keys",
+      "published_at": "2026-09-27T12:54:41.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "pyqt6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Iain"
+    },
+    {
+      "title": "Python list/dict comprehension giving generator object",
+      "url": "https://stackoverflow.com/questions/80006194/python-list-dict-comprehension-giving-generator-object",
+      "published_at": "2026-09-27T10:08:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python",
+        "list",
+        "dictionary",
+        "list-comprehension",
+        "dictionary-comprehension"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shiva"
     },
     {
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -2094,34 +2118,6 @@
       "user": "Joe_Hudson"
     },
     {
-      "title": "Where is the Python documentation for handling ties with the built-in min function?",
-      "url": "https://stackoverflow.com/questions/80005838/where-is-the-python-documentation-for-handling-ties-with-the-built-in-min-functi",
-      "published_at": "2026-09-25T14:26:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "heretoinfinity"
-    },
-    {
-      "title": "JAX FFI handler does not find my CUDA function exported with nanobind",
-      "url": "https://stackoverflow.com/questions/80005798/jax-ffi-handler-does-not-find-my-cuda-function-exported-with-nanobind",
-      "published_at": "2026-09-25T12:14:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "python",
-        "c++",
-        "cuda",
-        "jax",
-        "nanobind"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "alo bre"
-    },
-    {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
       "published_at": "2026-09-21T20:57:10.000Z",
@@ -2186,21 +2182,6 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
-      "published_at": "2026-09-22T15:14:36Z",
-      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
-      "tags": [
-        "googlecloud",
-        "python",
-        "devops",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
       "url": "https://dev.to/gde/architecting-a-resilient-devsecops-pipeline-for-enterprise-ai-agents-on4",
       "published_at": "2026-09-20T13:44:05Z",
@@ -2214,6 +2195,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
+      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
+      "published_at": "2026-09-22T15:14:36Z",
+      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
+      "tags": [
+        "googlecloud",
+        "python",
+        "devops",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2354,7 +2350,7 @@
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -2433,14 +2429,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 997,
       "user": "mikehasa"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
       "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
       "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
         "best-practices",
         "javascript",
@@ -2454,21 +2450,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)",
-      "url": "https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7",
-      "published_at": "2026-09-24T22:07:55Z",
-      "description": "For decades, platforms like Claris FileMaker, Microsoft Access, and 4D enabled businesses to build...",
-      "tags": [
-        "opensource",
-        "flutter",
-        "go",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8dsce3xxd0txso2shxb1.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
     {
       "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
       "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9",
@@ -2515,6 +2496,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)",
+      "url": "https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7",
+      "published_at": "2026-09-24T22:07:55Z",
+      "description": "For decades, platforms like Claris FileMaker, Microsoft Access, and 4D enabled businesses to build...",
+      "tags": [
+        "opensource",
+        "flutter",
+        "go",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8dsce3xxd0txso2shxb1.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
       "url": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
       "published_at": "2026-09-23T21:01:32.000Z",
@@ -2529,40 +2525,9 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
-      "url": "https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/",
-      "published_at": "2026-09-19T17:15:45.000Z",
-      "description": "Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th",
-      "tags": [
-        "React Native",
-        "iOS",
-        "Swift",
-        "Mobile Development",
-        "TypeScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Farouq Seriki"
     }
   ],
   "Cloud": [
-    {
-      "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
-      "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
-      "published_at": "2026-09-24T16:32:26Z",
-      "description": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked against the same read on an NVIDIA L4 and against Jev 1.13.0's published results. What fits one chip, how to read labels when vLLM on TPU returns only the top 32 log-probabilities, speed, cost, and why no 31B loads today.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu%2Fdevto-jev-tpu-v6e1-cover.6a93fef0.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
@@ -2592,6 +2557,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
+      "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
+      "published_at": "2026-09-24T16:32:26Z",
+      "description": "Gemma 4 E2B, E4B, 12B and a 26B-A4B fp8 build read by their label probabilities with vLLM on one TPU v6e chip, checked against the same read on an NVIDIA L4 and against Jev 1.13.0's published results. What fits one chip, how to read labels when vLLM on TPU returns only the top 32 log-probabilities, speed, cost, and why no 31B loads today.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu%2Fdevto-jev-tpu-v6e1-cover.6a93fef0.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
       "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
       "published_at": "2026-09-24T02:00:37Z",
@@ -2603,21 +2583,6 @@
         "llm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
-      "published_at": "2026-09-22T15:14:36Z",
-      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
-      "tags": [
-        "googlecloud",
-        "python",
-        "devops",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2710,6 +2675,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
+      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
+      "published_at": "2026-09-22T15:14:36Z",
+      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
+      "tags": [
+        "googlecloud",
+        "python",
+        "devops",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
@@ -2811,7 +2791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 997,
       "user": "mikehasa"
     },
     {
@@ -2976,39 +2956,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "LuaRocks Security Incident September 2026",
+      "url": "https://luarocks.org/security-incident-september-2026",
+      "published_at": "2026-09-27T08:58:57.101-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "lua"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "derp_alert"
     }
   ],
   "Tools": [
-    {
-      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
-      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
-      "published_at": "2026-09-24T02:00:52Z",
-      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
-      "published_at": "2026-09-22T16:59:06Z",
-      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
-      "tags": [
-        "ai",
-        "opensource",
-        "mcp",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
-      "source": "Dev.to",
-      "user": "Uri Shmueli"
-    },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
       "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
@@ -3023,6 +2985,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
+      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
+      "published_at": "2026-09-24T02:00:52Z",
+      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
@@ -3053,6 +3030,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
+      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
+      "published_at": "2026-09-22T16:59:06Z",
+      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
+      "tags": [
+        "ai",
+        "opensource",
+        "mcp",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
+      "source": "Dev.to",
+      "user": "Uri Shmueli"
     },
     {
       "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
@@ -3207,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1147,
       "user": "JohnHeibel"
     },
     {
@@ -3222,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 818,
       "user": "riba2534"
     },
     {
@@ -3237,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 797,
       "user": "dgreenheck"
     },
     {
@@ -3252,23 +3244,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 438,
       "user": "JohnHeibel"
     },
     {
-      "title": "miuuyy/Astra-Ares - Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
-      "url": "https://github.com/miuuyy/Astra-Ares",
-      "published_at": "2026-09-22T14:10:07Z",
-      "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "published_at": "2026-09-26T10:10:41Z",
+      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 286,
-      "user": "miuuyy"
+      "stars": 293,
+      "user": "lemomo-ai"
     },
     {
       "title": "Contrastive-LM/CLM - GitHub Repository",
@@ -3282,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1780,
       "user": "Contrastive-LM"
     },
     {
@@ -3297,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1044,
       "user": "deepopen-com"
     },
     {
@@ -3312,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 811,
       "user": "nokia-applied-research"
     },
     {
@@ -3327,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 739,
       "user": "asokurasu"
     },
     {
@@ -3342,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 721,
       "user": "yukitorido"
     },
     {
@@ -3357,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1974,
+      "stars": 1980,
       "user": "unreallabsai"
     },
     {
@@ -3372,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1192,
       "user": "yetone"
     },
     {
@@ -3387,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 956,
       "user": "kryvora-network"
     },
     {
@@ -3402,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "JaxsonWang"
     },
     {
@@ -3417,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 97,
       "user": "mvanhorn"
     },
     {
@@ -3432,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 997,
       "user": "mikehasa"
     },
     {
@@ -3447,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 693,
       "user": "anishfn"
     },
     {
@@ -3462,8 +3454,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 626,
       "user": "supermemoryai"
+    },
+    {
+      "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "published_at": "2026-09-24T21:33:53Z",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
+      "source": "GitHub",
+      "stars": 588,
+      "user": "mexicat"
     },
     {
       "title": "alexgreensh/anidoodle - Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
@@ -3477,23 +3484,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 526,
       "user": "alexgreensh"
-    },
-    {
-      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "url": "https://github.com/Alex314618-create/JevRev",
-      "published_at": "2026-09-21T01:53:13Z",
-      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
-      "source": "GitHub",
-      "stars": 326,
-      "user": "Alex314618-create"
     },
     {
       "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
@@ -3507,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1393,
+      "stars": 1485,
       "user": "tobi"
     },
     {
@@ -3522,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 582,
       "user": "ollaya-dev"
     },
     {
@@ -3537,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 398,
       "user": "OnlistTeam"
     },
     {
@@ -3552,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 283,
       "user": "jankeesvw"
     },
     {
@@ -3567,8 +3559,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 279,
       "user": "codejunkie99"
+    },
+    {
+      "title": "What Improves Developer Productivity at Google? Code Quality",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+      "published_at": "2026-09-27T07:52:57.601-05:00",
+      "description": "Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. But the research literature either focuses on what correlates with developer productivity in ecologically valid settings or focuses on what causes developer productivity in highly constrained settings. In this paper, we bridge the gap by studying software developers at Google through two analyses. In the first analysis, we use panel data with 39 productivity factors, finding that code quality, technical debt, infrastructure tools and support, team communication, goals and priorities, and organizational change and process are all causally linked to self-reported developer productivity. In the second analysis, we use a lagged panel analysis to strengthen our causal claims. We find that increases in perceived code quality tend to be followed by increased perceived developer productivity, but not vice versa, providing the strongest evidence to date that code quality affects individual developer productivity.",
+      "tags": [
+        "pdf",
+        "practices"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "typesanitizer"
     },
     {
       "title": "K6 - Split dataset among VUs without overlap",
@@ -3587,10 +3592,24 @@
       "user": "Antares"
     },
     {
+      "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
+      "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
+      "published_at": "2026-08-15T20:56:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 3",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vscode-extensions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
+    },
+    {
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
