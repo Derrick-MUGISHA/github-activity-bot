@@ -299,6 +299,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
       "published_at": "2026-09-01T05:53:57Z",
@@ -326,21 +341,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
-    },
-    {
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-      "published_at": "2026-09-19T01:56:39Z",
-      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 458,
       "user": "JohnHeibel"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 330,
       "user": "lemomo-ai"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 817,
       "user": "nokia-applied-research"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "asokurasu"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 722,
       "user": "yukitorido"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1983,
       "user": "unreallabsai"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 117,
       "user": "JaxsonWang"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 101,
       "user": "mvanhorn"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1007,
       "user": "mikehasa"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 647,
       "user": "supermemoryai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 434,
       "user": "OnlistTeam"
     },
     {
@@ -882,19 +882,7 @@
       "user": "Jackevansevo"
     },
     {
-      "title": "AI Agents Push Humans Out of the Loop",
-      "url": "https://arxiv.org/abs/2608.23642",
-      "published_at": "2026-09-26T14:21:56.883-05:00",
-      "description": "Abstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not only do current approaches to AI agent design impede effective human oversight, but the cognitive capacities required for it are also themselves degraded by extended use of AI systems. This position paper argues that current approaches to the development and deployment of AI agent systems do not support effective human oversight -- they contribute to its degradation. To address this, a top priority in the advancement of AI agents should be supporting the situated goals and cognitive requirements of effective human oversight, treating the human needs of overseers at the same level of importance as AI agent capability. To put this idea into practice, we connect work on automation and human-computer interaction to AI agent processes, outlining design-level affordances and organizational protocols that (1) support overseers in exercising critical judgement and (2) counteract the skill atrophy that arises from extended use of automation. We urge developers and deployers to adopt these or similar approaches. Without explicit support for the cognitive demands of effective human-agent interaction, AI agent systems will continue to passively incentivize the degradation of the very human skills they rely on.",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "typesanitizer"
-    },
-    {
-      "title": "What Improves Developer Productivity at Google? Code Quality",
+      "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
       "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
       "published_at": "2026-09-27T07:52:57.601-05:00",
       "description": "Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. But the research literature either focuses on what correlates with developer productivity in ecologically valid settings or focuses on what causes developer productivity in highly constrained settings. In this paper, we bridge the gap by studying software developers at Google through two analyses. In the first analysis, we use panel data with 39 productivity factors, finding that code quality, technical debt, infrastructure tools and support, team communication, goals and priorities, and organizational change and process are all causally linked to self-reported developer productivity. In the second analysis, we use a lagged panel analysis to strengthen our causal claims. We find that increases in perceived code quality tend to be followed by increased perceived developer productivity, but not vice versa, providing the strongest evidence to date that code quality affects individual developer productivity.",
@@ -905,6 +893,51 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "typesanitizer"
+    },
+    {
+      "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "published_at": "2026-09-27T16:30:00.000Z",
+      "description": "\"AI is the devil and I its maker.\"",
+      "tags": [
+        "Media & Entertainment",
+        "AI",
+        "Saturday night live",
+        "Anthropic",
+        "dario amodei"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "published_at": "2026-09-27T16:02:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "Transportation",
+        "avs",
+        "zoox",
+        "Waymo",
+        "wayve"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "published_at": "2026-09-27T15:00:00.000Z",
+      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "tags": [
+        "Hardware",
+        "Gadgets"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
@@ -995,52 +1028,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "published_at": "2026-09-26T01:08:57.000Z",
-      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "connect",
-        "Mark Zuckerberg",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "published_at": "2026-09-25T23:11:10.000Z",
-      "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "tags": [
-        "AI",
-        "Transportation",
-        "boom supersonic",
-        "crusoe"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "published_at": "2026-09-25T23:04:34.000Z",
-      "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-      "tags": [
-        "Media & Entertainment",
-        "Automattic",
-        "matt mullenweg",
-        "WordPress"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
@@ -1353,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1147,
+      "stars": 1206,
       "user": "JohnHeibel"
     },
     {
@@ -1368,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 821,
       "user": "riba2534"
     },
     {
@@ -1383,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 813,
       "user": "dgreenheck"
     },
     {
@@ -1398,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 458,
       "user": "JohnHeibel"
     },
     {
@@ -1413,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 330,
       "user": "lemomo-ai"
     },
     {
@@ -1428,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 971,
       "user": "kryvora-network"
     },
     {
@@ -1443,8 +1430,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1007,
       "user": "mikehasa"
+    },
+    {
+      "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "published_at": "2026-09-24T21:33:53Z",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
+      "source": "GitHub",
+      "stars": 910,
+      "user": "mexicat"
     },
     {
       "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
@@ -1458,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 699,
       "user": "anishfn"
     },
     {
@@ -1473,57 +1475,59 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 647,
       "user": "supermemoryai"
     },
     {
-      "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "url": "https://github.com/mexicat/pdoom-video",
-      "published_at": "2026-09-24T21:33:53Z",
-      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "url": "https://github.com/dzhng/jevgrep",
+      "published_at": "2026-09-26T04:06:56Z",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 588,
-      "user": "mexicat"
+      "stars": 621,
+      "user": "dzhng"
     },
     {
-      "title": "alexgreensh/anidoodle - Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
-      "url": "https://github.com/alexgreensh/anidoodle",
-      "published_at": "2026-09-22T11:20:47Z",
-      "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+      "title": "How to fix an issue with random images not showing?",
+      "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
+      "published_at": "2026-09-27T16:06:11.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "alexgreensh"
-    },
-    {
-      "title": "Deploying Guix images on Linode",
-      "url": "https://dthompson.us/posts/deploying-guix-images-on-linode.html",
-      "published_at": "2026-09-26T19:10:18.481-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "networking",
-        "nix"
+        "javascript",
+        "image",
+        "random"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "source": "StackOverflow",
+      "user": "Aurora Lane"
+    },
+    {
+      "title": "Unable to adjust video timeline which downloaded using yt-dlp and Node.js via browser",
+      "url": "https://stackoverflow.com/questions/80006280/unable-to-adjust-video-timeline-which-downloaded-using-yt-dlp-and-node-js-via-br",
+      "published_at": "2026-09-27T17:58:07.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "ffmpeg",
+        "vlc",
+        "yt-dlp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "webdevShubhamKumar"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
       "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
       "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 2",
       "tags": [
         "best-practices",
         "javascript",
@@ -1566,49 +1570,6 @@
       "user": "Realto619"
     },
     {
-      "title": "Error: Calling setState synchronously within an effect can trigger cascading renders",
-      "url": "https://stackoverflow.com/questions/80005734/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
-      "published_at": "2026-09-25T08:49:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js",
-        "react-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pankaj Choudhary"
-    },
-    {
-      "title": "K6 - Split dataset among VUs without overlap",
-      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
-      "published_at": "2026-09-25T14:21:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "performance",
-        "go",
-        "testing",
-        "k6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Antares"
-    },
-    {
-      "title": "Uncaught Error: prompt() is not supported",
-      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
-      "published_at": "2026-09-25T08:18:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alex"
-    },
-    {
       "title": "React form doesn't submit when pressing Enter in an input field",
       "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
       "published_at": "2026-09-25T09:58:06.000Z",
@@ -1620,22 +1581,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ehan Siddique"
-    },
-    {
-      "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
-      "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
-      "published_at": "2026-09-15T04:52:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "javascript",
-        "angular",
-        "google-chrome",
-        "browser",
-        "microsoft-edge"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tutte2k"
     },
     {
       "title": "can I make choosing a file count as a user gesture?",
@@ -1666,6 +1611,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad"
+    },
+    {
+      "title": "Is Array.prototype.reduce more efficient than Math.sumPrecise for summing an array of integers?",
+      "url": "https://stackoverflow.com/questions/79951983/is-array-prototype-reduce-more-efficient-than-math-sumprecise-for-summing-an-arr",
+      "published_at": "2026-06-05T17:32:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "arrays",
+        "performance",
+        "sum",
+        "reduce"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hb20007"
+    },
+    {
+      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
+      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
+      "published_at": "2026-01-22T17:18:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "kubernetes",
+        "gitlab",
+        "keycloak",
+        "best-practices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "comhendrik"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1921,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1780,
+      "stars": 1840,
       "user": "Contrastive-LM"
     },
     {
@@ -1951,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 817,
       "user": "nokia-applied-research"
     },
     {
@@ -1966,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "asokurasu"
     },
     {
@@ -1981,8 +1958,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 722,
       "user": "yukitorido"
+    },
+    {
+      "title": "Member None of Any | None does not have attribute with_columns - polars & PyCharm problem",
+      "url": "https://stackoverflow.com/questions/80006258/member-none-of-any-none-does-not-have-attribute-with-columns-polars-pychar",
+      "published_at": "2026-09-27T15:56:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "pycharm",
+        "python-polars"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
     },
     {
       "title": "Detecting keypress and keyrelease on arrow keys",
@@ -2014,18 +2005,6 @@
       "user": "shiva"
     },
     {
-      "title": "Github terraform to deploy to databricks",
-      "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
-      "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user28068905"
-    },
-    {
       "title": "Passing a string of keyword arguments",
       "url": "https://stackoverflow.com/questions/80006016/passing-a-string-of-keyword-arguments",
       "published_at": "2026-09-26T12:08:49.000Z",
@@ -2038,6 +2017,18 @@
       "user": "NickC"
     },
     {
+      "title": "Github terraform to deploy to databricks",
+      "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
+      "published_at": "2026-09-26T22:27:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user28068905"
+    },
+    {
       "title": "Type-hinting instance variables",
       "url": "https://stackoverflow.com/questions/80005899/type-hinting-instance-variables",
       "published_at": "2026-09-25T19:29:13.000Z",
@@ -2045,46 +2036,6 @@
       "tags": [
         "python",
         "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Is a broadcast variable shared across multiple concurrent Spark jobs?",
-      "url": "https://stackoverflow.com/questions/80005977/is-a-broadcast-variable-shared-across-multiple-concurrent-spark-jobs",
-      "published_at": "2026-09-26T06:35:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "apache-spark"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nitish N Banakar"
-    },
-    {
-      "title": "How do I correctly type a wrapper that returns a classmethod?",
-      "url": "https://stackoverflow.com/questions/80005905/how-do-i-correctly-type-a-wrapper-that-returns-a-classmethod",
-      "published_at": "2026-09-25T20:07:53.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "python-typing",
-        "class-method"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "User"
-    },
-    {
-      "title": "Using `with` and a custom class not setting attributes",
-      "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
-      "published_at": "2026-09-25T22:35:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2104,18 +2055,44 @@
       "user": "Toothpick Anemone"
     },
     {
-      "title": "Correcting faulty N-body simulation using velocity Verlet integration",
-      "url": "https://stackoverflow.com/questions/80005775/correcting-faulty-n-body-simulation-using-velocity-verlet-integration",
-      "published_at": "2026-09-25T10:59:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "How do I correctly type a wrapper that returns a classmethod?",
+      "url": "https://stackoverflow.com/questions/80005905/how-do-i-correctly-type-a-wrapper-that-returns-a-classmethod",
+      "published_at": "2026-09-25T20:07:53.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
-        "numerical-methods",
-        "astronomy"
+        "python-typing",
+        "class-method"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Joe_Hudson"
+      "user": "User"
+    },
+    {
+      "title": "Is a broadcast variable shared across multiple concurrent Spark jobs?",
+      "url": "https://stackoverflow.com/questions/80005977/is-a-broadcast-variable-shared-across-multiple-concurrent-spark-jobs",
+      "published_at": "2026-09-26T06:35:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "apache-spark"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nitish N Banakar"
+    },
+    {
+      "title": "Using `with` and a custom class not setting attributes",
+      "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
+      "published_at": "2026-09-25T22:35:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2347,6 +2324,22 @@
       "user": "jknupp"
     },
     {
+      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
+      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
+      "published_at": "2026-01-22T17:18:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "kubernetes",
+        "gitlab",
+        "keycloak",
+        "best-practices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "comhendrik"
+    },
+    {
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
@@ -2429,14 +2422,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1007,
       "user": "mikehasa"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
       "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
       "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 2",
       "tags": [
         "best-practices",
         "javascript",
@@ -2791,7 +2784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1007,
       "user": "mikehasa"
     },
     {
@@ -3199,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1147,
+      "stars": 1206,
       "user": "JohnHeibel"
     },
     {
@@ -3214,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 821,
       "user": "riba2534"
     },
     {
@@ -3229,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 813,
       "user": "dgreenheck"
     },
     {
@@ -3244,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 458,
       "user": "JohnHeibel"
     },
     {
@@ -3259,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 330,
       "user": "lemomo-ai"
     },
     {
@@ -3274,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1780,
+      "stars": 1840,
       "user": "Contrastive-LM"
     },
     {
@@ -3304,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 817,
       "user": "nokia-applied-research"
     },
     {
@@ -3319,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 740,
       "user": "asokurasu"
     },
     {
@@ -3334,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 722,
       "user": "yukitorido"
     },
     {
@@ -3349,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1983,
       "user": "unreallabsai"
     },
     {
@@ -3364,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1192,
+      "stars": 1219,
       "user": "yetone"
     },
     {
@@ -3379,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 971,
       "user": "kryvora-network"
     },
     {
@@ -3394,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 117,
       "user": "JaxsonWang"
     },
     {
@@ -3409,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 101,
       "user": "mvanhorn"
     },
     {
@@ -3424,8 +3417,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1007,
       "user": "mikehasa"
+    },
+    {
+      "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "url": "https://github.com/mexicat/pdoom-video",
+      "published_at": "2026-09-24T21:33:53Z",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
+      "source": "GitHub",
+      "stars": 910,
+      "user": "mexicat"
     },
     {
       "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
@@ -3439,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 699,
       "user": "anishfn"
     },
     {
@@ -3454,38 +3462,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 647,
       "user": "supermemoryai"
     },
     {
-      "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "url": "https://github.com/mexicat/pdoom-video",
-      "published_at": "2026-09-24T21:33:53Z",
-      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "url": "https://github.com/dzhng/jevgrep",
+      "published_at": "2026-09-26T04:06:56Z",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 588,
-      "user": "mexicat"
-    },
-    {
-      "title": "alexgreensh/anidoodle - Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
-      "url": "https://github.com/alexgreensh/anidoodle",
-      "published_at": "2026-09-22T11:20:47Z",
-      "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "alexgreensh"
+      "stars": 621,
+      "user": "dzhng"
     },
     {
       "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
@@ -3499,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1485,
+      "stars": 1546,
       "user": "tobi"
     },
     {
@@ -3514,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 638,
       "user": "ollaya-dev"
     },
     {
@@ -3529,23 +3522,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 434,
       "user": "OnlistTeam"
-    },
-    {
-      "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
-      "url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
-      "published_at": "2026-09-24T15:44:42Z",
-      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
-      "source": "GitHub",
-      "stars": 283,
-      "user": "jankeesvw"
     },
     {
       "title": "codejunkie99/keel - Local-first macOS coding workspace with local Laya and optional Jev decision selection",
@@ -3559,11 +3537,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 285,
       "user": "codejunkie99"
     },
     {
-      "title": "What Improves Developer Productivity at Google? Code Quality",
+      "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+      "url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
+      "published_at": "2026-09-24T15:44:42Z",
+      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
+      "source": "GitHub",
+      "stars": 284,
+      "user": "jankeesvw"
+    },
+    {
+      "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
       "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
       "published_at": "2026-09-27T07:52:57.601-05:00",
       "description": "Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. But the research literature either focuses on what correlates with developer productivity in ecologically valid settings or focuses on what causes developer productivity in highly constrained settings. In this paper, we bridge the gap by studying software developers at Google through two analyses. In the first analysis, we use panel data with 39 productivity factors, finding that code quality, technical debt, infrastructure tools and support, team communication, goals and priorities, and organizational change and process are all causally linked to self-reported developer productivity. In the second analysis, we use a lagged panel analysis to strengthen our causal claims. We find that increases in perceived code quality tend to be followed by increased perceived developer productivity, but not vice versa, providing the strongest evidence to date that code quality affects individual developer productivity.",
@@ -3574,22 +3567,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "typesanitizer"
-    },
-    {
-      "title": "K6 - Split dataset among VUs without overlap",
-      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
-      "published_at": "2026-09-25T14:21:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "performance",
-        "go",
-        "testing",
-        "k6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Antares"
     },
     {
       "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
@@ -3606,6 +3583,22 @@
       "user": "Muhammad"
     },
     {
+      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
+      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
+      "published_at": "2026-01-22T17:18:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "kubernetes",
+        "gitlab",
+        "keycloak",
+        "best-practices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "comhendrik"
+    },
+    {
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
@@ -3616,6 +3609,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user28068905"
+    },
+    {
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "published_at": "2026-09-27T15:00:00.000Z",
+      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "tags": [
+        "Hardware",
+        "Gadgets"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
@@ -3660,22 +3666,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "published_at": "2026-09-26T01:08:57.000Z",
-      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "connect",
-        "Mark Zuckerberg",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
