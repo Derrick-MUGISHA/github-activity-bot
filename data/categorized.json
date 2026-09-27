@@ -16,21 +16,6 @@
       "user": "Mika Flowers"
     },
     {
-      "title": "Claude on Google Cloud workshop | NYC | 9/30",
-      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
-      "published_at": "2026-09-25T11:50:46Z",
-      "description": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
-      "tags": [
-        "eventsinyourcity",
-        "claude",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
       "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
       "published_at": "2026-09-24T16:32:26Z",
@@ -72,6 +57,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
       "source": "Dev.to",
       "user": "Peter Kim Frank"
+    },
+    {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
+      "published_at": "2026-09-25T11:50:46Z",
+      "description": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "tags": [
+        "eventsinyourcity",
+        "claude",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
@@ -705,19 +705,34 @@
       "user": "caseyf7"
     },
     {
-      "title": "maanHimself/OpenDLSS-NR - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
-      "published_at": "2026-09-20T22:35:35Z",
-      "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
+      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "published_at": "2026-09-23T20:27:00Z",
+      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 428,
-      "user": "maanHimself"
+      "stars": 393,
+      "user": "JohnHeibel"
+    },
+    {
+      "title": "miuuyy/Astra-Ares - Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "url": "https://github.com/miuuyy/Astra-Ares",
+      "published_at": "2026-09-22T14:10:07Z",
+      "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "miuuyy"
     },
     {
       "title": "nokia-applied-research/AnyJev - Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 799,
       "user": "nokia-applied-research"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 732,
       "user": "asokurasu"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "yukitorido"
     },
     {
@@ -776,38 +791,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1965,
+      "stars": 1969,
       "user": "unreallabsai"
     },
     {
-      "title": "446599/ccodex-rotate - Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.",
-      "url": "https://github.com/446599/ccodex-rotate",
-      "published_at": "2026-09-20T08:29:10Z",
-      "description": "Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.",
+      "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
+      "url": "https://github.com/JaxsonWang/cpa-plugin-oai-basispoints",
+      "published_at": "2026-09-24T15:55:38Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/116695909?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 141,
-      "user": "446599"
+      "stars": 108,
+      "user": "JaxsonWang"
     },
     {
-      "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "url": "https://github.com/zai-org/ZCode",
-      "published_at": "2026-09-20T12:01:16Z",
-      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "title": "mvanhorn/agent-tincan - Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+      "url": "https://github.com/mvanhorn/agent-tincan",
+      "published_at": "2026-09-22T22:50:16Z",
+      "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 6832,
-      "user": "zai-org"
+      "stars": 86,
+      "user": "mvanhorn"
     },
     {
       "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 981,
       "user": "mikehasa"
     },
     {
@@ -836,8 +851,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 523,
       "user": "supermemoryai"
+    },
+    {
+      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "url": "https://github.com/Alex314618-create/JevRev",
+      "published_at": "2026-09-21T01:53:13Z",
+      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "Alex314618-create"
     },
     {
       "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
@@ -851,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 331,
       "user": "OnlistTeam"
     },
     {
@@ -865,6 +895,35 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "typesanitizer"
+    },
+    {
+      "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "published_at": "2026-09-27T01:40:30.000Z",
+      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "tags": [
+        "Hardware",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "published_at": "2026-09-27T01:30:00.000Z",
+      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "Google",
+        "Flipkart",
+        "gemini"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
@@ -968,34 +1027,6 @@
         "Automattic",
         "matt mullenweg",
         "WordPress"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "published_at": "2026-09-25T22:20:47.000Z",
-      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Meta opens early access program for new Muse features",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "published_at": "2026-09-25T20:34:53.000Z",
-      "description": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Meta",
-        "muse"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1299,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1056,
       "user": "JohnHeibel"
     },
     {
@@ -1314,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 810,
       "user": "riba2534"
     },
     {
@@ -1329,38 +1360,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 745,
       "user": "dgreenheck"
     },
     {
-      "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
-      "url": "https://github.com/rmalde/minecraft-agent",
-      "published_at": "2026-09-20T05:05:12Z",
-      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "published_at": "2026-09-23T20:27:00Z",
+      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 558,
-      "user": "rmalde"
+      "stars": 393,
+      "user": "JohnHeibel"
     },
     {
-      "title": "maanHimself/OpenDLSS-NR - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
-      "published_at": "2026-09-20T22:35:35Z",
-      "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
+      "title": "miuuyy/Astra-Ares - Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "url": "https://github.com/miuuyy/Astra-Ares",
+      "published_at": "2026-09-22T14:10:07Z",
+      "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
       "source": "GitHub",
-      "stars": 428,
-      "user": "maanHimself"
+      "stars": 285,
+      "user": "miuuyy"
     },
     {
       "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
@@ -1374,38 +1405,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 893,
       "user": "kryvora-network"
-    },
-    {
-      "title": "446599/ccodex-rotate - Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.",
-      "url": "https://github.com/446599/ccodex-rotate",
-      "published_at": "2026-09-20T08:29:10Z",
-      "description": "Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/116695909?v=4",
-      "source": "GitHub",
-      "stars": 141,
-      "user": "446599"
-    },
-    {
-      "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "url": "https://github.com/zai-org/ZCode",
-      "published_at": "2026-09-20T12:01:16Z",
-      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
-      "source": "GitHub",
-      "stars": 6832,
-      "user": "zai-org"
     },
     {
       "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
@@ -1419,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 981,
       "user": "mikehasa"
     },
     {
@@ -1434,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 684,
       "user": "anishfn"
     },
     {
@@ -1449,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 523,
       "user": "supermemoryai"
     },
     {
@@ -1464,8 +1465,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 482,
       "user": "alexgreensh"
+    },
+    {
+      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "url": "https://github.com/Alex314618-create/JevRev",
+      "published_at": "2026-09-21T01:53:13Z",
+      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "Alex314618-create"
     },
     {
       "title": "The JavaScript Pun: tagged template literal",
@@ -1483,7 +1499,7 @@
       "title": "Elegant way to return a filter function from an HTML element",
       "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
       "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "best-practices",
         "javascript",
@@ -1499,7 +1515,7 @@
       "title": "How should I identify starting players when a confirmed basketball lineup marks every player as substitute: true?",
       "url": "https://stackoverflow.com/questions/80006094/how-should-i-identify-starting-players-when-a-confirmed-basketball-lineup-marks",
       "published_at": "2026-09-26T17:59:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "json",
@@ -1513,7 +1529,7 @@
       "title": "How do I randomize the position of bezier vertices?",
       "url": "https://stackoverflow.com/questions/80006033/how-do-i-randomize-the-position-of-bezier-vertices",
       "published_at": "2026-09-26T13:57:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "random",
@@ -1582,18 +1598,6 @@
       "user": "Ehan Siddique"
     },
     {
-      "title": "Uncaught Error: prompt() is not supported",
-      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
-      "published_at": "2026-09-25T08:18:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -5",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alex"
-    },
-    {
       "title": "Creating a reusable Object from JavaScript array",
       "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
       "published_at": "2026-09-22T21:48:42.000Z",
@@ -1608,6 +1612,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Realto619"
+    },
+    {
+      "title": "Uncaught Error: prompt() is not supported",
+      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
+      "published_at": "2026-09-25T08:18:05.000Z",
+      "description": "Stack Overflow question · 3 answers · score -5",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alex"
     },
     {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
@@ -1895,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1609,
       "user": "Contrastive-LM"
     },
     {
@@ -1910,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1038,
       "user": "deepopen-com"
     },
     {
@@ -1925,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 799,
       "user": "nokia-applied-research"
     },
     {
@@ -1940,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 732,
       "user": "asokurasu"
     },
     {
@@ -1955,14 +1971,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "yukitorido"
     },
     {
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -2000,7 +2016,7 @@
       "title": "How do I correctly type a wrapper that returns a classmethod?",
       "url": "https://stackoverflow.com/questions/80005905/how-do-i-correctly-type-a-wrapper-that-returns-a-classmethod",
       "published_at": "2026-09-25T20:07:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "python-typing",
@@ -2027,7 +2043,7 @@
       "title": "Using `with` and a custom class not setting attributes",
       "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
       "published_at": "2026-09-25T22:35:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "python"
       ],
@@ -2049,18 +2065,6 @@
       "user": "Toothpick Anemone"
     },
     {
-      "title": "Where is the Python documentation for handling ties with the built-in min function?",
-      "url": "https://stackoverflow.com/questions/80005838/where-is-the-python-documentation-for-handling-ties-with-the-built-in-min-functi",
-      "published_at": "2026-09-25T14:26:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "heretoinfinity"
-    },
-    {
       "title": "Correcting faulty N-body simulation using velocity Verlet integration",
       "url": "https://stackoverflow.com/questions/80005775/correcting-faulty-n-body-simulation-using-velocity-verlet-integration",
       "published_at": "2026-09-25T10:59:01.000Z",
@@ -2073,6 +2077,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe_Hudson"
+    },
+    {
+      "title": "Where is the Python documentation for handling ties with the built-in min function?",
+      "url": "https://stackoverflow.com/questions/80005838/where-is-the-python-documentation-for-handling-ties-with-the-built-in-min-functi",
+      "published_at": "2026-09-25T14:26:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "heretoinfinity"
     },
     {
       "title": "JAX FFI handler does not find my CUDA function exported with nanobind",
@@ -2323,7 +2339,7 @@
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -2402,14 +2418,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 981,
       "user": "mikehasa"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
       "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
       "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "best-practices",
         "javascript",
@@ -2518,21 +2534,6 @@
   ],
   "Cloud": [
     {
-      "title": "Claude on Google Cloud workshop | NYC | 9/30",
-      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
-      "published_at": "2026-09-25T11:50:46Z",
-      "description": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
-      "tags": [
-        "eventsinyourcity",
-        "claude",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
       "url": "https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g",
       "published_at": "2026-09-24T16:32:26Z",
@@ -2557,6 +2558,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "Claude on Google Cloud workshop | NYC | 9/30",
+      "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
+      "published_at": "2026-09-25T11:50:46Z",
+      "description": "On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...",
+      "tags": [
+        "eventsinyourcity",
+        "claude",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
     },
@@ -2780,7 +2796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 981,
       "user": "mikehasa"
     },
     {
@@ -3176,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1056,
       "user": "JohnHeibel"
     },
     {
@@ -3191,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 810,
       "user": "riba2534"
     },
     {
@@ -3206,38 +3222,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 745,
       "user": "dgreenheck"
     },
     {
-      "title": "rmalde/minecraft-agent - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
-      "url": "https://github.com/rmalde/minecraft-agent",
-      "published_at": "2026-09-20T05:05:12Z",
-      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "published_at": "2026-09-23T20:27:00Z",
+      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47470168?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 558,
-      "user": "rmalde"
+      "stars": 393,
+      "user": "JohnHeibel"
     },
     {
-      "title": "maanHimself/OpenDLSS-NR - A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
-      "published_at": "2026-09-20T22:35:35Z",
-      "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
+      "title": "miuuyy/Astra-Ares - Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "url": "https://github.com/miuuyy/Astra-Ares",
+      "published_at": "2026-09-22T14:10:07Z",
+      "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64527563?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
       "source": "GitHub",
-      "stars": 428,
-      "user": "maanHimself"
+      "stars": 285,
+      "user": "miuuyy"
     },
     {
       "title": "Contrastive-LM/CLM - GitHub Repository",
@@ -3251,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1609,
       "user": "Contrastive-LM"
     },
     {
@@ -3266,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1038,
       "user": "deepopen-com"
     },
     {
@@ -3281,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 799,
       "user": "nokia-applied-research"
     },
     {
@@ -3296,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 732,
       "user": "asokurasu"
     },
     {
@@ -3311,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "yukitorido"
     },
     {
@@ -3326,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1965,
+      "stars": 1969,
       "user": "unreallabsai"
     },
     {
@@ -3341,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1047,
       "user": "yetone"
     },
     {
@@ -3356,53 +3372,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 893,
       "user": "kryvora-network"
     },
     {
-      "title": "dorkitude/webctl - Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
-      "url": "https://github.com/dorkitude/webctl",
-      "published_at": "2026-09-20T07:27:00Z",
-      "description": "Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
+      "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
+      "url": "https://github.com/JaxsonWang/cpa-plugin-oai-basispoints",
+      "published_at": "2026-09-24T15:55:38Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/157717?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 144,
-      "user": "dorkitude"
+      "stars": 108,
+      "user": "JaxsonWang"
     },
     {
-      "title": "446599/ccodex-rotate - Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.",
-      "url": "https://github.com/446599/ccodex-rotate",
-      "published_at": "2026-09-20T08:29:10Z",
-      "description": "Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.",
+      "title": "mvanhorn/agent-tincan - Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+      "url": "https://github.com/mvanhorn/agent-tincan",
+      "published_at": "2026-09-22T22:50:16Z",
+      "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/116695909?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 141,
-      "user": "446599"
-    },
-    {
-      "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "url": "https://github.com/zai-org/ZCode",
-      "published_at": "2026-09-20T12:01:16Z",
-      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/223098841?v=4",
-      "source": "GitHub",
-      "stars": 6832,
-      "user": "zai-org"
+      "stars": 86,
+      "user": "mvanhorn"
     },
     {
       "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
@@ -3416,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 978,
+      "stars": 981,
       "user": "mikehasa"
     },
     {
@@ -3431,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 684,
       "user": "anishfn"
     },
     {
@@ -3446,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 523,
       "user": "supermemoryai"
     },
     {
@@ -3461,8 +3462,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 482,
       "user": "alexgreensh"
+    },
+    {
+      "title": "Alex314618-create/JevRev - An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "url": "https://github.com/Alex314618-create/JevRev",
+      "published_at": "2026-09-21T01:53:13Z",
+      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "Alex314618-create"
     },
     {
       "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
@@ -3476,23 +3492,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1311,
       "user": "tobi"
-    },
-    {
-      "title": "Haleclipse/CometixCode - An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
-      "url": "https://github.com/Haleclipse/CometixCode",
-      "published_at": "2026-09-20T08:58:08Z",
-      "description": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15519695?v=4",
-      "source": "GitHub",
-      "stars": 564,
-      "user": "Haleclipse"
     },
     {
       "title": "ollaya-dev/ollaya - Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
@@ -3506,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 440,
       "user": "ollaya-dev"
     },
     {
@@ -3521,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 331,
       "user": "OnlistTeam"
     },
     {
@@ -3536,8 +3537,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 275,
       "user": "jankeesvw"
+    },
+    {
+      "title": "codejunkie99/keel - Local-first macOS coding workspace with local Laya and optional Jev decision selection",
+      "url": "https://github.com/codejunkie99/keel",
+      "published_at": "2026-09-22T22:08:29Z",
+      "description": "Local-first macOS coding workspace with local Laya and optional Jev decision selection",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "source": "GitHub",
+      "stars": 271,
+      "user": "codejunkie99"
     },
     {
       "title": "K6 - Split dataset among VUs without overlap",
@@ -3559,13 +3575,26 @@
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user28068905"
+    },
+    {
+      "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "published_at": "2026-09-27T01:40:30.000Z",
+      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "tags": [
+        "Hardware",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
