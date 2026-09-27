@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 467,
       "user": "JohnHeibel"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 347,
       "user": "lemomo-ai"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 827,
       "user": "nokia-applied-research"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "yukitorido"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1985,
+      "stars": 1986,
       "user": "unreallabsai"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "JaxsonWang"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 105,
       "user": "mvanhorn"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1012,
       "user": "mikehasa"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 669,
       "user": "supermemoryai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 488,
       "user": "OnlistTeam"
     },
     {
@@ -1342,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1243,
       "user": "JohnHeibel"
     },
     {
@@ -1372,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "dgreenheck"
     },
     {
@@ -1387,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 467,
       "user": "JohnHeibel"
     },
     {
@@ -1402,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 347,
       "user": "lemomo-ai"
     },
     {
@@ -1432,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1094,
       "user": "mexicat"
     },
     {
@@ -1447,23 +1447,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1012,
       "user": "mikehasa"
-    },
-    {
-      "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "url": "https://github.com/anishfn/shapeshift",
-      "published_at": "2026-09-22T08:52:32Z",
-      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
-      "source": "GitHub",
-      "stars": 706,
-      "user": "anishfn"
     },
     {
       "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
@@ -1477,8 +1462,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 742,
       "user": "dzhng"
+    },
+    {
+      "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "url": "https://github.com/anishfn/shapeshift",
+      "published_at": "2026-09-22T08:52:32Z",
+      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
+      "source": "GitHub",
+      "stars": 707,
+      "user": "anishfn"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -1492,14 +1492,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 669,
       "user": "supermemoryai"
     },
     {
       "title": "jquery datepicker icon disappears after autopostback",
       "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
       "published_at": "2026-09-27T21:17:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "jquery",
@@ -1514,7 +1514,7 @@
       "title": "How to fix an issue with random images not showing",
       "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
       "published_at": "2026-09-27T16:06:11.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "javascript",
         "image",
@@ -1528,7 +1528,7 @@
       "title": "Unable to adjust video timeline which downloaded using yt-dlp and Node.js via browser",
       "url": "https://stackoverflow.com/questions/80006280/unable-to-adjust-video-timeline-which-downloaded-using-yt-dlp-and-node-js-via-br",
       "published_at": "2026-09-27T17:58:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "node.js",
@@ -1600,22 +1600,6 @@
       "user": "Ehan Siddique"
     },
     {
-      "title": "can I make choosing a file count as a user gesture?",
-      "url": "https://stackoverflow.com/questions/79995993/can-i-make-choosing-a-file-count-as-a-user-gesture",
-      "published_at": "2026-08-18T02:06:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "input",
-        "fullscreen",
-        "gesture",
-        "drop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Geoff Nunes"
-    },
-    {
       "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
       "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
       "published_at": "2026-08-15T20:56:23.000Z",
@@ -1644,6 +1628,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hb20007"
+    },
+    {
+      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
+      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
+      "published_at": "2026-01-22T17:18:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "kubernetes",
+        "gitlab",
+        "keycloak",
+        "best-practices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "comhendrik"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1882,
+      "stars": 1906,
       "user": "Contrastive-LM"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 827,
       "user": "nokia-applied-research"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "yukitorido"
     },
     {
@@ -1995,7 +1995,7 @@
       "title": "Detecting keypress and keyrelease on arrow keys",
       "url": "https://stackoverflow.com/questions/80006215/detecting-keypress-and-keyrelease-on-arrow-keys",
       "published_at": "2026-09-27T12:54:41.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "pyqt6"
@@ -2031,18 +2031,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Github terraform to deploy to databricks",
-      "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
-      "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user28068905"
     },
     {
       "title": "Type-hinting instance variables",
@@ -2097,6 +2085,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nitish N Banakar"
+    },
+    {
+      "title": "Using `with` and a custom class not setting attributes",
+      "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
+      "published_at": "2026-09-25T22:35:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2328,16 +2328,20 @@
       "user": "jknupp"
     },
     {
-      "title": "Github terraform to deploy to databricks",
-      "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
-      "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
+      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
+      "published_at": "2026-01-22T17:18:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "python"
+        "javascript",
+        "kubernetes",
+        "gitlab",
+        "keycloak",
+        "best-practices"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user28068905"
+      "user": "comhendrik"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -2410,7 +2414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1012,
       "user": "mikehasa"
     },
     {
@@ -2772,7 +2776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1012,
       "user": "mikehasa"
     },
     {
@@ -2944,7 +2948,8 @@
       "published_at": "2026-09-27T08:58:57.101-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "lua"
+        "lua",
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -3180,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1243,
       "user": "JohnHeibel"
     },
     {
@@ -3210,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "dgreenheck"
     },
     {
@@ -3225,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 467,
       "user": "JohnHeibel"
     },
     {
@@ -3240,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 347,
       "user": "lemomo-ai"
     },
     {
@@ -3255,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1882,
+      "stars": 1906,
       "user": "Contrastive-LM"
     },
     {
@@ -3285,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 827,
       "user": "nokia-applied-research"
     },
     {
@@ -3315,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "yukitorido"
     },
     {
@@ -3330,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1985,
+      "stars": 1986,
       "user": "unreallabsai"
     },
     {
@@ -3345,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1239,
       "user": "yetone"
     },
     {
@@ -3375,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "JaxsonWang"
     },
     {
@@ -3390,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 105,
       "user": "mvanhorn"
     },
     {
@@ -3405,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1094,
       "user": "mexicat"
     },
     {
@@ -3420,23 +3425,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1012,
       "user": "mikehasa"
-    },
-    {
-      "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "url": "https://github.com/anishfn/shapeshift",
-      "published_at": "2026-09-22T08:52:32Z",
-      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
-      "source": "GitHub",
-      "stars": 706,
-      "user": "anishfn"
     },
     {
       "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
@@ -3450,8 +3440,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 742,
       "user": "dzhng"
+    },
+    {
+      "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "url": "https://github.com/anishfn/shapeshift",
+      "published_at": "2026-09-22T08:52:32Z",
+      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
+      "source": "GitHub",
+      "stars": 707,
+      "user": "anishfn"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -3465,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 669,
       "user": "supermemoryai"
     },
     {
@@ -3480,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1583,
       "user": "tobi"
     },
     {
@@ -3495,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 690,
       "user": "ollaya-dev"
     },
     {
@@ -3510,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 488,
       "user": "OnlistTeam"
     },
     {
@@ -3525,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "codejunkie99"
     },
     {
@@ -3540,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 291,
       "user": "jankeesvw"
     },
     {
@@ -3570,16 +3575,20 @@
       "user": "Muhammad"
     },
     {
-      "title": "Github terraform to deploy to databricks",
-      "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
-      "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
+      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
+      "published_at": "2026-01-22T17:18:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "python"
+        "javascript",
+        "kubernetes",
+        "gitlab",
+        "keycloak",
+        "best-practices"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user28068905"
+      "user": "comhendrik"
     },
     {
       "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
