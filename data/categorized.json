@@ -314,21 +314,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-      "published_at": "2026-09-19T01:56:39Z",
-      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
       "published_at": "2026-09-01T05:53:57Z",
@@ -358,6 +343,21 @@
       "user": "nyaomaru"
     },
     {
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "published_at": "2026-09-19T01:56:39Z",
+      "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqwed3lsgbikup1qr2wt5.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
       "url": "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
       "published_at": "2026-09-16T14:30:05Z",
@@ -371,6 +371,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fow0e126ujeat6lp7vwkj.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "🧩 Don't make Tech your entire personality.",
+      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
+      "published_at": "2026-09-15T10:46:53Z",
+      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
+      "tags": [
+        "productivity",
+        "webdev",
+        "ai",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
+      "source": "Dev.to",
+      "user": "Tanay Dwivedi"
     },
     {
       "title": "MCP vs. API Explained: Do We Still Need APIs After MCP?",
@@ -401,21 +416,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "🧩 Don't make Tech your entire personality.",
-      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
-      "published_at": "2026-09-15T10:46:53Z",
-      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
-      "tags": [
-        "productivity",
-        "webdev",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
-      "source": "Dev.to",
-      "user": "Tanay Dwivedi"
     },
     {
       "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 420,
       "user": "JohnHeibel"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "miuuyy"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 802,
       "user": "nokia-applied-research"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 735,
       "user": "asokurasu"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "yukitorido"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 1974,
       "user": "unreallabsai"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "JaxsonWang"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 90,
       "user": "mvanhorn"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 988,
       "user": "mikehasa"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 592,
       "user": "supermemoryai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 326,
       "user": "Alex314618-create"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 361,
       "user": "OnlistTeam"
     },
     {
@@ -895,6 +895,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "typesanitizer"
+    },
+    {
+      "title": "One month without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "published_at": "2026-09-27T01:22:21.194-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Jackevansevo"
     },
     {
       "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
@@ -1330,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1099,
       "user": "JohnHeibel"
     },
     {
@@ -1345,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 815,
       "user": "riba2534"
     },
     {
@@ -1360,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 771,
       "user": "dgreenheck"
     },
     {
@@ -1375,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 420,
       "user": "JohnHeibel"
     },
     {
@@ -1390,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "miuuyy"
     },
     {
@@ -1405,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 921,
       "user": "kryvora-network"
     },
     {
@@ -1420,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 988,
       "user": "mikehasa"
     },
     {
@@ -1435,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 688,
       "user": "anishfn"
     },
     {
@@ -1450,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 592,
       "user": "supermemoryai"
     },
     {
@@ -1465,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 511,
       "user": "alexgreensh"
     },
     {
@@ -1480,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 326,
       "user": "Alex314618-create"
     },
     {
@@ -1512,20 +1525,6 @@
       "user": "The Ratman"
     },
     {
-      "title": "How should I identify starting players when a confirmed basketball lineup marks every player as substitute: true?",
-      "url": "https://stackoverflow.com/questions/80006094/how-should-i-identify-starting-players-when-a-confirmed-basketball-lineup-marks",
-      "published_at": "2026-09-26T17:59:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "json",
-        "typescript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "veotuises"
-    },
-    {
       "title": "How do I randomize the position of bezier vertices?",
       "url": "https://stackoverflow.com/questions/80006033/how-do-i-randomize-the-position-of-bezier-vertices",
       "published_at": "2026-09-26T13:57:37.000Z",
@@ -1540,18 +1539,34 @@
       "user": "Aurora Lane"
     },
     {
-      "title": "I'm new to React, what is causing these errors?",
-      "url": "https://stackoverflow.com/questions/80005849/im-new-to-react-what-is-causing-these-errors",
-      "published_at": "2026-09-25T15:35:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "How should I identify starting players when a confirmed basketball lineup marks every player as substitute: true?",
+      "url": "https://stackoverflow.com/questions/80006094/how-should-i-identify-starting-players-when-a-confirmed-basketball-lineup-marks",
+      "published_at": "2026-09-26T17:59:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
-        "reactjs",
-        "react-hooks"
+        "json",
+        "typescript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Rajveer Singh Kaler"
+      "user": "veotuises"
+    },
+    {
+      "title": "Creating a reusable Object from JavaScript array",
+      "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
+      "published_at": "2026-09-22T21:48:42.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "arrays",
+        "data-structures",
+        "foreach",
+        "mapreduce"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Realto619"
     },
     {
       "title": "Error: Calling setState synchronously within an effect can trigger cascading renders",
@@ -1585,35 +1600,6 @@
       "user": "Antares"
     },
     {
-      "title": "React form doesn't submit when pressing Enter in an input field",
-      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
-      "published_at": "2026-09-25T09:58:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ehan Siddique"
-    },
-    {
-      "title": "Creating a reusable Object from JavaScript array",
-      "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
-      "published_at": "2026-09-22T21:48:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript",
-        "arrays",
-        "data-structures",
-        "foreach",
-        "mapreduce"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Realto619"
-    },
-    {
       "title": "Uncaught Error: prompt() is not supported",
       "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
       "published_at": "2026-09-25T08:18:05.000Z",
@@ -1624,6 +1610,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alex"
+    },
+    {
+      "title": "React form doesn't submit when pressing Enter in an input field",
+      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
+      "published_at": "2026-09-25T09:58:06.000Z",
+      "description": "Stack Overflow question · 3 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ehan Siddique"
     },
     {
       "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading 'startTime')",
@@ -1640,6 +1639,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tutte2k"
+    },
+    {
+      "title": "can I make choosing a file count as a user gesture?",
+      "url": "https://stackoverflow.com/questions/79995993/can-i-make-choosing-a-file-count-as-a-user-gesture",
+      "published_at": "2026-08-18T02:06:39.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "input",
+        "fullscreen",
+        "gesture",
+        "drop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Geoff Nunes"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1911,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1689,
       "user": "Contrastive-LM"
     },
     {
@@ -1926,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1043,
       "user": "deepopen-com"
     },
     {
@@ -1941,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 802,
       "user": "nokia-applied-research"
     },
     {
@@ -1956,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 735,
       "user": "asokurasu"
     },
     {
@@ -1971,14 +1986,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "yukitorido"
     },
     {
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python"
       ],
@@ -1990,9 +2005,22 @@
       "title": "Passing a string of keyword arguments",
       "url": "https://stackoverflow.com/questions/80006016/passing-a-string-of-keyword-arguments",
       "published_at": "2026-09-26T12:08:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
+      "description": "Stack Overflow question · 0 answers · score -13",
       "tags": [
         "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "Type-hinting instance variables",
+      "url": "https://stackoverflow.com/questions/80005899/type-hinting-instance-variables",
+      "published_at": "2026-09-25T19:29:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "python-typing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2027,23 +2055,10 @@
       "user": "User"
     },
     {
-      "title": "Type-hinting instance variables",
-      "url": "https://stackoverflow.com/questions/80005899/type-hinting-instance-variables",
-      "published_at": "2026-09-25T19:29:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "Using `with` and a custom class not setting attributes",
       "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
       "published_at": "2026-09-25T22:35:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "python"
       ],
@@ -2339,7 +2354,7 @@
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python"
       ],
@@ -2418,7 +2433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 988,
       "user": "mikehasa"
     },
     {
@@ -2796,7 +2811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 988,
       "user": "mikehasa"
     },
     {
@@ -3192,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1099,
       "user": "JohnHeibel"
     },
     {
@@ -3207,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 815,
       "user": "riba2534"
     },
     {
@@ -3222,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 771,
       "user": "dgreenheck"
     },
     {
@@ -3237,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 420,
       "user": "JohnHeibel"
     },
     {
@@ -3252,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147659719?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 286,
       "user": "miuuyy"
     },
     {
@@ -3267,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1689,
       "user": "Contrastive-LM"
     },
     {
@@ -3282,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1043,
       "user": "deepopen-com"
     },
     {
@@ -3297,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 802,
       "user": "nokia-applied-research"
     },
     {
@@ -3312,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 735,
       "user": "asokurasu"
     },
     {
@@ -3327,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 720,
       "user": "yukitorido"
     },
     {
@@ -3342,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 1974,
       "user": "unreallabsai"
     },
     {
@@ -3357,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1132,
       "user": "yetone"
     },
     {
@@ -3372,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 921,
       "user": "kryvora-network"
     },
     {
@@ -3387,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "JaxsonWang"
     },
     {
@@ -3402,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 90,
       "user": "mvanhorn"
     },
     {
@@ -3417,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 988,
       "user": "mikehasa"
     },
     {
@@ -3432,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 688,
       "user": "anishfn"
     },
     {
@@ -3447,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 592,
       "user": "supermemoryai"
     },
     {
@@ -3462,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210140430?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 511,
       "user": "alexgreensh"
     },
     {
@@ -3477,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/237943795?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 326,
       "user": "Alex314618-create"
     },
     {
@@ -3492,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1393,
       "user": "tobi"
     },
     {
@@ -3507,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 514,
       "user": "ollaya-dev"
     },
     {
@@ -3522,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 361,
       "user": "OnlistTeam"
     },
     {
@@ -3537,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 278,
       "user": "jankeesvw"
     },
     {
@@ -3552,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "codejunkie99"
     },
     {
@@ -3575,7 +3590,7 @@
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python"
       ],
