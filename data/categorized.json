@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 463,
       "user": "JohnHeibel"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 339,
       "user": "lemomo-ai"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 822,
       "user": "nokia-applied-research"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 739,
       "user": "asokurasu"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "yukitorido"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1983,
+      "stars": 1985,
       "user": "unreallabsai"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "mvanhorn"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1011,
       "user": "mikehasa"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 663,
       "user": "supermemoryai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 463,
       "user": "OnlistTeam"
     },
     {
@@ -882,17 +882,49 @@
       "user": "Jackevansevo"
     },
     {
-      "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
-      "published_at": "2026-09-27T07:52:57.601-05:00",
-      "description": "Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. But the research literature either focuses on what correlates with developer productivity in ecologically valid settings or focuses on what causes developer productivity in highly constrained settings. In this paper, we bridge the gap by studying software developers at Google through two analyses. In the first analysis, we use panel data with 39 productivity factors, finding that code quality, technical debt, infrastructure tools and support, team communication, goals and priorities, and organizational change and process are all causally linked to self-reported developer productivity. In the second analysis, we use a lagged panel analysis to strengthen our causal claims. We find that increases in perceived code quality tend to be followed by increased perceived developer productivity, but not vice versa, providing the strongest evidence to date that code quality affects individual developer productivity.",
+      "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
+      "url": "https://stackoverflow.com/questions/80006284/how-can-i-get-latest-reading-from-multiple-griddb-timeseries-containers-using-py",
+      "published_at": "2026-09-27T18:13:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "pdf",
-        "practices"
+        "python",
+        "time-series",
+        "iot",
+        "griddb"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "typesanitizer"
+      "source": "StackOverflow",
+      "user": "Manthan Done"
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "published_at": "2026-09-27T20:34:28.000Z",
+      "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dario amodei",
+        "Donald Trump"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "published_at": "2026-09-27T19:57:30.000Z",
+      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "tags": [
+        "AI",
+        "Equity podcast",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
@@ -900,11 +932,11 @@
       "published_at": "2026-09-27T16:30:00.000Z",
       "description": "\"AI is the devil and I its maker.\"",
       "tags": [
-        "Media & Entertainment",
         "AI",
-        "Saturday night live",
+        "Media & Entertainment",
         "Anthropic",
-        "dario amodei"
+        "dario amodei",
+        "Saturday night live"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -998,36 +1030,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Levoit&#8217;s new air purifier is for the pet odors that have taken over your apartment",
-      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "published_at": "2026-09-26T17:00:00.000Z",
-      "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-      "tags": [
-        "Hardware",
-        "Gadgets",
-        "pet tech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "published_at": "2026-09-26T14:00:00.000Z",
-      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "AI",
-        "Synthesia",
-        "AI avatars"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
@@ -1340,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1232,
       "user": "JohnHeibel"
     },
     {
@@ -1370,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 816,
       "user": "dgreenheck"
     },
     {
@@ -1385,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 463,
       "user": "JohnHeibel"
     },
     {
@@ -1400,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 339,
       "user": "lemomo-ai"
     },
     {
@@ -1415,23 +1417,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 976,
       "user": "kryvora-network"
-    },
-    {
-      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "published_at": "2026-09-23T13:37:26Z",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 1007,
-      "user": "mikehasa"
     },
     {
       "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
@@ -1445,8 +1432,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 1034,
       "user": "mexicat"
+    },
+    {
+      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "published_at": "2026-09-23T13:37:26Z",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "source": "GitHub",
+      "stars": 1011,
+      "user": "mikehasa"
     },
     {
       "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
@@ -1460,23 +1462,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 706,
       "user": "anishfn"
-    },
-    {
-      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "url": "https://github.com/supermemoryai/company-brain",
-      "published_at": "2026-09-25T22:48:14Z",
-      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
-      "source": "GitHub",
-      "stars": 647,
-      "user": "supermemoryai"
     },
     {
       "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
@@ -1490,14 +1477,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 693,
       "user": "dzhng"
     },
     {
-      "title": "How to fix an issue with random images not showing?",
+      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "published_at": "2026-09-25T22:48:14Z",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
+      "source": "GitHub",
+      "stars": 663,
+      "user": "supermemoryai"
+    },
+    {
+      "title": "jquery datepicker icon disappears after autopostback",
+      "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
+      "published_at": "2026-09-27T21:17:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "jquery",
+        "asp.net",
+        "datepicker"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John DiBella"
+    },
+    {
+      "title": "How to fix an issue with random images not showing",
       "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
       "published_at": "2026-09-27T16:06:11.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "javascript",
         "image",
@@ -1511,7 +1528,7 @@
       "title": "Unable to adjust video timeline which downloaded using yt-dlp and Node.js via browser",
       "url": "https://stackoverflow.com/questions/80006280/unable-to-adjust-video-timeline-which-downloaded-using-yt-dlp-and-node-js-via-br",
       "published_at": "2026-09-27T17:58:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "node.js",
@@ -1602,7 +1619,7 @@
       "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
       "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
       "published_at": "2026-08-15T20:56:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "javascript",
         "typescript",
@@ -1627,22 +1644,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hb20007"
-    },
-    {
-      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
-      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
-      "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "kubernetes",
-        "gitlab",
-        "keycloak",
-        "best-practices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "comhendrik"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1898,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1840,
+      "stars": 1882,
       "user": "Contrastive-LM"
     },
     {
@@ -1928,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 822,
       "user": "nokia-applied-research"
     },
     {
@@ -1943,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 739,
       "user": "asokurasu"
     },
     {
@@ -1958,8 +1959,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "yukitorido"
+    },
+    {
+      "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
+      "url": "https://stackoverflow.com/questions/80006284/how-can-i-get-latest-reading-from-multiple-griddb-timeseries-containers-using-py",
+      "published_at": "2026-09-27T18:13:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "time-series",
+        "iot",
+        "griddb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Manthan Done"
     },
     {
       "title": "Member None of Any | None does not have attribute with_columns - polars & PyCharm problem",
@@ -2005,10 +2021,10 @@
       "user": "shiva"
     },
     {
-      "title": "Passing a string of keyword arguments",
-      "url": "https://stackoverflow.com/questions/80006016/passing-a-string-of-keyword-arguments",
+      "title": "Creating a dict of keyword arguments",
+      "url": "https://stackoverflow.com/questions/80006016/creating-a-dict-of-keyword-arguments",
       "published_at": "2026-09-26T12:08:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
+      "description": "Stack Overflow question · 1 answers · score -12",
       "tags": [
         "python"
       ],
@@ -2032,7 +2048,7 @@
       "title": "Type-hinting instance variables",
       "url": "https://stackoverflow.com/questions/80005899/type-hinting-instance-variables",
       "published_at": "2026-09-25T19:29:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "python-typing"
@@ -2081,18 +2097,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nitish N Banakar"
-    },
-    {
-      "title": "Using `with` and a custom class not setting attributes",
-      "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
-      "published_at": "2026-09-25T22:35:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2324,22 +2328,6 @@
       "user": "jknupp"
     },
     {
-      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
-      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
-      "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "kubernetes",
-        "gitlab",
-        "keycloak",
-        "best-practices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "comhendrik"
-    },
-    {
       "title": "Github terraform to deploy to databricks",
       "url": "https://stackoverflow.com/questions/80006129/github-terraform-to-deploy-to-databricks",
       "published_at": "2026-09-26T22:27:00.000Z",
@@ -2422,7 +2410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1011,
       "user": "mikehasa"
     },
     {
@@ -2784,7 +2772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1007,
+      "stars": 1011,
       "user": "mikehasa"
     },
     {
@@ -3192,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1232,
       "user": "JohnHeibel"
     },
     {
@@ -3222,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 816,
       "user": "dgreenheck"
     },
     {
@@ -3237,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 463,
       "user": "JohnHeibel"
     },
     {
@@ -3252,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 339,
       "user": "lemomo-ai"
     },
     {
@@ -3267,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1840,
+      "stars": 1882,
       "user": "Contrastive-LM"
     },
     {
@@ -3297,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 822,
       "user": "nokia-applied-research"
     },
     {
@@ -3312,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 739,
       "user": "asokurasu"
     },
     {
@@ -3327,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "yukitorido"
     },
     {
@@ -3342,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
       "source": "GitHub",
-      "stars": 1983,
+      "stars": 1985,
       "user": "unreallabsai"
     },
     {
@@ -3357,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1231,
       "user": "yetone"
     },
     {
@@ -3372,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 976,
       "user": "kryvora-network"
     },
     {
@@ -3402,23 +3390,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "mvanhorn"
-    },
-    {
-      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "published_at": "2026-09-23T13:37:26Z",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 1007,
-      "user": "mikehasa"
     },
     {
       "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
@@ -3432,8 +3405,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 1034,
       "user": "mexicat"
+    },
+    {
+      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "published_at": "2026-09-23T13:37:26Z",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "source": "GitHub",
+      "stars": 1011,
+      "user": "mikehasa"
     },
     {
       "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
@@ -3447,23 +3435,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 706,
       "user": "anishfn"
-    },
-    {
-      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "url": "https://github.com/supermemoryai/company-brain",
-      "published_at": "2026-09-25T22:48:14Z",
-      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
-      "source": "GitHub",
-      "stars": 647,
-      "user": "supermemoryai"
     },
     {
       "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
@@ -3477,8 +3450,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 693,
       "user": "dzhng"
+    },
+    {
+      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "url": "https://github.com/supermemoryai/company-brain",
+      "published_at": "2026-09-25T22:48:14Z",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
+      "source": "GitHub",
+      "stars": 663,
+      "user": "supermemoryai"
     },
     {
       "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
@@ -3492,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1566,
       "user": "tobi"
     },
     {
@@ -3507,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 663,
       "user": "ollaya-dev"
     },
     {
@@ -3522,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 463,
       "user": "OnlistTeam"
     },
     {
@@ -3537,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 291,
       "user": "codejunkie99"
     },
     {
@@ -3552,27 +3540,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "jankeesvw"
     },
     {
-      "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
-      "published_at": "2026-09-27T07:52:57.601-05:00",
-      "description": "Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. But the research literature either focuses on what correlates with developer productivity in ecologically valid settings or focuses on what causes developer productivity in highly constrained settings. In this paper, we bridge the gap by studying software developers at Google through two analyses. In the first analysis, we use panel data with 39 productivity factors, finding that code quality, technical debt, infrastructure tools and support, team communication, goals and priorities, and organizational change and process are all causally linked to self-reported developer productivity. In the second analysis, we use a lagged panel analysis to strengthen our causal claims. We find that increases in perceived code quality tend to be followed by increased perceived developer productivity, but not vice versa, providing the strongest evidence to date that code quality affects individual developer productivity.",
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "published_at": "2026-09-27T15:17:42.121-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "pdf",
-        "practices"
+        "go"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "typesanitizer"
+      "user": "olex"
     },
     {
       "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
       "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
       "published_at": "2026-08-15T20:56:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "javascript",
         "typescript",
@@ -3581,22 +3568,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad"
-    },
-    {
-      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
-      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
-      "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "kubernetes",
-        "gitlab",
-        "keycloak",
-        "best-practices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "comhendrik"
     },
     {
       "title": "Github terraform to deploy to databricks",
@@ -3650,22 +3621,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "published_at": "2026-09-26T14:00:00.000Z",
-      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "AI",
-        "Synthesia",
-        "AI avatars"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",

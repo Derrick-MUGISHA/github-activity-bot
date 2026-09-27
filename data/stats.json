@@ -13,26 +13,26 @@
     "AI": 78,
     "JavaScript": 38,
     "Python": 35,
-    "DevOps": 17,
+    "DevOps": 16,
     "WebDev": 5,
     "Mobile": 5,
     "Cloud": 16,
     "Database": 3,
     "Security": 13,
-    "Tools": 49
+    "Tools": 47
   },
   "by_language": {
-    "Go": 31,
+    "Go": 32,
     "JavaScript": 38,
     "Java": 28,
     "Python": 35,
-    "CSharp": 1,
-    "Rust": 6
+    "CSharp": 2,
+    "Rust": 7
   },
   "by_date": {
     "2026-09-23": 17,
     "2026-09-22": 12,
-    "2026-09-25": 8,
+    "2026-09-25": 7,
     "2026-09-24": 15,
     "2026-09-17": 3,
     "2026-09-20": 6,
@@ -98,13 +98,12 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-09-26": 14,
+    "2026-09-26": 11,
     "2026-09-21": 6,
-    "2026-09-27": 19,
+    "2026-09-27": 24,
     "2026-08-18": 1,
     "2026-08-15": 1,
-    "2026-06-05": 1,
-    "2026-01-22": 1
+    "2026-06-05": 1
   },
   "top_tags": {
     "github": 26,
@@ -112,29 +111,29 @@
     "ai": 24,
     "python": 20,
     "javascript": 18,
-    "AI": 14,
+    "AI": 15,
     "Python": 13,
     "Security": 10,
     "JavaScript": 10,
     "DevOps": 10,
     "googlecloud": 9,
     "webdev": 7,
+    "go": 7,
     "machinelearning": 7,
     "typescript": 7,
     "claude": 6,
     "programming": 6,
     "gemma": 6,
     "discuss": 6,
-    "opensource": 6,
-    "go": 6
+    "opensource": 6
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "22.3",
-    "JavaScript": "27.3",
-    "Java": "20.1",
-    "Python": "25.2",
-    "CSharp": "0.7",
-    "Rust": "4.3"
+    "Go": "22.5",
+    "JavaScript": "26.8",
+    "Java": "19.7",
+    "Python": "24.6",
+    "CSharp": "1.4",
+    "Rust": "4.9"
   }
 }
