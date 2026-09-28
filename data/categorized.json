@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
+      "published_at": "2026-09-28T06:25:14Z",
+      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "tags": [
+        "python",
+        "opensource",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
+      "source": "Dev.to",
+      "user": "Rishu"
+    },
+    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
       "published_at": "2026-09-22T17:48:24Z",
@@ -12,6 +27,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
+      "published_at": "2026-09-26T11:16:56Z",
+      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
+      "tags": [
+        "opensource",
+        "python",
+        "linux",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
     },
     {
       "title": "This video is about how this video was made",
@@ -72,6 +102,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
       "source": "Dev.to",
       "user": "Mika Flowers"
+    },
+    {
+      "title": "An introverted dev in an extroverted world",
+      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04",
+      "published_at": "2026-09-23T12:02:12Z",
+      "description": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
+      "tags": [
+        "watercooler",
+        "career",
+        "networking",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
+      "source": "Dev.to",
+      "user": "Ikrame Ibn Hayoun"
+    },
+    {
+      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
+      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
+      "published_at": "2026-09-26T11:10:24Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
+      "published_at": "2026-09-26T11:10:27Z",
+      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "What One Rust Client Can Reach Across Seven Iceberg Catalogs",
+      "url": "https://dev.to/gde/what-one-rust-client-can-reach-across-seven-iceberg-catalogs-22ll",
+      "published_at": "2026-09-25T16:20:56Z",
+      "description": "Step by step: the Apache Rust Iceberg REST client against seven Iceberg catalogs. It logs in to five of them, and on every one it logs in to, all 13 endpoints it implements answer — 7 reads on three catalogs and 11 writes on the local one, with no failures. The two AWS catalogs need SigV4, which it cannot send, so Rust reaches them through two other crates whose operation sets differ from its own.",
+      "tags": [
+        "rust",
+        "iceberg",
+        "lakehouse",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Frust-client-seven-catalogs%2Fcover.b00343f4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
@@ -147,6 +237,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
+      "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
+      "published_at": "2026-09-22T08:26:58Z",
+      "description": "In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
@@ -237,6 +340,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
       "source": "Dev.to",
       "user": "Uri Shmueli"
+    },
+    {
+      "title": "I Built a Local AI Music Studio",
+      "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
+      "published_at": "2026-09-20T21:30:07Z",
+      "description": "I have a habit of starting projects because I want one very specific thing.  Then somewhere along the...",
+      "tags": [
+        "ai",
+        "music",
+        "opensource",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd7k73sbfr636suf6yyyx.png",
+      "source": "Dev.to",
+      "user": "Jessica Doering"
     },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
@@ -401,140 +519,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
       "source": "Dev.to",
       "user": "ujja"
-    },
-    {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "tags": [
-        "ai",
-        "claude",
-        "performance",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
-      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
-      "published_at": "2026-09-23T20:59:28Z",
-      "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
-      "tags": [
-        "devchallenge",
-        "kagglebenchmarkchallenge",
-        "machinelearning",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
-      "published_at": "2026-09-20T23:30:02Z",
-      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
-      "tags": [
-        "python",
-        "debugging",
-        "api",
-        "postmortem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
-      "source": "Dev.to",
-      "user": "Wataru Suda"
-    },
-    {
-      "title": "My Agents Never Get Tired. I Do: On Satisficing",
-      "url": "https://dev.to/earlgreyhot1701d/my-agents-never-get-tired-i-do-on-satisficing-1mb",
-      "published_at": "2026-09-11T03:49:55Z",
-      "description": "I approved a prompt on a Tuesday morning and went to make a cup of Irish Afternoon tea. By the time I...",
-      "tags": [
-        "ai",
-        "buildinpublic",
-        "agents",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzsweg9vst1vzhw8jmfb0.png",
-      "source": "Dev.to",
-      "user": "Earl Grey"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
-      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
-      "published_at": "2026-09-01T07:00:00Z",
-      "description": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
-      "tags": [
-        "ai",
-        "python",
-        "datascience",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
-      "title": "What Do You Do While AI Codes?",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "published_at": "2026-08-25T13:36:11Z",
-      "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
-      "tags": [
-        "discuss",
-        "ai",
-        "productivity",
-        "devex"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
-    },
-    {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
-      "published_at": "2026-09-01T18:28:57Z",
-      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "tags": [
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
-      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6",
-      "published_at": "2026-09-19T16:39:25Z",
-      "description": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
-      "tags": [
-        "googlecloud",
-        "adk",
-        "jev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5a72kpxcffbw2sjqlaoc.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -716,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 539,
       "user": "JohnHeibel"
     },
     {
@@ -731,23 +715,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 509,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "asokurasu/text-humanizer - A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-      "url": "https://github.com/asokurasu/text-humanizer",
-      "published_at": "2026-09-23T17:32:37Z",
-      "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
-      "source": "GitHub",
-      "stars": 744,
-      "user": "asokurasu"
     },
     {
       "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
@@ -761,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 730,
       "user": "yukitorido"
     },
     {
@@ -791,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 138,
       "user": "JaxsonWang"
     },
     {
@@ -806,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 134,
       "user": "mvanhorn"
     },
     {
@@ -836,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1042,
       "user": "mikehasa"
     },
     {
@@ -851,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 754,
       "user": "supermemoryai"
     },
     {
@@ -866,6 +835,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "johnolinda"
+    },
+    {
+      "title": "What Would A Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "published_at": "2026-09-28T12:01:01.997-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "a11y",
+        "design",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Corbin"
     },
     {
       "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
@@ -883,123 +866,136 @@
       "user": "Manthan Done"
     },
     {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "published_at": "2026-09-27T20:34:28.000Z",
-      "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "published_at": "2026-09-28T18:31:23.000Z",
+      "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security l",
       "tags": [
-        "AI",
-        "Government & Policy",
-        "Anthropic",
-        "dario amodei",
-        "Donald Trump"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "published_at": "2026-09-27T19:57:30.000Z",
-      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "tags": [
-        "AI",
-        "Equity podcast",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "published_at": "2026-09-27T16:30:00.000Z",
-      "description": "\"AI is the devil and I its maker.\"",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Anthropic",
-        "dario amodei",
-        "Saturday night live"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "TechCrunch Mobility: AV companies pick their lanes",
-      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-      "published_at": "2026-09-27T16:02:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "Transportation",
-        "avs",
-        "zoox",
-        "Waymo",
-        "wayve"
+        "AI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
     },
     {
-      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-      "published_at": "2026-09-27T15:00:00.000Z",
-      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "published_at": "2026-09-28T18:00:00.000Z",
+      "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
       "tags": [
-        "Gadgets",
-        "Hardware"
+        "AI",
+        "Sonnet",
+        "Anthropic",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "published_at": "2026-09-28T17:29:50.000Z",
+      "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "tags": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "published_at": "2026-09-28T17:09:02.000Z",
+      "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "published_at": "2026-09-28T16:52:38.000Z",
+      "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "In Brief",
+        "Meta",
+        "MongoDB"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
     },
     {
-      "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "published_at": "2026-09-27T01:40:30.000Z",
-      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-09-28T15:30:00.000Z",
+      "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "tags": [
+        "TC",
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+      "published_at": "2026-09-28T15:29:21.000Z",
+      "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
       "tags": [
         "Hardware",
-        "TC"
+        "edge computing",
+        "In Brief",
+        "SiMa.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "published_at": "2026-09-28T15:26:46.000Z",
+      "description": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "accounting",
+        "AI",
+        "Fintech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "published_at": "2026-09-28T15:00:00.000Z",
+      "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield",
+      "tags": [
+        "AI",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "published_at": "2026-09-27T01:30:00.000Z",
-      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "Google",
-        "Flipkart",
-        "gemini"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "published_at": "2026-09-26T21:02:06.000Z",
-      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Blue Cross Blue Shield",
-        "Abridge"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
@@ -1106,6 +1102,21 @@
       "user": "Peter Kim Frank"
     },
     {
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+      "published_at": "2026-09-23T14:23:57Z",
+      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "tags": [
+        "typescript",
+        "javascript",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
+    },
+    {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
       "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
       "published_at": "2026-09-23T11:31:31Z",
@@ -1179,6 +1190,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
       "source": "Dev.to",
       "user": "Tanay Dwivedi"
+    },
+    {
+      "title": "Build a phishing link checker in Node.js with three API calls",
+      "url": "https://dev.to/nikolas_dimitroulakis_d23/build-a-phishing-link-checker-in-nodejs-with-three-api-calls-2pb4",
+      "published_at": "2026-09-22T16:35:18Z",
+      "description": "Every app that lets users paste a link has the same problem. Someone will eventually paste a phishing...",
+      "tags": [
+        "security",
+        "javascript",
+        "node",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4r0z3vj1b7f14ml3fn9.png",
+      "source": "Dev.to",
+      "user": "Nikolas Dimitroulakis"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1312,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1411,
       "user": "JohnHeibel"
     },
     {
@@ -1327,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 898,
       "user": "dgreenheck"
     },
     {
@@ -1342,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 879,
       "user": "riba2534"
     },
     {
@@ -1357,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 539,
       "user": "JohnHeibel"
     },
     {
@@ -1372,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 509,
       "user": "lemomo-ai"
     },
     {
@@ -1402,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 1015,
+      "stars": 1038,
       "user": "kryvora-network"
     },
     {
@@ -1417,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1553,
+      "stars": 1721,
       "user": "mexicat"
     },
     {
@@ -1432,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1289,
       "user": "dzhng"
     },
     {
@@ -1447,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1042,
       "user": "mikehasa"
     },
     {
@@ -1462,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 754,
       "user": "supermemoryai"
     },
     {
@@ -1477,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 716,
       "user": "anishfn"
     },
     {
@@ -1497,22 +1523,6 @@
       "user": "RandomDoe2026"
     },
     {
-      "title": "jquery datepicker icon disappears after autopostback",
-      "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
-      "published_at": "2026-09-27T21:17:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "jquery",
-        "asp.net",
-        "datepicker",
-        "webforms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John DiBella"
-    },
-    {
       "title": "How to fix an issue with random images not showing",
       "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
       "published_at": "2026-09-27T16:06:11.000Z",
@@ -1525,6 +1535,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aurora Lane"
+    },
+    {
+      "title": "jquery datepicker icon disappears after autopostback",
+      "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
+      "published_at": "2026-09-27T21:17:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "jquery",
+        "asp.net",
+        "datepicker",
+        "webforms"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John DiBella"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
@@ -1559,20 +1585,6 @@
       "user": "webdevShubhamKumar"
     },
     {
-      "title": "How do I randomize the position of bezier vertices?",
-      "url": "https://stackoverflow.com/questions/80006033/how-do-i-randomize-the-position-of-bezier-vertices",
-      "published_at": "2026-09-26T13:57:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "random",
-        "bezier"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aurora Lane"
-    },
-    {
       "title": "React form doesn't submit when pressing Enter in an input field",
       "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
       "published_at": "2026-09-25T09:58:06.000Z",
@@ -1589,7 +1601,7 @@
       "title": "Creating a reusable Object from JavaScript array",
       "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
       "published_at": "2026-09-22T21:48:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
+      "description": "Stack Overflow question · 6 answers · score 0",
       "tags": [
         "javascript",
         "arrays",
@@ -1602,20 +1614,20 @@
       "user": "Realto619"
     },
     {
-      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
-      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
-      "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Vue.js watcher not detecting changes to nested object property",
+      "url": "https://stackoverflow.com/questions/79996330/vue-js-watcher-not-detecting-changes-to-nested-object-property",
+      "published_at": "2026-08-18T23:44:17.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
-        "kubernetes",
-        "gitlab",
-        "keycloak",
-        "best-practices"
+        "vue.js",
+        "vuejs3",
+        "reactive",
+        "watch"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "comhendrik"
+      "user": "Aasim Ghaffar"
     },
     {
       "title": "How to test if an object is a Proxy?",
@@ -1630,6 +1642,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GOTO 0"
+    },
+    {
+      "title": "Chrome: timeouts/interval suspended in background tabs?",
+      "url": "https://stackoverflow.com/questions/6032429/chrome-timeouts-interval-suspended-in-background-tabs",
+      "published_at": "2011-05-17T14:34:00.000Z",
+      "description": "Stack Overflow question · 9 answers · score 203",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "tabs",
+        "settimeout"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KooiInc"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1648,6 +1675,81 @@
     }
   ],
   "Python": [
+    {
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
+      "published_at": "2026-09-28T06:25:14Z",
+      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "tags": [
+        "python",
+        "opensource",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
+      "source": "Dev.to",
+      "user": "Rishu"
+    },
+    {
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
+      "published_at": "2026-09-26T11:16:56Z",
+      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
+      "tags": [
+        "opensource",
+        "python",
+        "linux",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
+    },
+    {
+      "title": "Two Iceberg Clients, One Protocol: Where the Time Goes",
+      "url": "https://dev.to/gde/two-iceberg-clients-one-protocol-where-the-time-goes-4g88",
+      "published_at": "2026-09-25T16:40:44Z",
+      "description": "Step by step: timing the Rust and Python Iceberg REST clients on the same operations, on a local catalog and on BigLake and OneLake. Rust is 2x to 4x faster per call on the same machine, the two are even over the internet, and Python takes half a second longer to start on every catalog.",
+      "tags": [
+        "rust",
+        "python",
+        "iceberg",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ftwo-iceberg-clients-cost%2Fcover.edde6110.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
+      "url": "https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac",
+      "published_at": "2026-09-24T13:38:00Z",
+      "description": "There is an API. It will tell you things about your writing that the dashboard will not.  I have been...",
+      "tags": [
+        "python",
+        "api",
+        "devjournal",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7fbmudzx3podwa2jiz2l.png",
+      "source": "Dev.to",
+      "user": "Ken W Alger"
+    },
+    {
+      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
+      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
+      "published_at": "2026-09-26T11:10:24Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
       "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
@@ -1675,81 +1777,6 @@
         "opensource"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
-      "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
-      "published_at": "2026-09-20T23:30:02Z",
-      "description": "My PC clock ran 16 seconds ahead of the exchange. Signature validation failed, a \"helpful\" fallback computed equity from a paper balance, and the bot declared a 58% drawdown. No orders were sent. Here is the chain of events and the two fixes.",
-      "tags": [
-        "python",
-        "debugging",
-        "api",
-        "postmortem"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1l5xf073uexr79dibku.png",
-      "source": "Dev.to",
-      "user": "Wataru Suda"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
-      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
-      "published_at": "2026-09-01T07:00:00Z",
-      "description": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
-      "tags": [
-        "ai",
-        "python",
-        "datascience",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "url": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
-      "published_at": "2026-09-16T20:03:02Z",
-      "description": "Serving Gemma 4 E2B q4_0 through llama.cpp on one laptop, twice: CPU-only and on a 2021-era 4 GB GTX 1650 Ti. Same GGUF, same binary, same prompts, one flag apart. The card takes decode by 4.3x, and needs only 1598 MiB to do it.",
-      "tags": [
-        "machinelearning",
-        "gpu",
-        "benchmarking",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fcpu-vs-1650ti%2Fdevto-cover.274ec661.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
-      "published_at": "2026-09-17T02:43:18Z",
-      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
-      "tags": [
-        "amd",
-        "mcp",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1885,38 +1912,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2110,
+      "stars": 2216,
       "user": "Contrastive-LM"
-    },
-    {
-      "title": "asokurasu/text-humanizer - A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-      "url": "https://github.com/asokurasu/text-humanizer",
-      "published_at": "2026-09-23T17:32:37Z",
-      "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
-      "source": "GitHub",
-      "stars": 744,
-      "user": "asokurasu"
-    },
-    {
-      "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "url": "https://github.com/yukitorido/short-video-generator-AI",
-      "published_at": "2026-09-23T18:11:57Z",
-      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
-      "source": "GitHub",
-      "stars": 729,
-      "user": "yukitorido"
     },
     {
       "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
@@ -1930,8 +1927,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 762,
       "user": "feitangyuan"
+    },
+    {
+      "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "published_at": "2026-09-23T18:11:57Z",
+      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
+      "source": "GitHub",
+      "stars": 730,
+      "user": "yukitorido"
     },
     {
       "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
@@ -1949,18 +1961,59 @@
       "user": "kydlikebtc"
     },
     {
-      "title": "How to concatenate two variables to assign one variable in Python?",
-      "url": "https://stackoverflow.com/questions/80006339/how-to-concatenate-two-variables-to-assign-one-variable-in-python",
-      "published_at": "2026-09-28T00:48:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "url": "https://github.com/samyost1/3dicon",
+      "published_at": "2026-09-23T18:04:25Z",
+      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
       "tags": [
         "python",
-        "string",
-        "concatenation"
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
+      "source": "GitHub",
+      "stars": 501,
+      "user": "samyost1"
+    },
+    {
+      "title": "pyqt5, mariadb Not getting connected to the DB",
+      "url": "https://stackoverflow.com/questions/80006504/pyqt5-mariadb-not-getting-connected-to-the-db",
+      "published_at": "2026-09-28T16:50:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "pyqt5",
+        "mariadb"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Joe1036"
+      "user": "Peter Martin"
+    },
+    {
+      "title": "print() and return in Python?",
+      "url": "https://stackoverflow.com/questions/80006481/print-and-return-in-python",
+      "published_at": "2026-09-28T14:58:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mardulino Dinis"
+    },
+    {
+      "title": "Ansible Lookup Plugin to query the inventory?",
+      "url": "https://stackoverflow.com/questions/80006445/ansible-lookup-plugin-to-query-the-inventory",
+      "published_at": "2026-09-28T12:09:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "ansible",
+        "ansible-inventory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "creatldd1 creatldd1"
     },
     {
       "title": "Detecting keypress and keyrelease on arrow keys",
@@ -1974,6 +2027,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Iain"
+    },
+    {
+      "title": "How to concatenate two variables to assign one variable in Python?",
+      "url": "https://stackoverflow.com/questions/80006339/how-to-concatenate-two-variables-to-assign-one-variable-in-python",
+      "published_at": "2026-09-28T00:48:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python",
+        "string",
+        "concatenation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe1036"
     },
     {
       "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
@@ -1994,7 +2061,7 @@
       "title": "Member None of Any | None does not have attribute with_columns - polars & PyCharm problem",
       "url": "https://stackoverflow.com/questions/80006258/member-none-of-any-none-does-not-have-attribute-with-columns-polars-pychar",
       "published_at": "2026-09-27T15:56:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "pycharm",
@@ -2038,46 +2105,6 @@
       "tags": [
         "python",
         "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "What kind of regular expression captures the root of a URL?",
-      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
-      "published_at": "2026-09-25T19:09:34.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
-      "tags": [
-        "python",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toothpick Anemone"
-    },
-    {
-      "title": "Is a broadcast variable shared across multiple concurrent Spark jobs?",
-      "url": "https://stackoverflow.com/questions/80005977/is-a-broadcast-variable-shared-across-multiple-concurrent-spark-jobs",
-      "published_at": "2026-09-26T06:35:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "apache-spark"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nitish N Banakar"
-    },
-    {
-      "title": "Run code when module is unloaded from memory",
-      "url": "https://stackoverflow.com/questions/80003859/run-code-when-module-is-unloaded-from-memory",
-      "published_at": "2026-09-17T16:32:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "wsgi"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2313,22 +2340,6 @@
       "user": "jknupp"
     },
     {
-      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
-      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
-      "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "kubernetes",
-        "gitlab",
-        "keycloak",
-        "best-practices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "comhendrik"
-    },
-    {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
       "url": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
       "published_at": "2026-09-24T16:08:52.000Z",
@@ -2345,6 +2356,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+      "published_at": "2026-09-23T14:23:57Z",
+      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "tags": [
+        "typescript",
+        "javascript",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif",
+      "source": "Dev.to",
+      "user": "nyaomaru"
+    },
     {
       "title": "The Grand Unifying Architecture of Frontend",
       "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
@@ -2399,7 +2425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1042,
       "user": "mikehasa"
     },
     {
@@ -2436,6 +2462,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More",
+      "url": "https://dev.to/gde/the-sand-in-the-oyster-why-riverpod-was-needed-and-why-you-dont-need-it-any-more-204o",
+      "published_at": "2026-09-27T17:53:54Z",
+      "description": "The hidden mechanical flaw in Flutter's InheritedWidget that forced the creation of Riverpod, why escaping the widget tree created its own architectural taxes, and how push-pull signals finally resolve the tension.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fprso5o6pillec3vj2c0b.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
     {
       "title": "Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs",
       "url": "https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9",
@@ -2497,6 +2538,34 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
+      "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
+      "published_at": "2026-09-22T08:26:58Z",
+      "description": "In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
+      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+      "published_at": "2026-09-28T16:47:49.000Z",
+      "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+      "tags": [
+        "Apps",
+        "iOS",
+        "iPhone",
+        "Walkman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
       "url": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
       "published_at": "2026-09-23T21:01:32.000Z",
@@ -2541,6 +2610,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
+      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
+      "published_at": "2026-09-26T11:10:24Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
+      "published_at": "2026-09-26T11:10:27Z",
+      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "What One Rust Client Can Reach Across Seven Iceberg Catalogs",
+      "url": "https://dev.to/gde/what-one-rust-client-can-reach-across-seven-iceberg-catalogs-22ll",
+      "published_at": "2026-09-25T16:20:56Z",
+      "description": "Step by step: the Apache Rust Iceberg REST client against seven Iceberg catalogs. It logs in to five of them, and on every one it logs in to, all 13 endpoints it implements answer — 7 reads on three catalogs and 11 writes on the local one, with no failures. The two AWS catalogs need SigV4, which it cannot send, so Rust reaches them through two other crates whose operation sets differ from its own.",
+      "tags": [
+        "rust",
+        "iceberg",
+        "lakehouse",
+        "dataengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Frust-client-seven-catalogs%2Fcover.b00343f4.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU",
@@ -2691,65 +2805,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Claude Fable 5.1 is now available on Agent Platform!",
-      "url": "https://dev.to/googleai/claude-fable-51-is-now-available-on-agent-platform-1b16",
-      "published_at": "2026-09-01T18:28:57Z",
-      "description": "Claude Fable 5.1 is officially available in the Model Garden on Agent Platform.  Built for...",
-      "tags": [
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhqm7saa0k4w2kcupeu7f.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
-      "url": "https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9",
-      "published_at": "2026-09-17T02:43:18Z",
-      "description": "One AMD Instinct MI300X on AMD Developer Cloud, managed entirely through a tag-scoped Python MCP server, with every figure read off the card rather than a spec sheet. fp8 e4m3fnuz runs 1.77x bf16; int8, which AMD rates identically to fp8, runs 0.69x; fp4 is not on this silicon at all. One droplet, $1.99 an hour, and two readings that were wrong the first time.",
-      "tags": [
-        "amd",
-        "mcp",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Famd-gputools%2Fmain%2Fdevto-cover.403ae80c.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Valid Schema, Wrong Content: Using Jev to Guard a Google ADK Agent",
-      "url": "https://dev.to/gde/valid-schema-wrong-content-using-jev-to-guard-a-google-adk-agent-57o6",
-      "published_at": "2026-09-19T16:39:25Z",
-      "description": "Schema-valid is not content-correct · Part 1/3           It starts with a storyboard a...",
-      "tags": [
-        "googlecloud",
-        "adk",
-        "jev",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5a72kpxcffbw2sjqlaoc.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
     }
   ],
   "Database": [
@@ -2777,8 +2832,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1042,
       "user": "mikehasa"
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "published_at": "2026-09-28T16:52:38.000Z",
+      "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "In Brief",
+        "Meta",
+        "MongoDB"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
@@ -2810,6 +2881,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Build a phishing link checker in Node.js with three API calls",
+      "url": "https://dev.to/nikolas_dimitroulakis_d23/build-a-phishing-link-checker-in-nodejs-with-three-api-calls-2pb4",
+      "published_at": "2026-09-22T16:35:18Z",
+      "description": "Every app that lets users paste a link has the same problem. Someone will eventually paste a phishing...",
+      "tags": [
+        "security",
+        "javascript",
+        "node",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4r0z3vj1b7f14ml3fn9.png",
+      "source": "Dev.to",
+      "user": "Nikolas Dimitroulakis"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2942,6 +3028,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "published_at": "2026-09-28T18:31:23.000Z",
+      "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security l",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     }
   ],
   "Tools": [
@@ -3066,66 +3164,6 @@
       "user": "Tanay Dwivedi"
     },
     {
-      "title": "Progressive Disclosure: What, Where, When, and Why",
-      "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-      "published_at": "2026-09-16T18:01:55Z",
-      "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-      "tags": [
-        "ai",
-        "claude",
-        "performance",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7x9oaexydefrqmsnmjka.png",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
-      "title": "Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys",
-      "url": "https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9",
-      "published_at": "2026-09-17T21:36:22Z",
-      "description": "A step by step deployment of Gemma 4 E2B to a single AMD Instinct MI300X on AMD Developer Cloud, driven by Python MCP tools, and the throughput a 191.7 GiB card returns for its hourly rate.",
-      "tags": [
-        "amd",
-        "vllm",
-        "rocm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Fdevto-dollar-hour-cover.02475528.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Step up to the Sheets: AI Eval Export and Illustrating Data",
-      "url": "https://dev.to/googleai/step-up-to-the-sheets-ai-eval-export-and-illustrating-data-bak",
-      "published_at": "2026-09-01T07:00:00Z",
-      "description": "Welcome to part three of our series about designing, analyzing and visualizing AI Evals! As with the...",
-      "tags": [
-        "ai",
-        "python",
-        "datascience",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkb3dzrpfzj6sw50bi0q5.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
-      "title": "What Do You Do While AI Codes?",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "published_at": "2026-08-25T13:36:11Z",
-      "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
-      "tags": [
-        "discuss",
-        "ai",
-        "productivity",
-        "devex"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
-      "source": "Dev.to",
-      "user": "Ashley Childress"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3173,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1411,
       "user": "JohnHeibel"
     },
     {
@@ -3188,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 898,
       "user": "dgreenheck"
     },
     {
@@ -3203,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 879,
       "user": "riba2534"
     },
     {
@@ -3218,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 539,
       "user": "JohnHeibel"
     },
     {
@@ -3233,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 509,
       "user": "lemomo-ai"
     },
     {
@@ -3248,38 +3286,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2110,
+      "stars": 2216,
       "user": "Contrastive-LM"
-    },
-    {
-      "title": "asokurasu/text-humanizer - A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-      "url": "https://github.com/asokurasu/text-humanizer",
-      "published_at": "2026-09-23T17:32:37Z",
-      "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
-      "source": "GitHub",
-      "stars": 744,
-      "user": "asokurasu"
-    },
-    {
-      "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "url": "https://github.com/yukitorido/short-video-generator-AI",
-      "published_at": "2026-09-23T18:11:57Z",
-      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
-      "source": "GitHub",
-      "stars": 729,
-      "user": "yukitorido"
     },
     {
       "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
@@ -3293,8 +3301,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 762,
       "user": "feitangyuan"
+    },
+    {
+      "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "published_at": "2026-09-23T18:11:57Z",
+      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
+      "source": "GitHub",
+      "stars": 730,
+      "user": "yukitorido"
     },
     {
       "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
@@ -3312,6 +3335,21 @@
       "user": "kydlikebtc"
     },
     {
+      "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "url": "https://github.com/samyost1/3dicon",
+      "published_at": "2026-09-23T18:04:25Z",
+      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
+      "source": "GitHub",
+      "stars": 501,
+      "user": "samyost1"
+    },
+    {
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "url": "https://github.com/yetone/magpie",
       "published_at": "2026-09-23T16:22:35Z",
@@ -3323,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1571,
       "user": "yetone"
     },
     {
@@ -3338,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 1015,
+      "stars": 1038,
       "user": "kryvora-network"
     },
     {
@@ -3353,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 138,
       "user": "JaxsonWang"
     },
     {
@@ -3368,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 134,
       "user": "mvanhorn"
     },
     {
@@ -3398,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1553,
+      "stars": 1721,
       "user": "mexicat"
     },
     {
@@ -3413,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1289,
       "user": "dzhng"
     },
     {
@@ -3428,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1042,
       "user": "mikehasa"
     },
     {
@@ -3443,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 754,
       "user": "supermemoryai"
     },
     {
@@ -3458,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 716,
       "user": "anishfn"
     },
     {
@@ -3473,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1790,
       "user": "tobi"
     },
     {
@@ -3488,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 842,
       "user": "ollaya-dev"
     },
     {
@@ -3503,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 310,
       "user": "jankeesvw"
     },
     {
@@ -3518,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 302,
       "user": "codejunkie99"
     },
     {
@@ -3533,77 +3571,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 131,
       "user": "pch"
     },
     {
-      "title": "Don't couple your Go code to GitHub",
-      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "published_at": "2026-09-27T15:17:42.121-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "published_at": "2026-09-28T18:31:23.000Z",
+      "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security l",
       "tags": [
-        "go"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "olex"
-    },
-    {
-      "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
-      "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
-      "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "kubernetes",
-        "gitlab",
-        "keycloak",
-        "best-practices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "comhendrik"
-    },
-    {
-      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-      "published_at": "2026-09-27T15:00:00.000Z",
-      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
-      "tags": [
-        "Gadgets",
-        "Hardware"
+        "AI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "published_at": "2026-09-27T01:40:30.000Z",
-      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
-      "tags": [
-        "Hardware",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "published_at": "2026-09-26T21:02:06.000Z",
-      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Blue Cross Blue Shield",
-        "Abridge"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
