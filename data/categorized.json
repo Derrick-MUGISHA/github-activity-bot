@@ -119,21 +119,6 @@
       "user": "xbill"
     },
     {
-      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
-      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
-      "published_at": "2026-09-23T20:59:28Z",
-      "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
-      "tags": [
-        "devchallenge",
-        "kagglebenchmarkchallenge",
-        "machinelearning",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice",
       "url": "https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6",
       "published_at": "2026-09-24T02:00:37Z",
@@ -433,6 +418,21 @@
       "user": " Gábor Mészáros"
     },
     {
+      "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+      "url": "https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml",
+      "published_at": "2026-09-23T20:59:28Z",
+      "description": "We're excited to team up with Kaggle for a brand new challenge!  Running through October 11, the...",
+      "tags": [
+        "devchallenge",
+        "kagglebenchmarkchallenge",
+        "machinelearning",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fup4xs7874b4zni49rie5.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "A 16-second clock drift falsely tripped my trading bot's kill switch. A postmortem.",
       "url": "https://dev.to/wataru_suda_d295dab9cca4f/a-16-second-clock-drift-falsely-tripped-my-trading-bots-kill-switch-a-postmortem-4k2f",
       "published_at": "2026-09-20T23:30:02Z",
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 488,
       "user": "JohnHeibel"
     },
     {
@@ -731,23 +731,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 402,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "nokia-applied-research/AnyJev - Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "url": "https://github.com/nokia-applied-research/AnyJev",
-      "published_at": "2026-09-21T05:55:40Z",
-      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
-      "source": "GitHub",
-      "stars": 827,
-      "user": "nokia-applied-research"
     },
     {
       "title": "asokurasu/text-humanizer - A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 742,
       "user": "asokurasu"
     },
     {
@@ -776,23 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "yukitorido"
     },
     {
-      "title": "unreallabsai/unreal-agent - Async-first agent harness",
-      "url": "https://github.com/unreallabsai/unreal-agent",
-      "published_at": "2026-09-21T23:14:02Z",
-      "description": "Async-first agent harness",
+      "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "published_at": "2026-09-22T02:22:54Z",
+      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/75060932?v=4",
       "source": "GitHub",
-      "stars": 1986,
-      "user": "unreallabsai"
+      "stars": 580,
+      "user": "kydlikebtc"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 124,
       "user": "JaxsonWang"
     },
     {
@@ -821,8 +806,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 108,
       "user": "mvanhorn"
+    },
+    {
+      "title": "Calcium-Ion/AstrLink - A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
+      "url": "https://github.com/Calcium-Ion/AstrLink",
+      "published_at": "2026-09-22T04:20:28Z",
+      "description": "A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/61247483?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "Calcium-Ion"
     },
     {
       "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1016,
       "user": "mikehasa"
     },
     {
@@ -851,23 +851,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 685,
       "user": "supermemoryai"
-    },
-    {
-      "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
-      "url": "https://github.com/OnlistTeam/ai-manager",
-      "published_at": "2026-09-21T05:07:53Z",
-      "description": "AI Manager desktop application for AI coding tools",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
-      "source": "GitHub",
-      "stars": 488,
-      "user": "OnlistTeam"
     },
     {
       "title": "One month without AI",
@@ -1010,22 +995,6 @@
         "Biotech & Health",
         "Blue Cross Blue Shield",
         "Abridge"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-      "published_at": "2026-09-26T17:44:00.000Z",
-      "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-      "tags": [
-        "Government & Policy",
-        "Media & Entertainment",
-        "Social",
-        "Alex Gibney",
-        "Elon Musk"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1342,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1243,
+      "stars": 1291,
       "user": "JohnHeibel"
     },
     {
@@ -1357,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 846,
       "user": "riba2534"
     },
     {
@@ -1372,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 840,
       "user": "dgreenheck"
     },
     {
@@ -1387,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 488,
       "user": "JohnHeibel"
     },
     {
@@ -1402,8 +1371,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 402,
       "user": "lemomo-ai"
+    },
+    {
+      "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "published_at": "2026-09-22T02:22:54Z",
+      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75060932?v=4",
+      "source": "GitHub",
+      "stars": 580,
+      "user": "kydlikebtc"
     },
     {
       "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
@@ -1417,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 982,
       "user": "kryvora-network"
     },
     {
@@ -1432,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1312,
       "user": "mexicat"
     },
     {
@@ -1447,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1016,
       "user": "mikehasa"
     },
     {
@@ -1462,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 858,
       "user": "dzhng"
     },
     {
@@ -1477,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 710,
       "user": "anishfn"
     },
     {
@@ -1492,14 +1476,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 685,
       "user": "supermemoryai"
     },
     {
       "title": "jquery datepicker icon disappears after autopostback",
       "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
       "published_at": "2026-09-27T21:17:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "jquery",
@@ -1528,7 +1512,7 @@
       "title": "Unable to adjust video timeline which downloaded using yt-dlp and Node.js via browser",
       "url": "https://stackoverflow.com/questions/80006280/unable-to-adjust-video-timeline-which-downloaded-using-yt-dlp-and-node-js-via-br",
       "published_at": "2026-09-27T17:58:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "node.js",
@@ -1633,7 +1617,7 @@
       "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
       "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
       "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "kubernetes",
@@ -1899,38 +1883,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 1986,
       "user": "Contrastive-LM"
-    },
-    {
-      "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "url": "https://github.com/deepopen-com/deepopen",
-      "published_at": "2026-09-21T02:12:24Z",
-      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
-      "source": "GitHub",
-      "stars": 1044,
-      "user": "deepopen-com"
-    },
-    {
-      "title": "nokia-applied-research/AnyJev - Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "url": "https://github.com/nokia-applied-research/AnyJev",
-      "published_at": "2026-09-21T05:55:40Z",
-      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
-      "source": "GitHub",
-      "stars": 827,
-      "user": "nokia-applied-research"
     },
     {
       "title": "asokurasu/text-humanizer - A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
@@ -1944,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 742,
       "user": "asokurasu"
     },
     {
@@ -1959,8 +1913,65 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "yukitorido"
+    },
+    {
+      "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "published_at": "2026-09-22T02:22:54Z",
+      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75060932?v=4",
+      "source": "GitHub",
+      "stars": 580,
+      "user": "kydlikebtc"
+    },
+    {
+      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "published_at": "2026-09-26T05:35:17Z",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
+      "source": "GitHub",
+      "stars": 575,
+      "user": "feitangyuan"
+    },
+    {
+      "title": "How to concatenate two variables to assign one variable in Python?",
+      "url": "https://stackoverflow.com/questions/80006339/how-to-concatenate-two-variables-to-assign-one-variable-in-python",
+      "published_at": "2026-09-28T00:48:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "string",
+        "concatenation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe1036"
+    },
+    {
+      "title": "Detecting keypress and keyrelease on arrow keys",
+      "url": "https://stackoverflow.com/questions/80006215/detecting-keypress-and-keyrelease-on-arrow-keys",
+      "published_at": "2026-09-27T12:54:41.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "pyqt6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Iain"
     },
     {
       "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
@@ -1990,19 +2001,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FluidMechanics Potential Flows"
-    },
-    {
-      "title": "Detecting keypress and keyrelease on arrow keys",
-      "url": "https://stackoverflow.com/questions/80006215/detecting-keypress-and-keyrelease-on-arrow-keys",
-      "published_at": "2026-09-27T12:54:41.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Iain"
     },
     {
       "title": "Python list/dict comprehension giving generator object",
@@ -2046,19 +2044,6 @@
       "user": "NickC"
     },
     {
-      "title": "What kind of regular expression captures the root of a URL?",
-      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
-      "published_at": "2026-09-25T19:09:34.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
-      "tags": [
-        "python",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toothpick Anemone"
-    },
-    {
       "title": "How do I correctly type a wrapper that returns a classmethod?",
       "url": "https://stackoverflow.com/questions/80005905/how-do-i-correctly-type-a-wrapper-that-returns-a-classmethod",
       "published_at": "2026-09-25T20:07:53.000Z",
@@ -2073,6 +2058,19 @@
       "user": "User"
     },
     {
+      "title": "What kind of regular expression captures the root of a URL?",
+      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
+      "published_at": "2026-09-25T19:09:34.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "python",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toothpick Anemone"
+    },
+    {
       "title": "Is a broadcast variable shared across multiple concurrent Spark jobs?",
       "url": "https://stackoverflow.com/questions/80005977/is-a-broadcast-variable-shared-across-multiple-concurrent-spark-jobs",
       "published_at": "2026-09-26T06:35:26.000Z",
@@ -2085,18 +2083,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nitish N Banakar"
-    },
-    {
-      "title": "Using `with` and a custom class not setting attributes",
-      "url": "https://stackoverflow.com/questions/80005922/using-with-and-a-custom-class-not-setting-attributes",
-      "published_at": "2026-09-25T22:35:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2331,7 +2317,7 @@
       "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
       "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
       "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "kubernetes",
@@ -2414,7 +2400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1016,
       "user": "mikehasa"
     },
     {
@@ -2494,6 +2480,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8dsce3xxd0txso2shxb1.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Dropping Swift entirely from our Bevy iOS crates",
+      "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/",
+      "published_at": "2026-09-27T18:22:45.754-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release",
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "extrawurst"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
@@ -2776,7 +2775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1016,
       "user": "mikehasa"
     },
     {
@@ -3185,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1243,
+      "stars": 1291,
       "user": "JohnHeibel"
     },
     {
@@ -3200,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 846,
       "user": "riba2534"
     },
     {
@@ -3215,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 840,
       "user": "dgreenheck"
     },
     {
@@ -3230,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 488,
       "user": "JohnHeibel"
     },
     {
@@ -3245,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 402,
       "user": "lemomo-ai"
     },
     {
@@ -3260,38 +3259,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 1986,
       "user": "Contrastive-LM"
-    },
-    {
-      "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "url": "https://github.com/deepopen-com/deepopen",
-      "published_at": "2026-09-21T02:12:24Z",
-      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
-      "source": "GitHub",
-      "stars": 1044,
-      "user": "deepopen-com"
-    },
-    {
-      "title": "nokia-applied-research/AnyJev - Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "url": "https://github.com/nokia-applied-research/AnyJev",
-      "published_at": "2026-09-21T05:55:40Z",
-      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312694883?v=4",
-      "source": "GitHub",
-      "stars": 827,
-      "user": "nokia-applied-research"
     },
     {
       "title": "asokurasu/text-humanizer - A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
@@ -3305,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314023151?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 742,
       "user": "asokurasu"
     },
     {
@@ -3320,23 +3289,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 725,
       "user": "yukitorido"
     },
     {
-      "title": "unreallabsai/unreal-agent - Async-first agent harness",
-      "url": "https://github.com/unreallabsai/unreal-agent",
-      "published_at": "2026-09-21T23:14:02Z",
-      "description": "Async-first agent harness",
+      "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "published_at": "2026-09-22T02:22:54Z",
+      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/181495282?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/75060932?v=4",
       "source": "GitHub",
-      "stars": 1986,
-      "user": "unreallabsai"
+      "stars": 580,
+      "user": "kydlikebtc"
+    },
+    {
+      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "published_at": "2026-09-26T05:35:17Z",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
+      "source": "GitHub",
+      "stars": 575,
+      "user": "feitangyuan"
     },
     {
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
@@ -3350,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1316,
       "user": "yetone"
     },
     {
@@ -3365,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 982,
       "user": "kryvora-network"
     },
     {
@@ -3380,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 124,
       "user": "JaxsonWang"
     },
     {
@@ -3395,8 +3379,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 108,
       "user": "mvanhorn"
+    },
+    {
+      "title": "Calcium-Ion/AstrLink - A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
+      "url": "https://github.com/Calcium-Ion/AstrLink",
+      "published_at": "2026-09-22T04:20:28Z",
+      "description": "A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/61247483?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "Calcium-Ion"
     },
     {
       "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
@@ -3410,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1312,
       "user": "mexicat"
     },
     {
@@ -3425,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1016,
       "user": "mikehasa"
     },
     {
@@ -3440,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 858,
       "user": "dzhng"
     },
     {
@@ -3455,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 710,
       "user": "anishfn"
     },
     {
@@ -3470,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 685,
       "user": "supermemoryai"
     },
     {
@@ -3485,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1583,
+      "stars": 1666,
       "user": "tobi"
     },
     {
@@ -3500,38 +3499,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 722,
       "user": "ollaya-dev"
-    },
-    {
-      "title": "OnlistTeam/ai-manager - AI Manager desktop application for AI coding tools",
-      "url": "https://github.com/OnlistTeam/ai-manager",
-      "published_at": "2026-09-21T05:07:53Z",
-      "description": "AI Manager desktop application for AI coding tools",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290737652?v=4",
-      "source": "GitHub",
-      "stars": 488,
-      "user": "OnlistTeam"
-    },
-    {
-      "title": "codejunkie99/keel - Local-first macOS coding workspace with local Laya and optional Jev decision selection",
-      "url": "https://github.com/codejunkie99/keel",
-      "published_at": "2026-09-22T22:08:29Z",
-      "description": "Local-first macOS coding workspace with local Laya and optional Jev decision selection",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
-      "source": "GitHub",
-      "stars": 293,
-      "user": "codejunkie99"
     },
     {
       "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
@@ -3545,8 +3514,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 297,
       "user": "jankeesvw"
+    },
+    {
+      "title": "codejunkie99/keel - Local-first macOS coding workspace with local Laya and optional Jev decision selection",
+      "url": "https://github.com/codejunkie99/keel",
+      "published_at": "2026-09-22T22:08:29Z",
+      "description": "Local-first macOS coding workspace with local Laya and optional Jev decision selection",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "codejunkie99"
+    },
+    {
+      "title": "pch/rawmakase - Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)",
+      "url": "https://github.com/pch/rawmakase",
+      "published_at": "2026-09-26T13:44:32Z",
+      "description": "Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "pch"
     },
     {
       "title": "Don't couple your Go code to GitHub",
@@ -3578,7 +3577,7 @@
       "title": "How to use backstage to push to a gitlab repository with a user specifif identity based on the template feature",
       "url": "https://stackoverflow.com/questions/79874000/how-to-use-backstage-to-push-to-a-gitlab-repository-with-a-user-specifif-identit",
       "published_at": "2026-01-22T17:18:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "kubernetes",
