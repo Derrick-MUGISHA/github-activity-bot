@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--09--28-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,12 +21,50 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-09-28 13:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-09-28 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg" width="200" alt="I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)" />
+      <br/>
+      <b>I connected a fruit fly connectome to tic-tac-toe ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ben/meme-monday-2com">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ol931o6k5vdjl02gk8a.webp" width="200" alt="Meme Monday" />
+      <br/>
+      <b>Meme Monday</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/the-sand-in-the-oyster-why-riverpod-was-needed-and-why-you-dont-need-it-any-more-204o">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fprso5o6pillec3vj2c0b.png" width="200" alt="The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More" />
+      <br/>
+      <b>The Sand in the Oyster: Why Riverpod Was Needed, a...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftnbc2gdakk3qehpieo3u.png" width="200" alt="8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight" />
+      <br/>
+      <b>8 Posts by Women on DEV That Deserve More Than a O...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkefqnwarmqoxiv5dy8n.jpg" width="200" alt="Disappeared Since March: Taking a Long Break Was My Best Decision Yet" />
@@ -45,44 +83,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-odj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8b68f4vboousukpjouay.jpg" width="200" alt="What was your win this week!?" />
-      <br/>
-      <b>What was your win this week!?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png" width="200" alt="This video is about how this video was made" />
-      <br/>
-      <b>This video is about how this video was made</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png" width="200" alt="Claude on Google Cloud workshop | NYC | 9/30" />
-      <br/>
-      <b>Claude on Google Cloud workshop | NYC | 9/30</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png" width="200" alt="Deploying LiteLLM: An Open-Source AI Gateway" />
-      <br/>
-      <b>Deploying LiteLLM: An Open-Source AI Gateway</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -92,28 +92,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
-| 2 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
-| 3 | [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odj) | Dev.to |
-| 4 | [This video is about how this video was made](https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl) | Dev.to |
-| 5 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
-| 6 | [Deploying LiteLLM: An Open-Source AI Gateway](https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp) | Dev.to |
-| 7 | [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g) | Dev.to |
-| 8 | [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd) | Dev.to |
-| 9 | [Welcome Thread - v 394](https://dev.to/sloan/welcome-thread-v-394-22l2) | Dev.to |
-| 10 | [A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x](https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56) | Dev.to |
-| 11 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl) | Dev.to |
-| 12 | [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9) | Dev.to |
-| 13 | [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif) | Dev.to |
-| 14 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2hcb) | Dev.to |
-| 15 | [Congrats to the Summer Bug Smash Winners!](https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei) | Dev.to |
-| 16 | [Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b) | Dev.to |
-| 17 | [Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)](https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7) | Dev.to |
-| 18 | [20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii) | Dev.to |
-| 19 | [Running a Jev-Style Decision Model on One TPU v6e: What Fits, What It Costs, and What Changes From a GPU](https://dev.to/gde/running-a-jev-style-decision-model-on-one-tpu-v6e-what-fits-what-it-costs-and-what-changes-from-1j0g) | Dev.to |
-| 20 | [Plain Gemma 4 26B vs Jev on One EC2 L4: 2.1 Points Behind Overall, Level on Yes/No, 4.5 Behind on Multiple Choice](https://dev.to/gde/plain-gemma-4-26b-vs-jev-on-one-ec2-l4-21-points-behind-overall-level-on-yesno-45-behind-on-15k6) | Dev.to |
+| 1 | [I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)](https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0) | Dev.to |
+| 2 | [Meme Monday](https://dev.to/ben/meme-monday-2com) | Dev.to |
+| 3 | [The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More](https://dev.to/gde/the-sand-in-the-oyster-why-riverpod-was-needed-and-why-you-dont-need-it-any-more-204o) | Dev.to |
+| 4 | [8 Posts by Women on DEV That Deserve More Than a Once-a-Year Spotlight](https://dev.to/sheships/8-posts-by-women-on-dev-that-deserve-more-than-a-once-a-year-spotlight-27dc) | Dev.to |
+| 5 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
+| 6 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 7 | [I Built a Better Codex Pet Than OpenAI Did](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib) | Dev.to |
+| 8 | [This video is about how this video was made](https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl) | Dev.to |
+| 9 | [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57) | Dev.to |
+| 10 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
+| 11 | [Deploying LiteLLM: An Open-Source AI Gateway](https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp) | Dev.to |
+| 12 | [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g) | Dev.to |
+| 13 | [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd) | Dev.to |
+| 14 | [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-odj) | Dev.to |
+| 15 | [Welcome Thread - v 394](https://dev.to/sloan/welcome-thread-v-394-22l2) | Dev.to |
+| 16 | [A 4 GB Laptop GPU vs a 6-Core CPU on Gemma 4, Re-Measured in ABBA Order: 4.1x](https://dev.to/gde/a-4-gb-laptop-gpu-vs-a-6-core-cpu-on-gemma-4-re-measured-in-abba-order-41x-5g56) | Dev.to |
+| 17 | [An introverted dev in an extroverted world](https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04) | Dev.to |
+| 18 | [Two Iceberg Clients, One Protocol: Where the Time Goes](https://dev.to/gde/two-iceberg-clients-one-protocol-where-the-time-goes-4g88) | Dev.to |
+| 19 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl) | Dev.to |
+| 20 | [I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.](https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac) | Dev.to |
 
-<sub>Last fetched: Mon, 28 Sep 2026 13:46:34 CAT</sub>
+<sub>Last fetched: Mon, 28 Sep 2026 20:49:13 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — Explain the difference between state and props**
+**1. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**2. `Java` — What is the difference between abstract class and interface?**
+**2. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Token bucket, sliding window, Redis
 
 </details>
 
-**3. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**3. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -165,15 +165,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 76 | 41.3% | `████████████████████` |
-| **Tools** | 46 | 25.0% | `████████████░░░░░░░░` |
-| **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 41 | 22.3% | `███████████░░░░░░░░░` |
+| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **Python** | 35 | 19.0% | `█████████░░░░░░░░░░░` |
-| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,29 +194,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.7%
-Python          ███████████████████████████ 24.8%
-Go              ████████████████████████ 22.0%
-Java            ██████████████████████ 19.9%
-Rust            █████ 4.3%
-CSharp          ██ 1.4%
+JavaScript      ██████████████████████████████ 27.9%
+Python          ██████████████████████████ 23.8%
+Go              ███████████████████████ 21.1%
+Java            ██████████████████████ 20.4%
+Rust            █████ 4.8%
+Swift           ██ 1.4%
+CSharp          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 39
+    "JavaScript" : 41
     "Python" : 35
     "Go" : 31
-    "Java" : 28
-    "Rust" : 6
-    "CSharp" : 2
+    "Java" : 30
+    "Rust" : 7
+    "Swift" : 2
+    "CSharp" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![claude](https://img.shields.io/badge/claude-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-34-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-8-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 28 Sep 2026 11:46:34 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 28 Sep 2026 18:49:13 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
