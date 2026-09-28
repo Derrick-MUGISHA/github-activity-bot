@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
+      "published_at": "2026-09-28T19:04:50Z",
+      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
       "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
       "published_at": "2026-09-28T06:25:14Z",
@@ -14,6 +29,45 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
       "source": "Dev.to",
       "user": "Rishu"
+    },
+    {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
+      "published_at": "2026-09-28T22:22:04Z",
+      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "tags": [
+        "voiceai",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
+      "source": "Dev.to",
+      "user": "Annie Cusack"
+    },
+    {
+      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
+      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3",
+      "published_at": "2026-09-28T22:17:28Z",
+      "description": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
+      "tags": [
+        "agents",
+        "sandbox",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png",
+      "source": "Dev.to",
+      "user": "Praveen Rajasekar"
+    },
+    {
+      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
+      "published_at": "2026-09-28T18:53:36Z",
+      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
@@ -506,21 +560,6 @@
       "user": "Sneha M K"
     },
     {
-      "title": "AI Engineering Is Easy. Changing How We Work Is Hard",
-      "url": "https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4",
-      "published_at": "2026-09-04T09:24:10Z",
-      "description": "AI engineering sounds fancy. New terms are everywhere: agentic development, AI-native engineering,...",
-      "tags": [
-        "ai",
-        "agents",
-        "software",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg3w3qarjxhlga0achtsj.png",
-      "source": "Dev.to",
-      "user": "ujja"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -700,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 547,
       "user": "JohnHeibel"
     },
     {
@@ -715,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 515,
       "user": "lemomo-ai"
     },
     {
@@ -730,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 731,
       "user": "yukitorido"
     },
     {
@@ -760,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "JaxsonWang"
     },
     {
@@ -775,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "mvanhorn"
     },
     {
@@ -805,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1045,
       "user": "mikehasa"
     },
     {
@@ -820,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 792,
       "user": "supermemoryai"
     },
     {
@@ -851,6 +890,21 @@
       "user": "Corbin"
     },
     {
+      "title": "Uncaught TypeError: Cannot read properties of null (reading 'postMessage'), cross-origin frame problem",
+      "url": "https://stackoverflow.com/questions/76966456/uncaught-typeerror-cannot-read-properties-of-null-reading-postmessage-cros",
+      "published_at": "2023-08-24T05:35:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "jquery",
+        "iframe",
+        "cross-domain"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "woninana"
+    },
+    {
       "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
       "url": "https://stackoverflow.com/questions/80006284/how-can-i-get-latest-reading-from-multiple-griddb-timeseries-containers-using-py",
       "published_at": "2026-09-27T18:13:42.000Z",
@@ -864,6 +918,91 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Manthan Done"
+    },
+    {
+      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn&#8217;t as far-fetched as it sounds",
+      "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "published_at": "2026-09-28T22:58:35.000Z",
+      "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+      "tags": [
+        "Transportation",
+        "Aurora Innovation",
+        "autonomous vehicles"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "published_at": "2026-09-28T21:29:18.000Z",
+      "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "tags": [
+        "AI",
+        "Accel",
+        "inference",
+        "Modal Labs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "published_at": "2026-09-28T20:39:33.000Z",
+      "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "tags": [
+        "AI",
+        "world models"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "published_at": "2026-09-28T19:33:57.000Z",
+      "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "AI agents",
+        "Shopify"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "published_at": "2026-09-28T19:27:27.000Z",
+      "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+      "tags": [
+        "Transportation",
+        "Elon Musk",
+        "Roadster",
+        "Tesla"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "published_at": "2026-09-28T19:21:59.000Z",
+      "description": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+      "tags": [
+        "Climate",
+        "climate week nyc"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "Nvidia launches new platform for reining in rogue AI agents",
@@ -919,83 +1058,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "published_at": "2026-09-28T16:52:38.000Z",
-      "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "In Brief",
-        "Meta",
-        "MongoDB"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-28T15:30:00.000Z",
-      "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "tags": [
-        "TC",
-        "Startups",
-        "AI",
-        "TechCrunch Disrupt",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
-      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-      "published_at": "2026-09-28T15:29:21.000Z",
-      "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
-      "tags": [
-        "Hardware",
-        "edge computing",
-        "In Brief",
-        "SiMa.ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-      "published_at": "2026-09-28T15:26:46.000Z",
-      "description": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "accounting",
-        "AI",
-        "Fintech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "published_at": "2026-09-28T15:00:00.000Z",
-      "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield",
-      "tags": [
-        "AI",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
@@ -1192,21 +1254,6 @@
       "user": "Tanay Dwivedi"
     },
     {
-      "title": "Build a phishing link checker in Node.js with three API calls",
-      "url": "https://dev.to/nikolas_dimitroulakis_d23/build-a-phishing-link-checker-in-nodejs-with-three-api-calls-2pb4",
-      "published_at": "2026-09-22T16:35:18Z",
-      "description": "Every app that lets users paste a link has the same problem. Someone will eventually paste a phishing...",
-      "tags": [
-        "security",
-        "javascript",
-        "node",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4r0z3vj1b7f14ml3fn9.png",
-      "source": "Dev.to",
-      "user": "Nikolas Dimitroulakis"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1338,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1427,
       "user": "JohnHeibel"
     },
     {
@@ -1353,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 908,
       "user": "dgreenheck"
     },
     {
@@ -1383,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 547,
       "user": "JohnHeibel"
     },
     {
@@ -1398,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 515,
       "user": "lemomo-ai"
     },
     {
@@ -1428,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1043,
       "user": "kryvora-network"
     },
     {
@@ -1443,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1721,
+      "stars": 1767,
       "user": "mexicat"
     },
     {
@@ -1458,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1407,
       "user": "dzhng"
     },
     {
@@ -1473,7 +1520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1045,
       "user": "mikehasa"
     },
     {
@@ -1488,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 792,
       "user": "supermemoryai"
     },
     {
@@ -1503,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 723,
       "user": "anishfn"
     },
     {
@@ -1540,7 +1587,7 @@
       "title": "jquery datepicker icon disappears after autopostback",
       "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
       "published_at": "2026-09-27T21:17:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "jquery",
@@ -1644,19 +1691,19 @@
       "user": "GOTO 0"
     },
     {
-      "title": "Chrome: timeouts/interval suspended in background tabs?",
-      "url": "https://stackoverflow.com/questions/6032429/chrome-timeouts-interval-suspended-in-background-tabs",
-      "published_at": "2011-05-17T14:34:00.000Z",
-      "description": "Stack Overflow question · 9 answers · score 203",
+      "title": "Uncaught TypeError: Cannot read properties of null (reading 'postMessage'), cross-origin frame problem",
+      "url": "https://stackoverflow.com/questions/76966456/uncaught-typeerror-cannot-read-properties-of-null-reading-postmessage-cros",
+      "published_at": "2023-08-24T05:35:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "google-chrome",
-        "tabs",
-        "settimeout"
+        "jquery",
+        "iframe",
+        "cross-domain"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "KooiInc"
+      "user": "woninana"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1912,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2216,
+      "stars": 2273,
       "user": "Contrastive-LM"
     },
     {
@@ -1927,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 830,
       "user": "feitangyuan"
     },
     {
@@ -1942,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 731,
       "user": "yukitorido"
     },
     {
@@ -1972,8 +2019,48 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 504,
       "user": "samyost1"
+    },
+    {
+      "title": "Why does hashlib declaration location matter in python?",
+      "url": "https://stackoverflow.com/questions/80006558/why-does-hashlib-declaration-location-matter-in-python",
+      "published_at": "2026-09-28T22:16:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "hashlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "WesH"
+    },
+    {
+      "title": "How to see the selected text in Python Tkinter Text when the Text is not in focus",
+      "url": "https://stackoverflow.com/questions/80006535/how-to-see-the-selected-text-in-python-tkinter-text-when-the-text-is-not-in-focu",
+      "published_at": "2026-09-28T19:13:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "tkinter",
+        "text",
+        "focus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
+      "title": "Shortcut to not have to type out entire alphabet or numbers",
+      "url": "https://stackoverflow.com/questions/80006534/shortcut-to-not-have-to-type-out-entire-alphabet-or-numbers",
+      "published_at": "2026-09-28T19:13:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "pomermango"
     },
     {
       "title": "pyqt5, mariadb Not getting connected to the DB",
@@ -2072,45 +2159,6 @@
       "user": "FluidMechanics Potential Flows"
     },
     {
-      "title": "Creating a dict of keyword arguments",
-      "url": "https://stackoverflow.com/questions/80006016/creating-a-dict-of-keyword-arguments",
-      "published_at": "2026-09-26T12:08:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score -12",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "How do I correctly type a wrapper that returns a classmethod?",
-      "url": "https://stackoverflow.com/questions/80005905/how-do-i-correctly-type-a-wrapper-that-returns-a-classmethod",
-      "published_at": "2026-09-25T20:07:53.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "python-typing",
-        "class-method"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "User"
-    },
-    {
-      "title": "Type-hinting instance variables",
-      "url": "https://stackoverflow.com/questions/80005899/type-hinting-instance-variables",
-      "published_at": "2026-09-25T19:29:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
       "published_at": "2026-09-21T20:57:10.000Z",
@@ -2159,6 +2207,20 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
+      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3",
+      "published_at": "2026-09-28T22:17:28Z",
+      "description": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
+      "tags": [
+        "agents",
+        "sandbox",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png",
+      "source": "Dev.to",
+      "user": "Praveen Rajasekar"
+    },
     {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
       "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
@@ -2425,7 +2487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1045,
       "user": "mikehasa"
     },
     {
@@ -2551,21 +2613,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-      "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
-      "published_at": "2026-09-28T16:47:49.000Z",
-      "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
-      "tags": [
-        "Apps",
-        "iOS",
-        "iPhone",
-        "Walkman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
       "url": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
       "published_at": "2026-09-23T21:01:32.000Z",
@@ -2583,6 +2630,31 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
+      "published_at": "2026-09-28T22:22:04Z",
+      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "tags": [
+        "voiceai",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
+      "source": "Dev.to",
+      "user": "Annie Cusack"
+    },
+    {
+      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
+      "published_at": "2026-09-28T18:53:36Z",
+      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
@@ -2832,24 +2904,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1045,
       "user": "mikehasa"
-    },
-    {
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "published_at": "2026-09-28T16:52:38.000Z",
-      "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "In Brief",
-        "Meta",
-        "MongoDB"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
@@ -2881,21 +2937,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Build a phishing link checker in Node.js with three API calls",
-      "url": "https://dev.to/nikolas_dimitroulakis_d23/build-a-phishing-link-checker-in-nodejs-with-three-api-calls-2pb4",
-      "published_at": "2026-09-22T16:35:18Z",
-      "description": "Every app that lets users paste a link has the same problem. Someone will eventually paste a phishing...",
-      "tags": [
-        "security",
-        "javascript",
-        "node",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv4r0z3vj1b7f14ml3fn9.png",
-      "source": "Dev.to",
-      "user": "Nikolas Dimitroulakis"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3030,6 +3071,19 @@
       "user": "ewenjo"
     },
     {
+      "title": "HardenedBSD August / September 2026 Status Report",
+      "url": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
+      "published_at": "2026-09-28T11:14:23.422-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "freebsd",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lattera"
+    },
+    {
       "title": "Nvidia launches new platform for reining in rogue AI agents",
       "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "published_at": "2026-09-28T18:31:23.000Z",
@@ -3043,6 +3097,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
+      "published_at": "2026-09-28T19:04:50Z",
+      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
       "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
@@ -3211,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1427,
       "user": "JohnHeibel"
     },
     {
@@ -3226,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 908,
       "user": "dgreenheck"
     },
     {
@@ -3256,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 547,
       "user": "JohnHeibel"
     },
     {
@@ -3271,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 515,
       "user": "lemomo-ai"
     },
     {
@@ -3286,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2216,
+      "stars": 2273,
       "user": "Contrastive-LM"
     },
     {
@@ -3301,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 830,
       "user": "feitangyuan"
     },
     {
@@ -3316,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 731,
       "user": "yukitorido"
     },
     {
@@ -3346,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 504,
       "user": "samyost1"
     },
     {
@@ -3361,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1571,
+      "stars": 1586,
       "user": "yetone"
     },
     {
@@ -3376,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1043,
       "user": "kryvora-network"
     },
     {
@@ -3391,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "JaxsonWang"
     },
     {
@@ -3406,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "mvanhorn"
     },
     {
@@ -3436,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1721,
+      "stars": 1767,
       "user": "mexicat"
     },
     {
@@ -3451,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1407,
       "user": "dzhng"
     },
     {
@@ -3466,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1045,
       "user": "mikehasa"
     },
     {
@@ -3481,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 792,
       "user": "supermemoryai"
     },
     {
@@ -3496,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 723,
       "user": "anishfn"
     },
     {
@@ -3511,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1809,
       "user": "tobi"
     },
     {
@@ -3526,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 874,
       "user": "ollaya-dev"
     },
     {
@@ -3556,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "codejunkie99"
     },
     {
@@ -3571,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 137,
       "user": "pch"
     },
     {
