@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
-      "published_at": "2026-09-28T06:25:14Z",
-      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
-      "tags": [
-        "python",
-        "opensource",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
-      "source": "Dev.to",
-      "user": "Rishu"
-    },
-    {
       "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
       "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
       "published_at": "2026-09-28T22:22:04Z",
@@ -46,6 +31,31 @@
       "user": "Annie Cusack"
     },
     {
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
+      "published_at": "2026-09-28T06:25:14Z",
+      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "tags": [
+        "python",
+        "opensource",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
+      "source": "Dev.to",
+      "user": "Rishu"
+    },
+    {
+      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
+      "published_at": "2026-09-28T18:53:36Z",
+      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
       "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3",
       "published_at": "2026-09-28T22:17:28Z",
@@ -58,16 +68,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png",
       "source": "Dev.to",
       "user": "Praveen Rajasekar"
-    },
-    {
-      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
-      "published_at": "2026-09-28T18:53:36Z",
-      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
@@ -173,21 +173,6 @@
       "user": "Ikrame Ibn Hayoun"
     },
     {
-      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
-      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
-      "published_at": "2026-09-26T11:10:24Z",
-      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
       "published_at": "2026-09-26T11:10:27Z",
@@ -199,6 +184,21 @@
         "vllm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
+      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
+      "published_at": "2026-09-26T11:10:24Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 557,
       "user": "JohnHeibel"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 533,
       "user": "lemomo-ai"
     },
     {
@@ -769,23 +769,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 732,
       "user": "yukitorido"
-    },
-    {
-      "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "url": "https://github.com/kydlikebtc/awesome-jev",
-      "published_at": "2026-09-22T02:22:54Z",
-      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75060932?v=4",
-      "source": "GitHub",
-      "stars": 582,
-      "user": "kydlikebtc"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -799,38 +784,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 141,
       "user": "JaxsonWang"
     },
     {
-      "title": "mvanhorn/agent-tincan - Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
-      "url": "https://github.com/mvanhorn/agent-tincan",
-      "published_at": "2026-09-22T22:50:16Z",
-      "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+      "title": "Continuum-AI-Corp/scuttle - Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
+      "url": "https://github.com/Continuum-AI-Corp/scuttle",
+      "published_at": "2026-09-23T22:28:43Z",
+      "description": "Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "mvanhorn"
+      "stars": 78,
+      "user": "Continuum-AI-Corp"
     },
     {
-      "title": "Calcium-Ion/AstrLink - A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
-      "url": "https://github.com/Calcium-Ion/AstrLink",
-      "published_at": "2026-09-22T04:20:28Z",
-      "description": "A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
+      "title": "aurorainfra/grev - Thinking coreutils",
+      "url": "https://github.com/aurorainfra/grev",
+      "published_at": "2026-09-24T21:12:11Z",
+      "description": "Thinking coreutils",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/61247483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
       "source": "GitHub",
-      "stars": 77,
-      "user": "Calcium-Ion"
+      "stars": 44,
+      "user": "aurorainfra"
     },
     {
       "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
@@ -844,8 +829,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1051,
       "user": "mikehasa"
+    },
+    {
+      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "published_at": "2026-09-28T23:40:05Z",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "source": "GitHub",
+      "stars": 899,
+      "user": "KKKKhazix"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -859,8 +859,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 802,
       "user": "supermemoryai"
+    },
+    {
+      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "url": "https://github.com/scarletkc/seiso",
+      "published_at": "2026-09-27T13:27:28Z",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "scarletkc"
     },
     {
       "title": "Yes, no AI is now a feature",
@@ -918,6 +933,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Manthan Done"
+    },
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "published_at": "2026-09-29T00:30:00.000Z",
+      "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Media & Entertainment",
+        "Startups",
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "published_at": "2026-09-28T23:39:20.000Z",
+      "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "tags": [
+        "AI",
+        "Astra",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn&#8217;t as far-fetched as it sounds",
@@ -995,8 +1040,9 @@
       "title": "The AI boom took over Climate Week and not everyone is happy about it",
       "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
       "published_at": "2026-09-28T19:21:59.000Z",
-      "description": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+      "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
       "tags": [
+        "AI",
         "Climate",
         "climate week nyc"
       ],
@@ -1008,9 +1054,12 @@
       "title": "Nvidia launches new platform for reining in rogue AI agents",
       "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "published_at": "2026-09-28T18:31:23.000Z",
-      "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security l",
+      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
       "tags": [
-        "AI"
+        "AI",
+        "Jensen Huang",
+        "nvidia",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1023,41 +1072,13 @@
       "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
       "tags": [
         "AI",
-        "Sonnet",
         "Anthropic",
-        "Claude"
+        "Claude",
+        "Sonnet"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "published_at": "2026-09-28T17:29:50.000Z",
-      "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-      "tags": [
-        "AI",
-        "Apps",
-        "gemini",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "published_at": "2026-09-28T17:09:02.000Z",
-      "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
@@ -1374,21 +1395,6 @@
       "user": "velmu"
     },
     {
-      "title": "JohnHeibel/PDoomVideo - Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-      "url": "https://github.com/JohnHeibel/PDoomVideo",
-      "published_at": "2026-09-22T23:32:19Z",
-      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
-      "source": "GitHub",
-      "stars": 1427,
-      "user": "JohnHeibel"
-    },
-    {
       "title": "dgreenheck/tidewater - Coastal town built with Opus 5.5",
       "url": "https://github.com/dgreenheck/tidewater",
       "published_at": "2026-09-23T21:40:29Z",
@@ -1400,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 919,
       "user": "dgreenheck"
     },
     {
@@ -1415,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 882,
       "user": "riba2534"
     },
     {
@@ -1430,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 557,
       "user": "JohnHeibel"
     },
     {
@@ -1445,38 +1451,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 533,
       "user": "lemomo-ai"
     },
     {
-      "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "url": "https://github.com/kydlikebtc/awesome-jev",
-      "published_at": "2026-09-22T02:22:54Z",
-      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "title": "xikhar/spiderbench - GitHub Repository",
+      "url": "https://github.com/xikhar/spiderbench",
+      "published_at": "2026-09-27T05:55:36Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75060932?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 582,
-      "user": "kydlikebtc"
-    },
-    {
-      "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
-      "url": "https://github.com/kryvora-network/kryvora-node",
-      "published_at": "2026-09-22T16:10:23Z",
-      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
-      "source": "GitHub",
-      "stars": 1043,
-      "user": "kryvora-network"
+      "stars": 403,
+      "user": "xikhar"
     },
     {
       "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
@@ -1490,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1767,
+      "stars": 1788,
       "user": "mexicat"
     },
     {
@@ -1505,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1468,
       "user": "dzhng"
     },
     {
@@ -1520,8 +1511,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1051,
       "user": "mikehasa"
+    },
+    {
+      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "published_at": "2026-09-28T23:40:05Z",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "source": "GitHub",
+      "stars": 899,
+      "user": "KKKKhazix"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -1535,23 +1541,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 802,
       "user": "supermemoryai"
-    },
-    {
-      "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "url": "https://github.com/anishfn/shapeshift",
-      "published_at": "2026-09-22T08:52:32Z",
-      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
-      "source": "GitHub",
-      "stars": 723,
-      "user": "anishfn"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -1959,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2301,
       "user": "Contrastive-LM"
     },
     {
@@ -1974,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 861,
       "user": "feitangyuan"
     },
     {
@@ -1989,23 +1980,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 732,
       "user": "yukitorido"
-    },
-    {
-      "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "url": "https://github.com/kydlikebtc/awesome-jev",
-      "published_at": "2026-09-22T02:22:54Z",
-      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75060932?v=4",
-      "source": "GitHub",
-      "stars": 582,
-      "user": "kydlikebtc"
     },
     {
       "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
@@ -2019,8 +1995,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 505,
       "user": "samyost1"
+    },
+    {
+      "title": "angusdevgo/Seep-Reverse-Lab - Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+      "published_at": "2026-09-23T18:05:31Z",
+      "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89133686?v=4",
+      "source": "GitHub",
+      "stars": 491,
+      "user": "angusdevgo"
     },
     {
       "title": "Why does hashlib declaration location matter in python?",
@@ -2080,7 +2071,7 @@
       "title": "print() and return in Python?",
       "url": "https://stackoverflow.com/questions/80006481/print-and-return-in-python",
       "published_at": "2026-09-28T14:58:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -2145,18 +2136,17 @@
       "user": "Manthan Done"
     },
     {
-      "title": "Member None of Any | None does not have attribute with_columns - polars & PyCharm problem",
-      "url": "https://stackoverflow.com/questions/80006258/member-none-of-any-none-does-not-have-attribute-with-columns-polars-pychar",
-      "published_at": "2026-09-27T15:56:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Type-hinting instance variables",
+      "url": "https://stackoverflow.com/questions/80005899/type-hinting-instance-variables",
+      "published_at": "2026-09-25T19:29:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
-        "pycharm",
-        "python-polars"
+        "python-typing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "FluidMechanics Potential Flows"
+      "user": "NickC"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2487,7 +2477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1051,
       "user": "mikehasa"
     },
     {
@@ -2684,21 +2674,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
-      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
-      "published_at": "2026-09-26T11:10:24Z",
-      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
       "published_at": "2026-09-26T11:10:27Z",
@@ -2710,6 +2685,21 @@
         "vllm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
+      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
+      "published_at": "2026-09-26T11:10:24Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2904,7 +2894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1051,
       "user": "mikehasa"
     },
     {
@@ -3071,6 +3061,21 @@
       "user": "ewenjo"
     },
     {
+      "title": "Continuum-AI-Corp/scuttle - Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
+      "url": "https://github.com/Continuum-AI-Corp/scuttle",
+      "published_at": "2026-09-23T22:28:43Z",
+      "description": "Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "Continuum-AI-Corp"
+    },
+    {
       "title": "HardenedBSD August / September 2026 Status Report",
       "url": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
       "published_at": "2026-09-28T11:14:23.422-05:00",
@@ -3087,9 +3092,12 @@
       "title": "Nvidia launches new platform for reining in rogue AI agents",
       "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "published_at": "2026-09-28T18:31:23.000Z",
-      "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security l",
+      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
       "tags": [
-        "AI"
+        "AI",
+        "Jensen Huang",
+        "nvidia",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3269,21 +3277,6 @@
       "user": "pabs3"
     },
     {
-      "title": "JohnHeibel/PDoomVideo - Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-      "url": "https://github.com/JohnHeibel/PDoomVideo",
-      "published_at": "2026-09-22T23:32:19Z",
-      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
-      "source": "GitHub",
-      "stars": 1427,
-      "user": "JohnHeibel"
-    },
-    {
       "title": "dgreenheck/tidewater - Coastal town built with Opus 5.5",
       "url": "https://github.com/dgreenheck/tidewater",
       "published_at": "2026-09-23T21:40:29Z",
@@ -3295,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 919,
       "user": "dgreenheck"
     },
     {
@@ -3310,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 882,
       "user": "riba2534"
     },
     {
@@ -3325,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 557,
       "user": "JohnHeibel"
     },
     {
@@ -3340,8 +3333,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 533,
       "user": "lemomo-ai"
+    },
+    {
+      "title": "xikhar/spiderbench - GitHub Repository",
+      "url": "https://github.com/xikhar/spiderbench",
+      "published_at": "2026-09-27T05:55:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "source": "GitHub",
+      "stars": 403,
+      "user": "xikhar"
     },
     {
       "title": "Contrastive-LM/CLM - GitHub Repository",
@@ -3355,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2301,
       "user": "Contrastive-LM"
     },
     {
@@ -3370,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 861,
       "user": "feitangyuan"
     },
     {
@@ -3385,23 +3393,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 732,
       "user": "yukitorido"
-    },
-    {
-      "title": "kydlikebtc/awesome-jev - 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "url": "https://github.com/kydlikebtc/awesome-jev",
-      "published_at": "2026-09-22T02:22:54Z",
-      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75060932?v=4",
-      "source": "GitHub",
-      "stars": 582,
-      "user": "kydlikebtc"
     },
     {
       "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
@@ -3415,8 +3408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 505,
       "user": "samyost1"
+    },
+    {
+      "title": "angusdevgo/Seep-Reverse-Lab - Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+      "published_at": "2026-09-23T18:05:31Z",
+      "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89133686?v=4",
+      "source": "GitHub",
+      "stars": 491,
+      "user": "angusdevgo"
     },
     {
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
@@ -3430,23 +3438,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1586,
+      "stars": 1640,
       "user": "yetone"
-    },
-    {
-      "title": "kryvora-network/kryvora-node - Reference client daemon and verification worker for Kryvora Network nodes.",
-      "url": "https://github.com/kryvora-network/kryvora-node",
-      "published_at": "2026-09-22T16:10:23Z",
-      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332587460?v=4",
-      "source": "GitHub",
-      "stars": 1043,
-      "user": "kryvora-network"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -3460,38 +3453,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 141,
       "user": "JaxsonWang"
     },
     {
-      "title": "mvanhorn/agent-tincan - Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
-      "url": "https://github.com/mvanhorn/agent-tincan",
-      "published_at": "2026-09-22T22:50:16Z",
-      "description": "Let your AI agents ask each other for help, over Tailscale. Wherever they run.",
+      "title": "Continuum-AI-Corp/scuttle - Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
+      "url": "https://github.com/Continuum-AI-Corp/scuttle",
+      "published_at": "2026-09-23T22:28:43Z",
+      "description": "Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/455140?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 135,
-      "user": "mvanhorn"
+      "stars": 78,
+      "user": "Continuum-AI-Corp"
     },
     {
-      "title": "Calcium-Ion/AstrLink - A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
-      "url": "https://github.com/Calcium-Ion/AstrLink",
-      "published_at": "2026-09-22T04:20:28Z",
-      "description": "A local AI gateway for AI agents, unifying your subscriptions and API providers with smart routing and on-device privacy protection.",
+      "title": "aurorainfra/grev - Thinking coreutils",
+      "url": "https://github.com/aurorainfra/grev",
+      "published_at": "2026-09-24T21:12:11Z",
+      "description": "Thinking coreutils",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/61247483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
       "source": "GitHub",
-      "stars": 77,
-      "user": "Calcium-Ion"
+      "stars": 44,
+      "user": "aurorainfra"
+    },
+    {
+      "title": "mattn/go-jev - Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
+      "url": "https://github.com/mattn/go-jev",
+      "published_at": "2026-09-23T13:42:51Z",
+      "description": "Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
+      "source": "GitHub",
+      "stars": 40,
+      "user": "mattn"
     },
     {
       "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
@@ -3505,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1767,
+      "stars": 1788,
       "user": "mexicat"
     },
     {
@@ -3520,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1407,
+      "stars": 1468,
       "user": "dzhng"
     },
     {
@@ -3535,8 +3543,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1045,
+      "stars": 1051,
       "user": "mikehasa"
+    },
+    {
+      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "published_at": "2026-09-28T23:40:05Z",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "source": "GitHub",
+      "stars": 899,
+      "user": "KKKKhazix"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -3550,23 +3573,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 802,
       "user": "supermemoryai"
-    },
-    {
-      "title": "anishfn/shapeshift - An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "url": "https://github.com/anishfn/shapeshift",
-      "published_at": "2026-09-22T08:52:32Z",
-      "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95231379?v=4",
-      "source": "GitHub",
-      "stars": 723,
-      "user": "anishfn"
     },
     {
       "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
@@ -3580,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1809,
+      "stars": 1826,
       "user": "tobi"
     },
     {
@@ -3595,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 891,
       "user": "ollaya-dev"
     },
     {
@@ -3610,23 +3618,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "jankeesvw"
-    },
-    {
-      "title": "codejunkie99/keel - Local-first macOS coding workspace with local Laya and optional Jev decision selection",
-      "url": "https://github.com/codejunkie99/keel",
-      "published_at": "2026-09-22T22:08:29Z",
-      "description": "Local-first macOS coding workspace with local Laya and optional Jev decision selection",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52658655?v=4",
-      "source": "GitHub",
-      "stars": 303,
-      "user": "codejunkie99"
     },
     {
       "title": "pch/rawmakase - Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)",
@@ -3640,16 +3633,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 142,
       "user": "pch"
+    },
+    {
+      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "url": "https://github.com/scarletkc/seiso",
+      "published_at": "2026-09-27T13:27:28Z",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "scarletkc"
     },
     {
       "title": "Nvidia launches new platform for reining in rogue AI agents",
       "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "published_at": "2026-09-28T18:31:23.000Z",
-      "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security l",
+      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
       "tags": [
-        "AI"
+        "AI",
+        "Jensen Huang",
+        "nvidia",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",

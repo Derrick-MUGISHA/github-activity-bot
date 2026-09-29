@@ -10,21 +10,21 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 81,
-    "JavaScript": 40,
+    "AI": 82,
+    "JavaScript": 38,
     "Python": 35,
     "DevOps": 16,
     "WebDev": 7,
     "Mobile": 7,
     "Cloud": 17,
     "Database": 3,
-    "Security": 14,
+    "Security": 15,
     "Tools": 39
   },
   "by_language": {
-    "Python": 35,
     "Go": 31,
-    "JavaScript": 40,
+    "Python": 35,
+    "JavaScript": 38,
     "Java": 29,
     "Rust": 8,
     "Swift": 1,
@@ -32,12 +32,12 @@
   },
   "by_date": {
     "2026-09-28": 33,
-    "2026-09-27": 9,
-    "2026-09-25": 7,
-    "2026-09-23": 18,
-    "2026-09-22": 15,
+    "2026-09-27": 10,
+    "2026-09-25": 8,
+    "2026-09-23": 21,
+    "2026-09-22": 8,
     "2026-09-26": 8,
-    "2026-09-24": 15,
+    "2026-09-24": 16,
     "2026-09-17": 1,
     "2026-09-20": 6,
     "2026-09-18": 3,
@@ -102,6 +102,7 @@
     "2026-08-18": 1,
     "2016-04-02": 1,
     "2023-08-24": 1,
+    "2026-09-29": 1,
     "2026-09-21": 2
   },
   "top_tags": {
@@ -110,7 +111,7 @@
     "ai": 23,
     "python": 21,
     "javascript": 19,
-    "AI": 17,
+    "AI": 18,
     "Python": 13,
     "Security": 10,
     "JavaScript": 10,
@@ -123,16 +124,16 @@
     "webdev": 6,
     "mcp": 6,
     "go": 6,
-    "gemini": 5,
-    "discuss": 5
+    "discuss": 5,
+    "flutter": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "24.1",
-    "Go": "21.4",
-    "JavaScript": "27.6",
-    "Java": "20.0",
-    "Rust": "5.5",
+    "Go": "21.7",
+    "Python": "24.5",
+    "JavaScript": "26.6",
+    "Java": "20.3",
+    "Rust": "5.6",
     "Swift": "0.7",
     "CSharp": "0.7"
   }
