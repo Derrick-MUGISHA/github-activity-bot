@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 607,
       "user": "lemomo-ai"
     },
     {
@@ -739,8 +739,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 581,
       "user": "JohnHeibel"
+    },
+    {
+      "title": "Liuziyu77/Valen - Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "url": "https://github.com/Liuziyu77/Valen",
+      "published_at": "2026-09-23T02:48:02Z",
+      "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "Liuziyu77"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -754,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "JaxsonWang"
     },
     {
@@ -769,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 98,
       "user": "Continuum-AI-Corp"
     },
     {
@@ -799,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2751,
+      "stars": 2969,
       "user": "KKKKhazix"
     },
     {
@@ -814,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1105,
       "user": "mikehasa"
     },
     {
@@ -829,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 843,
       "user": "supermemoryai"
     },
     {
@@ -847,138 +862,125 @@
       "user": "Corbin"
     },
     {
-      "title": "Yes, no AI is now a feature",
-      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
-      "published_at": "2026-09-28T04:58:26.129-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "johnolinda"
-    },
-    {
-      "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-      "published_at": "2026-09-29T04:40:33.245-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "remmelt"
-    },
-    {
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "published_at": "2026-09-29T15:12:07.000Z",
-      "description": "Instinct founder said that the platform is growing 10% day-by-day",
+      "title": "OpenAI&#8217;s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "published_at": "2026-09-29T20:15:47.000Z",
+      "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
       "tags": [
         "AI",
         "Apps",
-        "instinct",
-        "travel"
+        "TC",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Sarah Perez"
     },
     {
-      "title": "Oura shelves its $2.2B IPO citing &#8216;uncertainty&#8217; in the market",
-      "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-      "published_at": "2026-09-29T14:56:55.000Z",
-      "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "IPO",
-        "oura",
-        "smart rings"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "published_at": "2026-09-29T13:53:01.000Z",
-      "description": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "published_at": "2026-09-29T19:52:37.000Z",
+      "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
       "tags": [
         "AI",
-        "Startups",
-        "Venture",
-        "Marissa Mayer",
-        "consumer"
+        "TC",
+        "bridge round",
+        "IPO",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
     },
     {
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "published_at": "2026-09-29T13:47:30.000Z",
-      "description": "The tech giant says the agent can help owners run their business and find new customers.",
+      "title": "Here&#8217;s why OpenAI is absent from Nvidia&#8217;s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "published_at": "2026-09-29T18:35:00.000Z",
+      "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
       "tags": [
+        "TC",
         "AI",
-        "Apps",
-        "Meta",
-        "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Fireflies adds dictation to its desktop notetaking apps",
-      "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
-      "published_at": "2026-09-29T13:00:00.000Z",
-      "description": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
-      "tags": [
-        "Apps",
-        "ai dictation",
-        "Fireflies",
-        "Wispr flow"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "published_at": "2026-09-29T12:45:05.000Z",
-      "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "tags": [
-        "AI",
-        "Security",
-        "ai safety",
-        "cybersecurity",
+        "nvidia",
+        "Exclusive",
         "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Kate Park"
+      "user": "Julie Bort"
     },
     {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "published_at": "2026-09-29T12:30:00.000Z",
-      "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT&#8217;s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "published_at": "2026-09-29T17:45:51.000Z",
+      "description": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
       "tags": [
-        "Security",
         "AI",
-        "Fundraising",
-        "AI agents",
-        "ai security"
+        "ChatGPT",
+        "Microsoft",
+        "OpenAI",
+        "Salesforce"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "published_at": "2026-09-29T17:27:09.000Z",
+      "description": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach",
+        "FBI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "published_at": "2026-09-29T17:20:00.000Z",
+      "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Wabi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "published_at": "2026-09-29T17:17:15.000Z",
+      "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "tags": [
+        "AI",
+        "TC",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "published_at": "2026-09-29T17:15:00.000Z",
+      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "tags": [
+        "AI",
+        "codex",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
@@ -1307,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 960,
       "user": "dgreenheck"
     },
     {
@@ -1322,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 917,
       "user": "riba2534"
     },
     {
@@ -1337,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 607,
       "user": "lemomo-ai"
     },
     {
@@ -1352,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 581,
       "user": "JohnHeibel"
     },
     {
@@ -1367,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 429,
       "user": "xikhar"
     },
     {
@@ -1382,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2751,
+      "stars": 2969,
       "user": "KKKKhazix"
     },
     {
@@ -1397,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1933,
+      "stars": 1960,
       "user": "mexicat"
     },
     {
@@ -1412,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1741,
       "user": "dzhng"
     },
     {
@@ -1427,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1105,
       "user": "mikehasa"
     },
     {
@@ -1442,8 +1444,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 843,
       "user": "supermemoryai"
+    },
+    {
+      "title": "custom cursor over personal iframes",
+      "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
+      "published_at": "2026-09-29T18:51:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "iframe",
+        "custom-cursor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33171548"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -1465,7 +1483,7 @@
       "title": "How to fix an issue with random images not showing",
       "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
       "published_at": "2026-09-27T16:06:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "image",
@@ -1508,22 +1526,6 @@
       "user": "John DiBella"
     },
     {
-      "title": "Unable to adjust video timeline which downloaded using yt-dlp and Node.js via browser",
-      "url": "https://stackoverflow.com/questions/80006280/unable-to-adjust-video-timeline-which-downloaded-using-yt-dlp-and-node-js-via-br",
-      "published_at": "2026-09-27T17:58:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "node.js",
-        "ffmpeg",
-        "vlc",
-        "yt-dlp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "webdevShubhamKumar"
-    },
-    {
       "title": "React form doesn't submit when pressing Enter in an input field",
       "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
       "published_at": "2026-09-25T09:58:06.000Z",
@@ -1540,7 +1542,7 @@
       "title": "Creating a reusable Object from JavaScript array",
       "url": "https://stackoverflow.com/questions/80005082/creating-a-reusable-object-from-javascript-array",
       "published_at": "2026-09-22T21:48:42.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
+      "description": "Stack Overflow question · 5 answers · score 0",
       "tags": [
         "javascript",
         "arrays",
@@ -1584,18 +1586,17 @@
       "user": "Aasim Ghaffar"
     },
     {
-      "title": "How to test if an object is a Proxy?",
-      "url": "https://stackoverflow.com/questions/36372611/how-to-test-if-an-object-is-a-proxy",
-      "published_at": "2016-04-02T11:25:49.000Z",
-      "description": "Stack Overflow question · 15 answers · score 107",
+      "title": "Difference between React Component and React Element",
+      "url": "https://stackoverflow.com/questions/30971395/difference-between-react-component-and-react-element",
+      "published_at": "2015-06-22T02:32:28.000Z",
+      "description": "Stack Overflow question · 12 answers · score 143",
       "tags": [
         "javascript",
-        "ecmascript-6",
-        "es6-proxy"
+        "reactjs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "GOTO 0"
+      "user": "Hoffmann"
     },
     {
       "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
@@ -1898,23 +1899,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2447,
+      "stars": 2491,
       "user": "Contrastive-LM"
-    },
-    {
-      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "url": "https://github.com/feitangyuan/onetake",
-      "published_at": "2026-09-26T05:35:17Z",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
-      "source": "GitHub",
-      "stars": 956,
-      "user": "feitangyuan"
     },
     {
       "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
@@ -1928,23 +1914,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 976,
       "user": "firelex"
     },
     {
-      "title": "angusdevgo/Seep-Reverse-Lab - Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
-      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
-      "published_at": "2026-09-23T18:05:31Z",
-      "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "published_at": "2026-09-26T05:35:17Z",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89133686?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 556,
-      "user": "angusdevgo"
+      "stars": 970,
+      "user": "feitangyuan"
     },
     {
       "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
@@ -1958,14 +1944,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "samyost1"
+    },
+    {
+      "title": "Liuziyu77/Valen - Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "url": "https://github.com/Liuziyu77/Valen",
+      "published_at": "2026-09-23T02:48:02Z",
+      "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "Liuziyu77"
+    },
+    {
+      "title": "Duplicate keys in a dictionary",
+      "url": "https://stackoverflow.com/questions/80006788/duplicate-keys-in-a-dictionary",
+      "published_at": "2026-09-29T17:52:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vlad K."
     },
     {
       "title": "How is the number of bins/bin width determined in a seaborn histogram by default?",
       "url": "https://stackoverflow.com/questions/80006752/how-is-the-number-of-bins-bin-width-determined-in-a-seaborn-histogram-by-default",
       "published_at": "2026-09-29T15:04:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "seaborn",
@@ -1976,22 +1990,23 @@
       "user": "Marton Horvath"
     },
     {
-      "title": "Tickspot API: How Can an Admin Retrieve Only Their Own Projects and Tasks?",
-      "url": "https://stackoverflow.com/questions/80006690/tickspot-api-how-can-an-admin-retrieve-only-their-own-projects-and-tasks",
-      "published_at": "2026-09-29T11:29:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "List of Lists for Values in a Table with Rows & Columns",
+      "url": "https://stackoverflow.com/questions/80006789/list-of-lists-for-values-in-a-table-with-rows-columns",
+      "published_at": "2026-09-29T17:59:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
-        "python"
+        "python",
+        "list"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Divya Maggu"
+      "user": "Emelia Hanna"
     },
     {
       "title": "Write a protocol method that allows slight variations",
       "url": "https://stackoverflow.com/questions/80006644/write-a-protocol-method-that-allows-slight-variations",
       "published_at": "2026-09-29T08:30:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "duck-typing"
@@ -2001,10 +2016,37 @@
       "user": "Train-Case"
     },
     {
+      "title": "Tickspot API: How Can an Admin Retrieve Only Their Own Projects and Tasks?",
+      "url": "https://stackoverflow.com/questions/80006690/tickspot-api-how-can-an-admin-retrieve-only-their-own-projects-and-tasks",
+      "published_at": "2026-09-29T11:29:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Divya Maggu"
+    },
+    {
+      "title": "How to see the selected text in Python Tkinter Text when the Text is not in focus",
+      "url": "https://stackoverflow.com/questions/80006535/how-to-see-the-selected-text-in-python-tkinter-text-when-the-text-is-not-in-focu",
+      "published_at": "2026-09-28T19:13:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "tkinter",
+        "text",
+        "focus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
       "title": "Why does Pyright reject protocol methods with a \"pass\" body?",
       "url": "https://stackoverflow.com/questions/80006598/why-does-pyright-reject-protocol-methods-with-a-pass-body",
       "published_at": "2026-09-29T05:03:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "python-typing",
@@ -2032,19 +2074,18 @@
       "user": "Vixwoke"
     },
     {
-      "title": "How to see the selected text in Python Tkinter Text when the Text is not in focus",
-      "url": "https://stackoverflow.com/questions/80006535/how-to-see-the-selected-text-in-python-tkinter-text-when-the-text-is-not-in-focu",
-      "published_at": "2026-09-28T19:13:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "CLOSED - pyqt5, mariadb Not getting connected to the DB",
+      "url": "https://stackoverflow.com/questions/80006504/closed-pyqt5-mariadb-not-getting-connected-to-the-db",
+      "published_at": "2026-09-28T16:50:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "tkinter",
-        "text",
-        "focus"
+        "pyqt5",
+        "mariadb"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
+      "user": "Peter Martin"
     },
     {
       "title": "Why does hashlib declaration location matter in python?",
@@ -2058,46 +2099,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "WesH"
-    },
-    {
-      "title": "Shortcut to not have to type out entire alphabet or numbers",
-      "url": "https://stackoverflow.com/questions/80006534/shortcut-to-not-have-to-type-out-entire-alphabet-or-numbers",
-      "published_at": "2026-09-28T19:13:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "pomermango"
-    },
-    {
-      "title": "Ansible Lookup Plugin to query the inventory?",
-      "url": "https://stackoverflow.com/questions/80006445/ansible-lookup-plugin-to-query-the-inventory",
-      "published_at": "2026-09-28T12:09:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "ansible",
-        "ansible-inventory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "creatldd1 creatldd1"
-    },
-    {
-      "title": "pyqt5, mariadb Not getting connected to the DB",
-      "url": "https://stackoverflow.com/questions/80006504/pyqt5-mariadb-not-getting-connected-to-the-db",
-      "published_at": "2026-09-28T16:50:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "pyqt5",
-        "mariadb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Martin"
     }
   ],
   "DevOps": [
@@ -2397,8 +2398,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1105,
       "user": "mikehasa"
+    },
+    {
+      "title": "custom cursor over personal iframes",
+      "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
+      "published_at": "2026-09-29T18:51:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "iframe",
+        "custom-cursor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33171548"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -2553,20 +2570,17 @@
       "user": "Alexandra"
     },
     {
-      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
-      "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
-      "published_at": "2026-09-29T13:25:21.000Z",
-      "description": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+      "title": "Getting root on OnePlus 15 from an untrusted app",
+      "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+      "published_at": "2026-09-29T12:25:55.917-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "Security",
-        "Apple",
-        "cyberattack",
-        "cybersecurity",
-        "ios 26"
+        "android",
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "Lobste.rs",
+      "user": "lknuth"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
@@ -2833,6 +2847,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "published_at": "2026-09-29T17:15:00.000Z",
+      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "tags": [
+        "AI",
+        "codex",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Database": [
@@ -2860,7 +2888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1105,
       "user": "mikehasa"
     },
     {
@@ -3054,71 +3082,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 98,
       "user": "Continuum-AI-Corp"
     },
     {
-      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
-      "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
-      "published_at": "2026-09-29T13:25:21.000Z",
-      "description": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+      "title": "Getting root on OnePlus 15 from an untrusted app",
+      "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+      "published_at": "2026-09-29T12:25:55.917-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "android",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lknuth"
+    },
+    {
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "published_at": "2026-09-29T17:27:09.000Z",
+      "description": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
       "tags": [
         "Security",
-        "Apple",
         "cyberattack",
         "cybersecurity",
-        "ios 26"
+        "data breach",
+        "FBI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
     },
     {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "published_at": "2026-09-29T12:45:05.000Z",
-      "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "published_at": "2026-09-29T17:15:00.000Z",
+      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
       "tags": [
         "AI",
-        "Security",
-        "ai safety",
-        "cybersecurity",
+        "codex",
         "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "published_at": "2026-09-29T12:30:00.000Z",
-      "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "tags": [
-        "Security",
-        "AI",
-        "Fundraising",
-        "AI agents",
-        "ai security"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-      "published_at": "2026-09-29T10:00:00.000Z",
-      "description": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
-      "tags": [
-        "Security",
-        "Venture",
-        "defense tech",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
+      "user": "Sarah Perez"
     },
     {
       "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
@@ -3322,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 960,
       "user": "dgreenheck"
     },
     {
@@ -3337,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 917,
       "user": "riba2534"
     },
     {
@@ -3352,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 607,
       "user": "lemomo-ai"
     },
     {
@@ -3367,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 581,
       "user": "JohnHeibel"
     },
     {
@@ -3382,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 429,
       "user": "xikhar"
     },
     {
@@ -3397,23 +3405,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2447,
+      "stars": 2491,
       "user": "Contrastive-LM"
-    },
-    {
-      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "url": "https://github.com/feitangyuan/onetake",
-      "published_at": "2026-09-26T05:35:17Z",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
-      "source": "GitHub",
-      "stars": 956,
-      "user": "feitangyuan"
     },
     {
       "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
@@ -3427,23 +3420,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 976,
       "user": "firelex"
     },
     {
-      "title": "angusdevgo/Seep-Reverse-Lab - Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
-      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
-      "published_at": "2026-09-23T18:05:31Z",
-      "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "published_at": "2026-09-26T05:35:17Z",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89133686?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 556,
-      "user": "angusdevgo"
+      "stars": 970,
+      "user": "feitangyuan"
     },
     {
       "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
@@ -3457,8 +3450,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "samyost1"
+    },
+    {
+      "title": "Liuziyu77/Valen - Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "url": "https://github.com/Liuziyu77/Valen",
+      "published_at": "2026-09-23T02:48:02Z",
+      "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
+      "source": "GitHub",
+      "stars": 500,
+      "user": "Liuziyu77"
     },
     {
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
@@ -3472,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2348,
+      "stars": 2567,
       "user": "yetone"
     },
     {
@@ -3487,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "JaxsonWang"
     },
     {
@@ -3502,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 98,
       "user": "Continuum-AI-Corp"
     },
     {
@@ -3521,19 +3529,19 @@
       "user": "aurorainfra"
     },
     {
-      "title": "mattn/go-jev - Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
-      "url": "https://github.com/mattn/go-jev",
-      "published_at": "2026-09-23T13:42:51Z",
-      "description": "Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
+      "title": "spumon1/SUCK_MY_ASTRA - LOLOLOLOLOLOLOLOLOL",
+      "url": "https://github.com/spumon1/SUCK_MY_ASTRA",
+      "published_at": "2026-09-25T01:13:53Z",
+      "description": "LOLOLOLOLOLOLOLOLOL",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/93527370?v=4",
       "source": "GitHub",
-      "stars": 40,
-      "user": "mattn"
+      "stars": 41,
+      "user": "spumon1"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -3547,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2751,
+      "stars": 2969,
       "user": "KKKKhazix"
     },
     {
@@ -3562,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1933,
+      "stars": 1960,
       "user": "mexicat"
     },
     {
@@ -3577,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1741,
       "user": "dzhng"
     },
     {
@@ -3592,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1105,
       "user": "mikehasa"
     },
     {
@@ -3607,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 832,
+      "stars": 843,
       "user": "supermemoryai"
     },
     {
@@ -3622,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1883,
+      "stars": 1896,
       "user": "tobi"
     },
     {
@@ -3637,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 968,
       "user": "ollaya-dev"
     },
     {
@@ -3652,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "jankeesvw"
     },
     {
@@ -3667,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 270,
       "user": "chasmlol"
     },
     {
@@ -3682,7 +3690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 155,
       "user": "pch"
     },
     {
@@ -3712,6 +3720,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "published_at": "2026-09-29T17:15:00.000Z",
+      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "tags": [
+        "AI",
+        "codex",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
