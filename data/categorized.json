@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
-      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
-      "published_at": "2026-09-28T19:04:50Z",
-      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
-      "tags": [
-        "devchallenge",
-        "kagglechallenge",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
       "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
       "published_at": "2026-09-28T22:22:04Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
       "source": "Dev.to",
       "user": "Annie Cusack"
+    },
+    {
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
+      "published_at": "2026-09-28T19:04:50Z",
+      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
@@ -46,16 +46,6 @@
       "user": "Rishu"
     },
     {
-      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
-      "published_at": "2026-09-28T18:53:36Z",
-      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
       "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3",
       "published_at": "2026-09-28T22:17:28Z",
@@ -68,6 +58,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png",
       "source": "Dev.to",
       "user": "Praveen Rajasekar"
+    },
+    {
+      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
+      "published_at": "2026-09-28T18:53:36Z",
+      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
@@ -274,21 +274,6 @@
         "llm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
-      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
-      "published_at": "2026-09-24T02:00:52Z",
-      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -728,21 +713,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
-      "published_at": "2026-09-23T20:27:00Z",
-      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
-      "source": "GitHub",
-      "stars": 557,
-      "user": "JohnHeibel"
-    },
-    {
       "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "url": "https://github.com/lemomo-ai/lemo-opuscar",
       "published_at": "2026-09-26T10:10:41Z",
@@ -754,8 +724,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 572,
       "user": "lemomo-ai"
+    },
+    {
+      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "published_at": "2026-09-23T20:27:00Z",
+      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "JohnHeibel"
     },
     {
       "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
@@ -769,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 738,
       "user": "yukitorido"
     },
     {
@@ -784,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 154,
       "user": "JaxsonWang"
     },
     {
@@ -799,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 85,
       "user": "Continuum-AI-Corp"
     },
     {
@@ -814,23 +799,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 46,
       "user": "aurorainfra"
-    },
-    {
-      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "published_at": "2026-09-23T13:37:26Z",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 1051,
-      "user": "mikehasa"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -844,8 +814,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 2143,
       "user": "KKKKhazix"
+    },
+    {
+      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "published_at": "2026-09-23T13:37:26Z",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "source": "GitHub",
+      "stars": 1077,
+      "user": "mikehasa"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -859,36 +844,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 819,
       "user": "supermemoryai"
-    },
-    {
-      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
-      "url": "https://github.com/scarletkc/seiso",
-      "published_at": "2026-09-27T13:27:28Z",
-      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
-      "source": "GitHub",
-      "stars": 125,
-      "user": "scarletkc"
-    },
-    {
-      "title": "Yes, no AI is now a feature",
-      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
-      "published_at": "2026-09-28T04:58:26.129-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "johnolinda"
     },
     {
       "title": "What Would A Serious AI Product Look Like?",
@@ -905,34 +862,46 @@
       "user": "Corbin"
     },
     {
-      "title": "Uncaught TypeError: Cannot read properties of null (reading 'postMessage'), cross-origin frame problem",
-      "url": "https://stackoverflow.com/questions/76966456/uncaught-typeerror-cannot-read-properties-of-null-reading-postmessage-cros",
-      "published_at": "2023-08-24T05:35:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Yes, no AI is now a feature",
+      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+      "published_at": "2026-09-28T04:58:26.129-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "jquery",
-        "iframe",
-        "cross-domain"
+        "practices",
+        "vibecoding"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "woninana"
+      "source": "Lobste.rs",
+      "user": "johnolinda"
     },
     {
-      "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
-      "url": "https://stackoverflow.com/questions/80006284/how-can-i-get-latest-reading-from-multiple-griddb-timeseries-containers-using-py",
-      "published_at": "2026-09-27T18:13:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "published_at": "2026-09-29T09:00:00.000Z",
+      "description": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
       "tags": [
-        "python",
-        "time-series",
-        "iot",
-        "griddb"
+        "Startups",
+        "Fundraising",
+        "atomic",
+        "Exclusive",
+        "supply chain ai"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manthan Done"
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "published_at": "2026-09-29T05:13:43.000Z",
+      "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "tags": [
+        "AI",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -1049,36 +1018,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "published_at": "2026-09-28T18:31:23.000Z",
-      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "tags": [
-        "AI",
-        "Jensen Huang",
-        "nvidia",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "published_at": "2026-09-28T18:00:00.000Z",
-      "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Sonnet"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
@@ -1406,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 942,
       "user": "dgreenheck"
     },
     {
@@ -1421,23 +1360,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 899,
       "user": "riba2534"
-    },
-    {
-      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
-      "published_at": "2026-09-23T20:27:00Z",
-      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
-      "source": "GitHub",
-      "stars": 557,
-      "user": "JohnHeibel"
     },
     {
       "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
@@ -1451,8 +1375,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 572,
       "user": "lemomo-ai"
+    },
+    {
+      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "published_at": "2026-09-23T20:27:00Z",
+      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "JohnHeibel"
     },
     {
       "title": "xikhar/spiderbench - GitHub Repository",
@@ -1466,8 +1405,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 411,
       "user": "xikhar"
+    },
+    {
+      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "published_at": "2026-09-28T23:40:05Z",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "source": "GitHub",
+      "stars": 2143,
+      "user": "KKKKhazix"
     },
     {
       "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
@@ -1481,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1788,
+      "stars": 1853,
       "user": "mexicat"
     },
     {
@@ -1496,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1468,
+      "stars": 1572,
       "user": "dzhng"
     },
     {
@@ -1511,23 +1465,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1077,
       "user": "mikehasa"
-    },
-    {
-      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "published_at": "2026-09-28T23:40:05Z",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 899,
-      "user": "KKKKhazix"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -1541,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 819,
       "user": "supermemoryai"
     },
     {
@@ -1564,7 +1503,7 @@
       "title": "How to fix an issue with random images not showing",
       "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
       "published_at": "2026-09-27T16:06:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "javascript",
         "image",
@@ -1573,22 +1512,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aurora Lane"
-    },
-    {
-      "title": "jquery datepicker icon disappears after autopostback",
-      "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
-      "published_at": "2026-09-27T21:17:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "jquery",
-        "asp.net",
-        "datepicker",
-        "webforms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John DiBella"
     },
     {
       "title": "Elegant way to return a filter function from an HTML element",
@@ -1605,6 +1528,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "The Ratman"
+    },
+    {
+      "title": "jquery datepicker icon disappears after autopostback",
+      "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
+      "published_at": "2026-09-27T21:17:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "jquery",
+        "asp.net",
+        "datepicker",
+        "webforms"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "John DiBella"
     },
     {
       "title": "Unable to adjust video timeline which downloaded using yt-dlp and Node.js via browser",
@@ -1652,6 +1591,21 @@
       "user": "Realto619"
     },
     {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
+    },
+    {
       "title": "Vue.js watcher not detecting changes to nested object property",
       "url": "https://stackoverflow.com/questions/79996330/vue-js-watcher-not-detecting-changes-to-nested-object-property",
       "published_at": "2026-08-18T23:44:17.000Z",
@@ -1680,21 +1634,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GOTO 0"
-    },
-    {
-      "title": "Uncaught TypeError: Cannot read properties of null (reading 'postMessage'), cross-origin frame problem",
-      "url": "https://stackoverflow.com/questions/76966456/uncaught-typeerror-cannot-read-properties-of-null-reading-postmessage-cros",
-      "published_at": "2023-08-24T05:35:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "jquery",
-        "iframe",
-        "cross-domain"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "woninana"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1950,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2301,
+      "stars": 2373,
       "user": "Contrastive-LM"
     },
     {
@@ -1965,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 907,
       "user": "feitangyuan"
     },
     {
@@ -1980,23 +1919,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 738,
       "user": "yukitorido"
     },
     {
-      "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
-      "url": "https://github.com/samyost1/3dicon",
-      "published_at": "2026-09-23T18:04:25Z",
-      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "url": "https://github.com/firelex/jeff",
+      "published_at": "2026-09-28T16:18:39Z",
+      "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 505,
-      "user": "samyost1"
+      "stars": 726,
+      "user": "firelex"
     },
     {
       "title": "angusdevgo/Seep-Reverse-Lab - Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
@@ -2010,14 +1949,58 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89133686?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 539,
       "user": "angusdevgo"
+    },
+    {
+      "title": "Write a protocol method that allows slight variations",
+      "url": "https://stackoverflow.com/questions/80006644/write-a-protocol-method-that-allows-slight-variations",
+      "published_at": "2026-09-29T08:30:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "duck-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Train-Case"
+    },
+    {
+      "title": "Why does Pyright reject protocol methods with a \"pass\" body?",
+      "url": "https://stackoverflow.com/questions/80006598/why-does-pyright-reject-protocol-methods-with-a-pass-body",
+      "published_at": "2026-09-29T05:03:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright",
+        "duck-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Train-Case"
+    },
+    {
+      "title": "Automatic Order Request From Image",
+      "url": "https://stackoverflow.com/questions/80006589/automatic-order-request-from-image",
+      "published_at": "2026-09-29T03:28:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "advice",
+        "python",
+        "opencv",
+        "computer-vision",
+        "erp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vixwoke"
     },
     {
       "title": "Why does hashlib declaration location matter in python?",
       "url": "https://stackoverflow.com/questions/80006558/why-does-hashlib-declaration-location-matter-in-python",
       "published_at": "2026-09-28T22:16:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "hashlib"
@@ -2045,7 +2028,7 @@
       "title": "Shortcut to not have to type out entire alphabet or numbers",
       "url": "https://stackoverflow.com/questions/80006534/shortcut-to-not-have-to-type-out-entire-alphabet-or-numbers",
       "published_at": "2026-09-28T19:13:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -2068,18 +2051,6 @@
       "user": "Peter Martin"
     },
     {
-      "title": "print() and return in Python?",
-      "url": "https://stackoverflow.com/questions/80006481/print-and-return-in-python",
-      "published_at": "2026-09-28T14:58:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mardulino Dinis"
-    },
-    {
       "title": "Ansible Lookup Plugin to query the inventory?",
       "url": "https://stackoverflow.com/questions/80006445/ansible-lookup-plugin-to-query-the-inventory",
       "published_at": "2026-09-28T12:09:38.000Z",
@@ -2094,6 +2065,20 @@
       "user": "creatldd1 creatldd1"
     },
     {
+      "title": "Member None of Any | None does not have attribute with_columns - polars & PyCharm problem",
+      "url": "https://stackoverflow.com/questions/80006258/member-none-of-any-none-does-not-have-attribute-with-columns-polars-pychar",
+      "published_at": "2026-09-27T15:56:47.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "pycharm",
+        "python-polars"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
+    },
+    {
       "title": "Detecting keypress and keyrelease on arrow keys",
       "url": "https://stackoverflow.com/questions/80006215/detecting-keypress-and-keyrelease-on-arrow-keys",
       "published_at": "2026-09-27T12:54:41.000Z",
@@ -2105,48 +2090,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Iain"
-    },
-    {
-      "title": "How to concatenate two variables to assign one variable in Python?",
-      "url": "https://stackoverflow.com/questions/80006339/how-to-concatenate-two-variables-to-assign-one-variable-in-python",
-      "published_at": "2026-09-28T00:48:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "string",
-        "concatenation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe1036"
-    },
-    {
-      "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
-      "url": "https://stackoverflow.com/questions/80006284/how-can-i-get-latest-reading-from-multiple-griddb-timeseries-containers-using-py",
-      "published_at": "2026-09-27T18:13:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "time-series",
-        "iot",
-        "griddb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manthan Done"
-    },
-    {
-      "title": "Type-hinting instance variables",
-      "url": "https://stackoverflow.com/questions/80005899/type-hinting-instance-variables",
-      "published_at": "2026-09-25T19:29:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
@@ -2477,7 +2420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1077,
       "user": "mikehasa"
     },
     {
@@ -2511,6 +2454,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "The Ratman"
+    },
+    {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
     }
   ],
   "Mobile": [
@@ -2894,7 +2852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1077,
       "user": "mikehasa"
     },
     {
@@ -3072,36 +3030,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 85,
       "user": "Continuum-AI-Corp"
-    },
-    {
-      "title": "HardenedBSD August / September 2026 Status Report",
-      "url": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
-      "published_at": "2026-09-28T11:14:23.422-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "freebsd",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lattera"
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "published_at": "2026-09-28T18:31:23.000Z",
-      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "tags": [
-        "AI",
-        "Jensen Huang",
-        "nvidia",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     }
   ],
   "Tools": [
@@ -3134,21 +3064,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Jev After Eight Days of Independent Tests: Level With Mid-Price LLMs, Behind the Frontier",
-      "url": "https://dev.to/gde/jev-after-eight-days-of-independent-tests-level-with-mid-price-llms-behind-the-frontier-1kln",
-      "published_at": "2026-09-24T02:00:52Z",
-      "description": "What the independent measurements of TypeSafe's Jev found in its first eight days: arXiv preprints, GitHub evaluations and blog benchmarks, each traced to its primary source. Accuracy, calibration, speed, cost, failure modes, the prior art, the open alternatives, and what is still unmeasured.",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-jev-review-banner.2360df33.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
@@ -3288,7 +3203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 919,
+      "stars": 942,
       "user": "dgreenheck"
     },
     {
@@ -3303,23 +3218,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 899,
       "user": "riba2534"
-    },
-    {
-      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
-      "published_at": "2026-09-23T20:27:00Z",
-      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
-      "source": "GitHub",
-      "stars": 557,
-      "user": "JohnHeibel"
     },
     {
       "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
@@ -3333,8 +3233,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 572,
       "user": "lemomo-ai"
+    },
+    {
+      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "published_at": "2026-09-23T20:27:00Z",
+      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "JohnHeibel"
     },
     {
       "title": "xikhar/spiderbench - GitHub Repository",
@@ -3348,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 411,
       "user": "xikhar"
     },
     {
@@ -3363,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2301,
+      "stars": 2373,
       "user": "Contrastive-LM"
     },
     {
@@ -3378,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 907,
       "user": "feitangyuan"
     },
     {
@@ -3393,23 +3308,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 738,
       "user": "yukitorido"
     },
     {
-      "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
-      "url": "https://github.com/samyost1/3dicon",
-      "published_at": "2026-09-23T18:04:25Z",
-      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "url": "https://github.com/firelex/jeff",
+      "published_at": "2026-09-28T16:18:39Z",
+      "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 505,
-      "user": "samyost1"
+      "stars": 726,
+      "user": "firelex"
     },
     {
       "title": "angusdevgo/Seep-Reverse-Lab - Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
@@ -3423,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89133686?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 539,
       "user": "angusdevgo"
     },
     {
@@ -3438,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1792,
       "user": "yetone"
     },
     {
@@ -3453,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 154,
       "user": "JaxsonWang"
     },
     {
@@ -3468,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 85,
       "user": "Continuum-AI-Corp"
     },
     {
@@ -3483,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 46,
       "user": "aurorainfra"
     },
     {
@@ -3502,6 +3417,21 @@
       "user": "mattn"
     },
     {
+      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "published_at": "2026-09-28T23:40:05Z",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "source": "GitHub",
+      "stars": 2143,
+      "user": "KKKKhazix"
+    },
+    {
       "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
       "url": "https://github.com/mexicat/pdoom-video",
       "published_at": "2026-09-24T21:33:53Z",
@@ -3513,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1788,
+      "stars": 1853,
       "user": "mexicat"
     },
     {
@@ -3528,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1468,
+      "stars": 1572,
       "user": "dzhng"
     },
     {
@@ -3543,23 +3473,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1077,
       "user": "mikehasa"
-    },
-    {
-      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "published_at": "2026-09-28T23:40:05Z",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 899,
-      "user": "KKKKhazix"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -3573,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 819,
       "user": "supermemoryai"
     },
     {
@@ -3588,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1855,
       "user": "tobi"
     },
     {
@@ -3603,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 891,
+      "stars": 916,
       "user": "ollaya-dev"
     },
     {
@@ -3618,8 +3533,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "jankeesvw"
+    },
+    {
+      "title": "chasmlol/2010-rust-rewrite-mashup - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+      "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+      "published_at": "2026-09-27T23:47:01Z",
+      "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
+      "source": "GitHub",
+      "stars": 156,
+      "user": "chasmlol"
     },
     {
       "title": "pch/rawmakase - Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)",
@@ -3633,38 +3563,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 148,
       "user": "pch"
     },
     {
-      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
-      "url": "https://github.com/scarletkc/seiso",
-      "published_at": "2026-09-27T13:27:28Z",
-      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "title": "My experience writing automated tests for a SPA",
+      "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
+      "published_at": "2026-09-29T01:00:10.041-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
-      "source": "GitHub",
-      "stars": 125,
-      "user": "scarletkc"
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "published_at": "2026-09-28T18:31:23.000Z",
-      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "tags": [
-        "AI",
-        "Jensen Huang",
-        "nvidia",
-        "OpenAI"
+        "testing",
+        "web"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "source": "Lobste.rs",
+      "user": "motet-a"
+    },
+    {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
