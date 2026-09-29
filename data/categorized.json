@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
-      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
-      "published_at": "2026-09-28T22:22:04Z",
-      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
-      "tags": [
-        "voiceai",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
-      "source": "Dev.to",
-      "user": "Annie Cusack"
-    },
-    {
       "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
       "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
       "published_at": "2026-09-28T19:04:50Z",
@@ -31,19 +16,29 @@
       "user": "xbill"
     },
     {
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
-      "published_at": "2026-09-28T06:25:14Z",
-      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
+      "published_at": "2026-09-28T22:22:04Z",
+      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
       "tags": [
-        "python",
-        "opensource",
+        "voiceai",
         "ai",
-        "beginners"
+        "googlecloud",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
       "source": "Dev.to",
-      "user": "Rishu"
+      "user": "Annie Cusack"
+    },
+    {
+      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
+      "published_at": "2026-09-28T18:53:36Z",
+      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
@@ -60,14 +55,19 @@
       "user": "Praveen Rajasekar"
     },
     {
-      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
-      "published_at": "2026-09-28T18:53:36Z",
-      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
+      "published_at": "2026-09-28T06:25:14Z",
+      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "tags": [
+        "python",
+        "opensource",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
       "source": "Dev.to",
-      "user": "Jen Harvey"
+      "user": "Rishu"
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
@@ -96,21 +96,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
       "user": "Mika Flowers"
-    },
-    {
-      "title": "This video is about how this video was made",
-      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
-      "published_at": "2026-09-24T19:54:35Z",
-      "description": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
-      "tags": [
-        "ai",
-        "claude",
-        "video",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
     },
     {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
@@ -278,19 +263,6 @@
       "user": "xbill"
     },
     {
-      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
-      "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
-      "published_at": "2026-09-22T08:26:58Z",
-      "description": "In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
       "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3",
       "published_at": "2026-09-23T04:24:08Z",
@@ -304,6 +276,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6kkrywlbq712q0oow60.png",
       "source": "Dev.to",
       "user": "Vo Tu Duc"
+    },
+    {
+      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
+      "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
+      "published_at": "2026-09-22T08:26:58Z",
+      "description": "In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
@@ -498,6 +483,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fow0e126ujeat6lp7vwkj.png",
       "source": "Dev.to",
       "user": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "This video is about how this video was made",
+      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
+      "published_at": "2026-09-24T19:54:35Z",
+      "description": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
+      "tags": [
+        "ai",
+        "claude",
+        "video",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
     },
     {
       "title": "🧩 Don't make Tech your entire personality.",
@@ -713,10 +713,10 @@
       "user": "caseyf7"
     },
     {
-      "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "url": "https://github.com/lemomo-ai/lemo-opuscar",
       "published_at": "2026-09-26T10:10:41Z",
-      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "tags": [
         "javascript",
         "github",
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 595,
       "user": "lemomo-ai"
     },
     {
@@ -739,23 +739,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 577,
       "user": "JohnHeibel"
-    },
-    {
-      "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "url": "https://github.com/yukitorido/short-video-generator-AI",
-      "published_at": "2026-09-23T18:11:57Z",
-      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
-      "source": "GitHub",
-      "stars": 738,
-      "user": "yukitorido"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -769,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "JaxsonWang"
     },
     {
@@ -784,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 95,
       "user": "Continuum-AI-Corp"
     },
     {
@@ -799,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 52,
       "user": "aurorainfra"
     },
     {
@@ -814,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2143,
+      "stars": 2751,
       "user": "KKKKhazix"
     },
     {
@@ -829,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1094,
       "user": "mikehasa"
     },
     {
@@ -844,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 832,
       "user": "supermemoryai"
     },
     {
@@ -875,149 +860,172 @@
       "user": "johnolinda"
     },
     {
-      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-      "published_at": "2026-09-29T09:00:00.000Z",
-      "description": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+      "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "published_at": "2026-09-29T04:40:33.245-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "remmelt"
+    },
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "published_at": "2026-09-29T15:12:07.000Z",
+      "description": "Instinct founder said that the platform is growing 10% day-by-day",
+      "tags": [
+        "AI",
+        "Apps",
+        "instinct",
+        "travel"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Oura shelves its $2.2B IPO citing &#8216;uncertainty&#8217; in the market",
+      "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+      "published_at": "2026-09-29T14:56:55.000Z",
+      "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "IPO",
+        "oura",
+        "smart rings"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "published_at": "2026-09-29T13:53:01.000Z",
+      "description": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+      "tags": [
+        "AI",
         "Startups",
-        "Fundraising",
-        "atomic",
-        "Exclusive",
-        "supply chain ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "published_at": "2026-09-29T05:13:43.000Z",
-      "description": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "tags": [
-        "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "published_at": "2026-09-29T00:30:00.000Z",
-      "description": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Media & Entertainment",
-        "Startups",
-        "Venture"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "published_at": "2026-09-28T23:39:20.000Z",
-      "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "tags": [
-        "AI",
-        "Astra",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn&#8217;t as far-fetched as it sounds",
-      "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-      "published_at": "2026-09-28T22:58:35.000Z",
-      "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
-      "tags": [
-        "Transportation",
-        "Aurora Innovation",
-        "autonomous vehicles"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "published_at": "2026-09-28T21:29:18.000Z",
-      "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "tags": [
-        "AI",
-        "Accel",
-        "inference",
-        "Modal Labs"
+        "Venture",
+        "Marissa Mayer",
+        "consumer"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
     },
     {
-      "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "published_at": "2026-09-28T20:39:33.000Z",
-      "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "published_at": "2026-09-29T13:47:30.000Z",
+      "description": "The tech giant says the agent can help owners run their business and find new customers.",
       "tags": [
         "AI",
-        "world models"
+        "Apps",
+        "Meta",
+        "muse"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Tim Fernholz"
+      "user": "Aisha Malik"
     },
     {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "published_at": "2026-09-28T19:33:57.000Z",
-      "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "title": "Fireflies adds dictation to its desktop notetaking apps",
+      "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+      "published_at": "2026-09-29T13:00:00.000Z",
+      "description": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
+      "tags": [
+        "Apps",
+        "ai dictation",
+        "Fireflies",
+        "Wispr flow"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "published_at": "2026-09-29T12:45:05.000Z",
+      "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
       "tags": [
         "AI",
-        "Commerce",
+        "Security",
+        "ai safety",
+        "cybersecurity",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "published_at": "2026-09-29T12:30:00.000Z",
+      "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "tags": [
+        "Security",
+        "AI",
+        "Fundraising",
         "AI agents",
-        "Shopify"
+        "ai security"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "user": "Ram Iyer"
     },
     {
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
-      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "published_at": "2026-09-28T19:27:27.000Z",
-      "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+      "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
+      "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
+      "published_at": "2026-09-29T06:23:21.000Z",
+      "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
       "tags": [
-        "Transportation",
-        "Elon Musk",
-        "Roadster",
-        "Tesla"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "published_at": "2026-09-28T19:21:59.000Z",
-      "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-      "tags": [
+        "Web Development",
         "AI",
-        "Climate",
-        "climate week nyc"
+        "ai agents",
+        "handbook"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
+      "source": "freeCodeCamp",
+      "user": "Sharvin Shah"
+    },
+    {
+      "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
+      "published_at": "2026-09-29T06:21:55.000Z",
+      "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
+      "tags": [
+        "infrastructure",
+        "AI",
+        "handbook",
+        "Security",
+        "Infrastructure as code"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kayode Adeniyi"
+    },
+    {
+      "title": "Why Software Automation Needs a Layer Between Intent and Execution",
+      "url": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
+      "published_at": "2026-09-29T06:16:57.000Z",
+      "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
+      "tags": [
+        "software architecture",
+        "Devops",
+        "Artificial Intelligence",
+        "TypeScript",
+        "automation"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
@@ -1059,70 +1067,9 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
-      "url": "https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/",
-      "published_at": "2026-09-21T11:58:11.000Z",
-      "description": "The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T",
-      "tags": [
-        "Firebase ai logic",
-        "Firebase",
-        "firebase app check",
-        "gemini"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Caleb Mintoumba"
-    },
-    {
-      "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
-      "published_at": "2026-09-19T17:30:12.000Z",
-      "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
-      "tags": [
-        "AI",
-        "RAG",
-        "graphrag",
-        "Python",
-        "Neo4j"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "RONI DAS"
-    },
-    {
-      "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
-      "url": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
-      "published_at": "2026-09-19T17:27:39.000Z",
-      "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
-      "tags": [
-        "Python",
-        "data analysis",
-        "dependency graph",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Kayode Adeniyi"
     }
   ],
   "JavaScript": [
-    {
-      "title": "This video is about how this video was made",
-      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
-      "published_at": "2026-09-24T19:54:35Z",
-      "description": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
-      "tags": [
-        "ai",
-        "claude",
-        "video",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
     {
       "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
       "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
@@ -1197,6 +1144,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
+    },
+    {
+      "title": "This video is about how this video was made",
+      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
+      "published_at": "2026-09-24T19:54:35Z",
+      "description": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
+      "tags": [
+        "ai",
+        "claude",
+        "video",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
     },
     {
       "title": "🧩 Don't make Tech your entire personality.",
@@ -1345,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 955,
       "user": "dgreenheck"
     },
     {
@@ -1360,14 +1322,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 915,
       "user": "riba2534"
     },
     {
-      "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "url": "https://github.com/lemomo-ai/lemo-opuscar",
       "published_at": "2026-09-26T10:10:41Z",
-      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "tags": [
         "javascript",
         "github",
@@ -1375,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 595,
       "user": "lemomo-ai"
     },
     {
@@ -1390,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 577,
       "user": "JohnHeibel"
     },
     {
@@ -1405,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 426,
       "user": "xikhar"
     },
     {
@@ -1420,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2143,
+      "stars": 2751,
       "user": "KKKKhazix"
     },
     {
@@ -1435,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1853,
+      "stars": 1933,
       "user": "mexicat"
     },
     {
@@ -1450,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1695,
       "user": "dzhng"
     },
     {
@@ -1465,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1094,
       "user": "mikehasa"
     },
     {
@@ -1480,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 832,
       "user": "supermemoryai"
     },
     {
@@ -1591,7 +1553,7 @@
       "user": "Realto619"
     },
     {
-      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "title": "How can I customize keyboard behaviour in HTML <select> menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
@@ -1634,6 +1596,53 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "GOTO 0"
+    },
+    {
+      "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
+      "url": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
+      "published_at": "2026-09-29T06:36:31.000Z",
+      "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
+      "tags": [
+        "JavaScript",
+        "SQL",
+        "Security",
+        "node",
+        "orm"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hackita"
+    },
+    {
+      "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
+      "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
+      "published_at": "2026-09-29T06:23:21.000Z",
+      "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
+      "tags": [
+        "Web Development",
+        "AI",
+        "ai agents",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Sharvin Shah"
+    },
+    {
+      "title": "Why Software Automation Needs a Layer Between Intent and Execution",
+      "url": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
+      "published_at": "2026-09-29T06:16:57.000Z",
+      "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
+      "tags": [
+        "software architecture",
+        "Devops",
+        "Artificial Intelligence",
+        "TypeScript",
+        "automation"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
@@ -1889,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2373,
+      "stars": 2447,
       "user": "Contrastive-LM"
     },
     {
@@ -1904,23 +1913,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 956,
       "user": "feitangyuan"
-    },
-    {
-      "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "url": "https://github.com/yukitorido/short-video-generator-AI",
-      "published_at": "2026-09-23T18:11:57Z",
-      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
-      "source": "GitHub",
-      "stars": 738,
-      "user": "yukitorido"
     },
     {
       "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
@@ -1934,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 924,
       "user": "firelex"
     },
     {
@@ -1949,14 +1943,55 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89133686?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 556,
       "user": "angusdevgo"
+    },
+    {
+      "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "url": "https://github.com/samyost1/3dicon",
+      "published_at": "2026-09-23T18:04:25Z",
+      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
+      "source": "GitHub",
+      "stars": 505,
+      "user": "samyost1"
+    },
+    {
+      "title": "How is the number of bins/bin width determined in a seaborn histogram by default?",
+      "url": "https://stackoverflow.com/questions/80006752/how-is-the-number-of-bins-bin-width-determined-in-a-seaborn-histogram-by-default",
+      "published_at": "2026-09-29T15:04:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "seaborn",
+        "histogram"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Marton Horvath"
+    },
+    {
+      "title": "Tickspot API: How Can an Admin Retrieve Only Their Own Projects and Tasks?",
+      "url": "https://stackoverflow.com/questions/80006690/tickspot-api-how-can-an-admin-retrieve-only-their-own-projects-and-tasks",
+      "published_at": "2026-09-29T11:29:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Divya Maggu"
     },
     {
       "title": "Write a protocol method that allows slight variations",
       "url": "https://stackoverflow.com/questions/80006644/write-a-protocol-method-that-allows-slight-variations",
       "published_at": "2026-09-29T08:30:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "duck-typing"
@@ -1969,7 +2004,7 @@
       "title": "Why does Pyright reject protocol methods with a \"pass\" body?",
       "url": "https://stackoverflow.com/questions/80006598/why-does-pyright-reject-protocol-methods-with-a-pass-body",
       "published_at": "2026-09-29T05:03:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "python-typing",
@@ -1984,7 +2019,7 @@
       "title": "Automatic Order Request From Image",
       "url": "https://stackoverflow.com/questions/80006589/automatic-order-request-from-image",
       "published_at": "2026-09-29T03:28:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -1995,19 +2030,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vixwoke"
-    },
-    {
-      "title": "Why does hashlib declaration location matter in python?",
-      "url": "https://stackoverflow.com/questions/80006558/why-does-hashlib-declaration-location-matter-in-python",
-      "published_at": "2026-09-28T22:16:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "hashlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "WesH"
     },
     {
       "title": "How to see the selected text in Python Tkinter Text when the Text is not in focus",
@@ -2025,30 +2047,29 @@
       "user": "Zeubollisk Wu"
     },
     {
+      "title": "Why does hashlib declaration location matter in python?",
+      "url": "https://stackoverflow.com/questions/80006558/why-does-hashlib-declaration-location-matter-in-python",
+      "published_at": "2026-09-28T22:16:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "hashlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "WesH"
+    },
+    {
       "title": "Shortcut to not have to type out entire alphabet or numbers",
       "url": "https://stackoverflow.com/questions/80006534/shortcut-to-not-have-to-type-out-entire-alphabet-or-numbers",
       "published_at": "2026-09-28T19:13:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "pomermango"
-    },
-    {
-      "title": "pyqt5, mariadb Not getting connected to the DB",
-      "url": "https://stackoverflow.com/questions/80006504/pyqt5-mariadb-not-getting-connected-to-the-db",
-      "published_at": "2026-09-28T16:50:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "pyqt5",
-        "mariadb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Peter Martin"
     },
     {
       "title": "Ansible Lookup Plugin to query the inventory?",
@@ -2065,78 +2086,18 @@
       "user": "creatldd1 creatldd1"
     },
     {
-      "title": "Member None of Any | None does not have attribute with_columns - polars & PyCharm problem",
-      "url": "https://stackoverflow.com/questions/80006258/member-none-of-any-none-does-not-have-attribute-with-columns-polars-pychar",
-      "published_at": "2026-09-27T15:56:47.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "pyqt5, mariadb Not getting connected to the DB",
+      "url": "https://stackoverflow.com/questions/80006504/pyqt5-mariadb-not-getting-connected-to-the-db",
+      "published_at": "2026-09-28T16:50:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "pycharm",
-        "python-polars"
+        "pyqt5",
+        "mariadb"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "FluidMechanics Potential Flows"
-    },
-    {
-      "title": "Detecting keypress and keyrelease on arrow keys",
-      "url": "https://stackoverflow.com/questions/80006215/detecting-keypress-and-keyrelease-on-arrow-keys",
-      "published_at": "2026-09-27T12:54:41.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Iain"
-    },
-    {
-      "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
-      "published_at": "2026-09-21T20:57:10.000Z",
-      "description": "I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information",
-      "tags": [
-        "Python",
-        "Blogging",
-        "markdown",
-        "blog",
-        "academic writing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "brooklyn"
-    },
-    {
-      "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
-      "published_at": "2026-09-19T17:30:12.000Z",
-      "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
-      "tags": [
-        "AI",
-        "RAG",
-        "graphrag",
-        "Python",
-        "Neo4j"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "RONI DAS"
-    },
-    {
-      "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
-      "url": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
-      "published_at": "2026-09-19T17:27:39.000Z",
-      "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
-      "tags": [
-        "Python",
-        "data analysis",
-        "dependency graph",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Kayode Adeniyi"
+      "user": "Peter Martin"
     }
   ],
   "DevOps": [
@@ -2335,6 +2296,22 @@
       "user": "jknupp"
     },
     {
+      "title": "Why Software Automation Needs a Layer Between Intent and Execution",
+      "url": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
+      "published_at": "2026-09-29T06:16:57.000Z",
+      "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
+      "tags": [
+        "software architecture",
+        "Devops",
+        "Artificial Intelligence",
+        "TypeScript",
+        "automation"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
+    },
+    {
       "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
       "url": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
       "published_at": "2026-09-24T16:08:52.000Z",
@@ -2420,7 +2397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1094,
       "user": "mikehasa"
     },
     {
@@ -2456,7 +2433,7 @@
       "user": "The Ratman"
     },
     {
-      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "title": "How can I customize keyboard behaviour in HTML <select> menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
@@ -2469,6 +2446,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
+    },
+    {
+      "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
+      "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
+      "published_at": "2026-09-29T06:23:21.000Z",
+      "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
+      "tags": [
+        "Web Development",
+        "AI",
+        "ai agents",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Sharvin Shah"
     }
   ],
   "Mobile": [
@@ -2559,6 +2551,22 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+      "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+      "published_at": "2026-09-29T13:25:21.000Z",
+      "description": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+      "tags": [
+        "Security",
+        "Apple",
+        "cyberattack",
+        "cybersecurity",
+        "ios 26"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
@@ -2852,8 +2860,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1094,
       "user": "mikehasa"
+    },
+    {
+      "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
+      "url": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
+      "published_at": "2026-09-29T06:36:31.000Z",
+      "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
+      "tags": [
+        "JavaScript",
+        "SQL",
+        "Security",
+        "node",
+        "orm"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hackita"
     },
     {
       "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
@@ -3030,8 +3054,103 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 95,
       "user": "Continuum-AI-Corp"
+    },
+    {
+      "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+      "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+      "published_at": "2026-09-29T13:25:21.000Z",
+      "description": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+      "tags": [
+        "Security",
+        "Apple",
+        "cyberattack",
+        "cybersecurity",
+        "ios 26"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "published_at": "2026-09-29T12:45:05.000Z",
+      "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "tags": [
+        "AI",
+        "Security",
+        "ai safety",
+        "cybersecurity",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "published_at": "2026-09-29T12:30:00.000Z",
+      "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "tags": [
+        "Security",
+        "AI",
+        "Fundraising",
+        "AI agents",
+        "ai security"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+      "published_at": "2026-09-29T10:00:00.000Z",
+      "description": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+      "tags": [
+        "Security",
+        "Venture",
+        "defense tech",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
+      "url": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
+      "published_at": "2026-09-29T06:36:31.000Z",
+      "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
+      "tags": [
+        "JavaScript",
+        "SQL",
+        "Security",
+        "node",
+        "orm"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hackita"
+    },
+    {
+      "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
+      "published_at": "2026-09-29T06:21:55.000Z",
+      "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
+      "tags": [
+        "infrastructure",
+        "AI",
+        "handbook",
+        "Security",
+        "Infrastructure as code"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kayode Adeniyi"
     }
   ],
   "Tools": [
@@ -3203,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 955,
       "user": "dgreenheck"
     },
     {
@@ -3218,14 +3337,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 915,
       "user": "riba2534"
     },
     {
-      "title": "lemomo-ai/lemo-opuscar - 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "url": "https://github.com/lemomo-ai/lemo-opuscar",
       "published_at": "2026-09-26T10:10:41Z",
-      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "tags": [
         "javascript",
         "github",
@@ -3233,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 595,
       "user": "lemomo-ai"
     },
     {
@@ -3248,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 577,
       "user": "JohnHeibel"
     },
     {
@@ -3263,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 426,
       "user": "xikhar"
     },
     {
@@ -3278,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2373,
+      "stars": 2447,
       "user": "Contrastive-LM"
     },
     {
@@ -3293,23 +3412,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 956,
       "user": "feitangyuan"
-    },
-    {
-      "title": "yukitorido/short-video-generator-AI - AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "url": "https://github.com/yukitorido/short-video-generator-AI",
-      "published_at": "2026-09-23T18:11:57Z",
-      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312696578?v=4",
-      "source": "GitHub",
-      "stars": 738,
-      "user": "yukitorido"
     },
     {
       "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
@@ -3323,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 924,
       "user": "firelex"
     },
     {
@@ -3338,8 +3442,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89133686?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 556,
       "user": "angusdevgo"
+    },
+    {
+      "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "url": "https://github.com/samyost1/3dicon",
+      "published_at": "2026-09-23T18:04:25Z",
+      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
+      "source": "GitHub",
+      "stars": 505,
+      "user": "samyost1"
     },
     {
       "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
@@ -3353,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1792,
+      "stars": 2348,
       "user": "yetone"
     },
     {
@@ -3368,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "JaxsonWang"
     },
     {
@@ -3383,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 95,
       "user": "Continuum-AI-Corp"
     },
     {
@@ -3398,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 52,
       "user": "aurorainfra"
     },
     {
@@ -3428,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2143,
+      "stars": 2751,
       "user": "KKKKhazix"
     },
     {
@@ -3443,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1853,
+      "stars": 1933,
       "user": "mexicat"
     },
     {
@@ -3458,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1695,
       "user": "dzhng"
     },
     {
@@ -3473,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1094,
       "user": "mikehasa"
     },
     {
@@ -3488,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 832,
       "user": "supermemoryai"
     },
     {
@@ -3503,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1883,
       "user": "tobi"
     },
     {
@@ -3518,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 951,
       "user": "ollaya-dev"
     },
     {
@@ -3533,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "jankeesvw"
     },
     {
@@ -3548,14 +3667,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 214,
       "user": "chasmlol"
     },
     {
-      "title": "pch/rawmakase - Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)",
+      "title": "pch/rawmakase - Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
       "url": "https://github.com/pch/rawmakase",
       "published_at": "2026-09-26T13:44:32Z",
-      "description": "Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)",
+      "description": "Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
       "tags": [
         "rust",
         "github",
@@ -3563,7 +3682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "pch"
     },
     {
@@ -3580,7 +3699,7 @@
       "user": "motet-a"
     },
     {
-      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "title": "How can I customize keyboard behaviour in HTML <select> menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
@@ -3593,6 +3712,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
+    },
+    {
+      "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
+      "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
+      "published_at": "2026-09-29T06:23:21.000Z",
+      "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
+      "tags": [
+        "Web Development",
+        "AI",
+        "ai agents",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Sharvin Shah"
     },
     {
       "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
