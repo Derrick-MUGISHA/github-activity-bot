@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "lemomo-ai"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "JohnHeibel"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 508,
       "user": "Liuziyu77"
     },
     {
@@ -784,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 104,
       "user": "Continuum-AI-Corp"
     },
     {
@@ -814,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2969,
+      "stars": 3079,
       "user": "KKKKhazix"
     },
     {
@@ -829,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1111,
       "user": "mikehasa"
     },
     {
@@ -844,22 +844,105 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 846,
       "user": "supermemoryai"
     },
     {
-      "title": "What Would A Serious AI Product Look Like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "published_at": "2026-09-28T12:01:01.997-05:00",
+      "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
+      "url": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
+      "published_at": "2026-09-29T14:20:05.967-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "a11y",
-        "design",
+        "linux",
+        "mobile"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "achill"
+    },
+    {
+      "title": "The Shell & Email",
+      "url": "https://www.machtiani.chat/blogs/the-shell",
+      "published_at": "2026-09-29T15:14:41.130-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "email",
+        "show",
+        "vcs",
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Corbin"
+      "user": "abstract777"
+    },
+    {
+      "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "published_at": "2026-09-29T04:40:33.245-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "remmelt"
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "published_at": "2026-09-29T23:30:55.000Z",
+      "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "tags": [
+        "AI",
+        "Minecraft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "published_at": "2026-09-29T22:20:59.000Z",
+      "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "tags": [
+        "AI",
+        "TC",
+        "Elon Musk",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "published_at": "2026-09-29T22:18:35.000Z",
+      "description": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "tags": [
+        "Transportation",
+        "connected cars"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "published_at": "2026-09-29T21:51:36.000Z",
+      "description": "EliseAI raises $350M, doubles valuation in a year.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "a16z",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "OpenAI&#8217;s latest features take direct aim at the app store model",
@@ -909,78 +992,20 @@
       "user": "Julie Bort"
     },
     {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT&#8217;s own office suite",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "published_at": "2026-09-29T17:45:51.000Z",
-      "description": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "title": "How to Build a Reliable AI Assistant with the Claude API",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
+      "published_at": "2026-09-29T13:46:58.000Z",
+      "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
       "tags": [
         "AI",
-        "ChatGPT",
-        "Microsoft",
-        "OpenAI",
-        "Salesforce"
+        "Python",
+        "ai agents",
+        "Prompt Engineering",
+        "llm"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
-      "published_at": "2026-09-29T17:27:09.000Z",
-      "description": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "FBI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "published_at": "2026-09-29T17:20:00.000Z",
-      "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Wabi"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "published_at": "2026-09-29T17:17:15.000Z",
-      "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "tags": [
-        "AI",
-        "TC",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "published_at": "2026-09-29T17:15:00.000Z",
-      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
-      "tags": [
-        "AI",
-        "codex",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Chidozie Managwu"
     },
     {
       "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
@@ -1056,19 +1081,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course",
-      "url": "https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/",
-      "published_at": "2026-09-24T01:57:44.000Z",
-      "description": "Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch",
-      "tags": [
-        "claude",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
@@ -1309,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 966,
       "user": "dgreenheck"
     },
     {
@@ -1324,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 918,
       "user": "riba2534"
     },
     {
@@ -1339,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "lemomo-ai"
     },
     {
@@ -1354,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "JohnHeibel"
     },
     {
@@ -1369,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 436,
       "user": "xikhar"
     },
     {
@@ -1384,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2969,
+      "stars": 3079,
       "user": "KKKKhazix"
     },
     {
@@ -1399,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1974,
       "user": "mexicat"
     },
     {
@@ -1414,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1741,
+      "stars": 1771,
       "user": "dzhng"
     },
     {
@@ -1429,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1111,
       "user": "mikehasa"
     },
     {
@@ -1444,14 +1456,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 846,
       "user": "supermemoryai"
     },
     {
       "title": "custom cursor over personal iframes",
       "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
       "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1597,6 +1609,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hoffmann"
+    },
+    {
+      "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
+      "url": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
+      "published_at": "2026-09-29T13:31:42.000Z",
+      "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "browser-apis"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Alex Oliinyk"
     },
     {
       "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
@@ -1899,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2491,
+      "stars": 2512,
       "user": "Contrastive-LM"
     },
     {
@@ -1914,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 1009,
       "user": "firelex"
     },
     {
@@ -1929,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 981,
       "user": "feitangyuan"
     },
     {
@@ -1944,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 509,
       "user": "samyost1"
     },
     {
@@ -1959,14 +1985,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 508,
       "user": "Liuziyu77"
     },
     {
       "title": "Duplicate keys in a dictionary",
       "url": "https://stackoverflow.com/questions/80006788/duplicate-keys-in-a-dictionary",
       "published_at": "2026-09-29T17:52:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "dictionary"
@@ -1993,7 +2019,7 @@
       "title": "List of Lists for Values in a Table with Rows & Columns",
       "url": "https://stackoverflow.com/questions/80006789/list-of-lists-for-values-in-a-table-with-rows-columns",
       "published_at": "2026-09-29T17:59:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "list"
@@ -2019,28 +2045,13 @@
       "title": "Tickspot API: How Can an Admin Retrieve Only Their Own Projects and Tasks?",
       "url": "https://stackoverflow.com/questions/80006690/tickspot-api-how-can-an-admin-retrieve-only-their-own-projects-and-tasks",
       "published_at": "2026-09-29T11:29:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Divya Maggu"
-    },
-    {
-      "title": "How to see the selected text in Python Tkinter Text when the Text is not in focus",
-      "url": "https://stackoverflow.com/questions/80006535/how-to-see-the-selected-text-in-python-tkinter-text-when-the-text-is-not-in-focu",
-      "published_at": "2026-09-28T19:13:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "tkinter",
-        "text",
-        "focus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
     },
     {
       "title": "Why does Pyright reject protocol methods with a \"pass\" body?",
@@ -2058,10 +2069,25 @@
       "user": "Train-Case"
     },
     {
+      "title": "How to see the selected text in Python Tkinter Text when the Text is not in focus",
+      "url": "https://stackoverflow.com/questions/80006535/how-to-see-the-selected-text-in-python-tkinter-text-when-the-text-is-not-in-focu",
+      "published_at": "2026-09-28T19:13:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "tkinter",
+        "text",
+        "focus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
       "title": "Automatic Order Request From Image",
       "url": "https://stackoverflow.com/questions/80006589/automatic-order-request-from-image",
       "published_at": "2026-09-29T03:28:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "advice",
         "python",
@@ -2074,10 +2100,10 @@
       "user": "Vixwoke"
     },
     {
-      "title": "CLOSED - pyqt5, mariadb Not getting connected to the DB",
-      "url": "https://stackoverflow.com/questions/80006504/closed-pyqt5-mariadb-not-getting-connected-to-the-db",
+      "title": "pyqt5, mariadb Not getting connected to the DB",
+      "url": "https://stackoverflow.com/questions/80006504/pyqt5-mariadb-not-getting-connected-to-the-db",
       "published_at": "2026-09-28T16:50:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "pyqt5",
@@ -2099,6 +2125,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "WesH"
+    },
+    {
+      "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
+      "url": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
+      "published_at": "2026-09-29T14:27:04.000Z",
+      "description": "We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using",
+      "tags": [
+        "trading,",
+        "Python",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
+      "title": "How to Build a Reliable AI Assistant with the Claude API",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
+      "published_at": "2026-09-29T13:46:58.000Z",
+      "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
+      "tags": [
+        "AI",
+        "Python",
+        "ai agents",
+        "Prompt Engineering",
+        "llm"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chidozie Managwu"
     }
   ],
   "DevOps": [
@@ -2398,14 +2454,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1111,
       "user": "mikehasa"
     },
     {
       "title": "custom cursor over personal iframes",
       "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
       "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2463,6 +2519,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
+    },
+    {
+      "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
+      "url": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
+      "published_at": "2026-09-29T13:31:42.000Z",
+      "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "browser-apis"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Alex Oliinyk"
     },
     {
       "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
@@ -2570,33 +2640,44 @@
       "user": "Alexandra"
     },
     {
-      "title": "Getting root on OnePlus 15 from an untrusted app",
-      "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
-      "published_at": "2026-09-29T12:25:55.917-05:00",
+      "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
+      "url": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
+      "published_at": "2026-09-29T14:20:05.967-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "android",
-        "security"
+        "linux",
+        "mobile"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "lknuth"
+      "user": "achill"
     },
     {
-      "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
-      "url": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
-      "published_at": "2026-09-23T21:01:32.000Z",
-      "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "published_at": "2026-09-29T22:18:35.000Z",
+      "description": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
       "tags": [
-        "pub.dev",
-        "Flutter",
-        "mobile",
-        "Dart",
-        "sdk"
+        "Transportation",
+        "connected cars"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
+      "url": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
+      "published_at": "2026-09-29T13:31:42.000Z",
+      "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "browser-apis"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
+      "user": "Alex Oliinyk"
     }
   ],
   "Cloud": [
@@ -2847,20 +2928,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "published_at": "2026-09-29T17:15:00.000Z",
-      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
-      "tags": [
-        "AI",
-        "codex",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ],
   "Database": [
@@ -2888,7 +2955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1111,
       "user": "mikehasa"
     },
     {
@@ -2906,20 +2973,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hackita"
-    },
-    {
-      "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
-      "url": "https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/",
-      "published_at": "2026-09-24T02:04:53.000Z",
-      "description": "Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for",
-      "tags": [
-        "timescaledb",
-        "youtube",
-        "PostgreSQL"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Security": [
@@ -3082,51 +3135,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 104,
       "user": "Continuum-AI-Corp"
     },
     {
-      "title": "Getting root on OnePlus 15 from an untrusted app",
-      "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
-      "published_at": "2026-09-29T12:25:55.917-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "android",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lknuth"
-    },
-    {
-      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
-      "published_at": "2026-09-29T17:27:09.000Z",
-      "description": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "FBI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "published_at": "2026-09-29T17:15:00.000Z",
-      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "published_at": "2026-09-29T23:30:55.000Z",
+      "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
       "tags": [
         "AI",
-        "codex",
-        "OpenAI"
+        "Minecraft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "user": "Amanda Silberling"
     },
     {
       "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
@@ -3330,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
       "source": "GitHub",
-      "stars": 960,
+      "stars": 966,
       "user": "dgreenheck"
     },
     {
@@ -3345,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 918,
       "user": "riba2534"
     },
     {
@@ -3360,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "lemomo-ai"
     },
     {
@@ -3375,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "JohnHeibel"
     },
     {
@@ -3390,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 436,
       "user": "xikhar"
     },
     {
@@ -3405,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
       "source": "GitHub",
-      "stars": 2491,
+      "stars": 2512,
       "user": "Contrastive-LM"
     },
     {
@@ -3420,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 1009,
       "user": "firelex"
     },
     {
@@ -3435,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 981,
       "user": "feitangyuan"
     },
     {
@@ -3450,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 509,
       "user": "samyost1"
     },
     {
@@ -3465,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 508,
       "user": "Liuziyu77"
     },
     {
@@ -3480,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2567,
+      "stars": 2636,
       "user": "yetone"
     },
     {
@@ -3510,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 104,
       "user": "Continuum-AI-Corp"
     },
     {
@@ -3555,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2969,
+      "stars": 3079,
       "user": "KKKKhazix"
     },
     {
@@ -3570,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1974,
       "user": "mexicat"
     },
     {
@@ -3585,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1741,
+      "stars": 1771,
       "user": "dzhng"
     },
     {
@@ -3600,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 1105,
+      "stars": 1111,
       "user": "mikehasa"
     },
     {
@@ -3615,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 846,
       "user": "supermemoryai"
     },
     {
@@ -3630,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1896,
+      "stars": 1906,
       "user": "tobi"
     },
     {
@@ -3645,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 974,
       "user": "ollaya-dev"
     },
     {
@@ -3675,7 +3698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 293,
       "user": "chasmlol"
     },
     {
@@ -3690,7 +3713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "pch"
     },
     {
@@ -3722,20 +3745,6 @@
       "user": "leo"
     },
     {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "published_at": "2026-09-29T17:15:00.000Z",
-      "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
-      "tags": [
-        "AI",
-        "codex",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
       "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
       "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
       "published_at": "2026-09-29T06:23:21.000Z",
@@ -3749,22 +3758,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Sharvin Shah"
-    },
-    {
-      "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
-      "url": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
-      "published_at": "2026-09-23T21:01:32.000Z",
-      "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
-      "tags": [
-        "pub.dev",
-        "Flutter",
-        "mobile",
-        "Dart",
-        "sdk"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
     }
   ]
 }
