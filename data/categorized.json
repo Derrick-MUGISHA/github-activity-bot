@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
+      "published_at": "2026-09-30T17:33:22Z",
+      "description": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
       "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch",
       "published_at": "2026-09-30T13:00:26Z",
@@ -113,21 +128,6 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "published_at": "2026-09-23T11:31:31Z",
-      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "tags": [
-        "buildinpublic",
-        "webdev",
-        "nextjs",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
-    },
-    {
       "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
       "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
       "published_at": "2026-09-28T06:25:14Z",
@@ -141,6 +141,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
       "source": "Dev.to",
       "user": "Rishu"
+    },
+    {
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+      "published_at": "2026-09-23T11:31:31Z",
+      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
+      "tags": [
+        "buildinpublic",
+        "webdev",
+        "nextjs",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
     },
     {
       "title": "An introverted dev in an extroverted world",
@@ -216,21 +231,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Frust-client-seven-catalogs%2Fcover.b00343f4.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
-      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
-      "published_at": "2026-09-20T19:48:39Z",
-      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
-      "tags": [
-        "dart",
-        "flutter",
-        "testing",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 675,
       "user": "lemomo-ai"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "moguzbulbul"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1623,
+      "stars": 1930,
       "user": "feder-cr"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 545,
       "user": "OpSafari"
     },
     {
@@ -799,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3980,
+      "stars": 4040,
       "user": "KKKKhazix"
     },
     {
@@ -814,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 870,
       "user": "supermemoryai"
     },
     {
@@ -829,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 630,
       "user": "glanderness"
     },
     {
@@ -845,141 +845,125 @@
       "user": "hoistbypetard"
     },
     {
-      "title": "Integrating CookieBot via GTM on Hostinger AI builder",
-      "url": "https://stackoverflow.com/questions/79733111/integrating-cookiebot-via-gtm-on-hostinger-ai-builder",
-      "published_at": "2025-08-12T11:36:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "published_at": "2026-09-30T20:20:02.000Z",
+      "description": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant ",
       "tags": [
-        "javascript",
-        "google-tag-manager",
-        "hostinger",
-        "cookiebot"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Domenico"
-    },
-    {
-      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-      "published_at": "2026-09-30T14:50:55.000Z",
-      "description": "Pledge signed by President Trump and top AI leaders misspells the United States.",
-      "tags": [
-        "Government & Policy",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
-      "url": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
-      "published_at": "2026-09-30T14:32:03.000Z",
-      "description": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "fitbit",
-        "Google",
-        "health tracking"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Instagram rolls out an AI video editor for creators",
-      "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/",
-      "published_at": "2026-09-30T14:30:00.000Z",
-      "description": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-      "tags": [
-        "Apps",
-        "Instagram",
-        "edits"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-30T14:30:00.000Z",
-      "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-      "tags": [
+        "Biotech & Health",
         "Startups",
-        "AI",
-        "TechCrunch Disrupt",
-        "Cerebras"
+        "Neko Health",
+        "preventative healthcare"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "TechCrunch Events"
+      "user": "Theresa Loconsolo"
     },
     {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "published_at": "2026-09-30T14:27:11.000Z",
-      "description": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+      "title": "DoorDash&#8217;s drone strategy started on the ground",
+      "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "published_at": "2026-09-30T19:22:13.000Z",
+      "description": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+      "tags": [
+        "Transportation",
+        "delivery drones",
+        "DoorDash",
+        "drones"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "published_at": "2026-09-30T19:00:57.000Z",
+      "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "published_at": "2026-09-30T18:23:57.000Z",
+      "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
       "tags": [
         "AI",
         "Startups",
-        "ai infrastructure",
-        "restate",
-        "Temporal"
+        "liquidity",
+        "voice AI",
+        "ElevenLabs"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
     },
     {
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "published_at": "2026-09-30T14:15:00.000Z",
-      "description": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "published_at": "2026-09-30T17:45:00.000Z",
+      "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
       "tags": [
-        "Startups",
-        "Fintech",
-        "Biotech & Health",
-        "Venture",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Amazon&#8217;s new Fire TV Stick 4K comes with an actually good remote",
-      "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
-      "published_at": "2026-09-30T13:43:54.000Z",
-      "description": "Amazon’s new Fire TV Stick 4K is slimmer and faster, but its biggest upgrade may be the thing you’ll actually hold in your hand: a redesigned remote that’s easier to use, especially in the dark.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "Media & Entertainment",
-        "Amazon Fire TV",
-        "tv"
+        "AI",
+        "Apps",
+        "Social",
+        "TC",
+        "Open Web"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "Charter Space raises $5M to bring insurance to the stars",
-      "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-      "published_at": "2026-09-30T13:00:00.000Z",
-      "description": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+      "title": "The ugly economics of consumer AI",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "published_at": "2026-09-30T17:24:45.000Z",
+      "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
       "tags": [
-        "Startups",
-        "Space",
-        "Fintech",
-        "Exclusive",
-        "Charter Space"
+        "AI",
+        "chatbots",
+        "consumer AI",
+        "instinct"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sean O'Kane"
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "published_at": "2026-09-30T16:24:23.000Z",
+      "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "tags": [
+        "Security",
+        "Privacy",
+        "AI",
+        "Apps",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "published_at": "2026-09-30T16:00:24.000Z",
+      "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "tags": [
+        "AI",
+        "Apps",
+        "DoorDash",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
@@ -1312,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 675,
       "user": "lemomo-ai"
     },
     {
@@ -1327,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 507,
       "user": "zouyuxuan122"
     },
     {
@@ -1342,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 449,
       "user": "xikhar"
     },
     {
@@ -1357,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "moguzbulbul"
     },
     {
@@ -1372,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 345,
       "user": "jaydendavisnc"
     },
     {
@@ -1387,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3980,
+      "stars": 4040,
       "user": "KKKKhazix"
     },
     {
@@ -1402,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 2077,
+      "stars": 2099,
       "user": "mexicat"
     },
     {
@@ -1417,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1867,
+      "stars": 1895,
       "user": "dzhng"
     },
     {
@@ -1432,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 870,
       "user": "supermemoryai"
     },
     {
@@ -1447,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 630,
       "user": "glanderness"
     },
     {
@@ -1480,10 +1464,25 @@
       "user": "Noura Elsayed"
     },
     {
+      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
+      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
+      "published_at": "2026-09-30T10:33:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "media-player",
+        "browser-cache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cineby HD App"
+    },
+    {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "python",
@@ -1515,7 +1514,7 @@
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
       "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
       "published_at": "2026-09-28T05:36:09.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -1528,20 +1527,18 @@
       "user": "RandomDoe2026"
     },
     {
-      "title": "Elegant way to return a filter function from an HTML element",
-      "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
-      "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
+      "title": "How to fix an issue with random images not showing",
+      "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
+      "published_at": "2026-09-27T16:06:11.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
-        "best-practices",
         "javascript",
-        "arrays",
-        "forms",
-        "filter"
+        "image",
+        "random"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "The Ratman"
+      "user": "Aurora Lane"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML <select> menus?",
@@ -1559,6 +1556,19 @@
       "user": "leo"
     },
     {
+      "title": "Should Math.js return the same value for sin(2.5) in all browsers and in Node.js?",
+      "url": "https://stackoverflow.com/questions/79944374/should-math-js-return-the-same-value-for-sin2-5-in-all-browsers-and-in-node-js",
+      "published_at": "2026-05-21T00:58:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score 6",
+      "tags": [
+        "javascript",
+        "mathjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Don Hatch"
+    },
+    {
       "title": "Origin <origin> is not allowed by Access-Control-Allow-Origin",
       "url": "https://stackoverflow.com/questions/18642828/origin-origin-is-not-allowed-by-access-control-allow-origin",
       "published_at": "2013-09-05T17:50:27.000Z",
@@ -1573,34 +1583,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bsr"
-    },
-    {
-      "title": "Difference between React Component and React Element",
-      "url": "https://stackoverflow.com/questions/30971395/difference-between-react-component-and-react-element",
-      "published_at": "2015-06-22T02:32:28.000Z",
-      "description": "Stack Overflow question · 12 answers · score 143",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hoffmann"
-    },
-    {
-      "title": "Integrating CookieBot via GTM on Hostinger AI builder",
-      "url": "https://stackoverflow.com/questions/79733111/integrating-cookiebot-via-gtm-on-hostinger-ai-builder",
-      "published_at": "2025-08-12T11:36:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "google-tag-manager",
-        "hostinger",
-        "cookiebot"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Domenico"
     },
     {
       "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
@@ -1918,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1623,
+      "stars": 1930,
       "user": "feder-cr"
     },
     {
@@ -1933,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1176,
       "user": "firelex"
     },
     {
@@ -1948,23 +1930,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1051,
       "user": "feitangyuan"
-    },
-    {
-      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "url": "https://github.com/OpSafari/hypoarena",
-      "published_at": "2026-09-30T03:35:45Z",
-      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
-      "source": "GitHub",
-      "stars": 544,
-      "user": "OpSafari"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -1978,14 +1945,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 677,
       "user": "rehan-remade"
+    },
+    {
+      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "published_at": "2026-09-30T03:35:45Z",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
+      "source": "GitHub",
+      "stars": 545,
+      "user": "OpSafari"
     },
     {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "python",
@@ -1996,6 +1978,50 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
+    },
+    {
+      "title": "Asyncio code causing infinite loop in GPIO project",
+      "url": "https://stackoverflow.com/questions/80007085/asyncio-code-causing-infinite-loop-in-gpio-project",
+      "published_at": "2026-09-30T19:23:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "raspberry-pi",
+        "python-asyncio",
+        "gpio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "roscoe_turner"
+    },
+    {
+      "title": "Can you create a class that's not a child of object in Python?",
+      "url": "https://stackoverflow.com/questions/80007048/can-you-create-a-class-thats-not-a-child-of-object-in-python",
+      "published_at": "2026-09-30T16:37:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "class",
+        "object"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
+      "title": "How to keep the program running even if the linear regression doesn't converge?",
+      "url": "https://stackoverflow.com/questions/80007066/how-to-keep-the-program-running-even-if-the-linear-regression-doesnt-converge",
+      "published_at": "2026-09-30T17:17:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "best-practices",
+        "python",
+        "linear-regression",
+        "statsmodels"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fazan"
     },
     {
       "title": "VScode doesn't run some files",
@@ -2014,7 +2040,7 @@
       "title": "Apache Superset 6.1 :: flask-caching is still required when NullCache and SupersetMetastoreCache are used?",
       "url": "https://stackoverflow.com/questions/80006946/apache-superset-6-1-flask-caching-is-still-required-when-nullcache-and-supers",
       "published_at": "2026-09-30T11:05:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "flask",
@@ -2067,25 +2093,10 @@
       "user": "Ragno"
     },
     {
-      "title": "pywebtransport and docker - client timing out trying to find server",
-      "url": "https://stackoverflow.com/questions/80006837/pywebtransport-and-docker-client-timing-out-trying-to-find-server",
-      "published_at": "2026-09-30T00:17:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "docker",
-        "docker-compose",
-        "webtransport"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aftrumpet"
-    },
-    {
       "title": "Write a typing.Protocol when its implementations have different arg names",
       "url": "https://stackoverflow.com/questions/80006644/write-a-typing-protocol-when-its-implementations-have-different-arg-names",
       "published_at": "2026-09-29T08:30:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "python-typing"
@@ -2093,33 +2104,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Train-Case"
-    },
-    {
-      "title": "How is the number of bins/bin width determined in a seaborn histogram by default?",
-      "url": "https://stackoverflow.com/questions/80006752/how-is-the-number-of-bins-bin-width-determined-in-a-seaborn-histogram-by-default",
-      "published_at": "2026-09-29T15:04:57.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "seaborn",
-        "histogram"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Marton Horvath"
-    },
-    {
-      "title": "Duplicate keys in a dictionary",
-      "url": "https://stackoverflow.com/questions/80006788/duplicate-keys-in-a-dictionary",
-      "published_at": "2026-09-29T17:52:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vlad K."
     },
     {
       "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
@@ -2348,21 +2332,6 @@
       "user": "jknupp"
     },
     {
-      "title": "pywebtransport and docker - client timing out trying to find server",
-      "url": "https://stackoverflow.com/questions/80006837/pywebtransport-and-docker-client-timing-out-trying-to-find-server",
-      "published_at": "2026-09-30T00:17:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "docker",
-        "docker-compose",
-        "webtransport"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aftrumpet"
-    },
-    {
       "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
       "url": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
       "published_at": "2026-09-30T05:49:45.000Z",
@@ -2487,7 +2456,7 @@
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
       "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
       "published_at": "2026-09-28T05:36:09.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -2498,22 +2467,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "RandomDoe2026"
-    },
-    {
-      "title": "Elegant way to return a filter function from an HTML element",
-      "url": "https://stackoverflow.com/questions/80006046/elegant-way-to-return-a-filter-function-from-an-html-element",
-      "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "arrays",
-        "forms",
-        "filter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "The Ratman"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML <select> menus?",
@@ -2608,21 +2561,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
-      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
-      "published_at": "2026-09-20T19:48:39Z",
-      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
-      "tags": [
-        "dart",
-        "flutter",
-        "testing",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
       "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
       "published_at": "2026-09-20T20:43:19Z",
@@ -2681,6 +2619,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
+      "published_at": "2026-09-30T17:33:22Z",
+      "description": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Claude Sonnet 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
@@ -2929,18 +2882,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "Two Kinds of SQL Query Builders",
-      "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
-      "published_at": "2026-09-29T15:47:03.820-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
-    },
-    {
       "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
       "url": "https://stackoverflow.com/questions/80006999/why-does-node-mssql-connect-to-the-primary-replica-when-using-applicationintent",
       "published_at": "2026-09-30T14:23:15.000Z",
@@ -2959,7 +2900,7 @@
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "python",
@@ -3150,6 +3091,38 @@
       "user": "atmosx"
     },
     {
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "published_at": "2026-09-30T19:29:08.000Z",
+      "description": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach",
+        "department of defense"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "published_at": "2026-09-30T16:24:23.000Z",
+      "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "tags": [
+        "Security",
+        "Privacy",
+        "AI",
+        "Apps",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
       "url": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
       "published_at": "2026-09-29T06:36:31.000Z",
@@ -3197,21 +3170,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
-      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
-      "published_at": "2026-09-20T19:48:39Z",
-      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
-      "tags": [
-        "dart",
-        "flutter",
-        "testing",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
@@ -3351,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 675,
       "user": "lemomo-ai"
     },
     {
@@ -3366,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 507,
       "user": "zouyuxuan122"
     },
     {
@@ -3381,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 449,
       "user": "xikhar"
     },
     {
@@ -3396,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "moguzbulbul"
     },
     {
@@ -3411,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 345,
       "user": "jaydendavisnc"
     },
     {
@@ -3426,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1623,
+      "stars": 1930,
       "user": "feder-cr"
     },
     {
@@ -3441,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1176,
       "user": "firelex"
     },
     {
@@ -3456,23 +3414,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1051,
       "user": "feitangyuan"
-    },
-    {
-      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "url": "https://github.com/OpSafari/hypoarena",
-      "published_at": "2026-09-30T03:35:45Z",
-      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
-      "source": "GitHub",
-      "stars": 544,
-      "user": "OpSafari"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -3486,8 +3429,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 677,
       "user": "rehan-remade"
+    },
+    {
+      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "published_at": "2026-09-30T03:35:45Z",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
+      "source": "GitHub",
+      "stars": 545,
+      "user": "OpSafari"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -3516,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 68,
       "user": "frostyard"
     },
     {
@@ -3546,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 48,
       "user": "Bornholm"
     },
     {
@@ -3576,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3980,
+      "stars": 4040,
       "user": "KKKKhazix"
     },
     {
@@ -3591,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 2077,
+      "stars": 2099,
       "user": "mexicat"
     },
     {
@@ -3606,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1867,
+      "stars": 1895,
       "user": "dzhng"
     },
     {
@@ -3621,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 870,
       "user": "supermemoryai"
     },
     {
@@ -3636,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 630,
       "user": "glanderness"
     },
     {
@@ -3651,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1960,
+      "stars": 1979,
       "user": "tobi"
     },
     {
@@ -3666,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 405,
       "user": "chasmlol"
     },
     {
@@ -3696,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 224,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3711,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 176,
       "user": "pch"
     },
     {
