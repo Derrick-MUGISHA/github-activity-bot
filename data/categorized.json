@@ -724,38 +724,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 617,
       "user": "lemomo-ai"
     },
     {
-      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
-      "published_at": "2026-09-23T20:27:00Z",
-      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "url": "https://github.com/moguzbulbul/blueprint-animation",
+      "published_at": "2026-09-27T21:48:33Z",
+      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 583,
-      "user": "JohnHeibel"
+      "stars": 322,
+      "user": "moguzbulbul"
     },
     {
-      "title": "Liuziyu77/Valen - Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
-      "url": "https://github.com/Liuziyu77/Valen",
-      "published_at": "2026-09-23T02:48:02Z",
-      "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "title": "bridge-mind/bridgeclip - Open-source AI video clipping desktop app by BridgeMind",
+      "url": "https://github.com/bridge-mind/bridgeclip",
+      "published_at": "2026-09-24T17:09:04Z",
+      "description": "Open-source AI video clipping desktop app by BridgeMind",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205098451?v=4",
       "source": "GitHub",
-      "stars": 508,
-      "user": "Liuziyu77"
+      "stars": 338,
+      "user": "bridge-mind"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -773,21 +773,6 @@
       "user": "JaxsonWang"
     },
     {
-      "title": "Continuum-AI-Corp/scuttle - Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
-      "url": "https://github.com/Continuum-AI-Corp/scuttle",
-      "published_at": "2026-09-23T22:28:43Z",
-      "description": "Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "Continuum-AI-Corp"
-    },
-    {
       "title": "aurorainfra/grev - Thinking coreutils",
       "url": "https://github.com/aurorainfra/grev",
       "published_at": "2026-09-24T21:12:11Z",
@@ -803,6 +788,21 @@
       "user": "aurorainfra"
     },
     {
+      "title": "HanawaBanana/workbuddy2api - WorkBuddy2API 延续仓库 —— 账号池转 OpenAI 兼容 API（原 Sliverkiss/workbuddy2api 已删库，MIT）",
+      "url": "https://github.com/HanawaBanana/workbuddy2api",
+      "published_at": "2026-09-24T02:25:31Z",
+      "description": "WorkBuddy2API 延续仓库 —— 账号池转 OpenAI 兼容 API（原 Sliverkiss/workbuddy2api 已删库，MIT）",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33088672?v=4",
+      "source": "GitHub",
+      "stars": 38,
+      "user": "HanawaBanana"
+    },
+    {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "published_at": "2026-09-28T23:40:05Z",
@@ -814,23 +814,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3079,
+      "stars": 3295,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "published_at": "2026-09-23T13:37:26Z",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 1111,
-      "user": "mikehasa"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -844,8 +829,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 849,
       "user": "supermemoryai"
+    },
+    {
+      "title": "glanderness/BeefTV - Local-first, lightweight, AI-native video workspace.",
+      "url": "https://github.com/glanderness/BeefTV",
+      "published_at": "2026-09-24T05:20:03Z",
+      "description": "Local-first, lightweight, AI-native video workspace.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
+      "source": "GitHub",
+      "stars": 545,
+      "user": "glanderness"
+    },
+    {
+      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "url": "https://github.com/scarletkc/seiso",
+      "published_at": "2026-09-27T13:27:28Z",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "scarletkc"
     },
     {
       "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
@@ -960,14 +975,13 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "published_at": "2026-09-29T19:52:37.000Z",
       "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
       "tags": [
         "AI",
-        "TC",
-        "bridge round",
+        "In Brief",
         "IPO",
         "OpenAI"
       ],
@@ -981,10 +995,9 @@
       "published_at": "2026-09-29T18:35:00.000Z",
       "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
       "tags": [
-        "TC",
         "AI",
-        "nvidia",
         "Exclusive",
+        "nvidia",
         "OpenAI"
       ],
       "cover_image": null,
@@ -1310,36 +1323,6 @@
       "user": "velmu"
     },
     {
-      "title": "dgreenheck/tidewater - Coastal town built with Opus 5.5",
-      "url": "https://github.com/dgreenheck/tidewater",
-      "published_at": "2026-09-23T21:40:29Z",
-      "description": "Coastal town built with Opus 5.5",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
-      "source": "GitHub",
-      "stars": 966,
-      "user": "dgreenheck"
-    },
-    {
-      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
-      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
-      "published_at": "2026-09-23T06:31:00Z",
-      "description": "claude-opus-5-5-demo",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
-      "source": "GitHub",
-      "stars": 918,
-      "user": "riba2534"
-    },
-    {
       "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "url": "https://github.com/lemomo-ai/lemo-opuscar",
       "published_at": "2026-09-26T10:10:41Z",
@@ -1351,23 +1334,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 617,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
-      "published_at": "2026-09-23T20:27:00Z",
-      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
-      "source": "GitHub",
-      "stars": 583,
-      "user": "JohnHeibel"
     },
     {
       "title": "xikhar/spiderbench - GitHub Repository",
@@ -1381,8 +1349,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "xikhar"
+    },
+    {
+      "title": "zouyuxuan122/dsh-our-free-model - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+      "published_at": "2026-09-24T16:17:19Z",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "source": "GitHub",
+      "stars": 425,
+      "user": "zouyuxuan122"
+    },
+    {
+      "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
+      "url": "https://github.com/jaydendavisnc/inkwave",
+      "published_at": "2026-09-26T12:50:22Z",
+      "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
+      "source": "GitHub",
+      "stars": 328,
+      "user": "jaydendavisnc"
+    },
+    {
+      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "url": "https://github.com/moguzbulbul/blueprint-animation",
+      "published_at": "2026-09-27T21:48:33Z",
+      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
+      "source": "GitHub",
+      "stars": 322,
+      "user": "moguzbulbul"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -1396,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3079,
+      "stars": 3295,
       "user": "KKKKhazix"
     },
     {
@@ -1411,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1974,
+      "stars": 1988,
       "user": "mexicat"
     },
     {
@@ -1426,23 +1439,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1771,
+      "stars": 1785,
       "user": "dzhng"
-    },
-    {
-      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "published_at": "2026-09-23T13:37:26Z",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 1111,
-      "user": "mikehasa"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -1456,14 +1454,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 849,
       "user": "supermemoryai"
+    },
+    {
+      "title": "glanderness/BeefTV - Local-first, lightweight, AI-native video workspace.",
+      "url": "https://github.com/glanderness/BeefTV",
+      "published_at": "2026-09-24T05:20:03Z",
+      "description": "Local-first, lightweight, AI-native video workspace.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
+      "source": "GitHub",
+      "stars": 545,
+      "user": "glanderness"
     },
     {
       "title": "custom cursor over personal iframes",
       "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
       "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1479,7 +1492,7 @@
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
       "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
       "published_at": "2026-09-28T05:36:09.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1598,17 +1611,20 @@
       "user": "Aasim Ghaffar"
     },
     {
-      "title": "Difference between React Component and React Element",
-      "url": "https://stackoverflow.com/questions/30971395/difference-between-react-component-and-react-element",
-      "published_at": "2015-06-22T02:32:28.000Z",
-      "description": "Stack Overflow question · 12 answers · score 143",
+      "title": "Origin <origin> is not allowed by Access-Control-Allow-Origin",
+      "url": "https://stackoverflow.com/questions/18642828/origin-origin-is-not-allowed-by-access-control-allow-origin",
+      "published_at": "2013-09-05T17:50:27.000Z",
+      "description": "Stack Overflow question · 20 answers · score 263",
       "tags": [
         "javascript",
-        "reactjs"
+        "node.js",
+        "ajax",
+        "google-chrome",
+        "cors"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Hoffmann"
+      "user": "bsr"
     },
     {
       "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
@@ -1914,21 +1930,6 @@
       "user": "arathore"
     },
     {
-      "title": "Contrastive-LM/CLM - GitHub Repository",
-      "url": "https://github.com/Contrastive-LM/CLM",
-      "published_at": "2026-09-23T19:29:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
-      "source": "GitHub",
-      "stars": 2512,
-      "user": "Contrastive-LM"
-    },
-    {
       "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
       "url": "https://github.com/firelex/jeff",
       "published_at": "2026-09-28T16:18:39Z",
@@ -1940,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1054,
       "user": "firelex"
     },
     {
@@ -1955,38 +1956,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 982,
       "user": "feitangyuan"
     },
     {
-      "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
-      "url": "https://github.com/samyost1/3dicon",
-      "published_at": "2026-09-23T18:04:25Z",
-      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "title": "athemeroy/awesome-opus-5-5-videos - Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
+      "url": "https://github.com/athemeroy/awesome-opus-5-5-videos",
+      "published_at": "2026-09-25T00:29:30Z",
+      "description": "Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29937484?v=4",
       "source": "GitHub",
-      "stars": 509,
-      "user": "samyost1"
+      "stars": 342,
+      "user": "athemeroy"
     },
     {
-      "title": "Liuziyu77/Valen - Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
-      "url": "https://github.com/Liuziyu77/Valen",
-      "published_at": "2026-09-23T02:48:02Z",
-      "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "title": "bridge-mind/bridgeclip - Open-source AI video clipping desktop app by BridgeMind",
+      "url": "https://github.com/bridge-mind/bridgeclip",
+      "published_at": "2026-09-24T17:09:04Z",
+      "description": "Open-source AI video clipping desktop app by BridgeMind",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205098451?v=4",
       "source": "GitHub",
-      "stars": 508,
-      "user": "Liuziyu77"
+      "stars": 338,
+      "user": "bridge-mind"
+    },
+    {
+      "title": "PostHog/jeeves - Jeeves – Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "published_at": "2026-09-29T09:56:47Z",
+      "description": "Jeeves – Reasoning improves Jev-like decision models",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/60330232?v=4",
+      "source": "GitHub",
+      "stars": 283,
+      "user": "PostHog"
+    },
+    {
+      "title": "pywebtransport and docker - client timing out trying to find server",
+      "url": "https://stackoverflow.com/questions/80006837/pywebtransport-and-docker-client-timing-out-trying-to-find-server",
+      "published_at": "2026-09-30T00:17:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "docker",
+        "docker-compose",
+        "webtransport"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aftrumpet"
     },
     {
       "title": "Duplicate keys in a dictionary",
@@ -2002,6 +2033,19 @@
       "user": "Vlad K."
     },
     {
+      "title": "List of Lists for Values in a Table with Rows & Columns",
+      "url": "https://stackoverflow.com/questions/80006789/list-of-lists-for-values-in-a-table-with-rows-columns",
+      "published_at": "2026-09-29T17:59:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "list"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Emelia Hanna"
+    },
+    {
       "title": "How is the number of bins/bin width determined in a seaborn histogram by default?",
       "url": "https://stackoverflow.com/questions/80006752/how-is-the-number-of-bins-bin-width-determined-in-a-seaborn-histogram-by-default",
       "published_at": "2026-09-29T15:04:57.000Z",
@@ -2014,19 +2058,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marton Horvath"
-    },
-    {
-      "title": "List of Lists for Values in a Table with Rows & Columns",
-      "url": "https://stackoverflow.com/questions/80006789/list-of-lists-for-values-in-a-table-with-rows-columns",
-      "published_at": "2026-09-29T17:59:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "list"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Emelia Hanna"
     },
     {
       "title": "Write a protocol method that allows slight variations",
@@ -2087,7 +2118,7 @@
       "title": "Automatic Order Request From Image",
       "url": "https://stackoverflow.com/questions/80006589/automatic-order-request-from-image",
       "published_at": "2026-09-29T03:28:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "advice",
         "python",
@@ -2112,19 +2143,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Peter Martin"
-    },
-    {
-      "title": "Why does hashlib declaration location matter in python?",
-      "url": "https://stackoverflow.com/questions/80006558/why-does-hashlib-declaration-location-matter-in-python",
-      "published_at": "2026-09-28T22:16:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "hashlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "WesH"
     },
     {
       "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
@@ -2353,6 +2371,21 @@
       "user": "jknupp"
     },
     {
+      "title": "pywebtransport and docker - client timing out trying to find server",
+      "url": "https://stackoverflow.com/questions/80006837/pywebtransport-and-docker-client-timing-out-trying-to-find-server",
+      "published_at": "2026-09-30T00:17:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "docker",
+        "docker-compose",
+        "webtransport"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aftrumpet"
+    },
+    {
       "title": "Why Software Automation Needs a Layer Between Intent and Execution",
       "url": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
       "published_at": "2026-09-29T06:16:57.000Z",
@@ -2443,25 +2476,10 @@
       "user": "velmu"
     },
     {
-      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "published_at": "2026-09-23T13:37:26Z",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 1111,
-      "user": "mikehasa"
-    },
-    {
       "title": "custom cursor over personal iframes",
       "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
       "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2477,7 +2495,7 @@
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
       "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
       "published_at": "2026-09-28T05:36:09.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2944,19 +2962,16 @@
       "user": "iancarroll"
     },
     {
-      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "published_at": "2026-09-23T13:37:26Z",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "title": "Two Kinds of SQL Query Builders",
+      "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+      "published_at": "2026-09-29T15:47:03.820-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "databases"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 1111,
-      "user": "mikehasa"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
@@ -3122,21 +3137,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
-    },
-    {
-      "title": "Continuum-AI-Corp/scuttle - Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
-      "url": "https://github.com/Continuum-AI-Corp/scuttle",
-      "published_at": "2026-09-23T22:28:43Z",
-      "description": "Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "Continuum-AI-Corp"
     },
     {
       "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
@@ -3342,36 +3342,6 @@
       "user": "pabs3"
     },
     {
-      "title": "dgreenheck/tidewater - Coastal town built with Opus 5.5",
-      "url": "https://github.com/dgreenheck/tidewater",
-      "published_at": "2026-09-23T21:40:29Z",
-      "description": "Coastal town built with Opus 5.5",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3814912?v=4",
-      "source": "GitHub",
-      "stars": 966,
-      "user": "dgreenheck"
-    },
-    {
-      "title": "riba2534/claude-opus-5-5-demo - claude-opus-5-5-demo",
-      "url": "https://github.com/riba2534/claude-opus-5-5-demo",
-      "published_at": "2026-09-23T06:31:00Z",
-      "description": "claude-opus-5-5-demo",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26398978?v=4",
-      "source": "GitHub",
-      "stars": 918,
-      "user": "riba2534"
-    },
-    {
       "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "url": "https://github.com/lemomo-ai/lemo-opuscar",
       "published_at": "2026-09-26T10:10:41Z",
@@ -3383,23 +3353,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 617,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "JohnHeibel/ClaudeAnimationBase - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
-      "published_at": "2026-09-23T20:27:00Z",
-      "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25869466?v=4",
-      "source": "GitHub",
-      "stars": 583,
-      "user": "JohnHeibel"
     },
     {
       "title": "xikhar/spiderbench - GitHub Repository",
@@ -3413,23 +3368,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "xikhar"
     },
     {
-      "title": "Contrastive-LM/CLM - GitHub Repository",
-      "url": "https://github.com/Contrastive-LM/CLM",
-      "published_at": "2026-09-23T19:29:56Z",
-      "description": "Trending GitHub Repository",
+      "title": "zouyuxuan122/dsh-our-free-model - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+      "published_at": "2026-09-24T16:17:19Z",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332430450?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 2512,
-      "user": "Contrastive-LM"
+      "stars": 425,
+      "user": "zouyuxuan122"
+    },
+    {
+      "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
+      "url": "https://github.com/jaydendavisnc/inkwave",
+      "published_at": "2026-09-26T12:50:22Z",
+      "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
+      "source": "GitHub",
+      "stars": 328,
+      "user": "jaydendavisnc"
+    },
+    {
+      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "url": "https://github.com/moguzbulbul/blueprint-animation",
+      "published_at": "2026-09-27T21:48:33Z",
+      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
+      "source": "GitHub",
+      "stars": 322,
+      "user": "moguzbulbul"
     },
     {
       "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
@@ -3443,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1054,
       "user": "firelex"
     },
     {
@@ -3458,53 +3443,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 982,
       "user": "feitangyuan"
     },
     {
-      "title": "samyost1/3dicon - One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
-      "url": "https://github.com/samyost1/3dicon",
-      "published_at": "2026-09-23T18:04:25Z",
-      "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "title": "athemeroy/awesome-opus-5-5-videos - Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
+      "url": "https://github.com/athemeroy/awesome-opus-5-5-videos",
+      "published_at": "2026-09-25T00:29:30Z",
+      "description": "Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/90903248?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29937484?v=4",
       "source": "GitHub",
-      "stars": 509,
-      "user": "samyost1"
+      "stars": 342,
+      "user": "athemeroy"
     },
     {
-      "title": "Liuziyu77/Valen - Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
-      "url": "https://github.com/Liuziyu77/Valen",
-      "published_at": "2026-09-23T02:48:02Z",
-      "description": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "title": "bridge-mind/bridgeclip - Open-source AI video clipping desktop app by BridgeMind",
+      "url": "https://github.com/bridge-mind/bridgeclip",
+      "published_at": "2026-09-24T17:09:04Z",
+      "description": "Open-source AI video clipping desktop app by BridgeMind",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113190597?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/205098451?v=4",
       "source": "GitHub",
-      "stars": 508,
-      "user": "Liuziyu77"
+      "stars": 338,
+      "user": "bridge-mind"
     },
     {
-      "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "url": "https://github.com/yetone/magpie",
-      "published_at": "2026-09-23T16:22:35Z",
-      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "title": "PostHog/jeeves - Jeeves – Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "published_at": "2026-09-29T09:56:47Z",
+      "description": "Jeeves – Reasoning improves Jev-like decision models",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/60330232?v=4",
       "source": "GitHub",
-      "stars": 2636,
-      "user": "yetone"
+      "stars": 283,
+      "user": "PostHog"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -3520,21 +3505,6 @@
       "source": "GitHub",
       "stars": 157,
       "user": "JaxsonWang"
-    },
-    {
-      "title": "Continuum-AI-Corp/scuttle - Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
-      "url": "https://github.com/Continuum-AI-Corp/scuttle",
-      "published_at": "2026-09-23T22:28:43Z",
-      "description": "Tiny post-quantum encryption for sensitive data. Write-only by design. ML-KEM-768 + X25519 + AES-256-GCM. Please break it.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273996259?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "Continuum-AI-Corp"
     },
     {
       "title": "aurorainfra/grev - Thinking coreutils",
@@ -3567,6 +3537,36 @@
       "user": "spumon1"
     },
     {
+      "title": "HanawaBanana/workbuddy2api - WorkBuddy2API 延续仓库 —— 账号池转 OpenAI 兼容 API（原 Sliverkiss/workbuddy2api 已删库，MIT）",
+      "url": "https://github.com/HanawaBanana/workbuddy2api",
+      "published_at": "2026-09-24T02:25:31Z",
+      "description": "WorkBuddy2API 延续仓库 —— 账号池转 OpenAI 兼容 API（原 Sliverkiss/workbuddy2api 已删库，MIT）",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33088672?v=4",
+      "source": "GitHub",
+      "stars": 38,
+      "user": "HanawaBanana"
+    },
+    {
+      "title": "Bornholm/indecis - Small decision models in Go",
+      "url": "https://github.com/Bornholm/indecis",
+      "published_at": "2026-09-28T12:42:18Z",
+      "description": "Small decision models in Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
+      "source": "GitHub",
+      "stars": 37,
+      "user": "Bornholm"
+    },
+    {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "published_at": "2026-09-28T23:40:05Z",
@@ -3578,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3079,
+      "stars": 3295,
       "user": "KKKKhazix"
     },
     {
@@ -3593,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1974,
+      "stars": 1988,
       "user": "mexicat"
     },
     {
@@ -3608,23 +3608,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1771,
+      "stars": 1785,
       "user": "dzhng"
-    },
-    {
-      "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "published_at": "2026-09-23T13:37:26Z",
-      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 1111,
-      "user": "mikehasa"
     },
     {
       "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
@@ -3638,8 +3623,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 849,
       "user": "supermemoryai"
+    },
+    {
+      "title": "glanderness/BeefTV - Local-first, lightweight, AI-native video workspace.",
+      "url": "https://github.com/glanderness/BeefTV",
+      "published_at": "2026-09-24T05:20:03Z",
+      "description": "Local-first, lightweight, AI-native video workspace.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
+      "source": "GitHub",
+      "stars": 545,
+      "user": "glanderness"
     },
     {
       "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
@@ -3653,23 +3653,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 1915,
       "user": "tobi"
-    },
-    {
-      "title": "ollaya-dev/ollaya - Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
-      "url": "https://github.com/ollaya-dev/ollaya",
-      "published_at": "2026-09-23T22:11:15Z",
-      "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/333103087?v=4",
-      "source": "GitHub",
-      "stars": 974,
-      "user": "ollaya-dev"
     },
     {
       "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
@@ -3683,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "jankeesvw"
     },
     {
@@ -3698,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 312,
       "user": "chasmlol"
     },
     {
@@ -3713,8 +3698,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 163,
       "user": "pch"
+    },
+    {
+      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "url": "https://github.com/scarletkc/seiso",
+      "published_at": "2026-09-27T13:27:28Z",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "scarletkc"
     },
     {
       "title": "My experience writing automated tests for a SPA",
