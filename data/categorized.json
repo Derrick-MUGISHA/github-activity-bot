@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
-      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
-      "published_at": "2026-09-28T22:22:04Z",
-      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
-      "tags": [
-        "voiceai",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
-      "source": "Dev.to",
-      "user": "Annie Cusack"
-    },
-    {
       "title": "Claude Sonnet 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
       "published_at": "2026-09-28T18:53:36Z",
@@ -96,6 +81,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
       "user": "Mika Flowers"
+    },
+    {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
+      "published_at": "2026-09-28T22:22:04Z",
+      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "tags": [
+        "voiceai",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
+      "source": "Dev.to",
+      "user": "Annie Cusack"
     },
     {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
@@ -336,19 +336,19 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
-      "published_at": "2026-09-24T11:55:12Z",
-      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
+      "title": "I Built a Local AI Music Studio",
+      "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
+      "published_at": "2026-09-20T21:30:07Z",
+      "description": "I have a habit of starting projects because I want one very specific thing.  Then somewhere along the...",
       "tags": [
         "ai",
-        "agents",
-        "agentskills",
-        "googlecloud"
+        "music",
+        "opensource",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd7k73sbfr636suf6yyyx.png",
       "source": "Dev.to",
-      "user": "Remigiusz Samborski"
+      "user": "Jessica Doering"
     },
     {
       "title": "The missing layer in AI tooling: sharing what your assistant already knows",
@@ -364,21 +364,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
       "source": "Dev.to",
       "user": "Uri Shmueli"
-    },
-    {
-      "title": "I Built a Local AI Music Studio",
-      "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
-      "published_at": "2026-09-20T21:30:07Z",
-      "description": "I have a habit of starting projects because I want one very specific thing.  Then somewhere along the...",
-      "tags": [
-        "ai",
-        "music",
-        "opensource",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd7k73sbfr636suf6yyyx.png",
-      "source": "Dev.to",
-      "user": "Jessica Doering"
     },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
@@ -724,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 641,
       "user": "lemomo-ai"
     },
     {
@@ -739,23 +724,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 332,
       "user": "moguzbulbul"
     },
     {
-      "title": "bridge-mind/bridgeclip - Open-source AI video clipping desktop app by BridgeMind",
-      "url": "https://github.com/bridge-mind/bridgeclip",
-      "published_at": "2026-09-24T17:09:04Z",
-      "description": "Open-source AI video clipping desktop app by BridgeMind",
+      "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "url": "https://github.com/feder-cr/dots",
+      "published_at": "2026-09-29T23:06:00Z",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205098451?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 338,
-      "user": "bridge-mind"
+      "stars": 672,
+      "user": "feder-cr"
+    },
+    {
+      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "published_at": "2026-09-30T03:35:45Z",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "OpSafari"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -769,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 164,
       "user": "JaxsonWang"
     },
     {
@@ -784,23 +784,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 54,
       "user": "aurorainfra"
-    },
-    {
-      "title": "HanawaBanana/workbuddy2api - WorkBuddy2API 延续仓库 —— 账号池转 OpenAI 兼容 API（原 Sliverkiss/workbuddy2api 已删库，MIT）",
-      "url": "https://github.com/HanawaBanana/workbuddy2api",
-      "published_at": "2026-09-24T02:25:31Z",
-      "description": "WorkBuddy2API 延续仓库 —— 账号池转 OpenAI 兼容 API（原 Sliverkiss/workbuddy2api 已删库，MIT）",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/33088672?v=4",
-      "source": "GitHub",
-      "stars": 38,
-      "user": "HanawaBanana"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -814,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3295,
+      "stars": 3728,
       "user": "KKKKhazix"
     },
     {
@@ -829,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 861,
       "user": "supermemoryai"
     },
     {
@@ -844,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 581,
       "user": "glanderness"
     },
     {
@@ -859,8 +844,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "scarletkc"
+    },
+    {
+      "title": "OpenBSD's ports tree keeps GPL coreutils and rejects uutils (Rust rewrite)",
+      "url": "https://www.mail-archive.com/ports%40openbsd.org/msg143892.html",
+      "published_at": "2026-09-30T02:47:04.435-05:00",
+      "description": "A contributor proposed a new OpenBSD port for uutils, the Rust reimplementations of GNU coreutils. The proposal met firm resistance: Stuart Henderson called it unusable, explaining that GNU coreutils exists mainly to stabilize GNU-sensitive build environments. Theo de Raadt went further arguing that nobody wants subtly differently-behaving utilities in their pipelines and that ports developers would be stuck maintaining the result.",
+      "tags": [
+        "openbsd",
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "spikewall"
     },
     {
       "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
@@ -889,18 +887,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "abstract777"
-    },
-    {
-      "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-      "published_at": "2026-09-29T04:40:33.245-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "remmelt"
     },
     {
       "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
@@ -1334,23 +1320,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 641,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "xikhar/spiderbench - GitHub Repository",
-      "url": "https://github.com/xikhar/spiderbench",
-      "published_at": "2026-09-27T05:55:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
-      "source": "GitHub",
-      "stars": 437,
-      "user": "xikhar"
     },
     {
       "title": "zouyuxuan122/dsh-our-free-model - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
@@ -1364,8 +1335,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 458,
       "user": "zouyuxuan122"
+    },
+    {
+      "title": "xikhar/spiderbench - GitHub Repository",
+      "url": "https://github.com/xikhar/spiderbench",
+      "published_at": "2026-09-27T05:55:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "source": "GitHub",
+      "stars": 441,
+      "user": "xikhar"
     },
     {
       "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
@@ -1379,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 339,
       "user": "jaydendavisnc"
     },
     {
@@ -1394,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 332,
       "user": "moguzbulbul"
     },
     {
@@ -1409,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3295,
+      "stars": 3728,
       "user": "KKKKhazix"
     },
     {
@@ -1424,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1988,
+      "stars": 2030,
       "user": "mexicat"
     },
     {
@@ -1439,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1785,
+      "stars": 1828,
       "user": "dzhng"
     },
     {
@@ -1454,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 861,
       "user": "supermemoryai"
     },
     {
@@ -1469,14 +1455,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 581,
       "user": "glanderness"
     },
     {
       "title": "custom cursor over personal iframes",
       "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
       "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -1941,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1120,
       "user": "firelex"
     },
     {
@@ -1956,8 +1942,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 1012,
       "user": "feitangyuan"
+    },
+    {
+      "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "url": "https://github.com/feder-cr/dots",
+      "published_at": "2026-09-29T23:06:00Z",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
+      "source": "GitHub",
+      "stars": 672,
+      "user": "feder-cr"
+    },
+    {
+      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "published_at": "2026-09-30T03:35:45Z",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "OpSafari"
     },
     {
       "title": "athemeroy/awesome-opus-5-5-videos - Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
@@ -1971,38 +1987,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29937484?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 354,
       "user": "athemeroy"
-    },
-    {
-      "title": "bridge-mind/bridgeclip - Open-source AI video clipping desktop app by BridgeMind",
-      "url": "https://github.com/bridge-mind/bridgeclip",
-      "published_at": "2026-09-24T17:09:04Z",
-      "description": "Open-source AI video clipping desktop app by BridgeMind",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205098451?v=4",
-      "source": "GitHub",
-      "stars": 338,
-      "user": "bridge-mind"
-    },
-    {
-      "title": "PostHog/jeeves - Jeeves – Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "published_at": "2026-09-29T09:56:47Z",
-      "description": "Jeeves – Reasoning improves Jev-like decision models",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60330232?v=4",
-      "source": "GitHub",
-      "stars": 283,
-      "user": "PostHog"
     },
     {
       "title": "pywebtransport and docker - client timing out trying to find server",
@@ -2020,36 +2006,10 @@
       "user": "aftrumpet"
     },
     {
-      "title": "Duplicate keys in a dictionary",
-      "url": "https://stackoverflow.com/questions/80006788/duplicate-keys-in-a-dictionary",
-      "published_at": "2026-09-29T17:52:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vlad K."
-    },
-    {
-      "title": "List of Lists for Values in a Table with Rows & Columns",
-      "url": "https://stackoverflow.com/questions/80006789/list-of-lists-for-values-in-a-table-with-rows-columns",
-      "published_at": "2026-09-29T17:59:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "list"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Emelia Hanna"
-    },
-    {
       "title": "How is the number of bins/bin width determined in a seaborn histogram by default?",
       "url": "https://stackoverflow.com/questions/80006752/how-is-the-number-of-bins-bin-width-determined-in-a-seaborn-histogram-by-default",
       "published_at": "2026-09-29T15:04:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "seaborn",
@@ -2058,6 +2018,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Marton Horvath"
+    },
+    {
+      "title": "Duplicate keys in a dictionary",
+      "url": "https://stackoverflow.com/questions/80006788/duplicate-keys-in-a-dictionary",
+      "published_at": "2026-09-29T17:52:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vlad K."
     },
     {
       "title": "Write a protocol method that allows slight variations",
@@ -2073,16 +2046,18 @@
       "user": "Train-Case"
     },
     {
-      "title": "Tickspot API: How Can an Admin Retrieve Only Their Own Projects and Tasks?",
-      "url": "https://stackoverflow.com/questions/80006690/tickspot-api-how-can-an-admin-retrieve-only-their-own-projects-and-tasks",
-      "published_at": "2026-09-29T11:29:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Ansible Lookup Plugin to query the inventory?",
+      "url": "https://stackoverflow.com/questions/80006445/ansible-lookup-plugin-to-query-the-inventory",
+      "published_at": "2026-09-28T12:09:38.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "ansible",
+        "ansible-inventory"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Divya Maggu"
+      "user": "creatldd1 creatldd1"
     },
     {
       "title": "Why does Pyright reject protocol methods with a \"pass\" body?",
@@ -2113,6 +2088,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zeubollisk Wu"
+    },
+    {
+      "title": "Tickspot API: How Can an Admin Retrieve Only Their Own Projects and Tasks?",
+      "url": "https://stackoverflow.com/questions/80006690/tickspot-api-how-can-an-admin-retrieve-only-their-own-projects-and-tasks",
+      "published_at": "2026-09-29T11:29:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Divya Maggu"
     },
     {
       "title": "Automatic Order Request From Image",
@@ -2479,7 +2466,7 @@
       "title": "custom cursor over personal iframes",
       "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
       "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2700,21 +2687,6 @@
   ],
   "Cloud": [
     {
-      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
-      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
-      "published_at": "2026-09-28T22:22:04Z",
-      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
-      "tags": [
-        "voiceai",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
-      "source": "Dev.to",
-      "user": "Annie Cusack"
-    },
-    {
       "title": "Claude Sonnet 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
       "published_at": "2026-09-28T18:53:36Z",
@@ -2736,6 +2708,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
+      "published_at": "2026-09-28T22:22:04Z",
+      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "tags": [
+        "voiceai",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
+      "source": "Dev.to",
+      "user": "Annie Cusack"
     },
     {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
@@ -2871,21 +2858,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Equip your agent with Google Cloud best practices using google-cloud-developer plugin",
-      "url": "https://dev.to/googleai/equip-your-agent-with-google-cloud-best-practices-using-google-cloud-developer-plugin-1bm1",
-      "published_at": "2026-09-24T11:55:12Z",
-      "description": "Coding agents in your terminal can scaffold microservices in seconds. But what happens when your...",
-      "tags": [
-        "ai",
-        "agents",
-        "agentskills",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj92w4acjurb82s4ybipz.png",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
     },
     {
       "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
@@ -3353,23 +3325,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 641,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "xikhar/spiderbench - GitHub Repository",
-      "url": "https://github.com/xikhar/spiderbench",
-      "published_at": "2026-09-27T05:55:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
-      "source": "GitHub",
-      "stars": 437,
-      "user": "xikhar"
     },
     {
       "title": "zouyuxuan122/dsh-our-free-model - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
@@ -3383,8 +3340,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 458,
       "user": "zouyuxuan122"
+    },
+    {
+      "title": "xikhar/spiderbench - GitHub Repository",
+      "url": "https://github.com/xikhar/spiderbench",
+      "published_at": "2026-09-27T05:55:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "source": "GitHub",
+      "stars": 441,
+      "user": "xikhar"
     },
     {
       "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
@@ -3398,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 339,
       "user": "jaydendavisnc"
     },
     {
@@ -3413,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 332,
       "user": "moguzbulbul"
     },
     {
@@ -3428,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1120,
       "user": "firelex"
     },
     {
@@ -3443,8 +3415,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 1012,
       "user": "feitangyuan"
+    },
+    {
+      "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "url": "https://github.com/feder-cr/dots",
+      "published_at": "2026-09-29T23:06:00Z",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
+      "source": "GitHub",
+      "stars": 672,
+      "user": "feder-cr"
+    },
+    {
+      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "published_at": "2026-09-30T03:35:45Z",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "OpSafari"
     },
     {
       "title": "athemeroy/awesome-opus-5-5-videos - Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.",
@@ -3458,38 +3460,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29937484?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 354,
       "user": "athemeroy"
-    },
-    {
-      "title": "bridge-mind/bridgeclip - Open-source AI video clipping desktop app by BridgeMind",
-      "url": "https://github.com/bridge-mind/bridgeclip",
-      "published_at": "2026-09-24T17:09:04Z",
-      "description": "Open-source AI video clipping desktop app by BridgeMind",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/205098451?v=4",
-      "source": "GitHub",
-      "stars": 338,
-      "user": "bridge-mind"
-    },
-    {
-      "title": "PostHog/jeeves - Jeeves – Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "published_at": "2026-09-29T09:56:47Z",
-      "description": "Jeeves – Reasoning improves Jev-like decision models",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60330232?v=4",
-      "source": "GitHub",
-      "stars": 283,
-      "user": "PostHog"
     },
     {
       "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
@@ -3503,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 164,
       "user": "JaxsonWang"
     },
     {
@@ -3518,8 +3490,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 54,
       "user": "aurorainfra"
+    },
+    {
+      "title": "frostyard/nsl - NSpawn Subsystem for Linux: development environments for atomic hosts and people who want to keep the host clean",
+      "url": "https://github.com/frostyard/nsl",
+      "published_at": "2026-09-26T20:08:28Z",
+      "description": "NSpawn Subsystem for Linux: development environments for atomic hosts and people who want to keep the host clean",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "frostyard"
+    },
+    {
+      "title": "Bornholm/indecis - Small decision models in Go",
+      "url": "https://github.com/Bornholm/indecis",
+      "published_at": "2026-09-28T12:42:18Z",
+      "description": "Small decision models in Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "Bornholm"
     },
     {
       "title": "spumon1/SUCK_MY_ASTRA - LOLOLOLOLOLOLOLOLOL",
@@ -3537,36 +3539,6 @@
       "user": "spumon1"
     },
     {
-      "title": "HanawaBanana/workbuddy2api - WorkBuddy2API 延续仓库 —— 账号池转 OpenAI 兼容 API（原 Sliverkiss/workbuddy2api 已删库，MIT）",
-      "url": "https://github.com/HanawaBanana/workbuddy2api",
-      "published_at": "2026-09-24T02:25:31Z",
-      "description": "WorkBuddy2API 延续仓库 —— 账号池转 OpenAI 兼容 API（原 Sliverkiss/workbuddy2api 已删库，MIT）",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/33088672?v=4",
-      "source": "GitHub",
-      "stars": 38,
-      "user": "HanawaBanana"
-    },
-    {
-      "title": "Bornholm/indecis - Small decision models in Go",
-      "url": "https://github.com/Bornholm/indecis",
-      "published_at": "2026-09-28T12:42:18Z",
-      "description": "Small decision models in Go",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
-      "source": "GitHub",
-      "stars": 37,
-      "user": "Bornholm"
-    },
-    {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "published_at": "2026-09-28T23:40:05Z",
@@ -3578,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3295,
+      "stars": 3728,
       "user": "KKKKhazix"
     },
     {
@@ -3593,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
       "source": "GitHub",
-      "stars": 1988,
+      "stars": 2030,
       "user": "mexicat"
     },
     {
@@ -3608,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1785,
+      "stars": 1828,
       "user": "dzhng"
     },
     {
@@ -3623,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 861,
       "user": "supermemoryai"
     },
     {
@@ -3638,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 581,
       "user": "glanderness"
     },
     {
@@ -3653,23 +3625,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1915,
+      "stars": 1937,
       "user": "tobi"
-    },
-    {
-      "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
-      "url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
-      "published_at": "2026-09-24T15:44:42Z",
-      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "jankeesvw"
     },
     {
       "title": "chasmlol/2010-rust-rewrite-mashup - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
@@ -3683,8 +3640,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 342,
       "user": "chasmlol"
+    },
+    {
+      "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+      "url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
+      "published_at": "2026-09-24T15:44:42Z",
+      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "jankeesvw"
     },
     {
       "title": "pch/rawmakase - Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
@@ -3698,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "pch"
     },
     {
@@ -3713,21 +3685,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "scarletkc"
-    },
-    {
-      "title": "My experience writing automated tests for a SPA",
-      "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
-      "published_at": "2026-09-29T01:00:10.041-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "testing",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "motet-a"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML <select> menus?",
