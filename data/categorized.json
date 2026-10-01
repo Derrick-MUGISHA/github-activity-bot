@@ -31,20 +31,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "url": "https://dev.to/ben/gemini-4-argon-5g2l",
-      "published_at": "2026-09-30T20:31:35Z",
-      "description": "...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
       "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch",
       "published_at": "2026-09-30T13:00:26Z",
@@ -58,6 +44,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b-w4a16%2Farticle%2Fdevto-t4-emb4-art.c42232ae.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "url": "https://dev.to/ben/gemini-4-argon-5g2l",
+      "published_at": "2026-09-30T20:31:35Z",
+      "description": "...",
+      "tags": [
+        "ai",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
@@ -723,23 +723,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 703,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "published_at": "2026-09-27T21:48:33Z",
-      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
-      "source": "GitHub",
-      "stars": 350,
-      "user": "moguzbulbul"
     },
     {
       "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
@@ -753,8 +738,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 439,
       "user": "edenfunf"
+    },
+    {
+      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "url": "https://github.com/moguzbulbul/blueprint-animation",
+      "published_at": "2026-09-27T21:48:33Z",
+      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "moguzbulbul"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1933,
+      "stars": 1947,
       "user": "feder-cr"
     },
     {
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 648,
       "user": "echris6"
     },
     {
@@ -798,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4078,
+      "stars": 4189,
       "user": "KKKKhazix"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 875,
       "user": "supermemoryai"
     },
     {
@@ -828,35 +828,49 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 497,
       "user": "openai"
     },
     {
-      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
-      "url": "https://github.com/scarletkc/seiso",
-      "published_at": "2026-09-27T13:27:28Z",
-      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "url": "https://github.com/alpcanaydin/tusk",
+      "published_at": "2026-09-28T18:47:06Z",
+      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "scarletkc"
+      "stars": 165,
+      "user": "alpcanaydin"
     },
     {
-      "title": "Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates",
-      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "published_at": "2026-09-30T09:28:23.283-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "EDG C/C++ Compiler Project",
+      "url": "https://github.com/edgcpp/compiler",
+      "published_at": "2026-09-30T17:06:21.893-05:00",
+      "description": "During the 2025 November C++ ISO meeting Edison Design Group [announced that they would be winding down and that they will open-source their front end](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/). This is the repo containing said front end along with some other components like C and C++ back ends. There is also a [website](https://edgcpp.org/) with more info about the transition and a [documentation website](https://edgcpp.org/doc/).\r\n\r\nAt least as far as my knowledge extends this is one of the four still extant C++ front ends (Clang, GCC, and MSVC being the others). It's most notably used as the front end for Visual Studio's Intellisense, and Intel's compiler used to use it before they switched to Clang.\r\n\r\nAnother interesting historical tidbit is that they were the only front end to implement C++98's `export template` feature, and their experience was  [used to argue for the removal of the feature in C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1426.pdf), though according to [this Stack Overflow comment](https://stackoverflow.com/questions/5416872/using-export-keyword-with-templates#comment6130296_5416981) that specific paper didn't pass voting. The feature was eventually removed in C++11, but I'm unable to find exactly when and/or which paper did so. There's a [2009 blog post by Herb Sutter](https://herbsutter.com/2009/10/23/deprecating-export-considered-for-iso-c0x/) indicating support for removal/deprecation with deprecation getting the most support, so I guess the paper/vote happened sometime after that.",
       "tags": [
-        "hardware"
+        "c",
+        "c++",
+        "compilers"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "hoistbypetard"
+      "user": "aw1621107"
+    },
+    {
+      "title": "Optimizing Real-Time Cryptocurrency Data Integration: Solana Blockchain Transaction Performance Drop Solutions",
+      "url": "https://stackoverflow.com/questions/80007149/optimizing-real-time-cryptocurrency-data-integration-solana-blockchain-transact",
+      "published_at": "2026-10-01T04:31:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32982224"
     },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -889,15 +903,15 @@
       "user": "Julie Bort"
     },
     {
-      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
       "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
       "published_at": "2026-09-30T20:39:09.000Z",
-      "description": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+      "description": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
       "tags": [
         "Startups",
-        "TC",
         "Venture",
-        "cognition"
+        "cognition",
+        "factory"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1278,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 703,
       "user": "lemomo-ai"
     },
     {
@@ -1293,23 +1307,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "xikhar"
-    },
-    {
-      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "published_at": "2026-09-27T21:48:33Z",
-      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
-      "source": "GitHub",
-      "stars": 350,
-      "user": "moguzbulbul"
     },
     {
       "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
@@ -1323,8 +1322,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 439,
       "user": "edenfunf"
+    },
+    {
+      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "url": "https://github.com/moguzbulbul/blueprint-animation",
+      "published_at": "2026-09-27T21:48:33Z",
+      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "moguzbulbul"
     },
     {
       "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
@@ -1338,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "jaydendavisnc"
     },
     {
@@ -1353,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 648,
       "user": "echris6"
     },
     {
@@ -1368,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4078,
+      "stars": 4189,
       "user": "KKKKhazix"
     },
     {
@@ -1383,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1905,
+      "stars": 1920,
       "user": "dzhng"
     },
     {
@@ -1398,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 875,
       "user": "supermemoryai"
     },
     {
@@ -1413,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 497,
       "user": "openai"
     },
     {
@@ -1428,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 450,
       "user": "AgentSystemLabs"
     },
     {
@@ -1556,7 +1570,7 @@
       "title": "Should Math.js return the same value for sin(2.5) in all browsers and in Node.js?",
       "url": "https://stackoverflow.com/questions/79944374/should-math-js-return-the-same-value-for-sin2-5-in-all-browsers-and-in-node-js",
       "published_at": "2026-05-21T00:58:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 6",
+      "description": "Stack Overflow question · 1 answers · score 6",
       "tags": [
         "javascript",
         "mathjs"
@@ -1882,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1933,
+      "stars": 1947,
       "user": "feder-cr"
     },
     {
@@ -1897,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1209,
       "user": "firelex"
     },
     {
@@ -1912,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1076,
       "user": "feitangyuan"
     },
     {
@@ -1927,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 963,
       "user": "rehan-remade"
     },
     {
@@ -1942,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 648,
       "user": "echris6"
     },
     {
@@ -1962,6 +1976,44 @@
       "user": "hetal Vadaliya"
     },
     {
+      "title": "Optimizing Real-Time Cryptocurrency Data Integration: Solana Blockchain Transaction Performance Drop Solutions",
+      "url": "https://stackoverflow.com/questions/80007149/optimizing-real-time-cryptocurrency-data-integration-solana-blockchain-transact",
+      "published_at": "2026-10-01T04:31:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32982224"
+    },
+    {
+      "title": "Resolving Cloud Storage Bucket Connection Issues in Real-Time Data Pipeline Setup",
+      "url": "https://stackoverflow.com/questions/80007145/resolving-cloud-storage-bucket-connection-issues-in-real-time-data-pipeline-setu",
+      "published_at": "2026-10-01T04:20:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33008603"
+    },
+    {
+      "title": "Can you create a class that's not a subclass of object in Python?",
+      "url": "https://stackoverflow.com/questions/80007048/can-you-create-a-class-thats-not-a-subclass-of-object-in-python",
+      "published_at": "2026-09-30T16:37:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "class",
+        "object"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
       "title": "Asyncio code causing infinite loop in GPIO project",
       "url": "https://stackoverflow.com/questions/80007085/asyncio-code-causing-infinite-loop-in-gpio-project",
       "published_at": "2026-09-30T19:23:31.000Z",
@@ -1975,6 +2027,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "roscoe_turner"
+    },
+    {
+      "title": "How to make this context manager cleanly yield an updating value",
+      "url": "https://stackoverflow.com/questions/80006952/how-to-make-this-context-manager-cleanly-yield-an-updating-value",
+      "published_at": "2026-09-30T11:30:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Train-Case"
     },
     {
       "title": "How to keep the program running even if the linear regression doesn't converge?",
@@ -1992,30 +2056,19 @@
       "user": "fazan"
     },
     {
-      "title": "Can you create a class that's not a child of object in Python?",
-      "url": "https://stackoverflow.com/questions/80007048/can-you-create-a-class-thats-not-a-child-of-object-in-python",
-      "published_at": "2026-09-30T16:37:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "title": "pywebtransport and docker - client timing out trying to find server",
+      "url": "https://stackoverflow.com/questions/80006837/pywebtransport-and-docker-client-timing-out-trying-to-find-server",
+      "published_at": "2026-09-30T00:17:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "class",
-        "object"
+        "docker",
+        "docker-compose",
+        "webtransport"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
-    },
-    {
-      "title": "How to make this context manager cleanly yield an updating value",
-      "url": "https://stackoverflow.com/questions/80006952/how-to-make-this-context-manager-cleanly-yield-an-updating-value",
-      "published_at": "2026-09-30T11:30:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Train-Case"
+      "user": "aftrumpet"
     },
     {
       "title": "VScode doesn't run some files",
@@ -2044,48 +2097,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bsethi24"
-    },
-    {
-      "title": "How to sum elements in a 2d array and then find max/highest value?",
-      "url": "https://stackoverflow.com/questions/80006948/how-to-sum-elements-in-a-2d-array-and-then-find-max-highest-value",
-      "published_at": "2026-09-30T11:11:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Emelia Hanna"
-    },
-    {
-      "title": "Isolation Forest performs best with max_samples set to 1.0",
-      "url": "https://stackoverflow.com/questions/80006926/isolation-forest-performs-best-with-max-samples-set-to-1-0",
-      "published_at": "2026-09-30T09:57:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "machine-learning",
-        "scikit-learn",
-        "anomaly-detection",
-        "isolation-forest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ragno"
-    },
-    {
-      "title": "Write a typing.Protocol when its implementations have different arg names",
-      "url": "https://stackoverflow.com/questions/80006644/write-a-typing-protocol-when-its-implementations-have-different-arg-names",
-      "published_at": "2026-09-29T08:30:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Train-Case"
     },
     {
       "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
@@ -2282,6 +2293,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "pywebtransport and docker - client timing out trying to find server",
+      "url": "https://stackoverflow.com/questions/80006837/pywebtransport-and-docker-client-timing-out-trying-to-find-server",
+      "published_at": "2026-09-30T00:17:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "docker",
+        "docker-compose",
+        "webtransport"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aftrumpet"
     },
     {
       "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
@@ -2803,6 +2829,32 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "EDG C/C++ Compiler Project",
+      "url": "https://github.com/edgcpp/compiler",
+      "published_at": "2026-09-30T17:06:21.893-05:00",
+      "description": "During the 2025 November C++ ISO meeting Edison Design Group [announced that they would be winding down and that they will open-source their front end](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/). This is the repo containing said front end along with some other components like C and C++ back ends. There is also a [website](https://edgcpp.org/) with more info about the transition and a [documentation website](https://edgcpp.org/doc/).\r\n\r\nAt least as far as my knowledge extends this is one of the four still extant C++ front ends (Clang, GCC, and MSVC being the others). It's most notably used as the front end for Visual Studio's Intellisense, and Intel's compiler used to use it before they switched to Clang.\r\n\r\nAnother interesting historical tidbit is that they were the only front end to implement C++98's `export template` feature, and their experience was  [used to argue for the removal of the feature in C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1426.pdf), though according to [this Stack Overflow comment](https://stackoverflow.com/questions/5416872/using-export-keyword-with-templates#comment6130296_5416981) that specific paper didn't pass voting. The feature was eventually removed in C++11, but I'm unable to find exactly when and/or which paper did so. There's a [2009 blog post by Herb Sutter](https://herbsutter.com/2009/10/23/deprecating-export-considered-for-iso-c0x/) indicating support for removal/deprecation with deprecation getting the most support, so I guess the paper/vote happened sometime after that.",
+      "tags": [
+        "c",
+        "c++",
+        "compilers"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "aw1621107"
+    },
+    {
+      "title": "Resolving Cloud Storage Bucket Connection Issues in Real-Time Data Pipeline Setup",
+      "url": "https://stackoverflow.com/questions/80007145/resolving-cloud-storage-bucket-connection-issues-in-real-time-data-pipeline-setu",
+      "published_at": "2026-10-01T04:20:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33008603"
     }
   ],
   "Database": [
@@ -2817,6 +2869,34 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "url": "https://github.com/alpcanaydin/tusk",
+      "published_at": "2026-09-28T18:47:06Z",
+      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
+      "source": "GitHub",
+      "stars": 165,
+      "user": "alpcanaydin"
+    },
+    {
+      "title": "We used a database as a message queue. Now we use Kafka",
+      "url": "https://www.tigrisdata.com/blog/quick-fdb-kafka/",
+      "published_at": "2026-09-30T15:28:27.900-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "distributed"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "billy"
     },
     {
       "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
@@ -3244,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 703,
       "user": "lemomo-ai"
     },
     {
@@ -3259,23 +3339,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "xikhar"
-    },
-    {
-      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "published_at": "2026-09-27T21:48:33Z",
-      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
-      "source": "GitHub",
-      "stars": 350,
-      "user": "moguzbulbul"
     },
     {
       "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
@@ -3289,8 +3354,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 439,
       "user": "edenfunf"
+    },
+    {
+      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "url": "https://github.com/moguzbulbul/blueprint-animation",
+      "published_at": "2026-09-27T21:48:33Z",
+      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "moguzbulbul"
     },
     {
       "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
@@ -3304,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "jaydendavisnc"
     },
     {
@@ -3319,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1933,
+      "stars": 1947,
       "user": "feder-cr"
     },
     {
@@ -3334,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1209,
       "user": "firelex"
     },
     {
@@ -3349,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1076,
       "user": "feitangyuan"
     },
     {
@@ -3364,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 963,
       "user": "rehan-remade"
     },
     {
@@ -3379,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 648,
       "user": "echris6"
     },
     {
@@ -3394,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 78,
       "user": "frostyard"
     },
     {
@@ -3469,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4078,
+      "stars": 4189,
       "user": "KKKKhazix"
     },
     {
@@ -3484,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1905,
+      "stars": 1920,
       "user": "dzhng"
     },
     {
@@ -3499,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 875,
       "user": "supermemoryai"
     },
     {
@@ -3514,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 497,
       "user": "openai"
     },
     {
@@ -3529,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 450,
       "user": "AgentSystemLabs"
     },
     {
@@ -3544,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 454,
       "user": "chasmlol"
     },
     {
@@ -3559,23 +3639,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 254,
       "user": "ZacharyZhang-NY"
-    },
-    {
-      "title": "pch/rawmakase - Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
-      "url": "https://github.com/pch/rawmakase",
-      "published_at": "2026-09-26T13:44:32Z",
-      "description": "Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
-      "source": "GitHub",
-      "stars": 177,
-      "user": "pch"
     },
     {
       "title": "corvofeng/atv-core - GitHub Repository",
@@ -3589,23 +3654,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12025071?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 194,
       "user": "corvofeng"
     },
     {
-      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
-      "url": "https://github.com/scarletkc/seiso",
-      "published_at": "2026-09-27T13:27:28Z",
-      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "title": "pch/rawmakase - Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
+      "url": "https://github.com/pch/rawmakase",
+      "published_at": "2026-09-26T13:44:32Z",
+      "description": "Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "scarletkc"
+      "stars": 182,
+      "user": "pch"
+    },
+    {
+      "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "url": "https://github.com/alpcanaydin/tusk",
+      "published_at": "2026-09-28T18:47:06Z",
+      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
+      "source": "GitHub",
+      "stars": 165,
+      "user": "alpcanaydin"
     },
     {
       "title": "Finding Bugs",
