@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--10--01-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,12 +21,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-01 13:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-01 19:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2wmhcfrymahbrsjopzei.png" width="200" alt="Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃" />
+      <br/>
+      <b>Everything You Need To Know About Hacktoberfest 20...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopq9qf6or1ti44csuehz.png" width="200" alt="Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀" />
@@ -45,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/gemini-4-argon-5g2l">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png" width="200" alt="Gemini 4 Argon
@@ -54,17 +65,6 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
       <b>Gemini 4 Argon
 
 https://blog.google/innovation-a...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/sloan/welcome-thread-v-395-55m">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdjp414qfojr8y2t1m3zq.jpeg" width="200" alt="Welcome Thread - v 395" />
-      <br/>
-      <b>Welcome Thread - v 395</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -79,10 +79,10 @@ https://blog.google/innovation-a...</b>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3egf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8nybwrpjxriyzhdnwgx7.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg" width="200" alt="Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Count It or Compute It: When a Tool Returns Rows, ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -96,19 +96,19 @@ https://blog.google/innovation-a...</b>
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀](https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25) | Dev.to |
-| 2 | [Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4) | Dev.to |
-| 3 | [Gemini 4 Argon
+| 1 | [Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃](https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk) | Dev.to |
+| 2 | [Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀](https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25) | Dev.to |
+| 3 | [Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4) | Dev.to |
+| 4 | [Gemini 4 Argon
 
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/](https://dev.to/ben/gemini-4-argon-5g2l) | Dev.to |
-| 4 | [Welcome Thread - v 395](https://dev.to/sloan/welcome-thread-v-395-55m) | Dev.to |
 | 5 | [Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch) | Dev.to |
-| 6 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3egf) | Dev.to |
-| 7 | [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae) | Dev.to |
-| 8 | [Claude Sonnet 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h) | Dev.to |
-| 9 | [7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3) | Dev.to |
-| 10 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
-| 11 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 6 | [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae) | Dev.to |
+| 7 | [Claude Sonnet 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h) | Dev.to |
+| 8 | [7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3) | Dev.to |
+| 9 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
+| 10 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 11 | [Welcome Thread - v 395](https://dev.to/sloan/welcome-thread-v-395-55m) | Dev.to |
 | 12 | [How to Build a Real-Time Voice AI Agent with the Gemini Live API](https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe) | Dev.to |
 | 13 | [The Sand in the Oyster: Why Riverpod Was Needed, and Why You Don't Need It Any More](https://dev.to/gde/the-sand-in-the-oyster-why-riverpod-was-needed-and-why-you-dont-need-it-any-more-204o) | Dev.to |
 | 14 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
@@ -119,7 +119,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 | 19 | [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g) | Dev.to |
 | 20 | [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd) | Dev.to |
 
-<sub>Last fetched: Thu, 01 Oct 2026 13:55:08 CAT</sub>
+<sub>Last fetched: Thu, 01 Oct 2026 19:55:14 CAT</sub>
 
 
 ---
@@ -128,36 +128,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the median of two sorted arrays**
+**1. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**2. `Python` — Explain GIL and its implications for multithreading**
+**2. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> try/catch, .catch(), error middleware
 
 </details>
 
@@ -170,16 +170,16 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 78 | 42.4% | `████████████████████` |
-| **JavaScript** | 41 | 22.3% | `███████████░░░░░░░░░` |
-| **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
-| **Python** | 34 | 18.5% | `█████████░░░░░░░░░░░` |
-| **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **AI** | 83 | 45.1% | `████████████████████` |
+| **JavaScript** | 39 | 21.2% | `█████████░░░░░░░░░░░` |
+| **Tools** | 38 | 20.7% | `█████████░░░░░░░░░░░` |
+| **Python** | 34 | 18.5% | `████████░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -200,31 +200,29 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.5%
-Python          █████████████████████████ 22.8%
-Go              ███████████████████████ 21.5%
-Java            ███████████████████████ 20.8%
-Rust            ██████ 5.4%
-Swift           █ 1.3%
-Ruby            █ 0.7%
+JavaScript      ██████████████████████████████ 26.9%
+Python          ██████████████████████████ 23.4%
+Go              █████████████████████████ 22.8%
+Java            ███████████████████████ 20.7%
+Rust            ██████ 5.5%
+Swift           █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 41
+    "JavaScript" : 39
     "Python" : 34
-    "Go" : 32
-    "Java" : 31
+    "Go" : 33
+    "Java" : 30
     "Rust" : 8
-    "Swift" : 2
-    "Ruby" : 1
+    "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-6-0969da?style=flat-square) 
 
 
 ---
@@ -276,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 01 Oct 2026 11:55:08 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 01 Oct 2026 17:55:14 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
