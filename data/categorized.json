@@ -16,6 +16,35 @@
       "user": "xbill"
     },
     {
+      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
+      "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
+      "published_at": "2026-09-30T23:21:18Z",
+      "description": "Hacktoberfest officially kicks off October 1st! To celebrate, we are hosting an official launch...",
+      "tags": [
+        "hacktoberfest",
+        "hf26challenge",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopq9qf6or1ti44csuehz.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "url": "https://dev.to/ben/gemini-4-argon-5g2l",
+      "published_at": "2026-09-30T20:31:35Z",
+      "description": "...",
+      "tags": [
+        "ai",
+        "gemini",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
       "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch",
       "published_at": "2026-09-30T13:00:26Z",
@@ -231,6 +260,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Frust-client-seven-catalogs%2Fcover.b00343f4.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
+      "published_at": "2026-09-20T19:48:39Z",
+      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
+      "tags": [
+        "dart",
+        "flutter",
+        "testing",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
@@ -500,36 +544,6 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "🧩 Don't make Tech your entire personality.",
-      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
-      "published_at": "2026-09-15T10:46:53Z",
-      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
-      "tags": [
-        "productivity",
-        "webdev",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
-      "source": "Dev.to",
-      "user": "Tanay Dwivedi"
-    },
-    {
-      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
-      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
-      "published_at": "2026-08-27T17:56:45Z",
-      "description": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -709,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 682,
       "user": "lemomo-ai"
     },
     {
@@ -724,8 +738,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "moguzbulbul"
+    },
+    {
+      "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "published_at": "2026-09-28T19:14:59Z",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
+      "source": "GitHub",
+      "stars": 348,
+      "user": "edenfunf"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -739,53 +768,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1933,
       "user": "feder-cr"
     },
     {
-      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "url": "https://github.com/OpSafari/hypoarena",
-      "published_at": "2026-09-30T03:35:45Z",
-      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "published_at": "2026-09-27T14:11:14Z",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 545,
-      "user": "OpSafari"
-    },
-    {
-      "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
-      "url": "https://github.com/JaxsonWang/cpa-plugin-oai-basispoints",
-      "published_at": "2026-09-24T15:55:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "JaxsonWang"
-    },
-    {
-      "title": "aurorainfra/grev - Thinking coreutils",
-      "url": "https://github.com/aurorainfra/grev",
-      "published_at": "2026-09-24T21:12:11Z",
-      "description": "Thinking coreutils",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
-      "source": "GitHub",
-      "stars": 54,
-      "user": "aurorainfra"
+      "stars": 569,
+      "user": "echris6"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -799,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4040,
+      "stars": 4078,
       "user": "KKKKhazix"
     },
     {
@@ -814,23 +813,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 873,
       "user": "supermemoryai"
     },
     {
-      "title": "glanderness/BeefTV - Local-first, lightweight, AI-native video workspace.",
-      "url": "https://github.com/glanderness/BeefTV",
-      "published_at": "2026-09-24T05:20:03Z",
-      "description": "Local-first, lightweight, AI-native video workspace.",
+      "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
+      "url": "https://github.com/openai/mcp-extensions",
+      "published_at": "2026-09-29T00:45:42Z",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 630,
-      "user": "glanderness"
+      "stars": 464,
+      "user": "openai"
+    },
+    {
+      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "url": "https://github.com/scarletkc/seiso",
+      "published_at": "2026-09-27T13:27:28Z",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "scarletkc"
     },
     {
       "title": "Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates",
@@ -843,6 +857,51 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hoistbypetard"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published_at": "2026-09-30T23:43:07.000Z",
+      "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "tags": [
+        "AI",
+        "gemini",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "published_at": "2026-09-30T21:07:40.000Z",
+      "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "Flow Engineering",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "published_at": "2026-09-30T20:39:09.000Z",
+      "description": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+      "tags": [
+        "Startups",
+        "TC",
+        "Venture",
+        "cognition"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
@@ -902,68 +961,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "published_at": "2026-09-30T17:45:00.000Z",
-      "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "TC",
-        "Open Web"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "The ugly economics of consumer AI",
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "published_at": "2026-09-30T17:24:45.000Z",
-      "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-      "tags": [
-        "AI",
-        "chatbots",
-        "consumer AI",
-        "instinct"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "published_at": "2026-09-30T16:24:23.000Z",
-      "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-      "tags": [
-        "Security",
-        "Privacy",
-        "AI",
-        "Apps",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "published_at": "2026-09-30T16:00:24.000Z",
-      "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "tags": [
-        "AI",
-        "Apps",
-        "DoorDash",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
@@ -1150,21 +1147,6 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "🧩 Don't make Tech your entire personality.",
-      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
-      "published_at": "2026-09-15T10:46:53Z",
-      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
-      "tags": [
-        "productivity",
-        "webdev",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
-      "source": "Dev.to",
-      "user": "Tanay Dwivedi"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1296,23 +1278,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 682,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "zouyuxuan122/dsh-our-free-model - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-      "published_at": "2026-09-24T16:17:19Z",
-      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
-      "source": "GitHub",
-      "stars": 507,
-      "user": "zouyuxuan122"
     },
     {
       "title": "xikhar/spiderbench - GitHub Repository",
@@ -1326,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 450,
       "user": "xikhar"
     },
     {
@@ -1341,8 +1308,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "moguzbulbul"
+    },
+    {
+      "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "published_at": "2026-09-28T19:14:59Z",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
+      "source": "GitHub",
+      "stars": 348,
+      "user": "edenfunf"
     },
     {
       "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
@@ -1356,8 +1338,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 347,
       "user": "jaydendavisnc"
+    },
+    {
+      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "published_at": "2026-09-27T14:11:14Z",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
+      "source": "GitHub",
+      "stars": 569,
+      "user": "echris6"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -1371,23 +1368,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4040,
+      "stars": 4078,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "url": "https://github.com/mexicat/pdoom-video",
-      "published_at": "2026-09-24T21:33:53Z",
-      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
-      "source": "GitHub",
-      "stars": 2099,
-      "user": "mexicat"
     },
     {
       "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
@@ -1401,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1895,
+      "stars": 1905,
       "user": "dzhng"
     },
     {
@@ -1416,23 +1398,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 873,
       "user": "supermemoryai"
     },
     {
-      "title": "glanderness/BeefTV - Local-first, lightweight, AI-native video workspace.",
-      "url": "https://github.com/glanderness/BeefTV",
-      "published_at": "2026-09-24T05:20:03Z",
-      "description": "Local-first, lightweight, AI-native video workspace.",
+      "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
+      "url": "https://github.com/openai/mcp-extensions",
+      "published_at": "2026-09-29T00:45:42Z",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 630,
-      "user": "glanderness"
+      "stars": 464,
+      "user": "openai"
+    },
+    {
+      "title": "AgentSystemLabs/agent-office - A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "url": "https://github.com/AgentSystemLabs/agent-office",
+      "published_at": "2026-09-26T00:32:48Z",
+      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
+      "source": "GitHub",
+      "stars": 440,
+      "user": "AgentSystemLabs"
     },
     {
       "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
@@ -1464,21 +1461,6 @@
       "user": "Noura Elsayed"
     },
     {
-      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
-      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
-      "published_at": "2026-09-30T10:33:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "media-player",
-        "browser-cache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cineby HD App"
-    },
-    {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
@@ -1493,6 +1475,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
+    },
+    {
+      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
+      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
+      "published_at": "2026-09-30T10:33:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "media-player",
+        "browser-cache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cineby HD App"
     },
     {
       "title": "custom cursor over personal iframes",
@@ -1754,21 +1751,6 @@
       "user": "xbill"
     },
     {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
-      "published_at": "2026-09-22T15:14:36Z",
-      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
-      "tags": [
-        "googlecloud",
-        "python",
-        "devops",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1900,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1933,
       "user": "feder-cr"
     },
     {
@@ -1915,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1189,
       "user": "firelex"
     },
     {
@@ -1930,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1054,
       "user": "feitangyuan"
     },
     {
@@ -1945,23 +1927,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 804,
       "user": "rehan-remade"
     },
     {
-      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "url": "https://github.com/OpSafari/hypoarena",
-      "published_at": "2026-09-30T03:35:45Z",
-      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "published_at": "2026-09-27T14:11:14Z",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 545,
-      "user": "OpSafari"
+      "stars": 569,
+      "user": "echris6"
     },
     {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
@@ -1995,10 +1977,25 @@
       "user": "roscoe_turner"
     },
     {
+      "title": "How to keep the program running even if the linear regression doesn't converge?",
+      "url": "https://stackoverflow.com/questions/80007066/how-to-keep-the-program-running-even-if-the-linear-regression-doesnt-converge",
+      "published_at": "2026-09-30T17:17:00.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "best-practices",
+        "python",
+        "linear-regression",
+        "statsmodels"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fazan"
+    },
+    {
       "title": "Can you create a class that's not a child of object in Python?",
       "url": "https://stackoverflow.com/questions/80007048/can-you-create-a-class-thats-not-a-child-of-object-in-python",
       "published_at": "2026-09-30T16:37:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "class",
@@ -2009,19 +2006,16 @@
       "user": "Zeubollisk Wu"
     },
     {
-      "title": "How to keep the program running even if the linear regression doesn't converge?",
-      "url": "https://stackoverflow.com/questions/80007066/how-to-keep-the-program-running-even-if-the-linear-regression-doesnt-converge",
-      "published_at": "2026-09-30T17:17:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How to make this context manager cleanly yield an updating value",
+      "url": "https://stackoverflow.com/questions/80006952/how-to-make-this-context-manager-cleanly-yield-an-updating-value",
+      "published_at": "2026-09-30T11:30:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "best-practices",
-        "python",
-        "linear-regression",
-        "statsmodels"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "fazan"
+      "user": "Train-Case"
     },
     {
       "title": "VScode doesn't run some files",
@@ -2050,18 +2044,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bsethi24"
-    },
-    {
-      "title": "Share a value that calls a function when evaluated",
-      "url": "https://stackoverflow.com/questions/80006952/share-a-value-that-calls-a-function-when-evaluated",
-      "published_at": "2026-09-30T11:30:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Train-Case"
     },
     {
       "title": "How to sum elements in a 2d array and then find max/highest value?",
@@ -2180,36 +2162,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AzWubiPyAk5YCdtX9j1_mUA.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
-      "published_at": "2026-09-22T15:14:36Z",
-      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
-      "tags": [
-        "googlecloud",
-        "python",
-        "devops",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
-      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
-      "published_at": "2026-08-27T17:56:45Z",
-      "description": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2561,6 +2513,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
+      "published_at": "2026-09-20T19:48:39Z",
+      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
+      "tags": [
+        "dart",
+        "flutter",
+        "testing",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map",
       "url": "https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b",
       "published_at": "2026-09-20T20:43:19Z",
@@ -2836,36 +2803,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-      "url": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
-      "published_at": "2026-09-22T15:14:36Z",
-      "description": "A local-first CLI that scans Google Cloud projects for unused resources, prices each one from the Cloud Billing Catalog API, and drafts the cleanup. One call per project instead of one per region, read-only by default, and a Claude Code plugin over the same engine.",
-      "tags": [
-        "googlecloud",
-        "python",
-        "devops",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fzombiescan-gcp%2Fmain%2Farticles%2Fzombiescan-gcp%2Fdevto-cover.4e999e75.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
-      "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
-      "published_at": "2026-08-27T17:56:45Z",
-      "description": "Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     }
   ],
   "Database": [
@@ -3091,6 +3028,20 @@
       "user": "atmosx"
     },
     {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published_at": "2026-09-30T23:43:07.000Z",
+      "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "tags": [
+        "AI",
+        "gemini",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Hackers stole millions of US military personnel records during months-long data breach",
       "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
       "published_at": "2026-09-30T19:29:08.000Z",
@@ -3105,22 +3056,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Meta disputes claim that Muse read a user&#8217;s private messages without permission",
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "published_at": "2026-09-30T16:24:23.000Z",
-      "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-      "tags": [
-        "Security",
-        "Privacy",
-        "AI",
-        "Apps",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
@@ -3170,6 +3105,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
+      "published_at": "2026-09-20T19:48:39Z",
+      "description": "Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.",
+      "tags": [
+        "dart",
+        "flutter",
+        "testing",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
@@ -3247,21 +3197,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "🧩 Don't make Tech your entire personality.",
-      "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
-      "published_at": "2026-09-15T10:46:53Z",
-      "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
-      "tags": [
-        "productivity",
-        "webdev",
-        "ai",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxet3n6gavmvob5dfz772.png",
-      "source": "Dev.to",
-      "user": "Tanay Dwivedi"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3309,23 +3244,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 682,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "zouyuxuan122/dsh-our-free-model - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
-      "published_at": "2026-09-24T16:17:19Z",
-      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
-      "source": "GitHub",
-      "stars": 507,
-      "user": "zouyuxuan122"
     },
     {
       "title": "xikhar/spiderbench - GitHub Repository",
@@ -3339,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 450,
       "user": "xikhar"
     },
     {
@@ -3354,8 +3274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "moguzbulbul"
+    },
+    {
+      "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "published_at": "2026-09-28T19:14:59Z",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
+      "source": "GitHub",
+      "stars": 348,
+      "user": "edenfunf"
     },
     {
       "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
@@ -3369,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 347,
       "user": "jaydendavisnc"
     },
     {
@@ -3384,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1933,
       "user": "feder-cr"
     },
     {
@@ -3399,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1189,
       "user": "firelex"
     },
     {
@@ -3414,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1054,
       "user": "feitangyuan"
     },
     {
@@ -3429,38 +3364,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 804,
       "user": "rehan-remade"
     },
     {
-      "title": "OpSafari/hypoarena - Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-      "url": "https://github.com/OpSafari/hypoarena",
-      "published_at": "2026-09-30T03:35:45Z",
-      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "published_at": "2026-09-27T14:11:14Z",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/226998942?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 545,
-      "user": "OpSafari"
-    },
-    {
-      "title": "JaxsonWang/cpa-plugin-oai-basispoints - GitHub Repository",
-      "url": "https://github.com/JaxsonWang/cpa-plugin-oai-basispoints",
-      "published_at": "2026-09-24T15:55:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16836692?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "JaxsonWang"
+      "stars": 569,
+      "user": "echris6"
     },
     {
       "title": "frostyard/nsl - NSpawn Subsystem for Linux: development environments for atomic hosts and people who want to keep the host clean",
@@ -3474,23 +3394,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 72,
       "user": "frostyard"
-    },
-    {
-      "title": "aurorainfra/grev - Thinking coreutils",
-      "url": "https://github.com/aurorainfra/grev",
-      "published_at": "2026-09-24T21:12:11Z",
-      "description": "Thinking coreutils",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/211144664?v=4",
-      "source": "GitHub",
-      "stars": 54,
-      "user": "aurorainfra"
     },
     {
       "title": "Bornholm/indecis - Small decision models in Go",
@@ -3504,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 49,
       "user": "Bornholm"
     },
     {
@@ -3523,6 +3428,36 @@
       "user": "spumon1"
     },
     {
+      "title": "Slaker19/webkvm - Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
+      "url": "https://github.com/Slaker19/webkvm",
+      "published_at": "2026-09-26T23:17:14Z",
+      "description": "Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196074148?v=4",
+      "source": "GitHub",
+      "stars": 39,
+      "user": "Slaker19"
+    },
+    {
+      "title": "Vitruves/ghostty-config - TUI for Ghostty terminal customization ",
+      "url": "https://github.com/Vitruves/ghostty-config",
+      "published_at": "2026-09-27T08:57:53Z",
+      "description": "TUI for Ghostty terminal customization ",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65819137?v=4",
+      "source": "GitHub",
+      "stars": 36,
+      "user": "Vitruves"
+    },
+    {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "published_at": "2026-09-28T23:40:05Z",
@@ -3534,23 +3469,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4040,
+      "stars": 4078,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "url": "https://github.com/mexicat/pdoom-video",
-      "published_at": "2026-09-24T21:33:53Z",
-      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/699380?v=4",
-      "source": "GitHub",
-      "stars": 2099,
-      "user": "mexicat"
     },
     {
       "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
@@ -3564,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1895,
+      "stars": 1905,
       "user": "dzhng"
     },
     {
@@ -3579,38 +3499,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 873,
       "user": "supermemoryai"
     },
     {
-      "title": "glanderness/BeefTV - Local-first, lightweight, AI-native video workspace.",
-      "url": "https://github.com/glanderness/BeefTV",
-      "published_at": "2026-09-24T05:20:03Z",
-      "description": "Local-first, lightweight, AI-native video workspace.",
+      "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
+      "url": "https://github.com/openai/mcp-extensions",
+      "published_at": "2026-09-29T00:45:42Z",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/58928515?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 630,
-      "user": "glanderness"
+      "stars": 464,
+      "user": "openai"
     },
     {
-      "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-      "url": "https://github.com/tobi/disktree",
-      "published_at": "2026-09-24T20:56:29Z",
-      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "title": "AgentSystemLabs/agent-office - A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "url": "https://github.com/AgentSystemLabs/agent-office",
+      "published_at": "2026-09-26T00:32:48Z",
+      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 1979,
-      "user": "tobi"
+      "stars": 440,
+      "user": "AgentSystemLabs"
     },
     {
       "title": "chasmlol/2010-rust-rewrite-mashup - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
@@ -3624,23 +3544,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 422,
       "user": "chasmlol"
-    },
-    {
-      "title": "jankeesvw/omarchy-meeting-recorder - Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
-      "url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
-      "published_at": "2026-09-24T15:44:42Z",
-      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167882?v=4",
-      "source": "GitHub",
-      "stars": 320,
-      "user": "jankeesvw"
     },
     {
       "title": "ZacharyZhang-NY/Ely-GPUI-Components - A component library for GPUI, in light and dark. Every component runs live in the browser.",
@@ -3654,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 235,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3669,8 +3574,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "pch"
+    },
+    {
+      "title": "corvofeng/atv-core - GitHub Repository",
+      "url": "https://github.com/corvofeng/atv-core",
+      "published_at": "2026-09-26T09:41:21Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12025071?v=4",
+      "source": "GitHub",
+      "stars": 164,
+      "user": "corvofeng"
+    },
+    {
+      "title": "scarletkc/seiso - A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "url": "https://github.com/scarletkc/seiso",
+      "published_at": "2026-09-27T13:27:28Z",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50803289?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "scarletkc"
+    },
+    {
+      "title": "Finding Bugs",
+      "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+      "published_at": "2026-09-30T14:57:54.701-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "testing"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hwayne"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML <select> menus?",
