@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
+      "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e",
+      "published_at": "2026-10-01T17:08:03Z",
+      "description": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, and how Socratic questioning plus topological scars prune doomed search trees at depth d=1.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5vlw3uobmy1epe0lwbge.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
       "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk",
       "published_at": "2026-10-01T16:19:06Z",
@@ -75,21 +90,6 @@
       "user": "xbill"
     },
     {
-      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
-      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
-      "published_at": "2026-09-28T19:04:50Z",
-      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
-      "tags": [
-        "devchallenge",
-        "kagglechallenge",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Claude Sonnet 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
       "published_at": "2026-09-28T18:53:36Z",
@@ -140,6 +140,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
       "source": "Dev.to",
       "user": "Annie Cusack"
+    },
+    {
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
+      "published_at": "2026-09-28T19:04:50Z",
+      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
@@ -544,21 +559,6 @@
       "user": "Thor 雷神 Schaeff"
     },
     {
-      "title": "This video is about how this video was made",
-      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
-      "published_at": "2026-09-24T19:54:35Z",
-      "description": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
-      "tags": [
-        "ai",
-        "claude",
-        "video",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 760,
       "user": "lemomo-ai"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 685,
       "user": "edenfunf"
     },
     {
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 466,
       "user": "Edwardxlai"
     },
     {
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 370,
       "user": "moguzbulbul"
     },
     {
@@ -798,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2167,
+      "stars": 2293,
       "user": "feder-cr"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1262,
       "user": "firelex"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 891,
+      "stars": 913,
       "user": "nanaism"
     },
     {
@@ -843,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4592,
+      "stars": 4620,
       "user": "KKKKhazix"
     },
     {
@@ -858,7 +858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 888,
       "user": "supermemoryai"
     },
     {
@@ -873,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 615,
       "user": "openai"
     },
     {
@@ -888,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 240,
       "user": "alpcanaydin"
     },
     {
@@ -905,18 +905,6 @@
       "user": "videah"
     },
     {
-      "title": "Who's hiring? Q4 2026",
-      "url": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
-      "published_at": "2026-10-01T05:03:52.944-05:00",
-      "description": "There was interest in expanding the scope of \"Who's hiring\" posts to non-software engineering positions [\\[link1\\]](https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026) [\\[link2\\]](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026). Some discussion took place, however no actual jobs were posted. I suggest to include that intention into this post and share non-engineering vacancies such as customer support, data entry, field technician, etc. Although, I'd like to remind you this is a computing-focused community, so the jobs should fall into that realm too.\r\n\r\nPlease, use the following template for your job postings and as you see fit:\r\n\r\n```\r\n**Company:** [NAME](URL)\r\n\r\n**Position(s):** job title and level\r\n\r\n**Location:** remote or onsite, and where (worldwide/US/EU/etc.)\r\n\r\n**Description:** description of the company, mission, culture, job position, duties, necessary experience & skills, etc.\r\n\r\n**Tech stack:** the nitty-gritty details\r\n\r\n**Compensation:** salary, equity, vacation, major benefits\r\n\r\n**Contacts:** a posting page, your email, etc.\r\n```",
-      "tags": [
-        "job"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "makishimu"
-    },
-    {
       "title": "Reducing the cognitive load of AI changes",
       "url": "https://amoffat.github.io/blog/cognitive-load.html",
       "published_at": "2026-10-01T07:57:19.033-05:00",
@@ -927,6 +915,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "amoffat"
+    },
+    {
+      "title": "Who's hiring? Q4 2026",
+      "url": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
+      "published_at": "2026-10-01T05:03:52.944-05:00",
+      "description": "There was interest in expanding the scope of \"Who's hiring\" posts to non-software engineering positions [\\[link1\\]](https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026) [\\[link2\\]](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026). Some discussion took place, however no actual jobs were posted. I suggest to include that intention into this post and share non-engineering vacancies such as customer support, data entry, field technician, etc. Although, I'd like to remind you this is a computing-focused community, so the jobs should fall into that realm too.\r\n\r\nPlease, use the following template for your job postings and as you see fit:\r\n\r\n```\r\n**Company:** [NAME](URL)\r\n\r\n**Position(s):** job title and level\r\n\r\n**Location:** remote or onsite, and where (worldwide/US/EU/etc.)\r\n\r\n**Description:** description of the company, mission, culture, job position, duties, necessary experience & skills, etc.\r\n\r\n**Tech stack:** the nitty-gritty details\r\n\r\n**Compensation:** salary, equity, vacation, major benefits\r\n\r\n**Contacts:** a posting page, your email, etc.\r\n```",
+      "tags": [
+        "job"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "makishimu"
     },
     {
       "title": "Is sandboxing sufficient to contain rogue agents?",
@@ -942,16 +942,18 @@
       "user": "carlana"
     },
     {
-      "title": "The AI Pascal’s Wager",
-      "url": "https://ploum.net/2026-10-01-pascal_wager.html",
-      "published_at": "2026-09-30T21:03:34.978-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
+      "url": "https://github.com/dtonon/outis",
+      "published_at": "2026-10-01T10:54:02.796-05:00",
+      "description": "Outis fights spam generating and sends a fake \"user unknown\" bounce for an email you received, so the sender believes your address does not exist. This isn't a new idea: I created a similar program back in 1998–1999, but I decided to revive it because it should work well with the recent trend of automated emails generated by AI, where the sender might expect a reply; it helps remove your email address from their list.\r\n\r\nAny idea on how to improve it? :)",
       "tags": [
-        "vibecoding"
+        "email",
+        "privacy",
+        "show"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "cgrinds"
+      "user": "daniele"
     },
     {
       "title": "WSL containers are now generally available",
@@ -967,16 +969,95 @@
       "user": "abareplace"
     },
     {
-      "title": "Optimizing Real-Time Cryptocurrency Data Integration: Solana Blockchain Transaction Performance Drop Solutions",
-      "url": "https://stackoverflow.com/questions/80007149/optimizing-real-time-cryptocurrency-data-integration-solana-blockchain-transact",
-      "published_at": "2026-10-01T04:31:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
+      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
+      "published_at": "2026-10-01T18:47:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "python"
+        "python",
+        "async-await",
+        "return",
+        "generator"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user32982224"
+      "user": "dumbass"
+    },
+    {
+      "title": "Kevin Mandia&#8217;s new &#8216;agent swarm&#8217; security startup Armadin raises $255.5M at $2.5B valuation",
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "published_at": "2026-10-01T21:55:22.000Z",
+      "description": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "tags": [
+        "Fundraising",
+        "Security",
+        "Startups",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "published_at": "2026-10-01T21:08:11.000Z",
+      "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Elon Musk",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "published_at": "2026-10-01T19:21:53.000Z",
+      "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "ChatGPT",
+        "shopping"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "published_at": "2026-10-01T19:18:03.000Z",
+      "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "tags": [
+        "AI",
+        "Space",
+        "data centers",
+        "Google",
+        "Planet Labs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "published_at": "2026-10-01T18:14:42.000Z",
+      "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "tags": [
+        "AI",
+        "Security",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
     },
     {
       "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
@@ -985,6 +1066,7 @@
       "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
       "tags": [
         "AI",
+        "Anthropic",
         "writing"
       ],
       "cover_image": null,
@@ -997,100 +1079,41 @@
       "published_at": "2026-10-01T16:49:22.000Z",
       "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
       "tags": [
-        "AI"
+        "AI",
+        "AWS"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
     },
     {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "published_at": "2026-10-01T16:44:35.000Z",
-      "description": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "title": "Build and Publish a Full-Stack Mobile App with AI",
+      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+      "published_at": "2026-10-01T15:13:37.000Z",
+      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
       "tags": [
-        "AI",
-        "Commerce",
-        "Shopify"
+        "chatgpt",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
-      "title": "One year later, Tesla and Musk still don&#8217;t have a good definition of &#8216;abundance&#8217;",
-      "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
-      "published_at": "2026-10-01T15:50:10.000Z",
-      "description": "The CEO promised to get more specific about his vision. But the details are still absent.",
+      "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
+      "url": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
+      "published_at": "2026-10-01T14:15:11.000Z",
+      "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
       "tags": [
-        "Transportation",
-        "Elon Musk",
-        "Tesla"
+        "Android",
+        "Wake locks",
+        "#power",
+        "battery",
+        "Mobile Development"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "published_at": "2026-10-01T15:12:00.000Z",
-      "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "tags": [
-        "AI",
-        "Airbnb",
-        "brian chesky"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "published_at": "2026-10-01T14:00:00.000Z",
-      "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "AI agents",
-        "Photon"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "published_at": "2026-10-01T13:00:00.000Z",
-      "description": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "hearing health care",
-        "smartglasses"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Audible&#8217;s new features let you explore book worlds — and use AI to talk to characters",
-      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-      "published_at": "2026-10-01T13:00:00.000Z",
-      "description": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Audible",
-        "audiobooks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Nikheel Vishwas Savant"
     },
     {
       "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
@@ -1105,7 +1128,7 @@
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "praneethhere"
+      "user": "Praneeth Kodumagulla"
     },
     {
       "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
@@ -1152,22 +1175,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Gursimar Singh"
-    },
-    {
-      "title": "How to Build a Reliable AI Assistant with the Claude API",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
-      "published_at": "2026-09-29T13:46:58.000Z",
-      "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
-      "tags": [
-        "AI",
-        "Python",
-        "ai agents",
-        "Prompt Engineering",
-        "llm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chidozie Managwu"
     }
   ],
   "JavaScript": [
@@ -1245,21 +1252,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwd59j28cprjydaocra6z.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
-    },
-    {
-      "title": "This video is about how this video was made",
-      "url": "https://dev.to/peter/this-video-is-about-how-this-video-was-made-42hl",
-      "published_at": "2026-09-24T19:54:35Z",
-      "description": "This video (the script, the voice timings, the source code, the storyboard, the briefs the subagents...",
-      "tags": [
-        "ai",
-        "claude",
-        "video",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmict8nra5erpc5jnvcou.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1393,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 760,
       "user": "lemomo-ai"
     },
     {
@@ -1408,8 +1400,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 685,
       "user": "edenfunf"
+    },
+    {
+      "title": "Edwardxlai/easyread - GitHub Repository",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "published_at": "2026-09-30T12:52:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
+      "source": "GitHub",
+      "stars": 466,
+      "user": "Edwardxlai"
     },
     {
       "title": "xikhar/spiderbench - GitHub Repository",
@@ -1427,21 +1434,6 @@
       "user": "xikhar"
     },
     {
-      "title": "Edwardxlai/easyread - GitHub Repository",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "published_at": "2026-09-30T12:52:24Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
-      "source": "GitHub",
-      "stars": 423,
-      "user": "Edwardxlai"
-    },
-    {
       "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
       "url": "https://github.com/moguzbulbul/blueprint-animation",
       "published_at": "2026-09-27T21:48:33Z",
@@ -1453,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 370,
       "user": "moguzbulbul"
     },
     {
@@ -1468,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4592,
+      "stars": 4620,
       "user": "KKKKhazix"
     },
     {
@@ -1483,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1996,
       "user": "dzhng"
     },
     {
@@ -1498,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 888,
       "user": "supermemoryai"
     },
     {
@@ -1513,35 +1505,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 615,
       "user": "openai"
     },
     {
-      "title": "fsiaonma/elpis - elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "published_at": "2026-09-29T02:19:22Z",
-      "description": "elpis",
+      "title": "AgentSystemLabs/agent-office - A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "url": "https://github.com/AgentSystemLabs/agent-office",
+      "published_at": "2026-09-26T00:32:48Z",
+      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 468,
-      "user": "fsiaonma"
-    },
-    {
-      "title": "What is the difference between == and === operators in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80007300/what-is-the-difference-between-and-operators-in-javascript",
-      "published_at": "2026-10-01T15:49:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rodrigo Morales"
+      "stars": 477,
+      "user": "AgentSystemLabs"
     },
     {
       "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
@@ -1667,7 +1647,7 @@
       "title": "is there a way to make it so event listener only handles one event at a time?",
       "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
       "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -1676,6 +1656,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aidan Pearson"
+    },
+    {
+      "title": "Should Math.js return the same value for sin(2.5) in all browsers and in Node.js?",
+      "url": "https://stackoverflow.com/questions/79944374/should-math-js-return-the-same-value-for-sin2-5-in-all-browsers-and-in-node-js",
+      "published_at": "2026-05-21T00:58:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 6",
+      "tags": [
+        "javascript",
+        "mathjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Don Hatch"
     },
     {
       "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
@@ -1758,21 +1751,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
-      "url": "https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac",
-      "published_at": "2026-09-24T13:38:00Z",
-      "description": "There is an API. It will tell you things about your writing that the dashboard will not.  I have been...",
-      "tags": [
-        "python",
-        "api",
-        "devjournal",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7fbmudzx3podwa2jiz2l.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
       "title": "I Built a Better Codex Pet Than OpenAI Did",
       "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
       "published_at": "2026-09-26T11:16:56Z",
@@ -1786,6 +1764,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
       "user": "Mika Flowers"
+    },
+    {
+      "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
+      "url": "https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac",
+      "published_at": "2026-09-24T13:38:00Z",
+      "description": "There is an API. It will tell you things about your writing that the dashboard will not.  I have been...",
+      "tags": [
+        "python",
+        "api",
+        "devjournal",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7fbmudzx3podwa2jiz2l.png",
+      "source": "Dev.to",
+      "user": "Ken W Alger"
     },
     {
       "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
@@ -1949,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2167,
+      "stars": 2293,
       "user": "feder-cr"
     },
     {
@@ -1964,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1511,
       "user": "rehan-remade"
     },
     {
@@ -1979,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1262,
       "user": "firelex"
     },
     {
@@ -1994,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1132,
       "user": "feitangyuan"
     },
     {
@@ -2009,7 +2002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 891,
+      "stars": 913,
       "user": "nanaism"
     },
     {
@@ -2027,6 +2020,63 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
+    },
+    {
+      "title": "Python Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
+      "url": "https://stackoverflow.com/questions/80007351/python-raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying",
+      "published_at": "2026-10-01T20:40:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "raylib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "King Of Noobs"
+    },
+    {
+      "title": "How to properly update ScrollAreaWidget contents via signals in PySide6?",
+      "url": "https://stackoverflow.com/questions/80007352/how-to-properly-update-scrollareawidget-contents-via-signals-in-pyside6",
+      "published_at": "2026-10-01T20:44:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alias"
+    },
+    {
+      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
+      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
+      "published_at": "2026-10-01T18:47:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "async-await",
+        "return",
+        "generator"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dumbass"
+    },
+    {
+      "title": "Python multiprocessing (pool, imap) performance degradation on Linux host",
+      "url": "https://stackoverflow.com/questions/80007255/python-multiprocessing-pool-imap-performance-degradation-on-linux-host",
+      "published_at": "2026-10-01T12:37:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "ubuntu",
+        "multiprocessing",
+        "pool"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "e2013mbp-gecko"
     },
     {
       "title": "SparkFun DE2120 2D barcode scanner not working in TTL/RS232 mode",
@@ -2059,19 +2109,17 @@
       "user": "Sabri Alyafei"
     },
     {
-      "title": "Python multiprocessing (pool, imap) performance degradation on Linux host",
-      "url": "https://stackoverflow.com/questions/80007255/python-multiprocessing-pool-imap-performance-degradation-on-linux-host",
-      "published_at": "2026-10-01T12:37:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "How to avoid invalid-method-override?",
+      "url": "https://stackoverflow.com/questions/80007186/how-to-avoid-invalid-method-override",
+      "published_at": "2026-10-01T07:54:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "python",
-        "ubuntu",
-        "multiprocessing",
-        "pool"
+        "best-practices",
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "e2013mbp-gecko"
+      "user": "SteinGate"
     },
     {
       "title": "How can I get profile_agent_id and posts_agent_id for an Instagram profile scraper?",
@@ -2084,19 +2132,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "panthagani srikanth"
-    },
-    {
-      "title": "How to avoid invalid-method-override?",
-      "url": "https://stackoverflow.com/questions/80007186/how-to-avoid-invalid-method-override",
-      "published_at": "2026-10-01T07:54:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SteinGate"
     },
     {
       "title": "Frappe v16.35.0: OAuth password grant returns invalid_grant while /api/method/login accepts the same credentials (works on v16.33.1)",
@@ -2115,19 +2150,6 @@
       "user": "Jawad Ahmad"
     },
     {
-      "title": "How to run a file in VS Code then open up an REPL with the globals in place",
-      "url": "https://stackoverflow.com/questions/80007217/how-to-run-a-file-in-vs-code-then-open-up-an-repl-with-the-globals-in-place",
-      "published_at": "2026-10-01T10:03:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "vs-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Train-Case"
-    },
-    {
       "title": "matplot patchcollection(s) moving and rotating, all together and each seprately, what is best?",
       "url": "https://stackoverflow.com/questions/80007211/matplot-patchcollections-moving-and-rotating-all-together-and-each-seprately",
       "published_at": "2026-10-01T09:45:02.000Z",
@@ -2140,62 +2162,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "cbenagaraj"
-    },
-    {
-      "title": "Optimizing Real-Time Cryptocurrency Data Integration: Solana Blockchain Transaction Performance Drop Solutions",
-      "url": "https://stackoverflow.com/questions/80007149/optimizing-real-time-cryptocurrency-data-integration-solana-blockchain-transact",
-      "published_at": "2026-10-01T04:31:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32982224"
-    },
-    {
-      "title": "Can you create a class that's not a subclass of object in Python?",
-      "url": "https://stackoverflow.com/questions/80007048/can-you-create-a-class-thats-not-a-subclass-of-object-in-python",
-      "published_at": "2026-09-30T16:37:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "python",
-        "class",
-        "object"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
-    },
-    {
-      "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
-      "url": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
-      "published_at": "2026-09-29T14:27:04.000Z",
-      "description": "We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using",
-      "tags": [
-        "trading,",
-        "Python",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Build a Reliable AI Assistant with the Claude API",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
-      "published_at": "2026-09-29T13:46:58.000Z",
-      "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
-      "tags": [
-        "AI",
-        "Python",
-        "ai agents",
-        "Prompt Engineering",
-        "llm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chidozie Managwu"
     }
   ],
   "DevOps": [
@@ -2364,6 +2330,19 @@
       "user": "jknupp"
     },
     {
+      "title": "Build and Publish a Full-Stack Mobile App with AI",
+      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+      "published_at": "2026-10-01T15:13:37.000Z",
+      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
+      "tags": [
+        "chatgpt",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
       "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
       "url": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
       "published_at": "2026-10-01T11:02:33.000Z",
@@ -2376,7 +2355,7 @@
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "praneethhere"
+      "user": "Praneeth Kodumagulla"
     },
     {
       "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
@@ -2465,7 +2444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 45,
       "user": "egoist"
     },
     {
@@ -2504,7 +2483,7 @@
       "title": "is there a way to make it so event listener only handles one event at a time?",
       "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
       "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
+      "description": "Stack Overflow question · 4 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -2513,6 +2492,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aidan Pearson"
+    },
+    {
+      "title": "Build and Publish a Full-Stack Mobile App with AI",
+      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+      "published_at": "2026-10-01T15:13:37.000Z",
+      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
+      "tags": [
+        "chatgpt",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
@@ -2652,20 +2644,33 @@
       "user": "Alexandra"
     },
     {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "published_at": "2026-10-01T14:00:00.000Z",
-      "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "title": "Build and Publish a Full-Stack Mobile App with AI",
+      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+      "published_at": "2026-10-01T15:13:37.000Z",
+      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
       "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "AI agents",
-        "Photon"
+        "chatgpt",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
+      "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
+      "url": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
+      "published_at": "2026-10-01T14:15:11.000Z",
+      "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
+      "tags": [
+        "Android",
+        "Wake locks",
+        "#power",
+        "battery",
+        "Mobile Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Nikheel Vishwas Savant"
     }
   ],
   "Cloud": [
@@ -2886,6 +2891,32 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+      "published_at": "2026-10-01T21:57:08.000Z",
+      "description": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+      "tags": [
+        "Transportation",
+        "Lyft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "published_at": "2026-10-01T16:49:22.000Z",
+      "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "tags": [
+        "AI",
+        "AWS"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     }
   ],
   "Database": [
@@ -2913,7 +2944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 240,
       "user": "alpcanaydin"
     },
     {
@@ -3126,20 +3157,33 @@
       "user": "Jawad Ahmad"
     },
     {
-      "title": "California governor vetoes bill banning use of &#8216;pervert glasses&#8217; to secretly record people",
-      "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
-      "published_at": "2026-10-01T16:35:25.000Z",
-      "description": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+      "title": "Kevin Mandia&#8217;s new &#8216;agent swarm&#8217; security startup Armadin raises $255.5M at $2.5B valuation",
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "published_at": "2026-10-01T21:55:22.000Z",
+      "description": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
       "tags": [
-        "Privacy",
+        "Fundraising",
         "Security",
-        "california",
-        "cybersecurity",
-        "Meta"
+        "Startups",
+        "TC"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Julie Bort"
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "published_at": "2026-10-01T18:14:42.000Z",
+      "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "tags": [
+        "AI",
+        "Security",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
     }
   ],
   "Tools": [
@@ -3296,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 760,
       "user": "lemomo-ai"
     },
     {
@@ -3311,8 +3355,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 685,
       "user": "edenfunf"
+    },
+    {
+      "title": "Edwardxlai/easyread - GitHub Repository",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "published_at": "2026-09-30T12:52:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
+      "source": "GitHub",
+      "stars": 466,
+      "user": "Edwardxlai"
     },
     {
       "title": "xikhar/spiderbench - GitHub Repository",
@@ -3330,21 +3389,6 @@
       "user": "xikhar"
     },
     {
-      "title": "Edwardxlai/easyread - GitHub Repository",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "published_at": "2026-09-30T12:52:24Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
-      "source": "GitHub",
-      "stars": 423,
-      "user": "Edwardxlai"
-    },
-    {
       "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
       "url": "https://github.com/moguzbulbul/blueprint-animation",
       "published_at": "2026-09-27T21:48:33Z",
@@ -3356,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 370,
       "user": "moguzbulbul"
     },
     {
@@ -3371,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2167,
+      "stars": 2293,
       "user": "feder-cr"
     },
     {
@@ -3386,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1511,
       "user": "rehan-remade"
     },
     {
@@ -3401,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1262,
       "user": "firelex"
     },
     {
@@ -3416,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1116,
+      "stars": 1132,
       "user": "feitangyuan"
     },
     {
@@ -3431,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 891,
+      "stars": 913,
       "user": "nanaism"
     },
     {
@@ -3446,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "frostyard"
     },
     {
@@ -3461,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "Bornholm"
     },
     {
@@ -3476,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196074148?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "Slaker19"
     },
     {
@@ -3491,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93527370?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "spumon1"
     },
     {
@@ -3506,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 45,
       "user": "egoist"
     },
     {
@@ -3521,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4592,
+      "stars": 4620,
       "user": "KKKKhazix"
     },
     {
@@ -3536,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 1996,
       "user": "dzhng"
     },
     {
@@ -3551,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 888,
       "user": "supermemoryai"
     },
     {
@@ -3566,23 +3610,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 615,
       "user": "openai"
     },
     {
-      "title": "fsiaonma/elpis - elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "published_at": "2026-09-29T02:19:22Z",
-      "description": "elpis",
+      "title": "AgentSystemLabs/agent-office - A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "url": "https://github.com/AgentSystemLabs/agent-office",
+      "published_at": "2026-09-26T00:32:48Z",
+      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 468,
-      "user": "fsiaonma"
+      "stars": 477,
+      "user": "AgentSystemLabs"
     },
     {
       "title": "chasmlol/2010-rust-rewrite-mashup - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
@@ -3596,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 521,
       "user": "chasmlol"
     },
     {
@@ -3611,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 270,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3626,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 240,
       "user": "alpcanaydin"
     },
     {
@@ -3641,12 +3685,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12025071?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "corvofeng"
     },
     {
-      "title": "turbo-devv/openOMSI - OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
-      "url": "https://github.com/turbo-devv/openOMSI",
+      "title": "openOMSI-Project/openOMSI - OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
+      "url": "https://github.com/openOMSI-Project/openOMSI",
       "published_at": "2026-09-27T22:21:06Z",
       "description": "OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
       "tags": [
@@ -3654,10 +3698,35 @@
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233512653?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
       "source": "GitHub",
-      "stars": 196,
-      "user": "turbo-devv"
+      "stars": 206,
+      "user": "openOMSI-Project"
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "published_at": "2026-10-01T13:26:59.318-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mort"
+    },
+    {
+      "title": "Build and Publish a Full-Stack Mobile App with AI",
+      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+      "published_at": "2026-10-01T15:13:37.000Z",
+      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
+      "tags": [
+        "chatgpt",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
