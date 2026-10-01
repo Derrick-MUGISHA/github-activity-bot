@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
-      "published_at": "2026-09-30T17:33:22Z",
-      "description": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
       "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
       "published_at": "2026-09-30T23:21:18Z",
@@ -31,17 +16,17 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch",
-      "published_at": "2026-09-30T13:00:26Z",
-      "description": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them to int4 on the grid QAT trained them onto cuts model loading from 6.33 to 2.86 GiB, with every greedy test output token-identical, and raises vLLM's output throughput 11-37% over Google's own W4A16 export.",
+      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
+      "published_at": "2026-09-30T17:33:22Z",
+      "description": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.",
       "tags": [
+        "aws",
+        "sagemaker",
         "gemma",
-        "vllm",
-        "cuda",
-        "machinelearning"
+        "vllm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b-w4a16%2Farticle%2Fdevto-t4-emb4-art.c42232ae.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -58,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
+      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch",
+      "published_at": "2026-09-30T13:00:26Z",
+      "description": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them to int4 on the grid QAT trained them onto cuts model loading from 6.33 to 2.86 GiB, with every greedy test output token-identical, and raises vLLM's output throughput 11-37% over Google's own W4A16 export.",
+      "tags": [
+        "gemma",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b-w4a16%2Farticle%2Fdevto-t4-emb4-art.c42232ae.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
@@ -723,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 732,
       "user": "lemomo-ai"
     },
     {
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 637,
       "user": "edenfunf"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 355,
       "user": "moguzbulbul"
     },
     {
@@ -768,23 +768,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1947,
+      "stars": 2033,
       "user": "feder-cr"
     },
     {
-      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "published_at": "2026-09-27T14:11:14Z",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "url": "https://github.com/firelex/jeff",
+      "published_at": "2026-09-28T16:18:39Z",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 648,
-      "user": "echris6"
+      "stars": 1230,
+      "user": "firelex"
+    },
+    {
+      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "published_at": "2026-09-30T11:49:32Z",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "source": "GitHub",
+      "stars": 763,
+      "user": "nanaism"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -798,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4189,
+      "stars": 4320,
       "user": "KKKKhazix"
     },
     {
@@ -813,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 881,
       "user": "supermemoryai"
     },
     {
@@ -828,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 543,
       "user": "openai"
     },
     {
@@ -843,8 +858,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 192,
       "user": "alpcanaydin"
+    },
+    {
+      "title": "IANA's email about why example.com changed",
+      "url": "https://www.oliverdunk.com/2026/09/30/iana-reply",
+      "published_at": "2026-10-01T03:47:50.120-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "networking",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "videah"
     },
     {
       "title": "EDG C/C++ Compiler Project",
@@ -861,10 +889,22 @@
       "user": "aw1621107"
     },
     {
+      "title": "Who's hiring? Q4 2026",
+      "url": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
+      "published_at": "2026-10-01T05:03:52.944-05:00",
+      "description": "There was interest in expanding the scope of \"Who's hiring\" posts to non-software engineering positions [\\[link1\\]](https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026) [\\[link2\\]](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026). Some discussion took place, however no actual jobs were posted. I suggest to include that intention into this post and share non-engineering vacancies such as customer support, data entry, field technician, etc. Although, I'd like to remind you this is a computing-focused community, so the jobs should fall into that realm too.\r\n\r\nPlease, use the following template for your job postings and as you see fit:\r\n\r\n```\r\n**Company:** [NAME](URL)\r\n\r\n**Position(s):** job title and level\r\n\r\n**Location:** remote or onsite, and where (worldwide/US/EU/etc.)\r\n\r\n**Description:** description of the company, mission, culture, job position, duties, necessary experience & skills, etc.\r\n\r\n**Tech stack:** the nitty-gritty details\r\n\r\n**Compensation:** salary, equity, vacation, major benefits\r\n\r\n**Contacts:** a posting page, your email, etc.\r\n```",
+      "tags": [
+        "job"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "makishimu"
+    },
+    {
       "title": "Optimizing Real-Time Cryptocurrency Data Integration: Solana Blockchain Transaction Performance Drop Solutions",
       "url": "https://stackoverflow.com/questions/80007149/optimizing-real-time-cryptocurrency-data-integration-solana-blockchain-transact",
       "published_at": "2026-10-01T04:31:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -1292,23 +1332,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 732,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "xikhar/spiderbench - GitHub Repository",
-      "url": "https://github.com/xikhar/spiderbench",
-      "published_at": "2026-09-27T05:55:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
-      "source": "GitHub",
-      "stars": 451,
-      "user": "xikhar"
     },
     {
       "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
@@ -1322,8 +1347,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 637,
       "user": "edenfunf"
+    },
+    {
+      "title": "xikhar/spiderbench - GitHub Repository",
+      "url": "https://github.com/xikhar/spiderbench",
+      "published_at": "2026-09-27T05:55:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "source": "GitHub",
+      "stars": 450,
+      "user": "xikhar"
     },
     {
       "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
@@ -1337,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 355,
       "user": "moguzbulbul"
     },
     {
@@ -1352,23 +1392,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "jaydendavisnc"
-    },
-    {
-      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "published_at": "2026-09-27T14:11:14Z",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "echris6"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -1382,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4189,
+      "stars": 4320,
       "user": "KKKKhazix"
     },
     {
@@ -1397,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1920,
+      "stars": 1943,
       "user": "dzhng"
     },
     {
@@ -1412,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 881,
       "user": "supermemoryai"
     },
     {
@@ -1427,23 +1452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 543,
       "user": "openai"
     },
     {
-      "title": "AgentSystemLabs/agent-office - A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
-      "url": "https://github.com/AgentSystemLabs/agent-office",
-      "published_at": "2026-09-26T00:32:48Z",
-      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "title": "fsiaonma/elpis - elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "published_at": "2026-09-29T02:19:22Z",
+      "description": "elpis",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 450,
-      "user": "AgentSystemLabs"
+      "stars": 461,
+      "user": "fsiaonma"
     },
     {
       "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
@@ -1459,20 +1484,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MELKIO"
-    },
-    {
-      "title": "How to resolve CORS error in Node js and Express backend",
-      "url": "https://stackoverflow.com/questions/80006997/how-to-resolve-cors-error-in-node-js-and-express-backend",
-      "published_at": "2026-09-30T14:18:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noura Elsayed"
     },
     {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
@@ -1506,22 +1517,6 @@
       "user": "Cineby HD App"
     },
     {
-      "title": "custom cursor over personal iframes",
-      "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
-      "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "iframe",
-        "custom-cursor"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33171548"
-    },
-    {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
       "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
       "published_at": "2026-09-28T05:36:09.000Z",
@@ -1538,6 +1533,22 @@
       "user": "RandomDoe2026"
     },
     {
+      "title": "custom cursor over personal iframes",
+      "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
+      "published_at": "2026-09-29T18:51:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "iframe",
+        "custom-cursor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33171548"
+    },
+    {
       "title": "How to fix an issue with random images not showing",
       "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
       "published_at": "2026-09-27T16:06:11.000Z",
@@ -1550,6 +1561,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aurora Lane"
+    },
+    {
+      "title": "React form doesn't submit when pressing Enter in an input field",
+      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
+      "published_at": "2026-09-25T09:58:06.000Z",
+      "description": "Stack Overflow question · 3 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ehan Siddique"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML <select> menus?",
@@ -1580,20 +1604,19 @@
       "user": "Don Hatch"
     },
     {
-      "title": "Origin <origin> is not allowed by Access-Control-Allow-Origin",
-      "url": "https://stackoverflow.com/questions/18642828/origin-origin-is-not-allowed-by-access-control-allow-origin",
-      "published_at": "2013-09-05T17:50:27.000Z",
-      "description": "Stack Overflow question · 20 answers · score 263",
+      "title": "How do I generate SEO-friendly meta tags in React?",
+      "url": "https://stackoverflow.com/questions/79950873/how-do-i-generate-seo-friendly-meta-tags-in-react",
+      "published_at": "2026-06-03T13:40:37.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
-        "node.js",
-        "ajax",
-        "google-chrome",
-        "cors"
+        "reactjs",
+        "seo",
+        "advice"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "bsr"
+      "user": "Aryananda arya"
     },
     {
       "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
@@ -1896,14 +1919,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1947,
+      "stars": 2033,
       "user": "feder-cr"
     },
     {
-      "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
       "url": "https://github.com/firelex/jeff",
       "published_at": "2026-09-28T16:18:39Z",
-      "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
       "tags": [
         "python",
         "github",
@@ -1911,23 +1934,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1209,
+      "stars": 1230,
       "user": "firelex"
-    },
-    {
-      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "url": "https://github.com/feitangyuan/onetake",
-      "published_at": "2026-09-26T05:35:17Z",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
-      "source": "GitHub",
-      "stars": 1076,
-      "user": "feitangyuan"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -1941,23 +1949,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 1213,
       "user": "rehan-remade"
     },
     {
-      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "published_at": "2026-09-27T14:11:14Z",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "published_at": "2026-09-26T05:35:17Z",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 648,
-      "user": "echris6"
+      "stars": 1089,
+      "user": "feitangyuan"
+    },
+    {
+      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "published_at": "2026-09-30T11:49:32Z",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "source": "GitHub",
+      "stars": 763,
+      "user": "nanaism"
     },
     {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
@@ -1976,10 +1999,76 @@
       "user": "hetal Vadaliya"
     },
     {
+      "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
+      "url": "https://stackoverflow.com/questions/80007239/why-does-my-pandas-groupby-suddenly-use-12gb-ram-and-crash-after-1m-rows-it-wor",
+      "published_at": "2026-10-01T11:28:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "pandas",
+        "memory-management"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sabri Alyafei"
+    },
+    {
+      "title": "How can I get profile_agent_id and posts_agent_id for an Instagram profile scraper?",
+      "url": "https://stackoverflow.com/questions/80007220/how-can-i-get-profile-agent-id-and-posts-agent-id-for-an-instagram-profile-scrap",
+      "published_at": "2026-10-01T10:20:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "panthagani srikanth"
+    },
+    {
+      "title": "How to run a file in VS Code then open up an REPL with the globals in place",
+      "url": "https://stackoverflow.com/questions/80007217/how-to-run-a-file-in-vs-code-then-open-up-an-repl-with-the-globals-in-place",
+      "published_at": "2026-10-01T10:03:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "vs-code"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Train-Case"
+    },
+    {
+      "title": "How to avoid invalid-method-override?",
+      "url": "https://stackoverflow.com/questions/80007186/how-to-avoid-invalid-method-override",
+      "published_at": "2026-10-01T07:54:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SteinGate"
+    },
+    {
+      "title": "matplot patchcollection(s) moving and rotating, all together and each seprately, what is best?",
+      "url": "https://stackoverflow.com/questions/80007211/matplot-patchcollections-moving-and-rotating-all-together-and-each-seprately",
+      "published_at": "2026-10-01T09:45:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "best-practices",
+        "python",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cbenagaraj"
+    },
+    {
       "title": "Optimizing Real-Time Cryptocurrency Data Integration: Solana Blockchain Transaction Performance Drop Solutions",
       "url": "https://stackoverflow.com/questions/80007149/optimizing-real-time-cryptocurrency-data-integration-solana-blockchain-transact",
       "published_at": "2026-10-01T04:31:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -1991,7 +2080,7 @@
       "title": "Resolving Cloud Storage Bucket Connection Issues in Real-Time Data Pipeline Setup",
       "url": "https://stackoverflow.com/questions/80007145/resolving-cloud-storage-bucket-connection-issues-in-real-time-data-pipeline-setu",
       "published_at": "2026-10-01T04:20:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python"
       ],
@@ -2039,64 +2128,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Train-Case"
-    },
-    {
-      "title": "How to keep the program running even if the linear regression doesn't converge?",
-      "url": "https://stackoverflow.com/questions/80007066/how-to-keep-the-program-running-even-if-the-linear-regression-doesnt-converge",
-      "published_at": "2026-09-30T17:17:00.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "best-practices",
-        "python",
-        "linear-regression",
-        "statsmodels"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "fazan"
-    },
-    {
-      "title": "pywebtransport and docker - client timing out trying to find server",
-      "url": "https://stackoverflow.com/questions/80006837/pywebtransport-and-docker-client-timing-out-trying-to-find-server",
-      "published_at": "2026-09-30T00:17:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "docker",
-        "docker-compose",
-        "webtransport"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aftrumpet"
-    },
-    {
-      "title": "VScode doesn't run some files",
-      "url": "https://stackoverflow.com/questions/80006990/vscode-doesnt-run-some-files",
-      "published_at": "2026-09-30T13:50:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "vs-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sam Sianati"
-    },
-    {
-      "title": "Apache Superset 6.1 :: flask-caching is still required when NullCache and SupersetMetastoreCache are used?",
-      "url": "https://stackoverflow.com/questions/80006946/apache-superset-6-1-flask-caching-is-still-required-when-nullcache-and-supers",
-      "published_at": "2026-09-30T11:05:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "flask",
-        "caching",
-        "apache-superset"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bsethi24"
     },
     {
       "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
@@ -2295,21 +2326,6 @@
       "user": "jknupp"
     },
     {
-      "title": "pywebtransport and docker - client timing out trying to find server",
-      "url": "https://stackoverflow.com/questions/80006837/pywebtransport-and-docker-client-timing-out-trying-to-find-server",
-      "published_at": "2026-09-30T00:17:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "docker",
-        "docker-compose",
-        "webtransport"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aftrumpet"
-    },
-    {
       "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
       "url": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
       "published_at": "2026-09-30T05:49:45.000Z",
@@ -2401,18 +2417,20 @@
       "user": "velmu"
     },
     {
-      "title": "How to resolve CORS error in Node js and Express backend",
-      "url": "https://stackoverflow.com/questions/80006997/how-to-resolve-cors-error-in-node-js-and-express-backend",
-      "published_at": "2026-09-30T14:18:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "How to animate multiple lines of marquee text separately in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
+      "published_at": "2026-09-28T05:36:09.000Z",
+      "description": "Stack Overflow question · 3 answers · score 4",
       "tags": [
         "javascript",
-        "node.js",
-        "express"
+        "html",
+        "arrays",
+        "animation",
+        "marquee"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Noura Elsayed"
+      "user": "RandomDoe2026"
     },
     {
       "title": "custom cursor over personal iframes",
@@ -2429,22 +2447,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33171548"
-    },
-    {
-      "title": "How to animate multiple lines of marquee text separately in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
-      "published_at": "2026-09-28T05:36:09.000Z",
-      "description": "Stack Overflow question · 3 answers · score 4",
-      "tags": [
-        "javascript",
-        "html",
-        "arrays",
-        "animation",
-        "marquee"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RandomDoe2026"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML <select> menus?",
@@ -2848,7 +2850,7 @@
       "title": "Resolving Cloud Storage Bucket Connection Issues in Real-Time Data Pipeline Setup",
       "url": "https://stackoverflow.com/questions/80007145/resolving-cloud-storage-bucket-connection-issues-in-real-time-data-pipeline-setu",
       "published_at": "2026-10-01T04:20:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python"
       ],
@@ -2882,21 +2884,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 192,
       "user": "alpcanaydin"
-    },
-    {
-      "title": "We used a database as a message queue. Now we use Kafka",
-      "url": "https://www.tigrisdata.com/blog/quick-fdb-kafka/",
-      "published_at": "2026-09-30T15:28:27.900-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "distributed"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "billy"
     },
     {
       "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
@@ -3093,19 +3082,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
-    },
-    {
-      "title": "The Cuckoo's Egg",
-      "url": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
-      "published_at": "2026-09-30T03:48:43.805-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "book",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "atmosx"
     },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -3324,23 +3300,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 732,
       "user": "lemomo-ai"
-    },
-    {
-      "title": "xikhar/spiderbench - GitHub Repository",
-      "url": "https://github.com/xikhar/spiderbench",
-      "published_at": "2026-09-27T05:55:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
-      "source": "GitHub",
-      "stars": 451,
-      "user": "xikhar"
     },
     {
       "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
@@ -3354,8 +3315,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 637,
       "user": "edenfunf"
+    },
+    {
+      "title": "xikhar/spiderbench - GitHub Repository",
+      "url": "https://github.com/xikhar/spiderbench",
+      "published_at": "2026-09-27T05:55:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "source": "GitHub",
+      "stars": 450,
+      "user": "xikhar"
     },
     {
       "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
@@ -3369,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 355,
       "user": "moguzbulbul"
     },
     {
@@ -3384,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "jaydendavisnc"
     },
     {
@@ -3399,14 +3375,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1947,
+      "stars": 2033,
       "user": "feder-cr"
     },
     {
-      "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
       "url": "https://github.com/firelex/jeff",
       "published_at": "2026-09-28T16:18:39Z",
-      "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
       "tags": [
         "python",
         "github",
@@ -3414,23 +3390,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1209,
+      "stars": 1230,
       "user": "firelex"
-    },
-    {
-      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "url": "https://github.com/feitangyuan/onetake",
-      "published_at": "2026-09-26T05:35:17Z",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
-      "source": "GitHub",
-      "stars": 1076,
-      "user": "feitangyuan"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -3444,23 +3405,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 1213,
       "user": "rehan-remade"
     },
     {
-      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "published_at": "2026-09-27T14:11:14Z",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "published_at": "2026-09-26T05:35:17Z",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 648,
-      "user": "echris6"
+      "stars": 1089,
+      "user": "feitangyuan"
+    },
+    {
+      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "published_at": "2026-09-30T11:49:32Z",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "source": "GitHub",
+      "stars": 763,
+      "user": "nanaism"
     },
     {
       "title": "frostyard/nsl - NSpawn Subsystem for Linux: development environments for atomic hosts and people who want to keep the host clean",
@@ -3474,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 83,
       "user": "frostyard"
     },
     {
@@ -3489,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 51,
       "user": "Bornholm"
     },
     {
@@ -3504,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93527370?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 43,
       "user": "spumon1"
     },
     {
@@ -3519,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196074148?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 42,
       "user": "Slaker19"
     },
     {
@@ -3549,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4189,
+      "stars": 4320,
       "user": "KKKKhazix"
     },
     {
@@ -3564,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1920,
+      "stars": 1943,
       "user": "dzhng"
     },
     {
@@ -3579,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 881,
       "user": "supermemoryai"
     },
     {
@@ -3594,23 +3570,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 543,
       "user": "openai"
     },
     {
-      "title": "AgentSystemLabs/agent-office - A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
-      "url": "https://github.com/AgentSystemLabs/agent-office",
-      "published_at": "2026-09-26T00:32:48Z",
-      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "title": "fsiaonma/elpis - elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "published_at": "2026-09-29T02:19:22Z",
+      "description": "elpis",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 450,
-      "user": "AgentSystemLabs"
+      "stars": 461,
+      "user": "fsiaonma"
     },
     {
       "title": "chasmlol/2010-rust-rewrite-mashup - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
@@ -3624,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 482,
       "user": "chasmlol"
     },
     {
@@ -3639,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 259,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3654,23 +3630,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12025071?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 206,
       "user": "corvofeng"
-    },
-    {
-      "title": "pch/rawmakase - Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
-      "url": "https://github.com/pch/rawmakase",
-      "published_at": "2026-09-26T13:44:32Z",
-      "description": "Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
-      "source": "GitHub",
-      "stars": 182,
-      "user": "pch"
     },
     {
       "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
@@ -3684,8 +3645,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 192,
       "user": "alpcanaydin"
+    },
+    {
+      "title": "pch/rawmakase - 📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
+      "url": "https://github.com/pch/rawmakase",
+      "published_at": "2026-09-26T13:44:32Z",
+      "description": "📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
+      "source": "GitHub",
+      "stars": 186,
+      "user": "pch"
     },
     {
       "title": "Finding Bugs",
@@ -3714,19 +3690,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
-    },
-    {
-      "title": "VScode doesn't run some files",
-      "url": "https://stackoverflow.com/questions/80006990/vscode-doesnt-run-some-files",
-      "published_at": "2026-09-30T13:50:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "vs-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sam Sianati"
     },
     {
       "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
