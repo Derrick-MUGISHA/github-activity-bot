@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
+      "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk",
+      "published_at": "2026-10-01T16:19:06Z",
+      "description": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
+      "tags": [
+        "hacktoberfest",
+        "opensource",
+        "ai",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2wmhcfrymahbrsjopzei.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
       "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
       "published_at": "2026-09-30T23:21:18Z",
@@ -723,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 757,
       "user": "lemomo-ai"
     },
     {
@@ -738,8 +753,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 671,
       "user": "edenfunf"
+    },
+    {
+      "title": "Edwardxlai/easyread - GitHub Repository",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "published_at": "2026-09-30T12:52:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
+      "source": "GitHub",
+      "stars": 423,
+      "user": "Edwardxlai"
     },
     {
       "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
@@ -753,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 363,
       "user": "moguzbulbul"
     },
     {
@@ -768,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2167,
       "user": "feder-cr"
     },
     {
@@ -783,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1230,
+      "stars": 1255,
       "user": "firelex"
     },
     {
@@ -798,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 891,
       "user": "nanaism"
     },
     {
@@ -813,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4320,
+      "stars": 4592,
       "user": "KKKKhazix"
     },
     {
@@ -828,7 +858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 887,
       "user": "supermemoryai"
     },
     {
@@ -843,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 597,
       "user": "openai"
     },
     {
@@ -858,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 221,
       "user": "alpcanaydin"
     },
     {
@@ -875,20 +905,6 @@
       "user": "videah"
     },
     {
-      "title": "EDG C/C++ Compiler Project",
-      "url": "https://github.com/edgcpp/compiler",
-      "published_at": "2026-09-30T17:06:21.893-05:00",
-      "description": "During the 2025 November C++ ISO meeting Edison Design Group [announced that they would be winding down and that they will open-source their front end](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/). This is the repo containing said front end along with some other components like C and C++ back ends. There is also a [website](https://edgcpp.org/) with more info about the transition and a [documentation website](https://edgcpp.org/doc/).\r\n\r\nAt least as far as my knowledge extends this is one of the four still extant C++ front ends (Clang, GCC, and MSVC being the others). It's most notably used as the front end for Visual Studio's Intellisense, and Intel's compiler used to use it before they switched to Clang.\r\n\r\nAnother interesting historical tidbit is that they were the only front end to implement C++98's `export template` feature, and their experience was  [used to argue for the removal of the feature in C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1426.pdf), though according to [this Stack Overflow comment](https://stackoverflow.com/questions/5416872/using-export-keyword-with-templates#comment6130296_5416981) that specific paper didn't pass voting. The feature was eventually removed in C++11, but I'm unable to find exactly when and/or which paper did so. There's a [2009 blog post by Herb Sutter](https://herbsutter.com/2009/10/23/deprecating-export-considered-for-iso-c0x/) indicating support for removal/deprecation with deprecation getting the most support, so I guess the paper/vote happened sometime after that.",
-      "tags": [
-        "c",
-        "c++",
-        "compilers"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aw1621107"
-    },
-    {
       "title": "Who's hiring? Q4 2026",
       "url": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
       "published_at": "2026-10-01T05:03:52.944-05:00",
@@ -901,10 +917,60 @@
       "user": "makishimu"
     },
     {
+      "title": "Reducing the cognitive load of AI changes",
+      "url": "https://amoffat.github.io/blog/cognitive-load.html",
+      "published_at": "2026-10-01T07:57:19.033-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "amoffat"
+    },
+    {
+      "title": "Is sandboxing sufficient to contain rogue agents?",
+      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+      "published_at": "2026-10-01T07:16:51.385-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "carlana"
+    },
+    {
+      "title": "The AI Pascal’s Wager",
+      "url": "https://ploum.net/2026-10-01-pascal_wager.html",
+      "published_at": "2026-09-30T21:03:34.978-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cgrinds"
+    },
+    {
+      "title": "WSL containers are now generally available",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
+      "published_at": "2026-10-01T06:43:16.865-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "virtualization",
+        "windows"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "abareplace"
+    },
+    {
       "title": "Optimizing Real-Time Cryptocurrency Data Integration: Solana Blockchain Transaction Performance Drop Solutions",
       "url": "https://stackoverflow.com/questions/80007149/optimizing-real-time-cryptocurrency-data-integration-solana-blockchain-transact",
       "published_at": "2026-10-01T04:31:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -913,108 +979,163 @@
       "user": "user32982224"
     },
     {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "published_at": "2026-09-30T23:43:07.000Z",
-      "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "published_at": "2026-10-01T17:50:19.000Z",
+      "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
       "tags": [
         "AI",
-        "gemini",
-        "Google"
+        "writing"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Russell Brandom"
     },
     {
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "published_at": "2026-09-30T21:07:40.000Z",
-      "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "published_at": "2026-10-01T16:49:22.000Z",
+      "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
       "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "Flow Engineering",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "published_at": "2026-09-30T20:39:09.000Z",
-      "description": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "cognition",
-        "factory"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "published_at": "2026-09-30T20:20:02.000Z",
-      "description": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant ",
-      "tags": [
-        "Biotech & Health",
-        "Startups",
-        "Neko Health",
-        "preventative healthcare"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "DoorDash&#8217;s drone strategy started on the ground",
-      "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
-      "published_at": "2026-09-30T19:22:13.000Z",
-      "description": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
-      "tags": [
-        "Transportation",
-        "delivery drones",
-        "DoorDash",
-        "drones"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "published_at": "2026-09-30T19:00:57.000Z",
-      "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "tags": [
-        "AI",
-        "OpenAI"
+        "AI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
     },
     {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "published_at": "2026-09-30T18:23:57.000Z",
-      "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "published_at": "2026-10-01T16:44:35.000Z",
+      "description": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
       "tags": [
         "AI",
-        "Startups",
-        "liquidity",
-        "voice AI",
-        "ElevenLabs"
+        "Commerce",
+        "Shopify"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "One year later, Tesla and Musk still don&#8217;t have a good definition of &#8216;abundance&#8217;",
+      "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+      "published_at": "2026-10-01T15:50:10.000Z",
+      "description": "The CEO promised to get more specific about his vision. But the details are still absent.",
+      "tags": [
+        "Transportation",
+        "Elon Musk",
+        "Tesla"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "published_at": "2026-10-01T15:12:00.000Z",
+      "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "tags": [
+        "AI",
+        "Airbnb",
+        "brian chesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "published_at": "2026-10-01T14:00:00.000Z",
+      "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "AI agents",
+        "Photon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "published_at": "2026-10-01T13:00:00.000Z",
+      "description": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "hearing health care",
+        "smartglasses"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Audible&#8217;s new features let you explore book worlds — and use AI to talk to characters",
+      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "published_at": "2026-10-01T13:00:00.000Z",
+      "description": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Audible",
+        "audiobooks"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
+      "url": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
+      "published_at": "2026-10-01T11:02:33.000Z",
+      "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
+      "tags": [
+        "Kubernetes",
+        "Devops",
+        "Docker",
+        "debugging"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "praneethhere"
+    },
+    {
+      "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
+      "url": "https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/",
+      "published_at": "2026-10-01T09:47:51.000Z",
+      "description": "Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc",
+      "tags": [
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Web Development",
+        "software development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwatobi Sofela"
+    },
+    {
+      "title": "Healthcare AI Won't Work Until You Fix Your Data",
+      "url": "https://www.freecodecamp.org/news/healthcare-ai-won-t-work-until-you-fix-your-data/",
+      "published_at": "2026-10-01T06:29:35.000Z",
+      "description": "Building AI for clinical settings is harder than it looks. It takes more than picking a good model or tuning the right parameters. When engineers enter a hospital ecosystem, they quickly discover that",
+      "tags": [
+        "healthcare",
+        "AI",
+        "data"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
@@ -1047,66 +1168,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chidozie Managwu"
-    },
-    {
-      "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
-      "published_at": "2026-09-29T06:23:21.000Z",
-      "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
-      "tags": [
-        "Web Development",
-        "AI",
-        "ai agents",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Sharvin Shah"
-    },
-    {
-      "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
-      "published_at": "2026-09-29T06:21:55.000Z",
-      "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
-      "tags": [
-        "infrastructure",
-        "AI",
-        "handbook",
-        "Security",
-        "Infrastructure as code"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Kayode Adeniyi"
-    },
-    {
-      "title": "Why Software Automation Needs a Layer Between Intent and Execution",
-      "url": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
-      "published_at": "2026-09-29T06:16:57.000Z",
-      "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "Artificial Intelligence",
-        "TypeScript",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
-      "url": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
-      "published_at": "2026-09-27T07:57:15.000Z",
-      "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
-      "tags": [
-        "tutorial",
-        "webdev"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Casmir Onyekani"
     }
   ],
   "JavaScript": [
@@ -1332,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 757,
       "user": "lemomo-ai"
     },
     {
@@ -1347,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 671,
       "user": "edenfunf"
     },
     {
@@ -1362,8 +1423,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 455,
       "user": "xikhar"
+    },
+    {
+      "title": "Edwardxlai/easyread - GitHub Repository",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "published_at": "2026-09-30T12:52:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
+      "source": "GitHub",
+      "stars": 423,
+      "user": "Edwardxlai"
     },
     {
       "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
@@ -1377,23 +1453,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 363,
       "user": "moguzbulbul"
-    },
-    {
-      "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
-      "url": "https://github.com/jaydendavisnc/inkwave",
-      "published_at": "2026-09-26T12:50:22Z",
-      "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
-      "source": "GitHub",
-      "stars": 350,
-      "user": "jaydendavisnc"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -1407,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4320,
+      "stars": 4592,
       "user": "KKKKhazix"
     },
     {
@@ -1422,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1943,
+      "stars": 1980,
       "user": "dzhng"
     },
     {
@@ -1437,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 887,
       "user": "supermemoryai"
     },
     {
@@ -1452,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 597,
       "user": "openai"
     },
     {
@@ -1467,8 +1528,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 468,
       "user": "fsiaonma"
+    },
+    {
+      "title": "What is the difference between == and === operators in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80007300/what-is-the-difference-between-and-operators-in-javascript",
+      "published_at": "2026-10-01T15:49:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rodrigo Morales"
+    },
+    {
+      "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
+      "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
+      "published_at": "2026-10-01T11:29:36.000Z",
+      "description": "Stack Overflow question · 2 answers · score -10",
+      "tags": [
+        "javascript",
+        "regex",
+        "url",
+        "spotify"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "spotload"
     },
     {
       "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
@@ -1486,6 +1574,21 @@
       "user": "MELKIO"
     },
     {
+      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
+      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
+      "published_at": "2026-09-30T10:33:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "media-player",
+        "browser-cache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cineby HD App"
+    },
+    {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
@@ -1500,21 +1603,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
-    },
-    {
-      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
-      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
-      "published_at": "2026-09-30T10:33:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "media-player",
-        "browser-cache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cineby HD App"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -1552,7 +1640,7 @@
       "title": "How to fix an issue with random images not showing",
       "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
       "published_at": "2026-09-27T16:06:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "javascript",
         "image",
@@ -1576,47 +1664,50 @@
       "user": "Ehan Siddique"
     },
     {
-      "title": "How can I customize keyboard behaviour in HTML <select> menus?",
-      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
-      "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "is there a way to make it so event listener only handles one event at a time?",
+      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
+      "published_at": "2026-06-25T01:48:11.000Z",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
-        "tooling-recommendation",
         "javascript",
         "html",
-        "drop-down-menu"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "leo"
+      "user": "Aidan Pearson"
     },
     {
-      "title": "Should Math.js return the same value for sin(2.5) in all browsers and in Node.js?",
-      "url": "https://stackoverflow.com/questions/79944374/should-math-js-return-the-same-value-for-sin2-5-in-all-browsers-and-in-node-js",
-      "published_at": "2026-05-21T00:58:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 6",
+      "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/",
+      "published_at": "2026-10-01T11:01:21.000Z",
+      "description": "Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr",
       "tags": [
-        "javascript",
-        "mathjs"
+        "TypeScript",
+        "vscode",
+        "programming languages",
+        "Open Source",
+        "software development"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Don Hatch"
+      "source": "freeCodeCamp",
+      "user": "Otobong Peter"
     },
     {
-      "title": "How do I generate SEO-friendly meta tags in React?",
-      "url": "https://stackoverflow.com/questions/79950873/how-do-i-generate-seo-friendly-meta-tags-in-react",
-      "published_at": "2026-06-03T13:40:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
+      "url": "https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/",
+      "published_at": "2026-10-01T09:47:51.000Z",
+      "description": "Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc",
       "tags": [
-        "javascript",
-        "reactjs",
-        "seo",
-        "advice"
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Web Development",
+        "software development"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aryananda arya"
+      "source": "freeCodeCamp",
+      "user": "Oluwatobi Sofela"
     },
     {
       "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
@@ -1633,67 +1724,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bansidhar Kadiya"
-    },
-    {
-      "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
-      "url": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
-      "published_at": "2026-09-29T13:31:42.000Z",
-      "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "browser-apis"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Oliinyk"
-    },
-    {
-      "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
-      "url": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
-      "published_at": "2026-09-29T06:36:31.000Z",
-      "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
-      "tags": [
-        "JavaScript",
-        "SQL",
-        "Security",
-        "node",
-        "orm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hackita"
-    },
-    {
-      "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
-      "published_at": "2026-09-29T06:23:21.000Z",
-      "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
-      "tags": [
-        "Web Development",
-        "AI",
-        "ai agents",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Sharvin Shah"
-    },
-    {
-      "title": "Why Software Automation Needs a Layer Between Intent and Execution",
-      "url": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
-      "published_at": "2026-09-29T06:16:57.000Z",
-      "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "Artificial Intelligence",
-        "TypeScript",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "Python": [
@@ -1919,23 +1949,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2167,
       "user": "feder-cr"
-    },
-    {
-      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "published_at": "2026-09-28T16:18:39Z",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
-      "source": "GitHub",
-      "stars": 1230,
-      "user": "firelex"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -1949,8 +1964,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1409,
       "user": "rehan-remade"
+    },
+    {
+      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "url": "https://github.com/firelex/jeff",
+      "published_at": "2026-09-28T16:18:39Z",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
+      "source": "GitHub",
+      "stars": 1255,
+      "user": "firelex"
     },
     {
       "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
@@ -1964,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1116,
       "user": "feitangyuan"
     },
     {
@@ -1979,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 891,
       "user": "nanaism"
     },
     {
@@ -1999,10 +2029,26 @@
       "user": "hetal Vadaliya"
     },
     {
+      "title": "SparkFun DE2120 2D barcode scanner not working in TTL/RS232 mode",
+      "url": "https://stackoverflow.com/questions/80007268/sparkfun-de2120-2d-barcode-scanner-not-working-in-ttl-rs232-mode",
+      "published_at": "2026-10-01T13:17:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "raspberry-pi",
+        "hardware",
+        "barcode-scanner",
+        "sparkfun"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ramita Commi"
+    },
+    {
       "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
       "url": "https://stackoverflow.com/questions/80007239/why-does-my-pandas-groupby-suddenly-use-12gb-ram-and-crash-after-1m-rows-it-wor",
       "published_at": "2026-10-01T11:28:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "pandas",
@@ -2013,29 +2059,31 @@
       "user": "Sabri Alyafei"
     },
     {
+      "title": "Python multiprocessing (pool, imap) performance degradation on Linux host",
+      "url": "https://stackoverflow.com/questions/80007255/python-multiprocessing-pool-imap-performance-degradation-on-linux-host",
+      "published_at": "2026-10-01T12:37:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "ubuntu",
+        "multiprocessing",
+        "pool"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "e2013mbp-gecko"
+    },
+    {
       "title": "How can I get profile_agent_id and posts_agent_id for an Instagram profile scraper?",
       "url": "https://stackoverflow.com/questions/80007220/how-can-i-get-profile-agent-id-and-posts-agent-id-for-an-instagram-profile-scrap",
       "published_at": "2026-10-01T10:20:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "panthagani srikanth"
-    },
-    {
-      "title": "How to run a file in VS Code then open up an REPL with the globals in place",
-      "url": "https://stackoverflow.com/questions/80007217/how-to-run-a-file-in-vs-code-then-open-up-an-repl-with-the-globals-in-place",
-      "published_at": "2026-10-01T10:03:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "vs-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Train-Case"
     },
     {
       "title": "How to avoid invalid-method-override?",
@@ -2049,6 +2097,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SteinGate"
+    },
+    {
+      "title": "Frappe v16.35.0: OAuth password grant returns invalid_grant while /api/method/login accepts the same credentials (works on v16.33.1)",
+      "url": "https://stackoverflow.com/questions/80007237/frappe-v16-35-0-oauth-password-grant-returns-invalid-grant-while-api-method-lo",
+      "published_at": "2026-10-01T11:25:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "authentication",
+        "oauth-2.0",
+        "erpnext",
+        "frappe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jawad Ahmad"
+    },
+    {
+      "title": "How to run a file in VS Code then open up an REPL with the globals in place",
+      "url": "https://stackoverflow.com/questions/80007217/how-to-run-a-file-in-vs-code-then-open-up-an-repl-with-the-globals-in-place",
+      "published_at": "2026-10-01T10:03:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "vs-code"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Train-Case"
     },
     {
       "title": "matplot patchcollection(s) moving and rotating, all together and each seprately, what is best?",
@@ -2068,25 +2145,13 @@
       "title": "Optimizing Real-Time Cryptocurrency Data Integration: Solana Blockchain Transaction Performance Drop Solutions",
       "url": "https://stackoverflow.com/questions/80007149/optimizing-real-time-cryptocurrency-data-integration-solana-blockchain-transact",
       "published_at": "2026-10-01T04:31:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32982224"
-    },
-    {
-      "title": "Resolving Cloud Storage Bucket Connection Issues in Real-Time Data Pipeline Setup",
-      "url": "https://stackoverflow.com/questions/80007145/resolving-cloud-storage-bucket-connection-issues-in-real-time-data-pipeline-setu",
-      "published_at": "2026-10-01T04:20:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33008603"
     },
     {
       "title": "Can you create a class that's not a subclass of object in Python?",
@@ -2101,33 +2166,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zeubollisk Wu"
-    },
-    {
-      "title": "Asyncio code causing infinite loop in GPIO project",
-      "url": "https://stackoverflow.com/questions/80007085/asyncio-code-causing-infinite-loop-in-gpio-project",
-      "published_at": "2026-09-30T19:23:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "raspberry-pi",
-        "python-asyncio",
-        "gpio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "roscoe_turner"
-    },
-    {
-      "title": "How to make this context manager cleanly yield an updating value",
-      "url": "https://stackoverflow.com/questions/80006952/how-to-make-this-context-manager-cleanly-yield-an-updating-value",
-      "published_at": "2026-09-30T11:30:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Train-Case"
     },
     {
       "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
@@ -2326,6 +2364,21 @@
       "user": "jknupp"
     },
     {
+      "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
+      "url": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
+      "published_at": "2026-10-01T11:02:33.000Z",
+      "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
+      "tags": [
+        "Kubernetes",
+        "Devops",
+        "Docker",
+        "debugging"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "praneethhere"
+    },
+    {
       "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
       "url": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
       "published_at": "2026-09-30T05:49:45.000Z",
@@ -2340,22 +2393,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Gursimar Singh"
-    },
-    {
-      "title": "Why Software Automation Needs a Layer Between Intent and Execution",
-      "url": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
-      "published_at": "2026-09-29T06:16:57.000Z",
-      "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "Artificial Intelligence",
-        "TypeScript",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "WebDev": [
@@ -2417,6 +2454,21 @@
       "user": "velmu"
     },
     {
+      "title": "egoist/mygo - Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "url": "https://github.com/egoist/mygo",
+      "published_at": "2026-09-26T15:21:37Z",
+      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "egoist"
+    },
+    {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
       "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
       "published_at": "2026-09-28T05:36:09.000Z",
@@ -2449,19 +2501,49 @@
       "user": "user33171548"
     },
     {
-      "title": "How can I customize keyboard behaviour in HTML <select> menus?",
-      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
-      "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "is there a way to make it so event listener only handles one event at a time?",
+      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
+      "published_at": "2026-06-25T01:48:11.000Z",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
-        "tooling-recommendation",
         "javascript",
         "html",
-        "drop-down-menu"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "leo"
+      "user": "Aidan Pearson"
+    },
+    {
+      "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
+      "url": "https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/",
+      "published_at": "2026-10-01T09:47:51.000Z",
+      "description": "Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc",
+      "tags": [
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Web Development",
+        "software development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwatobi Sofela"
+    },
+    {
+      "title": "How CSS content-visibility Works and How It Can Improve Rendering Performance",
+      "url": "https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/",
+      "published_at": "2026-10-01T06:00:00.000Z",
+      "description": "What happens when a page has 150 content-heavy cards, but the user can only see the first few? You might expect the browser to only worry about what's currently visible. But this isn't exactly what ha",
+      "tags": [
+        "CSS",
+        "web performance",
+        "Web Development",
+        "Frontend Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ayman Eldawy"
     },
     {
       "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
@@ -2478,35 +2560,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bansidhar Kadiya"
-    },
-    {
-      "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
-      "url": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
-      "published_at": "2026-09-29T13:31:42.000Z",
-      "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "browser-apis"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Oliinyk"
-    },
-    {
-      "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
-      "published_at": "2026-09-29T06:23:21.000Z",
-      "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
-      "tags": [
-        "Web Development",
-        "AI",
-        "ai agents",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Sharvin Shah"
     }
   ],
   "Mobile": [
@@ -2599,18 +2652,20 @@
       "user": "Alexandra"
     },
     {
-      "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
-      "url": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
-      "published_at": "2026-09-29T13:31:42.000Z",
-      "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "published_at": "2026-10-01T14:00:00.000Z",
+      "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
       "tags": [
-        "JavaScript",
-        "Web Development",
-        "browser-apis"
+        "AI",
+        "Startups",
+        "TC",
+        "AI agents",
+        "Photon"
       ],
       "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Oliinyk"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
@@ -2831,32 +2886,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d6ti7gc9w5ljbbfgf6a.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "EDG C/C++ Compiler Project",
-      "url": "https://github.com/edgcpp/compiler",
-      "published_at": "2026-09-30T17:06:21.893-05:00",
-      "description": "During the 2025 November C++ ISO meeting Edison Design Group [announced that they would be winding down and that they will open-source their front end](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/). This is the repo containing said front end along with some other components like C and C++ back ends. There is also a [website](https://edgcpp.org/) with more info about the transition and a [documentation website](https://edgcpp.org/doc/).\r\n\r\nAt least as far as my knowledge extends this is one of the four still extant C++ front ends (Clang, GCC, and MSVC being the others). It's most notably used as the front end for Visual Studio's Intellisense, and Intel's compiler used to use it before they switched to Clang.\r\n\r\nAnother interesting historical tidbit is that they were the only front end to implement C++98's `export template` feature, and their experience was  [used to argue for the removal of the feature in C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2003/n1426.pdf), though according to [this Stack Overflow comment](https://stackoverflow.com/questions/5416872/using-export-keyword-with-templates#comment6130296_5416981) that specific paper didn't pass voting. The feature was eventually removed in C++11, but I'm unable to find exactly when and/or which paper did so. There's a [2009 blog post by Herb Sutter](https://herbsutter.com/2009/10/23/deprecating-export-considered-for-iso-c0x/) indicating support for removal/deprecation with deprecation getting the most support, so I guess the paper/vote happened sometime after that.",
-      "tags": [
-        "c",
-        "c++",
-        "compilers"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aw1621107"
-    },
-    {
-      "title": "Resolving Cloud Storage Bucket Connection Issues in Real-Time Data Pipeline Setup",
-      "url": "https://stackoverflow.com/questions/80007145/resolving-cloud-storage-bucket-connection-issues-in-real-time-data-pipeline-setu",
-      "published_at": "2026-10-01T04:20:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33008603"
     }
   ],
   "Database": [
@@ -2884,7 +2913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 221,
       "user": "alpcanaydin"
     },
     {
@@ -2917,22 +2946,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
-    },
-    {
-      "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
-      "url": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
-      "published_at": "2026-09-29T06:36:31.000Z",
-      "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
-      "tags": [
-        "JavaScript",
-        "SQL",
-        "Security",
-        "node",
-        "orm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hackita"
     }
   ],
   "Security": [
@@ -3084,66 +3097,49 @@
       "user": "ewenjo"
     },
     {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "published_at": "2026-09-30T23:43:07.000Z",
-      "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "title": "Is sandboxing sufficient to contain rogue agents?",
+      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+      "published_at": "2026-10-01T07:16:51.385-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "AI",
-        "gemini",
-        "Google"
+        "ai",
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "source": "Lobste.rs",
+      "user": "carlana"
     },
     {
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "published_at": "2026-09-30T19:29:08.000Z",
-      "description": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+      "title": "Frappe v16.35.0: OAuth password grant returns invalid_grant while /api/method/login accepts the same credentials (works on v16.33.1)",
+      "url": "https://stackoverflow.com/questions/80007237/frappe-v16-35-0-oauth-password-grant-returns-invalid-grant-while-api-method-lo",
+      "published_at": "2026-10-01T11:25:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
+        "python",
+        "authentication",
+        "oauth-2.0",
+        "erpnext",
+        "frappe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jawad Ahmad"
+    },
+    {
+      "title": "California governor vetoes bill banning use of &#8216;pervert glasses&#8217; to secretly record people",
+      "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+      "published_at": "2026-10-01T16:35:25.000Z",
+      "description": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+      "tags": [
+        "Privacy",
         "Security",
-        "cyberattack",
+        "california",
         "cybersecurity",
-        "data breach",
-        "department of defense"
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
-      "url": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
-      "published_at": "2026-09-29T06:36:31.000Z",
-      "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
-      "tags": [
-        "JavaScript",
-        "SQL",
-        "Security",
-        "node",
-        "orm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hackita"
-    },
-    {
-      "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
-      "published_at": "2026-09-29T06:21:55.000Z",
-      "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
-      "tags": [
-        "infrastructure",
-        "AI",
-        "handbook",
-        "Security",
-        "Infrastructure as code"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Kayode Adeniyi"
     }
   ],
   "Tools": [
@@ -3300,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 757,
       "user": "lemomo-ai"
     },
     {
@@ -3315,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 671,
       "user": "edenfunf"
     },
     {
@@ -3330,8 +3326,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 455,
       "user": "xikhar"
+    },
+    {
+      "title": "Edwardxlai/easyread - GitHub Repository",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "published_at": "2026-09-30T12:52:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
+      "source": "GitHub",
+      "stars": 423,
+      "user": "Edwardxlai"
     },
     {
       "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
@@ -3345,23 +3356,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 363,
       "user": "moguzbulbul"
-    },
-    {
-      "title": "jaydendavisnc/inkwave - Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
-      "url": "https://github.com/jaydendavisnc/inkwave",
-      "published_at": "2026-09-26T12:50:22Z",
-      "description": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178687560?v=4",
-      "source": "GitHub",
-      "stars": 350,
-      "user": "jaydendavisnc"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -3375,23 +3371,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2167,
       "user": "feder-cr"
-    },
-    {
-      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "published_at": "2026-09-28T16:18:39Z",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
-      "source": "GitHub",
-      "stars": 1230,
-      "user": "firelex"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -3405,8 +3386,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1409,
       "user": "rehan-remade"
+    },
+    {
+      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "url": "https://github.com/firelex/jeff",
+      "published_at": "2026-09-28T16:18:39Z",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
+      "source": "GitHub",
+      "stars": 1255,
+      "user": "firelex"
     },
     {
       "title": "feitangyuan/onetake - Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
@@ -3420,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1116,
       "user": "feitangyuan"
     },
     {
@@ -3435,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 891,
       "user": "nanaism"
     },
     {
@@ -3450,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 85,
       "user": "frostyard"
     },
     {
@@ -3469,21 +3465,6 @@
       "user": "Bornholm"
     },
     {
-      "title": "spumon1/SUCK_MY_ASTRA - LOLOLOLOLOLOLOLOLOL",
-      "url": "https://github.com/spumon1/SUCK_MY_ASTRA",
-      "published_at": "2026-09-25T01:13:53Z",
-      "description": "LOLOLOLOLOLOLOLOLOL",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93527370?v=4",
-      "source": "GitHub",
-      "stars": 43,
-      "user": "spumon1"
-    },
-    {
       "title": "Slaker19/webkvm - Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
       "url": "https://github.com/Slaker19/webkvm",
       "published_at": "2026-09-26T23:17:14Z",
@@ -3495,23 +3476,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196074148?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 45,
       "user": "Slaker19"
     },
     {
-      "title": "Vitruves/ghostty-config - TUI for Ghostty terminal customization ",
-      "url": "https://github.com/Vitruves/ghostty-config",
-      "published_at": "2026-09-27T08:57:53Z",
-      "description": "TUI for Ghostty terminal customization ",
+      "title": "spumon1/SUCK_MY_ASTRA - LOLOLOLOLOLOLOLOLOL",
+      "url": "https://github.com/spumon1/SUCK_MY_ASTRA",
+      "published_at": "2026-09-25T01:13:53Z",
+      "description": "LOLOLOLOLOLOLOLOLOL",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65819137?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/93527370?v=4",
       "source": "GitHub",
-      "stars": 36,
-      "user": "Vitruves"
+      "stars": 44,
+      "user": "spumon1"
+    },
+    {
+      "title": "egoist/mygo - Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "url": "https://github.com/egoist/mygo",
+      "published_at": "2026-09-26T15:21:37Z",
+      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "egoist"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -3525,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4320,
+      "stars": 4592,
       "user": "KKKKhazix"
     },
     {
@@ -3540,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1943,
+      "stars": 1980,
       "user": "dzhng"
     },
     {
@@ -3555,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
       "source": "GitHub",
-      "stars": 881,
+      "stars": 887,
       "user": "supermemoryai"
     },
     {
@@ -3570,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 597,
       "user": "openai"
     },
     {
@@ -3585,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 468,
       "user": "fsiaonma"
     },
     {
@@ -3600,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 514,
       "user": "chasmlol"
     },
     {
@@ -3615,23 +3611,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 263,
       "user": "ZacharyZhang-NY"
-    },
-    {
-      "title": "corvofeng/atv-core - GitHub Repository",
-      "url": "https://github.com/corvofeng/atv-core",
-      "published_at": "2026-09-26T09:41:21Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12025071?v=4",
-      "source": "GitHub",
-      "stars": 206,
-      "user": "corvofeng"
     },
     {
       "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
@@ -3645,51 +3626,70 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 221,
       "user": "alpcanaydin"
     },
     {
-      "title": "pch/rawmakase - 📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
-      "url": "https://github.com/pch/rawmakase",
-      "published_at": "2026-09-26T13:44:32Z",
-      "description": "📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.",
+      "title": "corvofeng/atv-core - GitHub Repository",
+      "url": "https://github.com/corvofeng/atv-core",
+      "published_at": "2026-09-26T09:41:21Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9818?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/12025071?v=4",
       "source": "GitHub",
-      "stars": 186,
-      "user": "pch"
+      "stars": 212,
+      "user": "corvofeng"
     },
     {
-      "title": "Finding Bugs",
-      "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
-      "published_at": "2026-09-30T14:57:54.701-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "turbo-devv/openOMSI - OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
+      "url": "https://github.com/turbo-devv/openOMSI",
+      "published_at": "2026-09-27T22:21:06Z",
+      "description": "OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
       "tags": [
         "rust",
-        "testing"
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hwayne"
+      "cover_image": "https://avatars.githubusercontent.com/u/233512653?v=4",
+      "source": "GitHub",
+      "stars": 196,
+      "user": "turbo-devv"
     },
     {
-      "title": "How can I customize keyboard behaviour in HTML <select> menus?",
-      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
-      "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/",
+      "published_at": "2026-10-01T11:01:21.000Z",
+      "description": "Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr",
       "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "html",
-        "drop-down-menu"
+        "TypeScript",
+        "vscode",
+        "programming languages",
+        "Open Source",
+        "software development"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "leo"
+      "source": "freeCodeCamp",
+      "user": "Otobong Peter"
+    },
+    {
+      "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
+      "url": "https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/",
+      "published_at": "2026-10-01T09:47:51.000Z",
+      "description": "Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc",
+      "tags": [
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Web Development",
+        "software development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwatobi Sofela"
     },
     {
       "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
@@ -3706,21 +3706,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bansidhar Kadiya"
-    },
-    {
-      "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
-      "published_at": "2026-09-29T06:23:21.000Z",
-      "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
-      "tags": [
-        "Web Development",
-        "AI",
-        "ai agents",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Sharvin Shah"
     }
   ]
 }
