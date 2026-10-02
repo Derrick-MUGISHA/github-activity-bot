@@ -712,21 +712,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "url": "https://github.com/lemomo-ai/lemo-opuscar",
-      "published_at": "2026-09-26T10:10:41Z",
-      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
-      "source": "GitHub",
-      "stars": 787,
-      "user": "lemomo-ai"
-    },
-    {
       "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
       "url": "https://github.com/edenfunf/reelmimic",
       "published_at": "2026-09-28T19:14:59Z",
@@ -738,8 +723,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 909,
       "user": "edenfunf"
+    },
+    {
+      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "published_at": "2026-09-26T10:10:41Z",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
+      "source": "GitHub",
+      "stars": 803,
+      "user": "lemomo-ai"
     },
     {
       "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 584,
       "user": "Edwardxlai"
     },
     {
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "moguzbulbul"
     },
     {
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2407,
+      "stars": 2421,
       "user": "feder-cr"
     },
     {
@@ -798,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1287,
+      "stars": 1303,
       "user": "firelex"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1145,
       "user": "nanaism"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4792,
+      "stars": 4916,
       "user": "KKKKhazix"
     },
     {
@@ -843,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 1027,
       "user": "CopilotKit"
     },
     {
@@ -858,7 +858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 682,
       "user": "openai"
     },
     {
@@ -873,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 292,
       "user": "alpcanaydin"
     },
     {
@@ -902,45 +902,6 @@
       "user": "amoffat"
     },
     {
-      "title": "Who's hiring? Q4 2026",
-      "url": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
-      "published_at": "2026-10-01T05:03:52.944-05:00",
-      "description": "There was interest in expanding the scope of \"Who's hiring\" posts to non-software engineering positions [\\[link1\\]](https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026) [\\[link2\\]](https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026). Some discussion took place, however no actual jobs were posted. I suggest to include that intention into this post and share non-engineering vacancies such as customer support, data entry, field technician, etc. Although, I'd like to remind you this is a computing-focused community, so the jobs should fall into that realm too.\r\n\r\nPlease, use the following template for your job postings and as you see fit:\r\n\r\n```\r\n**Company:** [NAME](URL)\r\n\r\n**Position(s):** job title and level\r\n\r\n**Location:** remote or onsite, and where (worldwide/US/EU/etc.)\r\n\r\n**Description:** description of the company, mission, culture, job position, duties, necessary experience & skills, etc.\r\n\r\n**Tech stack:** the nitty-gritty details\r\n\r\n**Compensation:** salary, equity, vacation, major benefits\r\n\r\n**Contacts:** a posting page, your email, etc.\r\n```",
-      "tags": [
-        "job"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "makishimu"
-    },
-    {
-      "title": "Is sandboxing sufficient to contain rogue agents?",
-      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-      "published_at": "2026-10-01T07:16:51.385-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "carlana"
-    },
-    {
-      "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
-      "url": "https://github.com/dtonon/outis",
-      "published_at": "2026-10-01T10:54:02.796-05:00",
-      "description": "Outis fights spam generating and sends a fake \"user unknown\" bounce for an email you received, so the sender believes your address does not exist. This isn't a new idea: I created a similar program back in 1998–1999, but I decided to revive it because it should work well with the recent trend of automated emails generated by AI, where the sender might expect a reply; it helps remove your email address from their list.\r\n\r\nAny idea on how to improve it? :)",
-      "tags": [
-        "email",
-        "privacy",
-        "show"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "daniele"
-    },
-    {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
       "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
       "published_at": "2026-10-01T18:47:08.000Z",
@@ -954,6 +915,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dumbass"
+    },
+    {
+      "title": "Tesla sustains its EV sales momentum despite US troubles",
+      "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+      "published_at": "2026-10-02T13:39:23.000Z",
+      "description": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
+      "tags": [
+        "Transportation",
+        "electric vehicles",
+        "EVs",
+        "Tesla"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
     },
     {
       "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -983,81 +959,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "published_at": "2026-10-01T21:08:11.000Z",
-      "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Elon Musk",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "published_at": "2026-10-01T19:21:53.000Z",
-      "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Commerce",
-        "ChatGPT",
-        "shopping"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "published_at": "2026-10-01T19:18:03.000Z",
-      "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "tags": [
-        "AI",
-        "Space",
-        "data centers",
-        "Google",
-        "Planet Labs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "published_at": "2026-10-01T18:14:42.000Z",
-      "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "tags": [
-        "AI",
-        "Security",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "published_at": "2026-10-01T17:50:19.000Z",
-      "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "writing"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Build and Publish a Full-Stack Mobile App with AI",
@@ -1132,22 +1033,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
-      "url": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
-      "published_at": "2026-09-30T05:49:45.000Z",
-      "description": "It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod",
-      "tags": [
-        "AI",
-        "Kubernetes",
-        "infrastructure",
-        "llm",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gursimar Singh"
     }
   ],
   "JavaScript": [
@@ -1347,21 +1232,6 @@
       "user": "velmu"
     },
     {
-      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "url": "https://github.com/lemomo-ai/lemo-opuscar",
-      "published_at": "2026-09-26T10:10:41Z",
-      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
-      "source": "GitHub",
-      "stars": 787,
-      "user": "lemomo-ai"
-    },
-    {
       "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
       "url": "https://github.com/edenfunf/reelmimic",
       "published_at": "2026-09-28T19:14:59Z",
@@ -1373,8 +1243,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 909,
       "user": "edenfunf"
+    },
+    {
+      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "published_at": "2026-09-26T10:10:41Z",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
+      "source": "GitHub",
+      "stars": 803,
+      "user": "lemomo-ai"
     },
     {
       "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
@@ -1388,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 584,
       "user": "Edwardxlai"
     },
     {
@@ -1403,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 465,
       "user": "xikhar"
     },
     {
@@ -1418,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "moguzbulbul"
     },
     {
@@ -1433,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4792,
+      "stars": 4916,
       "user": "KKKKhazix"
     },
     {
@@ -1448,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 2019,
+      "stars": 2043,
       "user": "dzhng"
     },
     {
@@ -1463,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 1027,
       "user": "CopilotKit"
     },
     {
@@ -1478,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 682,
       "user": "openai"
     },
     {
@@ -1493,14 +1378,57 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 490,
       "user": "AgentSystemLabs"
+    },
+    {
+      "title": "Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx",
+      "url": "https://rahuljuliato.com/posts/emacs-rx-in-typescript",
+      "published_at": "2026-10-02T03:20:02.189-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "emacs",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "confusedalex"
+    },
+    {
+      "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
+      "url": "https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs",
+      "published_at": "2026-10-02T10:50:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alex Sindre"
+    },
+    {
+      "title": "CSS and JavaScript not applying on my localhost",
+      "url": "https://stackoverflow.com/questions/80007444/css-and-javascript-not-applying-on-my-localhost",
+      "published_at": "2026-10-02T09:27:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "css",
+        "macos",
+        "apache",
+        "macos-tahoe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "N&#233;o Kerroux"
     },
     {
       "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
       "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
       "published_at": "2026-10-01T11:29:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score -8",
+      "description": "Stack Overflow question · 2 answers · score -9",
       "tags": [
         "javascript",
         "regex",
@@ -1510,52 +1438,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "spotload"
-    },
-    {
-      "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
-      "url": "https://stackoverflow.com/questions/80006999/why-does-node-mssql-connect-to-the-primary-replica-when-using-applicationintent",
-      "published_at": "2026-09-30T14:23:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "node.js",
-        "sql-server",
-        "node-mssql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MELKIO"
-    },
-    {
-      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
-      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
-      "published_at": "2026-09-30T10:33:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "media-player",
-        "browser-cache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cineby HD App"
-    },
-    {
-      "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
-      "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
-      "published_at": "2026-09-30T09:28:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "python",
-        "websocket",
-        "redis",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "hetal Vadaliya"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -1574,20 +1456,50 @@
       "user": "RandomDoe2026"
     },
     {
-      "title": "custom cursor over personal iframes",
-      "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
-      "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
+      "url": "https://stackoverflow.com/questions/80006999/why-does-node-mssql-connect-to-the-primary-replica-when-using-applicationintent",
+      "published_at": "2026-09-30T14:23:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
-        "html",
-        "css",
-        "iframe",
-        "custom-cursor"
+        "node.js",
+        "sql-server",
+        "node-mssql"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33171548"
+      "user": "MELKIO"
+    },
+    {
+      "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
+      "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
+      "published_at": "2026-09-30T09:28:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "python",
+        "websocket",
+        "redis",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "hetal Vadaliya"
+    },
+    {
+      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
+      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
+      "published_at": "2026-09-30T10:33:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "media-player",
+        "browser-cache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cineby HD App"
     },
     {
       "title": "How to fix an issue with random images not showing",
@@ -1620,7 +1532,7 @@
       "title": "is there a way to make it so event listener only handles one event at a time?",
       "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
       "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1631,17 +1543,20 @@
       "user": "Aidan Pearson"
     },
     {
-      "title": "Should Math.js return the same value for sin(2.5) in all browsers and in Node.js?",
-      "url": "https://stackoverflow.com/questions/79944374/should-math-js-return-the-same-value-for-sin2-5-in-all-browsers-and-in-node-js",
-      "published_at": "2026-05-21T00:58:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 6",
+      "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
+      "url": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
+      "published_at": "2026-10-02T06:13:49.000Z",
+      "description": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that",
       "tags": [
-        "javascript",
-        "mathjs"
+        "Next.js",
+        "shadcn",
+        "charts",
+        "React",
+        "data visualization tools"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Don Hatch"
+      "source": "freeCodeCamp",
+      "user": "Ash"
     },
     {
       "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
@@ -1900,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2407,
+      "stars": 2421,
       "user": "feder-cr"
     },
     {
@@ -1915,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1858,
       "user": "rehan-remade"
     },
     {
@@ -1930,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1287,
+      "stars": 1303,
       "user": "firelex"
     },
     {
@@ -1945,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1253,
       "user": "feitangyuan"
     },
     {
@@ -1960,14 +1875,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1145,
       "user": "nanaism"
     },
     {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "python",
@@ -1980,6 +1895,45 @@
       "user": "hetal Vadaliya"
     },
     {
+      "title": "How to make two attr.s instances equal each other in this code",
+      "url": "https://stackoverflow.com/questions/80007474/how-to-make-two-attr-s-instances-equal-each-other-in-this-code",
+      "published_at": "2026-10-02T11:37:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "python-attrs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Train-Case"
+    },
+    {
+      "title": "Finding value within nested dictionary with arrays",
+      "url": "https://stackoverflow.com/questions/80007452/finding-value-within-nested-dictionary-with-arrays",
+      "published_at": "2026-10-02T09:49:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BConn63"
+    },
+    {
+      "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
+      "url": "https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n",
+      "published_at": "2026-10-02T10:44:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "jupyter-notebook",
+        "pycharm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
+    },
+    {
       "title": "Why and how does Python treat __new__ differently when called from an instance?",
       "url": "https://stackoverflow.com/questions/80007399/why-and-how-does-python-treat-new-differently-when-called-from-an-instance",
       "published_at": "2026-10-02T04:09:24.000Z",
@@ -1990,6 +1944,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Train-Case"
+    },
+    {
+      "title": "Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
+      "url": "https://stackoverflow.com/questions/80007351/raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying-its-a",
+      "published_at": "2026-10-01T20:40:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "raylib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "King Of Noobs"
     },
     {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
@@ -2007,17 +1974,17 @@
       "user": "dumbass"
     },
     {
-      "title": "Python Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
-      "url": "https://stackoverflow.com/questions/80007351/python-raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying",
-      "published_at": "2026-10-01T20:40:20.000Z",
+      "title": "How to avoid invalid-method-override?",
+      "url": "https://stackoverflow.com/questions/80007186/how-to-avoid-invalid-method-override",
+      "published_at": "2026-10-01T07:54:25.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "python",
-        "raylib"
+        "best-practices",
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "King Of Noobs"
+      "user": "SteinGate"
     },
     {
       "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
@@ -2037,7 +2004,7 @@
       "title": "How to properly update ScrollAreaWidget contents via signals in PySide6?",
       "url": "https://stackoverflow.com/questions/80007352/how-to-properly-update-scrollareawidget-contents-via-signals-in-pyside6",
       "published_at": "2026-10-01T20:44:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "python-3.x",
@@ -2061,66 +2028,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "e2013mbp-gecko"
-    },
-    {
-      "title": "SparkFun DE2120 2D barcode scanner not working in TTL/RS232 mode",
-      "url": "https://stackoverflow.com/questions/80007268/sparkfun-de2120-2d-barcode-scanner-not-working-in-ttl-rs232-mode",
-      "published_at": "2026-10-01T13:17:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "raspberry-pi",
-        "hardware",
-        "barcode-scanner",
-        "sparkfun"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ramita Commi"
-    },
-    {
-      "title": "Asyncio code causing infinite loop in GPIO project",
-      "url": "https://stackoverflow.com/questions/80007085/asyncio-code-causing-infinite-loop-in-gpio-project",
-      "published_at": "2026-09-30T19:23:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "raspberry-pi",
-        "python-asyncio",
-        "gpio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "roscoe_turner"
-    },
-    {
-      "title": "How to avoid invalid-method-override?",
-      "url": "https://stackoverflow.com/questions/80007186/how-to-avoid-invalid-method-override",
-      "published_at": "2026-10-01T07:54:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SteinGate"
-    },
-    {
-      "title": "Frappe v16.35.0: OAuth password grant returns invalid_grant while /api/method/login accepts the same credentials (works on v16.33.1)",
-      "url": "https://stackoverflow.com/questions/80007237/frappe-v16-35-0-oauth-password-grant-returns-invalid-grant-while-api-method-lo",
-      "published_at": "2026-10-01T11:25:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "authentication",
-        "oauth-2.0",
-        "erpnext",
-        "frappe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jawad Ahmad"
     }
   ],
   "DevOps": [
@@ -2330,22 +2237,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Praneeth Kodumagulla"
-    },
-    {
-      "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
-      "url": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
-      "published_at": "2026-09-30T05:49:45.000Z",
-      "description": "It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod",
-      "tags": [
-        "AI",
-        "Kubernetes",
-        "infrastructure",
-        "llm",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gursimar Singh"
     }
   ],
   "WebDev": [
@@ -2418,7 +2309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 61,
       "user": "egoist"
     },
     {
@@ -2434,6 +2325,36 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "aarroyoc"
+    },
+    {
+      "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
+      "url": "https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs",
+      "published_at": "2026-10-02T10:50:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alex Sindre"
+    },
+    {
+      "title": "CSS and JavaScript not applying on my localhost",
+      "url": "https://stackoverflow.com/questions/80007444/css-and-javascript-not-applying-on-my-localhost",
+      "published_at": "2026-10-02T09:27:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "css",
+        "macos",
+        "apache",
+        "macos-tahoe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "N&#233;o Kerroux"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -2452,26 +2373,10 @@
       "user": "RandomDoe2026"
     },
     {
-      "title": "custom cursor over personal iframes",
-      "url": "https://stackoverflow.com/questions/80006802/custom-cursor-over-personal-iframes",
-      "published_at": "2026-09-29T18:51:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "iframe",
-        "custom-cursor"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33171548"
-    },
-    {
       "title": "is there a way to make it so event listener only handles one event at a time?",
       "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
       "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2920,7 +2825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 292,
       "user": "alpcanaydin"
     },
     {
@@ -2942,7 +2847,7 @@
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "python",
@@ -3104,33 +3009,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "Is sandboxing sufficient to contain rogue agents?",
-      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-      "published_at": "2026-10-01T07:16:51.385-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients&#8217; data",
+      "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+      "published_at": "2026-10-02T13:23:09.000Z",
+      "description": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
       "tags": [
-        "security",
-        "vibecoding"
+        "Security",
+        "healthcare",
+        "cybersecurity",
+        "Anthropic",
+        "Mythos"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "carlana"
-    },
-    {
-      "title": "Frappe v16.35.0: OAuth password grant returns invalid_grant while /api/method/login accepts the same credentials (works on v16.33.1)",
-      "url": "https://stackoverflow.com/questions/80007237/frappe-v16-35-0-oauth-password-grant-returns-invalid-grant-while-api-method-lo",
-      "published_at": "2026-10-01T11:25:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "authentication",
-        "oauth-2.0",
-        "erpnext",
-        "frappe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jawad Ahmad"
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Kevin Mandia&#8217;s new &#8216;agent swarm&#8217; security startup Armadin raises $255.5M at $2.5B valuation",
@@ -3147,20 +3039,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "published_at": "2026-10-01T18:14:42.000Z",
-      "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "tags": [
-        "AI",
-        "Security",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
     }
   ],
   "Tools": [
@@ -3306,21 +3184,6 @@
       "user": "pabs3"
     },
     {
-      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "url": "https://github.com/lemomo-ai/lemo-opuscar",
-      "published_at": "2026-09-26T10:10:41Z",
-      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
-      "source": "GitHub",
-      "stars": 787,
-      "user": "lemomo-ai"
-    },
-    {
       "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
       "url": "https://github.com/edenfunf/reelmimic",
       "published_at": "2026-09-28T19:14:59Z",
@@ -3332,8 +3195,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 909,
       "user": "edenfunf"
+    },
+    {
+      "title": "lemomo-ai/lemo-opuscar - 43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "published_at": "2026-09-26T10:10:41Z",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
+      "source": "GitHub",
+      "stars": 803,
+      "user": "lemomo-ai"
     },
     {
       "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
@@ -3347,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 584,
       "user": "Edwardxlai"
     },
     {
@@ -3362,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 465,
       "user": "xikhar"
     },
     {
@@ -3377,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 379,
       "user": "moguzbulbul"
     },
     {
@@ -3392,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2407,
+      "stars": 2421,
       "user": "feder-cr"
     },
     {
@@ -3407,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1858,
       "user": "rehan-remade"
     },
     {
@@ -3422,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1287,
+      "stars": 1303,
       "user": "firelex"
     },
     {
@@ -3437,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1253,
       "user": "feitangyuan"
     },
     {
@@ -3452,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1145,
       "user": "nanaism"
     },
     {
@@ -3467,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "frostyard"
     },
     {
@@ -3482,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 61,
       "user": "egoist"
     },
     {
@@ -3497,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "Bornholm"
     },
     {
@@ -3527,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196074148?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 47,
       "user": "Slaker19"
     },
     {
@@ -3542,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4792,
+      "stars": 4916,
       "user": "KKKKhazix"
     },
     {
@@ -3557,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 2019,
+      "stars": 2043,
       "user": "dzhng"
     },
     {
@@ -3572,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 1027,
       "user": "CopilotKit"
     },
     {
@@ -3587,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 682,
       "user": "openai"
     },
     {
@@ -3602,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 490,
       "user": "AgentSystemLabs"
     },
     {
@@ -3617,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 583,
       "user": "chasmlol"
     },
     {
@@ -3632,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 292,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3647,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 292,
       "user": "alpcanaydin"
     },
     {
@@ -3662,23 +3540,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 244,
       "user": "openOMSI-Project"
     },
     {
-      "title": "corvofeng/atv-core - GitHub Repository",
-      "url": "https://github.com/corvofeng/atv-core",
-      "published_at": "2026-09-26T09:41:21Z",
-      "description": "Trending GitHub Repository",
+      "title": "luxine/CalcKernel - CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
+      "url": "https://github.com/luxine/CalcKernel",
+      "published_at": "2026-09-27T14:59:35Z",
+      "description": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12025071?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/105245584?v=4",
       "source": "GitHub",
-      "stars": 219,
-      "user": "corvofeng"
+      "stars": 227,
+      "user": "luxine"
     },
     {
       "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
@@ -3691,6 +3569,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mort"
+    },
+    {
+      "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
+      "url": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
+      "published_at": "2026-10-02T06:13:49.000Z",
+      "description": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that",
+      "tags": [
+        "Next.js",
+        "shadcn",
+        "charts",
+        "React",
+        "data visualization tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ash"
     },
     {
       "title": "Build and Publish a Full-Stack Mobile App with AI",
