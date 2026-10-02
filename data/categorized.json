@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
-      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
-      "published_at": "2026-10-02T12:19:36Z",
-      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
-      "tags": [
-        "ai",
-        "devops",
-        "docker",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
       "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
       "published_at": "2026-10-02T16:59:51Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
+      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
+      "published_at": "2026-10-02T12:19:36Z",
+      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
+      "tags": [
+        "ai",
+        "devops",
+        "docker",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
@@ -88,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "A wine cellar that remembers what you used to believe",
+      "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
+      "published_at": "2026-09-30T22:49:21Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...",
+      "tags": [
+        "sanitychallenge",
+        "devchallenge",
+        "ai",
+        "sanity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n2dqcxgghv78nz0rtoq.png",
+      "source": "Dev.to",
+      "user": "Ken W Alger"
     },
     {
       "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
@@ -170,6 +185,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
+      "published_at": "2026-09-30T01:25:29Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "sanity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
     },
     {
       "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
@@ -320,6 +350,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
+      "url": "https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf",
+      "published_at": "2026-09-27T13:04:40Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange.    I started...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "ai",
+        "sanity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2u14p7nbbw94iduds9q.png",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
     },
     {
       "title": "What One Rust Client Can Reach Across Seven Iceberg Catalogs",
@@ -483,36 +528,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd7k73sbfr636suf6yyyx.png",
       "source": "Dev.to",
       "user": "Jessica Doering"
-    },
-    {
-      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
-      "published_at": "2026-09-22T16:59:06Z",
-      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
-      "tags": [
-        "ai",
-        "opensource",
-        "mcp",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
-      "source": "Dev.to",
-      "user": "Uri Shmueli"
-    },
-    {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -694,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 956,
       "user": "edenfunf"
     },
     {
@@ -709,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 838,
       "user": "lemomo-ai"
     },
     {
@@ -724,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "moguzbulbul"
     },
     {
@@ -739,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2464,
       "user": "feder-cr"
     },
     {
@@ -754,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1319,
       "user": "firelex"
     },
     {
@@ -769,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1175,
       "user": "nanaism"
     },
     {
@@ -784,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4950,
+      "stars": 4956,
       "user": "KKKKhazix"
     },
     {
@@ -799,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1428,
       "user": "CopilotKit"
     },
     {
@@ -829,33 +844,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "alpcanaydin"
     },
     {
-      "title": "IANA's email about why example.com changed",
-      "url": "https://www.oliverdunk.com/2026/09/30/iana-reply",
-      "published_at": "2026-10-01T03:47:50.120-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
+      "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
+      "published_at": "2026-10-02T20:12:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
-        "networking",
-        "web"
+        "javascript",
+        "async-await",
+        "abortcontroller",
+        "r-promises"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "videah"
-    },
-    {
-      "title": "Reducing the cognitive load of AI changes",
-      "url": "https://amoffat.github.io/blog/cognitive-load.html",
-      "published_at": "2026-10-01T07:57:19.033-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "amoffat"
+      "source": "StackOverflow",
+      "user": "Hassan"
     },
     {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
@@ -871,6 +876,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dumbass"
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "published_at": "2026-10-02T21:09:14.000Z",
+      "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "tags": [
+        "AI",
+        "In Brief",
+        "Sean Parker",
+        "Stability AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
@@ -994,21 +1014,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "published_at": "2026-10-02T14:30:00.000Z",
-      "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "tags": [
-        "AI",
-        "Startups",
-        "clay",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
@@ -1163,21 +1168,6 @@
       "user": "Ryan Carniato"
     },
     {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1309,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 956,
       "user": "edenfunf"
     },
     {
@@ -1324,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 838,
       "user": "lemomo-ai"
     },
     {
@@ -1339,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 473,
       "user": "xikhar"
     },
     {
@@ -1354,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "moguzbulbul"
     },
     {
@@ -1384,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4950,
+      "stars": 4956,
       "user": "KKKKhazix"
     },
     {
@@ -1399,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 2054,
+      "stars": 2064,
       "user": "dzhng"
     },
     {
@@ -1414,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1428,
       "user": "CopilotKit"
     },
     {
@@ -1444,14 +1434,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 533,
       "user": "AgentSystemLabs"
+    },
+    {
+      "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
+      "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
+      "published_at": "2026-10-02T20:12:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "async-await",
+        "abortcontroller",
+        "r-promises"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hassan"
     },
     {
       "title": "All of the extension's IndexedDB data has been lost",
       "url": "https://stackoverflow.com/questions/80007513/all-of-the-extensions-indexeddb-data-has-been-lost",
       "published_at": "2026-10-02T14:15:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "google-chrome-extension",
@@ -1505,20 +1510,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "spotload"
-    },
-    {
-      "title": "How to fix an issue with random images not showing",
-      "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
-      "published_at": "2026-09-27T16:06:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "image",
-        "random"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aurora Lane"
     },
     {
       "title": "React form doesn't submit when pressing Enter in an input field",
@@ -1894,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2464,
       "user": "feder-cr"
     },
     {
@@ -1909,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1979,
+      "stars": 2087,
       "user": "rehan-remade"
     },
     {
@@ -1924,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1319,
       "user": "firelex"
     },
     {
@@ -1939,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1319,
       "user": "feitangyuan"
     },
     {
@@ -1954,21 +1945,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1175,
       "user": "nanaism"
-    },
-    {
-      "title": "How can I improve my programming logic and become able to build Python/Django projects independently?",
-      "url": "https://stackoverflow.com/questions/80007556/how-can-i-improve-my-programming-logic-and-become-able-to-build-python-django-pr",
-      "published_at": "2026-10-02T17:59:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "django"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhagyesh Nayak"
     },
     {
       "title": "Type hints warning - Expected type 'LoaderProtocol | None', got 'PatchedLoader' instead",
@@ -2088,6 +2066,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SteinGate"
+    },
+    {
+      "title": "How to properly update ScrollAreaWidget contents via signals in PySide6?",
+      "url": "https://stackoverflow.com/questions/80007352/how-to-properly-update-scrollareawidget-contents-via-signals-in-pyside6",
+      "published_at": "2026-10-01T20:44:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alias"
     }
   ],
   "DevOps": [
@@ -2367,7 +2359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 65,
       "user": "egoist"
     },
     {
@@ -2809,21 +2801,6 @@
       "user": "xbill"
     },
     {
-      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
-      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-      "published_at": "2026-09-16T10:15:52Z",
-      "description": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
-      "tags": [
-        "raspberrypi",
-        "gemma",
-        "gemini",
-        "robotics"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbebechien.github.io%2Fcozy-corner-future%2Fimages%2Fhow-we-built-a-desktop-companion-robot.png",
-      "source": "Dev.to",
-      "user": "bebechien"
-    },
-    {
       "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
       "url": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
       "published_at": "2026-10-02T11:51:03.000Z",
@@ -2879,7 +2856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "alpcanaydin"
     }
   ],
@@ -3017,6 +2994,19 @@
       "user": "ewenjo"
     },
     {
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "published_at": "2026-10-02T15:10:26.574-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "mac",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "videah"
+    },
+    {
       "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "published_at": "2026-10-02T18:11:27.000Z",
@@ -3095,21 +3085,6 @@
       "user": "xbill"
     },
     {
-      "title": "The missing layer in AI tooling: sharing what your assistant already knows",
-      "url": "https://dev.to/uri_shmueli_a403e7acc04a8/the-missing-layer-in-ai-tooling-sharing-what-your-assistant-already-knows-1nch",
-      "published_at": "2026-09-22T16:59:06Z",
-      "description": "It took my AI months to learn how I think, code, and ship. When a teammate joined the project, their...",
-      "tags": [
-        "ai",
-        "opensource",
-        "mcp",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fur36t7djcx2z1wim4bd8.png",
-      "source": "Dev.to",
-      "user": "Uri Shmueli"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3157,7 +3132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 956,
       "user": "edenfunf"
     },
     {
@@ -3172,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 838,
       "user": "lemomo-ai"
     },
     {
@@ -3187,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 473,
       "user": "xikhar"
     },
     {
@@ -3202,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "moguzbulbul"
     },
     {
@@ -3232,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2464,
       "user": "feder-cr"
     },
     {
@@ -3247,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1979,
+      "stars": 2087,
       "user": "rehan-remade"
     },
     {
@@ -3262,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1319,
       "user": "firelex"
     },
     {
@@ -3277,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1319,
       "user": "feitangyuan"
     },
     {
@@ -3292,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1175,
       "user": "nanaism"
     },
     {
@@ -3307,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "frostyard"
     },
     {
@@ -3322,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 65,
       "user": "egoist"
     },
     {
@@ -3337,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "Bornholm"
     },
     {
@@ -3367,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196074148?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 49,
       "user": "Slaker19"
     },
     {
@@ -3382,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4950,
+      "stars": 4956,
       "user": "KKKKhazix"
     },
     {
@@ -3397,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 2054,
+      "stars": 2064,
       "user": "dzhng"
     },
     {
@@ -3412,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1428,
       "user": "CopilotKit"
     },
     {
@@ -3442,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 533,
       "user": "AgentSystemLabs"
     },
     {
@@ -3457,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 614,
       "user": "chasmlol"
     },
     {
@@ -3472,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "alpcanaydin"
     },
     {
@@ -3487,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 299,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3502,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 276,
       "user": "openOMSI-Project"
     },
     {
@@ -3517,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105245584?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 262,
       "user": "luxine"
     },
     {
