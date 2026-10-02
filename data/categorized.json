@@ -31,21 +31,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
-      "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
-      "published_at": "2026-09-30T23:21:18Z",
-      "description": "Hacktoberfest officially kicks off October 1st! To celebrate, we are hosting an official launch...",
-      "tags": [
-        "hacktoberfest",
-        "hf26challenge",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopq9qf6or1ti44csuehz.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
       "published_at": "2026-09-30T17:33:22Z",
@@ -114,6 +99,21 @@
       "user": "Praveen Rajasekar"
     },
     {
+      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
+      "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
+      "published_at": "2026-09-30T23:21:18Z",
+      "description": "Hacktoberfest officially kicks off October 1st! To celebrate, we are hosting an official launch...",
+      "tags": [
+        "hacktoberfest",
+        "hf26challenge",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopq9qf6or1ti44csuehz.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
       "published_at": "2026-09-22T17:48:24Z",
@@ -125,21 +125,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
-    },
-    {
-      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
-      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
-      "published_at": "2026-09-28T22:22:04Z",
-      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
-      "tags": [
-        "voiceai",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
-      "source": "Dev.to",
-      "user": "Annie Cusack"
     },
     {
       "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
@@ -217,6 +202,21 @@
       "user": "Mika Flowers"
     },
     {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
+      "published_at": "2026-09-28T22:22:04Z",
+      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "tags": [
+        "voiceai",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
+      "source": "Dev.to",
+      "user": "Annie Cusack"
+    },
+    {
       "title": "An introverted dev in an extroverted world",
       "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04",
       "published_at": "2026-09-23T12:02:12Z",
@@ -230,21 +230,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
       "source": "Dev.to",
       "user": "Ikrame Ibn Hayoun"
-    },
-    {
-      "title": "I Built a Better Codex Pet Than OpenAI Did",
-      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
-      "published_at": "2026-09-26T11:16:56Z",
-      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
-      "tags": [
-        "opensource",
-        "python",
-        "linux",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
     },
     {
       "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
@@ -738,7 +723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 787,
       "user": "lemomo-ai"
     },
     {
@@ -753,14 +738,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 745,
       "user": "edenfunf"
     },
     {
-      "title": "Edwardxlai/easyread - GitHub Repository",
+      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "url": "https://github.com/Edwardxlai/easyread",
       "published_at": "2026-09-30T12:52:24Z",
-      "description": "Trending GitHub Repository",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "tags": [
         "javascript",
         "github",
@@ -768,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 547,
       "user": "Edwardxlai"
     },
     {
@@ -783,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 377,
       "user": "moguzbulbul"
     },
     {
@@ -798,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2385,
+      "stars": 2407,
       "user": "feder-cr"
     },
     {
@@ -813,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1287,
       "user": "firelex"
     },
     {
@@ -828,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1066,
       "user": "nanaism"
     },
     {
@@ -843,8 +828,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4664,
+      "stars": 4792,
       "user": "KKKKhazix"
+    },
+    {
+      "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "published_at": "2026-09-29T17:13:58Z",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
+      "source": "GitHub",
+      "stars": 676,
+      "user": "CopilotKit"
     },
     {
       "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
@@ -858,7 +858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 654,
       "user": "openai"
     },
     {
@@ -873,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 267,
       "user": "alpcanaydin"
     },
     {
@@ -925,19 +925,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "carlana"
-    },
-    {
-      "title": "WSL containers are now generally available",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
-      "published_at": "2026-10-01T06:43:16.865-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "virtualization",
-        "windows"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "abareplace"
     },
     {
       "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
@@ -1371,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 787,
       "user": "lemomo-ai"
     },
     {
@@ -1386,14 +1373,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 745,
       "user": "edenfunf"
     },
     {
-      "title": "Edwardxlai/easyread - GitHub Repository",
+      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "url": "https://github.com/Edwardxlai/easyread",
       "published_at": "2026-09-30T12:52:24Z",
-      "description": "Trending GitHub Repository",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "tags": [
         "javascript",
         "github",
@@ -1401,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 547,
       "user": "Edwardxlai"
     },
     {
@@ -1416,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 461,
       "user": "xikhar"
     },
     {
@@ -1431,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 377,
       "user": "moguzbulbul"
     },
     {
@@ -1446,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4664,
+      "stars": 4792,
       "user": "KKKKhazix"
     },
     {
@@ -1461,8 +1448,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 2002,
+      "stars": 2019,
       "user": "dzhng"
+    },
+    {
+      "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "published_at": "2026-09-29T17:13:58Z",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
+      "source": "GitHub",
+      "stars": 676,
+      "user": "CopilotKit"
     },
     {
       "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
@@ -1476,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 654,
       "user": "openai"
     },
     {
@@ -1491,29 +1493,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 485,
       "user": "AgentSystemLabs"
-    },
-    {
-      "title": "fsiaonma/elpis - elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "published_at": "2026-09-29T02:19:22Z",
-      "description": "elpis",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
-      "source": "GitHub",
-      "stars": 470,
-      "user": "fsiaonma"
     },
     {
       "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
       "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
       "published_at": "2026-10-01T11:29:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score -9",
+      "description": "Stack Overflow question · 2 answers · score -8",
       "tags": [
         "javascript",
         "regex",
@@ -1540,6 +1527,21 @@
       "user": "MELKIO"
     },
     {
+      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
+      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
+      "published_at": "2026-09-30T10:33:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "media-player",
+        "browser-cache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cineby HD App"
+    },
+    {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
@@ -1554,21 +1556,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
-    },
-    {
-      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
-      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
-      "published_at": "2026-09-30T10:33:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "media-player",
-        "browser-cache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cineby HD App"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -1735,21 +1722,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ftwo-iceberg-clients-cost%2Fcover.edde6110.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I Built a Better Codex Pet Than OpenAI Did",
-      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
-      "published_at": "2026-09-26T11:16:56Z",
-      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
-      "tags": [
-        "opensource",
-        "python",
-        "linux",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
     },
     {
       "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
@@ -1928,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2385,
+      "stars": 2407,
       "user": "feder-cr"
     },
     {
@@ -1943,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1688,
       "user": "rehan-remade"
     },
     {
@@ -1958,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1287,
       "user": "firelex"
     },
     {
@@ -1973,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1185,
       "user": "feitangyuan"
     },
     {
@@ -1988,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1066,
       "user": "nanaism"
     },
     {
@@ -2006,6 +1978,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
+    },
+    {
+      "title": "Why and how does Python treat __new__ differently when called from an instance?",
+      "url": "https://stackoverflow.com/questions/80007399/why-and-how-does-python-treat-new-differently-when-called-from-an-instance",
+      "published_at": "2026-10-02T04:09:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Train-Case"
     },
     {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
@@ -2026,7 +2010,7 @@
       "title": "Python Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
       "url": "https://stackoverflow.com/questions/80007351/python-raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying",
       "published_at": "2026-10-01T20:40:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "raylib"
@@ -2036,24 +2020,10 @@
       "user": "King Of Noobs"
     },
     {
-      "title": "How to properly update ScrollAreaWidget contents via signals in PySide6?",
-      "url": "https://stackoverflow.com/questions/80007352/how-to-properly-update-scrollareawidget-contents-via-signals-in-pyside6",
-      "published_at": "2026-10-01T20:44:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-3.x",
-        "pyside6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alias"
-    },
-    {
       "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
       "url": "https://stackoverflow.com/questions/80007239/why-does-my-pandas-groupby-suddenly-use-12gb-ram-and-crash-after-1m-rows-it-wor",
       "published_at": "2026-10-01T11:28:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "pandas",
@@ -2062,6 +2032,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sabri Alyafei"
+    },
+    {
+      "title": "How to properly update ScrollAreaWidget contents via signals in PySide6?",
+      "url": "https://stackoverflow.com/questions/80007352/how-to-properly-update-scrollareawidget-contents-via-signals-in-pyside6",
+      "published_at": "2026-10-01T20:44:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alias"
     },
     {
       "title": "Python multiprocessing (pool, imap) performance degradation on Linux host",
@@ -2095,6 +2079,21 @@
       "user": "Ramita Commi"
     },
     {
+      "title": "Asyncio code causing infinite loop in GPIO project",
+      "url": "https://stackoverflow.com/questions/80007085/asyncio-code-causing-infinite-loop-in-gpio-project",
+      "published_at": "2026-09-30T19:23:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "raspberry-pi",
+        "python-asyncio",
+        "gpio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "roscoe_turner"
+    },
+    {
       "title": "How to avoid invalid-method-override?",
       "url": "https://stackoverflow.com/questions/80007186/how-to-avoid-invalid-method-override",
       "published_at": "2026-10-01T07:54:25.000Z",
@@ -2108,22 +2107,10 @@
       "user": "SteinGate"
     },
     {
-      "title": "How can I get profile_agent_id and posts_agent_id for an Instagram profile scraper?",
-      "url": "https://stackoverflow.com/questions/80007220/how-can-i-get-profile-agent-id-and-posts-agent-id-for-an-instagram-profile-scrap",
-      "published_at": "2026-10-01T10:20:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "panthagani srikanth"
-    },
-    {
       "title": "Frappe v16.35.0: OAuth password grant returns invalid_grant while /api/method/login accepts the same credentials (works on v16.33.1)",
       "url": "https://stackoverflow.com/questions/80007237/frappe-v16-35-0-oauth-password-grant-returns-invalid-grant-while-api-method-lo",
       "published_at": "2026-10-01T11:25:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "authentication",
@@ -2134,20 +2121,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jawad Ahmad"
-    },
-    {
-      "title": "matplot patchcollection(s) moving and rotating, all together and each seprately, what is best?",
-      "url": "https://stackoverflow.com/questions/80007211/matplot-patchcollections-moving-and-rotating-all-together-and-each-seprately",
-      "published_at": "2026-10-01T09:45:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "best-practices",
-        "python",
-        "matplotlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cbenagaraj"
     }
   ],
   "DevOps": [
@@ -2327,7 +2300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 49,
       "user": "devilcoolyue"
     },
     {
@@ -2445,8 +2418,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 54,
       "user": "egoist"
+    },
+    {
+      "title": "The death of web development education",
+      "url": "https://molily.de/web-dev-education/",
+      "published_at": "2026-10-01T12:14:23.255-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "education",
+        "vibecoding",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "aarroyoc"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -2714,21 +2701,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
-      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
-      "published_at": "2026-09-28T22:22:04Z",
-      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
-      "tags": [
-        "voiceai",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
-      "source": "Dev.to",
-      "user": "Annie Cusack"
-    },
-    {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
       "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
       "published_at": "2026-09-25T11:50:46Z",
@@ -2742,6 +2714,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
+      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
+      "published_at": "2026-09-28T22:22:04Z",
+      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "tags": [
+        "voiceai",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
+      "source": "Dev.to",
+      "user": "Annie Cusack"
     },
     {
       "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
@@ -2933,7 +2920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 267,
       "user": "alpcanaydin"
     },
     {
@@ -3133,7 +3120,7 @@
       "title": "Frappe v16.35.0: OAuth password grant returns invalid_grant while /api/method/login accepts the same credentials (works on v16.33.1)",
       "url": "https://stackoverflow.com/questions/80007237/frappe-v16-35-0-oauth-password-grant-returns-invalid-grant-while-api-method-lo",
       "published_at": "2026-10-01T11:25:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "authentication",
@@ -3330,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 787,
       "user": "lemomo-ai"
     },
     {
@@ -3345,14 +3332,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 745,
       "user": "edenfunf"
     },
     {
-      "title": "Edwardxlai/easyread - GitHub Repository",
+      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "url": "https://github.com/Edwardxlai/easyread",
       "published_at": "2026-09-30T12:52:24Z",
-      "description": "Trending GitHub Repository",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "tags": [
         "javascript",
         "github",
@@ -3360,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 547,
       "user": "Edwardxlai"
     },
     {
@@ -3375,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 461,
       "user": "xikhar"
     },
     {
@@ -3390,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 377,
       "user": "moguzbulbul"
     },
     {
@@ -3405,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2385,
+      "stars": 2407,
       "user": "feder-cr"
     },
     {
@@ -3420,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1688,
       "user": "rehan-remade"
     },
     {
@@ -3435,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1287,
       "user": "firelex"
     },
     {
@@ -3450,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1185,
       "user": "feitangyuan"
     },
     {
@@ -3465,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1066,
       "user": "nanaism"
     },
     {
@@ -3480,8 +3467,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "frostyard"
+    },
+    {
+      "title": "egoist/mygo - Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "url": "https://github.com/egoist/mygo",
+      "published_at": "2026-09-26T15:21:37Z",
+      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "egoist"
     },
     {
       "title": "Bornholm/indecis - Small decision models in Go",
@@ -3499,19 +3501,19 @@
       "user": "Bornholm"
     },
     {
-      "title": "egoist/mygo - Desktop apps with Go and a web frontend, on the system webview or CEF",
-      "url": "https://github.com/egoist/mygo",
-      "published_at": "2026-09-26T15:21:37Z",
-      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+      "url": "https://github.com/devilcoolyue/agentbox",
+      "published_at": "2026-09-28T03:32:41Z",
+      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 47,
-      "user": "egoist"
+      "stars": 49,
+      "user": "devilcoolyue"
     },
     {
       "title": "Slaker19/webkvm - Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
@@ -3529,21 +3531,6 @@
       "user": "Slaker19"
     },
     {
-      "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
-      "url": "https://github.com/devilcoolyue/agentbox",
-      "published_at": "2026-09-28T03:32:41Z",
-      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
-      "source": "GitHub",
-      "stars": 44,
-      "user": "devilcoolyue"
-    },
-    {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "published_at": "2026-09-28T23:40:05Z",
@@ -3555,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4664,
+      "stars": 4792,
       "user": "KKKKhazix"
     },
     {
@@ -3570,8 +3557,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 2002,
+      "stars": 2019,
       "user": "dzhng"
+    },
+    {
+      "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "published_at": "2026-09-29T17:13:58Z",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
+      "source": "GitHub",
+      "stars": 676,
+      "user": "CopilotKit"
     },
     {
       "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
@@ -3585,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 654,
       "user": "openai"
     },
     {
@@ -3600,23 +3602,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279078077?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 485,
       "user": "AgentSystemLabs"
-    },
-    {
-      "title": "fsiaonma/elpis - elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "published_at": "2026-09-29T02:19:22Z",
-      "description": "elpis",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
-      "source": "GitHub",
-      "stars": 470,
-      "user": "fsiaonma"
     },
     {
       "title": "chasmlol/2010-rust-rewrite-mashup - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
@@ -3630,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 555,
       "user": "chasmlol"
     },
     {
@@ -3645,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 283,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3660,8 +3647,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 267,
       "user": "alpcanaydin"
+    },
+    {
+      "title": "openOMSI-Project/openOMSI - OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
+      "url": "https://github.com/openOMSI-Project/openOMSI",
+      "published_at": "2026-09-27T22:21:06Z",
+      "description": "OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
+      "source": "GitHub",
+      "stars": 221,
+      "user": "openOMSI-Project"
     },
     {
       "title": "corvofeng/atv-core - GitHub Repository",
@@ -3677,21 +3679,6 @@
       "source": "GitHub",
       "stars": 219,
       "user": "corvofeng"
-    },
-    {
-      "title": "openOMSI-Project/openOMSI - OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
-      "url": "https://github.com/openOMSI-Project/openOMSI",
-      "published_at": "2026-09-27T22:21:06Z",
-      "description": "OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
-      "source": "GitHub",
-      "stars": 212,
-      "user": "openOMSI-Project"
     },
     {
       "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
