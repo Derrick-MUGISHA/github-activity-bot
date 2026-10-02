@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 768,
       "user": "lemomo-ai"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "edenfunf"
     },
     {
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 495,
       "user": "Edwardxlai"
     },
     {
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "moguzbulbul"
     },
     {
@@ -798,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2293,
+      "stars": 2385,
       "user": "feder-cr"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1266,
       "user": "firelex"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 981,
       "user": "nanaism"
     },
     {
@@ -843,23 +843,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4620,
+      "stars": 4664,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "url": "https://github.com/supermemoryai/company-brain",
-      "published_at": "2026-09-25T22:48:14Z",
-      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
-      "source": "GitHub",
-      "stars": 888,
-      "user": "supermemoryai"
     },
     {
       "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
@@ -873,7 +858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 622,
       "user": "openai"
     },
     {
@@ -888,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 252,
       "user": "alpcanaydin"
     },
     {
@@ -934,12 +919,25 @@
       "published_at": "2026-10-01T07:16:51.385-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
-        "security"
+        "security",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "carlana"
+    },
+    {
+      "title": "WSL containers are now generally available",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
+      "published_at": "2026-10-01T06:43:16.865-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "virtualization",
+        "windows"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "abareplace"
     },
     {
       "title": "outis: Fight AI spam by generating and sending a fake \"user unknown\" bounce emails",
@@ -956,23 +954,10 @@
       "user": "daniele"
     },
     {
-      "title": "WSL containers are now generally available",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
-      "published_at": "2026-10-01T06:43:16.865-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "virtualization",
-        "windows"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "abareplace"
-    },
-    {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
       "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
       "published_at": "2026-10-01T18:47:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "async-await",
@@ -984,6 +969,19 @@
       "user": "dumbass"
     },
     {
+      "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published_at": "2026-10-02T00:03:23.000Z",
+      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "tags": [
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
       "title": "Kevin Mandia&#8217;s new &#8216;agent swarm&#8217; security startup Armadin raises $255.5M at $2.5B valuation",
       "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
       "published_at": "2026-10-01T21:55:22.000Z",
@@ -992,7 +990,8 @@
         "Fundraising",
         "Security",
         "Startups",
-        "TC"
+        "armadin",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1072,19 +1071,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "published_at": "2026-10-01T16:49:22.000Z",
-      "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "tags": [
-        "AI",
-        "AWS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "Build and Publish a Full-Stack Mobile App with AI",
@@ -1385,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 768,
       "user": "lemomo-ai"
     },
     {
@@ -1400,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "edenfunf"
     },
     {
@@ -1415,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 495,
       "user": "Edwardxlai"
     },
     {
@@ -1445,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "moguzbulbul"
     },
     {
@@ -1460,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4620,
+      "stars": 4664,
       "user": "KKKKhazix"
     },
     {
@@ -1475,23 +1461,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1996,
+      "stars": 2002,
       "user": "dzhng"
-    },
-    {
-      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "url": "https://github.com/supermemoryai/company-brain",
-      "published_at": "2026-09-25T22:48:14Z",
-      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
-      "source": "GitHub",
-      "stars": 888,
-      "user": "supermemoryai"
     },
     {
       "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
@@ -1505,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 622,
       "user": "openai"
     },
     {
@@ -1524,10 +1495,25 @@
       "user": "AgentSystemLabs"
     },
     {
+      "title": "fsiaonma/elpis - elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "published_at": "2026-09-29T02:19:22Z",
+      "description": "elpis",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
+      "source": "GitHub",
+      "stars": 470,
+      "user": "fsiaonma"
+    },
+    {
       "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
       "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
       "published_at": "2026-10-01T11:29:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score -10",
+      "description": "Stack Overflow question · 2 answers · score -9",
       "tags": [
         "javascript",
         "regex",
@@ -1554,21 +1540,6 @@
       "user": "MELKIO"
     },
     {
-      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
-      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
-      "published_at": "2026-09-30T10:33:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-chrome",
-        "media-player",
-        "browser-cache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cineby HD App"
-    },
-    {
       "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
       "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
       "published_at": "2026-09-30T09:28:39.000Z",
@@ -1583,6 +1554,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
+    },
+    {
+      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
+      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
+      "published_at": "2026-09-30T10:33:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "media-player",
+        "browser-cache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cineby HD App"
     },
     {
       "title": "How to animate multiple lines of marquee text separately in JavaScript?",
@@ -1942,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2293,
+      "stars": 2385,
       "user": "feder-cr"
     },
     {
@@ -1957,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1511,
+      "stars": 1576,
       "user": "rehan-remade"
     },
     {
@@ -1972,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1266,
       "user": "firelex"
     },
     {
@@ -1987,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1142,
       "user": "feitangyuan"
     },
     {
@@ -2002,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 981,
       "user": "nanaism"
     },
     {
@@ -2020,6 +2006,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "hetal Vadaliya"
+    },
+    {
+      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
+      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
+      "published_at": "2026-10-01T18:47:08.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "async-await",
+        "return",
+        "generator"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dumbass"
     },
     {
       "title": "Python Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
@@ -2049,19 +2050,18 @@
       "user": "Alias"
     },
     {
-      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
-      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
-      "published_at": "2026-10-01T18:47:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
+      "url": "https://stackoverflow.com/questions/80007239/why-does-my-pandas-groupby-suddenly-use-12gb-ram-and-crash-after-1m-rows-it-wor",
+      "published_at": "2026-10-01T11:28:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
-        "async-await",
-        "return",
-        "generator"
+        "pandas",
+        "memory-management"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "dumbass"
+      "user": "Sabri Alyafei"
     },
     {
       "title": "Python multiprocessing (pool, imap) performance degradation on Linux host",
@@ -2093,20 +2093,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ramita Commi"
-    },
-    {
-      "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
-      "url": "https://stackoverflow.com/questions/80007239/why-does-my-pandas-groupby-suddenly-use-12gb-ram-and-crash-after-1m-rows-it-wor",
-      "published_at": "2026-10-01T11:28:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "pandas",
-        "memory-management"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sabri Alyafei"
     },
     {
       "title": "How to avoid invalid-method-override?",
@@ -2330,6 +2316,21 @@
       "user": "jknupp"
     },
     {
+      "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+      "url": "https://github.com/devilcoolyue/agentbox",
+      "published_at": "2026-09-28T03:32:41Z",
+      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
+      "source": "GitHub",
+      "stars": 44,
+      "user": "devilcoolyue"
+    },
+    {
       "title": "Build and Publish a Full-Stack Mobile App with AI",
       "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
       "published_at": "2026-10-01T15:13:37.000Z",
@@ -2444,7 +2445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 47,
       "user": "egoist"
     },
     {
@@ -2899,24 +2900,12 @@
       "description": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
       "tags": [
         "Transportation",
+        "gig economy",
         "Lyft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "published_at": "2026-10-01T16:49:22.000Z",
-      "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "tags": [
-        "AI",
-        "AWS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     }
   ],
   "Database": [
@@ -2944,7 +2933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 252,
       "user": "alpcanaydin"
     },
     {
@@ -3133,8 +3122,8 @@
       "published_at": "2026-10-01T07:16:51.385-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
-        "security"
+        "security",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -3165,7 +3154,8 @@
         "Fundraising",
         "Security",
         "Startups",
-        "TC"
+        "armadin",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3340,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97503247?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 768,
       "user": "lemomo-ai"
     },
     {
@@ -3355,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 689,
       "user": "edenfunf"
     },
     {
@@ -3370,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 495,
       "user": "Edwardxlai"
     },
     {
@@ -3400,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "moguzbulbul"
     },
     {
@@ -3415,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2293,
+      "stars": 2385,
       "user": "feder-cr"
     },
     {
@@ -3430,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 1511,
+      "stars": 1576,
       "user": "rehan-remade"
     },
     {
@@ -3445,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1266,
       "user": "firelex"
     },
     {
@@ -3460,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251547459?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1142,
       "user": "feitangyuan"
     },
     {
@@ -3475,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 981,
       "user": "nanaism"
     },
     {
@@ -3490,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234627017?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "frostyard"
     },
     {
@@ -3505,8 +3495,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 54,
       "user": "Bornholm"
+    },
+    {
+      "title": "egoist/mygo - Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "url": "https://github.com/egoist/mygo",
+      "published_at": "2026-09-26T15:21:37Z",
+      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "egoist"
     },
     {
       "title": "Slaker19/webkvm - Self-hosted web panel to manage a Linux virtualization host (KVM/QEMU & Incus)",
@@ -3524,34 +3529,19 @@
       "user": "Slaker19"
     },
     {
-      "title": "spumon1/SUCK_MY_ASTRA - LOLOLOLOLOLOLOLOLOL",
-      "url": "https://github.com/spumon1/SUCK_MY_ASTRA",
-      "published_at": "2026-09-25T01:13:53Z",
-      "description": "LOLOLOLOLOLOLOLOLOL",
+      "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+      "url": "https://github.com/devilcoolyue/agentbox",
+      "published_at": "2026-09-28T03:32:41Z",
+      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93527370?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 45,
-      "user": "spumon1"
-    },
-    {
-      "title": "egoist/mygo - Desktop apps with Go and a web frontend, on the system webview or CEF",
-      "url": "https://github.com/egoist/mygo",
-      "published_at": "2026-09-26T15:21:37Z",
-      "description": "Desktop apps with Go and a web frontend, on the system webview or CEF",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
-      "source": "GitHub",
-      "stars": 45,
-      "user": "egoist"
+      "stars": 44,
+      "user": "devilcoolyue"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -3565,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4620,
+      "stars": 4664,
       "user": "KKKKhazix"
     },
     {
@@ -3580,23 +3570,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1329503?v=4",
       "source": "GitHub",
-      "stars": 1996,
+      "stars": 2002,
       "user": "dzhng"
-    },
-    {
-      "title": "supermemoryai/company-brain - Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "url": "https://github.com/supermemoryai/company-brain",
-      "published_at": "2026-09-25T22:48:14Z",
-      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171979587?v=4",
-      "source": "GitHub",
-      "stars": 888,
-      "user": "supermemoryai"
     },
     {
       "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
@@ -3610,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 622,
       "user": "openai"
     },
     {
@@ -3629,6 +3604,21 @@
       "user": "AgentSystemLabs"
     },
     {
+      "title": "fsiaonma/elpis - elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "published_at": "2026-09-29T02:19:22Z",
+      "description": "elpis",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
+      "source": "GitHub",
+      "stars": 470,
+      "user": "fsiaonma"
+    },
+    {
       "title": "chasmlol/2010-rust-rewrite-mashup - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
       "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
       "published_at": "2026-09-27T23:47:01Z",
@@ -3640,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 527,
       "user": "chasmlol"
     },
     {
@@ -3655,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 278,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3670,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 252,
       "user": "alpcanaydin"
     },
     {
@@ -3685,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12025071?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 219,
       "user": "corvofeng"
     },
     {
@@ -3700,7 +3690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 212,
       "user": "openOMSI-Project"
     },
     {
