@@ -67312,3 +67312,1349 @@ Claude Design skill: animated before → after UX redesign, explained step by st
 
 ---
 
+
+
+## 📰 DevTech News — 2026-10-04 0:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (80 articles)
+
+#### 1. [The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model](https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e)
+📅 Thu, 01 Oct 2026 17:08:03 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5vlw3uobmy1epe0lwbge.png)
+
+Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, and how Socratic questioning plus topological scars prune doomed search trees at depth d=1.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `machinelearning`
+
+---
+
+#### 2. [Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4)
+📅 Wed, 30 Sep 2026 17:33:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg)
+
+Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `vllm`
+
+---
+
+#### 3. [Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second](https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd)
+📅 Fri, 02 Oct 2026 17:59:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg)
+
+Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.
+
+🏷️ Tags: `gemma`, `googlecloud`, `machinelearning`, `llm`
+
+---
+
+#### 4. [Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't](https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii)
+📅 Fri, 02 Oct 2026 16:59:51 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg)
+
+Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.
+
+🏷️ Tags: `gemma`, `googlecloud`, `machinelearning`, `llm`
+
+---
+
+#### 5. [Gemini 4 Argon
+
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/](https://dev.to/ben/gemini-4-argon-5g2l)
+📅 Wed, 30 Sep 2026 20:31:35 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Gemini 4 Argon
+
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png)
+
+...
+
+🏷️ Tags: `ai`, `gemini`, `google`
+
+---
+
+#### 6. [Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o)
+📅 Fri, 02 Oct 2026 12:19:36 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg)
+
+How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.
+
+🏷️ Tags: `ai`, `devops`, `docker`, `opensource`
+
+---
+
+#### 7. [Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch)
+📅 Wed, 30 Sep 2026 13:00:26 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b-w4a16%2Farticle%2Fdevto-t4-emb4-art.c42232ae.jpg)
+
+Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them to int4 on the grid QAT trained them onto cuts model loading from 6.33 to 2.86 GiB, with every greedy test output token-identical, and raises vLLM's output throughput 11-37% over Google's own W4A16 export.
+
+🏷️ Tags: `gemma`, `vllm`, `cuda`, `machinelearning`
+
+---
+
+#### 8. [Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃](https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk)
+📅 Thu, 01 Oct 2026 16:19:06 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2wmhcfrymahbrsjopzei.png)
+
+It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...
+
+🏷️ Tags: `hacktoberfest`, `opensource`, `ai`, `devchallenge`
+
+---
+
+#### 9. [Claude Sonnet 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h)
+📅 Mon, 28 Sep 2026 18:53:36 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Sonnet 5.5 is now available on Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png)
+
+Designed for coding and knowledge work, it helps you build features, and create clean work...
+
+---
+
+#### 10. [7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3)
+📅 Mon, 28 Sep 2026 22:17:28 GMT
+👤 By: Praveen Rajasekar | 📌 Source: Dev.to
+
+![7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png)
+
+Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...
+
+🏷️ Tags: `agents`, `sandbox`, `ai`
+
+---
+
+### 🏷️ JavaScript (40 articles)
+
+#### 1. [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
+📅 Wed, 23 Sep 2026 14:23:57 GMT
+👤 By: nyaomaru | 📌 Source: Dev.to
+
+![Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif)
+
+Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...
+
+🏷️ Tags: `typescript`, `javascript`, `webdev`, `opensource`
+
+---
+
+#### 2. [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd)
+📅 Wed, 23 Sep 2026 11:31:31 GMT
+👤 By: Mika Flowers | 📌 Source: Dev.to
+
+![I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg)
+
+DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...
+
+🏷️ Tags: `buildinpublic`, `webdev`, `nextjs`, `ai`
+
+---
+
+#### 3. [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)
+📅 Tue, 22 Sep 2026 16:43:06 GMT
+👤 By: Ryan Carniato | 📌 Source: Dev.to
+
+![The Grand Unifying Architecture of Frontend](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png)
+
+I used to joke that the history of frontend development could be retraced by following the argument...
+
+🏷️ Tags: `webdev`, `javascript`, `solidjs`, `architecture`
+
+---
+
+#### 4. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (33 articles)
+
+#### 1. [I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)](https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0)
+📅 Mon, 28 Sep 2026 06:25:14 GMT
+👤 By: Rishu | 📌 Source: Dev.to
+
+![I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg)
+
+Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...
+
+🏷️ Tags: `python`, `opensource`, `ai`, `beginners`
+
+---
+
+#### 2. [Two Iceberg Clients, One Protocol: Where the Time Goes](https://dev.to/gde/two-iceberg-clients-one-protocol-where-the-time-goes-4g88)
+📅 Fri, 25 Sep 2026 16:40:44 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Two Iceberg Clients, One Protocol: Where the Time Goes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ftwo-iceberg-clients-cost%2Fcover.edde6110.jpg)
+
+Step by step: timing the Rust and Python Iceberg REST clients on the same operations, on a local catalog and on BigLake and OneLake. Rust is 2x to 4x faster per call on the same machine, the two are even over the internet, and Python takes half a second longer to start on every catalog.
+
+🏷️ Tags: `rust`, `python`, `iceberg`, `performance`
+
+---
+
+#### 3. [I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.](https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac)
+📅 Thu, 24 Sep 2026 13:38:00 GMT
+👤 By: Ken W Alger | 📌 Source: Dev.to
+
+![I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7fbmudzx3podwa2jiz2l.png)
+
+There is an API. It will tell you things about your writing that the dashboard will not.  I have been...
+
+🏷️ Tags: `python`, `api`, `devjournal`, `datascience`
+
+---
+
+#### 4. [Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd)
+📅 Sat, 26 Sep 2026 11:10:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg)
+
+Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `mcp`
+
+---
+
+#### 5. [I Built a Better Codex Pet Than OpenAI Did](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib)
+📅 Sat, 26 Sep 2026 11:16:56 GMT
+👤 By: Mika Flowers | 📌 Source: Dev.to
+
+![I Built a Better Codex Pet Than OpenAI Did](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png)
+
+Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...
+
+🏷️ Tags: `opensource`, `python`, `linux`, `showdev`
+
+---
+
+#### 6. [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605)
+📅 Sun, 20 Sep 2026 20:30:58 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg)
+
+Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.
+
+🏷️ Tags: `mcp`, `iceberg`, `python`, `dataengineering`
+
+---
+
+#### 7. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (17 articles)
+
+#### 1. [Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o)
+📅 Fri, 02 Oct 2026 12:19:36 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg)
+
+How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.
+
+🏷️ Tags: `ai`, `devops`, `docker`, `opensource`
+
+---
+
+#### 2. [7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3)
+📅 Mon, 28 Sep 2026 22:17:28 GMT
+👤 By: Praveen Rajasekar | 📌 Source: Dev.to
+
+![7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png)
+
+Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...
+
+🏷️ Tags: `agents`, `sandbox`, `ai`
+
+---
+
+#### 3. [Deploying LiteLLM: An Open-Source AI Gateway](https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp)
+📅 Wed, 23 Sep 2026 19:19:19 GMT
+👤 By: Sanskriti Harmukh | 📌 Source: Dev.to
+
+![Deploying LiteLLM: An Open-Source AI Gateway](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png)
+
+LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...
+
+🏷️ Tags: `ai`, `llm`, `docker`, `postgres`
+
+---
+
+#### 4. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (12 articles)
+
+#### 1. [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
+📅 Wed, 23 Sep 2026 14:23:57 GMT
+👤 By: nyaomaru | 📌 Source: Dev.to
+
+![Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif)
+
+Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...
+
+🏷️ Tags: `typescript`, `javascript`, `webdev`, `opensource`
+
+---
+
+#### 2. [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)
+📅 Tue, 22 Sep 2026 16:43:06 GMT
+👤 By: Ryan Carniato | 📌 Source: Dev.to
+
+![The Grand Unifying Architecture of Frontend](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png)
+
+I used to joke that the history of frontend development could be retraced by following the argument...
+
+🏷️ Tags: `webdev`, `javascript`, `solidjs`, `architecture`
+
+---
+
+#### 3. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。](https://github.com/QingYunA/answer-me-with-html)
+📅 Fri, 02 Oct 2026 09:57:40 GMT
+👤 By: QingYunA | 📌 Source: GitHub
+
+![QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。](https://avatars.githubusercontent.com/u/41177312?v=4)
+
+Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 292
+
+---
+
+#### 5. [Lobsters Interview with Sjamaan](https://alexalejandre.com/interviews/peter-bex/)
+📅 Fri, 02 Oct 2026 22:01:27 GMT
+👤 By: veqq | 📌 Source: Lobste.rs
+
+Our dear @sjamaan ([website](https://www.more-magic.net)) is a CHICKEN scheme maintainer and professional Clojure developer. We got to know each other on IRC over a few months and discussed:
+- [CHICKEN](https://call-cc.org/) Scheme and its 6.0.0 release
+- Scheme's community and standardization process
+- Postgres, the horrors of MySQL and (default) SQLite
+- Clojure
+
+> My ongoing core contributions mainly focus on the numerical tower code, keeping the in-core copy of the irregex library up-to-date with the upstream version (of which I'm a co-maintainer), squashing bugs and the odd security fix. I enjoy deep diving into odd corners of a code base to get a better understanding and then improve any weirdnesses I find. - [His CHICKEN About](https://wiki.call-cc.org/users/peter-bex)
+
+-------
+
+
+### Beginnings
+
+**How'd you start computing?**
+
+I started computing when I got an old hand-me-down C64 which came with a "learn BASIC" book targeted at kids. Of course, I wanted to write my own computer games (which I never ended up doing). Later I got a real PC for my birthday and discovered my BASIC knowledge sort of transferred (with QBASIC in DOS).
+
+Later, I learned about C, which I used for many years until at uni there was a course which taught Lisp (Scheme, really). We started with The Little Lisper/Schemer, and then SICP. I had a "functional programming course" before that which I almost flunked because it just didn't make any sense (they used Concurrent Clean, because obviously teachers use their own language to teach regardless of its qualities - a common fault in academia). But the Little Schemer finally made it click. The teacher also showed how to implement objects using nothing but lambdas which I found awesome.
+
+I actually studied AI before all the LLM bullshit. I much preferred the cleverness of the classical AI algorithms like A* search and genetic algorithms, but I haven't really used them much in practice, only for my studies. I keep thinking I should use a GA for something, but no real use case so far.  But even back then it was clear that neural networks were the future, though I found them boring because it's just a bit of math (which I initially barely understood) and it's basically a black box.  I'm still grateful I studied AI because that's the reason I came into contact with Lisp.
+
+I might've looked into Lisp myself at some point (having been curious about it as one of the "foundational languages"), but I might not have had sufficient gumption to really dig in. After uni I got a job where they were using Rails in those somewhat early days (2006), so I learned Ruby as well. I liked learning Ruby and thought it was cool to see the power of Rails, but later got very frustrated with it because Rails really has strong opinions and my programming style didn't seem fully compatible with it.
+
+### CHICKEN & Scheme
+
+**Why CHICKEN?**
+
+After that course, I tried using Lisp for every personal project. I first started with Scheme48 but it wasn't very practical (though very elegant). I remember running into problems with the image not being big enough, running out of memory. I never really liked PLT Scheme (now Racket), coming into first contact with it through DrRacket, which felt very sluggish to me, though I do think DrRacket's a cool alternative view of what an IDE could do. For example, when you hover over a variable and it shows you a line pointing to the origin of that variable.
+
+CHICKEN was a practical and fast system, with a good community and acceptable license (I had quite a distaste for GPL at the time). CHICKEN is also one of two (as far as we know) implementations that use the Cheney on the MTA technique [explained here](https://wiki.call-cc.org/chicken-compilation-process). There were lots of rough edges, but I think wanting to address those is what enabled me to get so deep into the core. If everything is perfect, there's not much to do, really!
+
+So I started contributing to CHICKEN with some modest eggs ([CHICKEN packages](https://wiki.call-cc.org/eggs)) at first, and eventually the core system. I mostly learned about Lisp internals by doing, mucking around with the CHICKEN core and trying things. I read Queinnec's Lisp in Small Pieces, which deals with translation to C but leaves a *lot* undiscussed and distracts with OOP-heaviness. SICP has some good material. Then there's Appel's Compiling with Continuations, which is really short and to the point but still manages to be rather comprehensive; I love books like that.
+
+In general, I just enjoy hacking on the core, even if I don't have that much time to do so these days. I have to stress that I'm a slow learner. Building my understanding of CHICKEN was a process of many many years, and there are still parts of the system I'm not that familiar with (although I know my way around enough to get up to speed if needed).
+
+**What do those Lisp books lack?**
+
+Compiling with Continuations has only a brief section on the runtime system, so it doesn't go very deeply into e.g. garbage collection and data representation. Lisp in Small Pieces doesn't go into continuation passing style, IIRC. And its data representation isn't very optimized. I like to [blog](https://www.more-magic.net/archive.html) about cool techniques that are undiscussed nowadays. For example implementing [weak references](https://www.more-magic.net/posts/weak-references.html) and how to GC them efficiently. Other stuff I rarely see discussed is how to do FFI and cross-module optimizations, separate compilation and cross-compilation (which only a handful of Schemes even support) etc.
+
+
+**What's Scheme to you?**
+
+In general, Scheme, to me, is a very clean language with a minimal core which facilitates experimentation. This is the fundamental tension of the standardization process - production-quality Schemes tend to grow in size, and there is value in standardizing that. But that also takes away the minimalism which makes experimental implementations possible. For example, Felix Winkelmann (@Bunny351, CHICKEN's original author's [talk about Scheme implementation](https://www.youtube.com/watch?v=VZp1wWivFYc)) once started a Common Lisp (subset) implementation where he experimented a lot with types and flow analysis, resulting in CHICKEN's type stuff.
+
+**What are your thoughts on the overall Scheme ecosystem, R7RS, SRFIs vs. implementation-specific libraries etc.? A few implementations don't seem to care anymore.**
+
+I think the split of R7RS into a small and large language was the right thing to do, as R6RS was reviled by minimalists and found lacking by maximalists. In general, I'm a bit sad for R7RS - if some of the bigger community Schemes are essentially completely ignoring it, they're doing something wrong IMO. Many, maybe even most Scheme implementations are essentially one-man shows. I suppose CHICKEN is also turning that way again, since we have lost quite a few contributors (mostly due to changing life situations) and it's hard to attract new ones.
+
+At the same time, the R7RS "large" project sort of went off the deep end, doing its thing without really caring about community buy-in. The churn of the R7RS large is also a bit too fast to keep up with. They've pumped out tons of SRFIs in a few years (actually, looking back at it right now it doesn't appear like it's *that* much, but it is certainly a lot faster than SRFIs used to be.) The SRFI process is open to submissions from literally anyone, for better or worse. I've noticed there have been a few new contributors to CHICKEN who submitted implementations for some of the newer SRFIs, so that's good and I'm happy at least some people are bothering to do this.
+
+[CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html) is base R7RS, but older CHICKEN code will keep working. We still support the old module syntax (which is the "native" one). The R7RS library declaration is essentially syntactic sugar for the core module syntax. R7RS-small is almost fully backwards compatible with R5RS, so there is no conflict there. Porting an egg to CHICKEN 6 usually requires only a few small adjustments because some (non R5RS) identifiers moved around between modules to better fit the R7RS style.
+
+
+**What's CHICKEN's development process like?**
+
+CHICKEN 4 was "hygienic CHICKEN", which introduced the module system (and required overhauling the expander). This was all Felix, requiring a lot of deep internal knowledge about how macros interact with modules etc.
+
+CHICKEN 5 was a community effort through and through. It was mostly a sanity and cleanup release where we did a massive reorganization of the modules (what lives where) to make it logical and matching R7RS a bit better. We discussed this during an IRL meetup and continued for the months after. (Community is a strong advantage of CHICKEN!) We also added a [numeric tower](https://www.more-magic.net/posts/numeric-tower-part-1.html).
+
+CHICKEN 6 was basically cut off from Felix's branch to make UTF-8 handling sane and consistent (like Python 2 -> 3, but way less disruptive.)  There's a strict separation between strings and bytevectors, with changes to ports and other I/O as well. We took the opportunity to integrate the R7RS egg into core so it's more "native". Strings in the FFI should be more efficient because there's no needless copying anymore.
+
+[CHICKEN 6.0.0](https://code.call-cc.org/releases/6.0.0/NEWS) was held back by a [bug causing heap corruptions](https://lists.gnu.org/archive/html/chicken-hackers/2026-07/msg00008.html) (do view the patch's description!). We had been looking in the completely wrong spot. These heap corruptions appeared somewhat randomly, but only with the CHICKEN wiki server, not with the plain web server serving simple files or even the entire [Awful](https://wiki.call-cc.org/eggref/5/awful) framework. We strongly suspected the [Subversion client library](https://wiki.call-cc.org/eggref/6/svn-client) (which the wiki uses as a backing store for the content), and we'd found other issues in there as well (it's kind of hairy callback-heavy code due to the design of libsvn).
+
+The wiki is a rather small program and the rest of the web stack seemed to be fine, so we suspected the svn client lib. But I whittled down the code of the wiki to almost nothing and it was still failing. When I commented out the URI normalization code (you get redirected when opening a page that's behind a symlink, so as to get a canonical URL that points to the original file) it suddenly stopped crashing!
+
+That normalization code didn't appear to do all that much, so we quickly pinpointed it to be read-symbolic-link. A quick glance at the code in the core system confirmed it was totally borked because of a change made for CHICKEN 6's UTF-8 transition.
+
+
+**Now that 6 has come out, what's next?**
+
+Regarding the goals for CHICKEN, there are several things I'd like to work on.  One idea I had is to teach the compiler about unsafe intrinsics using a "prelude". Because Scheme is a safe but dynamically typed language, there's some overhead in the intrinsics, say if you call "car" on a non-pair, it throws an exception. If the compiler can deduce that the object you pass in must be a pair (maybe because you checked it before with `pair?`, or called `car` or `cdr` on it before), it replaces the call to an unsafe, unchecked version. But this is all very ad-hoc, and not extensible by the user.  My idea was to have a separate definition which splits the unsafe operation from the "typechecking prelude", which can be inlined at the call site. This way, if multiple checks need to be done, it's not all or nothing.  We can elide the unnecessary checks and only do the necessary ones which might extend to user code, too.
+
+Another idea relates to the way we handle dates and times - we have some stuff in core to access the POSIX functions but it's messy and (IMO) mostly unusable. The alternative is SRFI-19, which is a beast because it has support for multiple calendar systems, localization etc. Might be nice to have something minimal (maybe English only) in core, so you have a common type that gets used everywhere (handy when sharing objects between libraries without building in a big dependency on SRFI-19). You can then use it for parsing timestamps in common protocols, say.
+
+### Postgres & SQLite
+
+**What domains do you like or know the most about?**
+
+- Web stuff: I maintain the HTTP and URI implementations for CHICKEN
+- Some CHICKEN internals: GC, macro expander and Irregex implementation
+- Performance optimizations: though not an expert, I've done quite a bit and always thoroughly enjoy it
+- Postgres: Although I haven't gone deep into the internals, I'm typically the go-to guy for (Postgre)SQL questions in companies I've worked at. Funny, because I initially flunked the DB/SQL course at uni and didn't grok SQL at all
+- Distributed systems: though I've worked on them for 6 years at work, you'll want to avoid them like the plague if at all possible. It can be hard to reason about the behaviour of the system at large, and you can't really abstract it away
+
+I'm trying really hard to think of something I'm truly excited about. The biggest positive I see right now is the push for digital sovereignty. I sincerely hope this will change how people deploy tech, maybe in a more mindful manner. More open source, less dependence on foreign (and hopefully big tech in general) products. But vested interests and inertia will be hard to overcome and really bum me out.
+
+**Why Postgres?**
+
+I properly learned about DBs at a calendar startup using Rails. We had instantiated repeated events in the DB and the event would sometimes need to be updated. At first, we were fetching models in a loop and updating them one by one, excruciatingly slow. We eventually discovered the bulk update (I *think* you even had to call into the DB directly because Rails didn't offer that at the time). That made everything click for me - the importance of performance and the usefulness of SQL. At the time, MySQL was still Rails' default and I got into MySQL character set hell a few times for a CMS we used. Later, another Rails project required such massive amounts of data to be stored (computational fluid dynamics simulation) that MySQL simply crashed every time I tried a bulk import.
+
+Looking into alternatives, I found Postgres handled it without any problems. When I learned that Postgres doesn't have any of those braindead misfeatures MySQL has. For instance, UTF-8 characters get verified on storage so you can't get into character set hell like in MySQL so easily, and it actually allows DDL statements in a transaction, so you get transactional migrations that apply atomically. That was a real eye opener at the time. I was sold!
+
+Postgres is a lot more regular and well-behaved on basically anything, and it has no strange limits (e.g. in MySQL, you can't even put an index on text columns with indeterminate lengths). MySQL allows you to store an empty string in any non-nullable enum column. Makes no goddamn sense to me! The DB is full of footguns like that. I should stop ranting - talking about MySQL really makes my blood boil. Also, I've come to rely on more "advanced" features like LISTEN/NOTIFY, array storage, window functions, CTEs etc. However, I've found that stored procedures don't really work that well - "real code" is more flexible as it doesn't require finicky migrations to keep in sync.
+
+I'm not a big fan of JSON in my relational DBs, but I have been known to use it when storing arbitrary data or actually putting JSON results (from APIs or other stuff) in the DB.
+
+We use [DataScript](https://github.com/tonsky/datascript) on the client via ClojureScript, but I don't really grok it and don't touch that part of the code often enough that it really sticks, so every time I have to deal with it it's an exercise in frustration.
+
+Even though I grok it nowadays, SQL is a really badly designed language. I've seen several projects that try to come up with a better query language, but I've given up hope that they will succeed as SQL is too entrenched to get rid of.
+
+**Why not SQLite?**
+
+I've used it a handful of times. The experience was always mostly one of frustration. It feels a lot like MySQL, with unsafe and stupid defaults.
+
+IIRC it's value-typed and (by default) doesn't check types, so the type of a column is basically completely ignored. And you can't alter a column, IIRC (or maybe only a few changes).  I even remember a version (maybe WebSQL?) where you can't even DROP a column. Anyway, it's not worth any brain cycles for me to deal with that shit.
+
+### On REPLs
+
+**What do you think of Clojure?**
+
+Clojure's influence is strong on things like [Carp](https://github.com/carp-lang/Carp) and [Janet](https://janet-lang.org/). I wrote about [my impression of Clojure](https://www.more-magic.net/posts/thoughts-on-clojure.html) on my blog, but in a nutshell I don't like the "everything is a map" approach and nil punning really turns me off as it makes bugs harder to find. I do like the fact that it has mostly purely functional data structures. I'm not sure I like the syntactic "heaviness" of Clojure - things like `[]` for vectors and `{}` for maps. The lack of cons cells is also a bit weird but I see how it simplifies list handling code (even though Clojure does not typically deal with lists much!) Most importantly, it revitalised the interest in Lisps!
+
+**In your article on Clojure:**
+
+> never fully bought into the REPL style of developing. Sure, I experiment all the time in the REPL to try out a new API design or to quickly iterate on some function I'm writing, but my general development style tends more towards the "save and then run the test suite from an xterm".
+
+**Normally, we hear such things from people who think using the REPL means typing into the little terminal box instead of sending code from files into the REPL with a hotkey, so it surprised me to read it from a veteran.**
+
+I do consider the REPL an essential tool for experimentation and debugging. But I struggle to keep track of what's running in the system versus what I see in my editor. With Clojure, you can't do without the REPL because it's so doggone slow to start up that it would be impossible to just run something on the CLI over and over. So at work, I spend 100% of my time with the CIDER REPL. I do find myself closing and reconnecting several times a day though, because I can no longer trust the REPL state matches my editor buffers. One thing that gets me every time is if I delete a test from my buffer and then re-run the entire suite, it's still there in the REPL (obviously), same thing with multimethod implementations. But overall, I really couldn't live without a REPL.
+
+**What do you think of [snapshot testing](https://ianthehenry.com/posts/my-kind-of-repl/)?**
+
+Snapshot testing's an interesting approach. I think we have a few testcases in CHICKEN where we do something like that - we run the compiler and capture the output of the compiler (which is mostly type warnings) and check that it hasn't changed with a simple diff on the output and expected output. I've also used something like this for great effect while refactoring and optimizing code - simply keep reference output in a file. For instance, in one case when working on a project which had no test suite, I used `pg_dump` to dump an "output table" as a reference and then went to town on the codebase, knowing I would immediately see if my optimized algorithm differed from the original. I also  approach in another inherited project without test cases to refactor.
+
+
+### Real Life
+
+**What makes you happy?**
+
+I've mentioned before that I really enjoy performance optimizing code, but I also really enjoy refactoring and investigating vulnerabilities. Systems that are understandable and hackable make me happy.
+
+Outside of programming (which more often frustrates me than makes me happy TBH), my family makes me happy. It's a great source of joy to just relax and be with my wife and children. I've been trying to get back some balance in life, spending more time AFK, and I pay attention to my health a bit more as well.
+
+I'm not super young anymore (43) and reading about age-related issues like sarcopenia made me realize we really tend to neglect our bodies with our sedentary lifestyle, especially us programmers. My mother has osteoporosis and I see how she struggles just doing basic things. I don't want that for myself, so I've picked up [weight lifting](https://startingstrength.com/article/barbell_training_is_big_medicine) as a way to combat those age-related issues, so I can become old in a healthy way.  The prognosis is for most of us to live up to 90 or so by now, so I'm not even at the halfway point. But these issues start cropping up at around 50-60.
+
+**How do you approach raising kids?**
+
+I'm still getting my bearings TBH. My kids are only 3 (going on 4) and 15 months. Raising kids is probably the hardest thing I've ever done.
+
+I don't really know yet if I want to teach them programming. I definitely want to raise them tech-sceptical, when they're big enough, to teach them the dangers of social media and the importance of privacy. If they show an interest, obviously I'd teach them Scheme. It's the perfect language for teaching! But maybe something like Logo first.
+
+🏷️ Tags: `interview`, `lisp`
+
+---
+
+#### 6. [How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?](https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in)
+📅 Sat, 03 Oct 2026 19:53:47 GMT
+👤 By: Murtaza Siddiqui | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score -4
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 7. [Inline Script-In-Head With notFound Explicit Calling Issue At NextJS](https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs)
+📅 Fri, 02 Oct 2026 10:50:36 GMT
+👤 By: Alex Sindre | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 1
+
+🏷️ Tags: `javascript`, `html`, `next.js`
+
+---
+
+#### 8. [CSS and JavaScript not applying on my localhost](https://stackoverflow.com/questions/80007444/css-and-javascript-not-applying-on-my-localhost)
+📅 Fri, 02 Oct 2026 09:27:28 GMT
+👤 By: N&#233;o Kerroux | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -6
+
+🏷️ Tags: `javascript`, `css`, `macos`, `apache`, `macos-tahoe`
+
+---
+
+#### 9. [How should I share, save and combine JavaScript variables across HTML sites?](https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites)
+📅 Tue, 10 Mar 2026 19:55:28 GMT
+👤 By: user32478630 | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score -2
+
+🏷️ Tags: `advice`, `javascript`, `html`
+
+---
+
+#### 10. [Learn Modern Kotlin](https://www.freecodecamp.org/news/learn-modern-kotlin/)
+📅 Fri, 02 Oct 2026 15:23:58 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,
+
+🏷️ Tags: `Kotlin`, `youtube`
+
+---
+
+### 🏷️ Mobile (9 articles)
+
+#### 1. [Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article](https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0)
+📅 Fri, 02 Oct 2026 16:54:29 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhwlbjjzxf9yyog4gvum3.png)
+
+When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old computer science idiom. Here is how modern Dart 3 records turn the Schwartzian Transform into an elegant, 13x faster one-liner.
+
+🏷️ Tags: `dart`, `flutter`, `architecture`, `performance`
+
+---
+
+#### 2. [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9)
+📅 Sun, 20 Sep 2026 20:03:10 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2k3pdkwhv7eywa1crtek.png)
+
+How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-safe polymorphic factories.
+
+🏷️ Tags: `dart`, `flutter`, `architecture`, `programming`
+
+---
+
+#### 3. [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif)
+📅 Sun, 20 Sep 2026 19:48:39 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png)
+
+Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.
+
+🏷️ Tags: `dart`, `flutter`, `testing`, `architecture`
+
+---
+
+#### 4. [Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b)
+📅 Sun, 20 Sep 2026 20:43:19 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png)
+
+How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.
+
+🏷️ Tags: `dart`, `flutter`, `architecture`, `concurrency`
+
+---
+
+#### 5. [Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)](https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7)
+📅 Thu, 24 Sep 2026 22:07:55 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8dsce3xxd0txso2shxb1.jpg)
+
+For decades, platforms like Claris FileMaker, Microsoft Access, and 4D enabled businesses to build...
+
+🏷️ Tags: `opensource`, `flutter`, `go`, `postgres`
+
+---
+
+#### 6. [The Curiosity Gap: Why We've Stopped Asking Questions](https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4)
+📅 Tue, 22 Sep 2026 08:26:58 GMT
+👤 By: Alexandra | 📌 Source: Dev.to
+
+![The Curiosity Gap: Why We've Stopped Asking Questions](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png)
+
+In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...
+
+🏷️ Tags: `discuss`, `ai`
+
+---
+
+#### 7. [Learn Modern Kotlin](https://www.freecodecamp.org/news/learn-modern-kotlin/)
+📅 Fri, 02 Oct 2026 15:23:58 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,
+
+🏷️ Tags: `Kotlin`, `youtube`
+
+---
+
+#### 8. [Build and Publish a Full-Stack Mobile App with AI](https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/)
+📅 Thu, 01 Oct 2026 15:13:37 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept
+
+🏷️ Tags: `chatgpt`, `youtube`
+
+---
+
+#### 9. [How to Stop Your Android App from Draining the Battery with Wake Locks](https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/)
+📅 Thu, 01 Oct 2026 14:15:11 GMT
+👤 By: Nikheel Vishwas Savant | 📌 Source: freeCodeCamp
+
+A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t
+
+🏷️ Tags: `Android`, `Wake locks`, `#power`, `battery`, `Mobile Development`
+
+---
+
+### 🏷️ Cloud (17 articles)
+
+#### 1. [Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4)
+📅 Wed, 30 Sep 2026 17:33:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg)
+
+Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `vllm`
+
+---
+
+#### 2. [Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second](https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd)
+📅 Fri, 02 Oct 2026 17:59:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg)
+
+Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.
+
+🏷️ Tags: `gemma`, `googlecloud`, `machinelearning`, `llm`
+
+---
+
+#### 3. [Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't](https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii)
+📅 Fri, 02 Oct 2026 16:59:51 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg)
+
+Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.
+
+🏷️ Tags: `gemma`, `googlecloud`, `machinelearning`, `llm`
+
+---
+
+#### 4. [Claude Sonnet 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h)
+📅 Mon, 28 Sep 2026 18:53:36 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Sonnet 5.5 is now available on Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png)
+
+Designed for coding and knowledge work, it helps you build features, and create clean work...
+
+---
+
+#### 5. [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh)
+📅 Tue, 22 Sep 2026 17:48:24 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Opus 5.5 is now available on Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png)
+
+Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...
+
+🏷️ Tags: `claude`, `googlecloud`
+
+---
+
+#### 6. [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl)
+📅 Fri, 25 Sep 2026 11:50:46 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude on Google Cloud workshop | NYC | 9/30](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png)
+
+On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...
+
+🏷️ Tags: `eventsinyourcity`, `claude`, `googlecloud`, `ai`
+
+---
+
+#### 7. [How to Build a Real-Time Voice AI Agent with the Gemini Live API](https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe)
+📅 Mon, 28 Sep 2026 22:22:04 GMT
+👤 By: Annie Cusack | 📌 Source: Dev.to
+
+![How to Build a Real-Time Voice AI Agent with the Gemini Live API](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png)
+
+This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...
+
+🏷️ Tags: `voiceai`, `ai`, `googlecloud`, `gemini`
+
+---
+
+#### 8. [Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4](https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g)
+📅 Sat, 26 Sep 2026 11:10:27 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg)
+
+A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `vllm`
+
+---
+
+#### 9. [Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd)
+📅 Sat, 26 Sep 2026 11:10:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg)
+
+Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `mcp`
+
+---
+
+#### 10. [What One Rust Client Can Reach Across Seven Iceberg Catalogs](https://dev.to/gde/what-one-rust-client-can-reach-across-seven-iceberg-catalogs-22ll)
+📅 Fri, 25 Sep 2026 16:20:56 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![What One Rust Client Can Reach Across Seven Iceberg Catalogs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Frust-client-seven-catalogs%2Fcover.b00343f4.jpg)
+
+Step by step: the Apache Rust Iceberg REST client against seven Iceberg catalogs. It logs in to five of them, and on every one it logs in to, all 13 endpoints it implements answer — 7 reads on three catalogs and 11 writes on the local one, with no failures. The two AWS catalogs need SigV4, which it cannot send, so Rust reaches them through two other crates whose operation sets differ from its own.
+
+🏷️ Tags: `rust`, `iceberg`, `lakehouse`, `dataengineering`
+
+---
+
+### 🏷️ Database (4 articles)
+
+#### 1. [Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article](https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0)
+📅 Fri, 02 Oct 2026 16:54:29 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhwlbjjzxf9yyog4gvum3.png)
+
+When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old computer science idiom. Here is how modern Dart 3 records turn the Schwartzian Transform into an elegant, 13x faster one-liner.
+
+🏷️ Tags: `dart`, `flutter`, `architecture`, `performance`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.](https://github.com/alpcanaydin/tusk)
+📅 Mon, 28 Sep 2026 18:47:06 GMT
+👤 By: alpcanaydin | 📌 Source: GitHub
+
+![alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.](https://avatars.githubusercontent.com/u/1801024?v=4)
+
+A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 329
+
+---
+
+#### 4. [Lobsters Interview with Sjamaan](https://alexalejandre.com/interviews/peter-bex/)
+📅 Fri, 02 Oct 2026 22:01:27 GMT
+👤 By: veqq | 📌 Source: Lobste.rs
+
+Our dear @sjamaan ([website](https://www.more-magic.net)) is a CHICKEN scheme maintainer and professional Clojure developer. We got to know each other on IRC over a few months and discussed:
+- [CHICKEN](https://call-cc.org/) Scheme and its 6.0.0 release
+- Scheme's community and standardization process
+- Postgres, the horrors of MySQL and (default) SQLite
+- Clojure
+
+> My ongoing core contributions mainly focus on the numerical tower code, keeping the in-core copy of the irregex library up-to-date with the upstream version (of which I'm a co-maintainer), squashing bugs and the odd security fix. I enjoy deep diving into odd corners of a code base to get a better understanding and then improve any weirdnesses I find. - [His CHICKEN About](https://wiki.call-cc.org/users/peter-bex)
+
+-------
+
+
+### Beginnings
+
+**How'd you start computing?**
+
+I started computing when I got an old hand-me-down C64 which came with a "learn BASIC" book targeted at kids. Of course, I wanted to write my own computer games (which I never ended up doing). Later I got a real PC for my birthday and discovered my BASIC knowledge sort of transferred (with QBASIC in DOS).
+
+Later, I learned about C, which I used for many years until at uni there was a course which taught Lisp (Scheme, really). We started with The Little Lisper/Schemer, and then SICP. I had a "functional programming course" before that which I almost flunked because it just didn't make any sense (they used Concurrent Clean, because obviously teachers use their own language to teach regardless of its qualities - a common fault in academia). But the Little Schemer finally made it click. The teacher also showed how to implement objects using nothing but lambdas which I found awesome.
+
+I actually studied AI before all the LLM bullshit. I much preferred the cleverness of the classical AI algorithms like A* search and genetic algorithms, but I haven't really used them much in practice, only for my studies. I keep thinking I should use a GA for something, but no real use case so far.  But even back then it was clear that neural networks were the future, though I found them boring because it's just a bit of math (which I initially barely understood) and it's basically a black box.  I'm still grateful I studied AI because that's the reason I came into contact with Lisp.
+
+I might've looked into Lisp myself at some point (having been curious about it as one of the "foundational languages"), but I might not have had sufficient gumption to really dig in. After uni I got a job where they were using Rails in those somewhat early days (2006), so I learned Ruby as well. I liked learning Ruby and thought it was cool to see the power of Rails, but later got very frustrated with it because Rails really has strong opinions and my programming style didn't seem fully compatible with it.
+
+### CHICKEN & Scheme
+
+**Why CHICKEN?**
+
+After that course, I tried using Lisp for every personal project. I first started with Scheme48 but it wasn't very practical (though very elegant). I remember running into problems with the image not being big enough, running out of memory. I never really liked PLT Scheme (now Racket), coming into first contact with it through DrRacket, which felt very sluggish to me, though I do think DrRacket's a cool alternative view of what an IDE could do. For example, when you hover over a variable and it shows you a line pointing to the origin of that variable.
+
+CHICKEN was a practical and fast system, with a good community and acceptable license (I had quite a distaste for GPL at the time). CHICKEN is also one of two (as far as we know) implementations that use the Cheney on the MTA technique [explained here](https://wiki.call-cc.org/chicken-compilation-process). There were lots of rough edges, but I think wanting to address those is what enabled me to get so deep into the core. If everything is perfect, there's not much to do, really!
+
+So I started contributing to CHICKEN with some modest eggs ([CHICKEN packages](https://wiki.call-cc.org/eggs)) at first, and eventually the core system. I mostly learned about Lisp internals by doing, mucking around with the CHICKEN core and trying things. I read Queinnec's Lisp in Small Pieces, which deals with translation to C but leaves a *lot* undiscussed and distracts with OOP-heaviness. SICP has some good material. Then there's Appel's Compiling with Continuations, which is really short and to the point but still manages to be rather comprehensive; I love books like that.
+
+In general, I just enjoy hacking on the core, even if I don't have that much time to do so these days. I have to stress that I'm a slow learner. Building my understanding of CHICKEN was a process of many many years, and there are still parts of the system I'm not that familiar with (although I know my way around enough to get up to speed if needed).
+
+**What do those Lisp books lack?**
+
+Compiling with Continuations has only a brief section on the runtime system, so it doesn't go very deeply into e.g. garbage collection and data representation. Lisp in Small Pieces doesn't go into continuation passing style, IIRC. And its data representation isn't very optimized. I like to [blog](https://www.more-magic.net/archive.html) about cool techniques that are undiscussed nowadays. For example implementing [weak references](https://www.more-magic.net/posts/weak-references.html) and how to GC them efficiently. Other stuff I rarely see discussed is how to do FFI and cross-module optimizations, separate compilation and cross-compilation (which only a handful of Schemes even support) etc.
+
+
+**What's Scheme to you?**
+
+In general, Scheme, to me, is a very clean language with a minimal core which facilitates experimentation. This is the fundamental tension of the standardization process - production-quality Schemes tend to grow in size, and there is value in standardizing that. But that also takes away the minimalism which makes experimental implementations possible. For example, Felix Winkelmann (@Bunny351, CHICKEN's original author's [talk about Scheme implementation](https://www.youtube.com/watch?v=VZp1wWivFYc)) once started a Common Lisp (subset) implementation where he experimented a lot with types and flow analysis, resulting in CHICKEN's type stuff.
+
+**What are your thoughts on the overall Scheme ecosystem, R7RS, SRFIs vs. implementation-specific libraries etc.? A few implementations don't seem to care anymore.**
+
+I think the split of R7RS into a small and large language was the right thing to do, as R6RS was reviled by minimalists and found lacking by maximalists. In general, I'm a bit sad for R7RS - if some of the bigger community Schemes are essentially completely ignoring it, they're doing something wrong IMO. Many, maybe even most Scheme implementations are essentially one-man shows. I suppose CHICKEN is also turning that way again, since we have lost quite a few contributors (mostly due to changing life situations) and it's hard to attract new ones.
+
+At the same time, the R7RS "large" project sort of went off the deep end, doing its thing without really caring about community buy-in. The churn of the R7RS large is also a bit too fast to keep up with. They've pumped out tons of SRFIs in a few years (actually, looking back at it right now it doesn't appear like it's *that* much, but it is certainly a lot faster than SRFIs used to be.) The SRFI process is open to submissions from literally anyone, for better or worse. I've noticed there have been a few new contributors to CHICKEN who submitted implementations for some of the newer SRFIs, so that's good and I'm happy at least some people are bothering to do this.
+
+[CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html) is base R7RS, but older CHICKEN code will keep working. We still support the old module syntax (which is the "native" one). The R7RS library declaration is essentially syntactic sugar for the core module syntax. R7RS-small is almost fully backwards compatible with R5RS, so there is no conflict there. Porting an egg to CHICKEN 6 usually requires only a few small adjustments because some (non R5RS) identifiers moved around between modules to better fit the R7RS style.
+
+
+**What's CHICKEN's development process like?**
+
+CHICKEN 4 was "hygienic CHICKEN", which introduced the module system (and required overhauling the expander). This was all Felix, requiring a lot of deep internal knowledge about how macros interact with modules etc.
+
+CHICKEN 5 was a community effort through and through. It was mostly a sanity and cleanup release where we did a massive reorganization of the modules (what lives where) to make it logical and matching R7RS a bit better. We discussed this during an IRL meetup and continued for the months after. (Community is a strong advantage of CHICKEN!) We also added a [numeric tower](https://www.more-magic.net/posts/numeric-tower-part-1.html).
+
+CHICKEN 6 was basically cut off from Felix's branch to make UTF-8 handling sane and consistent (like Python 2 -> 3, but way less disruptive.)  There's a strict separation between strings and bytevectors, with changes to ports and other I/O as well. We took the opportunity to integrate the R7RS egg into core so it's more "native". Strings in the FFI should be more efficient because there's no needless copying anymore.
+
+[CHICKEN 6.0.0](https://code.call-cc.org/releases/6.0.0/NEWS) was held back by a [bug causing heap corruptions](https://lists.gnu.org/archive/html/chicken-hackers/2026-07/msg00008.html) (do view the patch's description!). We had been looking in the completely wrong spot. These heap corruptions appeared somewhat randomly, but only with the CHICKEN wiki server, not with the plain web server serving simple files or even the entire [Awful](https://wiki.call-cc.org/eggref/5/awful) framework. We strongly suspected the [Subversion client library](https://wiki.call-cc.org/eggref/6/svn-client) (which the wiki uses as a backing store for the content), and we'd found other issues in there as well (it's kind of hairy callback-heavy code due to the design of libsvn).
+
+The wiki is a rather small program and the rest of the web stack seemed to be fine, so we suspected the svn client lib. But I whittled down the code of the wiki to almost nothing and it was still failing. When I commented out the URI normalization code (you get redirected when opening a page that's behind a symlink, so as to get a canonical URL that points to the original file) it suddenly stopped crashing!
+
+That normalization code didn't appear to do all that much, so we quickly pinpointed it to be read-symbolic-link. A quick glance at the code in the core system confirmed it was totally borked because of a change made for CHICKEN 6's UTF-8 transition.
+
+
+**Now that 6 has come out, what's next?**
+
+Regarding the goals for CHICKEN, there are several things I'd like to work on.  One idea I had is to teach the compiler about unsafe intrinsics using a "prelude". Because Scheme is a safe but dynamically typed language, there's some overhead in the intrinsics, say if you call "car" on a non-pair, it throws an exception. If the compiler can deduce that the object you pass in must be a pair (maybe because you checked it before with `pair?`, or called `car` or `cdr` on it before), it replaces the call to an unsafe, unchecked version. But this is all very ad-hoc, and not extensible by the user.  My idea was to have a separate definition which splits the unsafe operation from the "typechecking prelude", which can be inlined at the call site. This way, if multiple checks need to be done, it's not all or nothing.  We can elide the unnecessary checks and only do the necessary ones which might extend to user code, too.
+
+Another idea relates to the way we handle dates and times - we have some stuff in core to access the POSIX functions but it's messy and (IMO) mostly unusable. The alternative is SRFI-19, which is a beast because it has support for multiple calendar systems, localization etc. Might be nice to have something minimal (maybe English only) in core, so you have a common type that gets used everywhere (handy when sharing objects between libraries without building in a big dependency on SRFI-19). You can then use it for parsing timestamps in common protocols, say.
+
+### Postgres & SQLite
+
+**What domains do you like or know the most about?**
+
+- Web stuff: I maintain the HTTP and URI implementations for CHICKEN
+- Some CHICKEN internals: GC, macro expander and Irregex implementation
+- Performance optimizations: though not an expert, I've done quite a bit and always thoroughly enjoy it
+- Postgres: Although I haven't gone deep into the internals, I'm typically the go-to guy for (Postgre)SQL questions in companies I've worked at. Funny, because I initially flunked the DB/SQL course at uni and didn't grok SQL at all
+- Distributed systems: though I've worked on them for 6 years at work, you'll want to avoid them like the plague if at all possible. It can be hard to reason about the behaviour of the system at large, and you can't really abstract it away
+
+I'm trying really hard to think of something I'm truly excited about. The biggest positive I see right now is the push for digital sovereignty. I sincerely hope this will change how people deploy tech, maybe in a more mindful manner. More open source, less dependence on foreign (and hopefully big tech in general) products. But vested interests and inertia will be hard to overcome and really bum me out.
+
+**Why Postgres?**
+
+I properly learned about DBs at a calendar startup using Rails. We had instantiated repeated events in the DB and the event would sometimes need to be updated. At first, we were fetching models in a loop and updating them one by one, excruciatingly slow. We eventually discovered the bulk update (I *think* you even had to call into the DB directly because Rails didn't offer that at the time). That made everything click for me - the importance of performance and the usefulness of SQL. At the time, MySQL was still Rails' default and I got into MySQL character set hell a few times for a CMS we used. Later, another Rails project required such massive amounts of data to be stored (computational fluid dynamics simulation) that MySQL simply crashed every time I tried a bulk import.
+
+Looking into alternatives, I found Postgres handled it without any problems. When I learned that Postgres doesn't have any of those braindead misfeatures MySQL has. For instance, UTF-8 characters get verified on storage so you can't get into character set hell like in MySQL so easily, and it actually allows DDL statements in a transaction, so you get transactional migrations that apply atomically. That was a real eye opener at the time. I was sold!
+
+Postgres is a lot more regular and well-behaved on basically anything, and it has no strange limits (e.g. in MySQL, you can't even put an index on text columns with indeterminate lengths). MySQL allows you to store an empty string in any non-nullable enum column. Makes no goddamn sense to me! The DB is full of footguns like that. I should stop ranting - talking about MySQL really makes my blood boil. Also, I've come to rely on more "advanced" features like LISTEN/NOTIFY, array storage, window functions, CTEs etc. However, I've found that stored procedures don't really work that well - "real code" is more flexible as it doesn't require finicky migrations to keep in sync.
+
+I'm not a big fan of JSON in my relational DBs, but I have been known to use it when storing arbitrary data or actually putting JSON results (from APIs or other stuff) in the DB.
+
+We use [DataScript](https://github.com/tonsky/datascript) on the client via ClojureScript, but I don't really grok it and don't touch that part of the code often enough that it really sticks, so every time I have to deal with it it's an exercise in frustration.
+
+Even though I grok it nowadays, SQL is a really badly designed language. I've seen several projects that try to come up with a better query language, but I've given up hope that they will succeed as SQL is too entrenched to get rid of.
+
+**Why not SQLite?**
+
+I've used it a handful of times. The experience was always mostly one of frustration. It feels a lot like MySQL, with unsafe and stupid defaults.
+
+IIRC it's value-typed and (by default) doesn't check types, so the type of a column is basically completely ignored. And you can't alter a column, IIRC (or maybe only a few changes).  I even remember a version (maybe WebSQL?) where you can't even DROP a column. Anyway, it's not worth any brain cycles for me to deal with that shit.
+
+### On REPLs
+
+**What do you think of Clojure?**
+
+Clojure's influence is strong on things like [Carp](https://github.com/carp-lang/Carp) and [Janet](https://janet-lang.org/). I wrote about [my impression of Clojure](https://www.more-magic.net/posts/thoughts-on-clojure.html) on my blog, but in a nutshell I don't like the "everything is a map" approach and nil punning really turns me off as it makes bugs harder to find. I do like the fact that it has mostly purely functional data structures. I'm not sure I like the syntactic "heaviness" of Clojure - things like `[]` for vectors and `{}` for maps. The lack of cons cells is also a bit weird but I see how it simplifies list handling code (even though Clojure does not typically deal with lists much!) Most importantly, it revitalised the interest in Lisps!
+
+**In your article on Clojure:**
+
+> never fully bought into the REPL style of developing. Sure, I experiment all the time in the REPL to try out a new API design or to quickly iterate on some function I'm writing, but my general development style tends more towards the "save and then run the test suite from an xterm".
+
+**Normally, we hear such things from people who think using the REPL means typing into the little terminal box instead of sending code from files into the REPL with a hotkey, so it surprised me to read it from a veteran.**
+
+I do consider the REPL an essential tool for experimentation and debugging. But I struggle to keep track of what's running in the system versus what I see in my editor. With Clojure, you can't do without the REPL because it's so doggone slow to start up that it would be impossible to just run something on the CLI over and over. So at work, I spend 100% of my time with the CIDER REPL. I do find myself closing and reconnecting several times a day though, because I can no longer trust the REPL state matches my editor buffers. One thing that gets me every time is if I delete a test from my buffer and then re-run the entire suite, it's still there in the REPL (obviously), same thing with multimethod implementations. But overall, I really couldn't live without a REPL.
+
+**What do you think of [snapshot testing](https://ianthehenry.com/posts/my-kind-of-repl/)?**
+
+Snapshot testing's an interesting approach. I think we have a few testcases in CHICKEN where we do something like that - we run the compiler and capture the output of the compiler (which is mostly type warnings) and check that it hasn't changed with a simple diff on the output and expected output. I've also used something like this for great effect while refactoring and optimizing code - simply keep reference output in a file. For instance, in one case when working on a project which had no test suite, I used `pg_dump` to dump an "output table" as a reference and then went to town on the codebase, knowing I would immediately see if my optimized algorithm differed from the original. I also  approach in another inherited project without test cases to refactor.
+
+
+### Real Life
+
+**What makes you happy?**
+
+I've mentioned before that I really enjoy performance optimizing code, but I also really enjoy refactoring and investigating vulnerabilities. Systems that are understandable and hackable make me happy.
+
+Outside of programming (which more often frustrates me than makes me happy TBH), my family makes me happy. It's a great source of joy to just relax and be with my wife and children. I've been trying to get back some balance in life, spending more time AFK, and I pay attention to my health a bit more as well.
+
+I'm not super young anymore (43) and reading about age-related issues like sarcopenia made me realize we really tend to neglect our bodies with our sedentary lifestyle, especially us programmers. My mother has osteoporosis and I see how she struggles just doing basic things. I don't want that for myself, so I've picked up [weight lifting](https://startingstrength.com/article/barbell_training_is_big_medicine) as a way to combat those age-related issues, so I can become old in a healthy way.  The prognosis is for most of us to live up to 90 or so by now, so I'm not even at the halfway point. But these issues start cropping up at around 50-60.
+
+**How do you approach raising kids?**
+
+I'm still getting my bearings TBH. My kids are only 3 (going on 4) and 15 months. Raising kids is probably the hardest thing I've ever done.
+
+I don't really know yet if I want to teach them programming. I definitely want to raise them tech-sceptical, when they're big enough, to teach them the dangers of social media and the importance of privacy. If they show an interest, obviously I'd teach them Scheme. It's the perfect language for teaching! But maybe something like Logo first.
+
+🏷️ Tags: `interview`, `lisp`
+
+---
+
+### 🏷️ Security (16 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 3. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Google Security Team Member on NSA: "Fuck These Guys"](https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k)
+📅 Wed, 06 Nov 2013 04:51:41 GMT
+👤 By: cdvonstinkpot | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Senators push to ditch social security numbers in light of Equifax hack](https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/)
+📅 Wed, 08 Nov 2017 22:49:56 GMT
+👤 By: Varcht | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (40 articles)
+
+#### 1. [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif)
+📅 Sun, 20 Sep 2026 19:48:39 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png)
+
+Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.
+
+🏷️ Tags: `dart`, `flutter`, `testing`, `architecture`
+
+---
+
+#### 2. [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae)
+📅 Mon, 28 Sep 2026 19:04:50 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg)
+
+A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.
+
+🏷️ Tags: `devchallenge`, `kagglechallenge`, `ai`, `machinelearning`
+
+---
+
+#### 3. [How AI Actually Calls an API? Tool Calling Explained from Scratch](https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8)
+📅 Wed, 16 Sep 2026 21:28:40 GMT
+👤 By: Rohini Gaonkar | 📌 Source: Dev.to
+
+![How AI Actually Calls an API? Tool Calling Explained from Scratch](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png)
+
+In the previous post, we taught a model to read our documents. It could search a pile of files and...
+
+🏷️ Tags: `ai`, `mcp`, `aws`, `tutorial`
+
+---
+
+#### 4. [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605)
+📅 Sun, 20 Sep 2026 20:30:58 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg)
+
+Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.
+
+🏷️ Tags: `mcp`, `iceberg`, `python`, `dataengineering`
+
+---
+
+#### 5. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.](https://github.com/edenfunf/reelmimic)
+📅 Mon, 28 Sep 2026 19:14:59 GMT
+👤 By: edenfunf | 📌 Source: GitHub
+
+![edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.](https://avatars.githubusercontent.com/u/146086744?v=4)
+
+Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 1,071
+
+---
+
+#### 9. [xikhar/spiderbench - GitHub Repository](https://github.com/xikhar/spiderbench)
+📅 Sun, 27 Sep 2026 05:55:36 GMT
+👤 By: xikhar | 📌 Source: GitHub
+
+![xikhar/spiderbench - GitHub Repository](https://avatars.githubusercontent.com/u/215908419?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 478
+
+---
+
+#### 10. [moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.](https://github.com/moguzbulbul/blueprint-animation)
+📅 Sun, 27 Sep 2026 21:48:33 GMT
+👤 By: moguzbulbul | 📌 Source: GitHub
+
+![moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.](https://avatars.githubusercontent.com/u/31392894?v=4)
+
+Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 392
+
+---
+
