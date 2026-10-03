@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
-      "published_at": "2026-10-02T16:59:51Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
       "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
       "published_at": "2026-10-02T12:19:36Z",
@@ -72,6 +57,21 @@
         "vllm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
+      "published_at": "2026-10-02T16:59:51Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -159,21 +159,6 @@
       "user": "Praveen Rajasekar"
     },
     {
-      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
-      "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
-      "published_at": "2026-09-30T23:21:18Z",
-      "description": "Hacktoberfest officially kicks off October 1st! To celebrate, we are hosting an official launch...",
-      "tags": [
-        "hacktoberfest",
-        "hf26challenge",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopq9qf6or1ti44csuehz.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
       "published_at": "2026-09-22T17:48:24Z",
@@ -230,6 +215,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
+      "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
+      "published_at": "2026-09-30T23:21:18Z",
+      "description": "Hacktoberfest officially kicks off October 1st! To celebrate, we are hosting an official launch...",
+      "tags": [
+        "hacktoberfest",
+        "hf26challenge",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopq9qf6or1ti44csuehz.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 993,
       "user": "edenfunf"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "moguzbulbul"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "blendi-remade"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2494,
+      "stars": 2562,
       "user": "feder-cr"
     },
     {
@@ -769,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1324,
+      "stars": 1335,
       "user": "firelex"
     },
     {
@@ -784,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1232,
       "user": "nanaism"
     },
     {
@@ -799,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 967,
       "user": "echris6"
     },
     {
@@ -814,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 52,
       "user": "Tuskira"
     },
     {
@@ -829,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4974,
+      "stars": 5027,
       "user": "KKKKhazix"
     },
     {
@@ -844,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1500,
+      "stars": 1716,
       "user": "CopilotKit"
     },
     {
@@ -859,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 710,
       "user": "openai"
     },
     {
@@ -874,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 453,
       "user": "composio-community"
     },
     {
@@ -889,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "alpcanaydin"
     },
     {
@@ -909,7 +909,7 @@
       "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
       "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
       "published_at": "2026-10-02T20:12:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "async-await",
@@ -1357,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 993,
       "user": "edenfunf"
     },
     {
@@ -1372,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "xikhar"
     },
     {
@@ -1387,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "moguzbulbul"
     },
     {
@@ -1417,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "blendi-remade"
     },
     {
@@ -1432,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 967,
       "user": "echris6"
     },
     {
@@ -1447,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4974,
+      "stars": 5027,
       "user": "KKKKhazix"
     },
     {
@@ -1462,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1500,
+      "stars": 1716,
       "user": "CopilotKit"
     },
     {
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 710,
       "user": "openai"
     },
     {
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 513,
       "user": "fsiaonma"
     },
     {
@@ -1507,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 453,
       "user": "composio-community"
     },
     {
@@ -1527,7 +1527,7 @@
       "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
       "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
       "published_at": "2026-10-02T20:12:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "async-await",
@@ -1551,6 +1551,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "John "
+    },
+    {
+      "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
+      "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
+      "published_at": "2026-10-01T11:29:36.000Z",
+      "description": "Stack Overflow question · 4 answers · score -9",
+      "tags": [
+        "javascript",
+        "regex",
+        "url",
+        "spotify"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "spotload"
     },
     {
       "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
@@ -1581,21 +1596,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "N&#233;o Kerroux"
-    },
-    {
-      "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
-      "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
-      "published_at": "2026-10-01T11:29:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score -9",
-      "tags": [
-        "javascript",
-        "regex",
-        "url",
-        "spotify"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "spotload"
     },
     {
       "title": "React form doesn't submit when pressing Enter in an input field",
@@ -1643,7 +1643,7 @@
       "title": "How should I share, save and combine JavaScript variables across HTML sites?",
       "url": "https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites",
       "published_at": "2026-03-10T19:55:28.000Z",
-      "description": "Stack Overflow question · 4 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "advice",
         "javascript",
@@ -1654,18 +1654,18 @@
       "user": "user32478630"
     },
     {
-      "title": "How to test if an object is a Proxy?",
-      "url": "https://stackoverflow.com/questions/36372611/how-to-test-if-an-object-is-a-proxy",
-      "published_at": "2016-04-02T11:25:49.000Z",
-      "description": "Stack Overflow question · 15 answers · score 107",
+      "title": "How to add a delay to an animation if it's in the viewport initially, otherwise have a different delay?",
+      "url": "https://stackoverflow.com/questions/79404188/how-to-add-a-delay-to-an-animation-if-its-in-the-viewport-initially-otherwise",
+      "published_at": "2025-01-31T23:41:15.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
-        "ecmascript-6",
-        "es6-proxy"
+        "reactjs",
+        "framer-motion"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "GOTO 0"
+      "user": "matt"
     },
     {
       "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
@@ -1970,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2494,
+      "stars": 2562,
       "user": "feder-cr"
     },
     {
@@ -1985,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2157,
+      "stars": 2272,
       "user": "rehan-remade"
     },
     {
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1324,
+      "stars": 1335,
       "user": "firelex"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1232,
       "user": "nanaism"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 967,
       "user": "echris6"
     },
     {
@@ -2047,10 +2047,22 @@
       "user": "veqq"
     },
     {
+      "title": "Finding value within nested dictionary with arrays",
+      "url": "https://stackoverflow.com/questions/80007452/finding-value-within-nested-dictionary-with-arrays",
+      "published_at": "2026-10-02T09:49:08.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BConn63"
+    },
+    {
       "title": "How to make two attr.s instances equal each other in this code",
       "url": "https://stackoverflow.com/questions/80007474/how-to-make-two-attr-s-instances-equal-each-other-in-this-code",
       "published_at": "2026-10-02T11:37:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
+      "description": "Stack Overflow question · 3 answers · score -5",
       "tags": [
         "python",
         "python-attrs"
@@ -2071,18 +2083,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Finding value within nested dictionary with arrays",
-      "url": "https://stackoverflow.com/questions/80007452/finding-value-within-nested-dictionary-with-arrays",
-      "published_at": "2026-10-02T09:49:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BConn63"
     },
     {
       "title": "Why and how does Python treat __new__ differently when called from an instance?",
@@ -2166,18 +2166,19 @@
       "user": "SteinGate"
     },
     {
-      "title": "How to properly update ScrollAreaWidget contents via signals in PySide6?",
-      "url": "https://stackoverflow.com/questions/80007352/how-to-properly-update-scrollareawidget-contents-via-signals-in-pyside6",
-      "published_at": "2026-10-01T20:44:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "Python multiprocessing (pool, imap) performance degradation on Linux host",
+      "url": "https://stackoverflow.com/questions/80007255/python-multiprocessing-pool-imap-performance-degradation-on-linux-host",
+      "published_at": "2026-10-01T12:37:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
-        "python-3.x",
-        "pyside6"
+        "ubuntu",
+        "multiprocessing",
+        "pool"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alias"
+      "user": "e2013mbp-gecko"
     }
   ],
   "DevOps": [
@@ -2357,8 +2358,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 59,
       "user": "devilcoolyue"
+    },
+    {
+      "title": "gVisor is being donated to CNCF",
+      "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+      "published_at": "2026-10-02T21:41:38.394-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "carlana"
     },
     {
       "title": "Build and Publish a Full-Stack Mobile App with AI",
@@ -2493,7 +2506,7 @@
       "title": "How should I share, save and combine JavaScript variables across HTML sites?",
       "url": "https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites",
       "published_at": "2026-03-10T19:55:28.000Z",
-      "description": "Stack Overflow question · 4 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "advice",
         "javascript",
@@ -2695,21 +2708,6 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
-      "published_at": "2026-10-02T16:59:51Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
       "published_at": "2026-09-30T17:33:22Z",
@@ -2721,6 +2719,21 @@
         "vllm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
+      "published_at": "2026-10-02T16:59:51Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2966,7 +2979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "alpcanaydin"
     },
     {
@@ -3281,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 993,
       "user": "edenfunf"
     },
     {
@@ -3296,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "xikhar"
     },
     {
@@ -3311,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 387,
       "user": "moguzbulbul"
     },
     {
@@ -3341,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "blendi-remade"
     },
     {
@@ -3356,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2494,
+      "stars": 2562,
       "user": "feder-cr"
     },
     {
@@ -3371,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2157,
+      "stars": 2272,
       "user": "rehan-remade"
     },
     {
@@ -3386,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1324,
+      "stars": 1335,
       "user": "firelex"
     },
     {
@@ -3401,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1232,
       "user": "nanaism"
     },
     {
@@ -3416,8 +3429,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 967,
       "user": "echris6"
+    },
+    {
+      "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+      "url": "https://github.com/devilcoolyue/agentbox",
+      "published_at": "2026-09-28T03:32:41Z",
+      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
+      "source": "GitHub",
+      "stars": 59,
+      "user": "devilcoolyue"
     },
     {
       "title": "Bornholm/indecis - Small decision models in Go",
@@ -3435,21 +3463,6 @@
       "user": "Bornholm"
     },
     {
-      "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
-      "url": "https://github.com/devilcoolyue/agentbox",
-      "published_at": "2026-09-28T03:32:41Z",
-      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
-      "source": "GitHub",
-      "stars": 53,
-      "user": "devilcoolyue"
-    },
-    {
       "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
       "url": "https://github.com/Tuskira/ai-agent-gateway",
       "published_at": "2026-10-01T11:32:10Z",
@@ -3461,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 52,
       "user": "Tuskira"
     },
     {
@@ -3476,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173544653?v=4",
       "source": "GitHub",
-      "stars": 42,
+      "stars": 44,
       "user": "Miroshka000"
     },
     {
@@ -3506,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4974,
+      "stars": 5027,
       "user": "KKKKhazix"
     },
     {
@@ -3521,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1500,
+      "stars": 1716,
       "user": "CopilotKit"
     },
     {
@@ -3536,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 710,
       "user": "openai"
     },
     {
@@ -3551,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 513,
       "user": "fsiaonma"
     },
     {
@@ -3566,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 453,
       "user": "composio-community"
     },
     {
@@ -3581,23 +3594,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 644,
       "user": "chasmlol"
-    },
-    {
-      "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "url": "https://github.com/alpcanaydin/tusk",
-      "published_at": "2026-09-28T18:47:06Z",
-      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "alpcanaydin"
     },
     {
       "title": "ZacharyZhang-NY/Ely-GPUI-Components - A component library for GPUI, in light and dark. Every component runs live in the browser.",
@@ -3611,8 +3609,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 340,
       "user": "ZacharyZhang-NY"
+    },
+    {
+      "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "url": "https://github.com/alpcanaydin/tusk",
+      "published_at": "2026-09-28T18:47:06Z",
+      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "alpcanaydin"
     },
     {
       "title": "openOMSI-Project/openOMSI - OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
@@ -3626,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 288,
       "user": "openOMSI-Project"
     },
     {
