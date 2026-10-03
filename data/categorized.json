@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1038,
       "user": "edenfunf"
     },
     {
@@ -724,8 +724,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 391,
       "user": "moguzbulbul"
+    },
+    {
+      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "published_at": "2026-10-02T09:57:40Z",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
+      "source": "GitHub",
+      "stars": 260,
+      "user": "QingYunA"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -739,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2567,
+      "stars": 2571,
       "user": "feder-cr"
     },
     {
@@ -754,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1343,
       "user": "firelex"
     },
     {
@@ -769,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1286,
       "user": "nanaism"
     },
     {
@@ -784,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 974,
       "user": "echris6"
     },
     {
@@ -799,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "Tuskira"
     },
     {
@@ -814,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5162,
+      "stars": 5317,
       "user": "KKKKhazix"
     },
     {
@@ -829,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1902,
+      "stars": 2114,
       "user": "CopilotKit"
     },
     {
@@ -844,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 716,
       "user": "openai"
     },
     {
@@ -859,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 487,
       "user": "composio-community"
     },
     {
@@ -874,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "alpcanaydin"
     },
     {
@@ -919,6 +934,64 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dumbass"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published_at": "2026-10-03T16:30:01.000Z",
+      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "tags": [
+        "AI",
+        "Security",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "published_at": "2026-10-03T15:02:01.000Z",
+      "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "Bitchat",
+        "jack dorsey"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "2026-10-03T14:00:00.000Z",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "tags": [
+        "AI",
+        "instinct",
+        "AI agents"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "published_at": "2026-10-03T14:00:00.000Z",
+      "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -979,84 +1052,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "published_at": "2026-10-02T17:48:16.000Z",
-      "description": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executi",
-      "tags": [
-        "Government & Policy",
-        "AI",
-        "ai safety",
-        "Anthropic",
-        "IPO"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "published_at": "2026-10-02T17:32:05.000Z",
-      "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "Venture",
-        "Blackstone"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "published_at": "2026-10-02T17:00:00.000Z",
-      "description": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
-      "tags": [
-        "AI",
-        "Startups",
-        "circuit breaker labs",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Paramount and Warner Bros. Discovery to become Skydance",
-      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "published_at": "2026-10-02T15:53:50.000Z",
-      "description": "The roughly $110 billion deal is expected to close October 6.",
-      "tags": [
-        "Media & Entertainment",
-        "In Brief",
-        "Mergers and Acquisitions",
-        "Paramount",
-        "streaming service"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "published_at": "2026-10-02T15:39:41.000Z",
-      "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "tags": [
-        "AI",
-        "Catholicism",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
@@ -1342,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1038,
       "user": "edenfunf"
     },
     {
@@ -1357,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "xikhar"
     },
     {
@@ -1372,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 391,
       "user": "moguzbulbul"
     },
     {
@@ -1387,23 +1382,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 309,
       "user": "sganggs"
     },
     {
-      "title": "grmchn/dopa-drill - 算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル",
-      "url": "https://github.com/grmchn/dopa-drill",
-      "published_at": "2026-09-27T01:47:36Z",
-      "description": "算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル",
+      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "published_at": "2026-10-02T09:57:40Z",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/214206822?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 210,
-      "user": "grmchn"
+      "stars": 260,
+      "user": "QingYunA"
     },
     {
       "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
@@ -1417,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 974,
       "user": "echris6"
     },
     {
@@ -1432,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5162,
+      "stars": 5317,
       "user": "KKKKhazix"
     },
     {
@@ -1447,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1902,
+      "stars": 2114,
       "user": "CopilotKit"
     },
     {
@@ -1462,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 716,
       "user": "openai"
     },
     {
@@ -1477,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 540,
       "user": "fsiaonma"
     },
     {
@@ -1492,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 487,
       "user": "composio-community"
     },
     {
@@ -1509,6 +1504,18 @@
       "user": "veqq"
     },
     {
+      "title": "How to run JSNice?",
+      "url": "https://stackoverflow.com/questions/80007642/how-to-run-jsnice",
+      "published_at": "2026-10-03T07:45:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nonhuman"
+    },
+    {
       "title": "Custom image to lightbox on ajax request with getuikit.com",
       "url": "https://stackoverflow.com/questions/80007667/custom-image-to-lightbox-on-ajax-request-with-getuikit-com",
       "published_at": "2026-10-03T11:46:45.000Z",
@@ -1521,18 +1528,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "woody180"
-    },
-    {
-      "title": "How to run JSNice?",
-      "url": "https://stackoverflow.com/questions/80007642/how-to-run-jsnice",
-      "published_at": "2026-10-03T07:45:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nonhuman"
     },
     {
       "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
@@ -1624,20 +1619,6 @@
       "user": "The Ratman"
     },
     {
-      "title": "is there a way to make it so event listener only handles one event at a time?",
-      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
-      "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aidan Pearson"
-    },
-    {
       "title": "How should I share, save and combine JavaScript variables across HTML sites?",
       "url": "https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites",
       "published_at": "2026-03-10T19:55:28.000Z",
@@ -1650,6 +1631,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32478630"
+    },
+    {
+      "title": "How to write an expression that picks a value based on a condition?",
+      "url": "https://stackoverflow.com/questions/18269286/how-to-write-an-expression-that-picks-a-value-based-on-a-condition",
+      "published_at": "2013-08-16T08:45:35.000Z",
+      "description": "Stack Overflow question · 8 answers · score 69",
+      "tags": [
+        "javascript",
+        "if-statement",
+        "conditional-operator"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Meek"
     },
     {
       "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
@@ -1954,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2567,
+      "stars": 2571,
       "user": "feder-cr"
     },
     {
@@ -1969,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2384,
+      "stars": 2484,
       "user": "rehan-remade"
     },
     {
@@ -1984,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1343,
       "user": "firelex"
     },
     {
@@ -1999,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1286,
       "user": "nanaism"
     },
     {
@@ -2014,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 974,
       "user": "echris6"
     },
     {
@@ -2042,6 +2037,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "blin"
+    },
+    {
+      "title": "When using pygame events, I can't detect when a KEY_UP event happens for some reason",
+      "url": "https://stackoverflow.com/questions/80007692/when-using-pygame-events-i-cant-detect-when-a-key-up-event-happens-for-some-re",
+      "published_at": "2026-10-03T14:11:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pink Acorn"
     },
     {
       "title": "Finding value within nested dictionary with arrays",
@@ -2161,21 +2169,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SteinGate"
-    },
-    {
-      "title": "Asyncio code causing infinite loop in GPIO project",
-      "url": "https://stackoverflow.com/questions/80007085/asyncio-code-causing-infinite-loop-in-gpio-project",
-      "published_at": "2026-09-30T19:23:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "raspberry-pi",
-        "python-asyncio",
-        "gpio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "roscoe_turner"
     }
   ],
   "DevOps": [
@@ -2355,7 +2348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 68,
       "user": "devilcoolyue"
     },
     {
@@ -2443,6 +2436,21 @@
       "user": "velmu"
     },
     {
+      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "published_at": "2026-10-02T09:57:40Z",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
+      "source": "GitHub",
+      "stars": 260,
+      "user": "QingYunA"
+    },
+    {
       "title": "Lobsters Interview with Sjamaan",
       "url": "https://alexalejandre.com/interviews/peter-bex/",
       "published_at": "2026-10-02T17:01:27.215-05:00",
@@ -2484,20 +2492,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "N&#233;o Kerroux"
-    },
-    {
-      "title": "is there a way to make it so event listener only handles one event at a time?",
-      "url": "https://stackoverflow.com/questions/79966618/is-there-a-way-to-make-it-so-event-listener-only-handles-one-event-at-a-time",
-      "published_at": "2026-06-25T01:48:11.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aidan Pearson"
     },
     {
       "title": "How should I share, save and combine JavaScript variables across HTML sites?",
@@ -2976,7 +2970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "alpcanaydin"
     },
     {
@@ -3166,17 +3160,18 @@
       "user": "retr0id"
     },
     {
-      "title": "Updates to Full Disk Access in macOS",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "published_at": "2026-10-02T15:10:26.574-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published_at": "2026-10-03T16:30:01.000Z",
+      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
       "tags": [
-        "mac",
-        "security"
+        "AI",
+        "Security",
+        "OpenAI"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "videah"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
@@ -3304,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1020,
+      "stars": 1038,
       "user": "edenfunf"
     },
     {
@@ -3319,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "xikhar"
     },
     {
@@ -3334,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 391,
       "user": "moguzbulbul"
     },
     {
@@ -3349,23 +3344,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 309,
       "user": "sganggs"
     },
     {
-      "title": "grmchn/dopa-drill - 算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル",
-      "url": "https://github.com/grmchn/dopa-drill",
-      "published_at": "2026-09-27T01:47:36Z",
-      "description": "算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル",
+      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "published_at": "2026-10-02T09:57:40Z",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/214206822?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 210,
-      "user": "grmchn"
+      "stars": 260,
+      "user": "QingYunA"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -3379,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2567,
+      "stars": 2571,
       "user": "feder-cr"
     },
     {
@@ -3394,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2384,
+      "stars": 2484,
       "user": "rehan-remade"
     },
     {
@@ -3409,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1343,
       "user": "firelex"
     },
     {
@@ -3424,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1286,
       "user": "nanaism"
     },
     {
@@ -3439,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 974,
       "user": "echris6"
     },
     {
@@ -3454,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 157,
       "user": "mizorewww"
     },
     {
@@ -3469,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 68,
       "user": "devilcoolyue"
     },
     {
@@ -3499,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "Tuskira"
     },
     {
@@ -3514,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173544653?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 48,
       "user": "Miroshka000"
     },
     {
@@ -3529,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5162,
+      "stars": 5317,
       "user": "KKKKhazix"
     },
     {
@@ -3544,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1902,
+      "stars": 2114,
       "user": "CopilotKit"
     },
     {
@@ -3559,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 716,
       "user": "openai"
     },
     {
@@ -3574,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 540,
       "user": "fsiaonma"
     },
     {
@@ -3589,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 487,
       "user": "composio-community"
     },
     {
@@ -3604,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 672,
       "user": "chasmlol"
     },
     {
@@ -3619,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 376,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3634,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "alpcanaydin"
     },
     {
@@ -3649,7 +3644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 316,
       "user": "openOMSI-Project"
     },
     {
