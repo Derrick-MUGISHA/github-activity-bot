@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-03 21:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-04 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -115,7 +115,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 | 19 | [🎡 Social Ferris Wheel: Sanity is the Hub](https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j) | Dev.to |
 | 20 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
 
-<sub>Last fetched: Sat, 03 Oct 2026 21:35:35 CAT</sub>
+<sub>Last fetched: Sun, 04 Oct 2026 00:27:58 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Explain database indexing and when to use it**
+**1. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**3. `Java` — Explain the Java memory model**
+**3. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Sliding window, hash map, two pointers
 
 </details>
 
@@ -173,7 +173,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 | **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -196,12 +196,12 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.0%
-Python          █████████████████████████ 22.3%
-Go              ████████████████████████ 21.6%
-Java            ██████████████████████ 19.6%
-Rust            ███████ 6.1%
-Kotlin          ██ 1.4%
+JavaScript      ██████████████████████████████ 26.8%
+Go              █████████████████████████ 22.1%
+Python          █████████████████████████ 22.1%
+Java            ██████████████████████ 19.5%
+Rust            ███████ 6.0%
+Kotlin          █ 1.3%
 Swift           █ 0.7%
 Ruby            █ 0.7%
 CSharp          █ 0.7%
@@ -211,8 +211,8 @@ CSharp          █ 0.7%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 40
+    "Go" : 33
     "Python" : 33
-    "Go" : 32
     "Java" : 29
     "Rust" : 9
     "Kotlin" : 2
@@ -275,6 +275,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 03 Oct 2026 19:35:35 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 03 Oct 2026 22:27:58 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
