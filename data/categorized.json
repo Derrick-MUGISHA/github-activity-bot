@@ -1,36 +1,6 @@
 {
   "AI": [
     {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
-      "published_at": "2026-10-02T17:59:48Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
-      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
-      "published_at": "2026-10-02T12:19:36Z",
-      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
-      "tags": [
-        "ai",
-        "devops",
-        "docker",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
       "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e",
       "published_at": "2026-10-01T17:08:03Z",
@@ -57,6 +27,21 @@
         "vllm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
+      "published_at": "2026-10-02T17:59:48Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
+      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
+      "published_at": "2026-10-02T12:19:36Z",
+      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
+      "tags": [
+        "ai",
+        "devops",
+        "docker",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "A wine cellar that remembers what you used to believe",
@@ -185,21 +185,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
-    },
-    {
-      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
-      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
-      "published_at": "2026-09-28T19:04:50Z",
-      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
-      "tags": [
-        "devchallenge",
-        "kagglechallenge",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
@@ -307,21 +292,6 @@
       "user": "Ikrame Ibn Hayoun"
     },
     {
-      "title": "I Built a Better Codex Pet Than OpenAI Did",
-      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
-      "published_at": "2026-09-26T11:16:56Z",
-      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
-      "tags": [
-        "opensource",
-        "python",
-        "linux",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
-    },
-    {
       "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
       "published_at": "2026-09-26T11:10:27Z",
@@ -363,6 +333,21 @@
         "sanity"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2u14p7nbbw94iduds9q.png",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
+    },
+    {
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
+      "published_at": "2026-09-26T11:16:56Z",
+      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
+      "tags": [
+        "opensource",
+        "python",
+        "linux",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
       "user": "Mika Flowers"
     },
@@ -438,6 +423,21 @@
         "llm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
+      "published_at": "2026-09-28T19:04:50Z",
+      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 993,
+      "stars": 1020,
       "user": "edenfunf"
     },
     {
@@ -724,23 +724,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "moguzbulbul"
-    },
-    {
-      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "url": "https://github.com/blendi-remade/dioramas",
-      "published_at": "2026-09-30T00:07:56Z",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
-      "source": "GitHub",
-      "stars": 208,
-      "user": "blendi-remade"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -754,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2562,
+      "stars": 2567,
       "user": "feder-cr"
     },
     {
@@ -769,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1338,
       "user": "firelex"
     },
     {
@@ -784,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1259,
       "user": "nanaism"
     },
     {
@@ -799,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 970,
       "user": "echris6"
     },
     {
@@ -814,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "Tuskira"
     },
     {
@@ -829,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5027,
+      "stars": 5162,
       "user": "KKKKhazix"
     },
     {
@@ -844,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1716,
+      "stars": 1902,
       "user": "CopilotKit"
     },
     {
@@ -859,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 711,
       "user": "openai"
     },
     {
@@ -874,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 471,
       "user": "composio-community"
     },
     {
@@ -889,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "alpcanaydin"
     },
     {
@@ -909,7 +894,7 @@
       "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
       "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
       "published_at": "2026-10-02T20:12:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "async-await",
@@ -1357,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 993,
+      "stars": 1020,
       "user": "edenfunf"
     },
     {
@@ -1372,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 476,
       "user": "xikhar"
     },
     {
@@ -1387,8 +1372,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "moguzbulbul"
+    },
+    {
+      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "published_at": "2026-10-02T09:38:41Z",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
+      "source": "GitHub",
+      "stars": 233,
+      "user": "sganggs"
     },
     {
       "title": "grmchn/dopa-drill - 算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル",
@@ -1406,21 +1406,6 @@
       "user": "grmchn"
     },
     {
-      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "url": "https://github.com/blendi-remade/dioramas",
-      "published_at": "2026-09-30T00:07:56Z",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
-      "source": "GitHub",
-      "stars": 208,
-      "user": "blendi-remade"
-    },
-    {
       "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
       "url": "https://github.com/echris6/motion-video-kit",
       "published_at": "2026-09-27T14:11:14Z",
@@ -1432,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 970,
       "user": "echris6"
     },
     {
@@ -1447,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5027,
+      "stars": 5162,
       "user": "KKKKhazix"
     },
     {
@@ -1462,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1716,
+      "stars": 1902,
       "user": "CopilotKit"
     },
     {
@@ -1477,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 711,
       "user": "openai"
     },
     {
@@ -1492,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 530,
       "user": "fsiaonma"
     },
     {
@@ -1507,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 471,
       "user": "composio-community"
     },
     {
@@ -1524,10 +1509,36 @@
       "user": "veqq"
     },
     {
+      "title": "Custom image to lightbox on ajax request with getuikit.com",
+      "url": "https://stackoverflow.com/questions/80007667/custom-image-to-lightbox-on-ajax-request-with-getuikit-com",
+      "published_at": "2026-10-03T11:46:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "lightbox",
+        "getuikit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "woody180"
+    },
+    {
+      "title": "How to run JSNice?",
+      "url": "https://stackoverflow.com/questions/80007642/how-to-run-jsnice",
+      "published_at": "2026-10-03T07:45:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nonhuman"
+    },
+    {
       "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
       "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
       "published_at": "2026-10-02T20:12:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "async-await",
@@ -1553,21 +1564,6 @@
       "user": "John "
     },
     {
-      "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
-      "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
-      "published_at": "2026-10-01T11:29:36.000Z",
-      "description": "Stack Overflow question · 4 answers · score -9",
-      "tags": [
-        "javascript",
-        "regex",
-        "url",
-        "spotify"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "spotload"
-    },
-    {
       "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
       "url": "https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs",
       "published_at": "2026-10-02T10:50:36.000Z",
@@ -1580,6 +1576,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alex Sindre"
+    },
+    {
+      "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
+      "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
+      "published_at": "2026-10-01T11:29:36.000Z",
+      "description": "Stack Overflow question · 4 answers · score -10",
+      "tags": [
+        "javascript",
+        "regex",
+        "url",
+        "spotify"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "spotload"
     },
     {
       "title": "CSS and JavaScript not applying on my localhost",
@@ -1598,17 +1609,19 @@
       "user": "N&#233;o Kerroux"
     },
     {
-      "title": "React form doesn't submit when pressing Enter in an input field",
-      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
-      "published_at": "2026-09-25T09:58:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
+      "title": "Apply a filter function to a table based on selected value",
+      "url": "https://stackoverflow.com/questions/80006046/apply-a-filter-function-to-a-table-based-on-selected-value",
+      "published_at": "2026-09-26T14:40:48.000Z",
+      "description": "Stack Overflow question · 5 answers · score 2",
       "tags": [
         "javascript",
-        "reactjs"
+        "arrays",
+        "forms",
+        "filter"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ehan Siddique"
+      "user": "The Ratman"
     },
     {
       "title": "is there a way to make it so event listener only handles one event at a time?",
@@ -1625,25 +1638,10 @@
       "user": "Aidan Pearson"
     },
     {
-      "title": "How do I generate SEO-friendly meta tags in React?",
-      "url": "https://stackoverflow.com/questions/79950873/how-do-i-generate-seo-friendly-meta-tags-in-react",
-      "published_at": "2026-06-03T13:40:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "seo",
-        "advice"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aryananda arya"
-    },
-    {
       "title": "How should I share, save and combine JavaScript variables across HTML sites?",
       "url": "https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites",
       "published_at": "2026-03-10T19:55:28.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "advice",
         "javascript",
@@ -1652,20 +1650,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32478630"
-    },
-    {
-      "title": "How to add a delay to an animation if it's in the viewport initially, otherwise have a different delay?",
-      "url": "https://stackoverflow.com/questions/79404188/how-to-add-a-delay-to-an-animation-if-its-in-the-viewport-initially-otherwise",
-      "published_at": "2025-01-31T23:41:15.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "framer-motion"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "matt"
     },
     {
       "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
@@ -1779,21 +1763,6 @@
       "user": "xbill"
     },
     {
-      "title": "I Built a Better Codex Pet Than OpenAI Did",
-      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
-      "published_at": "2026-09-26T11:16:56Z",
-      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
-      "tags": [
-        "opensource",
-        "python",
-        "linux",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
-    },
-    {
       "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
       "url": "https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac",
       "published_at": "2026-09-24T13:38:00Z",
@@ -1822,6 +1791,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
+      "published_at": "2026-09-26T11:16:56Z",
+      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
+      "tags": [
+        "opensource",
+        "python",
+        "linux",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
     },
     {
       "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
@@ -1970,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2562,
+      "stars": 2567,
       "user": "feder-cr"
     },
     {
@@ -1985,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2272,
+      "stars": 2384,
       "user": "rehan-remade"
     },
     {
@@ -2000,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1338,
       "user": "firelex"
     },
     {
@@ -2015,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1259,
       "user": "nanaism"
     },
     {
@@ -2030,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 970,
       "user": "echris6"
     },
     {
@@ -2047,10 +2031,23 @@
       "user": "veqq"
     },
     {
+      "title": "Rust for CPython (Python Language Summit 2026)",
+      "url": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
+      "published_at": "2026-10-03T04:40:38.169-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "python",
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "blin"
+    },
+    {
       "title": "Finding value within nested dictionary with arrays",
       "url": "https://stackoverflow.com/questions/80007452/finding-value-within-nested-dictionary-with-arrays",
       "published_at": "2026-10-02T09:49:08.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python"
       ],
@@ -2100,7 +2097,7 @@
       "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
       "url": "https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n",
       "published_at": "2026-10-02T10:44:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "jupyter-notebook",
@@ -2109,19 +2106,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FluidMechanics Potential Flows"
-    },
-    {
-      "title": "Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
-      "url": "https://stackoverflow.com/questions/80007351/raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying-its-a",
-      "published_at": "2026-10-01T20:40:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "raylib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "King Of Noobs"
     },
     {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
@@ -2139,10 +2123,23 @@
       "user": "dumbass"
     },
     {
+      "title": "Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
+      "url": "https://stackoverflow.com/questions/80007351/raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying-its-a",
+      "published_at": "2026-10-01T20:40:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "raylib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "King Of Noobs"
+    },
+    {
       "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
       "url": "https://stackoverflow.com/questions/80007239/why-does-my-pandas-groupby-suddenly-use-12gb-ram-and-crash-after-1m-rows-it-wor",
       "published_at": "2026-10-01T11:28:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "pandas",
@@ -2166,19 +2163,19 @@
       "user": "SteinGate"
     },
     {
-      "title": "Python multiprocessing (pool, imap) performance degradation on Linux host",
-      "url": "https://stackoverflow.com/questions/80007255/python-multiprocessing-pool-imap-performance-degradation-on-linux-host",
-      "published_at": "2026-10-01T12:37:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "Asyncio code causing infinite loop in GPIO project",
+      "url": "https://stackoverflow.com/questions/80007085/asyncio-code-causing-infinite-loop-in-gpio-project",
+      "published_at": "2026-09-30T19:23:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "ubuntu",
-        "multiprocessing",
-        "pool"
+        "raspberry-pi",
+        "python-asyncio",
+        "gpio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "e2013mbp-gecko"
+      "user": "roscoe_turner"
     }
   ],
   "DevOps": [
@@ -2358,7 +2355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 64,
       "user": "devilcoolyue"
     },
     {
@@ -2506,7 +2503,7 @@
       "title": "How should I share, save and combine JavaScript variables across HTML sites?",
       "url": "https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites",
       "published_at": "2026-03-10T19:55:28.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "advice",
         "javascript",
@@ -2693,21 +2690,6 @@
   ],
   "Cloud": [
     {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
-      "published_at": "2026-10-02T17:59:48Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
       "published_at": "2026-09-30T17:33:22Z",
@@ -2719,6 +2701,21 @@
         "vllm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
+      "published_at": "2026-10-02T17:59:48Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2979,7 +2976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "alpcanaydin"
     },
     {
@@ -3156,6 +3153,19 @@
       "user": "veqq"
     },
     {
+      "title": "How to Hack Time, With C2PA",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "published_at": "2026-10-03T06:58:14.604-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "cryptography",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "retr0id"
+    },
+    {
       "title": "Updates to Full Disk Access in macOS",
       "url": "https://developer.apple.com/news/?id=p6zjojqw",
       "published_at": "2026-10-02T15:10:26.574-05:00",
@@ -3187,21 +3197,6 @@
   ],
   "Tools": [
     {
-      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
-      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
-      "published_at": "2026-09-28T19:04:50Z",
-      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
-      "tags": [
-        "devchallenge",
-        "kagglechallenge",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
       "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
       "published_at": "2026-09-20T19:48:39Z",
@@ -3215,6 +3210,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+      "url": "https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae",
+      "published_at": "2026-09-28T19:04:50Z",
+      "description": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
@@ -3294,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 993,
+      "stars": 1020,
       "user": "edenfunf"
     },
     {
@@ -3309,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 476,
       "user": "xikhar"
     },
     {
@@ -3324,8 +3334,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "moguzbulbul"
+    },
+    {
+      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "published_at": "2026-10-02T09:38:41Z",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
+      "source": "GitHub",
+      "stars": 233,
+      "user": "sganggs"
     },
     {
       "title": "grmchn/dopa-drill - 算数を解くたびに演出と音が増幅する、ブラウザ完結の計算ドリル",
@@ -3343,21 +3368,6 @@
       "user": "grmchn"
     },
     {
-      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "url": "https://github.com/blendi-remade/dioramas",
-      "published_at": "2026-09-30T00:07:56Z",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
-      "source": "GitHub",
-      "stars": 208,
-      "user": "blendi-remade"
-    },
-    {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "url": "https://github.com/feder-cr/dots",
       "published_at": "2026-09-29T23:06:00Z",
@@ -3369,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2562,
+      "stars": 2567,
       "user": "feder-cr"
     },
     {
@@ -3384,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2272,
+      "stars": 2384,
       "user": "rehan-remade"
     },
     {
@@ -3399,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1338,
       "user": "firelex"
     },
     {
@@ -3414,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1259,
       "user": "nanaism"
     },
     {
@@ -3429,8 +3439,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 970,
       "user": "echris6"
+    },
+    {
+      "title": "mizorewww/x_gift_bot - X Premium gift CLI and redemption site",
+      "url": "https://github.com/mizorewww/x_gift_bot",
+      "published_at": "2026-10-02T10:29:43Z",
+      "description": "X Premium gift CLI and redemption site",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "mizorewww"
     },
     {
       "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
@@ -3444,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 64,
       "user": "devilcoolyue"
     },
     {
@@ -3459,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 58,
       "user": "Bornholm"
     },
     {
@@ -3474,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "Tuskira"
     },
     {
@@ -3489,23 +3514,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173544653?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 46,
       "user": "Miroshka000"
-    },
-    {
-      "title": "Vitruves/ghostty-config - TUI for Ghostty terminal customization ",
-      "url": "https://github.com/Vitruves/ghostty-config",
-      "published_at": "2026-09-27T08:57:53Z",
-      "description": "TUI for Ghostty terminal customization ",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65819137?v=4",
-      "source": "GitHub",
-      "stars": 38,
-      "user": "Vitruves"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -3519,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5027,
+      "stars": 5162,
       "user": "KKKKhazix"
     },
     {
@@ -3534,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1716,
+      "stars": 1902,
       "user": "CopilotKit"
     },
     {
@@ -3549,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 711,
       "user": "openai"
     },
     {
@@ -3564,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 530,
       "user": "fsiaonma"
     },
     {
@@ -3579,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 471,
       "user": "composio-community"
     },
     {
@@ -3594,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 657,
       "user": "chasmlol"
     },
     {
@@ -3609,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 364,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3624,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "alpcanaydin"
     },
     {
@@ -3639,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 304,
       "user": "openOMSI-Project"
     },
     {
