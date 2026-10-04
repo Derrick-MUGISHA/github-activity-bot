@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--10--04-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-04 3:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-04 9:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -105,17 +105,17 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 | 9 | [Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o) | Dev.to |
 | 10 | [Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch) | Dev.to |
 | 11 | [Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week](https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54) | Dev.to |
-| 12 | [Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃](https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk) | Dev.to |
-| 13 | [Claude Sonnet 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h) | Dev.to |
-| 14 | [7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3) | Dev.to |
-| 15 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
-| 16 | [Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC.](https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5) | Dev.to |
-| 17 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
-| 18 | [A wine cellar that remembers what you used to believe](https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55) | Dev.to |
-| 19 | [🎡 Social Ferris Wheel: Sanity is the Hub](https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j) | Dev.to |
-| 20 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
+| 12 | [Claude Sonnet 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h) | Dev.to |
+| 13 | [7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3) | Dev.to |
+| 14 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
+| 15 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 16 | [A wine cellar that remembers what you used to believe](https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55) | Dev.to |
+| 17 | [🎡 Social Ferris Wheel: Sanity is the Hub](https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j) | Dev.to |
+| 18 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
+| 19 | [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57) | Dev.to |
+| 20 | [Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃](https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk) | Dev.to |
 
-<sub>Last fetched: Sun, 04 Oct 2026 03:56:48 CAT</sub>
+<sub>Last fetched: Sun, 04 Oct 2026 09:52:51 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What are closures and provide a practical example?**
+**1. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Schema, scalability, ACID vs BASE
 
 </details>
 
-**3. `DataStructures` — Find the longest substring without repeating characters**
+**3. `Python` — What are generators and when would you use them?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -166,16 +166,16 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 81 | 44.0% | `████████████████████` |
-| **JavaScript** | 40 | 21.7% | `██████████░░░░░░░░░░` |
-| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
-| **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
-| **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 10 | 5.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 80 | 43.5% | `████████████████████` |
+| **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 38 | 20.7% | `██████████░░░░░░░░░░` |
+| **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
+| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
+| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -196,34 +196,31 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.0%
-Go              █████████████████████████ 22.3%
-Python          ████████████████████████ 21.6%
-Java            ██████████████████████ 19.6%
-Rust            ██████ 5.4%
-Kotlin          ██ 2.0%
+JavaScript      ██████████████████████████████ 26.4%
+Go              █████████████████████████ 22.2%
+Python          ████████████████████████ 21.5%
+Java            ███████████████████████ 20.1%
+Rust            ███████ 6.3%
+Kotlin          ███ 2.8%
 Swift           █ 0.7%
-Ruby            █ 0.7%
-CSharp          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 40
-    "Go" : 33
-    "Python" : 32
+    "JavaScript" : 38
+    "Go" : 32
+    "Python" : 31
     "Java" : 29
-    "Rust" : 8
-    "Kotlin" : 3
+    "Rust" : 9
+    "Kotlin" : 4
     "Swift" : 1
-    "Ruby" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) 
 
 
 ---
@@ -275,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 04 Oct 2026 01:56:48 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 04 Oct 2026 07:52:51 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
