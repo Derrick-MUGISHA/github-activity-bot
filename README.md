@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-182-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--10--04-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-04 15:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-04 19:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -108,14 +108,14 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 | 12 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
 | 13 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
 | 14 | [A wine cellar that remembers what you used to believe](https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55) | Dev.to |
-| 15 | [🎡 Social Ferris Wheel: Sanity is the Hub](https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j) | Dev.to |
-| 16 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
-| 17 | [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57) | Dev.to |
-| 18 | [Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week](https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54) | Dev.to |
-| 19 | [Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃](https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk) | Dev.to |
-| 20 | [Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀](https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25) | Dev.to |
+| 15 | [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl) | Dev.to |
+| 16 | [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57) | Dev.to |
+| 17 | [Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week](https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54) | Dev.to |
+| 18 | [Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃](https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk) | Dev.to |
+| 19 | [Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀](https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25) | Dev.to |
+| 20 | [Deploying LiteLLM: An Open-Source AI Gateway](https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp) | Dev.to |
 
-<sub>Last fetched: Sun, 04 Oct 2026 15:36:17 CAT</sub>
+<sub>Last fetched: Sun, 04 Oct 2026 19:52:17 CAT</sub>
 
 
 ---
@@ -124,18 +124,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Implement a debounce function from scratch**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> setTimeout, clearTimeout, wrapper function
-
-</details>
-
-**2. `Java` — What is the difference between abstract class and interface?**
+**1. `Java` — What is the difference between abstract class and interface?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
@@ -146,14 +135,25 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 </details>
 
-**3. `React` — Explain the difference between state and props**
+**2. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> Token bucket, sliding window, distributed systems
+
+</details>
+
+**3. `Python` — Explain GIL and its implications for multithreading**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
@@ -166,15 +166,15 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 42.1% | `████████████████████` |
-| **Tools** | 40 | 21.9% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 38 | 20.8% | `██████████░░░░░░░░░░` |
-| **Python** | 31 | 16.9% | `████████░░░░░░░░░░░░` |
-| **DevOps** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **AI** | 78 | 42.9% | `████████████████████` |
+| **Tools** | 40 | 22.0% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 39 | 21.4% | `██████████░░░░░░░░░░` |
+| **Python** | 31 | 17.0% | `████████░░░░░░░░░░░░` |
+| **DevOps** | 18 | 9.9% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -184,7 +184,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 59 |
+| Dev.to | 58 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -196,11 +196,11 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.4%
-Go              ██████████████████████████ 22.9%
+JavaScript      ██████████████████████████████ 27.1%
+Go              ████████████████████████ 21.5%
 Python          ████████████████████████ 21.5%
-Java            ███████████████████████ 20.1%
-Rust            ██████ 5.6%
+Java            ██████████████████████ 20.1%
+Rust            ███████ 6.3%
 Kotlin          ██ 2.1%
 Swift           █ 0.7%
 Ruby            █ 0.7%
@@ -209,11 +209,11 @@ Ruby            █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 38
-    "Go" : 33
+    "JavaScript" : 39
+    "Go" : 31
     "Python" : 31
     "Java" : 29
-    "Rust" : 8
+    "Rust" : 9
     "Kotlin" : 3
     "Swift" : 1
     "Ruby" : 1
@@ -222,7 +222,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) 
 
 
 ---
@@ -274,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 04 Oct 2026 13:36:17 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 04 Oct 2026 17:52:17 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
