@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-04 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-04 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -115,7 +115,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 | 19 | [Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀](https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25) | Dev.to |
 | 20 | [Deploying LiteLLM: An Open-Source AI Gateway](https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp) | Dev.to |
 
-<sub>Last fetched: Sun, 04 Oct 2026 19:52:17 CAT</sub>
+<sub>Last fetched: Sun, 04 Oct 2026 22:35:16 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What is the difference between abstract class and interface?**
+**1. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Token bucket, sliding window, Redis
 
 </details>
 
-**2. `SystemDesign` — How would you design a rate limiter?**
+**2. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
-**3. `Python` — Explain GIL and its implications for multithreading**
+**3. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -167,14 +167,14 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 78 | 42.9% | `████████████████████` |
-| **Tools** | 40 | 22.0% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 39 | 21.4% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 38 | 20.9% | `██████████░░░░░░░░░░` |
+| **Tools** | 38 | 20.9% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 17.0% | `████████░░░░░░░░░░░░` |
 | **DevOps** | 18 | 9.9% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -196,11 +196,11 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.1%
-Go              ████████████████████████ 21.5%
-Python          ████████████████████████ 21.5%
-Java            ██████████████████████ 20.1%
-Rust            ███████ 6.3%
+JavaScript      ██████████████████████████████ 26.0%
+Go              ██████████████████████████ 22.6%
+Python          ████████████████████████ 21.2%
+Java            ████████████████████████ 20.5%
+Rust            ███████ 6.2%
 Kotlin          ██ 2.1%
 Swift           █ 0.7%
 Ruby            █ 0.7%
@@ -209,10 +209,10 @@ Ruby            █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 39
-    "Go" : 31
+    "JavaScript" : 38
+    "Go" : 33
     "Python" : 31
-    "Java" : 29
+    "Java" : 30
     "Rust" : 9
     "Kotlin" : 3
     "Swift" : 1
@@ -222,7 +222,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) 
 
 
 ---
@@ -274,6 +274,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 04 Oct 2026 17:52:17 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 04 Oct 2026 20:35:16 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

@@ -694,7 +694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1263,
       "user": "edenfunf"
     },
     {
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 954,
+      "stars": 996,
       "user": "QingYunA"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "blendi-remade"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 212,
       "user": "allenv0"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2594,
+      "stars": 2598,
       "user": "feder-cr"
     },
     {
@@ -769,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1372,
+      "stars": 1377,
       "user": "nanaism"
     },
     {
@@ -784,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1367,
       "user": "firelex"
     },
     {
@@ -799,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 976,
       "user": "nykooi1"
     },
     {
@@ -814,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5737,
+      "stars": 5755,
       "user": "KKKKhazix"
     },
     {
@@ -829,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3081,
+      "stars": 3141,
       "user": "CopilotKit"
     },
     {
@@ -844,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 749,
       "user": "openai"
     },
     {
@@ -859,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 555,
       "user": "composio-community"
     },
     {
@@ -874,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 335,
       "user": "alpcanaydin"
     },
     {
@@ -906,6 +906,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Manthan Done"
+    },
+    {
+      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published_at": "2026-10-04T20:31:07.000Z",
+      "description": "AI slop seems to be overwhelming bug bounty programs.",
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "published_at": "2026-10-04T20:08:34.000Z",
+      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "dario amodei",
+        "Donald Trump",
+        "Equity podcast"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "TechCrunch Mobility: Reining in robotaxis",
@@ -996,33 +1025,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "published_at": "2026-10-03T14:00:00.000Z",
-      "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "published_at": "2026-10-03T00:45:39.000Z",
-      "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "tags": [
-        "AI",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Separate Operational Intent from the Executor",
@@ -1294,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1263,
       "user": "edenfunf"
     },
     {
@@ -1309,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 954,
+      "stars": 996,
       "user": "QingYunA"
     },
     {
@@ -1324,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 531,
       "user": "sganggs"
     },
     {
@@ -1339,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "blendi-remade"
     },
     {
@@ -1354,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 212,
       "user": "allenv0"
     },
     {
@@ -1369,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5737,
+      "stars": 5755,
       "user": "KKKKhazix"
     },
     {
@@ -1384,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3081,
+      "stars": 3141,
       "user": "CopilotKit"
     },
     {
@@ -1399,8 +1401,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 749,
       "user": "openai"
+    },
+    {
+      "title": "kargulstudio/sales-crm - GitHub Repository",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "published_at": "2026-10-04T10:55:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
+      "source": "GitHub",
+      "stars": 646,
+      "user": "kargulstudio"
     },
     {
       "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
@@ -1414,23 +1431,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 555,
       "user": "composio-community"
-    },
-    {
-      "title": "fsiaonma/elpis - elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "published_at": "2026-09-29T02:19:22Z",
-      "description": "elpis",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
-      "source": "GitHub",
-      "stars": 548,
-      "user": "fsiaonma"
     },
     {
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
@@ -1518,6 +1520,20 @@
       "user": "The Ratman"
     },
     {
+      "title": "How do I randomize the position of bezier vertices?",
+      "url": "https://stackoverflow.com/questions/80006033/how-do-i-randomize-the-position-of-bezier-vertices",
+      "published_at": "2026-09-26T13:57:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "random",
+        "bezier"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aurora Lane"
+    },
+    {
       "title": "How should I share, save and combine JavaScript variables across HTML sites?",
       "url": "https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites",
       "published_at": "2026-03-10T19:55:28.000Z",
@@ -1557,21 +1573,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Meek"
-    },
-    {
-      "title": "How to build a UI Component Library with code-splitting for CSS styles",
-      "url": "https://stackoverflow.com/questions/75492775/how-to-build-a-ui-component-library-with-code-splitting-for-css-styles",
-      "published_at": "2023-02-18T10:43:10.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "components"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "floroz"
     },
     {
       "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
@@ -1650,22 +1651,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ash"
-    },
-    {
-      "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/",
-      "published_at": "2026-10-01T11:01:21.000Z",
-      "description": "Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr",
-      "tags": [
-        "TypeScript",
-        "vscode",
-        "programming languages",
-        "Open Source",
-        "software development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Otobong Peter"
     }
   ],
   "Python": [
@@ -1891,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2953,
+      "stars": 3027,
       "user": "rehan-remade"
     },
     {
@@ -1906,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2594,
+      "stars": 2598,
       "user": "feder-cr"
     },
     {
@@ -1921,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1372,
+      "stars": 1377,
       "user": "nanaism"
     },
     {
@@ -1936,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1367,
       "user": "firelex"
     },
     {
@@ -1951,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 976,
       "user": "nykooi1"
     },
     {
@@ -2269,7 +2254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "devilcoolyue"
     },
     {
@@ -2387,7 +2372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 954,
+      "stars": 996,
       "user": "QingYunA"
     },
     {
@@ -2417,21 +2402,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32478630"
-    },
-    {
-      "title": "How to build a UI Component Library with code-splitting for CSS styles",
-      "url": "https://stackoverflow.com/questions/75492775/how-to-build-a-ui-component-library-with-code-splitting-for-css-styles",
-      "published_at": "2023-02-18T10:43:10.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "components"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "floroz"
     },
     {
       "title": "Learn Modern Kotlin",
@@ -2550,16 +2520,20 @@
       "user": "Alexandra"
     },
     {
-      "title": "System-level ad-blocking in Android",
-      "url": "https://kevinboone.me/adblock.html",
-      "published_at": "2026-10-03T15:43:41.881-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
+      "url": "https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/",
+      "published_at": "2026-10-04T12:14:15.000Z",
+      "description": "Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t",
       "tags": [
-        "android"
+        "Android",
+        "jni",
+        "Java",
+        "binder",
+        "ipc"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "robalex"
+      "source": "freeCodeCamp",
+      "user": "Nikheel Vishwas Savant"
     },
     {
       "title": "Learn Modern Kotlin",
@@ -2879,7 +2853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 335,
       "user": "alpcanaydin"
     }
   ],
@@ -3017,17 +2991,17 @@
       "user": "ewenjo"
     },
     {
-      "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
-      "url": "https://frankwiles.com/posts/i-got-targeted/",
-      "published_at": "2026-10-02T17:19:02.622-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published_at": "2026-10-04T20:31:07.000Z",
+      "description": "AI slop seems to be overwhelming bug bounty programs.",
       "tags": [
-        "security",
-        "vcs"
+        "AI",
+        "Security"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "frankwiles"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
@@ -3167,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1263,
       "user": "edenfunf"
     },
     {
@@ -3182,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 954,
+      "stars": 996,
       "user": "QingYunA"
     },
     {
@@ -3197,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 531,
       "user": "sganggs"
     },
     {
@@ -3212,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "blendi-remade"
     },
     {
@@ -3227,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 212,
       "user": "allenv0"
     },
     {
@@ -3242,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2953,
+      "stars": 3027,
       "user": "rehan-remade"
     },
     {
@@ -3257,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2594,
+      "stars": 2598,
       "user": "feder-cr"
     },
     {
@@ -3272,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1372,
+      "stars": 1377,
       "user": "nanaism"
     },
     {
@@ -3287,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1363,
+      "stars": 1367,
       "user": "firelex"
     },
     {
@@ -3302,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 976,
       "user": "nykooi1"
     },
     {
@@ -3317,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 239,
       "user": "mizorewww"
     },
     {
@@ -3332,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "devilcoolyue"
     },
     {
@@ -3392,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5737,
+      "stars": 5755,
       "user": "KKKKhazix"
     },
     {
@@ -3407,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3081,
+      "stars": 3141,
       "user": "CopilotKit"
     },
     {
@@ -3422,8 +3396,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 749,
       "user": "openai"
+    },
+    {
+      "title": "kargulstudio/sales-crm - GitHub Repository",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "published_at": "2026-10-04T10:55:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
+      "source": "GitHub",
+      "stars": 646,
+      "user": "kargulstudio"
     },
     {
       "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
@@ -3437,23 +3426,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 555,
       "user": "composio-community"
-    },
-    {
-      "title": "fsiaonma/elpis - elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "published_at": "2026-09-29T02:19:22Z",
-      "description": "elpis",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
-      "source": "GitHub",
-      "stars": 548,
-      "user": "fsiaonma"
     },
     {
       "title": "storytold/photocraft - GitHub Repository",
@@ -3467,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 659,
       "user": "storytold"
     },
     {
@@ -3482,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 453,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3497,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 335,
       "user": "alpcanaydin"
     },
     {
@@ -3512,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 222,
       "user": "storytold"
     },
     {
@@ -3527,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 211,
       "user": "storytold"
     },
     {
@@ -3542,19 +3516,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "bt"
-    },
-    {
-      "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
-      "url": "https://frankwiles.com/posts/i-got-targeted/",
-      "published_at": "2026-10-02T17:19:02.622-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "frankwiles"
     },
     {
       "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
@@ -3630,22 +3591,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/",
-      "published_at": "2026-10-01T11:01:21.000Z",
-      "description": "Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr",
-      "tags": [
-        "TypeScript",
-        "vscode",
-        "programming languages",
-        "Open Source",
-        "software development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Otobong Peter"
     }
   ]
 }
