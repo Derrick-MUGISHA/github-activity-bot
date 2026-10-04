@@ -75,21 +75,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
-      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
-      "published_at": "2026-10-02T12:19:36Z",
-      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
-      "tags": [
-        "ai",
-        "devops",
-        "docker",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
       "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch",
       "published_at": "2026-09-30T13:00:26Z",
@@ -230,6 +215,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
       "source": "Dev.to",
       "user": "Sanskriti Harmukh"
+    },
+    {
+      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
+      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
+      "published_at": "2026-10-02T12:19:36Z",
+      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
+      "tags": [
+        "ai",
+        "devops",
+        "docker",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1236,
       "user": "edenfunf"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 806,
       "user": "QingYunA"
     },
     {
@@ -739,23 +739,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 215,
       "user": "blendi-remade"
-    },
-    {
-      "title": "deepseek-ai/dsh-libreoffice-kit - An internal component used by DeepSeek Harness",
-      "url": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
-      "published_at": "2026-09-30T06:28:16Z",
-      "description": "An internal component used by DeepSeek Harness",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 133,
-      "user": "deepseek-ai"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -769,23 +754,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2582,
+      "stars": 2591,
       "user": "feder-cr"
-    },
-    {
-      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "published_at": "2026-09-28T16:18:39Z",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
-      "source": "GitHub",
-      "stars": 1353,
-      "user": "firelex"
     },
     {
       "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
@@ -799,8 +769,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1365,
       "user": "nanaism"
+    },
+    {
+      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "url": "https://github.com/firelex/jeff",
+      "published_at": "2026-09-28T16:18:39Z",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
+      "source": "GitHub",
+      "stars": 1359,
+      "user": "firelex"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -814,38 +799,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 865,
       "user": "nykooi1"
-    },
-    {
-      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "url": "https://github.com/Tuskira/ai-agent-gateway",
-      "published_at": "2026-10-01T11:32:10Z",
-      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
-      "source": "GitHub",
-      "stars": 55,
-      "user": "Tuskira"
-    },
-    {
-      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
-      "published_at": "2026-10-03T15:08:10Z",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 54,
-      "user": "MatinSenPai"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -859,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5552,
+      "stars": 5660,
       "user": "KKKKhazix"
     },
     {
@@ -874,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2758,
+      "stars": 2957,
       "user": "CopilotKit"
     },
     {
@@ -889,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 739,
       "user": "openai"
     },
     {
@@ -904,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 540,
       "user": "composio-community"
     },
     {
@@ -926,7 +881,7 @@
       "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
       "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
       "published_at": "2026-10-02T20:12:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "async-await",
@@ -1323,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1236,
       "user": "edenfunf"
     },
     {
@@ -1338,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 806,
       "user": "QingYunA"
     },
     {
@@ -1353,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 483,
       "user": "sganggs"
     },
     {
@@ -1368,23 +1323,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 215,
       "user": "blendi-remade"
     },
     {
-      "title": "deepseek-ai/dsh-libreoffice-kit - An internal component used by DeepSeek Harness",
-      "url": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
-      "published_at": "2026-09-30T06:28:16Z",
-      "description": "An internal component used by DeepSeek Harness",
+      "title": "charlenemercury/roster-match - 把听到的中文名字对到一份花名册上：按音节比拼音、多音姓、口音归一、字形兜底；拿不准时给候选和理由，不替你下结论。零依赖。",
+      "url": "https://github.com/charlenemercury/roster-match",
+      "published_at": "2026-09-28T14:54:47Z",
+      "description": "把听到的中文名字对到一份花名册上：按音节比拼音、多音姓、口音归一、字形兜底；拿不准时给候选和理由，不替你下结论。零依赖。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/133576629?v=4",
       "source": "GitHub",
-      "stars": 133,
-      "user": "deepseek-ai"
+      "stars": 139,
+      "user": "charlenemercury"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -1398,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5552,
+      "stars": 5660,
       "user": "KKKKhazix"
     },
     {
@@ -1413,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2758,
+      "stars": 2957,
       "user": "CopilotKit"
     },
     {
@@ -1428,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 739,
       "user": "openai"
     },
     {
@@ -1443,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 546,
       "user": "fsiaonma"
     },
     {
@@ -1458,14 +1413,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 540,
       "user": "composio-community"
     },
     {
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
       "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
       "published_at": "2026-10-03T19:53:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -1474,18 +1429,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Murtaza Siddiqui"
-    },
-    {
-      "title": "How to run JSNice?",
-      "url": "https://stackoverflow.com/questions/80007642/how-to-run-jsnice",
-      "published_at": "2026-10-03T07:45:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nonhuman"
     },
     {
       "title": "Custom image to lightbox on ajax request with getuikit.com",
@@ -1500,6 +1443,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "woody180"
+    },
+    {
+      "title": "How to run JSNice?",
+      "url": "https://stackoverflow.com/questions/80007642/how-to-run-jsnice",
+      "published_at": "2026-10-03T07:45:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nonhuman"
+    },
+    {
+      "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
+      "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
+      "published_at": "2026-10-02T20:12:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "async-await",
+        "es6-promise",
+        "abortcontroller"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hassan"
     },
     {
       "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
@@ -1517,25 +1487,10 @@
       "user": "spotload"
     },
     {
-      "title": "How can I implement a concurrency-limited Promise pool while preserving input order and handling cancellation",
-      "url": "https://stackoverflow.com/questions/80007581/how-can-i-implement-a-concurrency-limited-promise-pool-while-preserving-input-or",
-      "published_at": "2026-10-02T20:12:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "async-await",
-        "es6-promise",
-        "abortcontroller"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hassan"
-    },
-    {
       "title": "All of the extension's IndexedDB data has been lost",
       "url": "https://stackoverflow.com/questions/80007513/all-of-the-extensions-indexeddb-data-has-been-lost",
       "published_at": "2026-10-02T14:15:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "google-chrome-extension",
@@ -1558,22 +1513,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alex Sindre"
-    },
-    {
-      "title": "CSS and JavaScript not applying on my localhost",
-      "url": "https://stackoverflow.com/questions/80007444/css-and-javascript-not-applying-on-my-localhost",
-      "published_at": "2026-10-02T09:27:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "css",
-        "macos",
-        "apache",
-        "macos-tahoe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "N&#233;o Kerroux"
     },
     {
       "title": "Apply a filter function to a table based on selected value",
@@ -1603,6 +1542,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32478630"
+    },
+    {
+      "title": "What is the purpose of a dollar sign ($) in a JavaScript variable name?",
+      "url": "https://stackoverflow.com/questions/846585/what-is-the-purpose-of-a-dollar-sign-in-a-javascript-variable-name",
+      "published_at": "2009-05-11T03:00:26.000Z",
+      "description": "Stack Overflow question · 13 answers · score 474",
+      "tags": [
+        "javascript",
+        "naming-conventions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Keith"
     },
     {
       "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
@@ -1907,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2734,
+      "stars": 2844,
       "user": "rehan-remade"
     },
     {
@@ -1922,23 +1874,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2582,
+      "stars": 2591,
       "user": "feder-cr"
-    },
-    {
-      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "published_at": "2026-09-28T16:18:39Z",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
-      "source": "GitHub",
-      "stars": 1353,
-      "user": "firelex"
     },
     {
       "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
@@ -1952,8 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1365,
       "user": "nanaism"
+    },
+    {
+      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "url": "https://github.com/firelex/jeff",
+      "published_at": "2026-09-28T16:18:39Z",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
+      "source": "GitHub",
+      "stars": 1359,
+      "user": "firelex"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -1967,8 +1919,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 865,
       "user": "nykooi1"
+    },
+    {
+      "title": "Download a wheel and modify it for earlier version",
+      "url": "https://stackoverflow.com/questions/80007811/download-a-wheel-and-modify-it-for-earlier-version",
+      "published_at": "2026-10-04T11:49:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "pip"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Peter VARGA"
+    },
+    {
+      "title": "Apache Spark, PySpark can't write a file on disk",
+      "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
+      "published_at": "2026-10-04T10:42:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "docker",
+        "apache-spark",
+        "pyspark"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mike"
     },
     {
       "title": "How to take inputs on multiple lines?",
@@ -2048,33 +2028,6 @@
       "user": "King Of Noobs"
     },
     {
-      "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
-      "url": "https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n",
-      "published_at": "2026-10-02T10:44:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "jupyter-notebook",
-        "pycharm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FluidMechanics Potential Flows"
-    },
-    {
-      "title": "How to avoid invalid-method-override?",
-      "url": "https://stackoverflow.com/questions/80007186/how-to-avoid-invalid-method-override",
-      "published_at": "2026-10-01T07:54:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SteinGate"
-    },
-    {
       "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
       "url": "https://stackoverflow.com/questions/80007239/why-does-my-pandas-groupby-suddenly-use-12gb-ram-and-crash-after-1m-rows-it-wor",
       "published_at": "2026-10-01T11:28:56.000Z",
@@ -2105,21 +2058,6 @@
   ],
   "DevOps": [
     {
-      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
-      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
-      "published_at": "2026-10-02T12:19:36Z",
-      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
-      "tags": [
-        "ai",
-        "devops",
-        "docker",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
       "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3",
       "published_at": "2026-09-28T22:17:28Z",
@@ -2147,6 +2085,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
       "source": "Dev.to",
       "user": "Sanskriti Harmukh"
+    },
+    {
+      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
+      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
+      "published_at": "2026-10-02T12:19:36Z",
+      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
+      "tags": [
+        "ai",
+        "devops",
+        "docker",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2280,8 +2233,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 78,
       "user": "devilcoolyue"
+    },
+    {
+      "title": "Apache Spark, PySpark can't write a file on disk",
+      "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
+      "published_at": "2026-10-04T10:42:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "docker",
+        "apache-spark",
+        "pyspark"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mike"
     },
     {
       "title": "Build and Publish a Full-Stack Mobile App with AI",
@@ -2367,14 +2335,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 806,
       "user": "QingYunA"
     },
     {
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
       "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
       "published_at": "2026-10-03T19:53:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -2397,22 +2365,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alex Sindre"
-    },
-    {
-      "title": "CSS and JavaScript not applying on my localhost",
-      "url": "https://stackoverflow.com/questions/80007444/css-and-javascript-not-applying-on-my-localhost",
-      "published_at": "2026-10-02T09:27:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "css",
-        "macos",
-        "apache",
-        "macos-tahoe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "N&#233;o Kerroux"
     },
     {
       "title": "How should I share, save and combine JavaScript variables across HTML sites?",
@@ -2559,21 +2511,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
       "source": "Dev.to",
       "user": "Alexandra"
-    },
-    {
-      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
-      "published_at": "2026-10-03T15:08:10Z",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 54,
-      "user": "MatinSenPai"
     },
     {
       "title": "System-level ad-blocking in Android",
@@ -3056,19 +2993,6 @@
       "user": "frankwiles"
     },
     {
-      "title": "How to Hack Time, With C2PA",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-      "published_at": "2026-10-03T06:58:14.604-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "cryptography",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "retr0id"
-    },
-    {
       "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
       "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
       "published_at": "2026-10-03T19:33:15.000Z",
@@ -3206,7 +3130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1236,
       "user": "edenfunf"
     },
     {
@@ -3221,7 +3145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 806,
       "user": "QingYunA"
     },
     {
@@ -3236,7 +3160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 483,
       "user": "sganggs"
     },
     {
@@ -3251,23 +3175,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 215,
       "user": "blendi-remade"
     },
     {
-      "title": "deepseek-ai/dsh-libreoffice-kit - An internal component used by DeepSeek Harness",
-      "url": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
-      "published_at": "2026-09-30T06:28:16Z",
-      "description": "An internal component used by DeepSeek Harness",
+      "title": "charlenemercury/roster-match - 把听到的中文名字对到一份花名册上：按音节比拼音、多音姓、口音归一、字形兜底；拿不准时给候选和理由，不替你下结论。零依赖。",
+      "url": "https://github.com/charlenemercury/roster-match",
+      "published_at": "2026-09-28T14:54:47Z",
+      "description": "把听到的中文名字对到一份花名册上：按音节比拼音、多音姓、口音归一、字形兜底；拿不准时给候选和理由，不替你下结论。零依赖。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/133576629?v=4",
       "source": "GitHub",
-      "stars": 133,
-      "user": "deepseek-ai"
+      "stars": 139,
+      "user": "charlenemercury"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -3281,7 +3205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2734,
+      "stars": 2844,
       "user": "rehan-remade"
     },
     {
@@ -3296,23 +3220,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2582,
+      "stars": 2591,
       "user": "feder-cr"
-    },
-    {
-      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "published_at": "2026-09-28T16:18:39Z",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
-      "source": "GitHub",
-      "stars": 1353,
-      "user": "firelex"
     },
     {
       "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
@@ -3326,8 +3235,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1365,
       "user": "nanaism"
+    },
+    {
+      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "url": "https://github.com/firelex/jeff",
+      "published_at": "2026-09-28T16:18:39Z",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
+      "source": "GitHub",
+      "stars": 1359,
+      "user": "firelex"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -3341,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 865,
       "user": "nykooi1"
     },
     {
@@ -3356,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 231,
       "user": "mizorewww"
     },
     {
@@ -3371,53 +3295,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 78,
       "user": "devilcoolyue"
     },
     {
-      "title": "Bornholm/indecis - Small decision models in Go",
-      "url": "https://github.com/Bornholm/indecis",
-      "published_at": "2026-09-28T12:42:18Z",
-      "description": "Small decision models in Go",
+      "title": "kofiadeyemiq/byterange - RFC 9110 HTTP Range parsing and serving for Go, with limits on range count and multipart amplification.",
+      "url": "https://github.com/kofiadeyemiq/byterange",
+      "published_at": "2026-09-28T14:44:22Z",
+      "description": "RFC 9110 HTTP Range parsing and serving for Go, with limits on range count and multipart amplification.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1067759?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/334555386?v=4",
       "source": "GitHub",
-      "stars": 58,
-      "user": "Bornholm"
+      "stars": 66,
+      "user": "kofiadeyemiq"
     },
     {
-      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "url": "https://github.com/Tuskira/ai-agent-gateway",
-      "published_at": "2026-10-01T11:32:10Z",
-      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "title": "kofiadeyemiq/iterleak - Go analyzer that reports iter.Pull and iter.Pull2 calls whose stop function can go uncalled and leak a goroutine.",
+      "url": "https://github.com/kofiadeyemiq/iterleak",
+      "published_at": "2026-09-28T14:44:14Z",
+      "description": "Go analyzer that reports iter.Pull and iter.Pull2 calls whose stop function can go uncalled and leak a goroutine.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/334555386?v=4",
       "source": "GitHub",
-      "stars": 55,
-      "user": "Tuskira"
+      "stars": 65,
+      "user": "kofiadeyemiq"
     },
     {
-      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
-      "published_at": "2026-10-03T15:08:10Z",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "title": "kofiadeyemiq/shellstrict - Lint shell scripts for missing strict mode and for mktemp files with no trap cleanup, complementing ShellCheck.",
+      "url": "https://github.com/kofiadeyemiq/shellstrict",
+      "published_at": "2026-09-28T14:44:03Z",
+      "description": "Lint shell scripts for missing strict mode and for mktemp files with no trap cleanup, complementing ShellCheck.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/334555386?v=4",
       "source": "GitHub",
-      "stars": 54,
-      "user": "MatinSenPai"
+      "stars": 65,
+      "user": "kofiadeyemiq"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -3431,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5552,
+      "stars": 5660,
       "user": "KKKKhazix"
     },
     {
@@ -3446,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2758,
+      "stars": 2957,
       "user": "CopilotKit"
     },
     {
@@ -3461,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 739,
       "user": "openai"
     },
     {
@@ -3476,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 546,
       "user": "fsiaonma"
     },
     {
@@ -3491,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 540,
       "user": "composio-community"
     },
     {
@@ -3506,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 533,
       "user": "storytold"
     },
     {
@@ -3521,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 435,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3551,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 194,
       "user": "storytold"
     },
     {
@@ -3566,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 183,
       "user": "storytold"
     },
     {
@@ -3581,6 +3505,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "frankwiles"
+    },
+    {
+      "title": "grubby: static site generator for git repos written in Ruby",
+      "url": "https://git.btxx.org/grubby",
+      "published_at": "2026-10-04T05:28:57.685-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ruby",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "bt"
     },
     {
       "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
