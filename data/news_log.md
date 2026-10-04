@@ -73212,3 +73212,1051 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 ---
 
+
+
+## 📰 DevTech News — 2026-10-04 22:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (78 articles)
+
+#### 1. [The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model](https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e)
+📅 Thu, 01 Oct 2026 17:08:03 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5vlw3uobmy1epe0lwbge.png)
+
+Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, and how Socratic questioning plus topological scars prune doomed search trees at depth d=1.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `machinelearning`
+
+---
+
+#### 2. [Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4)
+📅 Wed, 30 Sep 2026 17:33:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg)
+
+Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `vllm`
+
+---
+
+#### 3. [Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second](https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd)
+📅 Fri, 02 Oct 2026 17:59:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg)
+
+Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.
+
+🏷️ Tags: `gemma`, `googlecloud`, `machinelearning`, `llm`
+
+---
+
+#### 4. [Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't](https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii)
+📅 Fri, 02 Oct 2026 16:59:51 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg)
+
+Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.
+
+🏷️ Tags: `gemma`, `googlecloud`, `machinelearning`, `llm`
+
+---
+
+#### 5. [Gemini 4 Argon
+
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/](https://dev.to/ben/gemini-4-argon-5g2l)
+📅 Wed, 30 Sep 2026 20:31:35 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Gemini 4 Argon
+
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png)
+
+...
+
+🏷️ Tags: `ai`, `gemini`, `google`
+
+---
+
+#### 6. [Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16](https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch)
+📅 Wed, 30 Sep 2026 13:00:26 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b-w4a16%2Farticle%2Fdevto-t4-emb4-art.c42232ae.jpg)
+
+Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them to int4 on the grid QAT trained them onto cuts model loading from 6.33 to 2.86 GiB, with every greedy test output token-identical, and raises vLLM's output throughput 11-37% over Google's own W4A16 export.
+
+🏷️ Tags: `gemma`, `vllm`, `cuda`, `machinelearning`
+
+---
+
+#### 7. [Claude Sonnet 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h)
+📅 Mon, 28 Sep 2026 18:53:36 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Sonnet 5.5 is now available on Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png)
+
+Designed for coding and knowledge work, it helps you build features, and create clean work...
+
+---
+
+#### 8. [7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3)
+📅 Mon, 28 Sep 2026 22:17:28 GMT
+👤 By: Praveen Rajasekar | 📌 Source: Dev.to
+
+![7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png)
+
+Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...
+
+🏷️ Tags: `agents`, `sandbox`, `ai`
+
+---
+
+#### 9. [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh)
+📅 Tue, 22 Sep 2026 17:48:24 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Opus 5.5 is now available on Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png)
+
+Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...
+
+🏷️ Tags: `claude`, `googlecloud`
+
+---
+
+#### 10. [A wine cellar that remembers what you used to believe](https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55)
+📅 Wed, 30 Sep 2026 22:49:21 GMT
+👤 By: Ken W Alger | 📌 Source: Dev.to
+
+![A wine cellar that remembers what you used to believe](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n2dqcxgghv78nz0rtoq.png)
+
+This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...
+
+🏷️ Tags: `sanitychallenge`, `devchallenge`, `ai`, `sanity`
+
+---
+
+### 🏷️ JavaScript (38 articles)
+
+#### 1. [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
+📅 Wed, 23 Sep 2026 14:23:57 GMT
+👤 By: nyaomaru | 📌 Source: Dev.to
+
+![Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif)
+
+Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...
+
+🏷️ Tags: `typescript`, `javascript`, `webdev`, `opensource`
+
+---
+
+#### 2. [I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd)
+📅 Wed, 23 Sep 2026 11:31:31 GMT
+👤 By: Mika Flowers | 📌 Source: Dev.to
+
+![I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg)
+
+DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...
+
+🏷️ Tags: `buildinpublic`, `webdev`, `nextjs`, `ai`
+
+---
+
+#### 3. [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)
+📅 Tue, 22 Sep 2026 16:43:06 GMT
+👤 By: Ryan Carniato | 📌 Source: Dev.to
+
+![The Grand Unifying Architecture of Frontend](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png)
+
+I used to joke that the history of frontend development could be retraced by following the argument...
+
+🏷️ Tags: `webdev`, `javascript`, `solidjs`, `architecture`
+
+---
+
+#### 4. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (31 articles)
+
+#### 1. [I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)](https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0)
+📅 Mon, 28 Sep 2026 06:25:14 GMT
+👤 By: Rishu | 📌 Source: Dev.to
+
+![I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg)
+
+Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...
+
+🏷️ Tags: `python`, `opensource`, `ai`, `beginners`
+
+---
+
+#### 2. [Two Iceberg Clients, One Protocol: Where the Time Goes](https://dev.to/gde/two-iceberg-clients-one-protocol-where-the-time-goes-4g88)
+📅 Fri, 25 Sep 2026 16:40:44 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Two Iceberg Clients, One Protocol: Where the Time Goes](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ftwo-iceberg-clients-cost%2Fcover.edde6110.jpg)
+
+Step by step: timing the Rust and Python Iceberg REST clients on the same operations, on a local catalog and on BigLake and OneLake. Rust is 2x to 4x faster per call on the same machine, the two are even over the internet, and Python takes half a second longer to start on every catalog.
+
+🏷️ Tags: `rust`, `python`, `iceberg`, `performance`
+
+---
+
+#### 3. [I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.](https://dev.to/kenwalger/i-pulled-nine-years-of-my-own-devto-data-the-numbers-were-not-what-i-expected-37ac)
+📅 Thu, 24 Sep 2026 13:38:00 GMT
+👤 By: Ken W Alger | 📌 Source: Dev.to
+
+![I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7fbmudzx3podwa2jiz2l.png)
+
+There is an API. It will tell you things about your writing that the dashboard will not.  I have been...
+
+🏷️ Tags: `python`, `api`, `devjournal`, `datascience`
+
+---
+
+#### 4. [Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd)
+📅 Sat, 26 Sep 2026 11:10:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg)
+
+Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `mcp`
+
+---
+
+#### 5. [I Built a Better Codex Pet Than OpenAI Did](https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib)
+📅 Sat, 26 Sep 2026 11:16:56 GMT
+👤 By: Mika Flowers | 📌 Source: Dev.to
+
+![I Built a Better Codex Pet Than OpenAI Did](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png)
+
+Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...
+
+🏷️ Tags: `opensource`, `python`, `linux`, `showdev`
+
+---
+
+#### 6. [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605)
+📅 Sun, 20 Sep 2026 20:30:58 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg)
+
+Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.
+
+🏷️ Tags: `mcp`, `iceberg`, `python`, `dataengineering`
+
+---
+
+#### 7. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (18 articles)
+
+#### 1. [7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3)
+📅 Mon, 28 Sep 2026 22:17:28 GMT
+👤 By: Praveen Rajasekar | 📌 Source: Dev.to
+
+![7 ways to lock down AI agent sandboxes in production (beyond Docker containers)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png)
+
+Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...
+
+🏷️ Tags: `agents`, `sandbox`, `ai`
+
+---
+
+#### 2. [Deploying LiteLLM: An Open-Source AI Gateway](https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp)
+📅 Wed, 23 Sep 2026 19:19:19 GMT
+👤 By: Sanskriti Harmukh | 📌 Source: Dev.to
+
+![Deploying LiteLLM: An Open-Source AI Gateway](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png)
+
+LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...
+
+🏷️ Tags: `ai`, `llm`, `docker`, `postgres`
+
+---
+
+#### 3. [Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o)
+📅 Fri, 02 Oct 2026 12:19:36 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg)
+
+How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.
+
+🏷️ Tags: `ai`, `devops`, `docker`, `opensource`
+
+---
+
+#### 4. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (8 articles)
+
+#### 1. [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57)
+📅 Wed, 23 Sep 2026 14:23:57 GMT
+👤 By: nyaomaru | 📌 Source: Dev.to
+
+![Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif)
+
+Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...
+
+🏷️ Tags: `typescript`, `javascript`, `webdev`, `opensource`
+
+---
+
+#### 2. [The Grand Unifying Architecture of Frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk)
+📅 Tue, 22 Sep 2026 16:43:06 GMT
+👤 By: Ryan Carniato | 📌 Source: Dev.to
+
+![The Grand Unifying Architecture of Frontend](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png)
+
+I used to joke that the history of frontend development could be retraced by following the argument...
+
+🏷️ Tags: `webdev`, `javascript`, `solidjs`, `architecture`
+
+---
+
+#### 3. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。](https://github.com/QingYunA/answer-me-with-html)
+📅 Fri, 02 Oct 2026 09:57:40 GMT
+👤 By: QingYunA | 📌 Source: GitHub
+
+![QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。](https://avatars.githubusercontent.com/u/41177312?v=4)
+
+Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 996
+
+---
+
+#### 5. [How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?](https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in)
+📅 Sat, 03 Oct 2026 19:53:47 GMT
+👤 By: Murtaza Siddiqui | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -7
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 6. [How should I share, save and combine JavaScript variables across HTML sites?](https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites)
+📅 Tue, 10 Mar 2026 19:55:28 GMT
+👤 By: user32478630 | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score -2
+
+🏷️ Tags: `advice`, `javascript`, `html`
+
+---
+
+#### 7. [Learn Modern Kotlin](https://www.freecodecamp.org/news/learn-modern-kotlin/)
+📅 Fri, 02 Oct 2026 15:23:58 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,
+
+🏷️ Tags: `Kotlin`, `youtube`
+
+---
+
+#### 8. [Build and Publish a Full-Stack Mobile App with AI](https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/)
+📅 Thu, 01 Oct 2026 15:13:37 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept
+
+🏷️ Tags: `chatgpt`, `youtube`
+
+---
+
+### 🏷️ Mobile (10 articles)
+
+#### 1. [Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article](https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0)
+📅 Fri, 02 Oct 2026 16:54:29 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhwlbjjzxf9yyog4gvum3.png)
+
+When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old computer science idiom. Here is how modern Dart 3 records turn the Schwartzian Transform into an elegant, 13x faster one-liner.
+
+🏷️ Tags: `dart`, `flutter`, `architecture`, `performance`
+
+---
+
+#### 2. [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9)
+📅 Sun, 20 Sep 2026 20:03:10 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2k3pdkwhv7eywa1crtek.png)
+
+How combining Dart's Enhanced Enums with constructor tearoffs turns simple enum values into self-instantiating, type-safe polymorphic factories.
+
+🏷️ Tags: `dart`, `flutter`, `architecture`, `programming`
+
+---
+
+#### 3. [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif)
+📅 Sun, 20 Sep 2026 19:48:39 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png)
+
+Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.
+
+🏷️ Tags: `dart`, `flutter`, `testing`, `architecture`
+
+---
+
+#### 4. [Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map](https://dev.to/gde/share-state-across-dart-isolates-without-losing-your-mind-enter-sharedmap-221b)
+📅 Sun, 20 Sep 2026 20:43:19 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Share State Across Dart Isolates Without Losing Your Mind: Enter shared_map](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw8le2p5j1fub3d43p3q.png)
+
+How to bypass tedious SendPort/ReceivePort plumbing and share synchronized in-memory state across Dart Isolates using the zero-dependency shared_map package.
+
+🏷️ Tags: `dart`, `flutter`, `architecture`, `concurrency`
+
+---
+
+#### 5. [Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)](https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7)
+📅 Thu, 24 Sep 2026 22:07:55 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building File4Base: The Modern, Open-Source Alternative to old file bases (Powered by Antigravity)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8dsce3xxd0txso2shxb1.jpg)
+
+For decades, platforms like Claris FileMaker, Microsoft Access, and 4D enabled businesses to build...
+
+🏷️ Tags: `opensource`, `flutter`, `go`, `postgres`
+
+---
+
+#### 6. [The Curiosity Gap: Why We've Stopped Asking Questions](https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4)
+📅 Tue, 22 Sep 2026 08:26:58 GMT
+👤 By: Alexandra | 📌 Source: Dev.to
+
+![The Curiosity Gap: Why We've Stopped Asking Questions](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png)
+
+In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...
+
+🏷️ Tags: `discuss`, `ai`
+
+---
+
+#### 7. [How to Avoid JNI Crashes by Managing Local and Global References Correctly](https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/)
+📅 Sun, 04 Oct 2026 12:14:15 GMT
+👤 By: Nikheel Vishwas Savant | 📌 Source: freeCodeCamp
+
+Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t
+
+🏷️ Tags: `Android`, `jni`, `Java`, `binder`, `ipc`
+
+---
+
+#### 8. [Learn Modern Kotlin](https://www.freecodecamp.org/news/learn-modern-kotlin/)
+📅 Fri, 02 Oct 2026 15:23:58 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,
+
+🏷️ Tags: `Kotlin`, `youtube`
+
+---
+
+#### 9. [Build and Publish a Full-Stack Mobile App with AI](https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/)
+📅 Thu, 01 Oct 2026 15:13:37 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept
+
+🏷️ Tags: `chatgpt`, `youtube`
+
+---
+
+#### 10. [How to Stop Your Android App from Draining the Battery with Wake Locks](https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/)
+📅 Thu, 01 Oct 2026 14:15:11 GMT
+👤 By: Nikheel Vishwas Savant | 📌 Source: freeCodeCamp
+
+A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t
+
+🏷️ Tags: `Android`, `Wake locks`, `#power`, `battery`, `Mobile Development`
+
+---
+
+### 🏷️ Cloud (16 articles)
+
+#### 1. [Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4)
+📅 Wed, 30 Sep 2026 17:33:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg)
+
+Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `vllm`
+
+---
+
+#### 2. [Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second](https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd)
+📅 Fri, 02 Oct 2026 17:59:48 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg)
+
+Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.
+
+🏷️ Tags: `gemma`, `googlecloud`, `machinelearning`, `llm`
+
+---
+
+#### 3. [Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't](https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii)
+📅 Fri, 02 Oct 2026 16:59:51 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg)
+
+Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.
+
+🏷️ Tags: `gemma`, `googlecloud`, `machinelearning`, `llm`
+
+---
+
+#### 4. [Claude Sonnet 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h)
+📅 Mon, 28 Sep 2026 18:53:36 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Sonnet 5.5 is now available on Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png)
+
+Designed for coding and knowledge work, it helps you build features, and create clean work...
+
+---
+
+#### 5. [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh)
+📅 Tue, 22 Sep 2026 17:48:24 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude Opus 5.5 is now available on Google Cloud](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png)
+
+Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...
+
+🏷️ Tags: `claude`, `googlecloud`
+
+---
+
+#### 6. [Claude on Google Cloud workshop | NYC | 9/30](https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl)
+📅 Fri, 25 Sep 2026 11:50:46 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Claude on Google Cloud workshop | NYC | 9/30](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png)
+
+On Wednesday, September 30, Anthropic and Google Cloud are co-hosting a hands-on developer workshop...
+
+🏷️ Tags: `eventsinyourcity`, `claude`, `googlecloud`, `ai`
+
+---
+
+#### 7. [How to Build a Real-Time Voice AI Agent with the Gemini Live API](https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe)
+📅 Mon, 28 Sep 2026 22:22:04 GMT
+👤 By: Annie Cusack | 📌 Source: Dev.to
+
+![How to Build a Real-Time Voice AI Agent with the Gemini Live API](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png)
+
+This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...
+
+🏷️ Tags: `voiceai`, `ai`, `googlecloud`, `gemini`
+
+---
+
+#### 8. [Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4](https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g)
+📅 Sat, 26 Sep 2026 11:10:27 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg)
+
+A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `vllm`
+
+---
+
+#### 9. [Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd)
+📅 Sat, 26 Sep 2026 11:10:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg)
+
+Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.
+
+🏷️ Tags: `aws`, `sagemaker`, `gemma`, `mcp`
+
+---
+
+#### 10. [What One Rust Client Can Reach Across Seven Iceberg Catalogs](https://dev.to/gde/what-one-rust-client-can-reach-across-seven-iceberg-catalogs-22ll)
+📅 Fri, 25 Sep 2026 16:20:56 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![What One Rust Client Can Reach Across Seven Iceberg Catalogs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Frust-client-seven-catalogs%2Fcover.b00343f4.jpg)
+
+Step by step: the Apache Rust Iceberg REST client against seven Iceberg catalogs. It logs in to five of them, and on every one it logs in to, all 13 endpoints it implements answer — 7 reads on three catalogs and 11 writes on the local one, with no failures. The two AWS catalogs need SigV4, which it cannot send, so Rust reaches them through two other crates whose operation sets differ from its own.
+
+🏷️ Tags: `rust`, `iceberg`, `lakehouse`, `dataengineering`
+
+---
+
+### 🏷️ Database (3 articles)
+
+#### 1. [Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article](https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0)
+📅 Fri, 02 Oct 2026 16:54:29 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhwlbjjzxf9yyog4gvum3.png)
+
+When a Flutter developer tackled a UI freeze sorting 10,000 timeline events, they unwittingly reinvented a 30-year-old computer science idiom. Here is how modern Dart 3 records turn the Schwartzian Transform into an elegant, 13x faster one-liner.
+
+🏷️ Tags: `dart`, `flutter`, `architecture`, `performance`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.](https://github.com/alpcanaydin/tusk)
+📅 Mon, 28 Sep 2026 18:47:06 GMT
+👤 By: alpcanaydin | 📌 Source: GitHub
+
+![alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.](https://avatars.githubusercontent.com/u/1801024?v=4)
+
+A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 335
+
+---
+
+### 🏷️ Security (14 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 3. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Google Security Team Member on NSA: "Fuck These Guys"](https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k)
+📅 Wed, 06 Nov 2013 04:51:41 GMT
+👤 By: cdvonstinkpot | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Senators push to ditch social security numbers in light of Equifax hack](https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/)
+📅 Wed, 08 Nov 2017 22:49:56 GMT
+👤 By: Varcht | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (38 articles)
+
+#### 1. [Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif)
+📅 Sun, 20 Sep 2026 19:48:39 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx204wt36b3p53pnf950f.png)
+
+Why code-generated mocks ruin developer velocity in modern Dart and Flutter, and how switching to mocktail restores true zero-friction TDD.
+
+🏷️ Tags: `dart`, `flutter`, `testing`, `architecture`
+
+---
+
+#### 2. [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae)
+📅 Mon, 28 Sep 2026 19:04:50 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg)
+
+A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model is right at a flat cost. With the rows, models that reason through the list count 330 ids right and spend 6 to 26 times the tokens doing it; models that answer straight away get 0 to 10 of 21.
+
+🏷️ Tags: `devchallenge`, `kagglechallenge`, `ai`, `machinelearning`
+
+---
+
+#### 3. [How AI Actually Calls an API? Tool Calling Explained from Scratch](https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8)
+📅 Wed, 16 Sep 2026 21:28:40 GMT
+👤 By: Rohini Gaonkar | 📌 Source: Dev.to
+
+![How AI Actually Calls an API? Tool Calling Explained from Scratch](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png)
+
+In the previous post, we taught a model to read our documents. It could search a pile of files and...
+
+🏷️ Tags: `ai`, `mcp`, `aws`, `tutorial`
+
+---
+
+#### 4. [One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605)
+📅 Sun, 20 Sep 2026 20:30:58 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg)
+
+Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.
+
+🏷️ Tags: `mcp`, `iceberg`, `python`, `dataengineering`
+
+---
+
+#### 5. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.](https://github.com/edenfunf/reelmimic)
+📅 Mon, 28 Sep 2026 19:14:59 GMT
+👤 By: edenfunf | 📌 Source: GitHub
+
+![edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.](https://avatars.githubusercontent.com/u/146086744?v=4)
+
+Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 1,263
+
+---
+
+#### 9. [QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。](https://github.com/QingYunA/answer-me-with-html)
+📅 Fri, 02 Oct 2026 09:57:40 GMT
+👤 By: QingYunA | 📌 Source: GitHub
+
+![QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。](https://avatars.githubusercontent.com/u/41177312?v=4)
+
+Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 996
+
+---
+
+#### 10. [sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）](https://github.com/sganggs/Stronghold-Protocol)
+📅 Fri, 02 Oct 2026 09:38:41 GMT
+👤 By: sganggs | 📌 Source: GitHub
+
+![sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）](https://avatars.githubusercontent.com/u/64717086?v=4)
+
+明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 531
+
+---
+
