@@ -292,6 +292,21 @@
       "user": "Ikrame Ibn Hayoun"
     },
     {
+      "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
+      "url": "https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf",
+      "published_at": "2026-09-27T13:04:40Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange.    I started...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "ai",
+        "sanity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2u14p7nbbw94iduds9q.png",
+      "source": "Dev.to",
+      "user": "Mika Flowers"
+    },
+    {
       "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
       "published_at": "2026-09-26T11:10:27Z",
@@ -320,21 +335,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
-      "url": "https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf",
-      "published_at": "2026-09-27T13:04:40Z",
-      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange.    I started...",
-      "tags": [
-        "devchallenge",
-        "sanitychallenge",
-        "ai",
-        "sanity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq2u14p7nbbw94iduds9q.png",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
     },
     {
       "title": "I Built a Better Codex Pet Than OpenAI Did",
@@ -709,23 +709,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1111,
       "user": "edenfunf"
-    },
-    {
-      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "published_at": "2026-09-27T21:48:33Z",
-      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
-      "source": "GitHub",
-      "stars": 392,
-      "user": "moguzbulbul"
     },
     {
       "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
@@ -739,8 +724,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 352,
       "user": "QingYunA"
+    },
+    {
+      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "url": "https://github.com/blendi-remade/dioramas",
+      "published_at": "2026-09-30T00:07:56Z",
+      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "blendi-remade"
+    },
+    {
+      "title": "deepseek-ai/dsh-libreoffice-kit - An internal component used by DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
+      "published_at": "2026-09-30T06:28:16Z",
+      "description": "An internal component used by DeepSeek Harness",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 131,
+      "user": "deepseek-ai"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -754,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2573,
+      "stars": 2574,
       "user": "feder-cr"
     },
     {
@@ -769,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1351,
       "user": "firelex"
     },
     {
@@ -784,23 +799,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1320,
       "user": "nanaism"
     },
     {
-      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "published_at": "2026-09-27T14:11:14Z",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "published_at": "2026-09-29T01:29:57Z",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 980,
-      "user": "echris6"
+      "stars": 712,
+      "user": "nykooi1"
     },
     {
       "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
@@ -829,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5387,
+      "stars": 5428,
       "user": "KKKKhazix"
     },
     {
@@ -844,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2427,
+      "stars": 2544,
       "user": "CopilotKit"
     },
     {
@@ -859,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 727,
       "user": "openai"
     },
     {
@@ -874,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 513,
       "user": "composio-community"
     },
     {
@@ -889,8 +904,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "alpcanaydin"
+    },
+    {
+      "title": "NuvexNetwork/nuvex - Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "url": "https://github.com/NuvexNetwork/nuvex",
+      "published_at": "2026-10-02T15:38:29Z",
+      "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "NuvexNetwork"
     },
     {
       "title": "Lobsters Interview with Sjamaan",
@@ -919,21 +949,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hassan"
-    },
-    {
-      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
-      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
-      "published_at": "2026-10-01T18:47:08.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "async-await",
-        "return",
-        "generator"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dumbass"
     },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -1321,53 +1336,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1111,
       "user": "edenfunf"
-    },
-    {
-      "title": "xikhar/spiderbench - GitHub Repository",
-      "url": "https://github.com/xikhar/spiderbench",
-      "published_at": "2026-09-27T05:55:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
-      "source": "GitHub",
-      "stars": 478,
-      "user": "xikhar"
-    },
-    {
-      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "published_at": "2026-09-27T21:48:33Z",
-      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
-      "source": "GitHub",
-      "stars": 392,
-      "user": "moguzbulbul"
-    },
-    {
-      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "url": "https://github.com/sganggs/Stronghold-Protocol",
-      "published_at": "2026-10-02T09:38:41Z",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
-      "source": "GitHub",
-      "stars": 333,
-      "user": "sganggs"
     },
     {
       "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
@@ -1381,23 +1351,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 352,
       "user": "QingYunA"
     },
     {
-      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "published_at": "2026-09-27T14:11:14Z",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "published_at": "2026-10-02T09:38:41Z",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 980,
-      "user": "echris6"
+      "stars": 347,
+      "user": "sganggs"
+    },
+    {
+      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "url": "https://github.com/blendi-remade/dioramas",
+      "published_at": "2026-09-30T00:07:56Z",
+      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "blendi-remade"
+    },
+    {
+      "title": "deepseek-ai/dsh-libreoffice-kit - An internal component used by DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
+      "published_at": "2026-09-30T06:28:16Z",
+      "description": "An internal component used by DeepSeek Harness",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 131,
+      "user": "deepseek-ai"
     },
     {
       "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
@@ -1411,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5387,
+      "stars": 5428,
       "user": "KKKKhazix"
     },
     {
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2427,
+      "stars": 2544,
       "user": "CopilotKit"
     },
     {
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 727,
       "user": "openai"
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 542,
       "user": "fsiaonma"
     },
     {
@@ -1471,8 +1471,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 513,
       "user": "composio-community"
+    },
+    {
+      "title": "NuvexNetwork/nuvex - Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "url": "https://github.com/NuvexNetwork/nuvex",
+      "published_at": "2026-10-02T15:38:29Z",
+      "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "NuvexNetwork"
     },
     {
       "title": "Lobsters Interview with Sjamaan",
@@ -1491,7 +1506,7 @@
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
       "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
       "published_at": "2026-10-03T19:53:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1933,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2596,
+      "stars": 2641,
       "user": "rehan-remade"
     },
     {
@@ -1948,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2573,
+      "stars": 2574,
       "user": "feder-cr"
     },
     {
@@ -1963,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1351,
       "user": "firelex"
     },
     {
@@ -1978,23 +1993,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1320,
       "user": "nanaism"
     },
     {
-      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "published_at": "2026-09-27T14:11:14Z",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "published_at": "2026-09-29T01:29:57Z",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 980,
-      "user": "echris6"
+      "stars": 712,
+      "user": "nykooi1"
     },
     {
       "title": "Lobsters Interview with Sjamaan",
@@ -2010,23 +2025,22 @@
       "user": "veqq"
     },
     {
-      "title": "Rust for CPython (Python Language Summit 2026)",
-      "url": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
-      "published_at": "2026-10-03T04:40:38.169-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to take inputs on multiple lines?",
+      "url": "https://stackoverflow.com/questions/80007739/how-to-take-inputs-on-multiple-lines",
+      "published_at": "2026-10-04T01:19:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "python",
-        "rust"
+        "python"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "blin"
+      "source": "StackOverflow",
+      "user": "Sam Sianati"
     },
     {
       "title": "Why does sys.getsizeof() lie about memory usage for custom Python objects?",
       "url": "https://stackoverflow.com/questions/80007723/why-does-sys-getsizeof-lie-about-memory-usage-for-custom-python-objects",
       "published_at": "2026-10-03T21:42:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "memory-management",
@@ -2102,19 +2116,17 @@
       "user": "Train-Case"
     },
     {
-      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
-      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
-      "published_at": "2026-10-01T18:47:08.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
+      "url": "https://stackoverflow.com/questions/80007351/raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying-its-a",
+      "published_at": "2026-10-01T20:40:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "async-await",
-        "return",
-        "generator"
+        "raylib"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "dumbass"
+      "user": "King Of Noobs"
     },
     {
       "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
@@ -2129,19 +2141,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FluidMechanics Potential Flows"
-    },
-    {
-      "title": "Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
-      "url": "https://stackoverflow.com/questions/80007351/raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying-its-a",
-      "published_at": "2026-10-01T20:40:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "raylib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "King Of Noobs"
     },
     {
       "title": "How to avoid invalid-method-override?",
@@ -2433,7 +2432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 352,
       "user": "QingYunA"
     },
     {
@@ -2453,7 +2452,7 @@
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
       "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
       "published_at": "2026-10-03T19:53:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2638,6 +2637,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "System-level ad-blocking in Android",
+      "url": "https://kevinboone.me/adblock.html",
+      "published_at": "2026-10-03T15:43:41.881-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "android"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "robalex"
     },
     {
       "title": "Learn Modern Kotlin",
@@ -2970,7 +2981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "alpcanaydin"
     },
     {
@@ -3297,53 +3308,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1111,
       "user": "edenfunf"
-    },
-    {
-      "title": "xikhar/spiderbench - GitHub Repository",
-      "url": "https://github.com/xikhar/spiderbench",
-      "published_at": "2026-09-27T05:55:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
-      "source": "GitHub",
-      "stars": 478,
-      "user": "xikhar"
-    },
-    {
-      "title": "moguzbulbul/blueprint-animation - Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "url": "https://github.com/moguzbulbul/blueprint-animation",
-      "published_at": "2026-09-27T21:48:33Z",
-      "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31392894?v=4",
-      "source": "GitHub",
-      "stars": 392,
-      "user": "moguzbulbul"
-    },
-    {
-      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "url": "https://github.com/sganggs/Stronghold-Protocol",
-      "published_at": "2026-10-02T09:38:41Z",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
-      "source": "GitHub",
-      "stars": 333,
-      "user": "sganggs"
     },
     {
       "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
@@ -3357,8 +3323,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 352,
       "user": "QingYunA"
+    },
+    {
+      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "published_at": "2026-10-02T09:38:41Z",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
+      "source": "GitHub",
+      "stars": 347,
+      "user": "sganggs"
+    },
+    {
+      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "url": "https://github.com/blendi-remade/dioramas",
+      "published_at": "2026-09-30T00:07:56Z",
+      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "blendi-remade"
+    },
+    {
+      "title": "deepseek-ai/dsh-libreoffice-kit - An internal component used by DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/dsh-libreoffice-kit",
+      "published_at": "2026-09-30T06:28:16Z",
+      "description": "An internal component used by DeepSeek Harness",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 131,
+      "user": "deepseek-ai"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -3372,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 2596,
+      "stars": 2641,
       "user": "rehan-remade"
     },
     {
@@ -3387,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2573,
+      "stars": 2574,
       "user": "feder-cr"
     },
     {
@@ -3402,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
       "source": "GitHub",
-      "stars": 1349,
+      "stars": 1351,
       "user": "firelex"
     },
     {
@@ -3417,23 +3428,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1320,
       "user": "nanaism"
     },
     {
-      "title": "echris6/motion-video-kit - Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "published_at": "2026-09-27T14:11:14Z",
-      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "published_at": "2026-09-29T01:29:57Z",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209274433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 980,
-      "user": "echris6"
+      "stars": 712,
+      "user": "nykooi1"
     },
     {
       "title": "mizorewww/x_gift_bot - X Premium gift CLI and redemption site",
@@ -3447,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 187,
       "user": "mizorewww"
     },
     {
@@ -3522,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 5387,
+      "stars": 5428,
       "user": "KKKKhazix"
     },
     {
@@ -3537,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2427,
+      "stars": 2544,
       "user": "CopilotKit"
     },
     {
@@ -3552,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 727,
       "user": "openai"
     },
     {
@@ -3567,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 542,
       "user": "fsiaonma"
     },
     {
@@ -3582,23 +3593,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 513,
       "user": "composio-community"
-    },
-    {
-      "title": "chasmlol/2010-rust-rewrite-mashup - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
-      "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
-      "published_at": "2026-09-27T23:47:01Z",
-      "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246197476?v=4",
-      "source": "GitHub",
-      "stars": 690,
-      "user": "chasmlol"
     },
     {
       "title": "ZacharyZhang-NY/Ely-GPUI-Components - A component library for GPUI, in light and dark. Every component runs live in the browser.",
@@ -3612,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 408,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3627,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 380,
       "user": "storytold"
     },
     {
@@ -3642,23 +3638,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "alpcanaydin"
     },
     {
-      "title": "openOMSI-Project/openOMSI - OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
-      "url": "https://github.com/openOMSI-Project/openOMSI",
-      "published_at": "2026-09-27T22:21:06Z",
-      "description": "OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)",
+      "title": "storytold/filmcraft - GitHub Repository",
+      "url": "https://github.com/storytold/filmcraft",
+      "published_at": "2026-09-30T13:41:20Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/336714684?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 329,
-      "user": "openOMSI-Project"
+      "stars": 148,
+      "user": "storytold"
+    },
+    {
+      "title": "NuvexNetwork/nuvex - Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "url": "https://github.com/NuvexNetwork/nuvex",
+      "published_at": "2026-10-02T15:38:29Z",
+      "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
+      "source": "GitHub",
+      "stars": 147,
+      "user": "NuvexNetwork"
     },
     {
       "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
