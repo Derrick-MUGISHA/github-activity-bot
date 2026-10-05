@@ -1,6 +1,66 @@
 {
   "AI": [
     {
+      "title": "Publishing Markdown to Substack from an Agent Skill",
+      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f",
+      "published_at": "2026-10-05T17:56:04Z",
+      "description": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by step walk-through of the Substack destination in publishing-kit: what the editor keeps, what it drops, and how an agent publishes to it and reads the result back.",
+      "tags": [
+        "substack",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fsubstack-destination%2Fcover.325bdb37.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom",
+      "published_at": "2026-10-05T18:03:31Z",
+      "description": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuhjpurwtrzpxh5wsntc.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
+      "title": "MCP Configuration for Google Workspace with Claude Code",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om",
+      "published_at": "2026-10-05T13:42:33Z",
+      "description": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat and People), packaged as a Claude Code skill, with the two sign-in limits that decide how you use it.",
+      "tags": [
+        "claudecode",
+        "mcp",
+        "googleworkspace",
+        "googleoauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fworkspace-mcp-claude%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.2ed35ff2.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
+      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
+      "published_at": "2026-10-05T04:10:50Z",
+      "description": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "jev",
+        "dataflow"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
       "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e",
       "published_at": "2026-10-01T17:08:03Z",
@@ -35,21 +95,6 @@
       "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
       "published_at": "2026-10-02T17:59:48Z",
       "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
-      "published_at": "2026-10-02T16:59:51Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
       "tags": [
         "gemma",
         "googlecloud",
@@ -142,21 +187,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
-      "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk",
-      "published_at": "2026-10-01T16:19:06Z",
-      "description": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
-      "tags": [
-        "hacktoberfest",
-        "opensource",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2wmhcfrymahbrsjopzei.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
       "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
       "published_at": "2026-09-23T19:19:19Z",
@@ -172,6 +202,21 @@
       "user": "Sanskriti Harmukh"
     },
     {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
+      "published_at": "2026-10-02T16:59:51Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
       "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
       "published_at": "2026-10-02T12:19:36Z",
@@ -185,21 +230,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
-      "published_at": "2026-09-28T06:25:14Z",
-      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
-      "tags": [
-        "python",
-        "opensource",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
-      "source": "Dev.to",
-      "user": "Rishu"
     },
     {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
@@ -232,19 +262,19 @@
       "user": "Jen Looper"
     },
     {
-      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
-      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
-      "published_at": "2026-09-28T22:22:04Z",
-      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
+      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
+      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
+      "published_at": "2026-09-30T16:45:07Z",
+      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
       "tags": [
-        "voiceai",
         "ai",
-        "googlecloud",
-        "gemini"
+        "python",
+        "langchain",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
       "source": "Dev.to",
-      "user": "Annie Cusack"
+      "user": "Frank Guan"
     },
     {
       "title": "A wine cellar that remembers what you used to believe",
@@ -442,6 +472,21 @@
       "user": "xbill"
     },
     {
+      "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
+      "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk",
+      "published_at": "2026-10-01T16:19:06Z",
+      "description": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
+      "tags": [
+        "hacktoberfest",
+        "opensource",
+        "ai",
+        "devchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2wmhcfrymahbrsjopzei.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
       "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
       "published_at": "2026-09-22T08:26:58Z",
@@ -513,21 +558,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmbizy1bvs5mibcqzbtyo.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
-      "published_at": "2026-09-16T21:28:40Z",
-      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
-      "tags": [
-        "ai",
-        "mcp",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -709,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1464,
       "user": "QingYunA"
     },
     {
@@ -724,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 358,
       "user": "allenv0"
     },
     {
@@ -739,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "blendi-remade"
     },
     {
@@ -754,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 192,
       "user": "GanyuanRan"
     },
     {
@@ -769,23 +799,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2610,
+      "stars": 2613,
       "user": "feder-cr"
-    },
-    {
-      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "published_at": "2026-09-30T11:49:32Z",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
-      "source": "GitHub",
-      "stars": 1452,
-      "user": "nanaism"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -799,8 +814,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1578,
       "user": "nykooi1"
+    },
+    {
+      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "published_at": "2026-09-30T11:49:32Z",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "source": "GitHub",
+      "stars": 1497,
+      "user": "nanaism"
     },
     {
       "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
@@ -814,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 803,
       "user": "Edwardxlai"
     },
     {
@@ -829,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 77,
       "user": "MatinSenPai"
     },
     {
@@ -844,8 +874,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "Tuskira"
+    },
+    {
+      "title": "hashcott/ghostline - One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+      "url": "https://github.com/hashcott/ghostline",
+      "published_at": "2026-10-04T06:13:58Z",
+      "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29016691?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "hashcott"
     },
     {
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
@@ -859,7 +904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3358,
+      "stars": 3591,
       "user": "CopilotKit"
     },
     {
@@ -874,7 +919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 772,
       "user": "openai"
     },
     {
@@ -889,8 +934,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 576,
       "user": "composio-community"
+    },
+    {
+      "title": "Next.js always fail at downloading fonts from Google Fonts",
+      "url": "https://stackoverflow.com/questions/76478043/next-js-always-fail-at-downloading-fonts-from-google-fonts",
+      "published_at": "2023-06-14T22:50:24.000Z",
+      "description": "Stack Overflow question · 6 answers · score 25",
+      "tags": [
+        "javascript",
+        "typescript",
+        "next.js",
+        "google-fonts"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kevin Mahrous"
     },
     {
       "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
@@ -908,123 +968,234 @@
       "user": "Manthan Done"
     },
     {
-      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "published_at": "2026-10-04T20:31:07.000Z",
-      "description": "AI slop seems to be overwhelming bug bounty programs.",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "published_at": "2026-10-05T18:29:00.000Z",
+      "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
       "tags": [
         "AI",
-        "Security"
+        "Apps",
+        "Social",
+        "TikTok"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Aisha Malik"
     },
     {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "published_at": "2026-10-04T20:08:34.000Z",
-      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "published_at": "2026-10-05T18:07:07.000Z",
+      "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
       "tags": [
-        "AI",
-        "Government & Policy",
-        "dario amodei",
-        "Donald Trump",
-        "Equity podcast"
+        "Hardware",
+        "Startups",
+        "Venture"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Dominic-Madori Davis"
     },
     {
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "published_at": "2026-10-04T16:05:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Hot Girl Hotline is like &#8216;Dear Abby&#8217; for the AI era",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "published_at": "2026-10-05T17:29:22.000Z",
+      "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "5 startups that caught VCs&#8217; attention at the latest PearX demo day",
+      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+      "published_at": "2026-10-05T17:26:44.000Z",
+      "description": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
       "tags": [
         "Startups",
-        "Transportation",
-        "Tesla",
-        "zoox",
-        "Waymo"
+        "Venture",
+        "Pear Ventures"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "user": "Marina Temkin"
     },
     {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "published_at": "2026-10-04T15:15:10.000Z",
-      "description": "This new task force is Trump's latest response to the debate over AI safety.",
+      "title": "HackerRank&#8217;s AI interviewer offers a glimpse into what job interviews could become",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "published_at": "2026-10-05T16:43:35.000Z",
+      "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "Donald Trump"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "published_at": "2026-10-03T18:43:57.000Z",
-      "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "tags": [
-        "AI",
-        "Climate",
-        "Government & Policy",
-        "Amazon",
-        "Amazon Web Services"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "published_at": "2026-10-03T16:30:01.000Z",
-      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "tags": [
-        "AI",
-        "Security",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
-      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "published_at": "2026-10-03T15:02:01.000Z",
-      "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "Social",
-        "Bitchat",
-        "jack dorsey"
+        "Enterprise",
+        "Startups",
+        "ai agent",
+        "Exclusive"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
     },
     {
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "published_at": "2026-10-03T14:00:00.000Z",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "published_at": "2026-10-05T15:14:24.000Z",
+      "description": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
       "tags": [
         "AI",
-        "instinct",
-        "AI agents"
+        "Apps",
+        "Adtech",
+        "advertising",
+        "ChatGPT"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+      "published_at": "2026-10-05T15:00:00.000Z",
+      "description": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
+      "tags": [
+        "Startups",
+        "Lola Vision Systems",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-10-05T15:00:00.000Z",
+      "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+      "tags": [
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
+      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "published_at": "2026-10-05T14:58:42.000Z",
+      "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "data breach",
+        "Denmark",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "published_at": "2026-10-05T14:35:09.000Z",
+      "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "tags": [
+        "AI",
+        "AI agents",
+        "alibaba",
+        "In Brief",
+        "Tencent"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
+      "url": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
+      "published_at": "2026-10-05T14:43:43.000Z",
+      "description": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where",
+      "tags": [
+        "api",
+        "authorization",
+        "authentication",
+        "software development",
+        "backend developments"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
+    },
+    {
+      "title": "How to Break the AI Coding Agent Fix Loop",
+      "url": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
+      "published_at": "2026-10-05T11:55:42.000Z",
+      "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
+      "tags": [
+        "Productivity",
+        "AI",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Amir Gabay"
+    },
+    {
+      "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
+      "url": "https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/",
+      "published_at": "2026-10-05T11:54:16.000Z",
+      "description": "Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi",
+      "tags": [
+        "nestjs",
+        "nest-observe",
+        "observability",
+        "Metrics Tracking",
+        "TypeScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Pacifique Linjanja"
+    },
+    {
+      "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
+      "url": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
+      "published_at": "2026-10-05T10:57:11.000Z",
+      "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "email",
+        "Web Development",
+        "Programming Blogs"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
+    },
+    {
+      "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
+      "url": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
+      "published_at": "2026-10-05T10:54:40.000Z",
+      "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
+      "tags": [
+        "Security",
+        "securityawareness",
+        "OWASP TOP 10",
+        "#OWASP LLM Top 10",
+        "application sec"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     },
     {
       "title": "How to Separate Operational Intent from the Executor",
@@ -1057,65 +1228,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Andrew Baisden"
-    },
-    {
-      "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
-      "url": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
-      "published_at": "2026-10-02T11:51:03.000Z",
-      "description": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It",
-      "tags": [
-        "AI",
-        "AWS",
-        "lovable",
-        "Sandbox"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Shrijal Acharya"
-    },
-    {
-      "title": "Build and Publish a Full-Stack Mobile App with AI",
-      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
-      "published_at": "2026-10-01T15:13:37.000Z",
-      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
-      "tags": [
-        "chatgpt",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
-      "url": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
-      "published_at": "2026-10-01T14:15:11.000Z",
-      "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
-      "tags": [
-        "Android",
-        "Wake locks",
-        "#power",
-        "battery",
-        "Mobile Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikheel Vishwas Savant"
-    },
-    {
-      "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
-      "url": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
-      "published_at": "2026-10-01T11:02:33.000Z",
-      "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
-      "tags": [
-        "Kubernetes",
-        "Devops",
-        "Docker",
-        "debugging"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Praneeth Kodumagulla"
     }
   ],
   "JavaScript": [
@@ -1148,21 +1260,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
       "source": "Dev.to",
       "user": "Mika Flowers"
-    },
-    {
-      "title": "The Grand Unifying Architecture of Frontend",
-      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
-      "published_at": "2026-09-22T16:43:06Z",
-      "description": "I used to joke that the history of frontend development could be retraced by following the argument...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "solidjs",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png",
-      "source": "Dev.to",
-      "user": "Ryan Carniato"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1296,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1464,
       "user": "QingYunA"
     },
     {
@@ -1311,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 707,
       "user": "sganggs"
     },
     {
@@ -1326,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 358,
       "user": "allenv0"
     },
     {
@@ -1341,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "blendi-remade"
     },
     {
@@ -1356,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 192,
       "user": "GanyuanRan"
     },
     {
@@ -1371,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3358,
+      "stars": 3591,
       "user": "CopilotKit"
     },
     {
@@ -1386,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1370,
       "user": "kargulstudio"
     },
     {
@@ -1401,23 +1498,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 772,
       "user": "openai"
-    },
-    {
-      "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "url": "https://github.com/composio-community/open-dot",
-      "published_at": "2026-09-29T16:34:16Z",
-      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
-      "source": "GitHub",
-      "stars": 566,
-      "user": "composio-community"
     },
     {
       "title": "extend-hq/jevbox - GitHub Repository",
@@ -1431,42 +1513,57 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124006768?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 588,
       "user": "extend-hq"
     },
     {
-      "title": "How should I model and deduplicate coaches returned with team-specific data from a REST API?",
-      "url": "https://stackoverflow.com/questions/80007934/how-should-i-model-and-deduplicate-coaches-returned-with-team-specific-data-from",
-      "published_at": "2026-10-05T08:00:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "url": "https://github.com/composio-community/open-dot",
+      "published_at": "2026-09-29T16:34:16Z",
+      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
       "tags": [
-        "javascript",
         "typescript",
-        "rest"
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "veotuises"
+      "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
+      "source": "GitHub",
+      "stars": 576,
+      "user": "composio-community"
     },
     {
-      "title": "How can I avoid duplicate or skipped records when paginating a frequently updated REST API with offset/limit?",
-      "url": "https://stackoverflow.com/questions/80007939/how-can-i-avoid-duplicate-or-skipped-records-when-paginating-a-frequently-update",
-      "published_at": "2026-10-05T08:30:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "published_at": "2026-10-05T05:01:55.874-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "nodejs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
+    },
+    {
+      "title": "\"MongoServerError: unknown operator: $expr\" when trying to use $expr in MongoDb 6.10.0?",
+      "url": "https://stackoverflow.com/questions/80007951/mongoservererror-unknown-operator-expr-when-trying-to-use-expr-in-mongodb",
+      "published_at": "2026-10-05T09:29:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
-        "pagination",
-        "postgrest"
+        "regex",
+        "mongodb",
+        "mongodb-query",
+        "expr"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "temphedi"
+      "user": "user31009838"
     },
     {
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
       "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
       "published_at": "2026-10-03T19:53:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -1475,20 +1572,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Murtaza Siddiqui"
-    },
-    {
-      "title": "Custom image to lightbox on ajax request with getuikit.com",
-      "url": "https://stackoverflow.com/questions/80007667/custom-image-to-lightbox-on-ajax-request-with-getuikit-com",
-      "published_at": "2026-10-03T11:46:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "lightbox",
-        "getuikit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "woody180"
     },
     {
       "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
@@ -1520,6 +1603,22 @@
       "user": "Aurora Lane"
     },
     {
+      "title": "How do I modify Enemy class to chase the player in an object-oriented programming JavaScript game?",
+      "url": "https://stackoverflow.com/questions/79903488/how-do-i-modify-enemy-class-to-chase-the-player-in-an-object-oriented-programmin",
+      "published_at": "2026-03-08T22:22:30.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "oop",
+        "game-development"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "human computer"
+    },
+    {
       "title": "What is the purpose of a dollar sign ($) in a JavaScript variable name?",
       "url": "https://stackoverflow.com/questions/846585/what-is-the-purpose-of-a-dollar-sign-in-a-javascript-variable-name",
       "published_at": "2009-05-11T03:00:26.000Z",
@@ -1533,18 +1632,19 @@
       "user": "Keith"
     },
     {
-      "title": "How to write an expression that picks a value based on a condition?",
-      "url": "https://stackoverflow.com/questions/18269286/how-to-write-an-expression-that-picks-a-value-based-on-a-condition",
-      "published_at": "2013-08-16T08:45:35.000Z",
-      "description": "Stack Overflow question · 8 answers · score 69",
+      "title": "Next.js always fail at downloading fonts from Google Fonts",
+      "url": "https://stackoverflow.com/questions/76478043/next-js-always-fail-at-downloading-fonts-from-google-fonts",
+      "published_at": "2023-06-14T22:50:24.000Z",
+      "description": "Stack Overflow question · 6 answers · score 25",
       "tags": [
         "javascript",
-        "if-statement",
-        "conditional-operator"
+        "typescript",
+        "next.js",
+        "google-fonts"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Meek"
+      "user": "Kevin Mahrous"
     },
     {
       "title": "How To Solve React Hydration Error in Next",
@@ -1562,6 +1662,19 @@
       "user": "AzeaL87"
     },
     {
+      "title": "Javascript equivalent of Python's dict.setdefault?",
+      "url": "https://stackoverflow.com/questions/16107680/javascript-equivalent-of-pythons-dict-setdefault",
+      "published_at": "2013-04-19T15:04:09.000Z",
+      "description": "Stack Overflow question · 8 answers · score 41",
+      "tags": [
+        "javascript",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ptomato"
+    },
+    {
       "title": "iPad Safari Development toolbar",
       "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
       "published_at": "2011-04-20T17:35:43.000Z",
@@ -1576,6 +1689,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "copenndthagen"
+    },
+    {
+      "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
+      "url": "https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/",
+      "published_at": "2026-10-05T11:54:16.000Z",
+      "description": "Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi",
+      "tags": [
+        "nestjs",
+        "nest-observe",
+        "observability",
+        "Metrics Tracking",
+        "TypeScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Pacifique Linjanja"
     },
     {
       "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
@@ -1623,54 +1752,23 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Andrew Baisden"
-    },
-    {
-      "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
-      "url": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
-      "published_at": "2026-10-02T11:51:03.000Z",
-      "description": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It",
-      "tags": [
-        "AI",
-        "AWS",
-        "lovable",
-        "Sandbox"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Shrijal Acharya"
-    },
-    {
-      "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
-      "url": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
-      "published_at": "2026-10-02T06:13:49.000Z",
-      "description": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that",
-      "tags": [
-        "Next.js",
-        "shadcn",
-        "charts",
-        "React",
-        "data visualization tools"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ash"
     }
   ],
   "Python": [
     {
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
-      "published_at": "2026-09-28T06:25:14Z",
-      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
+      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
+      "published_at": "2026-09-30T16:45:07Z",
+      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
       "tags": [
-        "python",
-        "opensource",
         "ai",
-        "beginners"
+        "python",
+        "langchain",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
       "source": "Dev.to",
-      "user": "Rishu"
+      "user": "Frank Guan"
     },
     {
       "title": "Two Iceberg Clients, One Protocol: Where the Time Goes",
@@ -1731,21 +1829,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
       "user": "Mika Flowers"
-    },
-    {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1879,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3474,
+      "stars": 3736,
       "user": "rehan-remade"
     },
     {
@@ -1894,23 +1977,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2610,
+      "stars": 2613,
       "user": "feder-cr"
-    },
-    {
-      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "published_at": "2026-09-30T11:49:32Z",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
-      "source": "GitHub",
-      "stars": 1452,
-      "user": "nanaism"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -1924,8 +1992,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1578,
       "user": "nykooi1"
+    },
+    {
+      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "published_at": "2026-09-30T11:49:32Z",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "source": "GitHub",
+      "stars": 1497,
+      "user": "nanaism"
     },
     {
       "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
@@ -1939,14 +2022,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 803,
       "user": "Edwardxlai"
+    },
+    {
+      "title": "Javascript equivalent of Python's dict.setdefault?",
+      "url": "https://stackoverflow.com/questions/16107680/javascript-equivalent-of-pythons-dict-setdefault",
+      "published_at": "2013-04-19T15:04:09.000Z",
+      "description": "Stack Overflow question · 8 answers · score 41",
+      "tags": [
+        "javascript",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ptomato"
+    },
+    {
+      "title": "Better way of doing logging in Python?",
+      "url": "https://stackoverflow.com/questions/80008004/better-way-of-doing-logging-in-python",
+      "published_at": "2026-10-05T14:03:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "python",
+        "logging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
       "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
       "published_at": "2026-10-05T04:42:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "python-import"
@@ -1954,6 +2063,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naira"
+    },
+    {
+      "title": "How to take inputs on multiple lines?",
+      "url": "https://stackoverflow.com/questions/80007739/how-to-take-inputs-on-multiple-lines",
+      "published_at": "2026-10-04T01:19:20.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "python",
+        "input"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sam Sianati"
     },
     {
       "title": "Apache Spark, PySpark can't write a file on disk",
@@ -1971,31 +2093,35 @@
       "user": "Mike"
     },
     {
-      "title": "How to take inputs on multiple lines?",
-      "url": "https://stackoverflow.com/questions/80007739/how-to-take-inputs-on-multiple-lines",
-      "published_at": "2026-10-04T01:19:20.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "title": "How I make a PyTorch model bit-identical outputs across different GPUs, cuDNN versions, and CPU fallback, with no source of nondeterminism anywhere?",
+      "url": "https://stackoverflow.com/questions/80007514/how-i-make-a-pytorch-model-bit-identical-outputs-across-different-gpus-cudnn-ve",
+      "published_at": "2026-10-02T14:18:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "input"
+        "pytorch",
+        "floating-point",
+        "cuda"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Sam Sianati"
+      "user": "Zi Ba"
     },
     {
-      "title": "Ansible Lookup Plugin to query the inventory?",
-      "url": "https://stackoverflow.com/questions/80006445/ansible-lookup-plugin-to-query-the-inventory",
-      "published_at": "2026-09-28T12:09:38.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "title": "Apache Superset 6.1 :: flask-caching is still required when NullCache and SupersetMetastoreCache are used?",
+      "url": "https://stackoverflow.com/questions/80006946/apache-superset-6-1-flask-caching-is-still-required-when-nullcache-and-supers",
+      "published_at": "2026-09-30T11:05:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "ansible",
-        "ansible-inventory"
+        "flask",
+        "apache-superset",
+        "flask-cache",
+        "flask-caching"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "creatldd1 creatldd1"
+      "user": "bsethi24"
     },
     {
       "title": "Detecting keypress and keyrelease on arrow keys",
@@ -2040,47 +2166,20 @@
       "user": "Manthan Done"
     },
     {
-      "title": "Why groups are not populated upon `auth_permission`?",
-      "url": "https://stackoverflow.com/questions/80004310/why-groups-are-not-populated-upon-auth-permission",
-      "published_at": "2026-09-19T15:43:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "django",
-        "django-models"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "Is there a way to make scipy.optimize.minimize(method='trust-constr') accurate?",
-      "url": "https://stackoverflow.com/questions/80001416/is-there-a-way-to-make-scipy-optimize-minimizemethod-trust-constr-accurate",
-      "published_at": "2026-09-07T13:42:08.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "python",
-        "scipy",
-        "scipy-optimize",
-        "scipy-optimize-minimize"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Don Hatch"
-    },
-    {
-      "title": "Documentation of pandas DataFrame.replace with series as input",
-      "url": "https://stackoverflow.com/questions/80001493/documentation-of-pandas-dataframe-replace-with-series-as-input",
-      "published_at": "2026-09-07T20:00:32.000Z",
+      "title": "JAX FFI handler does not find my CUDA function exported with nanobind",
+      "url": "https://stackoverflow.com/questions/80005798/jax-ffi-handler-does-not-find-my-cuda-function-exported-with-nanobind",
+      "published_at": "2026-09-25T12:14:37.000Z",
       "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
-        "pandas",
-        "dataframe"
+        "c++",
+        "cuda",
+        "jax",
+        "nanobind"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33098110"
+      "user": "alo bre"
     }
   ],
   "DevOps": [
@@ -2127,6 +2226,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
+      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
+      "published_at": "2026-09-30T16:45:07Z",
+      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
+      "tags": [
+        "ai",
+        "python",
+        "langchain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
+      "source": "Dev.to",
+      "user": "Frank Guan"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2249,6 +2363,21 @@
       "user": "jknupp"
     },
     {
+      "title": "Using docker-compose with Podman rootless",
+      "url": "https://elou.world/en/tutorial/podman-docker-compose",
+      "published_at": "2026-10-05T04:51:28.692-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "linux",
+        "systemd",
+        "virtualization"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Exagone313"
+    },
+    {
       "title": "Apache Spark, PySpark can't write a file on disk",
       "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
       "published_at": "2026-10-04T10:42:45.000Z",
@@ -2278,34 +2407,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "Build and Publish a Full-Stack Mobile App with AI",
-      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
-      "published_at": "2026-10-01T15:13:37.000Z",
-      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
-      "tags": [
-        "chatgpt",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
-      "url": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
-      "published_at": "2026-10-01T11:02:33.000Z",
-      "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
-      "tags": [
-        "Kubernetes",
-        "Devops",
-        "Docker",
-        "debugging"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Praneeth Kodumagulla"
     }
   ],
   "WebDev": [
@@ -2323,21 +2424,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif",
       "source": "Dev.to",
       "user": "nyaomaru"
-    },
-    {
-      "title": "The Grand Unifying Architecture of Frontend",
-      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
-      "published_at": "2026-09-22T16:43:06Z",
-      "description": "I used to joke that the history of frontend development could be retraced by following the argument...",
-      "tags": [
-        "webdev",
-        "javascript",
-        "solidjs",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png",
-      "source": "Dev.to",
-      "user": "Ryan Carniato"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2363,14 +2449,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1464,
       "user": "QingYunA"
     },
     {
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
       "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
       "published_at": "2026-10-03T19:53:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -2379,6 +2465,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Murtaza Siddiqui"
+    },
+    {
+      "title": "How do I modify Enemy class to chase the player in an object-oriented programming JavaScript game?",
+      "url": "https://stackoverflow.com/questions/79903488/how-do-i-modify-enemy-class-to-chase-the-player-in-an-object-oriented-programmin",
+      "published_at": "2026-03-08T22:22:30.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "oop",
+        "game-development"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "human computer"
     },
     {
       "title": "How To Solve React Hydration Error in Next",
@@ -2412,25 +2514,44 @@
       "user": "copenndthagen"
     },
     {
+      "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
+      "url": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
+      "published_at": "2026-10-05T14:43:43.000Z",
+      "description": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where",
+      "tags": [
+        "api",
+        "authorization",
+        "authentication",
+        "software development",
+        "backend developments"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
+    },
+    {
+      "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
+      "url": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
+      "published_at": "2026-10-05T10:57:11.000Z",
+      "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "email",
+        "Web Development",
+        "Programming Blogs"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
+    },
+    {
       "title": "Learn Modern Kotlin",
       "url": "https://www.freecodecamp.org/news/learn-modern-kotlin/",
       "published_at": "2026-10-02T15:23:58.000Z",
       "description": "We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,",
       "tags": [
         "Kotlin",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "Build and Publish a Full-Stack Mobile App with AI",
-      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
-      "published_at": "2026-10-01T15:13:37.000Z",
-      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
-      "tags": [
-        "chatgpt",
         "youtube"
       ],
       "cover_image": null,
@@ -2539,7 +2660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 77,
       "user": "MatinSenPai"
     },
     {
@@ -2586,38 +2707,24 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "Build and Publish a Full-Stack Mobile App with AI",
-      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
-      "published_at": "2026-10-01T15:13:37.000Z",
-      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
-      "tags": [
-        "chatgpt",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
-      "url": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
-      "published_at": "2026-10-01T14:15:11.000Z",
-      "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
-      "tags": [
-        "Android",
-        "Wake locks",
-        "#power",
-        "battery",
-        "Mobile Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikheel Vishwas Savant"
     }
   ],
   "Cloud": [
+    {
+      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
+      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
+      "published_at": "2026-10-05T04:10:50Z",
+      "description": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "jev",
+        "dataflow"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
     {
       "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
@@ -2638,21 +2745,6 @@
       "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
       "published_at": "2026-10-02T17:59:48Z",
       "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
-      "published_at": "2026-10-02T16:59:51Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
       "tags": [
         "gemma",
         "googlecloud",
@@ -2702,6 +2794,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
+      "published_at": "2026-10-02T16:59:51Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
       "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
       "published_at": "2026-09-30T19:36:21Z",
@@ -2715,21 +2822,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
       "source": "Dev.to",
       "user": "Jen Looper"
-    },
-    {
-      "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
-      "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
-      "published_at": "2026-09-28T22:22:04Z",
-      "description": "This post was originally posted on X, by Annie Wang, Developer Relations Engineer, Google Cloud and...",
-      "tags": [
-        "voiceai",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftp3gnf986hsvydvg8533.png",
-      "source": "Dev.to",
-      "user": "Annie Cusack"
     },
     {
       "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
@@ -2820,51 +2912,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-vm-cover.25debff5.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
-      "published_at": "2026-09-16T21:28:40Z",
-      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
-      "tags": [
-        "ai",
-        "mcp",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
-      "url": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
-      "published_at": "2026-10-02T11:51:03.000Z",
-      "description": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It",
-      "tags": [
-        "AI",
-        "AWS",
-        "lovable",
-        "Sandbox"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Shrijal Acharya"
     }
   ],
   "Database": [
@@ -2894,9 +2941,56 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "\"MongoServerError: unknown operator: $expr\" when trying to use $expr in MongoDb 6.10.0?",
+      "url": "https://stackoverflow.com/questions/80007951/mongoservererror-unknown-operator-expr-when-trying-to-use-expr-in-mongodb",
+      "published_at": "2026-10-05T09:29:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "regex",
+        "mongodb",
+        "mongodb-query",
+        "expr"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user31009838"
+    },
+    {
+      "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
+      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "published_at": "2026-10-05T14:58:42.000Z",
+      "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "data breach",
+        "Denmark",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     }
   ],
   "Security": [
+    {
+      "title": "MCP Configuration for Google Workspace with Claude Code",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om",
+      "published_at": "2026-10-05T13:42:33Z",
+      "description": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat and People), packaged as a Claude Code skill, with the two sign-in limits that decide how you use it.",
+      "tags": [
+        "claudecode",
+        "mcp",
+        "googleworkspace",
+        "googleoauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fworkspace-mcp-claude%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.2ed35ff2.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -3030,48 +3124,70 @@
       "user": "ewenjo"
     },
     {
-      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "published_at": "2026-10-04T20:31:07.000Z",
-      "description": "AI slop seems to be overwhelming bug bounty programs.",
+      "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
+      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "published_at": "2026-10-05T14:58:42.000Z",
+      "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
       "tags": [
-        "AI",
-        "Security"
+        "Security",
+        "cybersecurity",
+        "data breach",
+        "Denmark",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Zack Whittaker"
     },
     {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "published_at": "2026-10-03T19:33:15.000Z",
-      "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
+      "url": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
+      "published_at": "2026-10-05T14:43:43.000Z",
+      "description": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where",
       "tags": [
-        "Government & Policy",
-        "Security",
-        "flock safety"
+        "api",
+        "authorization",
+        "authentication",
+        "software development",
+        "backend developments"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     },
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "published_at": "2026-10-03T16:30:01.000Z",
-      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
+      "url": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
+      "published_at": "2026-10-05T10:54:40.000Z",
+      "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
       "tags": [
-        "AI",
         "Security",
-        "OpenAI"
+        "securityawareness",
+        "OWASP TOP 10",
+        "#OWASP LLM Top 10",
+        "application sec"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Tools": [
+    {
+      "title": "Publishing Markdown to Substack from an Agent Skill",
+      "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f",
+      "published_at": "2026-10-05T17:56:04Z",
+      "description": "Substack has no publishing API, its editor has no tables, and a link around inline code is dropped on paste. A step by step walk-through of the Substack destination in publishing-kit: what the editor keeps, what it drops, and how an agent publishes to it and reads the result back.",
+      "tags": [
+        "substack",
+        "writing",
+        "devtools",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fsubstack-destination%2Fcover.325bdb37.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
       "url": "https://dev.to/gde/stop-paying-the-buildrunner-tax-why-i-refuse-to-use-mockito-in-modern-dart-4cif",
@@ -3099,36 +3215,6 @@
         "machinelearning"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fdevto-kaggle%2Fmain%2Farticle%2Fdevto-cover.d50932c1.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
-      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
-      "published_at": "2026-09-16T21:28:40Z",
-      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
-      "tags": [
-        "ai",
-        "mcp",
-        "aws",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
-      "url": "https://dev.to/gde/one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one-2605",
-      "published_at": "2026-09-20T20:30:58Z",
-      "description": "Step by step: one Python MCP server with four read-only Apache Iceberg tools, pointed at Polaris, BigLake, OneLake, Glue, S3 Tables and Horizon by changing one environment variable. All four tools work on all six. What changes per catalog is the login, the storage package, and one Azure credential that takes 553 seconds.",
-      "tags": [
-        "mcp",
-        "iceberg",
-        "python",
-        "dataengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flakehouse-iceberg-2026%2Fmain%2Fpapers%2Ficeberg-mcp-seven-catalogs%2Fcover.5c69639b.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3180,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1231,
+      "stars": 1464,
       "user": "QingYunA"
     },
     {
@@ -3195,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 707,
       "user": "sganggs"
     },
     {
@@ -3210,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 358,
       "user": "allenv0"
     },
     {
@@ -3225,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "blendi-remade"
     },
     {
@@ -3240,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 192,
       "user": "GanyuanRan"
     },
     {
@@ -3255,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3474,
+      "stars": 3736,
       "user": "rehan-remade"
     },
     {
@@ -3270,23 +3356,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2610,
+      "stars": 2613,
       "user": "feder-cr"
-    },
-    {
-      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "published_at": "2026-09-30T11:49:32Z",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
-      "source": "GitHub",
-      "stars": 1452,
-      "user": "nanaism"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -3300,8 +3371,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1578,
       "user": "nykooi1"
+    },
+    {
+      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "published_at": "2026-09-30T11:49:32Z",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "source": "GitHub",
+      "stars": 1497,
+      "user": "nanaism"
     },
     {
       "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
@@ -3315,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 803,
       "user": "Edwardxlai"
     },
     {
@@ -3330,23 +3416,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "mizorewww"
-    },
-    {
-      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
-      "published_at": "2026-10-03T15:08:10Z",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "MatinSenPai"
     },
     {
       "title": "egoist/godiff - Fast native diff viewer",
@@ -3360,8 +3431,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 81,
       "user": "egoist"
+    },
+    {
+      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "published_at": "2026-10-03T15:08:10Z",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "MatinSenPai"
     },
     {
       "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
@@ -3375,23 +3461,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "Tuskira"
     },
     {
-      "title": "nullism/trunkcms - A small, stateless blog engine in Go. Content lives in a GitHub repo.",
-      "url": "https://github.com/nullism/trunkcms",
-      "published_at": "2026-09-30T23:50:05Z",
-      "description": "A small, stateless blog engine in Go. Content lives in a GitHub repo.",
+      "title": "hashcott/ghostline - One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+      "url": "https://github.com/hashcott/ghostline",
+      "published_at": "2026-10-04T06:13:58Z",
+      "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/730290?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29016691?v=4",
       "source": "GitHub",
       "stars": 47,
-      "user": "nullism"
+      "user": "hashcott"
     },
     {
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
@@ -3405,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3358,
+      "stars": 3591,
       "user": "CopilotKit"
     },
     {
@@ -3420,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1370,
       "user": "kargulstudio"
     },
     {
@@ -3435,23 +3521,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 772,
       "user": "openai"
-    },
-    {
-      "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "url": "https://github.com/composio-community/open-dot",
-      "published_at": "2026-09-29T16:34:16Z",
-      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
-      "source": "GitHub",
-      "stars": 566,
-      "user": "composio-community"
     },
     {
       "title": "extend-hq/jevbox - GitHub Repository",
@@ -3465,14 +3536,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124006768?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 588,
       "user": "extend-hq"
     },
     {
-      "title": "storytold/photocraft - GitHub Repository",
+      "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "url": "https://github.com/composio-community/open-dot",
+      "published_at": "2026-09-29T16:34:16Z",
+      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
+      "source": "GitHub",
+      "stars": 576,
+      "user": "composio-community"
+    },
+    {
+      "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
       "url": "https://github.com/storytold/photocraft",
       "published_at": "2026-09-30T13:37:48Z",
-      "description": "Trending GitHub Repository",
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
       "tags": [
         "rust",
         "github",
@@ -3480,7 +3566,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1823,
+      "user": "storytold"
+    },
+    {
+      "title": "storytold/filmcraft - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "url": "https://github.com/storytold/filmcraft",
+      "published_at": "2026-09-30T13:41:20Z",
+      "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 546,
       "user": "storytold"
     },
     {
@@ -3495,29 +3596,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 524,
       "user": "ZacharyZhang-NY"
     },
     {
-      "title": "storytold/filmcraft - GitHub Repository",
-      "url": "https://github.com/storytold/filmcraft",
-      "published_at": "2026-09-30T13:41:20Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 396,
-      "user": "storytold"
-    },
-    {
-      "title": "storytold/lightcraft - GitHub Repository",
+      "title": "storytold/lightcraft - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
       "url": "https://github.com/storytold/lightcraft",
       "published_at": "2026-09-30T14:09:27Z",
-      "description": "Trending GitHub Repository",
+      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
       "tags": [
         "rust",
         "github",
@@ -3525,14 +3611,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 430,
       "user": "storytold"
     },
     {
-      "title": "storytold/vectorcraft - GitHub Repository",
+      "title": "storytold/vectorcraft - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
       "url": "https://github.com/storytold/vectorcraft",
       "published_at": "2026-09-30T13:43:03Z",
-      "description": "Trending GitHub Repository",
+      "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
       "tags": [
         "rust",
         "github",
@@ -3540,21 +3626,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 421,
       "user": "storytold"
-    },
-    {
-      "title": "grubby: static site generator for git repos written in Ruby",
-      "url": "https://git.btxx.org/grubby",
-      "published_at": "2026-10-04T05:28:57.685-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ruby",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "bt"
     },
     {
       "title": "iPad Safari Development toolbar",
@@ -3571,6 +3644,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "copenndthagen"
+    },
+    {
+      "title": "How to Break the AI Coding Agent Fix Loop",
+      "url": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
+      "published_at": "2026-10-05T11:55:42.000Z",
+      "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
+      "tags": [
+        "Productivity",
+        "AI",
+        "ai agents"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Amir Gabay"
     },
     {
       "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
@@ -3602,50 +3689,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Andrew Baisden"
-    },
-    {
-      "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
-      "url": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
-      "published_at": "2026-10-02T11:51:03.000Z",
-      "description": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It",
-      "tags": [
-        "AI",
-        "AWS",
-        "lovable",
-        "Sandbox"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Shrijal Acharya"
-    },
-    {
-      "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
-      "url": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
-      "published_at": "2026-10-02T06:13:49.000Z",
-      "description": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that",
-      "tags": [
-        "Next.js",
-        "shadcn",
-        "charts",
-        "React",
-        "data visualization tools"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ash"
-    },
-    {
-      "title": "Build and Publish a Full-Stack Mobile App with AI",
-      "url": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
-      "published_at": "2026-10-01T15:13:37.000Z",
-      "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
-      "tags": [
-        "chatgpt",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ]
 }
