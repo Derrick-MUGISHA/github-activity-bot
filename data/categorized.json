@@ -127,21 +127,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "A wine cellar that remembers what you used to believe",
-      "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
-      "published_at": "2026-09-30T22:49:21Z",
-      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...",
-      "tags": [
-        "sanitychallenge",
-        "devchallenge",
-        "ai",
-        "sanity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n2dqcxgghv78nz0rtoq.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
       "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
       "published_at": "2026-09-25T11:50:46Z",
@@ -168,21 +153,6 @@
         "devchallenge"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2wmhcfrymahbrsjopzei.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
-      "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
-      "published_at": "2026-09-30T23:21:18Z",
-      "description": "Hacktoberfest officially kicks off October 1st! To celebrate, we are hosting an official launch...",
-      "tags": [
-        "hacktoberfest",
-        "hf26challenge",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopq9qf6or1ti44csuehz.png",
       "source": "Dev.to",
       "user": "Jess Lee"
     },
@@ -277,6 +247,21 @@
       "user": "Annie Cusack"
     },
     {
+      "title": "A wine cellar that remembers what you used to believe",
+      "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
+      "published_at": "2026-09-30T22:49:21Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...",
+      "tags": [
+        "sanitychallenge",
+        "devchallenge",
+        "ai",
+        "sanity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n2dqcxgghv78nz0rtoq.png",
+      "source": "Dev.to",
+      "user": "Ken W Alger"
+    },
+    {
       "title": "An introverted dev in an extroverted world",
       "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04",
       "published_at": "2026-09-23T12:02:12Z",
@@ -290,6 +275,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
       "source": "Dev.to",
       "user": "Ikrame Ibn Hayoun"
+    },
+    {
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
+      "published_at": "2026-09-30T01:25:29Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "sanity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
     },
     {
       "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
@@ -307,21 +307,6 @@
       "user": "Mika Flowers"
     },
     {
-      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
-      "published_at": "2026-09-26T11:10:27Z",
-      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
       "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
       "published_at": "2026-09-26T11:10:24Z",
@@ -333,6 +318,21 @@
         "mcp"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
+      "published_at": "2026-09-26T11:10:27Z",
+      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -442,6 +442,19 @@
       "user": "xbill"
     },
     {
+      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
+      "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
+      "published_at": "2026-09-22T08:26:58Z",
+      "description": "In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...",
+      "tags": [
+        "discuss",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
       "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3",
       "published_at": "2026-09-23T04:24:08Z",
@@ -457,17 +470,19 @@
       "user": "Vo Tu Duc"
     },
     {
-      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
-      "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
-      "published_at": "2026-09-22T08:26:58Z",
-      "description": "In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...",
+      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
+      "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
+      "published_at": "2026-09-30T23:21:18Z",
+      "description": "Hacktoberfest officially kicks off October 1st! To celebrate, we are hosting an official launch...",
       "tags": [
-        "discuss",
+        "hacktoberfest",
+        "hf26challenge",
+        "opensource",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopq9qf6or1ti44csuehz.png",
       "source": "Dev.to",
-      "user": "Alexandra"
+      "user": "Jess Lee"
     },
     {
       "title": "Gemma 4 on a Tesla T4, Part 2: The Minimum GCE VM and a Script to Drive It",
@@ -513,21 +528,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "I Built a Local AI Music Studio",
-      "url": "https://dev.to/sizzlebop/i-built-a-local-ai-music-studio-3fb9",
-      "published_at": "2026-09-20T21:30:07Z",
-      "description": "I have a habit of starting projects because I want one very specific thing.  Then somewhere along the...",
-      "tags": [
-        "ai",
-        "music",
-        "opensource",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd7k73sbfr636suf6yyyx.png",
-      "source": "Dev.to",
-      "user": "Jessica Doering"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1231,
       "user": "QingYunA"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 316,
       "user": "allenv0"
     },
     {
@@ -739,8 +739,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 225,
       "user": "blendi-remade"
+    },
+    {
+      "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+      "url": "https://github.com/GanyuanRan/Autoloom",
+      "published_at": "2026-09-30T12:40:15Z",
+      "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
+      "source": "GitHub",
+      "stars": 161,
+      "user": "GanyuanRan"
     },
     {
       "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
@@ -754,7 +769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2610,
       "user": "feder-cr"
     },
     {
@@ -769,7 +784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1402,
+      "stars": 1452,
       "user": "nanaism"
     },
     {
@@ -784,7 +799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1174,
       "user": "nykooi1"
     },
     {
@@ -799,7 +814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 794,
       "user": "Edwardxlai"
     },
     {
@@ -814,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 73,
       "user": "MatinSenPai"
     },
     {
@@ -844,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3226,
+      "stars": 3358,
       "user": "CopilotKit"
     },
     {
@@ -859,7 +874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 758,
       "user": "openai"
     },
     {
@@ -874,7 +889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 566,
       "user": "composio-community"
     },
     {
@@ -1281,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1231,
       "user": "QingYunA"
     },
     {
@@ -1296,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 629,
       "user": "sganggs"
     },
     {
@@ -1311,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 316,
       "user": "allenv0"
     },
     {
@@ -1326,23 +1341,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 225,
       "user": "blendi-remade"
     },
     {
-      "title": "Zhangweihui666/silver-tourism-digital-twin - Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
-      "url": "https://github.com/Zhangweihui666/silver-tourism-digital-twin",
-      "published_at": "2026-09-29T07:30:42Z",
-      "description": "Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
+      "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+      "url": "https://github.com/GanyuanRan/Autoloom",
+      "published_at": "2026-09-30T12:40:15Z",
+      "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35137065?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 143,
-      "user": "Zhangweihui666"
+      "stars": 161,
+      "user": "GanyuanRan"
     },
     {
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
@@ -1356,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3226,
+      "stars": 3358,
       "user": "CopilotKit"
     },
     {
@@ -1371,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 1148,
       "user": "kargulstudio"
     },
     {
@@ -1386,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 758,
       "user": "openai"
     },
     {
@@ -1401,23 +1416,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 566,
       "user": "composio-community"
     },
     {
-      "title": "fsiaonma/elpis - elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "published_at": "2026-09-29T02:19:22Z",
-      "description": "elpis",
+      "title": "extend-hq/jevbox - GitHub Repository",
+      "url": "https://github.com/extend-hq/jevbox",
+      "published_at": "2026-09-29T20:54:42Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/124006768?v=4",
       "source": "GitHub",
-      "stars": 549,
-      "user": "fsiaonma"
+      "stars": 553,
+      "user": "extend-hq"
+    },
+    {
+      "title": "How should I model and deduplicate coaches returned with team-specific data from a REST API?",
+      "url": "https://stackoverflow.com/questions/80007934/how-should-i-model-and-deduplicate-coaches-returned-with-team-specific-data-from",
+      "published_at": "2026-10-05T08:00:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "typescript",
+        "rest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "veotuises"
+    },
+    {
+      "title": "How can I avoid duplicate or skipped records when paginating a frequently updated REST API with offset/limit?",
+      "url": "https://stackoverflow.com/questions/80007939/how-can-i-avoid-duplicate-or-skipped-records-when-paginating-a-frequently-update",
+      "published_at": "2026-10-05T08:30:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "pagination",
+        "postgrest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "temphedi"
     },
     {
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
@@ -1448,18 +1491,6 @@
       "user": "woody180"
     },
     {
-      "title": "How to run JSNice?",
-      "url": "https://stackoverflow.com/questions/80007642/how-to-run-jsnice",
-      "published_at": "2026-10-03T07:45:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "nonhuman"
-    },
-    {
       "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
       "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
       "published_at": "2026-10-01T11:29:36.000Z",
@@ -1473,21 +1504,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "spotload"
-    },
-    {
-      "title": "Apply a filter function to a table based on selected value",
-      "url": "https://stackoverflow.com/questions/80006046/apply-a-filter-function-to-a-table-based-on-selected-value",
-      "published_at": "2026-09-26T14:40:48.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
-      "tags": [
-        "javascript",
-        "arrays",
-        "forms",
-        "filter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "The Ratman"
     },
     {
       "title": "How do I randomize the position of bezier vertices?",
@@ -1531,6 +1547,21 @@
       "user": "Meek"
     },
     {
+      "title": "How To Solve React Hydration Error in Next",
+      "url": "https://stackoverflow.com/questions/73451295/how-to-solve-react-hydration-error-in-next",
+      "published_at": "2022-08-22T21:45:23.000Z",
+      "description": "Stack Overflow question · 5 answers · score 10",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AzeaL87"
+    },
+    {
       "title": "iPad Safari Development toolbar",
       "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
       "published_at": "2011-04-20T17:35:43.000Z",
@@ -1545,22 +1576,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "copenndthagen"
-    },
-    {
-      "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
-      "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
-      "published_at": "2019-10-11T10:50:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
-      "tags": [
-        "javascript",
-        "oauth-2.0",
-        "jwt",
-        "total.js",
-        "gravitee"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "404_Name_Not_Found"
     },
     {
       "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
@@ -1864,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3237,
+      "stars": 3474,
       "user": "rehan-remade"
     },
     {
@@ -1879,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2610,
       "user": "feder-cr"
     },
     {
@@ -1894,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1402,
+      "stars": 1452,
       "user": "nanaism"
     },
     {
@@ -1909,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1174,
       "user": "nykooi1"
     },
     {
@@ -1924,8 +1939,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 794,
       "user": "Edwardxlai"
+    },
+    {
+      "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
+      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
+      "published_at": "2026-10-05T04:42:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naira"
     },
     {
       "title": "Apache Spark, PySpark can't write a file on disk",
@@ -1956,44 +1984,6 @@
       "user": "Sam Sianati"
     },
     {
-      "title": "When using pygame events, I can't detect when a KEY_UP event happens for some reason",
-      "url": "https://stackoverflow.com/questions/80007692/when-using-pygame-events-i-cant-detect-when-a-key-up-event-happens-for-some-re",
-      "published_at": "2026-10-03T14:11:50.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pink Acorn"
-    },
-    {
-      "title": "Finding value within nested dictionary with arrays",
-      "url": "https://stackoverflow.com/questions/80007452/finding-value-within-nested-dictionary-with-arrays",
-      "published_at": "2026-10-02T09:49:08.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BConn63"
-    },
-    {
-      "title": "How to make two attr.s instances equal each other in this code",
-      "url": "https://stackoverflow.com/questions/80007474/how-to-make-two-attr-s-instances-equal-each-other-in-this-code",
-      "published_at": "2026-10-02T11:37:54.000Z",
-      "description": "Stack Overflow question · 3 answers · score -5",
-      "tags": [
-        "python",
-        "python-attrs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Train-Case"
-    },
-    {
       "title": "Ansible Lookup Plugin to query the inventory?",
       "url": "https://stackoverflow.com/questions/80006445/ansible-lookup-plugin-to-query-the-inventory",
       "published_at": "2026-09-28T12:09:38.000Z",
@@ -2019,6 +2009,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Iain"
+    },
+    {
+      "title": "What kind of regular expression captures the root of a URL?",
+      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
+      "published_at": "2026-09-25T19:09:34.000Z",
+      "description": "Stack Overflow question · 3 answers · score -3",
+      "tags": [
+        "python",
+        "regex",
+        "url"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toothpick Anemone"
     },
     {
       "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
@@ -2063,6 +2067,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Don Hatch"
+    },
+    {
+      "title": "Documentation of pandas DataFrame.replace with series as input",
+      "url": "https://stackoverflow.com/questions/80001493/documentation-of-pandas-dataframe-replace-with-series-as-input",
+      "published_at": "2026-09-07T20:00:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33098110"
     }
   ],
   "DevOps": [
@@ -2345,7 +2363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1231,
       "user": "QingYunA"
     },
     {
@@ -2361,6 +2379,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Murtaza Siddiqui"
+    },
+    {
+      "title": "How To Solve React Hydration Error in Next",
+      "url": "https://stackoverflow.com/questions/73451295/how-to-solve-react-hydration-error-in-next",
+      "published_at": "2022-08-22T21:45:23.000Z",
+      "description": "Stack Overflow question · 5 answers · score 10",
+      "tags": [
+        "javascript",
+        "html",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AzeaL87"
     },
     {
       "title": "iPad Safari Development toolbar",
@@ -2506,7 +2539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 73,
       "user": "MatinSenPai"
     },
     {
@@ -2699,21 +2732,6 @@
       "user": "Annie Cusack"
     },
     {
-      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
-      "published_at": "2026-09-26T11:10:27Z",
-      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
       "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
       "published_at": "2026-09-26T11:10:24Z",
@@ -2725,6 +2743,21 @@
         "mcp"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
+      "published_at": "2026-09-26T11:10:27Z",
+      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2997,22 +3030,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
-      "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
-      "published_at": "2019-10-11T10:50:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
-      "tags": [
-        "javascript",
-        "oauth-2.0",
-        "jwt",
-        "total.js",
-        "gravitee"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "404_Name_Not_Found"
-    },
-    {
       "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
       "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
       "published_at": "2026-10-04T20:31:07.000Z",
@@ -3163,7 +3180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1231,
       "user": "QingYunA"
     },
     {
@@ -3178,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 629,
       "user": "sganggs"
     },
     {
@@ -3193,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 316,
       "user": "allenv0"
     },
     {
@@ -3208,23 +3225,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 225,
       "user": "blendi-remade"
     },
     {
-      "title": "Zhangweihui666/silver-tourism-digital-twin - Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
-      "url": "https://github.com/Zhangweihui666/silver-tourism-digital-twin",
-      "published_at": "2026-09-29T07:30:42Z",
-      "description": "Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
+      "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+      "url": "https://github.com/GanyuanRan/Autoloom",
+      "published_at": "2026-09-30T12:40:15Z",
+      "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35137065?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 143,
-      "user": "Zhangweihui666"
+      "stars": 161,
+      "user": "GanyuanRan"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -3238,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3237,
+      "stars": 3474,
       "user": "rehan-remade"
     },
     {
@@ -3253,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2610,
       "user": "feder-cr"
     },
     {
@@ -3268,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1402,
+      "stars": 1452,
       "user": "nanaism"
     },
     {
@@ -3283,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1174,
       "user": "nykooi1"
     },
     {
@@ -3298,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 794,
       "user": "Edwardxlai"
     },
     {
@@ -3313,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 241,
       "user": "mizorewww"
     },
     {
@@ -3328,8 +3345,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 73,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "egoist/godiff - Fast native diff viewer",
+      "url": "https://github.com/egoist/godiff",
+      "published_at": "2026-10-04T16:10:38Z",
+      "description": "Fast native diff viewer",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "egoist"
     },
     {
       "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
@@ -3345,21 +3377,6 @@
       "source": "GitHub",
       "stars": 57,
       "user": "Tuskira"
-    },
-    {
-      "title": "egoist/godiff - Fast native diff viewer",
-      "url": "https://github.com/egoist/godiff",
-      "published_at": "2026-10-04T16:10:38Z",
-      "description": "Fast native diff viewer",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
-      "source": "GitHub",
-      "stars": 48,
-      "user": "egoist"
     },
     {
       "title": "nullism/trunkcms - A small, stateless blog engine in Go. Content lives in a GitHub repo.",
@@ -3388,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3226,
+      "stars": 3358,
       "user": "CopilotKit"
     },
     {
@@ -3403,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 1148,
       "user": "kargulstudio"
     },
     {
@@ -3418,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 758,
       "user": "openai"
     },
     {
@@ -3433,23 +3450,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 566,
       "user": "composio-community"
     },
     {
-      "title": "fsiaonma/elpis - elpis",
-      "url": "https://github.com/fsiaonma/elpis",
-      "published_at": "2026-09-29T02:19:22Z",
-      "description": "elpis",
+      "title": "extend-hq/jevbox - GitHub Repository",
+      "url": "https://github.com/extend-hq/jevbox",
+      "published_at": "2026-09-29T20:54:42Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/124006768?v=4",
       "source": "GitHub",
-      "stars": 549,
-      "user": "fsiaonma"
+      "stars": 553,
+      "user": "extend-hq"
     },
     {
       "title": "storytold/photocraft - GitHub Repository",
@@ -3463,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 1275,
       "user": "storytold"
     },
     {
@@ -3478,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 506,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3493,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 396,
       "user": "storytold"
     },
     {
@@ -3508,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 340,
       "user": "storytold"
     },
     {
@@ -3523,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 334,
       "user": "storytold"
     },
     {
