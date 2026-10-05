@@ -247,6 +247,21 @@
       "user": "Mika Flowers"
     },
     {
+      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
+      "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
+      "published_at": "2026-09-30T19:36:21Z",
+      "description": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
+      "tags": [
+        "arduino",
+        "iot",
+        "cloudinary",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
+      "source": "Dev.to",
+      "user": "Jen Looper"
+    },
+    {
       "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
       "url": "https://dev.to/googleai/how-to-build-a-real-time-voice-ai-agent-with-the-gemini-live-api-1dhe",
       "published_at": "2026-09-28T22:22:04Z",
@@ -683,21 +698,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "url": "https://github.com/edenfunf/reelmimic",
-      "published_at": "2026-09-28T19:14:59Z",
-      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
-      "source": "GitHub",
-      "stars": 1266,
-      "user": "edenfunf"
-    },
-    {
       "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "published_at": "2026-10-02T09:57:40Z",
@@ -709,7 +709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1094,
       "user": "QingYunA"
     },
     {
@@ -724,7 +724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 265,
       "user": "allenv0"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 222,
       "user": "blendi-remade"
     },
     {
@@ -754,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2599,
+      "stars": 2604,
       "user": "feder-cr"
     },
     {
@@ -769,23 +769,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1384,
+      "stars": 1402,
       "user": "nanaism"
-    },
-    {
-      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "published_at": "2026-09-28T16:18:39Z",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
-      "source": "GitHub",
-      "stars": 1371,
-      "user": "firelex"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -799,23 +784,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1078,
       "user": "nykooi1"
     },
     {
-      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "published_at": "2026-09-28T23:40:05Z",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "published_at": "2026-09-30T12:52:24Z",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "tags": [
-        "typescript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 5768,
-      "user": "KKKKhazix"
+      "stars": 782,
+      "user": "Edwardxlai"
+    },
+    {
+      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "published_at": "2026-10-03T15:08:10Z",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "MatinSenPai"
+    },
+    {
+      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "url": "https://github.com/Tuskira/ai-agent-gateway",
+      "published_at": "2026-10-01T11:32:10Z",
+      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
+      "source": "GitHub",
+      "stars": 57,
+      "user": "Tuskira"
     },
     {
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
@@ -829,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3195,
+      "stars": 3226,
       "user": "CopilotKit"
     },
     {
@@ -844,7 +859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "openai"
     },
     {
@@ -859,23 +874,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 559,
       "user": "composio-community"
-    },
-    {
-      "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "url": "https://github.com/alpcanaydin/tusk",
-      "published_at": "2026-09-28T18:47:06Z",
-      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
-      "source": "GitHub",
-      "stars": 335,
-      "user": "alpcanaydin"
     },
     {
       "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
@@ -1270,21 +1270,6 @@
       "user": "velmu"
     },
     {
-      "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "url": "https://github.com/edenfunf/reelmimic",
-      "published_at": "2026-09-28T19:14:59Z",
-      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
-      "source": "GitHub",
-      "stars": 1266,
-      "user": "edenfunf"
-    },
-    {
       "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "published_at": "2026-10-02T09:57:40Z",
@@ -1296,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1094,
       "user": "QingYunA"
     },
     {
@@ -1311,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 551,
       "user": "sganggs"
     },
     {
@@ -1326,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 265,
       "user": "allenv0"
     },
     {
@@ -1341,23 +1326,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 222,
       "user": "blendi-remade"
     },
     {
-      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "published_at": "2026-09-28T23:40:05Z",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "title": "Zhangweihui666/silver-tourism-digital-twin - Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
+      "url": "https://github.com/Zhangweihui666/silver-tourism-digital-twin",
+      "published_at": "2026-09-29T07:30:42Z",
+      "description": "Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/35137065?v=4",
       "source": "GitHub",
-      "stars": 5768,
-      "user": "KKKKhazix"
+      "stars": 143,
+      "user": "Zhangweihui666"
     },
     {
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
@@ -1371,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3195,
+      "stars": 3226,
       "user": "CopilotKit"
     },
     {
@@ -1386,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 879,
       "user": "kargulstudio"
     },
     {
@@ -1401,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "openai"
     },
     {
@@ -1416,8 +1401,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 559,
       "user": "composio-community"
+    },
+    {
+      "title": "fsiaonma/elpis - elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "published_at": "2026-09-29T02:19:22Z",
+      "description": "elpis",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
+      "source": "GitHub",
+      "stars": 549,
+      "user": "fsiaonma"
     },
     {
       "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
@@ -1504,20 +1504,6 @@
       "user": "Aurora Lane"
     },
     {
-      "title": "How should I share, save and combine JavaScript variables across HTML sites?",
-      "url": "https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites",
-      "published_at": "2026-03-10T19:55:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "advice",
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32478630"
-    },
-    {
       "title": "What is the purpose of a dollar sign ($) in a JavaScript variable name?",
       "url": "https://stackoverflow.com/questions/846585/what-is-the-purpose-of-a-dollar-sign-in-a-javascript-variable-name",
       "published_at": "2009-05-11T03:00:26.000Z",
@@ -1545,19 +1531,36 @@
       "user": "Meek"
     },
     {
-      "title": "How to build a UI Component Library with code-splitting for CSS styles",
-      "url": "https://stackoverflow.com/questions/75492775/how-to-build-a-ui-component-library-with-code-splitting-for-css-styles",
-      "published_at": "2023-02-18T10:43:10.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "title": "iPad Safari Development toolbar",
+      "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
+      "published_at": "2011-04-20T17:35:43.000Z",
+      "description": "Stack Overflow question · 7 answers · score 33",
       "tags": [
         "javascript",
-        "html",
         "css",
-        "components"
+        "ipad",
+        "safari",
+        "mobile-safari"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "floroz"
+      "user": "copenndthagen"
+    },
+    {
+      "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
+      "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
+      "published_at": "2019-10-11T10:50:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 5",
+      "tags": [
+        "javascript",
+        "oauth-2.0",
+        "jwt",
+        "total.js",
+        "gravitee"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "404_Name_Not_Found"
     },
     {
       "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
@@ -1861,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3163,
+      "stars": 3237,
       "user": "rehan-remade"
     },
     {
@@ -1876,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2599,
+      "stars": 2604,
       "user": "feder-cr"
     },
     {
@@ -1891,23 +1894,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1384,
+      "stars": 1402,
       "user": "nanaism"
-    },
-    {
-      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "published_at": "2026-09-28T16:18:39Z",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
-      "source": "GitHub",
-      "stars": 1371,
-      "user": "firelex"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -1921,8 +1909,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1078,
       "user": "nykooi1"
+    },
+    {
+      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "published_at": "2026-09-30T12:52:24Z",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
+      "source": "GitHub",
+      "stars": 782,
+      "user": "Edwardxlai"
     },
     {
       "title": "Apache Spark, PySpark can't write a file on disk",
@@ -2228,21 +2231,6 @@
       "user": "jknupp"
     },
     {
-      "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
-      "url": "https://github.com/devilcoolyue/agentbox",
-      "published_at": "2026-09-28T03:32:41Z",
-      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
-      "source": "GitHub",
-      "stars": 82,
-      "user": "devilcoolyue"
-    },
-    {
       "title": "Apache Spark, PySpark can't write a file on disk",
       "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
       "published_at": "2026-10-04T10:42:45.000Z",
@@ -2357,7 +2345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1094,
       "user": "QingYunA"
     },
     {
@@ -2375,33 +2363,20 @@
       "user": "Murtaza Siddiqui"
     },
     {
-      "title": "How should I share, save and combine JavaScript variables across HTML sites?",
-      "url": "https://stackoverflow.com/questions/79904853/how-should-i-share-save-and-combine-javascript-variables-across-html-sites",
-      "published_at": "2026-03-10T19:55:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "advice",
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32478630"
-    },
-    {
-      "title": "How to build a UI Component Library with code-splitting for CSS styles",
-      "url": "https://stackoverflow.com/questions/75492775/how-to-build-a-ui-component-library-with-code-splitting-for-css-styles",
-      "published_at": "2023-02-18T10:43:10.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
+      "title": "iPad Safari Development toolbar",
+      "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
+      "published_at": "2011-04-20T17:35:43.000Z",
+      "description": "Stack Overflow question · 7 answers · score 33",
       "tags": [
         "javascript",
-        "html",
         "css",
-        "components"
+        "ipad",
+        "safari",
+        "mobile-safari"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "floroz"
+      "user": "copenndthagen"
     },
     {
       "title": "Learn Modern Kotlin",
@@ -2518,6 +2493,37 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "published_at": "2026-10-03T15:08:10Z",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
+      "source": "GitHub",
+      "stars": 68,
+      "user": "MatinSenPai"
+    },
+    {
+      "title": "iPad Safari Development toolbar",
+      "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
+      "published_at": "2011-04-20T17:35:43.000Z",
+      "description": "Stack Overflow question · 7 answers · score 33",
+      "tags": [
+        "javascript",
+        "css",
+        "ipad",
+        "safari",
+        "mobile-safari"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "copenndthagen"
     },
     {
       "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
@@ -2661,6 +2667,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
+      "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
+      "published_at": "2026-09-30T19:36:21Z",
+      "description": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
+      "tags": [
+        "arduino",
+        "iot",
+        "cloudinary",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
+      "source": "Dev.to",
+      "user": "Jen Looper"
     },
     {
       "title": "How to Build a Real-Time Voice AI Agent with the Gemini Live API",
@@ -2840,21 +2861,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "url": "https://github.com/alpcanaydin/tusk",
-      "published_at": "2026-09-28T18:47:06Z",
-      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
-      "source": "GitHub",
-      "stars": 335,
-      "user": "alpcanaydin"
     }
   ],
   "Security": [
@@ -2989,6 +2995,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
+      "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
+      "published_at": "2019-10-11T10:50:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 5",
+      "tags": [
+        "javascript",
+        "oauth-2.0",
+        "jwt",
+        "total.js",
+        "gravitee"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "404_Name_Not_Found"
     },
     {
       "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
@@ -3130,21 +3152,6 @@
       "user": "pabs3"
     },
     {
-      "title": "edenfunf/reelmimic - Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "url": "https://github.com/edenfunf/reelmimic",
-      "published_at": "2026-09-28T19:14:59Z",
-      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/146086744?v=4",
-      "source": "GitHub",
-      "stars": 1266,
-      "user": "edenfunf"
-    },
-    {
       "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "published_at": "2026-10-02T09:57:40Z",
@@ -3156,7 +3163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1094,
       "user": "QingYunA"
     },
     {
@@ -3171,7 +3178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 551,
       "user": "sganggs"
     },
     {
@@ -3186,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 265,
       "user": "allenv0"
     },
     {
@@ -3201,8 +3208,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 222,
       "user": "blendi-remade"
+    },
+    {
+      "title": "Zhangweihui666/silver-tourism-digital-twin - Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
+      "url": "https://github.com/Zhangweihui666/silver-tourism-digital-twin",
+      "published_at": "2026-09-29T07:30:42Z",
+      "description": "Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/35137065?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "Zhangweihui666"
     },
     {
       "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
@@ -3216,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3163,
+      "stars": 3237,
       "user": "rehan-remade"
     },
     {
@@ -3231,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2599,
+      "stars": 2604,
       "user": "feder-cr"
     },
     {
@@ -3246,23 +3268,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1384,
+      "stars": 1402,
       "user": "nanaism"
-    },
-    {
-      "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "url": "https://github.com/firelex/jeff",
-      "published_at": "2026-09-28T16:18:39Z",
-      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3168549?v=4",
-      "source": "GitHub",
-      "stars": 1371,
-      "user": "firelex"
     },
     {
       "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
@@ -3276,8 +3283,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1078,
       "user": "nykooi1"
+    },
+    {
+      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "published_at": "2026-09-30T12:52:24Z",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
+      "source": "GitHub",
+      "stars": 782,
+      "user": "Edwardxlai"
     },
     {
       "title": "mizorewww/x_gift_bot - X Premium gift CLI and redemption site",
@@ -3291,83 +3313,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "mizorewww"
     },
     {
-      "title": "devilcoolyue/agentbox - Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
-      "url": "https://github.com/devilcoolyue/agentbox",
-      "published_at": "2026-09-28T03:32:41Z",
-      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "published_at": "2026-10-03T15:08:10Z",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15119216?v=4",
-      "source": "GitHub",
-      "stars": 82,
-      "user": "devilcoolyue"
-    },
-    {
-      "title": "kofiadeyemiq/byterange - RFC 9110 HTTP Range parsing and serving for Go, with limits on range count and multipart amplification.",
-      "url": "https://github.com/kofiadeyemiq/byterange",
-      "published_at": "2026-09-28T14:44:22Z",
-      "description": "RFC 9110 HTTP Range parsing and serving for Go, with limits on range count and multipart amplification.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/334555386?v=4",
-      "source": "GitHub",
-      "stars": 69,
-      "user": "kofiadeyemiq"
-    },
-    {
-      "title": "kofiadeyemiq/iterleak - Go analyzer that reports iter.Pull and iter.Pull2 calls whose stop function can go uncalled and leak a goroutine.",
-      "url": "https://github.com/kofiadeyemiq/iterleak",
-      "published_at": "2026-09-28T14:44:14Z",
-      "description": "Go analyzer that reports iter.Pull and iter.Pull2 calls whose stop function can go uncalled and leak a goroutine.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/334555386?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
       "stars": 68,
-      "user": "kofiadeyemiq"
+      "user": "MatinSenPai"
     },
     {
-      "title": "kofiadeyemiq/shellstrict - Lint shell scripts for missing strict mode and for mktemp files with no trap cleanup, complementing ShellCheck.",
-      "url": "https://github.com/kofiadeyemiq/shellstrict",
-      "published_at": "2026-09-28T14:44:03Z",
-      "description": "Lint shell scripts for missing strict mode and for mktemp files with no trap cleanup, complementing ShellCheck.",
+      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "url": "https://github.com/Tuskira/ai-agent-gateway",
+      "published_at": "2026-10-01T11:32:10Z",
+      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/334555386?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 68,
-      "user": "kofiadeyemiq"
+      "stars": 57,
+      "user": "Tuskira"
     },
     {
-      "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "published_at": "2026-09-28T23:40:05Z",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "title": "egoist/godiff - Fast native diff viewer",
+      "url": "https://github.com/egoist/godiff",
+      "published_at": "2026-10-04T16:10:38Z",
+      "description": "Fast native diff viewer",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 5768,
-      "user": "KKKKhazix"
+      "stars": 48,
+      "user": "egoist"
+    },
+    {
+      "title": "nullism/trunkcms - A small, stateless blog engine in Go. Content lives in a GitHub repo.",
+      "url": "https://github.com/nullism/trunkcms",
+      "published_at": "2026-09-30T23:50:05Z",
+      "description": "A small, stateless blog engine in Go. Content lives in a GitHub repo.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/730290?v=4",
+      "source": "GitHub",
+      "stars": 47,
+      "user": "nullism"
     },
     {
       "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
@@ -3381,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 3195,
+      "stars": 3226,
       "user": "CopilotKit"
     },
     {
@@ -3396,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 879,
       "user": "kargulstudio"
     },
     {
@@ -3411,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "openai"
     },
     {
@@ -3426,8 +3433,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 559,
       "user": "composio-community"
+    },
+    {
+      "title": "fsiaonma/elpis - elpis",
+      "url": "https://github.com/fsiaonma/elpis",
+      "published_at": "2026-09-29T02:19:22Z",
+      "description": "elpis",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1947494?v=4",
+      "source": "GitHub",
+      "stars": 549,
+      "user": "fsiaonma"
     },
     {
       "title": "storytold/photocraft - GitHub Repository",
@@ -3441,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 880,
       "user": "storytold"
     },
     {
@@ -3456,23 +3478,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 475,
       "user": "ZacharyZhang-NY"
-    },
-    {
-      "title": "alpcanaydin/tusk - A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "url": "https://github.com/alpcanaydin/tusk",
-      "published_at": "2026-09-28T18:47:06Z",
-      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1801024?v=4",
-      "source": "GitHub",
-      "stars": 335,
-      "user": "alpcanaydin"
     },
     {
       "title": "storytold/filmcraft - GitHub Repository",
@@ -3486,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 282,
       "user": "storytold"
     },
     {
@@ -3501,7 +3508,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 256,
+      "user": "storytold"
+    },
+    {
+      "title": "storytold/vectorcraft - GitHub Repository",
+      "url": "https://github.com/storytold/vectorcraft",
+      "published_at": "2026-09-30T13:43:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 252,
       "user": "storytold"
     },
     {
@@ -3516,6 +3538,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "bt"
+    },
+    {
+      "title": "iPad Safari Development toolbar",
+      "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
+      "published_at": "2011-04-20T17:35:43.000Z",
+      "description": "Stack Overflow question · 7 answers · score 33",
+      "tags": [
+        "javascript",
+        "css",
+        "ipad",
+        "safari",
+        "mobile-safari"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "copenndthagen"
     },
     {
       "title": "How to Submit a Quarterly Update to HMRC's Making Tax Digital API",
