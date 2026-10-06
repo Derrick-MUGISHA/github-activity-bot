@@ -60,21 +60,6 @@
       "user": "xbill"
     },
     {
-      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
-      "published_at": "2026-10-05T04:10:50Z",
-      "description": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "jev",
-        "dataflow"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
       "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e",
       "published_at": "2026-10-01T17:08:03Z",
@@ -147,6 +132,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b-w4a16%2Farticle%2Fdevto-t4-emb4-art.c42232ae.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
+      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
+      "published_at": "2026-10-05T04:10:50Z",
+      "description": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "jev",
+        "dataflow"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Claude Sonnet 5.5 is now available on Google Cloud",
@@ -514,21 +514,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "Production RAG on the Lakehouse with BigQuery Vector Search and Apache Iceberg",
-      "url": "https://dev.to/gde/production-rag-on-the-lakehouse-with-bigquery-vector-search-and-apache-iceberg-5g3",
-      "published_at": "2026-09-23T04:24:08Z",
-      "description": "As teams rush to build with Generative AI, they're creating a dangerous chasm between their data and...",
-      "tags": [
-        "lakehouse",
-        "bigquery",
-        "apacheiceberg",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6kkrywlbq712q0oow60.png",
-      "source": "Dev.to",
-      "user": "Vo Tu Duc"
-    },
-    {
       "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
       "url": "https://dev.to/devteam/join-us-live-hacktoberfest-2026-launch-with-exclusive-swag-1e25",
       "published_at": "2026-09-30T23:21:18Z",
@@ -557,6 +542,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-vm-cover.25debff5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
+      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
+      "published_at": "2026-09-14T17:12:10Z",
+      "description": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
+      "tags": [
+        "discuss",
+        "ai",
+        "programming",
+        "chatgpt"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmbizy1bvs5mibcqzbtyo.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1640,
       "user": "QingYunA"
     },
     {
@@ -753,23 +753,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 400,
       "user": "allenv0"
     },
     {
-      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "url": "https://github.com/blendi-remade/dioramas",
-      "published_at": "2026-09-30T00:07:56Z",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "published_at": "2026-10-06T04:49:37Z",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 229,
-      "user": "blendi-remade"
+      "stars": 312,
+      "user": "alchaincyf"
     },
     {
       "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 242,
       "user": "GanyuanRan"
     },
     {
@@ -798,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1573,
       "user": "nanaism"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "Edwardxlai"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 704,
       "user": "oil-oil"
     },
     {
@@ -843,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 90,
       "user": "MatinSenPai"
     },
     {
@@ -858,23 +858,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "Tuskira"
     },
     {
-      "title": "hashcott/ghostline - One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
-      "url": "https://github.com/hashcott/ghostline",
-      "published_at": "2026-10-04T06:13:58Z",
-      "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "published_at": "2026-10-03T14:49:48Z",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29016691?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 49,
-      "user": "hashcott"
+      "stars": 58,
+      "user": "jiwoochris"
     },
     {
       "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
@@ -888,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 703,
       "user": "lucasmarkes"
     },
     {
@@ -903,8 +903,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 487,
       "user": "whirlchat"
+    },
+    {
+      "title": "Email Self Hosters - what are you using?",
+      "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+      "published_at": "2026-10-06T03:09:53.070-05:00",
+      "description": "At the moment I self host using [maddy](https://maddy.email) for a bunch of domains that need a mailbox or catch all. There are some minor issues with it - some are me, some are who knows. The biggest bug bear is that the native email client on iOS takes an age to connect and download messages which causes some issues with OTP emails.  \r\n\r\nSo for those out there that do host their own email - what are you running, what would you change?",
+      "tags": [
+        "ask",
+        "email"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vetch"
     },
     {
       "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
@@ -949,6 +962,53 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dumbass"
+    },
+    {
+      "title": "Flai&#8217;s AI dealership software is booking 50,000 appointments per month",
+      "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+      "published_at": "2026-10-06T13:00:00.000Z",
+      "description": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Transportation",
+        "Exclusive",
+        "flai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Facebook tests going Reels-first in India",
+      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "published_at": "2026-10-06T12:38:53.000Z",
+      "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "reels",
+        "Facebook"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+      "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "published_at": "2026-10-06T12:00:00.000Z",
+      "description": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+      "tags": [
+        "Climate",
+        "Startups",
+        "fusion power",
+        "Type One Energy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
@@ -1029,63 +1089,36 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "published_at": "2026-10-05T18:29:00.000Z",
-      "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
+      "url": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
+      "published_at": "2026-10-06T06:12:53.000Z",
+      "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
       "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "TikTok"
+        "claude-code",
+        "Docker",
+        "Sandbox",
+        "ai agents",
+        "#ai-tools"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
+      "source": "freeCodeCamp",
+      "user": "Chirag Agrawal"
     },
     {
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "published_at": "2026-10-05T18:07:07.000Z",
-      "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+      "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
+      "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
+      "published_at": "2026-10-06T05:02:57.000Z",
+      "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
       "tags": [
-        "Startups",
-        "Hardware",
-        "Venture"
+        "dataengineering",
+        "datasecurity",
+        "encryption",
+        "#DataPipelines",
+        "PII"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Hot Girl Hotline is like &#8216;Dear Abby&#8217; for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "published_at": "2026-10-05T17:29:22.000Z",
-      "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "5 startups that caught VCs&#8217; attention at the latest PearX demo day",
-      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-      "published_at": "2026-10-05T17:26:44.000Z",
-      "description": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-      "tags": [
-        "Venture",
-        "Startups",
-        "Pear Ventures"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "source": "freeCodeCamp",
+      "user": "Lakshmi Mahabaleshwara"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -1180,22 +1213,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/",
-      "published_at": "2026-10-02T14:52:05.000Z",
-      "description": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the",
-      "tags": [
-        "AI",
-        "Next.js",
-        "GitHub",
-        "React",
-        "TypeScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Andrew Baisden"
     }
   ],
   "JavaScript": [
@@ -1361,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1640,
       "user": "QingYunA"
     },
     {
@@ -1376,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 797,
       "user": "sganggs"
     },
     {
@@ -1391,23 +1408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 400,
       "user": "allenv0"
     },
     {
-      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "url": "https://github.com/blendi-remade/dioramas",
-      "published_at": "2026-09-30T00:07:56Z",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "published_at": "2026-10-06T04:49:37Z",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 229,
-      "user": "blendi-remade"
+      "stars": 312,
+      "user": "alchaincyf"
     },
     {
       "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
@@ -1421,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 242,
       "user": "GanyuanRan"
     },
     {
@@ -1436,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1549,
       "user": "kargulstudio"
     },
     {
@@ -1451,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 703,
       "user": "lucasmarkes"
     },
     {
@@ -1466,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 637,
       "user": "rauchg"
     },
     {
@@ -1481,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 487,
       "user": "whirlchat"
     },
     {
@@ -1496,8 +1513,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 331,
       "user": "shinshin86"
+    },
+    {
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "source": "GitHub",
+      "stars": 549,
+      "user": "elstongun"
     },
     {
       "title": "Friendship ended with Deno, now Node is my best friend",
@@ -1512,10 +1544,25 @@
       "user": "FedericoSchonborn"
     },
     {
+      "title": "How can I get the BPM",
+      "url": "https://stackoverflow.com/questions/80008218/how-can-i-get-the-bpm",
+      "published_at": "2026-10-06T12:17:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "electron",
+        "spotify"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rayane Nouni"
+    },
+    {
       "title": "\"MongoServerError: unknown operator: $expr\" when trying to use $expr in MongoDb 6.10.0?",
       "url": "https://stackoverflow.com/questions/80007951/mongoservererror-unknown-operator-expr-when-trying-to-use-expr-in-mongodb",
       "published_at": "2026-10-05T09:29:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "regex",
@@ -1526,20 +1573,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user31009838"
-    },
-    {
-      "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
-      "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
-      "published_at": "2026-10-03T19:53:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Murtaza Siddiqui"
     },
     {
       "title": "How do I randomize the position of bezier vertices?",
@@ -1556,6 +1589,21 @@
       "user": "Aurora Lane"
     },
     {
+      "title": "Video player with a menu in HTML & CSS",
+      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu-in-html-css",
+      "published_at": "2026-05-06T22:02:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "advice"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "x ox"
+    },
+    {
       "title": "How do I modify Enemy class to chase the player in an object-oriented programming JavaScript game?",
       "url": "https://stackoverflow.com/questions/79903488/how-do-i-modify-enemy-class-to-chase-the-player-in-an-object-oriented-programmin",
       "published_at": "2026-03-08T22:22:30.000Z",
@@ -1570,19 +1618,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "human computer"
-    },
-    {
-      "title": "What is the purpose of a dollar sign ($) in a JavaScript variable name?",
-      "url": "https://stackoverflow.com/questions/846585/what-is-the-purpose-of-a-dollar-sign-in-a-javascript-variable-name",
-      "published_at": "2009-05-11T03:00:26.000Z",
-      "description": "Stack Overflow question · 13 answers · score 474",
-      "tags": [
-        "javascript",
-        "naming-conventions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Keith"
     },
     {
       "title": "Next.js always fail at downloading fonts from Google Fonts",
@@ -1615,6 +1650,19 @@
       "user": "AzeaL87"
     },
     {
+      "title": "Is it possible to get element's numerical index in its parent node without looping?",
+      "url": "https://stackoverflow.com/questions/4649699/is-it-possible-to-get-elements-numerical-index-in-its-parent-node-without-loopi",
+      "published_at": "2011-01-10T17:42:52.000Z",
+      "description": "Stack Overflow question · 7 answers · score 58",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rsk82"
+    },
+    {
       "title": "Javascript equivalent of Python's dict.setdefault?",
       "url": "https://stackoverflow.com/questions/16107680/javascript-equivalent-of-pythons-dict-setdefault",
       "published_at": "2013-04-19T15:04:09.000Z",
@@ -1628,35 +1676,18 @@
       "user": "ptomato"
     },
     {
-      "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
-      "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
-      "published_at": "2019-10-11T10:50:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
+      "title": "how can i convert a png to pdf using JavaScript in vue.js with node version 10",
+      "url": "https://stackoverflow.com/questions/73205292/how-can-i-convert-a-png-to-pdf-using-javascript-in-vue-js-with-node-version-10",
+      "published_at": "2022-08-02T09:39:37.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "javascript",
-        "oauth-2.0",
-        "jwt",
-        "total.js",
-        "gravitee"
+        "node.js",
+        "vue.js"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "404_Name_Not_Found"
-    },
-    {
-      "title": "How to embed a DOM node inside a template literal?",
-      "url": "https://stackoverflow.com/questions/54768158/how-to-embed-a-dom-node-inside-a-template-literal",
-      "published_at": "2019-02-19T14:05:35.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
-      "tags": [
-        "javascript",
-        "dom",
-        "reference",
-        "template-literals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Slev7n"
+      "user": "Saif Ur Rehman"
     },
     {
       "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
@@ -1704,22 +1735,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/",
-      "published_at": "2026-10-02T14:52:05.000Z",
-      "description": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the",
-      "tags": [
-        "AI",
-        "Next.js",
-        "GitHub",
-        "React",
-        "TypeScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Andrew Baisden"
     }
   ],
   "Python": [
@@ -1930,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3975,
+      "stars": 4266,
       "user": "rehan-remade"
     },
     {
@@ -1945,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1573,
       "user": "nanaism"
     },
     {
@@ -1960,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "Edwardxlai"
     },
     {
@@ -1975,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 718,
       "user": "StayLameBro"
     },
     {
@@ -1990,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 704,
       "user": "oil-oil"
     },
     {
@@ -2005,6 +2020,48 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ptomato"
+    },
+    {
+      "title": "Why python app keeps getting DisconnectNonTransientConnectionException every two weeks?",
+      "url": "https://stackoverflow.com/questions/80008196/why-python-app-keeps-getting-disconnectnontransientconnectionexception-every-two",
+      "published_at": "2026-10-06T10:15:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "jdbc",
+        "db2",
+        "jaydebeapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Le Autodidact"
+    },
+    {
+      "title": "Nubra ref_id is different in UAT and PROD: how to look up a NIFTY option ref_id by strike and expiry",
+      "url": "https://stackoverflow.com/questions/80008188/nubra-ref-id-is-different-in-uat-and-prod-how-to-look-up-a-nifty-option-ref-id",
+      "published_at": "2026-10-06T09:57:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "trading",
+        "uat"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naira"
+    },
+    {
+      "title": "How do I get all hosts on my Mininet custom topology to respond to ping using pingall?",
+      "url": "https://stackoverflow.com/questions/80008174/how-do-i-get-all-hosts-on-my-mininet-custom-topology-to-respond-to-ping-using-pi",
+      "published_at": "2026-10-06T09:00:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "mininet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33185410"
     },
     {
       "title": "Why I am unable to set Groups despite user having an Id?",
@@ -2023,7 +2080,7 @@
       "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
       "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
       "published_at": "2026-10-05T04:42:56.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "python-import"
@@ -2031,6 +2088,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naira"
+    },
+    {
+      "title": "Better way of doing logging in Python?",
+      "url": "https://stackoverflow.com/questions/80008004/better-way-of-doing-logging-in-python",
+      "published_at": "2026-10-05T14:03:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "python",
+        "logging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Servo not responding when controlling with Raspberry pi",
@@ -2047,36 +2117,10 @@
       "user": "Abhishek Kedia"
     },
     {
-      "title": "Better way of doing logging in Python?",
-      "url": "https://stackoverflow.com/questions/80008004/better-way-of-doing-logging-in-python",
-      "published_at": "2026-10-05T14:03:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python",
-        "logging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "How to take inputs on multiple lines?",
-      "url": "https://stackoverflow.com/questions/80007739/how-to-take-inputs-on-multiple-lines",
-      "published_at": "2026-10-04T01:19:20.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
-      "tags": [
-        "python",
-        "input"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sam Sianati"
-    },
-    {
       "title": "Apache Spark, PySpark can't write a file on disk",
       "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
       "published_at": "2026-10-04T10:42:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "docker",
@@ -2116,35 +2160,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zi Ba"
-    },
-    {
-      "title": "Type hints warning - Expected type 'LoaderProtocol | None', got 'PatchedLoader' instead",
-      "url": "https://stackoverflow.com/questions/80007532/type-hints-warning-expected-type-loaderprotocol-none-got-patchedloader",
-      "published_at": "2026-10-02T16:02:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Apache Superset 6.1 :: flask-caching is still required when NullCache and SupersetMetastoreCache are used?",
-      "url": "https://stackoverflow.com/questions/80006946/apache-superset-6-1-flask-caching-is-still-required-when-nullcache-and-supers",
-      "published_at": "2026-09-30T11:05:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "flask",
-        "apache-superset",
-        "flask-cache",
-        "flask-caching"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bsethi24"
     }
   ],
   "DevOps": [
@@ -2328,25 +2343,10 @@
       "user": "jknupp"
     },
     {
-      "title": "Using docker-compose with Podman rootless",
-      "url": "https://elou.world/en/tutorial/podman-docker-compose",
-      "published_at": "2026-10-05T04:51:28.692-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "linux",
-        "systemd",
-        "virtualization"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Exagone313"
-    },
-    {
       "title": "Apache Spark, PySpark can't write a file on disk",
       "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
       "published_at": "2026-10-04T10:42:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "docker",
@@ -2356,6 +2356,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mike"
+    },
+    {
+      "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
+      "url": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
+      "published_at": "2026-10-06T06:12:53.000Z",
+      "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
+      "tags": [
+        "claude-code",
+        "Docker",
+        "Sandbox",
+        "ai agents",
+        "#ai-tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chirag Agrawal"
     },
     {
       "title": "How to Separate Operational Intent from the Executor",
@@ -2414,22 +2430,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1640,
       "user": "QingYunA"
     },
     {
-      "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
-      "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
-      "published_at": "2026-10-03T19:53:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Video player with a menu in HTML & CSS",
+      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu-in-html-css",
+      "published_at": "2026-05-06T22:02:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
-        "css"
+        "css",
+        "advice"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Murtaza Siddiqui"
+      "user": "x ox"
     },
     {
       "title": "How do I modify Enemy class to chase the player in an object-oriented programming JavaScript game?",
@@ -2493,19 +2510,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Reetain Raina"
-    },
-    {
-      "title": "Learn Modern Kotlin",
-      "url": "https://www.freecodecamp.org/news/learn-modern-kotlin/",
-      "published_at": "2026-10-02T15:23:58.000Z",
-      "description": "We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,",
-      "tags": [
-        "Kotlin",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Mobile": [
@@ -2609,8 +2613,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 90,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "Email Self Hosters - what are you using?",
+      "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+      "published_at": "2026-10-06T03:09:53.070-05:00",
+      "description": "At the moment I self host using [maddy](https://maddy.email) for a bunch of domains that need a mailbox or catch all. There are some minor issues with it - some are me, some are who knows. The biggest bug bear is that the native email client on iOS takes an age to connect and download messages which causes some issues with OTP emails.  \r\n\r\nSo for those out there that do host their own email - what are you running, what would you change?",
+      "tags": [
+        "ask",
+        "email"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vetch"
     },
     {
       "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
@@ -2627,19 +2644,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Nikheel Vishwas Savant"
-    },
-    {
-      "title": "Learn Modern Kotlin",
-      "url": "https://www.freecodecamp.org/news/learn-modern-kotlin/",
-      "published_at": "2026-10-02T15:23:58.000Z",
-      "description": "We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,",
-      "tags": [
-        "Kotlin",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Cloud": [
@@ -2656,21 +2660,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
       "source": "Dev.to",
       "user": "Gleb Otochkin"
-    },
-    {
-      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
-      "published_at": "2026-10-05T04:10:50Z",
-      "description": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "jev",
-        "dataflow"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
@@ -2701,6 +2690,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
+      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
+      "published_at": "2026-10-05T04:10:50Z",
+      "description": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "jev",
+        "dataflow"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Claude Sonnet 5.5 is now available on Google Cloud",
@@ -2904,10 +2908,25 @@
       "user": "iancarroll"
     },
     {
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "source": "GitHub",
+      "stars": 549,
+      "user": "elstongun"
+    },
+    {
       "title": "\"MongoServerError: unknown operator: $expr\" when trying to use $expr in MongoDb 6.10.0?",
       "url": "https://stackoverflow.com/questions/80007951/mongoservererror-unknown-operator-expr-when-trying-to-use-expr-in-mongodb",
       "published_at": "2026-10-05T09:29:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "regex",
@@ -3069,20 +3088,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
-      "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
-      "published_at": "2019-10-11T10:50:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
+      "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
+      "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
+      "published_at": "2026-10-06T05:02:57.000Z",
+      "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
       "tags": [
-        "javascript",
-        "oauth-2.0",
-        "jwt",
-        "total.js",
-        "gravitee"
+        "dataengineering",
+        "datasecurity",
+        "encryption",
+        "#DataPipelines",
+        "PII"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "404_Name_Not_Found"
+      "source": "freeCodeCamp",
+      "user": "Lakshmi Mahabaleshwara"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -3211,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1640,
       "user": "QingYunA"
     },
     {
@@ -3226,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 797,
       "user": "sganggs"
     },
     {
@@ -3241,23 +3260,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 400,
       "user": "allenv0"
     },
     {
-      "title": "blendi-remade/dioramas - A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-      "url": "https://github.com/blendi-remade/dioramas",
-      "published_at": "2026-09-30T00:07:56Z",
-      "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "published_at": "2026-10-06T04:49:37Z",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 229,
-      "user": "blendi-remade"
+      "stars": 312,
+      "user": "alchaincyf"
     },
     {
       "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
@@ -3271,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 242,
       "user": "GanyuanRan"
     },
     {
@@ -3286,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3975,
+      "stars": 4266,
       "user": "rehan-remade"
     },
     {
@@ -3301,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1573,
       "user": "nanaism"
     },
     {
@@ -3316,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 816,
       "user": "Edwardxlai"
     },
     {
@@ -3331,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 718,
       "user": "StayLameBro"
     },
     {
@@ -3346,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 704,
       "user": "oil-oil"
     },
     {
@@ -3361,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 477,
       "user": "mizorewww"
     },
     {
@@ -3376,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 93,
       "user": "egoist"
     },
     {
@@ -3391,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 90,
       "user": "MatinSenPai"
     },
     {
@@ -3406,23 +3425,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "Tuskira"
     },
     {
-      "title": "hashcott/ghostline - One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
-      "url": "https://github.com/hashcott/ghostline",
-      "published_at": "2026-10-04T06:13:58Z",
-      "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "published_at": "2026-10-03T14:49:48Z",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29016691?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 49,
-      "user": "hashcott"
+      "stars": 58,
+      "user": "jiwoochris"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -3436,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1549,
       "user": "kargulstudio"
     },
     {
@@ -3451,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 703,
       "user": "lucasmarkes"
     },
     {
@@ -3466,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 637,
       "user": "rauchg"
     },
     {
@@ -3481,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 487,
       "user": "whirlchat"
     },
     {
@@ -3496,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 331,
       "user": "shinshin86"
     },
     {
@@ -3511,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2284,
+      "stars": 2808,
       "user": "storytold"
     },
     {
@@ -3526,7 +3545,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 760,
+      "user": "storytold"
+    },
+    {
+      "title": "storytold/lightcraft - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "url": "https://github.com/storytold/lightcraft",
+      "published_at": "2026-09-30T14:09:27Z",
+      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 561,
       "user": "storytold"
     },
     {
@@ -3541,38 +3575,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 550,
       "user": "ZacharyZhang-NY"
     },
     {
-      "title": "storytold/lightcraft - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
-      "url": "https://github.com/storytold/lightcraft",
-      "published_at": "2026-09-30T14:09:27Z",
-      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 523,
-      "user": "storytold"
-    },
-    {
-      "title": "storytold/vectorcraft - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
-      "url": "https://github.com/storytold/vectorcraft",
-      "published_at": "2026-09-30T13:43:03Z",
-      "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 508,
-      "user": "storytold"
+      "stars": 549,
+      "user": "elstongun"
     },
     {
       "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
@@ -3587,6 +3606,38 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "sigio"
+    },
+    {
+      "title": "Facebook tests going Reels-first in India",
+      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "published_at": "2026-10-06T12:38:53.000Z",
+      "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "reels",
+        "Facebook"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
+      "url": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
+      "published_at": "2026-10-06T06:12:53.000Z",
+      "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
+      "tags": [
+        "claude-code",
+        "Docker",
+        "Sandbox",
+        "ai agents",
+        "#ai-tools"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chirag Agrawal"
     },
     {
       "title": "How to Break the AI Coding Agent Fix Loop",
@@ -3616,22 +3667,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Solomon Amos"
-    },
-    {
-      "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
-      "url": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/",
-      "published_at": "2026-10-02T14:52:05.000Z",
-      "description": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the",
-      "tags": [
-        "AI",
-        "Next.js",
-        "GitHub",
-        "React",
-        "TypeScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Andrew Baisden"
     }
   ]
 }
