@@ -1,20 +1,6 @@
 {
   "AI": [
     {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
-      "published_at": "2026-10-05T19:39:51Z",
-      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "tags": [
-        "database",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
-      "source": "Dev.to",
-      "user": "Gleb Otochkin"
-    },
-    {
       "title": "Publishing Markdown to Substack from an Agent Skill",
       "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f",
       "published_at": "2026-10-05T17:56:04Z",
@@ -45,6 +31,20 @@
       "user": "Jem"
     },
     {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
+    },
+    {
       "title": "MCP Configuration for Google Workspace with Claude Code",
       "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om",
       "published_at": "2026-10-05T13:42:33Z",
@@ -56,80 +56,6 @@
         "googleoauth"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fworkspace-mcp-claude%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.2ed35ff2.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
-      "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e",
-      "published_at": "2026-10-01T17:08:03Z",
-      "description": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, and how Socratic questioning plus topological scars prune doomed search trees at depth d=1.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5vlw3uobmy1epe0lwbge.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
-      "published_at": "2026-09-30T17:33:22Z",
-      "description": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
-      "published_at": "2026-10-02T17:59:48Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemini 4 Argon\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "url": "https://dev.to/ben/gemini-4-argon-5g2l",
-      "published_at": "2026-09-30T20:31:35Z",
-      "description": "...",
-      "tags": [
-        "ai",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglmxudo2dvzrj7emefmt.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
-      "url": "https://dev.to/gde/gemma-4-on-a-tesla-t4-part-3-int4-embeddings-serve-e2b-in-286-gib-at-230x-bf16-3kch",
-      "published_at": "2026-09-30T13:00:26Z",
-      "description": "Google's QAT Gemma 4 E2B keeps its embedding tables in bf16, and on a Tesla T4 they are most of the model. Packing them to int4 on the grid QAT trained them onto cuts model loading from 6.33 to 2.86 GiB, with every greedy test output token-identical, and raises vLLM's output throughput 11-37% over Google's own W4A16 export.",
-      "tags": [
-        "gemma",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b-w4a16%2Farticle%2Fdevto-t4-emb4-art.c42232ae.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -147,16 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
-      "published_at": "2026-09-28T18:53:36Z",
-      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
@@ -216,10 +132,10 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
-      "published_at": "2026-10-02T16:59:51Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
+      "published_at": "2026-10-02T17:59:48Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
       "tags": [
         "gemma",
         "googlecloud",
@@ -229,21 +145,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
-      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
-      "published_at": "2026-10-02T12:19:36Z",
-      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
-      "tags": [
-        "ai",
-        "devops",
-        "docker",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
@@ -276,21 +177,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
-      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
-      "published_at": "2026-09-30T16:45:07Z",
-      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
-      "tags": [
-        "ai",
-        "python",
-        "langchain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
-      "source": "Dev.to",
-      "user": "Frank Guan"
-    },
-    {
       "title": "A wine cellar that remembers what you used to believe",
       "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
       "published_at": "2026-09-30T22:49:21Z",
@@ -306,21 +192,6 @@
       "user": "Ken W Alger"
     },
     {
-      "title": "An introverted dev in an extroverted world",
-      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04",
-      "published_at": "2026-09-23T12:02:12Z",
-      "description": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
-      "tags": [
-        "watercooler",
-        "career",
-        "networking",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
-      "source": "Dev.to",
-      "user": "Ikrame Ibn Hayoun"
-    },
-    {
       "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
       "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
       "published_at": "2026-09-30T01:25:29Z",
@@ -334,6 +205,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
+    },
+    {
+      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
+      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
+      "published_at": "2026-09-30T16:45:07Z",
+      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
+      "tags": [
+        "ai",
+        "python",
+        "langchain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
+      "source": "Dev.to",
+      "user": "Frank Guan"
+    },
+    {
+      "title": "An introverted dev in an extroverted world",
+      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04",
+      "published_at": "2026-09-23T12:02:12Z",
+      "description": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
+      "tags": [
+        "watercooler",
+        "career",
+        "networking",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
+      "source": "Dev.to",
+      "user": "Ikrame Ibn Hayoun"
     },
     {
       "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
@@ -486,6 +387,21 @@
       "user": "xbill"
     },
     {
+      "title": "The Physics of Socratic Prompting: Somatic Recoil, Chess Alpha-Beta, & The NLP Meta-Model",
+      "url": "https://dev.to/gde/the-physics-of-socratic-prompting-somatic-recoil-chess-alpha-beta-the-nlp-meta-model-2b6e",
+      "published_at": "2026-10-01T17:08:03Z",
+      "description": "Why scalar RLHF fails at credit assignment, why barking direct code fixes turns you into an exhausted human compiler, and how Socratic questioning plus topological scars prune doomed search trees at depth d=1.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5vlw3uobmy1epe0lwbge.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
       "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk",
       "published_at": "2026-10-01T16:19:06Z",
@@ -544,6 +460,36 @@
       "user": "xbill"
     },
     {
+      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
+      "published_at": "2026-09-30T17:33:22Z",
+      "description": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
+      "published_at": "2026-10-02T16:59:51Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
       "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
       "published_at": "2026-09-14T17:12:10Z",
@@ -557,6 +503,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmbizy1bvs5mibcqzbtyo.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
+      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
+      "published_at": "2026-10-02T12:19:36Z",
+      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
+      "tags": [
+        "ai",
+        "devops",
+        "docker",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
+      "published_at": "2026-09-28T06:25:14Z",
+      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "tags": [
+        "python",
+        "opensource",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
+      "source": "Dev.to",
+      "user": "Rishu"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -738,23 +729,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1743,
       "user": "QingYunA"
-    },
-    {
-      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "published_at": "2026-10-03T16:11:55Z",
-      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "allenv0"
     },
     {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
@@ -768,8 +744,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 562,
       "user": "alchaincyf"
+    },
+    {
+      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "published_at": "2026-10-03T16:11:55Z",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
+      "source": "GitHub",
+      "stars": 406,
+      "user": "allenv0"
     },
     {
       "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
@@ -783,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 258,
       "user": "GanyuanRan"
     },
     {
@@ -798,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1589,
       "user": "nanaism"
     },
     {
@@ -813,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 821,
       "user": "Edwardxlai"
     },
     {
@@ -828,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 786,
       "user": "oil-oil"
     },
     {
@@ -843,23 +834,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 95,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "url": "https://github.com/Tuskira/ai-agent-gateway",
-      "published_at": "2026-10-01T11:32:10Z",
-      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "Tuskira"
     },
     {
       "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
@@ -873,8 +849,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 65,
       "user": "jiwoochris"
+    },
+    {
+      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "url": "https://github.com/Tuskira/ai-agent-gateway",
+      "published_at": "2026-10-01T11:32:10Z",
+      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "Tuskira"
     },
     {
       "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
@@ -888,7 +879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 763,
       "user": "lucasmarkes"
     },
     {
@@ -903,7 +894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 489,
       "user": "whirlchat"
     },
     {
@@ -920,18 +911,29 @@
       "user": "vetch"
     },
     {
-      "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
-      "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
-      "published_at": "2026-10-05T14:50:52.894-05:00",
-      "description": "Yes, I admit, this is 100% vibecoded, but it scratches an itch i've had for a while. Seems to work for my usecases at this time, but might add some more features in the future.",
+      "title": "Bidirectional Type Slicing",
+      "url": "https://arxiv.org/pdf/2607.12197",
+      "published_at": "2026-10-06T08:36:33.005-05:00",
+      "description": "Abstract: Development tools report what type an expression has, but not why it has that type. This paper develops a theory of type slicing that answers such questions: a programmer selects a term, queries any part of the type information associated with it, and receives a slice of the program—a well-formed partial program with irrelevant sub-terms folded away—that suffices to reproduce the queried type. We formulate type slicing for bidirectional type systems, where synthesis slices explain the type a term synthesises and analysis slices explain the type its surrounding context expects. The theory requires no cast dynamics as it applies to any bidirectional system equipped with a precision order on types and terms satisfying a downwards static graduality property.\r\n\r\nWe develop the metatheory over a core calculus with holes, products, sums, and explicit polymorphism, based on the Hazelnut and marked lambda calculi, proving that every query has a minimal slice, and that refining a\r\nquery monotonically shrinks its minimal slices. We then show how to calculate these slices both exactly and approximately. Finally, integrating type slicing with error marking theory extends these results to arbitrary\r\nill-typed programs, so a single mechanism explains both types and type errors in complete, incomplete, and erroneous code. The metatheory is mechanised in Agda, and a linear-time approximation of type slicing is\r\nimplemented for the Hazel programming environment",
       "tags": [
-        "email",
-        "go",
-        "vibecoding"
+        "pdf",
+        "plt"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "sigio"
+      "user": "typesanitizer"
+    },
+    {
+      "title": "A sustainable web career, for when all this blows over",
+      "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+      "published_at": "2026-10-06T13:29:11.053-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nrvous"
     },
     {
       "title": "Next.js always fail at downloading fonts from Google Fonts",
@@ -964,129 +966,141 @@
       "user": "dumbass"
     },
     {
-      "title": "Flai&#8217;s AI dealership software is booking 50,000 appointments per month",
-      "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
-      "published_at": "2026-10-06T13:00:00.000Z",
-      "description": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "published_at": "2026-10-06T18:22:45.000Z",
+      "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "tags": [
-        "Fundraising",
+        "AI",
         "Startups",
-        "Transportation",
-        "Exclusive",
-        "flai"
+        "AI assistant",
+        "hark"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sean O'Kane"
+      "user": "Tim Fernholz"
     },
     {
-      "title": "Facebook tests going Reels-first in India",
-      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
-      "published_at": "2026-10-06T12:38:53.000Z",
-      "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+      "title": "India&#8217;s JioHotstar takes partnership route for Middle East expansion",
+      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+      "published_at": "2026-10-06T17:14:07.000Z",
+      "description": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
       "tags": [
         "Apps",
         "Media & Entertainment",
-        "Social",
-        "reels",
-        "Facebook"
+        "JioHotstar",
+        "JioStar",
+        "reliance"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
     },
     {
-      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
-      "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
-      "published_at": "2026-10-06T12:00:00.000Z",
-      "description": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
-      "tags": [
-        "Climate",
-        "Startups",
-        "fusion power",
-        "Type One Energy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "published_at": "2026-10-05T20:36:48.000Z",
-      "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "published_at": "2026-10-06T16:35:00.000Z",
+      "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "TC",
-        "eu",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "published_at": "2026-10-05T20:24:09.000Z",
-      "description": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-      "tags": [
         "Startups",
-        "TC",
-        "AI hardware",
-        "etched",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "After Factory&#8217;s public spat with Khosla, Menlo proudly invests",
-      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-      "published_at": "2026-10-05T19:38:07.000Z",
-      "description": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "TC",
-        "Venture",
-        "factory"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "published_at": "2026-10-05T19:33:53.000Z",
-      "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "tags": [
-        "AI",
-        "beam",
-        "nvidia",
-        "open source",
-        "open weight"
+        "Mirror Particle",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
     },
     {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "published_at": "2026-10-05T18:54:30.000Z",
-      "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+      "published_at": "2026-10-06T16:18:45.000Z",
+      "description": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they",
+      "tags": [
+        "Startups",
+        "TechCrunch Founder Summit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "published_at": "2026-10-06T16:00:00.000Z",
+      "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "tags": [
+        "TC",
+        "AI",
+        "Anthropic",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "LibreOffice says &#8216;no AI&#8217; is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "published_at": "2026-10-06T15:25:00.000Z",
+      "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
       "tags": [
         "AI",
+        "Privacy",
+        "Security",
+        "privacy",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Vinod Khosla believes ex-DeepMind engineer&#8217;s Wajo will win agent market on trust",
+      "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+      "published_at": "2026-10-06T15:15:00.000Z",
+      "description": "Wajo's Fo agent can hire humans to complete a task.",
+      "tags": [
+        "Apps",
+        "Startups",
+        "agentic AI assistant",
+        "AI",
+        "Vinod Khosla"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Bluesky wants to give you your own domain on the open web",
+      "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+      "published_at": "2026-10-06T14:41:52.000Z",
+      "description": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+      "tags": [
+        "Apps",
         "Social",
-        "instinct"
+        "Bluesky",
+        "social media"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
+    },
+    {
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+      "published_at": "2026-10-06T14:37:31.000Z",
+      "description": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+      "tags": [
+        "Media & Entertainment",
+        "Amazon",
+        "In Brief",
+        "prime video"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
@@ -1247,6 +1261,21 @@
       "user": "Mika Flowers"
     },
     {
+      "title": "The Grand Unifying Architecture of Frontend",
+      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
+      "published_at": "2026-09-22T16:43:06Z",
+      "description": "I used to joke that the history of frontend development could be retraced by following the argument...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "solidjs",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png",
+      "source": "Dev.to",
+      "user": "Ryan Carniato"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1378,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1743,
       "user": "QingYunA"
     },
     {
@@ -1393,23 +1422,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 825,
       "user": "sganggs"
-    },
-    {
-      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "published_at": "2026-10-03T16:11:55Z",
-      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "allenv0"
     },
     {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
@@ -1423,8 +1437,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 562,
       "user": "alchaincyf"
+    },
+    {
+      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "published_at": "2026-10-03T16:11:55Z",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
+      "source": "GitHub",
+      "stars": 406,
+      "user": "allenv0"
     },
     {
       "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
@@ -1438,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 258,
       "user": "GanyuanRan"
     },
     {
@@ -1453,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1571,
       "user": "kargulstudio"
     },
     {
@@ -1468,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 763,
       "user": "lucasmarkes"
     },
     {
@@ -1483,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 682,
       "user": "rauchg"
     },
     {
@@ -1498,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 489,
       "user": "whirlchat"
     },
     {
@@ -1513,41 +1542,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 372,
       "user": "shinshin86"
     },
     {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
-      "source": "GitHub",
-      "stars": 549,
-      "user": "elstongun"
-    },
-    {
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "published_at": "2026-10-05T05:01:55.874-05:00",
+      "title": "What is Codemode",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "published_at": "2026-10-06T09:27:03.518-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "nodejs"
+        "javascript",
+        "vibecoding",
+        "wasm"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "user": "sp6370"
+    },
+    {
+      "title": "Sorting Objects by Numerical Value Not Working For Two Sets?",
+      "url": "https://stackoverflow.com/questions/80008318/sorting-objects-by-numerical-value-not-working-for-two-sets",
+      "published_at": "2026-10-06T18:52:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "arrays",
+        "sorting",
+        "integer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DoNotPutMeInABox"
     },
     {
       "title": "How can I get the BPM",
       "url": "https://stackoverflow.com/questions/80008218/how-can-i-get-the-bpm",
       "published_at": "2026-10-06T12:17:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "node.js",
@@ -1562,7 +1593,7 @@
       "title": "\"MongoServerError: unknown operator: $expr\" when trying to use $expr in MongoDb 6.10.0?",
       "url": "https://stackoverflow.com/questions/80007951/mongoservererror-unknown-operator-expr-when-trying-to-use-expr-in-mongodb",
       "published_at": "2026-10-05T09:29:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "regex",
@@ -1575,24 +1606,10 @@
       "user": "user31009838"
     },
     {
-      "title": "How do I randomize the position of bezier vertices?",
-      "url": "https://stackoverflow.com/questions/80006033/how-do-i-randomize-the-position-of-bezier-vertices",
-      "published_at": "2026-09-26T13:57:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "random",
-        "bezier"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aurora Lane"
-    },
-    {
       "title": "Video player with a menu in HTML & CSS",
       "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu-in-html-css",
       "published_at": "2026-05-06T22:02:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1676,18 +1693,18 @@
       "user": "ptomato"
     },
     {
-      "title": "how can i convert a png to pdf using JavaScript in vue.js with node version 10",
-      "url": "https://stackoverflow.com/questions/73205292/how-can-i-convert-a-png-to-pdf-using-javascript-in-vue-js-with-node-version-10",
-      "published_at": "2022-08-02T09:39:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "title": "HTML5 <audio> playback with fade in and fade out",
+      "url": "https://stackoverflow.com/questions/7451508/html5-audio-playback-with-fade-in-and-fade-out",
+      "published_at": "2011-09-17T00:01:28.000Z",
+      "description": "Stack Overflow question · 5 answers · score 40",
       "tags": [
         "javascript",
-        "node.js",
-        "vue.js"
+        "html",
+        "audio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Saif Ur Rehman"
+      "user": "Mikko Ohtamaa"
     },
     {
       "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
@@ -1812,6 +1829,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
       "user": "Mika Flowers"
+    },
+    {
+      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
+      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
+      "published_at": "2026-09-28T06:25:14Z",
+      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
+      "tags": [
+        "python",
+        "opensource",
+        "ai",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
+      "source": "Dev.to",
+      "user": "Rishu"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1945,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 4266,
+      "stars": 4465,
       "user": "rehan-remade"
     },
     {
@@ -1960,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1589,
       "user": "nanaism"
     },
     {
@@ -1975,23 +2007,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 821,
       "user": "Edwardxlai"
-    },
-    {
-      "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "url": "https://github.com/StayLameBro/backburner",
-      "published_at": "2026-10-01T20:59:56Z",
-      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
-      "source": "GitHub",
-      "stars": 718,
-      "user": "StayLameBro"
     },
     {
       "title": "oil-oil/oil-ui - 把 AI 的 UI 设计能力推到极限。",
@@ -2005,8 +2022,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 786,
       "user": "oil-oil"
+    },
+    {
+      "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "url": "https://github.com/StayLameBro/backburner",
+      "published_at": "2026-10-01T20:59:56Z",
+      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
+      "source": "GitHub",
+      "stars": 749,
+      "user": "StayLameBro"
     },
     {
       "title": "Javascript equivalent of Python's dict.setdefault?",
@@ -2022,10 +2054,24 @@
       "user": "ptomato"
     },
     {
+      "title": "Regex replace group reference and Unicode escape conflict",
+      "url": "https://stackoverflow.com/questions/80008271/regex-replace-group-reference-and-unicode-escape-conflict",
+      "published_at": "2026-10-06T15:10:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "regex",
+        "unicode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jjmeric"
+    },
+    {
       "title": "Why python app keeps getting DisconnectNonTransientConnectionException every two weeks?",
       "url": "https://stackoverflow.com/questions/80008196/why-python-app-keeps-getting-disconnectnontransientconnectionexception-every-two",
       "published_at": "2026-10-06T10:15:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "jdbc",
@@ -2054,7 +2100,7 @@
       "title": "How do I get all hosts on my Mininet custom topology to respond to ping using pingall?",
       "url": "https://stackoverflow.com/questions/80008174/how-do-i-get-all-hosts-on-my-mininet-custom-topology-to-respond-to-ping-using-pi",
       "published_at": "2026-10-06T09:00:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "mininet"
@@ -2067,7 +2113,7 @@
       "title": "Why I am unable to set Groups despite user having an Id?",
       "url": "https://stackoverflow.com/questions/80008079/why-i-am-unable-to-set-groups-despite-user-having-an-id",
       "published_at": "2026-10-05T20:42:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "django"
@@ -2115,21 +2161,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abhishek Kedia"
-    },
-    {
-      "title": "Apache Spark, PySpark can't write a file on disk",
-      "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
-      "published_at": "2026-10-04T10:42:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "docker",
-        "apache-spark",
-        "pyspark"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mike"
     },
     {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
@@ -2193,21 +2224,6 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
-      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
-      "published_at": "2026-10-02T12:19:36Z",
-      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
-      "tags": [
-        "ai",
-        "devops",
-        "docker",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
       "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
       "published_at": "2026-09-30T16:45:07Z",
@@ -2221,6 +2237,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
       "source": "Dev.to",
       "user": "Frank Guan"
+    },
+    {
+      "title": "Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry",
+      "url": "https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o",
+      "published_at": "2026-10-02T12:19:36Z",
+      "description": "How to deploy a private, local AI gateway for engineering teams using LiteLLM, Caddy, Langfuse, and Open WebUI with multi-tier quotas.",
+      "tags": [
+        "ai",
+        "devops",
+        "docker",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8gw6lvl60b8i5ippxql.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2343,21 +2374,6 @@
       "user": "jknupp"
     },
     {
-      "title": "Apache Spark, PySpark can't write a file on disk",
-      "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
-      "published_at": "2026-10-04T10:42:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "docker",
-        "apache-spark",
-        "pyspark"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mike"
-    },
-    {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
       "url": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
       "published_at": "2026-10-06T06:12:53.000Z",
@@ -2407,6 +2423,21 @@
       "user": "nyaomaru"
     },
     {
+      "title": "The Grand Unifying Architecture of Frontend",
+      "url": "https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk",
+      "published_at": "2026-09-22T16:43:06Z",
+      "description": "I used to joke that the history of frontend development could be retraced by following the argument...",
+      "tags": [
+        "webdev",
+        "javascript",
+        "solidjs",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzz3id3ryb20mdgc9qac4.png",
+      "source": "Dev.to",
+      "user": "Ryan Carniato"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2430,14 +2461,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1743,
       "user": "QingYunA"
     },
     {
       "title": "Video player with a menu in HTML & CSS",
       "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu-in-html-css",
       "published_at": "2026-05-06T22:02:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2478,6 +2509,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AzeaL87"
+    },
+    {
+      "title": "HTML5 <audio> playback with fade in and fade out",
+      "url": "https://stackoverflow.com/questions/7451508/html5-audio-playback-with-fade-in-and-fade-out",
+      "published_at": "2011-09-17T00:01:28.000Z",
+      "description": "Stack Overflow question · 5 answers · score 40",
+      "tags": [
+        "javascript",
+        "html",
+        "audio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mikko Ohtamaa"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2613,7 +2658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 95,
       "user": "MatinSenPai"
     },
     {
@@ -2628,6 +2673,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "vetch"
+    },
+    {
+      "title": "India&#8217;s JioHotstar takes partnership route for Middle East expansion",
+      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+      "published_at": "2026-10-06T17:14:07.000Z",
+      "description": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "JioHotstar",
+        "JioStar",
+        "reliance"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
@@ -2662,36 +2723,6 @@
       "user": "Gleb Otochkin"
     },
     {
-      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
-      "published_at": "2026-09-30T17:33:22Z",
-      "description": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
-      "published_at": "2026-10-02T17:59:48Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
       "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
       "published_at": "2026-10-05T04:10:50Z",
@@ -2705,16 +2736,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Claude Sonnet 5.5 is now available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-sonnet-55-is-now-available-on-google-cloud-168h",
-      "published_at": "2026-09-28T18:53:36Z",
-      "description": "Designed for coding and knowledge work, it helps you build features, and create clean work...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xyak6sk5ggdyh5heka3.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
@@ -2745,10 +2766,10 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
-      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
-      "published_at": "2026-10-02T16:59:51Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
+      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
+      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
+      "published_at": "2026-10-02T17:59:48Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
       "tags": [
         "gemma",
         "googlecloud",
@@ -2863,6 +2884,64 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-t4-2b%2Fdevto-t4-vm-cover.25debff5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4",
+      "published_at": "2026-09-30T17:33:22Z",
+      "description": "Gemma 4's 4-bit builds on SageMaker's smallest GPU, an NVIDIA T4, against the L4: a Turing patch for vLLM, the host image the CUDA 13 container needs, speed, memory, answers and cost per token.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-t4%2Fdevto-cover.0adb9f63.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 QAT on One TPU v5e: What Runs and What Doesn't",
+      "url": "https://dev.to/gde/gemma-4-qat-on-one-tpu-v5e-what-runs-and-what-doesnt-2gii",
+      "published_at": "2026-10-02T16:59:51Z",
+      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU, on one v5e chip. What runs: every size from E2B to 26B, level with bf16 through 12B, up to 2.4 points above Google's own 4-bit exports at the same speed, and 12B at 675 output tokens per second. What doesn't: bf16 above E2B, 31B in any build, and 26B past a 2,176-token context.",
+      "tags": [
+        "gemma",
+        "googlecloud",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
+      "title": "Bidirectional Type Slicing",
+      "url": "https://arxiv.org/pdf/2607.12197",
+      "published_at": "2026-10-06T08:36:33.005-05:00",
+      "description": "Abstract: Development tools report what type an expression has, but not why it has that type. This paper develops a theory of type slicing that answers such questions: a programmer selects a term, queries any part of the type information associated with it, and receives a slice of the program—a well-formed partial program with irrelevant sub-terms folded away—that suffices to reproduce the queried type. We formulate type slicing for bidirectional type systems, where synthesis slices explain the type a term synthesises and analysis slices explain the type its surrounding context expects. The theory requires no cast dynamics as it applies to any bidirectional system equipped with a precision order on types and terms satisfying a downwards static graduality property.\r\n\r\nWe develop the metatheory over a core calculus with holes, products, sums, and explicit polymorphism, based on the Hazelnut and marked lambda calculi, proving that every query has a minimal slice, and that refining a\r\nquery monotonically shrinks its minimal slices. We then show how to calculate these slices both exactly and approximately. Finally, integrating type slicing with error marking theory extends these results to arbitrary\r\nill-typed programs, so a single mechanism explains both types and type errors in complete, incomplete, and erroneous code. The metatheory is mechanised in Agda, and a linear-time approximation of type slicing is\r\nimplemented for the Hazel programming environment",
+      "tags": [
+        "pdf",
+        "plt"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "typesanitizer"
     }
   ],
   "Database": [
@@ -2908,25 +2987,10 @@
       "user": "iancarroll"
     },
     {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
-      "source": "GitHub",
-      "stars": 549,
-      "user": "elstongun"
-    },
-    {
       "title": "\"MongoServerError: unknown operator: $expr\" when trying to use $expr in MongoDb 6.10.0?",
       "url": "https://stackoverflow.com/questions/80007951/mongoservererror-unknown-operator-expr-when-trying-to-use-expr-in-mongodb",
       "published_at": "2026-10-05T09:29:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "regex",
@@ -3088,6 +3152,22 @@
       "user": "ewenjo"
     },
     {
+      "title": "LibreOffice says &#8216;no AI&#8217; is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "published_at": "2026-10-06T15:25:00.000Z",
+      "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "tags": [
+        "AI",
+        "Privacy",
+        "Security",
+        "privacy",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
       "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
       "published_at": "2026-10-06T05:02:57.000Z",
@@ -3183,6 +3263,21 @@
       "user": "xbill"
     },
     {
+      "title": "How AI Actually Calls an API? Tool Calling Explained from Scratch",
+      "url": "https://dev.to/aws/how-ai-actually-calls-an-api-tool-calling-explained-from-scratch-4lf8",
+      "published_at": "2026-09-16T21:28:40Z",
+      "description": "In the previous post, we taught a model to read our documents. It could search a pile of files and...",
+      "tags": [
+        "ai",
+        "mcp",
+        "aws",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmhtvo6zedugelnfp6o2v.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3230,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1743,
       "user": "QingYunA"
     },
     {
@@ -3245,23 +3340,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 825,
       "user": "sganggs"
-    },
-    {
-      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "published_at": "2026-10-03T16:11:55Z",
-      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
-      "source": "GitHub",
-      "stars": 400,
-      "user": "allenv0"
     },
     {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
@@ -3275,8 +3355,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 562,
       "user": "alchaincyf"
+    },
+    {
+      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "published_at": "2026-10-03T16:11:55Z",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
+      "source": "GitHub",
+      "stars": 406,
+      "user": "allenv0"
     },
     {
       "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
@@ -3290,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 258,
       "user": "GanyuanRan"
     },
     {
@@ -3305,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 4266,
+      "stars": 4465,
       "user": "rehan-remade"
     },
     {
@@ -3320,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1589,
       "user": "nanaism"
     },
     {
@@ -3335,23 +3430,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 821,
       "user": "Edwardxlai"
-    },
-    {
-      "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "url": "https://github.com/StayLameBro/backburner",
-      "published_at": "2026-10-01T20:59:56Z",
-      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
-      "source": "GitHub",
-      "stars": 718,
-      "user": "StayLameBro"
     },
     {
       "title": "oil-oil/oil-ui - 把 AI 的 UI 设计能力推到极限。",
@@ -3365,8 +3445,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 786,
       "user": "oil-oil"
+    },
+    {
+      "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "url": "https://github.com/StayLameBro/backburner",
+      "published_at": "2026-10-01T20:59:56Z",
+      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
+      "source": "GitHub",
+      "stars": 749,
+      "user": "StayLameBro"
     },
     {
       "title": "mizorewww/x_gift_bot - X Premium gift CLI and redemption site",
@@ -3380,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 608,
       "user": "mizorewww"
     },
     {
@@ -3395,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 99,
       "user": "egoist"
     },
     {
@@ -3410,23 +3505,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 95,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "url": "https://github.com/Tuskira/ai-agent-gateway",
-      "published_at": "2026-10-01T11:32:10Z",
-      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "Tuskira"
     },
     {
       "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
@@ -3440,8 +3520,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 65,
       "user": "jiwoochris"
+    },
+    {
+      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "url": "https://github.com/Tuskira/ai-agent-gateway",
+      "published_at": "2026-10-01T11:32:10Z",
+      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "Tuskira"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -3455,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1571,
       "user": "kargulstudio"
     },
     {
@@ -3470,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 763,
       "user": "lucasmarkes"
     },
     {
@@ -3485,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 682,
       "user": "rauchg"
     },
     {
@@ -3500,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 489,
       "user": "whirlchat"
     },
     {
@@ -3515,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 372,
       "user": "shinshin86"
     },
     {
@@ -3530,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2808,
+      "stars": 4248,
       "user": "storytold"
     },
     {
@@ -3545,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 1076,
       "user": "storytold"
     },
     {
@@ -3560,68 +3655,64 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 780,
       "user": "storytold"
     },
     {
-      "title": "ZacharyZhang-NY/Ely-GPUI-Components - A component library for GPUI, in light and dark. Every component runs live in the browser.",
-      "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
-      "published_at": "2026-09-30T04:03:37Z",
-      "description": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+      "title": "storytold/printcraft - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+      "url": "https://github.com/storytold/printcraft",
+      "published_at": "2026-09-30T13:39:37Z",
+      "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 550,
-      "user": "ZacharyZhang-NY"
+      "stars": 717,
+      "user": "storytold"
     },
     {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "title": "storytold/vectorcraft - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "url": "https://github.com/storytold/vectorcraft",
+      "published_at": "2026-09-30T13:43:03Z",
+      "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 549,
-      "user": "elstongun"
+      "stars": 708,
+      "user": "storytold"
     },
     {
-      "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
-      "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
-      "published_at": "2026-10-05T14:50:52.894-05:00",
-      "description": "Yes, I admit, this is 100% vibecoded, but it scratches an itch i've had for a while. Seems to work for my usecases at this time, but might add some more features in the future.",
+      "title": "Brut, the Brutal Router for Unix Tools",
+      "url": "https://brut.sh",
+      "published_at": "2026-10-06T12:17:23.875-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "email",
-        "go",
-        "vibecoding"
+        "show",
+        "unix"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "sigio"
+      "user": "sstephenson"
     },
     {
-      "title": "Facebook tests going Reels-first in India",
-      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
-      "published_at": "2026-10-06T12:38:53.000Z",
-      "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+      "title": "Bidirectional Type Slicing",
+      "url": "https://arxiv.org/pdf/2607.12197",
+      "published_at": "2026-10-06T08:36:33.005-05:00",
+      "description": "Abstract: Development tools report what type an expression has, but not why it has that type. This paper develops a theory of type slicing that answers such questions: a programmer selects a term, queries any part of the type information associated with it, and receives a slice of the program—a well-formed partial program with irrelevant sub-terms folded away—that suffices to reproduce the queried type. We formulate type slicing for bidirectional type systems, where synthesis slices explain the type a term synthesises and analysis slices explain the type its surrounding context expects. The theory requires no cast dynamics as it applies to any bidirectional system equipped with a precision order on types and terms satisfying a downwards static graduality property.\r\n\r\nWe develop the metatheory over a core calculus with holes, products, sums, and explicit polymorphism, based on the Hazelnut and marked lambda calculi, proving that every query has a minimal slice, and that refining a\r\nquery monotonically shrinks its minimal slices. We then show how to calculate these slices both exactly and approximately. Finally, integrating type slicing with error marking theory extends these results to arbitrary\r\nill-typed programs, so a single mechanism explains both types and type errors in complete, incomplete, and erroneous code. The metatheory is mechanised in Agda, and a linear-time approximation of type slicing is\r\nimplemented for the Hazel programming environment",
       "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Social",
-        "reels",
-        "Facebook"
+        "pdf",
+        "plt"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "source": "Lobste.rs",
+      "user": "typesanitizer"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
