@@ -16,6 +16,20 @@
       "user": "xbill"
     },
     {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
+    },
+    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom",
       "published_at": "2026-10-05T18:03:31Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuhjpurwtrzpxh5wsntc.png",
       "source": "Dev.to",
       "user": "Jem"
-    },
-    {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
-      "published_at": "2026-10-05T19:39:51Z",
-      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "tags": [
-        "database",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
-      "source": "Dev.to",
-      "user": "Gleb Otochkin"
     },
     {
       "title": "MCP Configuration for Google Workspace with Claude Code",
@@ -729,7 +729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1759,
       "user": "QingYunA"
     },
     {
@@ -744,7 +744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 612,
       "user": "alchaincyf"
     },
     {
@@ -759,7 +759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "allenv0"
     },
     {
@@ -774,7 +774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 271,
       "user": "GanyuanRan"
     },
     {
@@ -789,7 +789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1589,
+      "stars": 1598,
       "user": "nanaism"
     },
     {
@@ -804,7 +804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "Edwardxlai"
     },
     {
@@ -819,7 +819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 807,
       "user": "oil-oil"
     },
     {
@@ -834,7 +834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "MatinSenPai"
     },
     {
@@ -849,7 +849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 73,
       "user": "jiwoochris"
     },
     {
@@ -879,7 +879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 787,
       "user": "lucasmarkes"
     },
     {
@@ -911,6 +911,19 @@
       "user": "vetch"
     },
     {
+      "title": "A sustainable web career, for when all this blows over",
+      "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+      "published_at": "2026-10-06T13:29:11.053-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nrvous"
+    },
+    {
       "title": "Bidirectional Type Slicing",
       "url": "https://arxiv.org/pdf/2607.12197",
       "published_at": "2026-10-06T08:36:33.005-05:00",
@@ -922,18 +935,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "typesanitizer"
-    },
-    {
-      "title": "A sustainable web career, for when all this blows over",
-      "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
-      "published_at": "2026-10-06T13:29:11.053-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "nrvous"
     },
     {
       "title": "Next.js always fail at downloading fonts from Google Fonts",
@@ -966,15 +967,92 @@
       "user": "dumbass"
     },
     {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "published_at": "2026-10-06T22:34:03.000Z",
+      "description": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+      "tags": [
+        "AI",
+        "Startups",
+        "ai video",
+        "CRV",
+        "General Catalyst"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Silicon Valley&#8217;s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "published_at": "2026-10-06T20:47:01.000Z",
+      "description": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "tags": [
+        "Apps",
+        "Startups",
+        "TC",
+        "AI assistant",
+        "underdog"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "published_at": "2026-10-06T20:35:20.000Z",
+      "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "tags": [
+        "AI",
+        "content moderation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "published_at": "2026-10-06T20:00:30.000Z",
+      "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Blackstone",
+        "Coatue Management"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "published_at": "2026-10-06T19:56:50.000Z",
+      "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "tags": [
+        "TC",
+        "AI",
+        "Apps",
+        "Commerce",
+        "e-commerce"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Hark releases an AI personal assistant with a focus on privacy",
       "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
       "published_at": "2026-10-06T18:22:45.000Z",
       "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "tags": [
-        "AI",
         "Startups",
-        "AI assistant",
-        "hark"
+        "AI",
+        "hark",
+        "AI assistant"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1011,96 +1089,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
-      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-      "published_at": "2026-10-06T16:18:45.000Z",
-      "description": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they",
-      "tags": [
-        "Startups",
-        "TechCrunch Founder Summit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "published_at": "2026-10-06T16:00:00.000Z",
-      "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "tags": [
-        "TC",
-        "AI",
-        "Anthropic",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "LibreOffice says &#8216;no AI&#8217; is now a software feature",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "published_at": "2026-10-06T15:25:00.000Z",
-      "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "tags": [
-        "AI",
-        "Privacy",
-        "Security",
-        "privacy",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Vinod Khosla believes ex-DeepMind engineer&#8217;s Wajo will win agent market on trust",
-      "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
-      "published_at": "2026-10-06T15:15:00.000Z",
-      "description": "Wajo's Fo agent can hire humans to complete a task.",
-      "tags": [
-        "Apps",
-        "Startups",
-        "agentic AI assistant",
-        "AI",
-        "Vinod Khosla"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Bluesky wants to give you your own domain on the open web",
-      "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
-      "published_at": "2026-10-06T14:41:52.000Z",
-      "description": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Bluesky",
-        "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
-      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
-      "published_at": "2026-10-06T14:37:31.000Z",
-      "description": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
-      "tags": [
-        "Media & Entertainment",
-        "Amazon",
-        "In Brief",
-        "prime video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
@@ -1407,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1759,
       "user": "QingYunA"
     },
     {
@@ -1422,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 829,
       "user": "sganggs"
     },
     {
@@ -1437,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 612,
       "user": "alchaincyf"
     },
     {
@@ -1452,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "allenv0"
     },
     {
@@ -1467,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 271,
       "user": "GanyuanRan"
     },
     {
@@ -1482,7 +1470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1571,
+      "stars": 1582,
       "user": "kargulstudio"
     },
     {
@@ -1497,7 +1485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 787,
       "user": "lucasmarkes"
     },
     {
@@ -1512,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 700,
       "user": "rauchg"
     },
     {
@@ -1542,7 +1530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 385,
       "user": "shinshin86"
     },
     {
@@ -1563,7 +1551,7 @@
       "title": "Sorting Objects by Numerical Value Not Working For Two Sets?",
       "url": "https://stackoverflow.com/questions/80008318/sorting-objects-by-numerical-value-not-working-for-two-sets",
       "published_at": "2026-10-06T18:52:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "arrays",
@@ -1604,6 +1592,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user31009838"
+    },
+    {
+      "title": "How to enforce server-side file validation when using Supabase Storage client-side upload in Next.js?",
+      "url": "https://stackoverflow.com/questions/79941971/how-to-enforce-server-side-file-validation-when-using-supabase-storage-client-si",
+      "published_at": "2026-05-15T22:03:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "security",
+        "next.js",
+        "file-upload"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahadev"
     },
     {
       "title": "Video player with a menu in HTML & CSS",
@@ -1691,20 +1695,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ptomato"
-    },
-    {
-      "title": "HTML5 <audio> playback with fade in and fade out",
-      "url": "https://stackoverflow.com/questions/7451508/html5-audio-playback-with-fade-in-and-fade-out",
-      "published_at": "2011-09-17T00:01:28.000Z",
-      "description": "Stack Overflow question · 5 answers · score 40",
-      "tags": [
-        "javascript",
-        "html",
-        "audio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mikko Ohtamaa"
     },
     {
       "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
@@ -1977,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 4465,
+      "stars": 4563,
       "user": "rehan-remade"
     },
     {
@@ -1992,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1589,
+      "stars": 1598,
       "user": "nanaism"
     },
     {
@@ -2007,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "Edwardxlai"
     },
     {
@@ -2022,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 807,
       "user": "oil-oil"
     },
     {
@@ -2037,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 765,
       "user": "StayLameBro"
     },
     {
@@ -2057,7 +2047,7 @@
       "title": "Regex replace group reference and Unicode escape conflict",
       "url": "https://stackoverflow.com/questions/80008271/regex-replace-group-reference-and-unicode-escape-conflict",
       "published_at": "2026-10-06T15:10:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "regex",
@@ -2071,7 +2061,7 @@
       "title": "Why python app keeps getting DisconnectNonTransientConnectionException every two weeks?",
       "url": "https://stackoverflow.com/questions/80008196/why-python-app-keeps-getting-disconnectnontransientconnectionexception-every-two",
       "published_at": "2026-10-06T10:15:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "jdbc",
@@ -2163,6 +2153,20 @@
       "user": "Abhishek Kedia"
     },
     {
+      "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
+      "url": "https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n",
+      "published_at": "2026-10-02T10:44:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "jupyter-notebook",
+        "pycharm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
+    },
+    {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
       "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
       "published_at": "2026-10-01T18:47:08.000Z",
@@ -2176,21 +2180,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dumbass"
-    },
-    {
-      "title": "How I make a PyTorch model bit-identical outputs across different GPUs, cuDNN versions, and CPU fallback, with no source of nondeterminism anywhere?",
-      "url": "https://stackoverflow.com/questions/80007514/how-i-make-a-pytorch-model-bit-identical-outputs-across-different-gpus-cudnn-ve",
-      "published_at": "2026-10-02T14:18:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "pytorch",
-        "floating-point",
-        "cuda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zi Ba"
     }
   ],
   "DevOps": [
@@ -2461,7 +2450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1759,
       "user": "QingYunA"
     },
     {
@@ -2509,20 +2498,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AzeaL87"
-    },
-    {
-      "title": "HTML5 <audio> playback with fade in and fade out",
-      "url": "https://stackoverflow.com/questions/7451508/html5-audio-playback-with-fade-in-and-fade-out",
-      "published_at": "2011-09-17T00:01:28.000Z",
-      "description": "Stack Overflow question · 5 answers · score 40",
-      "tags": [
-        "javascript",
-        "html",
-        "audio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mikko Ohtamaa"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2658,7 +2633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "MatinSenPai"
     },
     {
@@ -2942,6 +2917,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "typesanitizer"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "published_at": "2026-10-06T20:00:30.000Z",
+      "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Blackstone",
+        "Coatue Management"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     }
   ],
   "Database": [
@@ -3152,20 +3143,32 @@
       "user": "ewenjo"
     },
     {
-      "title": "LibreOffice says &#8216;no AI&#8217; is now a software feature",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "published_at": "2026-10-06T15:25:00.000Z",
-      "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "title": "That Time I Worked With a Laptop Thief",
+      "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+      "published_at": "2026-10-06T15:16:33.717-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "AI",
-        "Privacy",
-        "Security",
-        "privacy",
-        "cybersecurity"
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "Lobste.rs",
+      "user": "jeanthomas"
+    },
+    {
+      "title": "How to enforce server-side file validation when using Supabase Storage client-side upload in Next.js?",
+      "url": "https://stackoverflow.com/questions/79941971/how-to-enforce-server-side-file-validation-when-using-supabase-storage-client-si",
+      "published_at": "2026-05-15T22:03:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "security",
+        "next.js",
+        "file-upload"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahadev"
     },
     {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
@@ -3325,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1759,
       "user": "QingYunA"
     },
     {
@@ -3340,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 829,
       "user": "sganggs"
     },
     {
@@ -3355,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 612,
       "user": "alchaincyf"
     },
     {
@@ -3370,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "allenv0"
     },
     {
@@ -3385,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 271,
       "user": "GanyuanRan"
     },
     {
@@ -3400,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 4465,
+      "stars": 4563,
       "user": "rehan-remade"
     },
     {
@@ -3415,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1589,
+      "stars": 1598,
       "user": "nanaism"
     },
     {
@@ -3430,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "Edwardxlai"
     },
     {
@@ -3445,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 807,
       "user": "oil-oil"
     },
     {
@@ -3460,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 765,
       "user": "StayLameBro"
     },
     {
@@ -3475,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 639,
       "user": "mizorewww"
     },
     {
@@ -3490,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "egoist"
     },
     {
@@ -3505,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "MatinSenPai"
     },
     {
@@ -3520,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 73,
       "user": "jiwoochris"
     },
     {
@@ -3550,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1571,
+      "stars": 1582,
       "user": "kargulstudio"
     },
     {
@@ -3565,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 787,
       "user": "lucasmarkes"
     },
     {
@@ -3580,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 700,
       "user": "rauchg"
     },
     {
@@ -3610,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 385,
       "user": "shinshin86"
     },
     {
@@ -3625,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 4248,
+      "stars": 6211,
       "user": "storytold"
     },
     {
@@ -3640,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1076,
+      "stars": 1555,
       "user": "storytold"
     },
     {
@@ -3655,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 1170,
       "user": "storytold"
     },
     {
@@ -3670,7 +3673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 1055,
       "user": "storytold"
     },
     {
@@ -3685,7 +3688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 1001,
       "user": "storytold"
     },
     {
