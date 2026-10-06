@@ -1,6 +1,20 @@
 {
   "AI": [
     {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
+    },
+    {
       "title": "Publishing Markdown to Substack from an Agent Skill",
       "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f",
       "published_at": "2026-10-05T17:56:04Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuhjpurwtrzpxh5wsntc.png",
       "source": "Dev.to",
       "user": "Jem"
-    },
-    {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
-      "published_at": "2026-10-05T19:39:51Z",
-      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "tags": [
-        "database",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
-      "source": "Dev.to",
-      "user": "Gleb Otochkin"
     },
     {
       "title": "MCP Configuration for Google Workspace with Claude Code",
@@ -268,8 +268,8 @@
       "tags": [
         "arduino",
         "iot",
-        "cloudinary",
-        "ai"
+        "ai",
+        "hf26challenge"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
       "source": "Dev.to",
@@ -738,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1537,
       "user": "QingYunA"
     },
     {
@@ -753,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 383,
       "user": "allenv0"
     },
     {
@@ -768,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "blendi-remade"
     },
     {
@@ -783,7 +783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 223,
       "user": "GanyuanRan"
     },
     {
@@ -798,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1546,
       "user": "nanaism"
     },
     {
@@ -813,7 +813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 812,
       "user": "Edwardxlai"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 653,
       "user": "oil-oil"
     },
     {
@@ -843,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "MatinSenPai"
     },
     {
@@ -873,7 +873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29016691?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 49,
       "user": "hashcott"
     },
     {
@@ -888,7 +888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 615,
       "user": "lucasmarkes"
     },
     {
@@ -903,7 +903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "whirlchat"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1537,
       "user": "QingYunA"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 739,
       "user": "sganggs"
     },
     {
@@ -1391,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 383,
       "user": "allenv0"
     },
     {
@@ -1406,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "blendi-remade"
     },
     {
@@ -1421,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 223,
       "user": "GanyuanRan"
     },
     {
@@ -1436,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1503,
       "user": "kargulstudio"
     },
     {
@@ -1451,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 615,
       "user": "lucasmarkes"
     },
     {
@@ -1466,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 570,
       "user": "rauchg"
     },
     {
@@ -1481,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "whirlchat"
     },
     {
@@ -1496,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 275,
       "user": "shinshin86"
     },
     {
@@ -1628,22 +1628,6 @@
       "user": "ptomato"
     },
     {
-      "title": "iPad Safari Development toolbar",
-      "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
-      "published_at": "2011-04-20T17:35:43.000Z",
-      "description": "Stack Overflow question · 7 answers · score 33",
-      "tags": [
-        "javascript",
-        "css",
-        "ipad",
-        "safari",
-        "mobile-safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "copenndthagen"
-    },
-    {
       "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
       "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
       "published_at": "2019-10-11T10:50:32.000Z",
@@ -1658,6 +1642,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "404_Name_Not_Found"
+    },
+    {
+      "title": "How to embed a DOM node inside a template literal?",
+      "url": "https://stackoverflow.com/questions/54768158/how-to-embed-a-dom-node-inside-a-template-literal",
+      "published_at": "2019-02-19T14:05:35.000Z",
+      "description": "Stack Overflow question · 4 answers · score 4",
+      "tags": [
+        "javascript",
+        "dom",
+        "reference",
+        "template-literals"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Slev7n"
     },
     {
       "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
@@ -1931,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3849,
+      "stars": 3975,
       "user": "rehan-remade"
     },
     {
@@ -1946,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1546,
       "user": "nanaism"
     },
     {
@@ -1961,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 812,
       "user": "Edwardxlai"
     },
     {
@@ -1976,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 691,
       "user": "StayLameBro"
     },
     {
@@ -1991,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 653,
       "user": "oil-oil"
     },
     {
@@ -2011,7 +2010,7 @@
       "title": "Why I am unable to set Groups despite user having an Id?",
       "url": "https://stackoverflow.com/questions/80008079/why-i-am-unable-to-set-groups-despite-user-having-an-id",
       "published_at": "2026-10-05T20:42:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "django"
@@ -2019,6 +2018,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
+    },
+    {
+      "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
+      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
+      "published_at": "2026-10-05T04:42:56.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naira"
     },
     {
       "title": "Servo not responding when controlling with Raspberry pi",
@@ -2046,19 +2058,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
-      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
-      "published_at": "2026-10-05T04:42:56.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naira"
     },
     {
       "title": "How to take inputs on multiple lines?",
@@ -2089,21 +2088,6 @@
       "user": "Mike"
     },
     {
-      "title": "How I make a PyTorch model bit-identical outputs across different GPUs, cuDNN versions, and CPU fallback, with no source of nondeterminism anywhere?",
-      "url": "https://stackoverflow.com/questions/80007514/how-i-make-a-pytorch-model-bit-identical-outputs-across-different-gpus-cudnn-ve",
-      "published_at": "2026-10-02T14:18:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "pytorch",
-        "floating-point",
-        "cuda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zi Ba"
-    },
-    {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
       "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
       "published_at": "2026-10-01T18:47:08.000Z",
@@ -2117,6 +2101,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dumbass"
+    },
+    {
+      "title": "How I make a PyTorch model bit-identical outputs across different GPUs, cuDNN versions, and CPU fallback, with no source of nondeterminism anywhere?",
+      "url": "https://stackoverflow.com/questions/80007514/how-i-make-a-pytorch-model-bit-identical-outputs-across-different-gpus-cudnn-ve",
+      "published_at": "2026-10-02T14:18:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "pytorch",
+        "floating-point",
+        "cuda"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zi Ba"
     },
     {
       "title": "Type hints warning - Expected type 'LoaderProtocol | None', got 'PatchedLoader' instead",
@@ -2415,7 +2414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1537,
       "user": "QingYunA"
     },
     {
@@ -2462,22 +2461,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AzeaL87"
-    },
-    {
-      "title": "iPad Safari Development toolbar",
-      "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
-      "published_at": "2011-04-20T17:35:43.000Z",
-      "description": "Stack Overflow question · 7 answers · score 33",
-      "tags": [
-        "javascript",
-        "css",
-        "ipad",
-        "safari",
-        "mobile-safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "copenndthagen"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2626,24 +2609,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "iPad Safari Development toolbar",
-      "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
-      "published_at": "2011-04-20T17:35:43.000Z",
-      "description": "Stack Overflow question · 7 answers · score 33",
-      "tags": [
-        "javascript",
-        "css",
-        "ipad",
-        "safari",
-        "mobile-safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "copenndthagen"
     },
     {
       "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
@@ -2796,8 +2763,8 @@
       "tags": [
         "arduino",
         "iot",
-        "cloudinary",
-        "ai"
+        "ai",
+        "hf26challenge"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
       "source": "Dev.to",
@@ -3244,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1537,
       "user": "QingYunA"
     },
     {
@@ -3259,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 739,
       "user": "sganggs"
     },
     {
@@ -3274,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 383,
       "user": "allenv0"
     },
     {
@@ -3289,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "blendi-remade"
     },
     {
@@ -3304,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 223,
       "user": "GanyuanRan"
     },
     {
@@ -3319,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3849,
+      "stars": 3975,
       "user": "rehan-remade"
     },
     {
@@ -3334,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1546,
       "user": "nanaism"
     },
     {
@@ -3349,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 812,
       "user": "Edwardxlai"
     },
     {
@@ -3364,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 691,
       "user": "StayLameBro"
     },
     {
@@ -3379,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 653,
       "user": "oil-oil"
     },
     {
@@ -3394,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 250,
       "user": "mizorewww"
     },
     {
@@ -3409,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 87,
       "user": "egoist"
     },
     {
@@ -3424,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "MatinSenPai"
     },
     {
@@ -3454,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29016691?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 49,
       "user": "hashcott"
     },
     {
@@ -3469,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1503,
       "user": "kargulstudio"
     },
     {
@@ -3484,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 615,
       "user": "lucasmarkes"
     },
     {
@@ -3499,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 570,
       "user": "rauchg"
     },
     {
@@ -3514,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "whirlchat"
     },
     {
@@ -3529,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 275,
       "user": "shinshin86"
     },
     {
@@ -3544,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2068,
+      "stars": 2284,
       "user": "storytold"
     },
     {
@@ -3559,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 672,
       "user": "storytold"
     },
     {
@@ -3574,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 536,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3589,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 523,
       "user": "storytold"
     },
     {
@@ -3604,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 508,
       "user": "storytold"
     },
     {
@@ -3620,22 +3587,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "sigio"
-    },
-    {
-      "title": "iPad Safari Development toolbar",
-      "url": "https://stackoverflow.com/questions/5734323/ipad-safari-development-toolbar",
-      "published_at": "2011-04-20T17:35:43.000Z",
-      "description": "Stack Overflow question · 7 answers · score 33",
-      "tags": [
-        "javascript",
-        "css",
-        "ipad",
-        "safari",
-        "mobile-safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "copenndthagen"
     },
     {
       "title": "How to Break the AI Coding Agent Fix Loop",
