@@ -31,6 +31,20 @@
       "user": "Jem"
     },
     {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
+    },
+    {
       "title": "MCP Configuration for Google Workspace with Claude Code",
       "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om",
       "published_at": "2026-10-05T13:42:33Z",
@@ -545,21 +559,6 @@
       "user": "xbill"
     },
     {
-      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
-      "url": "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
-      "published_at": "2026-09-14T17:12:10Z",
-      "description": "TL;DR  GPT-6 Astra has started another familiar AI conversation. The model is more capable, Jensen...",
-      "tags": [
-        "discuss",
-        "ai",
-        "programming",
-        "chatgpt"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmbizy1bvs5mibcqzbtyo.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -739,7 +738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1473,
       "user": "QingYunA"
     },
     {
@@ -754,7 +753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 369,
       "user": "allenv0"
     },
     {
@@ -769,7 +768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "blendi-remade"
     },
     {
@@ -784,38 +783,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 209,
       "user": "GanyuanRan"
-    },
-    {
-      "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "url": "https://github.com/feder-cr/dots",
-      "published_at": "2026-09-29T23:06:00Z",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
-      "source": "GitHub",
-      "stars": 2613,
-      "user": "feder-cr"
-    },
-    {
-      "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "url": "https://github.com/nykooi1/vibe-wise",
-      "published_at": "2026-09-29T01:29:57Z",
-      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
-      "source": "GitHub",
-      "stars": 1578,
-      "user": "nykooi1"
     },
     {
       "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
@@ -829,7 +798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1508,
       "user": "nanaism"
     },
     {
@@ -844,8 +813,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 804,
       "user": "Edwardxlai"
+    },
+    {
+      "title": "oil-oil/oil-ui - 把 AI 的 UI 设计能力推到极限。",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "published_at": "2026-09-30T03:55:35Z",
+      "description": "把 AI 的 UI 设计能力推到极限。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
+      "source": "GitHub",
+      "stars": 624,
+      "user": "oil-oil"
     },
     {
       "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
@@ -859,7 +843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "MatinSenPai"
     },
     {
@@ -893,49 +877,48 @@
       "user": "hashcott"
     },
     {
-      "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "published_at": "2026-09-29T17:13:58Z",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "published_at": "2026-10-01T13:52:19Z",
+      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 3591,
-      "user": "CopilotKit"
+      "stars": 551,
+      "user": "lucasmarkes"
     },
     {
-      "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
-      "url": "https://github.com/openai/mcp-extensions",
-      "published_at": "2026-09-29T00:45:42Z",
-      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "url": "https://github.com/whirlchat/whirl",
+      "published_at": "2026-10-02T13:50:42Z",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 772,
-      "user": "openai"
+      "stars": 480,
+      "user": "whirlchat"
     },
     {
-      "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "url": "https://github.com/composio-community/open-dot",
-      "published_at": "2026-09-29T16:34:16Z",
-      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
+      "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
+      "published_at": "2026-10-05T14:50:52.894-05:00",
+      "description": "Yes, I admit, this is 100% vibecoded, but it scratches an itch i've had for a while. Seems to work for my usecases at this time, but might add some more features in the future.",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "email",
+        "go",
+        "vibecoding"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
-      "source": "GitHub",
-      "stars": 576,
-      "user": "composio-community"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "sigio"
     },
     {
       "title": "Next.js always fail at downloading fonts from Google Fonts",
@@ -953,19 +936,97 @@
       "user": "Kevin Mahrous"
     },
     {
-      "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
-      "url": "https://stackoverflow.com/questions/80006284/how-can-i-get-latest-reading-from-multiple-griddb-timeseries-containers-using-py",
-      "published_at": "2026-09-27T18:13:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
+      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
+      "published_at": "2026-10-01T18:47:08.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
-        "time-series",
-        "iot",
-        "griddb"
+        "async-await",
+        "return",
+        "generator"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Manthan Done"
+      "user": "dumbass"
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "published_at": "2026-10-05T20:36:48.000Z",
+      "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "TC",
+        "eu",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "published_at": "2026-10-05T20:24:09.000Z",
+      "description": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "tags": [
+        "Startups",
+        "TC",
+        "AI hardware",
+        "etched",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "After Factory&#8217;s public spat with Khosla, Menlo proudly invests",
+      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "published_at": "2026-10-05T19:38:07.000Z",
+      "description": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Venture",
+        "factory"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "published_at": "2026-10-05T19:33:53.000Z",
+      "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "tags": [
+        "AI",
+        "beam",
+        "nvidia",
+        "open source",
+        "open weight"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "published_at": "2026-10-05T18:54:30.000Z",
+      "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "tags": [
+        "AI",
+        "Social",
+        "instinct"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
@@ -988,8 +1049,8 @@
       "published_at": "2026-10-05T18:07:07.000Z",
       "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
       "tags": [
-        "Hardware",
         "Startups",
+        "Hardware",
         "Venture"
       ],
       "cover_image": null,
@@ -1018,106 +1079,13 @@
       "published_at": "2026-10-05T17:26:44.000Z",
       "description": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
       "tags": [
-        "Startups",
         "Venture",
+        "Startups",
         "Pear Ventures"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "HackerRank&#8217;s AI interviewer offers a glimpse into what job interviews could become",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "published_at": "2026-10-05T16:43:35.000Z",
-      "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Startups",
-        "ai agent",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "published_at": "2026-10-05T15:14:24.000Z",
-      "description": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Adtech",
-        "advertising",
-        "ChatGPT"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-      "published_at": "2026-10-05T15:00:00.000Z",
-      "description": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
-      "tags": [
-        "Startups",
-        "Lola Vision Systems",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-10-05T15:00:00.000Z",
-      "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-      "tags": [
-        "Startups",
-        "AI",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
-      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-      "published_at": "2026-10-05T14:58:42.000Z",
-      "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "data breach",
-        "Denmark",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "published_at": "2026-10-05T14:35:09.000Z",
-      "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "tags": [
-        "AI",
-        "AI agents",
-        "alibaba",
-        "In Brief",
-        "Tencent"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -1393,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1473,
       "user": "QingYunA"
     },
     {
@@ -1408,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 715,
       "user": "sganggs"
     },
     {
@@ -1423,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 369,
       "user": "allenv0"
     },
     {
@@ -1438,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "blendi-remade"
     },
     {
@@ -1453,23 +1421,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 209,
       "user": "GanyuanRan"
-    },
-    {
-      "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "published_at": "2026-09-29T17:13:58Z",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
-      "source": "GitHub",
-      "stars": 3591,
-      "user": "CopilotKit"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -1483,53 +1436,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1370,
+      "stars": 1450,
       "user": "kargulstudio"
     },
     {
-      "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
-      "url": "https://github.com/openai/mcp-extensions",
-      "published_at": "2026-09-29T00:45:42Z",
-      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "published_at": "2026-10-01T13:52:19Z",
+      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 772,
-      "user": "openai"
+      "stars": 551,
+      "user": "lucasmarkes"
     },
     {
-      "title": "extend-hq/jevbox - GitHub Repository",
-      "url": "https://github.com/extend-hq/jevbox",
-      "published_at": "2026-09-29T20:54:42Z",
+      "title": "rauchg/gdp-ts - GitHub Repository",
+      "url": "https://github.com/rauchg/gdp-ts",
+      "published_at": "2026-10-04T18:55:18Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124006768?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 588,
-      "user": "extend-hq"
+      "stars": 499,
+      "user": "rauchg"
     },
     {
-      "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "url": "https://github.com/composio-community/open-dot",
-      "published_at": "2026-09-29T16:34:16Z",
-      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "url": "https://github.com/whirlchat/whirl",
+      "published_at": "2026-10-02T13:50:42Z",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 576,
-      "user": "composio-community"
+      "stars": 480,
+      "user": "whirlchat"
+    },
+    {
+      "title": "shinshin86/mesh-avatar-studio - Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "published_at": "2026-10-04T03:33:57Z",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "shinshin86"
     },
     {
       "title": "Friendship ended with Deno, now Node is my best friend",
@@ -1572,21 +1540,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Murtaza Siddiqui"
-    },
-    {
-      "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
-      "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
-      "published_at": "2026-10-01T11:29:36.000Z",
-      "description": "Stack Overflow question · 4 answers · score -10",
-      "tags": [
-        "javascript",
-        "regex",
-        "url",
-        "spotify"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "spotload"
     },
     {
       "title": "How do I randomize the position of bezier vertices?",
@@ -1689,6 +1642,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "copenndthagen"
+    },
+    {
+      "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
+      "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
+      "published_at": "2019-10-11T10:50:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 5",
+      "tags": [
+        "javascript",
+        "oauth-2.0",
+        "jwt",
+        "total.js",
+        "gravitee"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "404_Name_Not_Found"
     },
     {
       "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
@@ -1962,38 +1931,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3736,
+      "stars": 3849,
       "user": "rehan-remade"
-    },
-    {
-      "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "url": "https://github.com/feder-cr/dots",
-      "published_at": "2026-09-29T23:06:00Z",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
-      "source": "GitHub",
-      "stars": 2613,
-      "user": "feder-cr"
-    },
-    {
-      "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "url": "https://github.com/nykooi1/vibe-wise",
-      "published_at": "2026-09-29T01:29:57Z",
-      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
-      "source": "GitHub",
-      "stars": 1578,
-      "user": "nykooi1"
     },
     {
       "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
@@ -2007,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1508,
       "user": "nanaism"
     },
     {
@@ -2022,8 +1961,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 804,
       "user": "Edwardxlai"
+    },
+    {
+      "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "url": "https://github.com/StayLameBro/backburner",
+      "published_at": "2026-10-01T20:59:56Z",
+      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
+      "source": "GitHub",
+      "stars": 668,
+      "user": "StayLameBro"
+    },
+    {
+      "title": "oil-oil/oil-ui - 把 AI 的 UI 设计能力推到极限。",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "published_at": "2026-09-30T03:55:35Z",
+      "description": "把 AI 的 UI 设计能力推到极限。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
+      "source": "GitHub",
+      "stars": 624,
+      "user": "oil-oil"
     },
     {
       "title": "Javascript equivalent of Python's dict.setdefault?",
@@ -2037,6 +2006,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ptomato"
+    },
+    {
+      "title": "Why I am unable to set Groups despite user having an Id?",
+      "url": "https://stackoverflow.com/questions/80008079/why-i-am-unable-to-set-groups-despite-user-having-an-id",
+      "published_at": "2026-10-05T20:42:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "django"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dimitrios Desyllas"
+    },
+    {
+      "title": "Servo not responding when controlling with Raspberry pi",
+      "url": "https://stackoverflow.com/questions/80008045/servo-not-responding-when-controlling-with-raspberry-pi",
+      "published_at": "2026-10-05T17:50:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "servo",
+        "gpiozero"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abhishek Kedia"
     },
     {
       "title": "Better way of doing logging in Python?",
@@ -2055,7 +2051,7 @@
       "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
       "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
       "published_at": "2026-10-05T04:42:56.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "python-import"
@@ -2108,6 +2104,34 @@
       "user": "Zi Ba"
     },
     {
+      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
+      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
+      "published_at": "2026-10-01T18:47:08.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "async-await",
+        "return",
+        "generator"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dumbass"
+    },
+    {
+      "title": "Type hints warning - Expected type 'LoaderProtocol | None', got 'PatchedLoader' instead",
+      "url": "https://stackoverflow.com/questions/80007532/type-hints-warning-expected-type-loaderprotocol-none-got-patchedloader",
+      "published_at": "2026-10-02T16:02:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "Apache Superset 6.1 :: flask-caching is still required when NullCache and SupersetMetastoreCache are used?",
       "url": "https://stackoverflow.com/questions/80006946/apache-superset-6-1-flask-caching-is-still-required-when-nullcache-and-supers",
       "published_at": "2026-09-30T11:05:43.000Z",
@@ -2122,64 +2146,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bsethi24"
-    },
-    {
-      "title": "Detecting keypress and keyrelease on arrow keys",
-      "url": "https://stackoverflow.com/questions/80006215/detecting-keypress-and-keyrelease-on-arrow-keys",
-      "published_at": "2026-09-27T12:54:41.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Iain"
-    },
-    {
-      "title": "What kind of regular expression captures the root of a URL?",
-      "url": "https://stackoverflow.com/questions/80005894/what-kind-of-regular-expression-captures-the-root-of-a-url",
-      "published_at": "2026-09-25T19:09:34.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
-      "tags": [
-        "python",
-        "regex",
-        "url"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toothpick Anemone"
-    },
-    {
-      "title": "How can I get latest reading from multiple GridDB TimeSeries containers using Python?",
-      "url": "https://stackoverflow.com/questions/80006284/how-can-i-get-latest-reading-from-multiple-griddb-timeseries-containers-using-py",
-      "published_at": "2026-09-27T18:13:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "time-series",
-        "iot",
-        "griddb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manthan Done"
-    },
-    {
-      "title": "JAX FFI handler does not find my CUDA function exported with nanobind",
-      "url": "https://stackoverflow.com/questions/80005798/jax-ffi-handler-does-not-find-my-cuda-function-exported-with-nanobind",
-      "published_at": "2026-09-25T12:14:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "c++",
-        "cuda",
-        "jax",
-        "nanobind"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "alo bre"
     }
   ],
   "DevOps": [
@@ -2449,7 +2415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1473,
       "user": "QingYunA"
     },
     {
@@ -2660,7 +2626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "MatinSenPai"
     },
     {
@@ -2710,6 +2676,20 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
+    },
     {
       "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
       "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
@@ -2916,6 +2896,20 @@
   ],
   "Database": [
     {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
+    },
+    {
       "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
       "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0",
       "published_at": "2026-10-02T16:54:29Z",
@@ -2957,22 +2951,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user31009838"
-    },
-    {
-      "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
-      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-      "published_at": "2026-10-05T14:58:42.000Z",
-      "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "data breach",
-        "Denmark",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     }
   ],
   "Security": [
@@ -3124,20 +3102,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
-      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-      "published_at": "2026-10-05T14:58:42.000Z",
-      "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "title": "JWT verification error: JsonWebTokenError: invalid algorithm",
+      "url": "https://stackoverflow.com/questions/58339667/jwt-verification-error-jsonwebtokenerror-invalid-algorithm",
+      "published_at": "2019-10-11T10:50:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 5",
       "tags": [
-        "Security",
-        "cybersecurity",
-        "data breach",
-        "Denmark",
-        "In Brief"
+        "javascript",
+        "oauth-2.0",
+        "jwt",
+        "total.js",
+        "gravitee"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "StackOverflow",
+      "user": "404_Name_Not_Found"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -3266,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1473,
       "user": "QingYunA"
     },
     {
@@ -3281,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 715,
       "user": "sganggs"
     },
     {
@@ -3296,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 369,
       "user": "allenv0"
     },
     {
@@ -3311,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "blendi-remade"
     },
     {
@@ -3326,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 209,
       "user": "GanyuanRan"
     },
     {
@@ -3341,38 +3319,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
       "source": "GitHub",
-      "stars": 3736,
+      "stars": 3849,
       "user": "rehan-remade"
-    },
-    {
-      "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "url": "https://github.com/feder-cr/dots",
-      "published_at": "2026-09-29T23:06:00Z",
-      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
-      "source": "GitHub",
-      "stars": 2613,
-      "user": "feder-cr"
-    },
-    {
-      "title": "nykooi1/vibe-wise - A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "url": "https://github.com/nykooi1/vibe-wise",
-      "published_at": "2026-09-29T01:29:57Z",
-      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74839315?v=4",
-      "source": "GitHub",
-      "stars": 1578,
-      "user": "nykooi1"
     },
     {
       "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
@@ -3386,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1508,
       "user": "nanaism"
     },
     {
@@ -3401,8 +3349,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 804,
       "user": "Edwardxlai"
+    },
+    {
+      "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "url": "https://github.com/StayLameBro/backburner",
+      "published_at": "2026-10-01T20:59:56Z",
+      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
+      "source": "GitHub",
+      "stars": 668,
+      "user": "StayLameBro"
+    },
+    {
+      "title": "oil-oil/oil-ui - 把 AI 的 UI 设计能力推到极限。",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "published_at": "2026-09-30T03:55:35Z",
+      "description": "把 AI 的 UI 设计能力推到极限。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
+      "source": "GitHub",
+      "stars": 624,
+      "user": "oil-oil"
     },
     {
       "title": "mizorewww/x_gift_bot - X Premium gift CLI and redemption site",
@@ -3431,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 85,
       "user": "egoist"
     },
     {
@@ -3446,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "MatinSenPai"
     },
     {
@@ -3480,21 +3458,6 @@
       "user": "hashcott"
     },
     {
-      "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "published_at": "2026-09-29T17:13:58Z",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
-      "source": "GitHub",
-      "stars": 3591,
-      "user": "CopilotKit"
-    },
-    {
       "title": "kargulstudio/sales-crm - GitHub Repository",
       "url": "https://github.com/kargulstudio/sales-crm",
       "published_at": "2026-10-04T10:55:58Z",
@@ -3506,53 +3469,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1370,
+      "stars": 1450,
       "user": "kargulstudio"
     },
     {
-      "title": "openai/mcp-extensions - Build plugins that feel like native, first-class features of ChatGPT.",
-      "url": "https://github.com/openai/mcp-extensions",
-      "published_at": "2026-09-29T00:45:42Z",
-      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "url": "https://github.com/lucasmarkes/hairline",
+      "published_at": "2026-10-01T13:52:19Z",
+      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 772,
-      "user": "openai"
+      "stars": 551,
+      "user": "lucasmarkes"
     },
     {
-      "title": "extend-hq/jevbox - GitHub Repository",
-      "url": "https://github.com/extend-hq/jevbox",
-      "published_at": "2026-09-29T20:54:42Z",
+      "title": "rauchg/gdp-ts - GitHub Repository",
+      "url": "https://github.com/rauchg/gdp-ts",
+      "published_at": "2026-10-04T18:55:18Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124006768?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 588,
-      "user": "extend-hq"
+      "stars": 499,
+      "user": "rauchg"
     },
     {
-      "title": "composio-community/open-dot - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-      "url": "https://github.com/composio-community/open-dot",
-      "published_at": "2026-09-29T16:34:16Z",
-      "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "url": "https://github.com/whirlchat/whirl",
+      "published_at": "2026-10-02T13:50:42Z",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267807433?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 576,
-      "user": "composio-community"
+      "stars": 480,
+      "user": "whirlchat"
+    },
+    {
+      "title": "shinshin86/mesh-avatar-studio - Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "published_at": "2026-10-04T03:33:57Z",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "shinshin86"
     },
     {
       "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
@@ -3566,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1823,
+      "stars": 2068,
       "user": "storytold"
     },
     {
@@ -3581,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 620,
       "user": "storytold"
     },
     {
@@ -3596,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18405598?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 531,
       "user": "ZacharyZhang-NY"
     },
     {
@@ -3611,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 481,
       "user": "storytold"
     },
     {
@@ -3626,8 +3604,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 467,
       "user": "storytold"
+    },
+    {
+      "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
+      "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
+      "published_at": "2026-10-05T14:50:52.894-05:00",
+      "description": "Yes, I admit, this is 100% vibecoded, but it scratches an itch i've had for a while. Seems to work for my usecases at this time, but might add some more features in the future.",
+      "tags": [
+        "email",
+        "go",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "sigio"
     },
     {
       "title": "iPad Safari Development toolbar",
