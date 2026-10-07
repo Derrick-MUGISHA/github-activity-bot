@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
+      "published_at": "2026-10-07T01:00:03Z",
+      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "source": "Dev.to",
+      "user": "Ruchika Goel"
+    },
+    {
       "title": "Publishing Markdown to Substack from an Agent Skill",
       "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f",
       "published_at": "2026-10-05T17:56:04Z",
@@ -75,20 +90,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
-      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3",
-      "published_at": "2026-09-28T22:17:28Z",
-      "description": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
-      "tags": [
-        "agents",
-        "sandbox",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png",
-      "source": "Dev.to",
-      "user": "Praveen Rajasekar"
-    },
-    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
       "published_at": "2026-09-22T17:48:24Z",
@@ -130,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
       "source": "Dev.to",
       "user": "Sanskriti Harmukh"
+    },
+    {
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
+      "published_at": "2026-09-30T01:25:29Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "sanity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
     },
     {
       "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
@@ -190,21 +206,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n2dqcxgghv78nz0rtoq.png",
       "source": "Dev.to",
       "user": "Ken W Alger"
-    },
-    {
-      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
-      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
-      "published_at": "2026-09-30T01:25:29Z",
-      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
-      "tags": [
-        "devchallenge",
-        "sanitychallenge",
-        "sanity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
     },
     {
       "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
@@ -729,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1801,
       "user": "QingYunA"
     },
     {
@@ -744,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 716,
       "user": "alchaincyf"
     },
     {
@@ -759,68 +760,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "allenv0"
     },
     {
-      "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
-      "url": "https://github.com/GanyuanRan/Autoloom",
-      "published_at": "2026-09-30T12:40:15Z",
-      "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "GanyuanRan"
-    },
-    {
-      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "published_at": "2026-09-30T11:49:32Z",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "published_at": "2026-10-02T01:03:55Z",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
       "source": "GitHub",
-      "stars": 1598,
-      "user": "nanaism"
+      "stars": 503,
+      "user": "zzzz7788990213-ops"
     },
     {
-      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "published_at": "2026-09-30T12:52:24Z",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "title": "BootLoops-ai/bootloops - BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "url": "https://github.com/BootLoops-ai/bootloops",
+      "published_at": "2026-10-01T15:29:28Z",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/334378754?v=4",
       "source": "GitHub",
-      "stars": 822,
-      "user": "Edwardxlai"
-    },
-    {
-      "title": "oil-oil/oil-ui - 把 AI 的 UI 设计能力推到极限。",
-      "url": "https://github.com/oil-oil/oil-ui",
-      "published_at": "2026-09-30T03:55:35Z",
-      "description": "把 AI 的 UI 设计能力推到极限。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
-      "source": "GitHub",
-      "stars": 807,
-      "user": "oil-oil"
+      "stars": 295,
+      "user": "BootLoops-ai"
     },
     {
       "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
@@ -849,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 83,
       "user": "jiwoochris"
     },
     {
@@ -864,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "Tuskira"
     },
     {
@@ -879,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 823,
       "user": "lucasmarkes"
     },
     {
@@ -894,21 +865,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "whirlchat"
     },
     {
-      "title": "Email Self Hosters - what are you using?",
-      "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
-      "published_at": "2026-10-06T03:09:53.070-05:00",
-      "description": "At the moment I self host using [maddy](https://maddy.email) for a bunch of domains that need a mailbox or catch all. There are some minor issues with it - some are me, some are who knows. The biggest bug bear is that the native email client on iOS takes an age to connect and download messages which causes some issues with OTP emails.  \r\n\r\nSo for those out there that do host their own email - what are you running, what would you change?",
+      "title": "NuvexNetwork/nuvex - Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "url": "https://github.com/NuvexNetwork/nuvex",
+      "published_at": "2026-10-02T15:38:29Z",
+      "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
       "tags": [
-        "ask",
-        "email"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vetch"
+      "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "NuvexNetwork"
     },
     {
       "title": "A sustainable web career, for when all this blows over",
@@ -924,17 +897,17 @@
       "user": "nrvous"
     },
     {
-      "title": "Bidirectional Type Slicing",
-      "url": "https://arxiv.org/pdf/2607.12197",
-      "published_at": "2026-10-06T08:36:33.005-05:00",
-      "description": "Abstract: Development tools report what type an expression has, but not why it has that type. This paper develops a theory of type slicing that answers such questions: a programmer selects a term, queries any part of the type information associated with it, and receives a slice of the program—a well-formed partial program with irrelevant sub-terms folded away—that suffices to reproduce the queried type. We formulate type slicing for bidirectional type systems, where synthesis slices explain the type a term synthesises and analysis slices explain the type its surrounding context expects. The theory requires no cast dynamics as it applies to any bidirectional system equipped with a precision order on types and terms satisfying a downwards static graduality property.\r\n\r\nWe develop the metatheory over a core calculus with holes, products, sums, and explicit polymorphism, based on the Hazelnut and marked lambda calculi, proving that every query has a minimal slice, and that refining a\r\nquery monotonically shrinks its minimal slices. We then show how to calculate these slices both exactly and approximately. Finally, integrating type slicing with error marking theory extends these results to arbitrary\r\nill-typed programs, so a single mechanism explains both types and type errors in complete, incomplete, and erroneous code. The metatheory is mechanised in Agda, and a linear-time approximation of type slicing is\r\nimplemented for the Hazel programming environment",
+      "title": "Email Self Hosters - what are you using?",
+      "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+      "published_at": "2026-10-06T03:09:53.070-05:00",
+      "description": "At the moment I self host using [maddy](https://maddy.email) for a bunch of domains that need a mailbox or catch all. There are some minor issues with it - some are me, some are who knows. The biggest bug bear is that the native email client on iOS takes an age to connect and download messages which causes some issues with OTP emails.  \r\n\r\nSo for those out there that do host their own email - what are you running, what would you change?",
       "tags": [
-        "pdf",
-        "plt"
+        "ask",
+        "email"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "typesanitizer"
+      "user": "vetch"
     },
     {
       "title": "Next.js always fail at downloading fonts from Google Fonts",
@@ -970,13 +943,13 @@
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "published_at": "2026-10-06T22:34:03.000Z",
-      "description": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+      "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
       "tags": [
         "AI",
         "Startups",
-        "ai video",
         "CRV",
-        "General Catalyst"
+        "General Catalyst",
+        "ai video"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1395,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1801,
       "user": "QingYunA"
     },
     {
@@ -1410,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 834,
       "user": "sganggs"
     },
     {
@@ -1425,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 716,
       "user": "alchaincyf"
     },
     {
@@ -1440,23 +1413,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "allenv0"
     },
     {
-      "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
-      "url": "https://github.com/GanyuanRan/Autoloom",
-      "published_at": "2026-09-30T12:40:15Z",
-      "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+      "title": "yoge7388095s/eth-trading-bot - Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
+      "url": "https://github.com/yoge7388095s/eth-trading-bot",
+      "published_at": "2026-10-05T21:43:03Z",
+      "description": "Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/312658268?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "GanyuanRan"
+      "stars": 156,
+      "user": "yoge7388095s"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -1470,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1582,
+      "stars": 1587,
       "user": "kargulstudio"
     },
     {
@@ -1485,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 823,
       "user": "lucasmarkes"
     },
     {
@@ -1500,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 706,
       "user": "rauchg"
     },
     {
@@ -1515,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "whirlchat"
     },
     {
@@ -1530,22 +1503,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 397,
       "user": "shinshin86"
     },
     {
-      "title": "What is Codemode",
-      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-      "published_at": "2026-10-06T09:27:03.518-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
       "tags": [
-        "javascript",
-        "vibecoding",
-        "wasm"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "sp6370"
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "source": "GitHub",
+      "stars": 640,
+      "user": "elstongun"
+    },
+    {
+      "title": "NuvexNetwork/nuvex - Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "url": "https://github.com/NuvexNetwork/nuvex",
+      "published_at": "2026-10-02T15:38:29Z",
+      "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "NuvexNetwork"
     },
     {
       "title": "Sorting Objects by Numerical Value Not Working For Two Sets?",
@@ -1610,15 +1599,14 @@
       "user": "Mahadev"
     },
     {
-      "title": "Video player with a menu in HTML & CSS",
-      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu-in-html-css",
+      "title": "Video player with a menu",
+      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu",
       "published_at": "2026-05-06T22:02:45.000Z",
       "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
-        "css",
-        "advice"
+        "html5-video"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1956,66 +1944,6 @@
       "user": "arathore"
     },
     {
-      "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "published_at": "2026-09-30T05:00:35Z",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
-      "source": "GitHub",
-      "stars": 4563,
-      "user": "rehan-remade"
-    },
-    {
-      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "published_at": "2026-09-30T11:49:32Z",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
-      "source": "GitHub",
-      "stars": 1598,
-      "user": "nanaism"
-    },
-    {
-      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "published_at": "2026-09-30T12:52:24Z",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
-      "source": "GitHub",
-      "stars": 822,
-      "user": "Edwardxlai"
-    },
-    {
-      "title": "oil-oil/oil-ui - 把 AI 的 UI 设计能力推到极限。",
-      "url": "https://github.com/oil-oil/oil-ui",
-      "published_at": "2026-09-30T03:55:35Z",
-      "description": "把 AI 的 UI 设计能力推到极限。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
-      "source": "GitHub",
-      "stars": 807,
-      "user": "oil-oil"
-    },
-    {
       "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
       "url": "https://github.com/StayLameBro/backburner",
       "published_at": "2026-10-01T20:59:56Z",
@@ -2027,8 +1955,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 776,
       "user": "StayLameBro"
+    },
+    {
+      "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "published_at": "2026-10-03T12:07:49Z",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
+      "source": "GitHub",
+      "stars": 699,
+      "user": "Jakeschincariol"
+    },
+    {
+      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "published_at": "2026-10-02T01:03:55Z",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
+      "source": "GitHub",
+      "stars": 503,
+      "user": "zzzz7788990213-ops"
+    },
+    {
+      "title": "Vincentwei1021/mg-styles-15 - 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+      "url": "https://github.com/Vincentwei1021/mg-styles-15",
+      "published_at": "2026-10-02T09:43:06Z",
+      "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
+      "source": "GitHub",
+      "stars": 344,
+      "user": "Vincentwei1021"
+    },
+    {
+      "title": "BootLoops-ai/bootloops - BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "url": "https://github.com/BootLoops-ai/bootloops",
+      "published_at": "2026-10-01T15:29:28Z",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/334378754?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "BootLoops-ai"
     },
     {
       "title": "Javascript equivalent of Python's dict.setdefault?",
@@ -2044,6 +2032,20 @@
       "user": "ptomato"
     },
     {
+      "title": "Why is git-filter not permanently deleting files from my repository?",
+      "url": "https://stackoverflow.com/questions/80008362/why-is-git-filter-not-permanently-deleting-files-from-my-repository",
+      "published_at": "2026-10-07T01:14:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "git",
+        "gitignore"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ATL_DEV"
+    },
+    {
       "title": "Regex replace group reference and Unicode escape conflict",
       "url": "https://stackoverflow.com/questions/80008271/regex-replace-group-reference-and-unicode-escape-conflict",
       "published_at": "2026-10-06T15:10:02.000Z",
@@ -2056,6 +2058,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jjmeric"
+    },
+    {
+      "title": "How do I get all hosts on my Mininet custom topology to respond to ping using pingall?",
+      "url": "https://stackoverflow.com/questions/80008174/how-do-i-get-all-hosts-on-my-mininet-custom-topology-to-respond-to-ping-using-pi",
+      "published_at": "2026-10-06T09:00:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "mininet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33185410"
     },
     {
       "title": "Why python app keeps getting DisconnectNonTransientConnectionException every two weeks?",
@@ -2087,17 +2102,17 @@
       "user": "Naira"
     },
     {
-      "title": "How do I get all hosts on my Mininet custom topology to respond to ping using pingall?",
-      "url": "https://stackoverflow.com/questions/80008174/how-do-i-get-all-hosts-on-my-mininet-custom-topology-to-respond-to-ping-using-pi",
-      "published_at": "2026-10-06T09:00:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
+      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
+      "published_at": "2026-10-05T04:42:56.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
-        "mininet"
+        "python-import"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33185410"
+      "user": "Naira"
     },
     {
       "title": "Why I am unable to set Groups despite user having an Id?",
@@ -2111,19 +2126,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
-      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
-      "published_at": "2026-10-05T04:42:56.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naira"
     },
     {
       "title": "Better way of doing logging in Python?",
@@ -2153,20 +2155,6 @@
       "user": "Abhishek Kedia"
     },
     {
-      "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
-      "url": "https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n",
-      "published_at": "2026-10-02T10:44:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "jupyter-notebook",
-        "pycharm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FluidMechanics Potential Flows"
-    },
-    {
       "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
       "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
       "published_at": "2026-10-01T18:47:08.000Z",
@@ -2183,20 +2171,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "7 ways to lock down AI agent sandboxes in production (beyond Docker containers)",
-      "url": "https://dev.to/googleai/7-ways-to-lock-down-ai-agent-sandboxes-in-production-beyond-docker-containers-2bg3",
-      "published_at": "2026-09-28T22:17:28Z",
-      "description": "Running an autonomous coding or ops agent directly on your laptop feels like a superpower for the...",
-      "tags": [
-        "agents",
-        "sandbox",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gfznnc6mv7r9u85mytc.png",
-      "source": "Dev.to",
-      "user": "Praveen Rajasekar"
-    },
     {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
       "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
@@ -2450,19 +2424,18 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1801,
       "user": "QingYunA"
     },
     {
-      "title": "Video player with a menu in HTML & CSS",
-      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu-in-html-css",
+      "title": "Video player with a menu",
+      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu",
       "published_at": "2026-05-06T22:02:45.000Z",
       "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
-        "css",
-        "advice"
+        "html5-video"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2683,6 +2656,34 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
+      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc",
+      "published_at": "2026-10-07T00:58:52Z",
+      "description": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
+      "tags": [
+        "hackathon",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsh30ae11g3jgrddo92.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
+    },
+    {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
+      "published_at": "2026-10-07T01:00:03Z",
+      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "source": "Dev.to",
+      "user": "Ruchika Goel"
+    },
     {
       "title": "Activating Your Data Layer for Production-Ready AI",
       "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
@@ -2906,19 +2907,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Bidirectional Type Slicing",
-      "url": "https://arxiv.org/pdf/2607.12197",
-      "published_at": "2026-10-06T08:36:33.005-05:00",
-      "description": "Abstract: Development tools report what type an expression has, but not why it has that type. This paper develops a theory of type slicing that answers such questions: a programmer selects a term, queries any part of the type information associated with it, and receives a slice of the program—a well-formed partial program with irrelevant sub-terms folded away—that suffices to reproduce the queried type. We formulate type slicing for bidirectional type systems, where synthesis slices explain the type a term synthesises and analysis slices explain the type its surrounding context expects. The theory requires no cast dynamics as it applies to any bidirectional system equipped with a precision order on types and terms satisfying a downwards static graduality property.\r\n\r\nWe develop the metatheory over a core calculus with holes, products, sums, and explicit polymorphism, based on the Hazelnut and marked lambda calculi, proving that every query has a minimal slice, and that refining a\r\nquery monotonically shrinks its minimal slices. We then show how to calculate these slices both exactly and approximately. Finally, integrating type slicing with error marking theory extends these results to arbitrary\r\nill-typed programs, so a single mechanism explains both types and type errors in complete, incomplete, and erroneous code. The metatheory is mechanised in Agda, and a linear-time approximation of type slicing is\r\nimplemented for the Hazel programming environment",
-      "tags": [
-        "pdf",
-        "plt"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "typesanitizer"
-    },
-    {
       "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "published_at": "2026-10-06T20:00:30.000Z",
@@ -2976,6 +2964,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "source": "GitHub",
+      "stars": 640,
+      "user": "elstongun"
     },
     {
       "title": "\"MongoServerError: unknown operator: $expr\" when trying to use $expr in MongoDb 6.10.0?",
@@ -3143,7 +3146,7 @@
       "user": "ewenjo"
     },
     {
-      "title": "That Time I Worked With a Laptop Thief",
+      "title": "That Time I Worked With a Laptop Thief (2025)",
       "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
       "published_at": "2026-10-06T15:16:33.717-05:00",
       "description": "Lobste.rs Discussion",
@@ -3328,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1801,
       "user": "QingYunA"
     },
     {
@@ -3343,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 834,
       "user": "sganggs"
     },
     {
@@ -3358,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 716,
       "user": "alchaincyf"
     },
     {
@@ -3373,83 +3376,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "allenv0"
     },
     {
-      "title": "GanyuanRan/Autoloom - AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
-      "url": "https://github.com/GanyuanRan/Autoloom",
-      "published_at": "2026-09-30T12:40:15Z",
-      "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+      "title": "yoge7388095s/eth-trading-bot - Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
+      "url": "https://github.com/yoge7388095s/eth-trading-bot",
+      "published_at": "2026-10-05T21:43:03Z",
+      "description": "Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/203426402?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/312658268?v=4",
       "source": "GitHub",
-      "stars": 271,
-      "user": "GanyuanRan"
-    },
-    {
-      "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "published_at": "2026-09-30T05:00:35Z",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173837546?v=4",
-      "source": "GitHub",
-      "stars": 4563,
-      "user": "rehan-remade"
-    },
-    {
-      "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "published_at": "2026-09-30T11:49:32Z",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72681409?v=4",
-      "source": "GitHub",
-      "stars": 1598,
-      "user": "nanaism"
-    },
-    {
-      "title": "Edwardxlai/easyread - 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "published_at": "2026-09-30T12:52:24Z",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/130557749?v=4",
-      "source": "GitHub",
-      "stars": 822,
-      "user": "Edwardxlai"
-    },
-    {
-      "title": "oil-oil/oil-ui - 把 AI 的 UI 设计能力推到极限。",
-      "url": "https://github.com/oil-oil/oil-ui",
-      "published_at": "2026-09-30T03:55:35Z",
-      "description": "把 AI 的 UI 设计能力推到极限。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
-      "source": "GitHub",
-      "stars": 807,
-      "user": "oil-oil"
+      "stars": 156,
+      "user": "yoge7388095s"
     },
     {
       "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
@@ -3463,8 +3406,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 776,
       "user": "StayLameBro"
+    },
+    {
+      "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "published_at": "2026-10-03T12:07:49Z",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
+      "source": "GitHub",
+      "stars": 699,
+      "user": "Jakeschincariol"
+    },
+    {
+      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "published_at": "2026-10-02T01:03:55Z",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
+      "source": "GitHub",
+      "stars": 503,
+      "user": "zzzz7788990213-ops"
+    },
+    {
+      "title": "Vincentwei1021/mg-styles-15 - 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+      "url": "https://github.com/Vincentwei1021/mg-styles-15",
+      "published_at": "2026-10-02T09:43:06Z",
+      "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
+      "source": "GitHub",
+      "stars": 344,
+      "user": "Vincentwei1021"
+    },
+    {
+      "title": "BootLoops-ai/bootloops - BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "url": "https://github.com/BootLoops-ai/bootloops",
+      "published_at": "2026-10-01T15:29:28Z",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/334378754?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "BootLoops-ai"
     },
     {
       "title": "mizorewww/x_gift_bot - X Premium gift CLI and redemption site",
@@ -3478,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 668,
       "user": "mizorewww"
     },
     {
@@ -3493,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "egoist"
     },
     {
@@ -3523,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 83,
       "user": "jiwoochris"
     },
     {
@@ -3538,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "Tuskira"
     },
     {
@@ -3553,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1582,
+      "stars": 1587,
       "user": "kargulstudio"
     },
     {
@@ -3568,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 823,
       "user": "lucasmarkes"
     },
     {
@@ -3583,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 706,
       "user": "rauchg"
     },
     {
@@ -3598,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "whirlchat"
     },
     {
@@ -3613,14 +3616,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 397,
       "user": "shinshin86"
     },
     {
-      "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-      "url": "https://github.com/storytold/photocraft",
-      "published_at": "2026-09-30T13:37:48Z",
-      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "title": "storytold/effectcraft - GitHub Repository",
+      "url": "https://github.com/storytold/effectcraft",
+      "published_at": "2026-10-01T14:24:46Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
@@ -3628,14 +3631,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 6211,
+      "stars": 862,
       "user": "storytold"
     },
     {
-      "title": "storytold/filmcraft - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
-      "url": "https://github.com/storytold/filmcraft",
-      "published_at": "2026-09-30T13:41:20Z",
-      "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "source": "GitHub",
+      "stars": 640,
+      "user": "elstongun"
+    },
+    {
+      "title": "storytold/designcraft - GitHub Repository",
+      "url": "https://github.com/storytold/designcraft",
+      "published_at": "2026-10-01T13:13:14Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
@@ -3643,53 +3661,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1555,
+      "stars": 547,
       "user": "storytold"
     },
     {
-      "title": "storytold/lightcraft - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
-      "url": "https://github.com/storytold/lightcraft",
-      "published_at": "2026-09-30T14:09:27Z",
-      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "title": "NuvexNetwork/nuvex - Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
+      "url": "https://github.com/NuvexNetwork/nuvex",
+      "published_at": "2026-10-02T15:38:29Z",
+      "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
       "source": "GitHub",
-      "stars": 1170,
-      "user": "storytold"
+      "stars": 155,
+      "user": "NuvexNetwork"
     },
     {
-      "title": "storytold/printcraft - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
-      "url": "https://github.com/storytold/printcraft",
-      "published_at": "2026-09-30T13:39:37Z",
-      "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+      "title": "MystiaFin/amane - A library for building Wayland desktop shell purely in Rust",
+      "url": "https://github.com/MystiaFin/amane",
+      "published_at": "2026-10-04T02:57:26Z",
+      "description": "A library for building Wayland desktop shell purely in Rust",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/137388364?v=4",
       "source": "GitHub",
-      "stars": 1055,
-      "user": "storytold"
-    },
-    {
-      "title": "storytold/vectorcraft - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
-      "url": "https://github.com/storytold/vectorcraft",
-      "published_at": "2026-09-30T13:43:03Z",
-      "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 1001,
-      "user": "storytold"
+      "stars": 135,
+      "user": "MystiaFin"
     },
     {
       "title": "Brut, the Brutal Router for Unix Tools",
@@ -3705,17 +3708,34 @@
       "user": "sstephenson"
     },
     {
-      "title": "Bidirectional Type Slicing",
-      "url": "https://arxiv.org/pdf/2607.12197",
-      "published_at": "2026-10-06T08:36:33.005-05:00",
-      "description": "Abstract: Development tools report what type an expression has, but not why it has that type. This paper develops a theory of type slicing that answers such questions: a programmer selects a term, queries any part of the type information associated with it, and receives a slice of the program—a well-formed partial program with irrelevant sub-terms folded away—that suffices to reproduce the queried type. We formulate type slicing for bidirectional type systems, where synthesis slices explain the type a term synthesises and analysis slices explain the type its surrounding context expects. The theory requires no cast dynamics as it applies to any bidirectional system equipped with a precision order on types and terms satisfying a downwards static graduality property.\r\n\r\nWe develop the metatheory over a core calculus with holes, products, sums, and explicit polymorphism, based on the Hazelnut and marked lambda calculi, proving that every query has a minimal slice, and that refining a\r\nquery monotonically shrinks its minimal slices. We then show how to calculate these slices both exactly and approximately. Finally, integrating type slicing with error marking theory extends these results to arbitrary\r\nill-typed programs, so a single mechanism explains both types and type errors in complete, incomplete, and erroneous code. The metatheory is mechanised in Agda, and a linear-time approximation of type slicing is\r\nimplemented for the Hazel programming environment",
+      "title": "Why is git-filter not permanently deleting files from my repository?",
+      "url": "https://stackoverflow.com/questions/80008362/why-is-git-filter-not-permanently-deleting-files-from-my-repository",
+      "published_at": "2026-10-07T01:14:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "pdf",
-        "plt"
+        "python",
+        "git",
+        "gitignore"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "typesanitizer"
+      "source": "StackOverflow",
+      "user": "ATL_DEV"
+    },
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "published_at": "2026-10-06T22:34:03.000Z",
+      "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "tags": [
+        "AI",
+        "Startups",
+        "CRV",
+        "General Catalyst",
+        "ai video"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
