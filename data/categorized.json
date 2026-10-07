@@ -31,20 +31,6 @@
       "user": "xbill"
     },
     {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
-      "published_at": "2026-10-05T19:39:51Z",
-      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "tags": [
-        "database",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
-      "source": "Dev.to",
-      "user": "Gleb Otochkin"
-    },
-    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom",
       "published_at": "2026-10-05T18:03:31Z",
@@ -58,6 +44,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuhjpurwtrzpxh5wsntc.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
     },
     {
       "title": "MCP Configuration for Google Workspace with Claude Code",
@@ -133,21 +133,6 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
-      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
-      "published_at": "2026-09-30T01:25:29Z",
-      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
-      "tags": [
-        "devchallenge",
-        "sanitychallenge",
-        "sanity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
-    },
-    {
       "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
       "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
       "published_at": "2026-10-02T17:59:48Z",
@@ -161,6 +146,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
+      "published_at": "2026-09-30T01:25:29Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "sanity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
     },
     {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
@@ -536,21 +536,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
-      "published_at": "2026-09-28T06:25:14Z",
-      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
-      "tags": [
-        "python",
-        "opensource",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
-      "source": "Dev.to",
-      "user": "Rishu"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1801,
+      "stars": 1866,
       "user": "QingYunA"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 1008,
       "user": "alchaincyf"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 414,
       "user": "allenv0"
     },
     {
@@ -775,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 507,
       "user": "zzzz7788990213-ops"
     },
     {
@@ -790,23 +775,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334378754?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 299,
       "user": "BootLoops-ai"
-    },
-    {
-      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
-      "published_at": "2026-10-03T15:08:10Z",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "MatinSenPai"
     },
     {
       "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
@@ -820,23 +790,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 153,
       "user": "jiwoochris"
     },
     {
-      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "url": "https://github.com/Tuskira/ai-agent-gateway",
-      "published_at": "2026-10-01T11:32:10Z",
-      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "published_at": "2026-10-03T15:08:10Z",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 62,
-      "user": "Tuskira"
+      "stars": 99,
+      "user": "MatinSenPai"
+    },
+    {
+      "title": "hashcott/ghostline - One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+      "url": "https://github.com/hashcott/ghostline",
+      "published_at": "2026-10-04T06:13:58Z",
+      "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29016691?v=4",
+      "source": "GitHub",
+      "stars": 66,
+      "user": "hashcott"
     },
     {
       "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
@@ -850,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 891,
       "user": "lucasmarkes"
     },
     {
@@ -865,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "whirlchat"
     },
     {
@@ -880,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "NuvexNetwork"
     },
     {
@@ -910,6 +895,31 @@
       "user": "vetch"
     },
     {
+      "title": "OpenAI shares mathematics research catalogue",
+      "url": "https://github.com/openai/math",
+      "published_at": "2026-10-06T22:16:26.748-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "bkruger"
+    },
+    {
+      "title": "Reasons to dislike AI coding",
+      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+      "published_at": "2026-10-07T00:34:50.412-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "j11g"
+    },
+    {
       "title": "Next.js always fail at downloading fonts from Google Fonts",
       "url": "https://stackoverflow.com/questions/76478043/next-js-always-fail-at-downloading-fonts-from-google-fonts",
       "published_at": "2023-06-14T22:50:24.000Z",
@@ -925,19 +935,20 @@
       "user": "Kevin Mahrous"
     },
     {
-      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
-      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
-      "published_at": "2026-10-01T18:47:08.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "published_at": "2026-10-07T07:00:00.000Z",
+      "description": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
       "tags": [
-        "python",
-        "async-await",
-        "return",
-        "generator"
+        "TC",
+        "Media & Entertainment",
+        "Apps",
+        "Spotify",
+        "audiobooks"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dumbass"
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
@@ -1046,22 +1057,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "published_at": "2026-10-06T16:35:00.000Z",
-      "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Mirror Particle",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
@@ -1368,23 +1363,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1801,
+      "stars": 1866,
       "user": "QingYunA"
-    },
-    {
-      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "url": "https://github.com/sganggs/Stronghold-Protocol",
-      "published_at": "2026-10-02T09:38:41Z",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
-      "source": "GitHub",
-      "stars": 834,
-      "user": "sganggs"
     },
     {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
@@ -1398,8 +1378,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 1008,
       "user": "alchaincyf"
+    },
+    {
+      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "published_at": "2026-10-02T09:38:41Z",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
+      "source": "GitHub",
+      "stars": 863,
+      "user": "sganggs"
     },
     {
       "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
@@ -1413,23 +1408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 414,
       "user": "allenv0"
     },
     {
-      "title": "yoge7388095s/eth-trading-bot - Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
-      "url": "https://github.com/yoge7388095s/eth-trading-bot",
-      "published_at": "2026-10-05T21:43:03Z",
-      "description": "Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
+      "title": "GTKottman/mortiflix-oss - A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+      "url": "https://github.com/GTKottman/mortiflix-oss",
+      "published_at": "2026-10-05T15:15:13Z",
+      "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312658268?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 156,
-      "user": "yoge7388095s"
+      "stars": 218,
+      "user": "GTKottman"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -1443,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1604,
       "user": "kargulstudio"
     },
     {
@@ -1458,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 891,
       "user": "lucasmarkes"
     },
     {
@@ -1473,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 719,
       "user": "rauchg"
     },
     {
@@ -1488,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "whirlchat"
     },
     {
@@ -1503,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 418,
       "user": "shinshin86"
     },
     {
@@ -1518,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 651,
       "user": "elstongun"
     },
     {
@@ -1533,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "NuvexNetwork"
     },
     {
@@ -1583,6 +1578,19 @@
       "user": "user31009838"
     },
     {
+      "title": "Check if a variable is a string in JavaScript",
+      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
+      "published_at": "2010-10-30T14:36:34.000Z",
+      "description": "Stack Overflow question · 34 answers · score 2883",
+      "tags": [
+        "javascript",
+        "string"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Olical"
+    },
+    {
       "title": "How to enforce server-side file validation when using Supabase Storage client-side upload in Next.js?",
       "url": "https://stackoverflow.com/questions/79941971/how-to-enforce-server-side-file-validation-when-using-supabase-storage-client-si",
       "published_at": "2026-05-15T22:03:32.000Z",
@@ -1629,6 +1637,22 @@
       "user": "human computer"
     },
     {
+      "title": "What is Firebase Firestore 'Reference' data type good for?",
+      "url": "https://stackoverflow.com/questions/46568850/what-is-firebase-firestore-reference-data-type-good-for",
+      "published_at": "2017-10-04T15:37:59.000Z",
+      "description": "Stack Overflow question · 9 answers · score 316",
+      "tags": [
+        "javascript",
+        "node.js",
+        "firebase",
+        "google-cloud-platform",
+        "google-cloud-firestore"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "J&#252;rgen Brandstetter"
+    },
+    {
       "title": "Next.js always fail at downloading fonts from Google Fonts",
       "url": "https://stackoverflow.com/questions/76478043/next-js-always-fail-at-downloading-fonts-from-google-fonts",
       "published_at": "2023-06-14T22:50:24.000Z",
@@ -1644,45 +1668,18 @@
       "user": "Kevin Mahrous"
     },
     {
-      "title": "How To Solve React Hydration Error in Next",
-      "url": "https://stackoverflow.com/questions/73451295/how-to-solve-react-hydration-error-in-next",
-      "published_at": "2022-08-22T21:45:23.000Z",
-      "description": "Stack Overflow question · 5 answers · score 10",
+      "title": "Update fields in nested objects in firestore documents?",
+      "url": "https://stackoverflow.com/questions/49150917/update-fields-in-nested-objects-in-firestore-documents",
+      "published_at": "2018-03-07T11:34:44.000Z",
+      "description": "Stack Overflow question · 9 answers · score 48",
       "tags": [
         "javascript",
-        "html",
-        "reactjs",
-        "next.js"
+        "firebase",
+        "google-cloud-firestore"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "AzeaL87"
-    },
-    {
-      "title": "Is it possible to get element's numerical index in its parent node without looping?",
-      "url": "https://stackoverflow.com/questions/4649699/is-it-possible-to-get-elements-numerical-index-in-its-parent-node-without-loopi",
-      "published_at": "2011-01-10T17:42:52.000Z",
-      "description": "Stack Overflow question · 7 answers · score 58",
-      "tags": [
-        "javascript",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rsk82"
-    },
-    {
-      "title": "Javascript equivalent of Python's dict.setdefault?",
-      "url": "https://stackoverflow.com/questions/16107680/javascript-equivalent-of-pythons-dict-setdefault",
-      "published_at": "2013-04-19T15:04:09.000Z",
-      "description": "Stack Overflow question · 8 answers · score 41",
-      "tags": [
-        "javascript",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ptomato"
+      "user": "TccHtnn"
     },
     {
       "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
@@ -1807,21 +1804,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
       "user": "Mika Flowers"
-    },
-    {
-      "title": "I connected a fruit fly connectome to tic-tac-toe (with a minimax safety net)",
-      "url": "https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0",
-      "published_at": "2026-09-28T06:25:14Z",
-      "description": "Scientists have mapped the whole nervous system of a fruit fly: every neuron and every connection, in...",
-      "tags": [
-        "python",
-        "opensource",
-        "ai",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcce7lnlddbv5ghrqi1f.jpg",
-      "source": "Dev.to",
-      "user": "Rishu"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1955,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 804,
       "user": "StayLameBro"
     },
     {
@@ -1970,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 745,
       "user": "Jakeschincariol"
     },
     {
@@ -1985,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 507,
       "user": "zzzz7788990213-ops"
     },
     {
@@ -2000,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 375,
       "user": "Vincentwei1021"
     },
     {
@@ -2015,27 +1997,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334378754?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 299,
       "user": "BootLoops-ai"
-    },
-    {
-      "title": "Javascript equivalent of Python's dict.setdefault?",
-      "url": "https://stackoverflow.com/questions/16107680/javascript-equivalent-of-pythons-dict-setdefault",
-      "published_at": "2013-04-19T15:04:09.000Z",
-      "description": "Stack Overflow question · 8 answers · score 41",
-      "tags": [
-        "javascript",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ptomato"
     },
     {
       "title": "Why is git-filter not permanently deleting files from my repository?",
       "url": "https://stackoverflow.com/questions/80008362/why-is-git-filter-not-permanently-deleting-files-from-my-repository",
       "published_at": "2026-10-07T01:14:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "git",
@@ -2049,7 +2018,7 @@
       "title": "Regex replace group reference and Unicode escape conflict",
       "url": "https://stackoverflow.com/questions/80008271/regex-replace-group-reference-and-unicode-escape-conflict",
       "published_at": "2026-10-06T15:10:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "regex",
@@ -2102,19 +2071,6 @@
       "user": "Naira"
     },
     {
-      "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
-      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
-      "published_at": "2026-10-05T04:42:56.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naira"
-    },
-    {
       "title": "Why I am unable to set Groups despite user having an Id?",
       "url": "https://stackoverflow.com/questions/80008079/why-i-am-unable-to-set-groups-despite-user-having-an-id",
       "published_at": "2026-10-05T20:42:38.000Z",
@@ -2126,6 +2082,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
+    },
+    {
+      "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
+      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
+      "published_at": "2026-10-05T04:42:56.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naira"
     },
     {
       "title": "Better way of doing logging in Python?",
@@ -2155,19 +2124,18 @@
       "user": "Abhishek Kedia"
     },
     {
-      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
-      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
-      "published_at": "2026-10-01T18:47:08.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
+      "url": "https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n",
+      "published_at": "2026-10-02T10:44:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "async-await",
-        "return",
-        "generator"
+        "jupyter-notebook",
+        "pycharm"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "dumbass"
+      "user": "FluidMechanics Potential Flows"
     }
   ],
   "DevOps": [
@@ -2424,7 +2392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1801,
+      "stars": 1866,
       "user": "QingYunA"
     },
     {
@@ -2456,21 +2424,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "human computer"
-    },
-    {
-      "title": "How To Solve React Hydration Error in Next",
-      "url": "https://stackoverflow.com/questions/73451295/how-to-solve-react-hydration-error-in-next",
-      "published_at": "2022-08-22T21:45:23.000Z",
-      "description": "Stack Overflow question · 5 answers · score 10",
-      "tags": [
-        "javascript",
-        "html",
-        "reactjs",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AzeaL87"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2606,7 +2559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 99,
       "user": "MatinSenPai"
     },
     {
@@ -2907,6 +2860,36 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "What is Firebase Firestore 'Reference' data type good for?",
+      "url": "https://stackoverflow.com/questions/46568850/what-is-firebase-firestore-reference-data-type-good-for",
+      "published_at": "2017-10-04T15:37:59.000Z",
+      "description": "Stack Overflow question · 9 answers · score 316",
+      "tags": [
+        "javascript",
+        "node.js",
+        "firebase",
+        "google-cloud-platform",
+        "google-cloud-firestore"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "J&#252;rgen Brandstetter"
+    },
+    {
+      "title": "Update fields in nested objects in firestore documents?",
+      "url": "https://stackoverflow.com/questions/49150917/update-fields-in-nested-objects-in-firestore-documents",
+      "published_at": "2018-03-07T11:34:44.000Z",
+      "description": "Stack Overflow question · 9 answers · score 48",
+      "tags": [
+        "javascript",
+        "firebase",
+        "google-cloud-firestore"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TccHtnn"
+    },
+    {
       "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "published_at": "2026-10-06T20:00:30.000Z",
@@ -2977,7 +2960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 651,
       "user": "elstongun"
     },
     {
@@ -3331,23 +3314,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 1801,
+      "stars": 1866,
       "user": "QingYunA"
-    },
-    {
-      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "url": "https://github.com/sganggs/Stronghold-Protocol",
-      "published_at": "2026-10-02T09:38:41Z",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
-      "source": "GitHub",
-      "stars": 834,
-      "user": "sganggs"
     },
     {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
@@ -3361,8 +3329,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 1008,
       "user": "alchaincyf"
+    },
+    {
+      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "url": "https://github.com/sganggs/Stronghold-Protocol",
+      "published_at": "2026-10-02T09:38:41Z",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
+      "source": "GitHub",
+      "stars": 863,
+      "user": "sganggs"
     },
     {
       "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
@@ -3376,23 +3359,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 414,
       "user": "allenv0"
     },
     {
-      "title": "yoge7388095s/eth-trading-bot - Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
-      "url": "https://github.com/yoge7388095s/eth-trading-bot",
-      "published_at": "2026-10-05T21:43:03Z",
-      "description": "Automated trading bot for Ethereum with gas preview, router support and terminal menu.",
+      "title": "GTKottman/mortiflix-oss - A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+      "url": "https://github.com/GTKottman/mortiflix-oss",
+      "published_at": "2026-10-05T15:15:13Z",
+      "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312658268?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 156,
-      "user": "yoge7388095s"
+      "stars": 218,
+      "user": "GTKottman"
     },
     {
       "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
@@ -3406,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 804,
       "user": "StayLameBro"
     },
     {
@@ -3421,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 745,
       "user": "Jakeschincariol"
     },
     {
@@ -3436,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 507,
       "user": "zzzz7788990213-ops"
     },
     {
@@ -3451,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 375,
       "user": "Vincentwei1021"
     },
     {
@@ -3466,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334378754?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 299,
       "user": "BootLoops-ai"
     },
     {
@@ -3481,8 +3464,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 766,
       "user": "mizorewww"
+    },
+    {
+      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "published_at": "2026-10-03T14:49:48Z",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
+      "source": "GitHub",
+      "stars": 153,
+      "user": "jiwoochris"
     },
     {
       "title": "egoist/godiff - Fast native diff viewer",
@@ -3496,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 103,
       "user": "egoist"
     },
     {
@@ -3511,38 +3509,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 99,
       "user": "MatinSenPai"
     },
     {
-      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/jiwoochris/artex-ko",
-      "published_at": "2026-10-03T14:49:48Z",
-      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "title": "hashcott/ghostline - One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
+      "url": "https://github.com/hashcott/ghostline",
+      "published_at": "2026-10-04T06:13:58Z",
+      "description": "One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HTTP/SOCKS proxy with TLS fragmentation, and domain rules for Windows. ~30 MB RAM in the tray, no telemetry, always restores your original DNS. For research and educational use.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29016691?v=4",
       "source": "GitHub",
-      "stars": 83,
-      "user": "jiwoochris"
-    },
-    {
-      "title": "Tuskira/ai-agent-gateway - AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "url": "https://github.com/Tuskira/ai-agent-gateway",
-      "published_at": "2026-10-01T11:32:10Z",
-      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222668097?v=4",
-      "source": "GitHub",
-      "stars": 62,
-      "user": "Tuskira"
+      "stars": 66,
+      "user": "hashcott"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -3556,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1587,
+      "stars": 1604,
       "user": "kargulstudio"
     },
     {
@@ -3571,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 891,
       "user": "lucasmarkes"
     },
     {
@@ -3586,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 719,
       "user": "rauchg"
     },
     {
@@ -3601,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "whirlchat"
     },
     {
@@ -3616,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 418,
       "user": "shinshin86"
     },
     {
@@ -3631,7 +3614,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 862,
+      "stars": 1103,
+      "user": "storytold"
+    },
+    {
+      "title": "storytold/designcraft - GitHub Repository",
+      "url": "https://github.com/storytold/designcraft",
+      "published_at": "2026-10-01T13:13:14Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 676,
       "user": "storytold"
     },
     {
@@ -3646,23 +3644,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 651,
       "user": "elstongun"
-    },
-    {
-      "title": "storytold/designcraft - GitHub Repository",
-      "url": "https://github.com/storytold/designcraft",
-      "published_at": "2026-10-01T13:13:14Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 547,
-      "user": "storytold"
     },
     {
       "title": "NuvexNetwork/nuvex - Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move.",
@@ -3676,7 +3659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335916555?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "NuvexNetwork"
     },
     {
@@ -3691,7 +3674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137388364?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 155,
       "user": "MystiaFin"
     },
     {
@@ -3711,7 +3694,7 @@
       "title": "Why is git-filter not permanently deleting files from my repository?",
       "url": "https://stackoverflow.com/questions/80008362/why-is-git-filter-not-permanently-deleting-files-from-my-repository",
       "published_at": "2026-10-07T01:14:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "git",
