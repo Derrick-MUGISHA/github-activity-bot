@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-08 16:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-08 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,10 +37,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9x79okaevr3h8vgsnd8k.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Farticle%2Fdevto-mi300x-formats-cover.355c09b0.jpg" width="200" alt="Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Gemma 4 E2B on an AMD MI300X: Which Weight Format ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -57,10 +57,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/sloan/welcome-thread-v-396-ih4">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxhna3x2vv3gj30nsuz8r.webp" width="200" alt="Welcome Thread - v 396" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9x79okaevr3h8vgsnd8k.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>Welcome Thread - v 396</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -75,10 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png" width="200" alt="Claude Haiku 5.5 is available on Google Cloud" />
+    <a href="https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdvrnvtfr1l854y335hld.png" width="200" alt="Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾" />
       <br/>
-      <b>Claude Haiku 5.5 is available on Google Cloud</b>
+      <b>Build a Tiny Virtual Pet on Arduino in 60 Minutes ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,27 +93,27 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Why you still need a Website Portfolio, even though everyone can Vibe Code it.](https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63) | Dev.to |
-| 2 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682) | Dev.to |
+| 2 | [Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?](https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01) | Dev.to |
 | 3 | [Making cross-platform local AI easier with llamadart](https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k) | Dev.to |
-| 4 | [Welcome Thread - v 396](https://dev.to/sloan/welcome-thread-v-396-ih4) | Dev.to |
+| 4 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682) | Dev.to |
 | 5 | [Meme Monday](https://dev.to/ben/meme-monday-3ib7) | Dev.to |
-| 6 | [Claude Haiku 5.5 is available on Google Cloud](https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0) | Dev.to |
-| 7 | [Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾](https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf) | Dev.to |
-| 8 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4jli) | Dev.to |
-| 9 | [Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt](https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc) | Dev.to |
-| 10 | [stop-using-complex-urls-for-your-demos.us-central1.run.app](https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd) | Dev.to |
+| 6 | [Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾](https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf) | Dev.to |
+| 7 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4jli) | Dev.to |
+| 8 | [Welcome Thread - v 396](https://dev.to/sloan/welcome-thread-v-396-ih4) | Dev.to |
+| 9 | [stop-using-complex-urls-for-your-demos.us-central1.run.app](https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd) | Dev.to |
+| 10 | [Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt](https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc) | Dev.to |
 | 11 | [Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent](https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm) | Dev.to |
-| 12 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
-| 13 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
-| 14 | [Publishing Markdown to Substack from an Agent Skill](https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f) | Dev.to |
-| 15 | [Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom) | Dev.to |
-| 16 | [Activating Your Data Layer for Production-Ready AI](https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e) | Dev.to |
-| 17 | [Views Measure Views](https://dev.to/kenwalger/views-measure-views-4co7) | Dev.to |
-| 18 | [MCP Configuration for Google Workspace with Claude Code](https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om) | Dev.to |
-| 19 | [Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev](https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic) | Dev.to |
-| 20 | [Your Type Guard Can Silently Drift from Your TypeScript Type 🔧](https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57) | Dev.to |
+| 12 | [Claude Haiku 5.5 is available on Google Cloud](https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0) | Dev.to |
+| 13 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
+| 14 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
+| 15 | [Publishing Markdown to Substack from an Agent Skill](https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f) | Dev.to |
+| 16 | [Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom) | Dev.to |
+| 17 | [Activating Your Data Layer for Production-Ready AI](https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e) | Dev.to |
+| 18 | [Views Measure Views](https://dev.to/kenwalger/views-measure-views-4co7) | Dev.to |
+| 19 | [MCP Configuration for Google Workspace with Claude Code](https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om) | Dev.to |
+| 20 | [Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev](https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic) | Dev.to |
 
-<sub>Last fetched: Thu, 08 Oct 2026 16:54:50 CAT</sub>
+<sub>Last fetched: Thu, 08 Oct 2026 22:30:12 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the longest substring without repeating characters**
+**1. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
-**2. `JavaScript` — Implement a debounce function from scratch**
+**2. `Python` — Explain GIL and its implications for multithreading**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> setTimeout, clearTimeout, wrapper function
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-**3. `JavaScript` — What are closures and provide a practical example?**
+**3. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 78 | 42.6% | `████████████████████` |
-| **Tools** | 38 | 20.8% | `██████████░░░░░░░░░░` |
+| **AI** | 80 | 43.7% | `████████████████████` |
 | **JavaScript** | 37 | 20.2% | `█████████░░░░░░░░░░░` |
-| **Python** | 30 | 16.4% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
+| **Tools** | 36 | 19.7% | `█████████░░░░░░░░░░░` |
+| **Python** | 31 | 16.9% | `████████░░░░░░░░░░░░` |
+| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,31 +194,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.8%
-Go              █████████████████████████ 22.5%
-Python          ████████████████████████ 21.7%
-Java            ███████████████████████ 20.3%
-Rust            ███████ 6.5%
-Kotlin          ██ 1.4%
+JavaScript      ██████████████████████████████ 27.6%
+Python          █████████████████████████ 23.1%
+Go              ████████████████████████ 22.4%
+Java            █████████████████████ 19.4%
+Rust            ███████ 6.0%
 Swift           █ 0.7%
+Kotlin          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 37
-    "Go" : 31
-    "Python" : 30
-    "Java" : 28
-    "Rust" : 9
-    "Kotlin" : 2
+    "Python" : 31
+    "Go" : 30
+    "Java" : 26
+    "Rust" : 8
     "Swift" : 1
+    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-8-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-7-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 08 Oct 2026 14:54:50 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 08 Oct 2026 20:30:12 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
