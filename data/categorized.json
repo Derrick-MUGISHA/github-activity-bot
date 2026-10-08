@@ -29,21 +29,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
-      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
-      "published_at": "2026-10-06T15:09:17Z",
-      "description": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Strands agent and measured on the same day with the same prompts.",
-      "tags": [
-        "aws",
-        "ai",
-        "machinelearning",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Publishing Markdown to Substack from an Agent Skill",
       "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f",
       "published_at": "2026-10-05T17:56:04Z",
@@ -71,6 +56,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
       "source": "Dev.to",
       "user": "Gleb Otochkin"
+    },
+    {
+      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
+      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
+      "published_at": "2026-10-06T15:09:17Z",
+      "description": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Strands agent and measured on the same day with the same prompts.",
+      "tags": [
+        "aws",
+        "ai",
+        "machinelearning",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "MCP Configuration for Google Workspace with Claude Code",
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2058,
       "user": "QingYunA"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1550,
+      "stars": 1656,
       "user": "alchaincyf"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "allenv0"
     },
     {
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 482,
       "user": "szabadkai"
     },
     {
@@ -788,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 278,
       "user": "jiwoochris"
     },
     {
@@ -822,21 +822,6 @@
       "user": "MatinSenPai"
     },
     {
-      "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "url": "https://github.com/lucasmarkes/hairline",
-      "published_at": "2026-10-01T13:52:19Z",
-      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
-      "source": "GitHub",
-      "stars": 1064,
-      "user": "lucasmarkes"
-    },
-    {
       "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "url": "https://github.com/whirlchat/whirl",
       "published_at": "2026-10-02T13:50:42Z",
@@ -852,6 +837,21 @@
       "user": "whirlchat"
     },
     {
+      "title": "genex-games/genex-desktop - Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "url": "https://github.com/genex-games/genex-desktop",
+      "published_at": "2026-10-02T17:17:59Z",
+      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
+      "source": "GitHub",
+      "stars": 416,
+      "user": "genex-games"
+    },
+    {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
       "url": "https://github.com/nullmoth/nvidia-macos-driver",
       "published_at": "2026-10-07T08:13:12Z",
@@ -863,8 +863,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 380,
       "user": "nullmoth"
+    },
+    {
+      "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "url": "https://github.com/storytold/cadcraft",
+      "published_at": "2026-10-07T05:22:31Z",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 227,
+      "user": "storytold"
     },
     {
       "title": "Using async/await with a forEach loop",
@@ -883,16 +898,44 @@
       "user": "Saad"
     },
     {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "published_at": "2026-10-07T23:36:57.000Z",
+      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "tags": [
+        "Robotics",
+        "Startups",
+        "Venture",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere&#8217;",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "published_at": "2026-10-07T22:59:16.000Z",
+      "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "tags": [
+        "Venture",
+        "Endeavor Catalyst"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
       "published_at": "2026-10-07T20:48:45.000Z",
-      "description": "The developer of Hermes agent raised a $90 million Series B.",
+      "description": "The developer of Hermes Agent raised a $90 million Series B.",
       "tags": [
         "AI",
         "Enterprise",
         "Fundraising",
-        "AI agents",
-        "Hermes Agent"
+        "Startups",
+        "AI agents"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -907,7 +950,8 @@
         "AI",
         "Hardware",
         "TC",
-        "Microsoft"
+        "Microsoft",
+        "nvidia"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -969,37 +1013,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "published_at": "2026-10-07T16:53:46.000Z",
-      "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "tags": [
-        "AI",
-        "Apps",
-        "child safety",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "published_at": "2026-10-07T15:07:08.000Z",
-      "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Fundraising",
-        "Startups",
-        "HealthLeap"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
@@ -1291,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2058,
       "user": "QingYunA"
     },
     {
@@ -1306,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1550,
+      "stars": 1656,
       "user": "alchaincyf"
     },
     {
@@ -1321,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 920,
       "user": "sganggs"
     },
     {
@@ -1336,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "allenv0"
     },
     {
@@ -1351,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 382,
       "user": "GTKottman"
     },
     {
@@ -1366,23 +1379,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1636,
       "user": "kargulstudio"
-    },
-    {
-      "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "url": "https://github.com/lucasmarkes/hairline",
-      "published_at": "2026-10-01T13:52:19Z",
-      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
-      "source": "GitHub",
-      "stars": 1064,
-      "user": "lucasmarkes"
     },
     {
       "title": "rauchg/gdp-ts - GitHub Repository",
@@ -1396,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 739,
       "user": "rauchg"
     },
     {
@@ -1426,8 +1424,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 461,
       "user": "shinshin86"
+    },
+    {
+      "title": "genex-games/genex-desktop - Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "url": "https://github.com/genex-games/genex-desktop",
+      "published_at": "2026-10-02T17:17:59Z",
+      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
+      "source": "GitHub",
+      "stars": 416,
+      "user": "genex-games"
     },
     {
       "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
@@ -1441,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 665,
       "user": "elstongun"
     },
     {
@@ -1456,14 +1469,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 452,
       "user": "pingdotgg"
     },
     {
       "title": "How to split and name Audio Hijack Recordings based on Spotify Metadata",
       "url": "https://stackoverflow.com/questions/80008550/how-to-split-and-name-audio-hijack-recordings-based-on-spotify-metadata",
       "published_at": "2026-10-07T20:14:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "audio",
@@ -1613,7 +1626,7 @@
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "json",
@@ -1868,21 +1881,6 @@
       "user": "arathore"
     },
     {
-      "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "url": "https://github.com/StayLameBro/backburner",
-      "published_at": "2026-10-01T20:59:56Z",
-      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
-      "source": "GitHub",
-      "stars": 842,
-      "user": "StayLameBro"
-    },
-    {
       "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "url": "https://github.com/Jakeschincariol/replica-skill",
       "published_at": "2026-10-03T12:07:49Z",
@@ -1894,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 864,
       "user": "Jakeschincariol"
     },
     {
@@ -1924,8 +1922,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 482,
       "user": "szabadkai"
+    },
+    {
+      "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
+      "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+      "published_at": "2026-10-04T05:57:06Z",
+      "description": "Real-time browser demo for Talk Like You",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
+      "source": "GitHub",
+      "stars": 427,
+      "user": "BQ-Wang0511"
     },
     {
       "title": "Vincentwei1021/mg-styles-15 - 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
@@ -1939,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 415,
       "user": "Vincentwei1021"
     },
     {
@@ -1962,7 +1975,7 @@
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "json",
@@ -2310,7 +2323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2058,
       "user": "QingYunA"
     },
     {
@@ -2586,6 +2599,20 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
+    },
+    {
       "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
       "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
       "published_at": "2026-10-06T15:09:17Z",
@@ -2599,20 +2626,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
-      "published_at": "2026-10-05T19:39:51Z",
-      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "tags": [
-        "database",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
-      "source": "Dev.to",
-      "user": "Gleb Otochkin"
     },
     {
       "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
@@ -2862,7 +2875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 665,
       "user": "elstongun"
     },
     {
@@ -3044,18 +3057,6 @@
       "user": "mrnossiom"
     },
     {
-      "title": "That Time I Worked With a Laptop Thief (2025)",
-      "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
-      "published_at": "2026-10-06T15:16:33.717-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jeanthomas"
-    },
-    {
       "title": "How to enforce server-side file validation when using Supabase Storage client-side upload in Next.js?",
       "url": "https://stackoverflow.com/questions/79941971/how-to-enforce-server-side-file-validation-when-using-supabase-storage-client-si",
       "published_at": "2026-05-15T22:03:32.000Z",
@@ -3229,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2058,
       "user": "QingYunA"
     },
     {
@@ -3244,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1550,
+      "stars": 1656,
       "user": "alchaincyf"
     },
     {
@@ -3259,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 920,
       "user": "sganggs"
     },
     {
@@ -3274,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "allenv0"
     },
     {
@@ -3289,23 +3290,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 382,
       "user": "GTKottman"
-    },
-    {
-      "title": "StayLameBro/backburner - Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "url": "https://github.com/StayLameBro/backburner",
-      "published_at": "2026-10-01T20:59:56Z",
-      "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/182310482?v=4",
-      "source": "GitHub",
-      "stars": 842,
-      "user": "StayLameBro"
     },
     {
       "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
@@ -3319,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 864,
       "user": "Jakeschincariol"
     },
     {
@@ -3349,8 +3335,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 482,
       "user": "szabadkai"
+    },
+    {
+      "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
+      "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+      "published_at": "2026-10-04T05:57:06Z",
+      "description": "Real-time browser demo for Talk Like You",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
+      "source": "GitHub",
+      "stars": 427,
+      "user": "BQ-Wang0511"
     },
     {
       "title": "Vincentwei1021/mg-styles-15 - 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
@@ -3364,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 415,
       "user": "Vincentwei1021"
     },
     {
@@ -3379,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 929,
       "user": "mizorewww"
     },
     {
@@ -3394,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 278,
       "user": "jiwoochris"
     },
     {
@@ -3454,23 +3455,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1636,
       "user": "kargulstudio"
-    },
-    {
-      "title": "lucasmarkes/hairline - Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "url": "https://github.com/lucasmarkes/hairline",
-      "published_at": "2026-10-01T13:52:19Z",
-      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66750157?v=4",
-      "source": "GitHub",
-      "stars": 1064,
-      "user": "lucasmarkes"
     },
     {
       "title": "rauchg/gdp-ts - GitHub Repository",
@@ -3484,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 739,
       "user": "rauchg"
     },
     {
@@ -3514,38 +3500,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 461,
       "user": "shinshin86"
     },
     {
-      "title": "storytold/effectcraft - GitHub Repository",
-      "url": "https://github.com/storytold/effectcraft",
-      "published_at": "2026-10-01T14:24:46Z",
-      "description": "Trending GitHub Repository",
+      "title": "genex-games/genex-desktop - Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "url": "https://github.com/genex-games/genex-desktop",
+      "published_at": "2026-10-02T17:17:59Z",
+      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
       "source": "GitHub",
-      "stars": 1566,
-      "user": "storytold"
-    },
-    {
-      "title": "storytold/designcraft - GitHub Repository",
-      "url": "https://github.com/storytold/designcraft",
-      "published_at": "2026-10-01T13:13:14Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 911,
-      "user": "storytold"
+      "stars": 416,
+      "user": "genex-games"
     },
     {
       "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
@@ -3559,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 665,
       "user": "elstongun"
     },
     {
@@ -3574,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 452,
       "user": "pingdotgg"
     },
     {
@@ -3589,8 +3560,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 380,
       "user": "nullmoth"
+    },
+    {
+      "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "url": "https://github.com/storytold/wordcraft",
+      "published_at": "2026-10-07T08:34:24Z",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 271,
+      "user": "storytold"
+    },
+    {
+      "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "url": "https://github.com/storytold/cadcraft",
+      "published_at": "2026-10-07T05:22:31Z",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 227,
+      "user": "storytold"
     },
     {
       "title": "Creating distro build tooling for a small community",
@@ -3608,7 +3609,7 @@
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "json",
@@ -3644,21 +3645,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "published_at": "2026-10-07T16:53:46.000Z",
-      "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "tags": [
-        "AI",
-        "Apps",
-        "child safety",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
