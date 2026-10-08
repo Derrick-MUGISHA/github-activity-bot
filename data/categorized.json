@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Making cross-platform local AI easier with llamadart",
+      "url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k",
+      "published_at": "2026-10-08T00:52:40Z",
+      "description": "My writing assistant could talk to Gemini. The missing piece was using it without a connection.  That...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0wr458egowr32pcn8l9.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "Claude Haiku 5.5 is available on Google Cloud",
       "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
       "published_at": "2026-10-07T18:06:52Z",
@@ -10,6 +25,49 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
+      "published_at": "2026-10-07T01:00:03Z",
+      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "source": "Dev.to",
+      "user": "Ruchika Goel"
+    },
+    {
+      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
+      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
+      "published_at": "2026-10-06T15:09:17Z",
+      "description": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Strands agent and measured on the same day with the same prompts.",
+      "tags": [
+        "aws",
+        "ai",
+        "machinelearning",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
+      "published_at": "2026-09-22T17:48:24Z",
+      "description": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "tags": [
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
     },
@@ -29,19 +87,19 @@
       "user": "xbill"
     },
     {
-      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
-      "published_at": "2026-10-07T01:00:03Z",
-      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom",
+      "published_at": "2026-10-05T18:03:31Z",
+      "description": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
       "tags": [
-        "googlecloud",
-        "cloud",
-        "software",
-        "programming"
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "softwaredevelopment"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuhjpurwtrzpxh5wsntc.png",
       "source": "Dev.to",
-      "user": "Ruchika Goel"
+      "user": "Jem"
     },
     {
       "title": "Activating Your Data Layer for Production-Ready AI",
@@ -56,21 +114,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
       "source": "Dev.to",
       "user": "Gleb Otochkin"
-    },
-    {
-      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
-      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
-      "published_at": "2026-10-06T15:09:17Z",
-      "description": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Strands agent and measured on the same day with the same prompts.",
-      "tags": [
-        "aws",
-        "ai",
-        "machinelearning",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "MCP Configuration for Google Workspace with Claude Code",
@@ -103,34 +146,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
-      "published_at": "2026-09-22T17:48:24Z",
-      "description": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
-      "tags": [
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom",
-      "published_at": "2026-10-05T18:03:31Z",
-      "description": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuhjpurwtrzpxh5wsntc.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
       "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
       "published_at": "2026-09-25T11:50:46Z",
@@ -161,19 +176,19 @@
       "user": "Sanskriti Harmukh"
     },
     {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
-      "published_at": "2026-10-02T17:59:48Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+      "published_at": "2026-09-23T11:31:31Z",
+      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
       "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
+        "buildinpublic",
+        "webdev",
+        "nextjs",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Mika Flowers"
     },
     {
       "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
@@ -189,21 +204,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
-    },
-    {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "published_at": "2026-09-23T11:31:31Z",
-      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "tags": [
-        "buildinpublic",
-        "webdev",
-        "nextjs",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
     },
     {
       "title": "A wine cellar that remembers what you used to believe",
@@ -236,6 +236,21 @@
       "user": "Jen Looper"
     },
     {
+      "title": "An introverted dev in an extroverted world",
+      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04",
+      "published_at": "2026-09-23T12:02:12Z",
+      "description": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
+      "tags": [
+        "watercooler",
+        "career",
+        "networking",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
+      "source": "Dev.to",
+      "user": "Ikrame Ibn Hayoun"
+    },
+    {
       "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
       "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
       "published_at": "2026-09-30T16:45:07Z",
@@ -251,19 +266,19 @@
       "user": "Frank Guan"
     },
     {
-      "title": "An introverted dev in an extroverted world",
-      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04",
-      "published_at": "2026-09-23T12:02:12Z",
-      "description": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
+      "title": "I Built a Better Codex Pet Than OpenAI Did",
+      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
+      "published_at": "2026-09-26T11:16:56Z",
+      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
       "tags": [
-        "watercooler",
-        "career",
-        "networking",
-        "discuss"
+        "opensource",
+        "python",
+        "linux",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
-      "user": "Ikrame Ibn Hayoun"
+      "user": "Mika Flowers"
     },
     {
       "title": "I Tried to Prompt a 3D DEV Library Into Existence. Then I Had to Build My Own Level Editor.",
@@ -309,21 +324,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I Built a Better Codex Pet Than OpenAI Did",
-      "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
-      "published_at": "2026-09-26T11:16:56Z",
-      "description": "Sometimes you just have to let the agent cook.           Mika vs. a multi-billion-dollar...",
-      "tags": [
-        "opensource",
-        "python",
-        "linux",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
     },
     {
       "title": "What One Rust Client Can Reach Across Seven Iceberg Catalogs",
@@ -702,21 +702,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "published_at": "2026-10-02T09:57:40Z",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
-      "source": "GitHub",
-      "stars": 2200,
-      "user": "QingYunA"
-    },
-    {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "published_at": "2026-10-06T04:49:37Z",
@@ -728,8 +713,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2007,
+      "stars": 2309,
       "user": "alchaincyf"
+    },
+    {
+      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "published_at": "2026-10-02T09:57:40Z",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
+      "source": "GitHub",
+      "stars": 2306,
+      "user": "QingYunA"
     },
     {
       "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 438,
       "user": "allenv0"
     },
     {
@@ -758,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 536,
       "user": "szabadkai"
     },
     {
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 508,
       "user": "zzzz7788990213-ops"
     },
     {
@@ -788,8 +788,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 583,
       "user": "jiwoochris"
+    },
+    {
+      "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "published_at": "2026-10-08T05:33:06Z",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
+      "source": "GitHub",
+      "stars": 485,
+      "user": "mhtsec"
     },
     {
       "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
@@ -803,23 +818,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/338831274?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "Stellar-Pathfinder"
-    },
-    {
-      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
-      "published_at": "2026-10-03T15:08:10Z",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 106,
-      "user": "MatinSenPai"
     },
     {
       "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
@@ -833,23 +833,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 502,
       "user": "whirlchat"
-    },
-    {
-      "title": "genex-games/genex-desktop - Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "url": "https://github.com/genex-games/genex-desktop",
-      "published_at": "2026-10-02T17:17:59Z",
-      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
-      "source": "GitHub",
-      "stars": 419,
-      "user": "genex-games"
     },
     {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
@@ -863,7 +848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 777,
       "user": "nullmoth"
     },
     {
@@ -878,7 +863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 523,
       "user": "storytold"
     },
     {
@@ -898,136 +883,130 @@
       "user": "Saad"
     },
     {
-      "title": "India rejects Elon Musk&#8217;s claim of discrimination over Starlink launch",
-      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "published_at": "2026-10-08T06:14:11.000Z",
-      "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+      "title": "I am trying to solve the 1D Bar with the help of FNO. What could be the problem and what are good ways to find it?",
+      "url": "https://stackoverflow.com/questions/80008632/i-am-trying-to-solve-the-1d-bar-with-the-help-of-fno-what-could-be-the-problem",
+      "published_at": "2026-10-08T08:41:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "Government & Policy",
-        "Space",
-        "SpaceX",
-        "Starlink"
+        "python",
+        "machine-learning",
+        "pytorch",
+        "fft",
+        "training-data"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "source": "StackOverflow",
+      "user": "Kraker"
     },
     {
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "published_at": "2026-10-07T23:36:57.000Z",
-      "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "title": "Spotify is getting more serious about selling enterprise software",
+      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "published_at": "2026-10-08T14:34:33.000Z",
+      "description": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
       "tags": [
-        "Robotics",
-        "Startups",
-        "Venture",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders &#8216;elsewhere&#8217;",
-      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "published_at": "2026-10-07T22:59:16.000Z",
-      "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-      "tags": [
-        "Venture",
-        "Endeavor Catalyst"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "published_at": "2026-10-07T20:48:45.000Z",
-      "description": "The developer of Hermes Agent raised a $90 million Series B.",
-      "tags": [
-        "AI",
         "Enterprise",
-        "Fundraising",
-        "Startups",
-        "AI agents"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "published_at": "2026-10-07T20:22:37.000Z",
-      "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "tags": [
-        "AI",
-        "Hardware",
         "TC",
-        "Microsoft",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "published_at": "2026-10-07T18:30:57.000Z",
-      "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Meta",
-        "muse"
+        "Spotify"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "published_at": "2026-10-07T18:15:28.000Z",
-      "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "published_at": "2026-10-08T14:00:00.000Z",
+      "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
       "tags": [
+        "TC",
         "AI",
-        "ChatGPT",
-        "OpenAI"
+        "Fundraising",
+        "Exclusive",
+        "Zach Yadegari"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "user": "Julie Bort"
     },
     {
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "published_at": "2026-10-07T18:00:19.000Z",
-      "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Greenairy is building smart plant towers to clean the air in your office",
-      "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-      "published_at": "2026-10-07T17:30:00.000Z",
-      "description": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "published_at": "2026-10-08T14:00:00.000Z",
+      "description": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
       "tags": [
         "Startups",
-        "TechCrunch Disrupt",
-        "Startup Battlefield 200"
+        "Fintech",
+        "Venture",
+        "AI",
+        "Robotics"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Google releases a new local-first Granola competitor",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "published_at": "2026-10-08T13:28:39.000Z",
+      "description": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "tags": [
+        "AI",
+        "Apps",
+        "gemma",
+        "Google",
+        "Meeting notetakers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "China&#8217;s Manus raises over $500M in first funding round since split with Meta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "published_at": "2026-10-08T13:20:32.000Z",
+      "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "manus",
+        "Manus AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Uber and China&#8217;s Pony.ai plan to launch robotaxis in London",
+      "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+      "published_at": "2026-10-08T12:53:39.000Z",
+      "description": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
+      "tags": [
+        "Transportation",
+        "autonomous vehicles",
+        "London",
+        "Pony.ai",
+        "robotaxis"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "published_at": "2026-10-08T12:00:00.000Z",
+      "description": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "a16z",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
@@ -1305,21 +1284,6 @@
       "user": "velmu"
     },
     {
-      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "published_at": "2026-10-02T09:57:40Z",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
-      "source": "GitHub",
-      "stars": 2200,
-      "user": "QingYunA"
-    },
-    {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "published_at": "2026-10-06T04:49:37Z",
@@ -1331,8 +1295,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2007,
+      "stars": 2309,
       "user": "alchaincyf"
+    },
+    {
+      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "published_at": "2026-10-02T09:57:40Z",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
+      "source": "GitHub",
+      "stars": 2306,
+      "user": "QingYunA"
     },
     {
       "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
@@ -1346,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 983,
       "user": "sganggs"
     },
     {
@@ -1361,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 438,
       "user": "allenv0"
     },
     {
@@ -1376,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 428,
       "user": "GTKottman"
     },
     {
@@ -1391,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1643,
+      "stars": 1649,
       "user": "kargulstudio"
     },
     {
@@ -1406,8 +1385,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 757,
       "user": "rauchg"
+    },
+    {
+      "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "url": "https://github.com/bas3line/ascii",
+      "published_at": "2026-10-07T06:48:54Z",
+      "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
+      "source": "GitHub",
+      "stars": 513,
+      "user": "bas3line"
     },
     {
       "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
@@ -1421,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 502,
       "user": "whirlchat"
     },
     {
@@ -1436,23 +1430,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 491,
       "user": "shinshin86"
-    },
-    {
-      "title": "genex-games/genex-desktop - Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "url": "https://github.com/genex-games/genex-desktop",
-      "published_at": "2026-10-02T17:17:59Z",
-      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
-      "source": "GitHub",
-      "stars": 419,
-      "user": "genex-games"
     },
     {
       "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
@@ -1466,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 685,
       "user": "elstongun"
     },
     {
@@ -1481,14 +1460,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 630,
       "user": "pingdotgg"
     },
     {
       "title": "How to split and name Audio Hijack Recordings based on Spotify Metadata",
       "url": "https://stackoverflow.com/questions/80008550/how-to-split-and-name-audio-hijack-recordings-based-on-spotify-metadata",
       "published_at": "2026-10-07T20:14:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "audio",
@@ -1498,6 +1477,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gustavo Hernandez"
+    },
+    {
+      "title": "When building and serving a React project, CSS classes are loaded in the wrong order",
+      "url": "https://stackoverflow.com/questions/80008484/when-building-and-serving-a-react-project-css-classes-are-loaded-in-the-wrong-o",
+      "published_at": "2026-10-07T13:53:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "css",
+        "reactjs",
+        "webpack",
+        "yarnpkg"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "four-eyes"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
@@ -1514,22 +1509,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
-    },
-    {
-      "title": "When building and serving a React project, CSS classes are loaded in the wrong order",
-      "url": "https://stackoverflow.com/questions/80008484/when-building-and-serving-a-react-project-css-classes-are-loaded-in-the-wrong-o",
-      "published_at": "2026-10-07T13:53:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "css",
-        "reactjs",
-        "webpack",
-        "yarnpkg"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "four-eyes"
     },
     {
       "title": "concept about AJAX",
@@ -1549,7 +1528,7 @@
       "title": "Sorting Objects by Numerical Value Not Working For Two Sets?",
       "url": "https://stackoverflow.com/questions/80008318/sorting-objects-by-numerical-value-not-working-for-two-sets",
       "published_at": "2026-10-06T18:52:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "arrays",
@@ -1559,21 +1538,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DoNotPutMeInABox"
-    },
-    {
-      "title": "How can I get the BPM",
-      "url": "https://stackoverflow.com/questions/80008218/how-can-i-get-the-bpm",
-      "published_at": "2026-10-06T12:17:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "node.js",
-        "electron",
-        "spotify"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rayane Nouni"
     },
     {
       "title": "K6 - Split dataset among VUs without overlap",
@@ -1637,10 +1601,24 @@
       "user": "Mahadev"
     },
     {
+      "title": "Video player with a menu",
+      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu",
+      "published_at": "2026-05-06T22:02:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "html5-video"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "x ox"
+    },
+    {
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "json",
@@ -1729,21 +1707,6 @@
       "user": "Ken W Alger"
     },
     {
-      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
-      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
-      "published_at": "2026-09-26T11:10:24Z",
-      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "I Built a Better Codex Pet Than OpenAI Did",
       "url": "https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib",
       "published_at": "2026-09-26T11:16:56Z",
@@ -1757,6 +1720,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6f927f50lncfh46mbfb.png",
       "source": "Dev.to",
       "user": "Mika Flowers"
+    },
+    {
+      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
+      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
+      "published_at": "2026-09-26T11:10:24Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1890,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 991,
       "user": "Jakeschincariol"
     },
     {
@@ -1905,23 +1883,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 536,
       "user": "szabadkai"
-    },
-    {
-      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
-      "published_at": "2026-10-02T01:03:55Z",
-      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
-      "source": "GitHub",
-      "stars": 507,
-      "user": "zzzz7788990213-ops"
     },
     {
       "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
@@ -1935,8 +1898,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 517,
       "user": "BQ-Wang0511"
+    },
+    {
+      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "published_at": "2026-10-02T01:03:55Z",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
+      "source": "GitHub",
+      "stars": 508,
+      "user": "zzzz7788990213-ops"
     },
     {
       "title": "Vincentwei1021/mg-styles-15 - 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
@@ -1950,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 462,
       "user": "Vincentwei1021"
     },
     {
@@ -1968,6 +1946,63 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "python + csv quiz",
+      "url": "https://stackoverflow.com/questions/80008688/python-csv-quiz",
+      "published_at": "2026-10-08T12:14:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "python",
+        "csv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "nickdrakefan"
+    },
+    {
+      "title": "How to place a limit buy with an attached stop-loss and target in Nubra V3 (which executionMode?)",
+      "url": "https://stackoverflow.com/questions/80008651/how-to-place-a-limit-buy-with-an-attached-stop-loss-and-target-in-nubra-v3-whic",
+      "published_at": "2026-10-08T10:02:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "tradingview-api",
+        "trading"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naira"
+    },
+    {
+      "title": "Does type-checking have any runtime overhead?",
+      "url": "https://stackoverflow.com/questions/80008650/does-type-checking-have-any-runtime-overhead",
+      "published_at": "2026-10-08T10:01:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "I am trying to solve the 1D Bar with the help of FNO. What could be the problem and what are good ways to find it?",
+      "url": "https://stackoverflow.com/questions/80008632/i-am-trying-to-solve-the-1d-bar-with-the-help-of-fno-what-could-be-the-problem",
+      "published_at": "2026-10-08T08:41:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "machine-learning",
+        "pytorch",
+        "fft",
+        "training-data"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kraker"
     },
     {
       "title": "User Application doesn't start on the RFID Reader Zebra FX7500",
@@ -1988,7 +2023,7 @@
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "json",
@@ -2038,64 +2073,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SpiritForge Ministry"
-    },
-    {
-      "title": "User Checkable PySide6 ListWidget Items Missing Checkboxes after macOS Upgrade",
-      "url": "https://stackoverflow.com/questions/80008473/user-checkable-pyside6-listwidget-items-missing-checkboxes-after-macos-upgrade",
-      "published_at": "2026-10-07T13:15:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pyside6",
-        "qlistwidget",
-        "qlistwidgetitem",
-        "python-3.14"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user2334160"
-    },
-    {
-      "title": "Regex replace group reference and Unicode escape conflict",
-      "url": "https://stackoverflow.com/questions/80008271/regex-replace-group-reference-and-unicode-escape-conflict",
-      "published_at": "2026-10-06T15:10:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "regex",
-        "unicode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jjmeric"
-    },
-    {
-      "title": "How do I get all hosts on my Mininet custom topology to respond to ping using pingall?",
-      "url": "https://stackoverflow.com/questions/80008174/how-do-i-get-all-hosts-on-my-mininet-custom-topology-to-respond-to-ping-using-pi",
-      "published_at": "2026-10-06T09:00:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "mininet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33185410"
-    },
-    {
-      "title": "Why python app keeps getting DisconnectNonTransientConnectionException every two weeks?",
-      "url": "https://stackoverflow.com/questions/80008196/why-python-app-keeps-getting-disconnectnontransientconnectionexception-every-two",
-      "published_at": "2026-10-06T10:15:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "jdbc",
-        "db2",
-        "jaydebeapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Le Autodidact"
     }
   ],
   "DevOps": [
@@ -2306,8 +2283,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2200,
+      "stars": 2306,
       "user": "QingYunA"
+    },
+    {
+      "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "url": "https://github.com/bas3line/ascii",
+      "published_at": "2026-10-07T06:48:54Z",
+      "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
+      "source": "GitHub",
+      "stars": 513,
+      "user": "bas3line"
+    },
+    {
+      "title": "When building and serving a React project, CSS classes are loaded in the wrong order",
+      "url": "https://stackoverflow.com/questions/80008484/when-building-and-serving-a-react-project-css-classes-are-loaded-in-the-wrong-o",
+      "published_at": "2026-10-07T13:53:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "css",
+        "reactjs",
+        "webpack",
+        "yarnpkg"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "four-eyes"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
@@ -2326,20 +2334,18 @@
       "user": "gh0st_dancing"
     },
     {
-      "title": "When building and serving a React project, CSS classes are loaded in the wrong order",
-      "url": "https://stackoverflow.com/questions/80008484/when-building-and-serving-a-react-project-css-classes-are-loaded-in-the-wrong-o",
-      "published_at": "2026-10-07T13:53:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Video player with a menu",
+      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu",
+      "published_at": "2026-05-06T22:02:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
-        "css",
-        "reactjs",
-        "webpack",
-        "yarnpkg"
+        "html",
+        "html5-video"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "four-eyes"
+      "user": "x ox"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2375,6 +2381,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Making cross-platform local AI easier with llamadart",
+      "url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k",
+      "published_at": "2026-10-08T00:52:40Z",
+      "description": "My writing assistant could talk to Gemini. The missing piece was using it without a connection.  That...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0wr458egowr32pcn8l9.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
     {
       "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
       "url": "https://dev.to/gde/rediscovering-the-schwartzian-transform-why-i-had-to-comment-on-a-flutter-performance-article-30l0",
@@ -2464,21 +2485,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
-      "published_at": "2026-10-03T15:08:10Z",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 106,
-      "user": "MatinSenPai"
-    },
-    {
       "title": "Routing global Android bluetooth button presses into app to toggle a specific function",
       "url": "https://stackoverflow.com/questions/80008434/routing-global-android-bluetooth-button-presses-into-app-to-toggle-a-specific-fu",
       "published_at": "2026-10-07T10:03:29.000Z",
@@ -2492,21 +2498,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SpiritForge Ministry"
-    },
-    {
-      "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "published_at": "2026-10-07T18:30:57.000Z",
-      "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Meta",
-        "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
@@ -2527,19 +2518,6 @@
   ],
   "Cloud": [
     {
-      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
-      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc",
-      "published_at": "2026-10-07T00:58:52Z",
-      "description": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
-      "tags": [
-        "hackathon",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsh30ae11g3jgrddo92.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
-    },
-    {
       "title": "Claude Haiku 5.5 is available on Google Cloud",
       "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
       "published_at": "2026-10-07T18:06:52Z",
@@ -2551,6 +2529,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
+      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc",
+      "published_at": "2026-10-07T00:58:52Z",
+      "description": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
+      "tags": [
+        "hackathon",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsh30ae11g3jgrddo92.png",
+      "source": "Dev.to",
+      "user": "Martin Omander"
     },
     {
       "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
@@ -2568,20 +2559,6 @@
       "user": "Ruchika Goel"
     },
     {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
-      "published_at": "2026-10-05T19:39:51Z",
-      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "tags": [
-        "database",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
-      "source": "Dev.to",
-      "user": "Gleb Otochkin"
-    },
-    {
       "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
       "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
       "published_at": "2026-10-06T15:09:17Z",
@@ -2595,6 +2572,33 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Claude Opus 5.5 is now available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
+      "published_at": "2026-09-22T17:48:24Z",
+      "description": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
+      "tags": [
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
     },
     {
       "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
@@ -2612,19 +2616,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Claude Opus 5.5 is now available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
-      "published_at": "2026-09-22T17:48:24Z",
-      "description": "Everyday complex tasks? No problem. Opus 5.5 handles long-running coding and knowledge work while...",
-      "tags": [
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Claude on Google Cloud workshop | NYC | 9/30",
       "url": "https://dev.to/googleai/claude-on-google-cloud-workshop-nyc-930-17jl",
       "published_at": "2026-09-25T11:50:46Z",
@@ -2638,21 +2629,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcpy125ze45bvn24z8o6m.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
-    },
-    {
-      "title": "Repacked QAT Gemma 4 on One TPU v5e: 12B Serves at 675 Tokens per Second",
-      "url": "https://dev.to/gde/repacked-qat-gemma-4-on-one-tpu-v5e-12b-serves-at-675-tokens-per-second-15dd",
-      "published_at": "2026-10-02T17:59:48Z",
-      "description": "Google's quantization-aware-trained Gemma 4 weights, repacked into int4 and int8 formats vLLM serves on TPU. On one v5e chip the repacks serve every size from E2B to 26B, read the suite level with bf16 through 12B, score up to 2.4 points above Google's own 4-bit exports at the same speed, and put 12B on the chip at 11.31 GiB and 675 output tokens per second.",
-      "tags": [
-        "gemma",
-        "googlecloud",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
@@ -2844,7 +2820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 685,
       "user": "elstongun"
     },
     {
@@ -3042,21 +3018,6 @@
       "user": "Mahadev"
     },
     {
-      "title": "India rejects Elon Musk&#8217;s claim of discrimination over Starlink launch",
-      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-      "published_at": "2026-10-08T06:14:11.000Z",
-      "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-      "tags": [
-        "Government & Policy",
-        "Space",
-        "SpaceX",
-        "Starlink"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
       "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
       "published_at": "2026-10-06T05:02:57.000Z",
@@ -3188,21 +3149,6 @@
       "user": "pabs3"
     },
     {
-      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "published_at": "2026-10-02T09:57:40Z",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
-      "source": "GitHub",
-      "stars": 2200,
-      "user": "QingYunA"
-    },
-    {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "published_at": "2026-10-06T04:49:37Z",
@@ -3214,8 +3160,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2007,
+      "stars": 2309,
       "user": "alchaincyf"
+    },
+    {
+      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "published_at": "2026-10-02T09:57:40Z",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
+      "source": "GitHub",
+      "stars": 2306,
+      "user": "QingYunA"
     },
     {
       "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
@@ -3229,7 +3190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 983,
       "user": "sganggs"
     },
     {
@@ -3244,7 +3205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 438,
       "user": "allenv0"
     },
     {
@@ -3259,7 +3220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 428,
       "user": "GTKottman"
     },
     {
@@ -3274,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 991,
       "user": "Jakeschincariol"
     },
     {
@@ -3289,23 +3250,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 536,
       "user": "szabadkai"
-    },
-    {
-      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
-      "published_at": "2026-10-02T01:03:55Z",
-      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
-      "source": "GitHub",
-      "stars": 507,
-      "user": "zzzz7788990213-ops"
     },
     {
       "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
@@ -3319,8 +3265,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 517,
       "user": "BQ-Wang0511"
+    },
+    {
+      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "published_at": "2026-10-02T01:03:55Z",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
+      "source": "GitHub",
+      "stars": 508,
+      "user": "zzzz7788990213-ops"
     },
     {
       "title": "Vincentwei1021/mg-styles-15 - 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
@@ -3334,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 462,
       "user": "Vincentwei1021"
     },
     {
@@ -3349,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1054,
       "user": "mizorewww"
     },
     {
@@ -3364,8 +3325,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 583,
       "user": "jiwoochris"
+    },
+    {
+      "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "published_at": "2026-10-08T05:33:06Z",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
+      "source": "GitHub",
+      "stars": 485,
+      "user": "mhtsec"
     },
     {
       "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
@@ -3379,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/338831274?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "Stellar-Pathfinder"
     },
     {
@@ -3398,21 +3374,6 @@
       "user": "egoist"
     },
     {
-      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
-      "published_at": "2026-10-03T15:08:10Z",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
-      "source": "GitHub",
-      "stars": 106,
-      "user": "MatinSenPai"
-    },
-    {
       "title": "kargulstudio/sales-crm - GitHub Repository",
       "url": "https://github.com/kargulstudio/sales-crm",
       "published_at": "2026-10-04T10:55:58Z",
@@ -3424,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1643,
+      "stars": 1649,
       "user": "kargulstudio"
     },
     {
@@ -3439,8 +3400,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 757,
       "user": "rauchg"
+    },
+    {
+      "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "url": "https://github.com/bas3line/ascii",
+      "published_at": "2026-10-07T06:48:54Z",
+      "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
+      "source": "GitHub",
+      "stars": 513,
+      "user": "bas3line"
     },
     {
       "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
@@ -3454,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 502,
       "user": "whirlchat"
     },
     {
@@ -3469,38 +3445,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 491,
       "user": "shinshin86"
-    },
-    {
-      "title": "genex-games/genex-desktop - Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "url": "https://github.com/genex-games/genex-desktop",
-      "published_at": "2026-10-02T17:17:59Z",
-      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
-      "source": "GitHub",
-      "stars": 419,
-      "user": "genex-games"
-    },
-    {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
-      "source": "GitHub",
-      "stars": 673,
-      "user": "elstongun"
     },
     {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
@@ -3514,8 +3460,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 777,
       "user": "nullmoth"
+    },
+    {
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "source": "GitHub",
+      "stars": 685,
+      "user": "elstongun"
     },
     {
       "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
@@ -3529,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 630,
       "user": "pingdotgg"
     },
     {
@@ -3544,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 589,
       "user": "storytold"
     },
     {
@@ -3559,20 +3520,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 523,
       "user": "storytold"
-    },
-    {
-      "title": "Creating distro build tooling for a small community",
-      "url": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
-      "published_at": "2026-10-07T11:23:03.781-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "linux"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "q66"
     },
     {
       "title": "K6 - Split dataset among VUs without overlap",
@@ -3594,7 +3543,7 @@
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "json",
@@ -3618,18 +3567,20 @@
       "user": "Anna Montare"
     },
     {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "published_at": "2026-10-07T18:15:28.000Z",
-      "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "title": "Uber and China&#8217;s Pony.ai plan to launch robotaxis in London",
+      "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+      "published_at": "2026-10-08T12:53:39.000Z",
+      "description": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
       "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI"
+        "Transportation",
+        "autonomous vehicles",
+        "London",
+        "Pony.ai",
+        "robotaxis"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "user": "Kirsten Korosec"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
