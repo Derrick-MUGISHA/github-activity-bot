@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
-      "published_at": "2026-10-07T01:00:03Z",
-      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
-      "tags": [
-        "googlecloud",
-        "cloud",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
-      "source": "Dev.to",
-      "user": "Ruchika Goel"
-    },
-    {
       "title": "Claude Haiku 5.5 is available on Google Cloud",
       "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
       "published_at": "2026-10-07T18:06:52Z",
@@ -42,6 +27,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fsubstack-destination%2Fcover.325bdb37.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
+      "published_at": "2026-10-07T01:00:03Z",
+      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "source": "Dev.to",
+      "user": "Ruchika Goel"
     },
     {
       "title": "Activating Your Data Layer for Production-Ready AI",
@@ -191,21 +191,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "A wine cellar that remembers what you used to believe",
-      "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
-      "published_at": "2026-09-30T22:49:21Z",
-      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...",
-      "tags": [
-        "sanitychallenge",
-        "devchallenge",
-        "ai",
-        "sanity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n2dqcxgghv78nz0rtoq.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
       "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
       "published_at": "2026-09-23T11:31:31Z",
@@ -219,6 +204,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
       "source": "Dev.to",
       "user": "Mika Flowers"
+    },
+    {
+      "title": "A wine cellar that remembers what you used to believe",
+      "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
+      "published_at": "2026-09-30T22:49:21Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...",
+      "tags": [
+        "sanitychallenge",
+        "devchallenge",
+        "ai",
+        "sanity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n2dqcxgghv78nz0rtoq.png",
+      "source": "Dev.to",
+      "user": "Ken W Alger"
     },
     {
       "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
@@ -713,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2058,
+      "stars": 2200,
       "user": "QingYunA"
     },
     {
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1656,
+      "stars": 2007,
       "user": "alchaincyf"
     },
     {
@@ -743,8 +743,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 431,
       "user": "allenv0"
+    },
+    {
+      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-05T11:03:06Z",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "source": "GitHub",
+      "stars": 511,
+      "user": "szabadkai"
     },
     {
       "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
@@ -762,21 +777,6 @@
       "user": "zzzz7788990213-ops"
     },
     {
-      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font",
-      "published_at": "2026-10-05T11:03:06Z",
-      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "szabadkai"
-    },
-    {
       "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "url": "https://github.com/jiwoochris/artex-ko",
       "published_at": "2026-10-03T14:49:48Z",
@@ -788,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 352,
       "user": "jiwoochris"
     },
     {
@@ -818,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "MatinSenPai"
     },
     {
@@ -833,7 +833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "whirlchat"
     },
     {
@@ -848,7 +848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 419,
       "user": "genex-games"
     },
     {
@@ -863,7 +863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 572,
       "user": "nullmoth"
     },
     {
@@ -878,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 338,
       "user": "storytold"
     },
     {
@@ -896,6 +896,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Saad"
+    },
+    {
+      "title": "India rejects Elon Musk&#8217;s claim of discrimination over Starlink launch",
+      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "published_at": "2026-10-08T06:14:11.000Z",
+      "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+      "tags": [
+        "Government & Policy",
+        "Space",
+        "SpaceX",
+        "Starlink"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
@@ -1015,6 +1030,19 @@
       "user": "Anthony Ha"
     },
     {
+      "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
+      "url": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
+      "published_at": "2026-10-08T02:02:35.000Z",
+      "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
+      "tags": [
+        "AI Model",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
       "url": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
       "published_at": "2026-10-06T06:12:53.000Z",
@@ -1123,22 +1151,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "How to Separate Operational Intent from the Executor",
-      "url": "https://www.freecodecamp.org/news/separate-operational-intent-from-executor/",
-      "published_at": "2026-10-04T12:11:02.000Z",
-      "description": "In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "Artificial Intelligence",
-        "TypeScript",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "JavaScript": [
@@ -1304,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2058,
+      "stars": 2200,
       "user": "QingYunA"
     },
     {
@@ -1319,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1656,
+      "stars": 2007,
       "user": "alchaincyf"
     },
     {
@@ -1334,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 946,
       "user": "sganggs"
     },
     {
@@ -1349,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 431,
       "user": "allenv0"
     },
     {
@@ -1364,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 403,
       "user": "GTKottman"
     },
     {
@@ -1379,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1636,
+      "stars": 1643,
       "user": "kargulstudio"
     },
     {
@@ -1394,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 747,
       "user": "rauchg"
     },
     {
@@ -1409,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "whirlchat"
     },
     {
@@ -1424,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 472,
       "user": "shinshin86"
     },
     {
@@ -1439,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 419,
       "user": "genex-games"
     },
     {
@@ -1454,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 673,
       "user": "elstongun"
     },
     {
@@ -1469,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 545,
       "user": "pingdotgg"
     },
     {
@@ -1491,7 +1503,7 @@
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
       "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
       "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "python",
@@ -1523,7 +1535,7 @@
       "title": "concept about AJAX",
       "url": "https://stackoverflow.com/questions/80008426/concept-about-ajax",
       "published_at": "2026-10-07T09:27:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "advice",
         "javascript",
@@ -1564,6 +1576,22 @@
       "user": "Rayane Nouni"
     },
     {
+      "title": "K6 - Split dataset among VUs without overlap",
+      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
+      "published_at": "2026-09-25T14:21:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "performance",
+        "go",
+        "testing",
+        "k6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Antares"
+    },
+    {
       "title": "Using async/await with a forEach loop",
       "url": "https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop",
       "published_at": "2016-06-01T18:55:58.000Z",
@@ -1596,7 +1624,7 @@
       "title": "How to enforce server-side file validation when using Supabase Storage client-side upload in Next.js?",
       "url": "https://stackoverflow.com/questions/79941971/how-to-enforce-server-side-file-validation-when-using-supabase-storage-client-si",
       "published_at": "2026-05-15T22:03:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "typescript",
@@ -1609,24 +1637,10 @@
       "user": "Mahadev"
     },
     {
-      "title": "Video player with a menu",
-      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu",
-      "published_at": "2026-05-06T22:02:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "html5-video"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "x ox"
-    },
-    {
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "json",
@@ -1666,22 +1680,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Solomon Amos"
-    },
-    {
-      "title": "How to Separate Operational Intent from the Executor",
-      "url": "https://www.freecodecamp.org/news/separate-operational-intent-from-executor/",
-      "published_at": "2026-10-04T12:11:02.000Z",
-      "description": "In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "Artificial Intelligence",
-        "TypeScript",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "Python": [
@@ -1892,8 +1890,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 924,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-05T11:03:06Z",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "source": "GitHub",
+      "stars": 511,
+      "user": "szabadkai"
     },
     {
       "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
@@ -1911,21 +1924,6 @@
       "user": "zzzz7788990213-ops"
     },
     {
-      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font",
-      "published_at": "2026-10-05T11:03:06Z",
-      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "szabadkai"
-    },
-    {
       "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
       "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
       "published_at": "2026-10-04T05:57:06Z",
@@ -1937,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 481,
       "user": "BQ-Wang0511"
     },
     {
@@ -1952,14 +1950,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 436,
       "user": "Vincentwei1021"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
       "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
       "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "python",
@@ -1972,10 +1970,25 @@
       "user": "gh0st_dancing"
     },
     {
+      "title": "User Application doesn't start on the RFID Reader Zebra FX7500",
+      "url": "https://stackoverflow.com/questions/80008610/user-application-doesnt-start-on-the-rfid-reader-zebra-fx7500",
+      "published_at": "2026-10-08T06:22:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "shell",
+        "rfid",
+        "zebra-rfid-sdk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rafal S"
+    },
+    {
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "json",
@@ -1989,7 +2002,7 @@
       "title": "CS50s finance - stuck at : buy handles valid purchase",
       "url": "https://stackoverflow.com/questions/80008526/cs50s-finance-stuck-at-buy-handles-valid-purchase",
       "published_at": "2026-10-07T17:31:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "cs50"
@@ -2083,20 +2096,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Le Autodidact"
-    },
-    {
-      "title": "Nubra ref_id is different in UAT and PROD: how to look up a NIFTY option ref_id by strike and expiry",
-      "url": "https://stackoverflow.com/questions/80008188/nubra-ref-id-is-different-in-uat-and-prod-how-to-look-up-a-nifty-option-ref-id",
-      "published_at": "2026-10-06T09:57:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "trading",
-        "uat"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naira"
     }
   ],
   "DevOps": [
@@ -2265,22 +2264,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chirag Agrawal"
-    },
-    {
-      "title": "How to Separate Operational Intent from the Executor",
-      "url": "https://www.freecodecamp.org/news/separate-operational-intent-from-executor/",
-      "published_at": "2026-10-04T12:11:02.000Z",
-      "description": "In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "Artificial Intelligence",
-        "TypeScript",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "WebDev": [
@@ -2323,14 +2306,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2058,
+      "stars": 2200,
       "user": "QingYunA"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
       "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
       "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "python",
@@ -2357,20 +2340,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "four-eyes"
-    },
-    {
-      "title": "Video player with a menu",
-      "url": "https://stackoverflow.com/questions/79937260/video-player-with-a-menu",
-      "published_at": "2026-05-06T22:02:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "html5-video"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "x ox"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2506,7 +2475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "MatinSenPai"
     },
     {
@@ -2571,6 +2540,19 @@
       "user": "Martin Omander"
     },
     {
+      "title": "Claude Haiku 5.5 is available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
+      "published_at": "2026-10-07T18:06:52Z",
+      "description": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
+      "tags": [
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
       "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
       "published_at": "2026-10-07T01:00:03Z",
@@ -2584,19 +2566,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
       "source": "Dev.to",
       "user": "Ruchika Goel"
-    },
-    {
-      "title": "Claude Haiku 5.5 is available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
-      "published_at": "2026-10-07T18:06:52Z",
-      "description": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
-      "tags": [
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Activating Your Data Layer for Production-Ready AI",
@@ -2875,14 +2844,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 673,
       "user": "elstongun"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
       "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
       "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "python",
@@ -3060,7 +3029,7 @@
       "title": "How to enforce server-side file validation when using Supabase Storage client-side upload in Next.js?",
       "url": "https://stackoverflow.com/questions/79941971/how-to-enforce-server-side-file-validation-when-using-supabase-storage-client-si",
       "published_at": "2026-05-15T22:03:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "typescript",
@@ -3073,19 +3042,19 @@
       "user": "Mahadev"
     },
     {
-      "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
-      "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
-      "published_at": "2026-10-07T17:04:46.000Z",
-      "description": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
+      "title": "India rejects Elon Musk&#8217;s claim of discrimination over Starlink launch",
+      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+      "published_at": "2026-10-08T06:14:11.000Z",
+      "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
       "tags": [
         "Government & Policy",
-        "Security",
-        "Central Intelligence Agency",
-        "department of justice"
+        "Space",
+        "SpaceX",
+        "Starlink"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
@@ -3230,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
       "source": "GitHub",
-      "stars": 2058,
+      "stars": 2200,
       "user": "QingYunA"
     },
     {
@@ -3245,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1656,
+      "stars": 2007,
       "user": "alchaincyf"
     },
     {
@@ -3260,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 946,
       "user": "sganggs"
     },
     {
@@ -3275,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 431,
       "user": "allenv0"
     },
     {
@@ -3290,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 403,
       "user": "GTKottman"
     },
     {
@@ -3305,8 +3274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 924,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-05T11:03:06Z",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "source": "GitHub",
+      "stars": 511,
+      "user": "szabadkai"
     },
     {
       "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
@@ -3324,21 +3308,6 @@
       "user": "zzzz7788990213-ops"
     },
     {
-      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font",
-      "published_at": "2026-10-05T11:03:06Z",
-      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "szabadkai"
-    },
-    {
       "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
       "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
       "published_at": "2026-10-04T05:57:06Z",
@@ -3350,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 481,
       "user": "BQ-Wang0511"
     },
     {
@@ -3365,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 436,
       "user": "Vincentwei1021"
     },
     {
@@ -3380,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 1011,
       "user": "mizorewww"
     },
     {
@@ -3395,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 352,
       "user": "jiwoochris"
     },
     {
@@ -3440,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "MatinSenPai"
     },
     {
@@ -3455,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1636,
+      "stars": 1643,
       "user": "kargulstudio"
     },
     {
@@ -3470,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 747,
       "user": "rauchg"
     },
     {
@@ -3485,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "whirlchat"
     },
     {
@@ -3500,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 472,
       "user": "shinshin86"
     },
     {
@@ -3515,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329987112?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 419,
       "user": "genex-games"
     },
     {
@@ -3530,23 +3499,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 673,
       "user": "elstongun"
-    },
-    {
-      "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "published_at": "2026-10-07T05:17:07Z",
-      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
-      "source": "GitHub",
-      "stars": 452,
-      "user": "pingdotgg"
     },
     {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
@@ -3560,8 +3514,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 572,
       "user": "nullmoth"
+    },
+    {
+      "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "published_at": "2026-10-07T05:17:07Z",
+      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
+      "source": "GitHub",
+      "stars": 545,
+      "user": "pingdotgg"
     },
     {
       "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
@@ -3575,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 368,
       "user": "storytold"
     },
     {
@@ -3590,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 338,
       "user": "storytold"
     },
     {
@@ -3606,10 +3575,26 @@
       "user": "q66"
     },
     {
+      "title": "K6 - Split dataset among VUs without overlap",
+      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
+      "published_at": "2026-09-25T14:21:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "performance",
+        "go",
+        "testing",
+        "k6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Antares"
+    },
+    {
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "json",
