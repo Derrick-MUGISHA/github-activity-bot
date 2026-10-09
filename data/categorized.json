@@ -61,21 +61,6 @@
       "user": "Ruchika Goel"
     },
     {
-      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
-      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
-      "published_at": "2026-10-06T15:09:17Z",
-      "description": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Strands agent and measured on the same day with the same prompts.",
-      "tags": [
-        "aws",
-        "ai",
-        "machinelearning",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Claude Haiku 5.5 is available on Google Cloud",
       "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
       "published_at": "2026-10-07T18:06:52Z",
@@ -144,6 +129,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
       "source": "Dev.to",
       "user": "Gleb Otochkin"
+    },
+    {
+      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
+      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
+      "published_at": "2026-10-06T15:09:17Z",
+      "description": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Strands agent and measured on the same day with the same prompts.",
+      "tags": [
+        "aws",
+        "ai",
+        "machinelearning",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "MCP Configuration for Google Workspace with Claude Code",
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2613,
       "user": "alchaincyf"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 447,
       "user": "allenv0"
     },
     {
@@ -758,7 +758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 339,
       "user": "gr8rstudio"
     },
     {
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 701,
       "user": "LosaLosSantos"
     },
     {
@@ -788,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 565,
       "user": "szabadkai"
     },
     {
@@ -803,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 1268,
       "user": "mhtsec"
     },
     {
@@ -818,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 762,
       "user": "jiwoochris"
     },
     {
@@ -848,8 +848,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "MatinSenPai"
+    },
+    {
+      "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "published_at": "2026-10-08T17:44:43Z",
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
+      "source": "GitHub",
+      "stars": 322,
+      "user": "ThariqS"
     },
     {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
@@ -863,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 1076,
+      "stars": 1402,
       "user": "nullmoth"
     },
     {
@@ -878,7 +893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 912,
       "user": "storytold"
     },
     {
@@ -1339,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2613,
       "user": "alchaincyf"
     },
     {
@@ -1354,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 823,
       "user": "shadany7824"
     },
     {
@@ -1369,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 476,
       "user": "GTKottman"
     },
     {
@@ -1384,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 447,
       "user": "allenv0"
     },
     {
@@ -1399,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 339,
       "user": "gr8rstudio"
     },
     {
@@ -1414,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 701,
       "user": "LosaLosSantos"
     },
     {
@@ -1429,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1658,
+      "stars": 1659,
       "user": "kargulstudio"
     },
     {
@@ -1444,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "rauchg"
     },
     {
@@ -1459,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 623,
       "user": "bas3line"
     },
     {
@@ -1474,23 +1489,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 519,
       "user": "shinshin86"
     },
     {
-      "title": "TannerMidd/pi-pocket - A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-      "url": "https://github.com/TannerMidd/pi-pocket",
-      "published_at": "2026-10-04T02:29:57Z",
-      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "published_at": "2026-10-08T17:44:43Z",
+      "description": "Claude generates a daily new tab page based on your browser history.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2380471?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 280,
-      "user": "TannerMidd"
+      "stars": 322,
+      "user": "ThariqS"
     },
     {
       "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
@@ -1504,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 732,
       "user": "pingdotgg"
     },
     {
@@ -1519,14 +1534,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 698,
       "user": "elstongun"
+    },
+    {
+      "title": "How do I create a windows app in [NodeJS]",
+      "url": "https://stackoverflow.com/questions/80008821/how-do-i-create-a-windows-app-in-nodejs",
+      "published_at": "2026-10-09T03:46:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "node.js",
+        "windows",
+        "node-modules"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loliland Wizard"
     },
     {
       "title": "How to function in Node.js without libraries",
       "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
       "published_at": "2026-10-08T23:20:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -1542,7 +1572,7 @@
       "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
       "url": "https://stackoverflow.com/questions/80008787/why-do-some-tags-i-am-passing-into-createcontextualfragment-not-appear-as-elemen",
       "published_at": "2026-10-08T20:45:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "dom",
@@ -1557,7 +1587,7 @@
       "title": "Understand REGEX with options",
       "url": "https://stackoverflow.com/questions/80008759/understand-regex-with-options",
       "published_at": "2026-10-08T17:50:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "advice",
         "javascript",
@@ -1571,7 +1601,7 @@
       "title": "An exception in vanilla JS due to some error—I don't know which one",
       "url": "https://stackoverflow.com/questions/80008750/an-exception-in-vanilla-js-due-to-some-error-i-dont-know-which-one",
       "published_at": "2026-10-08T17:09:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript"
       ],
@@ -1583,7 +1613,7 @@
       "title": "In chrome console \"cannot read properties of undefined\"",
       "url": "https://stackoverflow.com/questions/80008618/in-chrome-console-cannot-read-properties-of-undefined",
       "published_at": "2026-10-08T06:52:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript"
       ],
@@ -1651,22 +1681,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mohammad javad moridi"
-    },
-    {
-      "title": "K6 - Split dataset among VUs without overlap",
-      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
-      "published_at": "2026-09-25T14:21:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "performance",
-        "go",
-        "testing",
-        "k6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Antares"
     },
     {
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
@@ -1920,8 +1934,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1148,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "published_at": "2026-10-06T15:09:33Z",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
+      "source": "GitHub",
+      "stars": 879,
+      "user": "zhongerxin"
     },
     {
       "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
@@ -1935,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 701,
       "user": "LosaLosSantos"
     },
     {
@@ -1950,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 565,
       "user": "szabadkai"
     },
     {
@@ -1965,23 +1994,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 550,
       "user": "BQ-Wang0511"
-    },
-    {
-      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "url": "https://github.com/zhongerxin/iPhone-use",
-      "published_at": "2026-10-06T15:09:33Z",
-      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "zhongerxin"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
@@ -1998,6 +2012,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "Merge Two Celery Tasks",
+      "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
+      "published_at": "2026-10-09T05:22:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "celery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sandi"
     },
     {
       "title": "How can I preserve ID3 metadata when converting audio files to MP3 in Python?",
@@ -2027,6 +2054,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "Creating a IntegrityError for testing purposes",
+      "url": "https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes",
+      "published_at": "2026-10-07T16:45:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "django"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anna Montare"
     },
     {
       "title": "How to place a limit buy with an attached stop-loss and target in Nubra V3 (which executionMode?)",
@@ -2115,19 +2155,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SpiritForge Ministry"
-    },
-    {
-      "title": "Creating a IntegrityError for testing purposes",
-      "url": "https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes",
-      "published_at": "2026-10-07T16:45:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "django"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anna Montare"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2296,6 +2323,19 @@
       "user": "jknupp"
     },
     {
+      "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+      "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+      "published_at": "2026-10-08T14:06:25.805-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
+    },
+    {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
       "url": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
       "published_at": "2026-10-06T06:12:53.000Z",
@@ -2352,14 +2392,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 623,
       "user": "bas3line"
     },
     {
       "title": "How to function in Node.js without libraries",
       "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
       "published_at": "2026-10-08T23:20:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2375,7 +2415,7 @@
       "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
       "url": "https://stackoverflow.com/questions/80008787/why-do-some-tags-i-am-passing-into-createcontextualfragment-not-appear-as-elemen",
       "published_at": "2026-10-08T20:45:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "dom",
@@ -2567,23 +2607,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "TannerMidd/pi-pocket - A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-      "url": "https://github.com/TannerMidd/pi-pocket",
-      "published_at": "2026-10-04T02:29:57Z",
-      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2380471?v=4",
-      "source": "GitHub",
-      "stars": 280,
-      "user": "TannerMidd"
     },
     {
       "title": "Routing global Android bluetooth button presses into app to toggle a specific function",
@@ -2631,21 +2656,6 @@
       "user": "Martin Omander"
     },
     {
-      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
-      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
-      "published_at": "2026-10-06T15:09:17Z",
-      "description": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Strands agent and measured on the same day with the same prompts.",
-      "tags": [
-        "aws",
-        "ai",
-        "machinelearning",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Claude Haiku 5.5 is available on Google Cloud",
       "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
       "published_at": "2026-10-07T18:06:52Z",
@@ -2684,6 +2694,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
       "source": "Dev.to",
       "user": "Gleb Otochkin"
+    },
+    {
+      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
+      "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
+      "published_at": "2026-10-06T15:09:17Z",
+      "description": "A step by step survey of six ways to serve a model on AWS, from a managed API to your own Neuron chip, driven by one Strands agent and measured on the same day with the same prompts.",
+      "tags": [
+        "aws",
+        "ai",
+        "machinelearning",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Faws-inference-strands%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.f3c999ed.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
@@ -2906,7 +2931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 698,
       "user": "elstongun"
     },
     {
@@ -3075,17 +3100,17 @@
       "user": "ewenjo"
     },
     {
-      "title": "Calling a function in C without naming it",
-      "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
-      "published_at": "2026-10-07T13:15:02.307-05:00",
+      "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+      "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+      "published_at": "2026-10-08T14:06:25.805-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "c",
+        "devops",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "mrnossiom"
+      "user": "fanf"
     },
     {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
@@ -3245,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2613,
       "user": "alchaincyf"
     },
     {
@@ -3260,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 823,
       "user": "shadany7824"
     },
     {
@@ -3275,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 476,
       "user": "GTKottman"
     },
     {
@@ -3290,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 447,
       "user": "allenv0"
     },
     {
@@ -3305,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 339,
       "user": "gr8rstudio"
     },
     {
@@ -3320,8 +3345,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1148,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "published_at": "2026-10-06T15:09:33Z",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
+      "source": "GitHub",
+      "stars": 879,
+      "user": "zhongerxin"
     },
     {
       "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
@@ -3335,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 701,
       "user": "LosaLosSantos"
     },
     {
@@ -3350,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 565,
       "user": "szabadkai"
     },
     {
@@ -3365,23 +3405,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 550,
       "user": "BQ-Wang0511"
-    },
-    {
-      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "url": "https://github.com/zhongerxin/iPhone-use",
-      "published_at": "2026-10-06T15:09:33Z",
-      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "zhongerxin"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -3395,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 1268,
       "user": "mhtsec"
     },
     {
@@ -3410,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 762,
       "user": "jiwoochris"
     },
     {
@@ -3440,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "MatinSenPai"
     },
     {
@@ -3470,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1658,
+      "stars": 1659,
       "user": "kargulstudio"
     },
     {
@@ -3485,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "rauchg"
     },
     {
@@ -3500,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 623,
       "user": "bas3line"
     },
     {
@@ -3515,23 +3540,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 519,
       "user": "shinshin86"
     },
     {
-      "title": "TannerMidd/pi-pocket - A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-      "url": "https://github.com/TannerMidd/pi-pocket",
-      "published_at": "2026-10-04T02:29:57Z",
-      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "published_at": "2026-10-08T17:44:43Z",
+      "description": "Claude generates a daily new tab page based on your browser history.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2380471?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 280,
-      "user": "TannerMidd"
+      "stars": 322,
+      "user": "ThariqS"
     },
     {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
@@ -3545,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 1076,
+      "stars": 1402,
       "user": "nullmoth"
     },
     {
@@ -3560,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 971,
       "user": "storytold"
     },
     {
@@ -3575,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 912,
       "user": "storytold"
     },
     {
@@ -3590,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 732,
       "user": "pingdotgg"
     },
     {
@@ -3605,24 +3630,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 698,
       "user": "elstongun"
     },
     {
-      "title": "K6 - Split dataset among VUs without overlap",
-      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
-      "published_at": "2026-09-25T14:21:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Creating a IntegrityError for testing purposes",
+      "url": "https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes",
+      "published_at": "2026-10-07T16:45:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "javascript",
-        "performance",
-        "go",
-        "testing",
-        "k6"
+        "python",
+        "django"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Antares"
+      "user": "Anna Montare"
     },
     {
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
@@ -3637,19 +3659,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eternity_Fox"
-    },
-    {
-      "title": "Creating a IntegrityError for testing purposes",
-      "url": "https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes",
-      "published_at": "2026-10-07T16:45:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "django"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anna Montare"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
