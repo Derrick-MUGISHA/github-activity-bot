@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
+      "published_at": "2026-10-08T20:00:18Z",
+      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "tags": [
+        "ai",
+        "gemini",
+        "testing",
+        "jev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
+      "source": "Dev.to",
+      "user": "Swift"
+    },
+    {
       "title": "Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?",
       "url": "https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01",
       "published_at": "2026-10-08T15:59:16Z",
@@ -713,23 +728,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2399,
+      "stars": 2433,
       "user": "alchaincyf"
     },
     {
-      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "published_at": "2026-10-02T09:57:40Z",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "published_at": "2026-10-03T16:11:55Z",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 2319,
-      "user": "QingYunA"
+      "stars": 446,
+      "user": "allenv0"
+    },
+    {
+      "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "url": "https://github.com/gr8rstudio/gr8r-studio",
+      "published_at": "2026-10-07T11:44:07Z",
+      "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "gr8rstudio"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "published_at": "2026-10-06T20:14:19Z",
+      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
+      "source": "GitHub",
+      "stars": 699,
+      "user": "LosaLosSantos"
     },
     {
       "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
@@ -743,38 +788,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 556,
       "user": "szabadkai"
-    },
-    {
-      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
-      "published_at": "2026-10-02T01:03:55Z",
-      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
-      "source": "GitHub",
-      "stars": 508,
-      "user": "zzzz7788990213-ops"
-    },
-    {
-      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/jiwoochris/artex-ko",
-      "published_at": "2026-10-03T14:49:48Z",
-      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
-      "source": "GitHub",
-      "stars": 665,
-      "user": "jiwoochris"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -788,8 +803,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 712,
       "user": "mhtsec"
+    },
+    {
+      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "published_at": "2026-10-03T14:49:48Z",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
+      "source": "GitHub",
+      "stars": 687,
+      "user": "jiwoochris"
     },
     {
       "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
@@ -807,19 +837,19 @@
       "user": "Stellar-Pathfinder"
     },
     {
-      "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "url": "https://github.com/whirlchat/whirl",
-      "published_at": "2026-10-02T13:50:42Z",
-      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "published_at": "2026-10-03T15:08:10Z",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 502,
-      "user": "whirlchat"
+      "stars": 110,
+      "user": "MatinSenPai"
     },
     {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
@@ -833,7 +863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 1076,
       "user": "nullmoth"
     },
     {
@@ -848,24 +878,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 755,
       "user": "storytold"
     },
     {
-      "title": "Using async/await with a forEach loop",
-      "url": "https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop",
-      "published_at": "2016-06-01T18:55:58.000Z",
-      "description": "Stack Overflow question · 35 answers · score 3353",
+      "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "published_at": "2026-10-08T12:16:42.874-05:00",
+      "description": "Autoformalisation is increasingly used to verify mathematical texts, including those generated by AI, as in OpenAI's announced proof of blow-up of solutions to the Navier-Stokes equations. In this process, an AI system translates the text from a natural language (NL) into a formal language such as Lean. Once this translation is done, the argument expressed in the formal language can easily be mechanically verified. The purpose of this article is to demonstrate why this process may offer no confidence in the original NL argument, owing to the various difficulties in performing the translation semantically faithfully. In particular, we highlight that the problem of resolving ambiguities in mathematical NL text, which is necessary in order to provide semantically faithful translation, is arbitrarily high up in the Solvability Complexity Index (SCI) hierarchy/arithmetical hierarchy (the SCI = ∞). Hence, informally, providing semantically faithful AI autoformalisation is harder than any computational problem including the Halting problem (which has SCI = 1). To demonstrate the effect of this result we provide several examples of AI mistranslations of NL statements and proofs into Lean in practice, resulting in mismatches between NL proofs and their Lean \"verifications\". These include OpenAI's announced Navier-Stokes proof. In particular, we show that the formalised Lean proof does not correspond to the NL proof of blow-up of solutions to the Navier-Stokes equations.",
       "tags": [
-        "javascript",
-        "node.js",
-        "promise",
-        "async-await",
-        "ecmascript-2017"
+        "formalmethods",
+        "math",
+        "pdf",
+        "reversing",
+        "vibecoding"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Saad"
+      "source": "Lobste.rs",
+      "user": "Corbin"
     },
     {
       "title": "I am trying to solve the 1D Bar with the help of FNO. What could be the problem and what are good ways to find it?",
@@ -882,6 +912,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kraker"
+    },
+    {
+      "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "published_at": "2026-10-08T21:00:00.000Z",
+      "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Media & Entertainment",
+        "elizabeth holmes",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -1005,36 +1051,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-      "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-      "published_at": "2026-10-08T16:45:00.000Z",
-      "description": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
-      "tags": [
-        "Startups",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "published_at": "2026-10-08T16:00:00.000Z",
-      "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "AI agents",
-        "smart rings"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
@@ -1323,38 +1339,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2399,
+      "stars": 2433,
       "user": "alchaincyf"
-    },
-    {
-      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "published_at": "2026-10-02T09:57:40Z",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
-      "source": "GitHub",
-      "stars": 2319,
-      "user": "QingYunA"
-    },
-    {
-      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "url": "https://github.com/sganggs/Stronghold-Protocol",
-      "published_at": "2026-10-02T09:38:41Z",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
-      "source": "GitHub",
-      "stars": 999,
-      "user": "sganggs"
     },
     {
       "title": "shadany7824/playgta5 - A source code for playgta5.com.",
@@ -1368,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 714,
       "user": "shadany7824"
     },
     {
@@ -1383,8 +1369,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 465,
       "user": "GTKottman"
+    },
+    {
+      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "published_at": "2026-10-03T16:11:55Z",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
+      "source": "GitHub",
+      "stars": 446,
+      "user": "allenv0"
+    },
+    {
+      "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "url": "https://github.com/gr8rstudio/gr8r-studio",
+      "published_at": "2026-10-07T11:44:07Z",
+      "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "gr8rstudio"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "published_at": "2026-10-06T20:14:19Z",
+      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
+      "source": "GitHub",
+      "stars": 699,
+      "user": "LosaLosSantos"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -1398,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1658,
       "user": "kargulstudio"
     },
     {
@@ -1413,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "rauchg"
     },
     {
@@ -1428,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 600,
       "user": "bas3line"
     },
     {
@@ -1443,38 +1474,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 506,
       "user": "shinshin86"
     },
     {
-      "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "url": "https://github.com/whirlchat/whirl",
-      "published_at": "2026-10-02T13:50:42Z",
-      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "title": "TannerMidd/pi-pocket - A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "url": "https://github.com/TannerMidd/pi-pocket",
+      "published_at": "2026-10-04T02:29:57Z",
+      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2380471?v=4",
       "source": "GitHub",
-      "stars": 502,
-      "user": "whirlchat"
-    },
-    {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
-      "source": "GitHub",
-      "stars": 693,
-      "user": "elstongun"
+      "stars": 280,
+      "user": "TannerMidd"
     },
     {
       "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
@@ -1488,14 +1504,60 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 695,
       "user": "pingdotgg"
+    },
+    {
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "source": "GitHub",
+      "stars": 694,
+      "user": "elstongun"
+    },
+    {
+      "title": "How to function in Node.js without libraries",
+      "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
+      "published_at": "2026-10-08T23:20:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "node.js",
+        "node-modules"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
+    },
+    {
+      "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
+      "url": "https://stackoverflow.com/questions/80008787/why-do-some-tags-i-am-passing-into-createcontextualfragment-not-appear-as-elemen",
+      "published_at": "2026-10-08T20:45:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "dom",
+        "html-parsing",
+        "documentfragment"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dumbass"
     },
     {
       "title": "Understand REGEX with options",
       "url": "https://stackoverflow.com/questions/80008759/understand-regex-with-options",
       "published_at": "2026-10-08T17:50:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "advice",
         "javascript",
@@ -1509,7 +1571,7 @@
       "title": "An exception in vanilla JS due to some error—I don't know which one",
       "url": "https://stackoverflow.com/questions/80008750/an-exception-in-vanilla-js-due-to-some-error-i-dont-know-which-one",
       "published_at": "2026-10-08T17:09:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript"
       ],
@@ -1521,7 +1583,7 @@
       "title": "In chrome console \"cannot read properties of undefined\"",
       "url": "https://stackoverflow.com/questions/80008618/in-chrome-console-cannot-read-properties-of-undefined",
       "published_at": "2026-10-08T06:52:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript"
       ],
@@ -1607,39 +1669,10 @@
       "user": "Antares"
     },
     {
-      "title": "Using async/await with a forEach loop",
-      "url": "https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop",
-      "published_at": "2016-06-01T18:55:58.000Z",
-      "description": "Stack Overflow question · 35 answers · score 3353",
-      "tags": [
-        "javascript",
-        "node.js",
-        "promise",
-        "async-await",
-        "ecmascript-2017"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Saad"
-    },
-    {
-      "title": "Check if a variable is a string in JavaScript",
-      "url": "https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript",
-      "published_at": "2010-10-30T14:36:34.000Z",
-      "description": "Stack Overflow question · 34 answers · score 2883",
-      "tags": [
-        "javascript",
-        "string"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Olical"
-    },
-    {
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "json",
@@ -1887,8 +1920,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1080,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "published_at": "2026-10-06T20:14:19Z",
+      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
+      "source": "GitHub",
+      "stars": 699,
+      "user": "LosaLosSantos"
     },
     {
       "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
@@ -1902,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 556,
       "user": "szabadkai"
     },
     {
@@ -1917,38 +1965,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 533,
       "user": "BQ-Wang0511"
     },
     {
-      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
-      "published_at": "2026-10-02T01:03:55Z",
-      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "published_at": "2026-10-06T15:09:33Z",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 508,
-      "user": "zzzz7788990213-ops"
-    },
-    {
-      "title": "Vincentwei1021/mg-styles-15 - 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
-      "url": "https://github.com/Vincentwei1021/mg-styles-15",
-      "published_at": "2026-10-02T09:43:06Z",
-      "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 477,
-      "user": "Vincentwei1021"
+      "stars": 344,
+      "user": "zhongerxin"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
@@ -1970,7 +2003,7 @@
       "title": "How can I preserve ID3 metadata when converting audio files to MP3 in Python?",
       "url": "https://stackoverflow.com/questions/80008773/how-can-i-preserve-id3-metadata-when-converting-audio-files-to-mp3-in-python",
       "published_at": "2026-10-08T19:25:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "audio",
@@ -1981,6 +2014,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "spotload"
+    },
+    {
+      "title": "Does type-checking have any runtime overhead?",
+      "url": "https://stackoverflow.com/questions/80008650/does-type-checking-have-any-runtime-overhead",
+      "published_at": "2026-10-08T10:01:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How to place a limit buy with an attached stop-loss and target in Nubra V3 (which executionMode?)",
@@ -1996,19 +2042,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naira"
-    },
-    {
-      "title": "Does type-checking have any runtime overhead?",
-      "url": "https://stackoverflow.com/questions/80008650/does-type-checking-have-any-runtime-overhead",
-      "published_at": "2026-10-08T10:01:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "I am trying to solve the 1D Bar with the help of FNO. What could be the problem and what are good ways to find it?",
@@ -2030,7 +2063,7 @@
       "title": "User Application doesn't start on the RFID Reader Zebra FX7500",
       "url": "https://stackoverflow.com/questions/80008610/user-application-doesnt-start-on-the-rfid-reader-zebra-fx7500",
       "published_at": "2026-10-08T06:22:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "shell",
@@ -2058,7 +2091,7 @@
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "json",
@@ -2308,21 +2341,6 @@
       "user": "velmu"
     },
     {
-      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "published_at": "2026-10-02T09:57:40Z",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
-      "source": "GitHub",
-      "stars": 2319,
-      "user": "QingYunA"
-    },
-    {
       "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
       "url": "https://github.com/bas3line/ascii",
       "published_at": "2026-10-07T06:48:54Z",
@@ -2334,8 +2352,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 600,
       "user": "bas3line"
+    },
+    {
+      "title": "How to function in Node.js without libraries",
+      "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
+      "published_at": "2026-10-08T23:20:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "node.js",
+        "node-modules"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
+    },
+    {
+      "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
+      "url": "https://stackoverflow.com/questions/80008787/why-do-some-tags-i-am-passing-into-createcontextualfragment-not-appear-as-elemen",
+      "published_at": "2026-10-08T20:45:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "dom",
+        "html-parsing",
+        "documentfragment"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dumbass"
     },
     {
       "title": "When building and serving a React project, CSS classes are loaded in the wrong order",
@@ -2505,6 +2554,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "published_at": "2026-10-03T15:08:10Z",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "MatinSenPai"
+    },
+    {
+      "title": "TannerMidd/pi-pocket - A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "url": "https://github.com/TannerMidd/pi-pocket",
+      "published_at": "2026-10-04T02:29:57Z",
+      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2380471?v=4",
+      "source": "GitHub",
+      "stars": 280,
+      "user": "TannerMidd"
     },
     {
       "title": "Routing global Android bluetooth button presses into app to toggle a specific function",
@@ -2755,6 +2834,22 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev-tpu-v5e1%2Fdevto-v5e1-qat-cover.955039d5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "published_at": "2026-10-08T21:00:00.000Z",
+      "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Media & Entertainment",
+        "elizabeth holmes",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     }
   ],
   "Database": [
@@ -2811,7 +2906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 694,
       "user": "elstongun"
     },
     {
@@ -3043,6 +3138,21 @@
   ],
   "Tools": [
     {
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
+      "published_at": "2026-10-08T20:00:18Z",
+      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "tags": [
+        "ai",
+        "gemini",
+        "testing",
+        "jev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
+      "source": "Dev.to",
+      "user": "Swift"
+    },
+    {
       "title": "Publishing Markdown to Substack from an Agent Skill",
       "url": "https://dev.to/gde/publishing-markdown-to-substack-from-an-agent-skill-258f",
       "published_at": "2026-10-05T17:56:04Z",
@@ -3135,38 +3245,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2399,
+      "stars": 2433,
       "user": "alchaincyf"
-    },
-    {
-      "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "published_at": "2026-10-02T09:57:40Z",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41177312?v=4",
-      "source": "GitHub",
-      "stars": 2319,
-      "user": "QingYunA"
-    },
-    {
-      "title": "sganggs/Stronghold-Protocol - 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "url": "https://github.com/sganggs/Stronghold-Protocol",
-      "published_at": "2026-10-02T09:38:41Z",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64717086?v=4",
-      "source": "GitHub",
-      "stars": 999,
-      "user": "sganggs"
     },
     {
       "title": "shadany7824/playgta5 - A source code for playgta5.com.",
@@ -3180,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 714,
       "user": "shadany7824"
     },
     {
@@ -3195,8 +3275,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 465,
       "user": "GTKottman"
+    },
+    {
+      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "published_at": "2026-10-03T16:11:55Z",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
+      "source": "GitHub",
+      "stars": 446,
+      "user": "allenv0"
+    },
+    {
+      "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "url": "https://github.com/gr8rstudio/gr8r-studio",
+      "published_at": "2026-10-07T11:44:07Z",
+      "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
+      "source": "GitHub",
+      "stars": 334,
+      "user": "gr8rstudio"
     },
     {
       "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
@@ -3210,8 +3320,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1080,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "published_at": "2026-10-06T20:14:19Z",
+      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
+      "source": "GitHub",
+      "stars": 699,
+      "user": "LosaLosSantos"
     },
     {
       "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
@@ -3225,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 556,
       "user": "szabadkai"
     },
     {
@@ -3240,68 +3365,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 533,
       "user": "BQ-Wang0511"
     },
     {
-      "title": "zzzz7788990213-ops/EvoVLM - Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
-      "published_at": "2026-10-02T01:03:55Z",
-      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "published_at": "2026-10-06T15:09:33Z",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/246614082?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 508,
-      "user": "zzzz7788990213-ops"
-    },
-    {
-      "title": "Vincentwei1021/mg-styles-15 - 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
-      "url": "https://github.com/Vincentwei1021/mg-styles-15",
-      "published_at": "2026-10-02T09:43:06Z",
-      "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 477,
-      "user": "Vincentwei1021"
-    },
-    {
-      "title": "mizorewww/x_gift_bot - X Premium gift CLI and redemption site",
-      "url": "https://github.com/mizorewww/x_gift_bot",
-      "published_at": "2026-10-02T10:29:43Z",
-      "description": "X Premium gift CLI and redemption site",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
-      "source": "GitHub",
-      "stars": 1075,
-      "user": "mizorewww"
-    },
-    {
-      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/jiwoochris/artex-ko",
-      "published_at": "2026-10-03T14:49:48Z",
-      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
-      "source": "GitHub",
-      "stars": 665,
-      "user": "jiwoochris"
+      "stars": 344,
+      "user": "zhongerxin"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -3315,23 +3395,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 712,
       "user": "mhtsec"
     },
     {
-      "title": "cskwork/scopeweaver - ScopeWeaver: English and Korean localization of ARTEX, with preserved AGPL-3.0 attribution.",
-      "url": "https://github.com/cskwork/scopeweaver",
-      "published_at": "2026-10-02T14:58:04Z",
-      "description": "ScopeWeaver: English and Korean localization of ARTEX, with preserved AGPL-3.0 attribution.",
+      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "published_at": "2026-10-03T14:49:48Z",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76669236?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 157,
-      "user": "cskwork"
+      "stars": 687,
+      "user": "jiwoochris"
     },
     {
       "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
@@ -3349,6 +3429,36 @@
       "user": "Stellar-Pathfinder"
     },
     {
+      "title": "MatinSenPai/Gemini-Config-Checker - Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "url": "https://github.com/MatinSenPai/Gemini-Config-Checker",
+      "published_at": "2026-10-03T15:08:10Z",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "MatinSenPai"
+    },
+    {
+      "title": "egoist/godiff - Fast native diff viewer",
+      "url": "https://github.com/egoist/godiff",
+      "published_at": "2026-10-04T16:10:38Z",
+      "description": "Fast native diff viewer",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "egoist"
+    },
+    {
       "title": "kargulstudio/sales-crm - GitHub Repository",
       "url": "https://github.com/kargulstudio/sales-crm",
       "published_at": "2026-10-04T10:55:58Z",
@@ -3360,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1658,
       "user": "kargulstudio"
     },
     {
@@ -3375,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "rauchg"
     },
     {
@@ -3390,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 600,
       "user": "bas3line"
     },
     {
@@ -3405,23 +3515,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 506,
       "user": "shinshin86"
     },
     {
-      "title": "whirlchat/whirl - The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "url": "https://github.com/whirlchat/whirl",
-      "published_at": "2026-10-02T13:50:42Z",
-      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "title": "TannerMidd/pi-pocket - A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+      "url": "https://github.com/TannerMidd/pi-pocket",
+      "published_at": "2026-10-04T02:29:57Z",
+      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/336916860?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2380471?v=4",
       "source": "GitHub",
-      "stars": 502,
-      "user": "whirlchat"
+      "stars": 280,
+      "user": "TannerMidd"
     },
     {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
@@ -3435,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 1076,
       "user": "nullmoth"
     },
     {
@@ -3450,38 +3560,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 815,
       "user": "storytold"
-    },
-    {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
-      "source": "GitHub",
-      "stars": 693,
-      "user": "elstongun"
-    },
-    {
-      "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "published_at": "2026-10-07T05:17:07Z",
-      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
-      "source": "GitHub",
-      "stars": 675,
-      "user": "pingdotgg"
     },
     {
       "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
@@ -3495,8 +3575,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 755,
       "user": "storytold"
+    },
+    {
+      "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "published_at": "2026-10-07T05:17:07Z",
+      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
+      "source": "GitHub",
+      "stars": 695,
+      "user": "pingdotgg"
+    },
+    {
+      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "url": "https://github.com/elstongun/leviathan",
+      "published_at": "2026-10-05T08:57:44Z",
+      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "source": "GitHub",
+      "stars": 694,
+      "user": "elstongun"
     },
     {
       "title": "K6 - Split dataset among VUs without overlap",
@@ -3518,7 +3628,7 @@
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
       "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
       "published_at": "2026-10-07T20:54:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "json",
