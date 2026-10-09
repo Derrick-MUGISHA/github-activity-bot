@@ -46,21 +46,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
-      "published_at": "2026-10-07T01:00:03Z",
-      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
-      "tags": [
-        "googlecloud",
-        "cloud",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
-      "source": "Dev.to",
-      "user": "Ruchika Goel"
-    },
-    {
       "title": "Claude Haiku 5.5 is available on Google Cloud",
       "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
       "published_at": "2026-10-07T18:06:52Z",
@@ -100,6 +85,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fsubstack-destination%2Fcover.325bdb37.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
+      "published_at": "2026-10-07T01:00:03Z",
+      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "source": "Dev.to",
+      "user": "Ruchika Goel"
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
@@ -728,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2613,
+      "stars": 2771,
       "user": "alchaincyf"
     },
     {
@@ -743,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 450,
       "user": "allenv0"
     },
     {
@@ -758,14 +758,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 346,
       "user": "gr8rstudio"
     },
     {
-      "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "published_at": "2026-10-06T20:14:19Z",
-      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "tags": [
         "python",
         "github",
@@ -773,7 +773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 928,
       "user": "LosaLosSantos"
     },
     {
@@ -788,7 +788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 573,
       "user": "szabadkai"
     },
     {
@@ -803,7 +803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1931,
       "user": "mhtsec"
     },
     {
@@ -818,7 +818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 831,
       "user": "jiwoochris"
     },
     {
@@ -848,7 +848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "MatinSenPai"
     },
     {
@@ -863,7 +863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 411,
       "user": "ThariqS"
     },
     {
@@ -878,7 +878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 1402,
+      "stars": 1666,
       "user": "nullmoth"
     },
     {
@@ -893,7 +893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 1105,
       "user": "storytold"
     },
     {
@@ -911,22 +911,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Corbin"
-    },
-    {
-      "title": "I am trying to solve the 1D Bar with the help of FNO. What could be the problem and what are good ways to find it?",
-      "url": "https://stackoverflow.com/questions/80008632/i-am-trying-to-solve-the-1d-bar-with-the-help-of-fno-what-could-be-the-problem",
-      "published_at": "2026-10-08T08:41:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "machine-learning",
-        "pytorch",
-        "fft",
-        "training-data"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kraker"
     },
     {
       "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
@@ -1036,36 +1020,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "published_at": "2026-10-08T18:16:24.000Z",
-      "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "tags": [
-        "AI",
-        "TC",
-        "Anthropic",
-        "Claude",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "published_at": "2026-10-08T18:10:55.000Z",
-      "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "tags": [
-        "AI",
-        "mathematics",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
@@ -1354,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2613,
+      "stars": 2771,
       "user": "alchaincyf"
     },
     {
@@ -1369,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 891,
       "user": "shadany7824"
     },
     {
@@ -1384,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 494,
       "user": "GTKottman"
     },
     {
@@ -1399,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 450,
       "user": "allenv0"
     },
     {
@@ -1414,23 +1368,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 346,
       "user": "gr8rstudio"
-    },
-    {
-      "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "published_at": "2026-10-06T20:14:19Z",
-      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
-      "source": "GitHub",
-      "stars": 701,
-      "user": "LosaLosSantos"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -1444,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1667,
       "user": "kargulstudio"
     },
     {
@@ -1459,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 766,
       "user": "rauchg"
     },
     {
@@ -1474,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 644,
       "user": "bas3line"
     },
     {
@@ -1489,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 544,
       "user": "shinshin86"
     },
     {
@@ -1504,69 +1443,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 411,
       "user": "ThariqS"
     },
     {
-      "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "published_at": "2026-10-07T05:17:07Z",
-      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "title": "Deno is joining Cloudflare",
+      "url": "https://deno.com/blog/cloudflare",
+      "published_at": "2026-10-09T08:24:29.691-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "javascript"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
-      "source": "GitHub",
-      "stars": 732,
-      "user": "pingdotgg"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "andrewchou"
     },
     {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
-      "source": "GitHub",
-      "stars": 698,
-      "user": "elstongun"
-    },
-    {
-      "title": "How do I create a windows app in [NodeJS]",
-      "url": "https://stackoverflow.com/questions/80008821/how-do-i-create-a-windows-app-in-nodejs",
+      "title": "How do I create a Windows app in Node.js?",
+      "url": "https://stackoverflow.com/questions/80008821/how-do-i-create-a-windows-app-in-node-js",
       "published_at": "2026-10-09T03:46:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "node.js",
-        "windows",
-        "node-modules"
+        "windows"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loliland Wizard"
-    },
-    {
-      "title": "How to function in Node.js without libraries",
-      "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
-      "published_at": "2026-10-08T23:20:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "node.js",
-        "node-modules"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
     },
     {
       "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
@@ -1584,10 +1488,26 @@
       "user": "dumbass"
     },
     {
+      "title": "How to function in Node.js without libraries",
+      "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
+      "published_at": "2026-10-08T23:20:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "node.js",
+        "node-modules"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
+    },
+    {
       "title": "Understand REGEX with options",
       "url": "https://stackoverflow.com/questions/80008759/understand-regex-with-options",
       "published_at": "2026-10-08T17:50:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "advice",
         "javascript",
@@ -1596,18 +1516,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "StOMicha"
-    },
-    {
-      "title": "An exception in vanilla JS due to some error—I don't know which one",
-      "url": "https://stackoverflow.com/questions/80008750/an-exception-in-vanilla-js-due-to-some-error-i-dont-know-which-one",
-      "published_at": "2026-10-08T17:09:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kau&#227; Santana Jer&#244;nimo"
     },
     {
       "title": "In chrome console \"cannot read properties of undefined\"",
@@ -1620,6 +1528,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anuj Kumar"
+    },
+    {
+      "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
+      "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
+      "published_at": "2026-10-07T15:49:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "python",
+        "html",
+        "sqlite",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
     },
     {
       "title": "How to split and name Audio Hijack Recordings based on Spotify Metadata",
@@ -1653,34 +1577,35 @@
       "user": "four-eyes"
     },
     {
-      "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
-      "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
-      "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "K6 - Split dataset among VUs without overlap",
+      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
+      "published_at": "2026-09-25T14:21:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "python",
-        "html",
-        "sqlite",
-        "flask"
+        "performance",
+        "go",
+        "testing",
+        "k6"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "gh0st_dancing"
+      "user": "Antares"
     },
     {
-      "title": "concept about AJAX",
-      "url": "https://stackoverflow.com/questions/80008426/concept-about-ajax",
-      "published_at": "2026-10-07T09:27:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "title": "Traversing the DOM of a Service Now page",
+      "url": "https://stackoverflow.com/questions/80003099/traversing-the-dom-of-a-service-now-page",
+      "published_at": "2026-09-14T20:59:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "advice",
         "javascript",
-        "ajax"
+        "jquery",
+        "dom",
+        "tampermonkey"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "mohammad javad moridi"
+      "user": "user66001"
     },
     {
       "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
@@ -1923,21 +1848,6 @@
       "user": "arathore"
     },
     {
-      "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "published_at": "2026-10-03T12:07:49Z",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
-      "source": "GitHub",
-      "stars": 1148,
-      "user": "Jakeschincariol"
-    },
-    {
       "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
       "url": "https://github.com/zhongerxin/iPhone-use",
       "published_at": "2026-10-06T15:09:33Z",
@@ -1949,14 +1859,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 1389,
       "user": "zhongerxin"
     },
     {
-      "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "published_at": "2026-10-03T12:07:49Z",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
+      "source": "GitHub",
+      "stars": 1250,
+      "user": "Jakeschincariol"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "published_at": "2026-10-06T20:14:19Z",
-      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "tags": [
         "python",
         "github",
@@ -1964,23 +1889,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 928,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font",
-      "published_at": "2026-10-05T11:03:06Z",
-      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
-      "source": "GitHub",
-      "stars": 565,
-      "user": "szabadkai"
     },
     {
       "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
@@ -1994,14 +1904,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 585,
       "user": "BQ-Wang0511"
+    },
+    {
+      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-05T11:03:06Z",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "source": "GitHub",
+      "stars": 573,
+      "user": "szabadkai"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
       "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
       "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "python",
@@ -2014,10 +1939,26 @@
       "user": "gh0st_dancing"
     },
     {
-      "title": "Merge Two Celery Tasks",
+      "title": "Nubra NubraDataSocket: code after keep_running() never executes, and option subscriptions return nothing",
+      "url": "https://stackoverflow.com/questions/80008872/nubra-nubradatasocket-code-after-keep-running-never-executes-and-option-subs",
+      "published_at": "2026-10-09T09:33:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "multithreading",
+        "websocket",
+        "trading"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naira"
+    },
+    {
+      "title": "Merge two Celery tasks",
       "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
       "published_at": "2026-10-09T05:22:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "celery"
@@ -2046,7 +1987,7 @@
       "title": "Does type-checking have any runtime overhead?",
       "url": "https://stackoverflow.com/questions/80008650/does-type-checking-have-any-runtime-overhead",
       "published_at": "2026-10-08T10:01:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "python-typing"
@@ -2059,7 +2000,7 @@
       "title": "Creating a IntegrityError for testing purposes",
       "url": "https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes",
       "published_at": "2026-10-07T16:45:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "django"
@@ -2072,7 +2013,7 @@
       "title": "How to place a limit buy with an attached stop-loss and target in Nubra V3 (which executionMode?)",
       "url": "https://stackoverflow.com/questions/80008651/how-to-place-a-limit-buy-with-an-attached-stop-loss-and-target-in-nubra-v3-whic",
       "published_at": "2026-10-08T10:02:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "python-3.x",
@@ -2082,22 +2023,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naira"
-    },
-    {
-      "title": "I am trying to solve the 1D Bar with the help of FNO. What could be the problem and what are good ways to find it?",
-      "url": "https://stackoverflow.com/questions/80008632/i-am-trying-to-solve-the-1d-bar-with-the-help-of-fno-what-could-be-the-problem",
-      "published_at": "2026-10-08T08:41:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "machine-learning",
-        "pytorch",
-        "fft",
-        "training-data"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kraker"
     },
     {
       "title": "User Application doesn't start on the RFID Reader Zebra FX7500",
@@ -2118,7 +2043,7 @@
       "title": "CS50s finance - stuck at : buy handles valid purchase",
       "url": "https://stackoverflow.com/questions/80008526/cs50s-finance-stuck-at-buy-handles-valid-purchase",
       "published_at": "2026-10-07T17:31:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "cs50"
@@ -2140,21 +2065,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eternity_Fox"
-    },
-    {
-      "title": "Routing global Android bluetooth button presses into app to toggle a specific function",
-      "url": "https://stackoverflow.com/questions/80008434/routing-global-android-bluetooth-button-presses-into-app-to-toggle-a-specific-fu",
-      "published_at": "2026-10-07T10:03:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "android",
-        "kivy",
-        "gradlew"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SpiritForge Ministry"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2392,24 +2302,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 644,
       "user": "bas3line"
-    },
-    {
-      "title": "How to function in Node.js without libraries",
-      "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
-      "published_at": "2026-10-08T23:20:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "node.js",
-        "node-modules"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
     },
     {
       "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
@@ -2427,6 +2321,38 @@
       "user": "dumbass"
     },
     {
+      "title": "How to function in Node.js without libraries",
+      "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
+      "published_at": "2026-10-08T23:20:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "node.js",
+        "node-modules"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koolaid222"
+    },
+    {
+      "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
+      "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
+      "published_at": "2026-10-07T15:49:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "python",
+        "html",
+        "sqlite",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
+    },
+    {
       "title": "When building and serving a React project, CSS classes are loaded in the wrong order",
       "url": "https://stackoverflow.com/questions/80008484/when-building-and-serving-a-react-project-css-classes-are-loaded-in-the-wrong-o",
       "published_at": "2026-10-07T13:53:18.000Z",
@@ -2441,22 +2367,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "four-eyes"
-    },
-    {
-      "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
-      "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
-      "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "python",
-        "html",
-        "sqlite",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2607,41 +2517,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "Routing global Android bluetooth button presses into app to toggle a specific function",
-      "url": "https://stackoverflow.com/questions/80008434/routing-global-android-bluetooth-button-presses-into-app-to-toggle-a-specific-fu",
-      "published_at": "2026-10-07T10:03:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "android",
-        "kivy",
-        "gradlew"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SpiritForge Ministry"
     }
   ],
   "Cloud": [
-    {
-      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
-      "published_at": "2026-10-07T01:00:03Z",
-      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
-      "tags": [
-        "googlecloud",
-        "cloud",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
-      "source": "Dev.to",
-      "user": "Ruchika Goel"
-    },
     {
       "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
       "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc",
@@ -2680,6 +2560,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
+      "published_at": "2026-10-07T01:00:03Z",
+      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "source": "Dev.to",
+      "user": "Ruchika Goel"
     },
     {
       "title": "Activating Your Data Layer for Production-Ready AI",
@@ -2861,6 +2756,18 @@
       "user": "xbill"
     },
     {
+      "title": "Deno is joining Cloudflare",
+      "url": "https://deno.com/blog/cloudflare",
+      "published_at": "2026-10-09T08:24:29.691-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "andrewchou"
+    },
+    {
       "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
       "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
       "published_at": "2026-10-08T21:00:00.000Z",
@@ -2920,25 +2827,10 @@
       "user": "iancarroll"
     },
     {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
-      "source": "GitHub",
-      "stars": 698,
-      "user": "elstongun"
-    },
-    {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
       "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
       "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "python",
@@ -3113,6 +3005,22 @@
       "user": "fanf"
     },
     {
+      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+      "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+      "published_at": "2026-10-09T13:40:36.000Z",
+      "description": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "data protection",
+        "Flock"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
       "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
       "published_at": "2026-10-06T05:02:57.000Z",
@@ -3270,7 +3178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2613,
+      "stars": 2771,
       "user": "alchaincyf"
     },
     {
@@ -3285,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 891,
       "user": "shadany7824"
     },
     {
@@ -3300,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 494,
       "user": "GTKottman"
     },
     {
@@ -3315,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 450,
       "user": "allenv0"
     },
     {
@@ -3330,23 +3238,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 346,
       "user": "gr8rstudio"
-    },
-    {
-      "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "published_at": "2026-10-03T12:07:49Z",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
-      "source": "GitHub",
-      "stars": 1148,
-      "user": "Jakeschincariol"
     },
     {
       "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
@@ -3360,14 +3253,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 1389,
       "user": "zhongerxin"
     },
     {
-      "title": "LosaLosSantos/aurelio-finance - Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "url": "https://github.com/Jakeschincariol/replica-skill",
+      "published_at": "2026-10-03T12:07:49Z",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
+      "source": "GitHub",
+      "stars": 1250,
+      "user": "Jakeschincariol"
+    },
+    {
+      "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "published_at": "2026-10-06T20:14:19Z",
-      "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "tags": [
         "python",
         "github",
@@ -3375,23 +3283,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 928,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font",
-      "published_at": "2026-10-05T11:03:06Z",
-      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
-      "source": "GitHub",
-      "stars": 565,
-      "user": "szabadkai"
     },
     {
       "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
@@ -3405,8 +3298,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 585,
       "user": "BQ-Wang0511"
+    },
+    {
+      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-05T11:03:06Z",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "source": "GitHub",
+      "stars": 573,
+      "user": "szabadkai"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -3420,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 1268,
+      "stars": 1931,
       "user": "mhtsec"
     },
     {
@@ -3435,8 +3343,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 831,
       "user": "jiwoochris"
+    },
+    {
+      "title": "Hinln/ARTEX - ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+      "url": "https://github.com/Hinln/ARTEX",
+      "published_at": "2026-10-08T11:00:36Z",
+      "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
+      "source": "GitHub",
+      "stars": 208,
+      "user": "Hinln"
     },
     {
       "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
@@ -3465,23 +3388,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/99926753?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "MatinSenPai"
-    },
-    {
-      "title": "egoist/godiff - Fast native diff viewer",
-      "url": "https://github.com/egoist/godiff",
-      "published_at": "2026-10-04T16:10:38Z",
-      "description": "Fast native diff viewer",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
-      "source": "GitHub",
-      "stars": 110,
-      "user": "egoist"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -3495,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1667,
       "user": "kargulstudio"
     },
     {
@@ -3510,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 766,
       "user": "rauchg"
     },
     {
@@ -3525,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 644,
       "user": "bas3line"
     },
     {
@@ -3540,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 544,
       "user": "shinshin86"
     },
     {
@@ -3555,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 411,
       "user": "ThariqS"
     },
     {
@@ -3570,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 1402,
+      "stars": 1666,
       "user": "nullmoth"
     },
     {
@@ -3585,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 971,
+      "stars": 1237,
       "user": "storytold"
     },
     {
@@ -3600,44 +3508,60 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 1105,
       "user": "storytold"
     },
     {
-      "title": "pingdotgg/ts-rust - An experimental Rust port of the TypeScript 7 compiler (tsc)",
-      "url": "https://github.com/pingdotgg/ts-rust",
-      "published_at": "2026-10-07T05:17:07Z",
-      "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "title": "noahdunnagan/fsearch - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "published_at": "2026-10-08T17:50:33Z",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89191727?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
       "source": "GitHub",
-      "stars": 732,
-      "user": "pingdotgg"
+      "stars": 872,
+      "user": "noahdunnagan"
     },
     {
-      "title": "elstongun/leviathan - **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "published_at": "2026-10-05T08:57:44Z",
-      "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "url": "https://github.com/storytold/gridcraft",
+      "published_at": "2026-10-07T05:18:16Z",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 698,
-      "user": "elstongun"
+      "stars": 850,
+      "user": "storytold"
+    },
+    {
+      "title": "K6 - Split dataset among VUs without overlap",
+      "url": "https://stackoverflow.com/questions/80005834/k6-split-dataset-among-vus-without-overlap",
+      "published_at": "2026-09-25T14:21:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "performance",
+        "go",
+        "testing",
+        "k6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Antares"
     },
     {
       "title": "Creating a IntegrityError for testing purposes",
       "url": "https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes",
       "published_at": "2026-10-07T16:45:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "django"
@@ -3659,6 +3583,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eternity_Fox"
+    },
+    {
+      "title": "Xona&#8217;s commercial GPS alternative is about to go live",
+      "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+      "published_at": "2026-10-09T12:00:00.000Z",
+      "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+      "tags": [
+        "Space",
+        "Startups",
+        "Xona Space Systems"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
