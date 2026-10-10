@@ -16,21 +16,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
-      "published_at": "2026-10-08T20:00:18Z",
-      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "testing",
-        "jev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
-      "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
       "title": "Congrats to Our First MLH x DEV Writing Challenge Winner!",
       "url": "https://dev.to/devteam/congrats-to-our-first-mlh-x-dev-writing-challenge-winner-1c4l",
       "published_at": "2026-10-09T18:56:35Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjgsr3swidyjgd94d9f8m.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
+      "published_at": "2026-10-08T20:00:18Z",
+      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "tags": [
+        "ai",
+        "gemini",
+        "testing",
+        "jev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
+      "source": "Dev.to",
+      "user": "Swift"
     },
     {
       "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
@@ -700,8 +700,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3189,
+      "stars": 3194,
       "user": "alchaincyf"
+    },
+    {
+      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "published_at": "2026-10-10T12:55:36Z",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
+      "source": "GitHub",
+      "stars": 443,
+      "user": "marclou"
     },
     {
       "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
@@ -715,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2093,
       "user": "LosaLosSantos"
     },
     {
@@ -730,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 2885,
+      "stars": 2898,
       "user": "mhtsec"
     },
     {
@@ -760,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 680,
       "user": "ThariqS"
     },
     {
@@ -775,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2279,
       "user": "nullmoth"
     },
     {
@@ -790,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1822,
       "user": "storytold"
     },
     {
@@ -818,6 +833,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Laika"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "published_at": "2026-10-10T21:47:51.000Z",
+      "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "published_at": "2026-10-10T19:50:00.000Z",
+      "description": "Is Apple hoping to get into the AI-generated podcast business?",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Startups",
+        "Apple",
+        "Huxe"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
@@ -892,19 +937,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "published_at": "2026-10-09T19:36:56.000Z",
-      "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "tags": [
-        "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "Create Scalable AI Automations with n8n",
@@ -1190,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3189,
+      "stars": 3194,
       "user": "alchaincyf"
     },
     {
@@ -1205,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1201,
       "user": "shadany7824"
     },
     {
@@ -1220,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 542,
       "user": "GTKottman"
     },
     {
@@ -1235,23 +1267,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 506,
       "user": "wesbos"
     },
     {
-      "title": "cth9191/animate - Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
-      "url": "https://github.com/cth9191/animate",
-      "published_at": "2026-10-04T00:05:25Z",
-      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "published_at": "2026-10-10T12:55:36Z",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129889057?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 404,
-      "user": "cth9191"
+      "stars": 443,
+      "user": "marclou"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -1265,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1688,
       "user": "kargulstudio"
     },
     {
@@ -1280,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 970,
       "user": "HelixDB"
     },
     {
@@ -1295,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 776,
       "user": "rauchg"
     },
     {
@@ -1310,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 716,
       "user": "bas3line"
     },
     {
@@ -1325,8 +1357,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 680,
       "user": "ThariqS"
+    },
+    {
+      "title": "Kiesel Devlog #15: Release 0.4.0",
+      "url": "https://linus.dev/posts/kiesel-devlog-15/",
+      "published_at": "2026-10-10T12:55:46.216-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "javascript",
+        "zig"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FedericoSchonborn"
+    },
+    {
+      "title": "How can I validate a specific field in a JSON response using Postman?",
+      "url": "https://stackoverflow.com/questions/80009138/how-can-i-validate-a-specific-field-in-a-json-response-using-postman",
+      "published_at": "2026-10-10T16:40:04.000Z",
+      "description": "Stack Overflow question · 3 answers · score -4",
+      "tags": [
+        "javascript",
+        "json",
+        "postman"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad UmarHayat"
     },
     {
       "title": "How do I accurately detect gamepad button presses in JavaScript?",
@@ -1340,20 +1399,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Parking Master"
-    },
-    {
-      "title": "How can I validate a specific field in a JSON response using Postman?",
-      "url": "https://stackoverflow.com/questions/80009138/how-can-i-validate-a-specific-field-in-a-json-response-using-postman",
-      "published_at": "2026-10-10T16:40:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "javascript",
-        "json",
-        "postman"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad UmarHayat"
     },
     {
       "title": "Playing songs back to back in autoplay in a website",
@@ -1396,21 +1441,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "sunlyhuor"
-    },
-    {
-      "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
-      "url": "https://stackoverflow.com/questions/80008787/why-do-some-tags-i-am-passing-into-createcontextualfragment-not-appear-as-elemen",
-      "published_at": "2026-10-08T20:45:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "dom",
-        "html-parsing",
-        "documentfragment"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dumbass"
     },
     {
       "title": "How do I create a Windows app in Node.js?",
@@ -1472,6 +1502,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Darshilbhai Patel"
+    },
+    {
+      "title": "Why do web developers use code editors instead of writing code directly in the browser?",
+      "url": "https://stackoverflow.com/questions/79966688/why-do-web-developers-use-code-editors-instead-of-writing-code-directly-in-the-b",
+      "published_at": "2026-06-25T07:02:21.000Z",
+      "description": "Stack Overflow question · 9 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "advice"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aron tilahun"
     },
     {
       "title": "Master Modern React Routing: TanStack Router Crash Course",
@@ -1711,7 +1756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2527,
+      "stars": 2542,
       "user": "zhongerxin"
     },
     {
@@ -1726,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2093,
       "user": "LosaLosSantos"
     },
     {
@@ -1756,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 692,
       "user": "BQ-Wang0511"
     },
     {
@@ -1771,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 647,
       "user": "anthropics"
     },
     {
@@ -1807,7 +1852,7 @@
       "title": "why does my model print the value 15 times?",
       "url": "https://stackoverflow.com/questions/80009169/why-does-my-model-print-the-value-15-times",
       "published_at": "2026-10-10T18:39:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "google-colaboratory"
@@ -1834,7 +1879,7 @@
       "title": "How to get correct values from similar key names in a dictionary",
       "url": "https://stackoverflow.com/questions/80009101/how-to-get-correct-values-from-similar-key-names-in-a-dictionary",
       "published_at": "2026-10-10T12:57:56.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
+      "description": "Stack Overflow question · 2 answers · score -7",
       "tags": [
         "python",
         "dictionary"
@@ -1877,7 +1922,7 @@
       "title": "How to accurately compute ballistic trajectory with quadratic drag and plot it in a fixed-size terminal grid in Python?",
       "url": "https://stackoverflow.com/questions/80008980/how-to-accurately-compute-ballistic-trajectory-with-quadratic-drag-and-plot-it-i",
       "published_at": "2026-10-09T18:57:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "terminal",
@@ -1893,7 +1938,7 @@
       "title": "Merge two Celery tasks",
       "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
       "published_at": "2026-10-09T05:22:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "web-scraping",
@@ -1907,7 +1952,7 @@
       "title": "Does type-checking have any runtime overhead?",
       "url": "https://stackoverflow.com/questions/80008650/does-type-checking-have-any-runtime-overhead",
       "published_at": "2026-10-08T10:01:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "python-typing"
@@ -1915,22 +1960,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "How can I preserve ID3 metadata when converting audio files to MP3 in Python?",
-      "url": "https://stackoverflow.com/questions/80008773/how-can-i-preserve-id3-metadata-when-converting-audio-files-to-mp3-in-python",
-      "published_at": "2026-10-08T19:25:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "audio",
-        "metadata",
-        "mp3",
-        "id3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "spotload"
     },
     {
       "title": "Creating a IntegrityError for testing purposes",
@@ -2168,7 +2197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 716,
       "user": "bas3line"
     },
     {
@@ -2199,21 +2228,6 @@
       "user": "jctech2025"
     },
     {
-      "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
-      "url": "https://stackoverflow.com/questions/80008787/why-do-some-tags-i-am-passing-into-createcontextualfragment-not-appear-as-elemen",
-      "published_at": "2026-10-08T20:45:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "dom",
-        "html-parsing",
-        "documentfragment"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dumbass"
-    },
-    {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
       "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
       "published_at": "2026-10-07T15:49:12.000Z",
@@ -2228,6 +2242,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "Why do web developers use code editors instead of writing code directly in the browser?",
+      "url": "https://stackoverflow.com/questions/79966688/why-do-web-developers-use-code-editors-instead-of-writing-code-directly-in-the-b",
+      "published_at": "2026-06-25T07:02:21.000Z",
+      "description": "Stack Overflow question · 9 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "advice"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aron tilahun"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2380,7 +2409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 506,
       "user": "wesbos"
     }
   ],
@@ -2572,18 +2601,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fjev%2Fdevto-gemma4-l4-banner.cb16905f.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Unison Cloud is now open source",
-      "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
-      "published_at": "2026-10-09T10:32:51.176-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "release"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "bontaq"
     },
     {
       "title": "Cloudflare acquires Deno to improve its Workers programming model",
@@ -2965,7 +2982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3189,
+      "stars": 3194,
       "user": "alchaincyf"
     },
     {
@@ -2980,7 +2997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1201,
       "user": "shadany7824"
     },
     {
@@ -2995,7 +3012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 542,
       "user": "GTKottman"
     },
     {
@@ -3010,23 +3027,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 506,
       "user": "wesbos"
     },
     {
-      "title": "cth9191/animate - Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
-      "url": "https://github.com/cth9191/animate",
-      "published_at": "2026-10-04T00:05:25Z",
-      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "published_at": "2026-10-10T12:55:36Z",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129889057?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 404,
-      "user": "cth9191"
+      "stars": 443,
+      "user": "marclou"
     },
     {
       "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
@@ -3040,7 +3057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2527,
+      "stars": 2542,
       "user": "zhongerxin"
     },
     {
@@ -3055,7 +3072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2093,
       "user": "LosaLosSantos"
     },
     {
@@ -3085,7 +3102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 692,
       "user": "BQ-Wang0511"
     },
     {
@@ -3100,7 +3117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 647,
       "user": "anthropics"
     },
     {
@@ -3115,7 +3132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 2885,
+      "stars": 2898,
       "user": "mhtsec"
     },
     {
@@ -3130,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 608,
       "user": "Hinln"
     },
     {
@@ -3145,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216188?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 181,
       "user": "jdx"
     },
     {
@@ -3160,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15378127?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "alex0ptr"
     },
     {
@@ -3190,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1688,
       "user": "kargulstudio"
     },
     {
@@ -3205,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 970,
       "user": "HelixDB"
     },
     {
@@ -3220,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 776,
       "user": "rauchg"
     },
     {
@@ -3235,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 716,
       "user": "bas3line"
     },
     {
@@ -3250,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 680,
       "user": "ThariqS"
     },
     {
@@ -3265,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2966,
+      "stars": 3105,
       "user": "storytold"
     },
     {
@@ -3280,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2279,
       "user": "nullmoth"
     },
     {
@@ -3295,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1822,
       "user": "storytold"
     },
     {
@@ -3310,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1710,
+      "stars": 1797,
       "user": "storytold"
     },
     {
@@ -3325,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1602,
       "user": "noahdunnagan"
     },
     {
