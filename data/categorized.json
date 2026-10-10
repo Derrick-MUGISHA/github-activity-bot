@@ -31,36 +31,6 @@
       "user": "Swift"
     },
     {
-      "title": "Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up",
-      "url": "https://dev.to/gde/gemma-4-from-e2b-to-31b-on-an-amd-mi300x-fp8-overtakes-bf16-from-12b-up-h4e",
-      "published_at": "2026-10-09T13:46:34Z",
-      "description": "Every Gemma 4 size from E2B to 31B served on one AMD Instinct MI300X in bf16, fp8, int8 W8A8 and int4 W4A16, on the same vLLM image. fp8 goes from 0.75x bf16 for one request at E2B to 1.23x at 31B and is faster than bf16 in every cell at 12B and 31B. The mixture-of-experts 26B sits at bf16's pace, and the 4-bit builds run at 0.14x to 0.69x at every size.",
-      "tags": [
-        "gemma",
-        "amd",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Farticle-sizes%2Fdevto-mi300x-sizes-cover.2c57f68d.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
-      "url": "https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2",
-      "published_at": "2026-10-09T00:40:57Z",
-      "description": "How replacing fragile linear prompt checklists with a 50-year-old declarative build graph eliminates agent amnesia, enables seamless mid-flight session resumption, and mechanizes software engineering governance.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsj0zkh6xcpxv4otm9a2i.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Congrats to Our First MLH x DEV Writing Challenge Winner!",
       "url": "https://dev.to/devteam/congrats-to-our-first-mlh-x-dev-writing-challenge-winner-1c4l",
       "published_at": "2026-10-09T18:56:35Z",
@@ -74,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmv2812a2k7g9bk6g3lyk.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up",
+      "url": "https://dev.to/gde/gemma-4-from-e2b-to-31b-on-an-amd-mi300x-fp8-overtakes-bf16-from-12b-up-h4e",
+      "published_at": "2026-10-09T13:46:34Z",
+      "description": "Every Gemma 4 size from E2B to 31B served on one AMD Instinct MI300X in bf16, fp8, int8 W8A8 and int4 W4A16, on the same vLLM image. fp8 goes from 0.75x bf16 for one request at E2B to 1.23x at 31B and is faster than bf16 in every cell at 12B and 31B. The mixture-of-experts 26B sits at bf16's pace, and the 4-bit builds run at 0.14x to 0.69x at every size.",
+      "tags": [
+        "gemma",
+        "amd",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Farticle-sizes%2Fdevto-mi300x-sizes-cover.2c57f68d.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjgsr3swidyjgd94d9f8m.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
+      "url": "https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2",
+      "published_at": "2026-10-09T00:40:57Z",
+      "description": "How replacing fragile linear prompt checklists with a 50-year-old declarative build graph eliminates agent amnesia, enables seamless mid-flight session resumption, and mechanizes software engineering governance.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsj0zkh6xcpxv4otm9a2i.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Making cross-platform local AI easier with llamadart",
@@ -175,20 +175,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
       "source": "Dev.to",
       "user": "Ruchika Goel"
-    },
-    {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
-      "published_at": "2026-10-05T19:39:51Z",
-      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "tags": [
-        "database",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
-      "source": "Dev.to",
-      "user": "Gleb Otochkin"
     },
     {
       "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
@@ -354,6 +340,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuhjpurwtrzpxh5wsntc.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
     },
     {
       "title": "I Built a Better Codex Pet Than OpenAI Did",
@@ -700,23 +700,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3055,
+      "stars": 3128,
       "user": "alchaincyf"
-    },
-    {
-      "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
-      "url": "https://github.com/gr8rstudio/gr8r-studio",
-      "published_at": "2026-10-07T11:44:07Z",
-      "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "gr8rstudio"
     },
     {
       "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1820,
       "user": "LosaLosSantos"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 589,
       "user": "szabadkai"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 2622,
+      "stars": 2819,
       "user": "mhtsec"
     },
     {
@@ -790,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 616,
       "user": "ThariqS"
     },
     {
@@ -805,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2067,
+      "stars": 2198,
       "user": "nullmoth"
     },
     {
@@ -820,8 +805,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1509,
+      "stars": 1646,
       "user": "storytold"
+    },
+    {
+      "title": "There's little that's \"inevitable\" about AI",
+      "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+      "published_at": "2026-10-10T04:08:30.104-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cgrinds"
     },
     {
       "title": "Cloudflare shutting down Deno is news, not just PR",
@@ -834,6 +831,50 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "conartist6"
+    },
+    {
+      "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
+      "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
+      "published_at": "2026-10-10T14:34:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "torch",
+        "torchvision"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Laika"
+    },
+    {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "published_at": "2026-10-10T15:00:00.000Z",
+      "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "tags": [
+        "Startups",
+        "Climate",
+        "Fintech",
+        "Venture",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "2026-10-10T14:00:00.000Z",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "tags": [
+        "AI",
+        "instinct",
+        "AI agents"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
@@ -922,37 +963,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "published_at": "2026-10-09T16:56:42.000Z",
-      "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;propose",
-      "tags": [
-        "AI",
-        "AI data center",
-        "Amazon",
-        "data center"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Danu Robotics&#8217; fight to build a better recycling robot",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "published_at": "2026-10-09T16:45:00.000Z",
-      "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Robotics",
-        "recycling",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Create Scalable AI Automations with n8n",
@@ -1238,7 +1248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3055,
+      "stars": 3128,
       "user": "alchaincyf"
     },
     {
@@ -1253,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1131,
       "user": "shadany7824"
     },
     {
@@ -1268,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 513,
       "user": "GTKottman"
     },
     {
@@ -1283,23 +1293,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 446,
       "user": "wesbos"
     },
     {
-      "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
-      "url": "https://github.com/gr8rstudio/gr8r-studio",
-      "published_at": "2026-10-07T11:44:07Z",
-      "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "title": "cth9191/animate - Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+      "url": "https://github.com/cth9191/animate",
+      "published_at": "2026-10-04T00:05:25Z",
+      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/129889057?v=4",
       "source": "GitHub",
-      "stars": 364,
-      "user": "gr8rstudio"
+      "stars": 385,
+      "user": "cth9191"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -1313,8 +1323,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1678,
+      "stars": 1685,
       "user": "kargulstudio"
+    },
+    {
+      "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+      "url": "https://github.com/HelixDB/helix-foundry",
+      "published_at": "2026-10-07T05:10:45Z",
+      "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
+      "source": "GitHub",
+      "stars": 798,
+      "user": "HelixDB"
     },
     {
       "title": "rauchg/gdp-ts - GitHub Repository",
@@ -1328,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 774,
       "user": "rauchg"
     },
     {
@@ -1343,23 +1368,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 699,
       "user": "bas3line"
-    },
-    {
-      "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
-      "url": "https://github.com/HelixDB/helix-foundry",
-      "published_at": "2026-10-07T05:10:45Z",
-      "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
-      "source": "GitHub",
-      "stars": 664,
-      "user": "HelixDB"
     },
     {
       "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
@@ -1373,28 +1383,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 616,
       "user": "ThariqS"
-    },
-    {
-      "title": "Adding Go's defer to the TypeScript Compiler",
-      "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-      "published_at": "2026-10-10T00:34:40.410-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "compilers",
-        "go",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "nemin"
     },
     {
       "title": "Playing songs back to back in autoplay in a website",
       "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
       "published_at": "2026-10-09T18:09:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1436,7 +1432,7 @@
       "title": "How do I create a Windows app in Node.js?",
       "url": "https://stackoverflow.com/questions/80008821/how-do-i-create-a-windows-app-in-node-js",
       "published_at": "2026-10-09T03:46:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "javascript",
         "node.js",
@@ -1519,17 +1515,20 @@
       "user": "user66001"
     },
     {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Drupal - Yoast SEO Snippet preview not rendering: TypeError 'attr is not a function' on native DOM element",
+      "url": "https://stackoverflow.com/questions/79966689/drupal-yoast-seo-snippet-preview-not-rendering-typeerror-attr-is-not-a-funct",
+      "published_at": "2026-06-25T07:02:56.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
-        "best-practices"
+        "jquery",
+        "drupal",
+        "seo",
+        "drupal-modules"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "saurav"
+      "user": "Darshilbhai Patel"
     },
     {
       "title": "Master Modern React Routing: TanStack Router Crash Course",
@@ -1769,7 +1768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2246,
+      "stars": 2456,
       "user": "zhongerxin"
     },
     {
@@ -1784,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1820,
       "user": "LosaLosSantos"
     },
     {
@@ -1799,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 642,
       "user": "BQ-Wang0511"
     },
     {
@@ -1814,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 589,
       "user": "szabadkai"
     },
     {
@@ -1829,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 565,
       "user": "anthropics"
     },
     {
@@ -1860,6 +1859,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
+      "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
+      "published_at": "2026-10-10T14:34:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "torch",
+        "torchvision"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Laika"
+    },
+    {
+      "title": "How to get correct values from similar key names in a dictionary",
+      "url": "https://stackoverflow.com/questions/80009101/how-to-get-correct-values-from-similar-key-names-in-a-dictionary",
+      "published_at": "2026-10-10T12:57:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dcooper"
     },
     {
       "title": "Does loadTable().to_pandas() transfer all data or only metadata first?",
@@ -1962,35 +1988,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anna Montare"
-    },
-    {
-      "title": "How to place a limit buy with an attached stop-loss and target in Nubra V3 (which executionMode?)",
-      "url": "https://stackoverflow.com/questions/80008651/how-to-place-a-limit-buy-with-an-attached-stop-loss-and-target-in-nubra-v3-whic",
-      "published_at": "2026-10-08T10:02:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "python-3.x",
-        "tradingview-api",
-        "trading"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naira"
-    },
-    {
-      "title": "Better way of doing logging in Python?",
-      "url": "https://stackoverflow.com/questions/80008004/better-way-of-doing-logging-in-python",
-      "published_at": "2026-10-05T14:03:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "best-practices",
-        "python",
-        "logging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2215,14 +2212,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 699,
       "user": "bas3line"
     },
     {
       "title": "Playing songs back to back in autoplay in a website",
       "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
       "published_at": "2026-10-09T18:09:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2262,19 +2259,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
-    },
-    {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "best-practices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saurav"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2427,7 +2411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 446,
       "user": "wesbos"
     }
   ],
@@ -2487,20 +2471,6 @@
       "user": "Ruchika Goel"
     },
     {
-      "title": "Activating Your Data Layer for Production-Ready AI",
-      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
-      "published_at": "2026-10-05T19:39:51Z",
-      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
-      "tags": [
-        "database",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
-      "source": "Dev.to",
-      "user": "Gleb Otochkin"
-    },
-    {
       "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
       "url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
       "published_at": "2026-10-06T15:09:17Z",
@@ -2544,6 +2514,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
       "source": "Dev.to",
       "user": "Jen Looper"
+    },
+    {
+      "title": "Activating Your Data Layer for Production-Ready AI",
+      "url": "https://dev.to/googleai/activating-your-data-layer-for-production-ready-ai-p3e",
+      "published_at": "2026-10-05T19:39:51Z",
+      "description": "When discussing applications and systems using generative AI and the new opportunities they present,...",
+      "tags": [
+        "database",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7xk0sfzruw5iuyhwbtr.png",
+      "source": "Dev.to",
+      "user": "Gleb Otochkin"
     },
     {
       "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
@@ -3009,7 +2993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3055,
+      "stars": 3128,
       "user": "alchaincyf"
     },
     {
@@ -3024,7 +3008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1131,
       "user": "shadany7824"
     },
     {
@@ -3039,7 +3023,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 513,
       "user": "GTKottman"
     },
     {
@@ -3054,23 +3038,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 446,
       "user": "wesbos"
     },
     {
-      "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
-      "url": "https://github.com/gr8rstudio/gr8r-studio",
-      "published_at": "2026-10-07T11:44:07Z",
-      "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "title": "cth9191/animate - Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
+      "url": "https://github.com/cth9191/animate",
+      "published_at": "2026-10-04T00:05:25Z",
+      "description": "Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/129889057?v=4",
       "source": "GitHub",
-      "stars": 364,
-      "user": "gr8rstudio"
+      "stars": 385,
+      "user": "cth9191"
     },
     {
       "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
@@ -3084,7 +3068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2246,
+      "stars": 2456,
       "user": "zhongerxin"
     },
     {
@@ -3099,7 +3083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1820,
       "user": "LosaLosSantos"
     },
     {
@@ -3114,7 +3098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 642,
       "user": "BQ-Wang0511"
     },
     {
@@ -3129,7 +3113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 589,
       "user": "szabadkai"
     },
     {
@@ -3144,7 +3128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 565,
       "user": "anthropics"
     },
     {
@@ -3159,7 +3143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 2622,
+      "stars": 2819,
       "user": "mhtsec"
     },
     {
@@ -3174,7 +3158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 474,
+      "stars": 550,
       "user": "Hinln"
     },
     {
@@ -3189,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216188?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 171,
       "user": "jdx"
     },
     {
@@ -3219,7 +3203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15378127?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 129,
       "user": "alex0ptr"
     },
     {
@@ -3234,8 +3218,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1678,
+      "stars": 1685,
       "user": "kargulstudio"
+    },
+    {
+      "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+      "url": "https://github.com/HelixDB/helix-foundry",
+      "published_at": "2026-10-07T05:10:45Z",
+      "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
+      "source": "GitHub",
+      "stars": 798,
+      "user": "HelixDB"
     },
     {
       "title": "rauchg/gdp-ts - GitHub Repository",
@@ -3249,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 774,
       "user": "rauchg"
     },
     {
@@ -3264,23 +3263,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 699,
       "user": "bas3line"
-    },
-    {
-      "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
-      "url": "https://github.com/HelixDB/helix-foundry",
-      "published_at": "2026-10-07T05:10:45Z",
-      "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
-      "source": "GitHub",
-      "stars": 664,
-      "user": "HelixDB"
     },
     {
       "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
@@ -3294,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 616,
       "user": "ThariqS"
     },
     {
@@ -3309,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2288,
+      "stars": 2704,
       "user": "storytold"
     },
     {
@@ -3324,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2067,
+      "stars": 2198,
       "user": "nullmoth"
     },
     {
@@ -3339,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1509,
+      "stars": 1646,
       "user": "storytold"
     },
     {
@@ -3354,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1398,
+      "stars": 1568,
       "user": "storytold"
     },
     {
@@ -3369,21 +3353,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1441,
       "user": "noahdunnagan"
-    },
-    {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "best-practices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saurav"
     },
     {
       "title": "Creating a IntegrityError for testing purposes",
