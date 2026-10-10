@@ -16,21 +16,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
-      "published_at": "2026-10-08T20:00:18Z",
-      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "testing",
-        "jev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
-      "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
       "title": "Llama Village: a virtual world powered by local AI with llamadart",
       "url": "https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi",
       "published_at": "2026-10-08T22:34:10Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjgsr3swidyjgd94d9f8m.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
+      "published_at": "2026-10-08T20:00:18Z",
+      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "tags": [
+        "ai",
+        "gemini",
+        "testing",
+        "jev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
+      "source": "Dev.to",
+      "user": "Swift"
     },
     {
       "title": "Congrats to Our First MLH x DEV Writing Challenge Winner!",
@@ -266,6 +266,21 @@
       "user": "Mika Flowers"
     },
     {
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
+      "published_at": "2026-09-30T01:25:29Z",
+      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange             What...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "sanity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
+    },
+    {
       "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
       "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
       "published_at": "2026-09-30T19:36:21Z",
@@ -324,6 +339,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
       "source": "Dev.to",
       "user": "Frank Guan"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom",
+      "published_at": "2026-10-05T18:03:31Z",
+      "description": "Week 1 of our five Hacktoberfest DEV Challenges starts today! Running through October 11, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuhjpurwtrzpxh5wsntc.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "I Built a Better Codex Pet Than OpenAI Did",
@@ -489,34 +519,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5vlw3uobmy1epe0lwbge.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Everything You Need To Know About Hacktoberfest 2026: AI Belongs to Everyone 🎃",
-      "url": "https://blog.mlh.com/everything-you-need-to-know-about-hacktoberfest-2026-ai-belongs-to-everyone-mdk",
-      "published_at": "2026-10-01T16:19:06Z",
-      "description": "It's October 1st, which means Hacktoberfest 2026 is officially live! 🎉  This year looks a little...",
-      "tags": [
-        "hacktoberfest",
-        "opensource",
-        "ai",
-        "devchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2wmhcfrymahbrsjopzei.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
-      "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
-      "published_at": "2026-09-22T08:26:58Z",
-      "description": "In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...",
-      "tags": [
-        "discuss",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -698,23 +700,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2908,
       "user": "alchaincyf"
-    },
-    {
-      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "published_at": "2026-10-03T16:11:55Z",
-      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
-      "source": "GitHub",
-      "stars": 453,
-      "user": "allenv0"
     },
     {
       "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
@@ -728,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "gr8rstudio"
     },
     {
@@ -743,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 1518,
+      "stars": 1556,
       "user": "LosaLosSantos"
     },
     {
@@ -773,23 +760,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 2128,
+      "stars": 2271,
       "user": "mhtsec"
-    },
-    {
-      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/jiwoochris/artex-ko",
-      "published_at": "2026-10-03T14:49:48Z",
-      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
-      "source": "GitHub",
-      "stars": 854,
-      "user": "jiwoochris"
     },
     {
       "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
@@ -818,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 1839,
+      "stars": 1903,
       "user": "nullmoth"
     },
     {
@@ -833,8 +805,32 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1395,
       "user": "storytold"
+    },
+    {
+      "title": "Cloudflare shutting down Deno is news, not just PR",
+      "url": "https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not",
+      "published_at": "2026-10-09T16:20:03.262-05:00",
+      "description": "Requesting the currently-removed post for https://deno.com/blog/cloudflare be restored. Thread: https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare\r\n\r\nMy reasoning: It isn't just PR, but significant tech news that Cloudflare is buying up open source teams while dismantling the projects they maintain.\r\n\r\nIs this not the best place to discuss the ramifications of companies acting in this manner?",
+      "tags": [
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "conartist6"
+    },
+    {
+      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "published_at": "2026-10-10T00:18:32.000Z",
+      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -1225,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2908,
       "user": "alchaincyf"
     },
     {
@@ -1240,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1023,
       "user": "shadany7824"
     },
     {
@@ -1255,23 +1251,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "GTKottman"
-    },
-    {
-      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "published_at": "2026-10-03T16:11:55Z",
-      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
-      "source": "GitHub",
-      "stars": 453,
-      "user": "allenv0"
     },
     {
       "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
@@ -1285,8 +1266,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "gr8rstudio"
+    },
+    {
+      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "published_at": "2026-10-08T18:22:19Z",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "wesbos"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -1300,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1676,
+      "stars": 1677,
       "user": "kargulstudio"
     },
     {
@@ -1330,23 +1326,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 669,
       "user": "bas3line"
-    },
-    {
-      "title": "shinshin86/mesh-avatar-studio - Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
-      "url": "https://github.com/shinshin86/mesh-avatar-studio",
-      "published_at": "2026-10-04T03:33:57Z",
-      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
-      "source": "GitHub",
-      "stars": 563,
-      "user": "shinshin86"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -1360,14 +1341,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 592,
       "user": "HelixDB"
+    },
+    {
+      "title": "shinshin86/mesh-avatar-studio - Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "published_at": "2026-10-04T03:33:57Z",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
+      "source": "GitHub",
+      "stars": 568,
+      "user": "shinshin86"
     },
     {
       "title": "Playing songs back to back in autoplay in a website",
       "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
       "published_at": "2026-10-09T18:09:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1381,7 +1377,7 @@
       "title": "Why does my Intl-based RFC 5545 date resolver select the wrong side of Samoa's 24-hour time-zone transition?",
       "url": "https://stackoverflow.com/questions/80008870/why-does-my-intl-based-rfc-5545-date-resolver-select-the-wrong-side-of-samoas-2",
       "published_at": "2026-10-09T09:27:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "javascript",
         "datetime",
@@ -1745,7 +1741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1870,
       "user": "zhongerxin"
     },
     {
@@ -1760,23 +1756,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 1518,
+      "stars": 1556,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "published_at": "2026-10-03T12:07:49Z",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
-      "source": "GitHub",
-      "stars": 1366,
-      "user": "Jakeschincariol"
     },
     {
       "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
@@ -1790,7 +1771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 609,
       "user": "BQ-Wang0511"
     },
     {
@@ -1807,6 +1788,21 @@
       "source": "GitHub",
       "stars": 584,
       "user": "szabadkai"
+    },
+    {
+      "title": "anthropics/oss-scanner - GitHub Repository",
+      "url": "https://github.com/anthropics/oss-scanner",
+      "published_at": "2026-10-08T17:25:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "source": "GitHub",
+      "stars": 394,
+      "user": "anthropics"
     },
     {
       "title": "Python 3.15.0",
@@ -1850,10 +1846,24 @@
       "user": "gh0st_dancing"
     },
     {
+      "title": "Does loadTable().to_pandas() transfer all data or only metadata first?",
+      "url": "https://stackoverflow.com/questions/80009030/does-loadtable-to-pandas-transfer-all-data-or-only-metadata-first",
+      "published_at": "2026-10-10T01:17:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pandas",
+        "dolphindb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Stephanie"
+    },
+    {
       "title": "How to accurately compute ballistic trajectory with quadratic drag and plot it in a fixed-size terminal grid in Python?",
       "url": "https://stackoverflow.com/questions/80008980/how-to-accurately-compute-ballistic-trajectory-with-quadratic-drag-and-plot-it-i",
       "published_at": "2026-10-09T18:57:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "terminal",
@@ -1864,6 +1874,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ATHARV"
+    },
+    {
+      "title": "Merge two Celery tasks",
+      "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
+      "published_at": "2026-10-09T05:22:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "web-scraping",
+        "celery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sandi"
     },
     {
       "title": "Nubra NubraDataSocket: code after keep_running() never executes, and option subscriptions return nothing",
@@ -1880,19 +1904,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naira"
-    },
-    {
-      "title": "Merge two Celery tasks",
-      "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
-      "published_at": "2026-10-09T05:22:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "celery"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sandi"
     },
     {
       "title": "Does type-checking have any runtime overhead?",
@@ -1927,7 +1938,7 @@
       "title": "Creating a IntegrityError for testing purposes",
       "url": "https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes",
       "published_at": "2026-10-07T16:45:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "django"
@@ -1965,20 +1976,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rafal S"
-    },
-    {
-      "title": "Better way of doing logging in Python?",
-      "url": "https://stackoverflow.com/questions/80008004/better-way-of-doing-logging-in-python",
-      "published_at": "2026-10-05T14:03:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "best-practices",
-        "python",
-        "logging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2203,14 +2200,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 669,
       "user": "bas3line"
     },
     {
       "title": "Playing songs back to back in autoplay in a website",
       "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
       "published_at": "2026-10-09T18:09:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2391,17 +2388,19 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
-      "url": "https://dev.to/ale3oula/the-curiosity-gap-why-weve-stopped-asking-questions-39e4",
-      "published_at": "2026-09-22T08:26:58Z",
-      "description": "In a comment some weeks ago (link) i wrote about how it doesn't matter if you are using AI or not, or...",
+      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "published_at": "2026-10-08T18:22:19Z",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
       "tags": [
-        "discuss",
-        "ai"
+        "javascript",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6sj0hhnz5r5x26t4q8st.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
+      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "wesbos"
     }
   ],
   "Cloud": [
@@ -2604,6 +2603,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "bontaq"
+    },
+    {
+      "title": "Cloudflare shutting down Deno is news, not just PR",
+      "url": "https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not",
+      "published_at": "2026-10-09T16:20:03.262-05:00",
+      "description": "Requesting the currently-removed post for https://deno.com/blog/cloudflare be restored. Thread: https://lobste.rs/s/8hauxs/deno_is_joining_cloudflare\r\n\r\nMy reasoning: It isn't just PR, but significant tech news that Cloudflare is buying up open source teams while dismantling the projects they maintain.\r\n\r\nIs this not the best place to discuss the ramifications of companies acting in this manner?",
+      "tags": [
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "conartist6"
     }
   ],
   "Database": [
@@ -2983,7 +2994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 2856,
+      "stars": 2908,
       "user": "alchaincyf"
     },
     {
@@ -2998,7 +3009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1023,
       "user": "shadany7824"
     },
     {
@@ -3013,23 +3024,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "GTKottman"
-    },
-    {
-      "title": "allenv0/SCM - Deep AI search for every photo and every frame of video in any folder on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "published_at": "2026-10-03T16:11:55Z",
-      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3938314?v=4",
-      "source": "GitHub",
-      "stars": 453,
-      "user": "allenv0"
     },
     {
       "title": "gr8rstudio/gr8r-studio - Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
@@ -3043,8 +3039,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252478527?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "gr8rstudio"
+    },
+    {
+      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "published_at": "2026-10-08T18:22:19Z",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "wesbos"
     },
     {
       "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
@@ -3058,7 +3069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1870,
       "user": "zhongerxin"
     },
     {
@@ -3073,23 +3084,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 1518,
+      "stars": 1556,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "published_at": "2026-10-03T12:07:49Z",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
-      "source": "GitHub",
-      "stars": 1366,
-      "user": "Jakeschincariol"
     },
     {
       "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
@@ -3103,7 +3099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 609,
       "user": "BQ-Wang0511"
     },
     {
@@ -3122,6 +3118,21 @@
       "user": "szabadkai"
     },
     {
+      "title": "anthropics/oss-scanner - GitHub Repository",
+      "url": "https://github.com/anthropics/oss-scanner",
+      "published_at": "2026-10-08T17:25:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "source": "GitHub",
+      "stars": 394,
+      "user": "anthropics"
+    },
+    {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
       "published_at": "2026-10-08T05:33:06Z",
@@ -3133,23 +3144,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 2128,
+      "stars": 2271,
       "user": "mhtsec"
-    },
-    {
-      "title": "jiwoochris/artex-ko - ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/jiwoochris/artex-ko",
-      "published_at": "2026-10-03T14:49:48Z",
-      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83687471?v=4",
-      "source": "GitHub",
-      "stars": 854,
-      "user": "jiwoochris"
     },
     {
       "title": "Hinln/ARTEX - ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
@@ -3163,8 +3159,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 352,
       "user": "Hinln"
+    },
+    {
+      "title": "jdx/jactionlint - :octocat: Static checker for GitHub Actions workflow files",
+      "url": "https://github.com/jdx/jactionlint",
+      "published_at": "2026-10-05T00:42:21Z",
+      "description": ":octocat: Static checker for GitHub Actions workflow files",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/216188?v=4",
+      "source": "GitHub",
+      "stars": 139,
+      "user": "jdx"
     },
     {
       "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
@@ -3182,19 +3193,19 @@
       "user": "Stellar-Pathfinder"
     },
     {
-      "title": "jdx/jactionlint - :octocat: Static checker for GitHub Actions workflow files",
-      "url": "https://github.com/jdx/jactionlint",
-      "published_at": "2026-10-05T00:42:21Z",
-      "description": ":octocat: Static checker for GitHub Actions workflow files",
+      "title": "alex0ptr/once - Run a command once, reuse its output for a while.",
+      "url": "https://github.com/alex0ptr/once",
+      "published_at": "2026-10-08T19:51:28Z",
+      "description": "Run a command once, reuse its output for a while.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216188?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/15378127?v=4",
       "source": "GitHub",
-      "stars": 129,
-      "user": "jdx"
+      "stars": 123,
+      "user": "alex0ptr"
     },
     {
       "title": "kargulstudio/sales-crm - GitHub Repository",
@@ -3208,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 1676,
+      "stars": 1677,
       "user": "kargulstudio"
     },
     {
@@ -3238,23 +3249,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 669,
       "user": "bas3line"
-    },
-    {
-      "title": "shinshin86/mesh-avatar-studio - Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
-      "url": "https://github.com/shinshin86/mesh-avatar-studio",
-      "published_at": "2026-10-04T03:33:57Z",
-      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
-      "source": "GitHub",
-      "stars": 563,
-      "user": "shinshin86"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -3268,23 +3264,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 592,
       "user": "HelixDB"
     },
     {
-      "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-      "url": "https://github.com/nullmoth/nvidia-macos-driver",
-      "published_at": "2026-10-07T08:13:12Z",
-      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "title": "shinshin86/mesh-avatar-studio - Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "published_at": "2026-10-04T03:33:57Z",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8216064?v=4",
       "source": "GitHub",
-      "stars": 1839,
-      "user": "nullmoth"
+      "stars": 568,
+      "user": "shinshin86"
     },
     {
       "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
@@ -3298,8 +3294,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1816,
+      "stars": 1938,
       "user": "storytold"
+    },
+    {
+      "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "published_at": "2026-10-07T08:13:12Z",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
+      "source": "GitHub",
+      "stars": 1903,
+      "user": "nullmoth"
     },
     {
       "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
@@ -3313,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1395,
       "user": "storytold"
     },
     {
@@ -3328,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1153,
+      "stars": 1222,
       "user": "storytold"
     },
     {
@@ -3343,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1204,
       "user": "noahdunnagan"
     },
     {
@@ -3366,7 +3377,7 @@
       "title": "Creating a IntegrityError for testing purposes",
       "url": "https://stackoverflow.com/questions/80008521/creating-a-integrityerror-for-testing-purposes",
       "published_at": "2026-10-07T16:45:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "django"
