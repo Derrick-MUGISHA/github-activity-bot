@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-10 4:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-10 10:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,26 +37,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjgsr3swidyjgd94d9f8m.png" width="200" alt="Llama Village: a virtual world powered by local AI with llamadart" />
-      <br/>
-      <b>Llama Village: a virtual world powered by local AI...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-the-hacktoberfest-weekend-challenge-build-for-a-friend-winners-pgc">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu5wpcby840hb2v82xxkn.png" width="200" alt="Congrats to the Hacktoberfest Weekend Challenge: Build for a Friend Winners!" />
-      <br/>
-      <b>Congrats to the Hacktoberfest Weekend Challenge: B...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png" width="200" alt="I got Jev to zero mistakes. I'm still using Flash-Lite." />
       <br/>
@@ -66,19 +46,39 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/congrats-to-our-first-mlh-x-dev-writing-challenge-winner-1c4l">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmv2812a2k7g9bk6g3lyk.png" width="200" alt="Congrats to Our First MLH x DEV Writing Challenge Winner!" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9x79okaevr3h8vgsnd8k.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>Congrats to Our First MLH x DEV Writing Challenge ...</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F79tl6zqq4x0zaplgo6t2.jpg" width="200" alt="Why you still need a Website Portfolio, even though everyone can Vibe Code it." />
       <br/>
       <b>Why you still need a Website Portfolio, even thoug...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/gemma-4-from-e2b-to-31b-on-an-amd-mi300x-fp8-overtakes-bf16-from-12b-up-h4e">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Farticle-sizes%2Fdevto-mi300x-sizes-cover.2c57f68d.jpg" width="200" alt="Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up" />
+      <br/>
+      <b>Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Over...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsj0zkh6xcpxv4otm9a2i.png" width="200" alt="Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt" />
+      <br/>
+      <b>Stuart Feldman Was Right in 1976: Why Your AI Agen...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,27 +93,27 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge](https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec) | Dev.to |
-| 2 | [Llama Village: a virtual world powered by local AI with llamadart](https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi) | Dev.to |
-| 3 | [Congrats to the Hacktoberfest Weekend Challenge: Build for a Friend Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-weekend-challenge-build-for-a-friend-winners-pgc) | Dev.to |
-| 4 | [I got Jev to zero mistakes. I'm still using Flash-Lite.](https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7) | Dev.to |
-| 5 | [Congrats to Our First MLH x DEV Writing Challenge Winner!](https://dev.to/devteam/congrats-to-our-first-mlh-x-dev-writing-challenge-winner-1c4l) | Dev.to |
-| 6 | [Why you still need a Website Portfolio, even though everyone can Vibe Code it.](https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63) | Dev.to |
-| 7 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-1l3f) | Dev.to |
-| 8 | [Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up](https://dev.to/gde/gemma-4-from-e2b-to-31b-on-an-amd-mi300x-fp8-overtakes-bf16-from-12b-up-h4e) | Dev.to |
-| 9 | [Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt](https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2) | Dev.to |
-| 10 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682) | Dev.to |
-| 11 | [Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?](https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01) | Dev.to |
-| 12 | [Meme Monday](https://dev.to/ben/meme-monday-3ib7) | Dev.to |
+| 2 | [I got Jev to zero mistakes. I'm still using Flash-Lite.](https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7) | Dev.to |
+| 3 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1682) | Dev.to |
+| 4 | [Why you still need a Website Portfolio, even though everyone can Vibe Code it.](https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63) | Dev.to |
+| 5 | [Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up](https://dev.to/gde/gemma-4-from-e2b-to-31b-on-an-amd-mi300x-fp8-overtakes-bf16-from-12b-up-h4e) | Dev.to |
+| 6 | [Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt](https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2) | Dev.to |
+| 7 | [Congrats to the Hacktoberfest Weekend Challenge: Build for a Friend Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-weekend-challenge-build-for-a-friend-winners-pgc) | Dev.to |
+| 8 | [Congrats to Our First MLH x DEV Writing Challenge Winner!](https://dev.to/devteam/congrats-to-our-first-mlh-x-dev-writing-challenge-winner-1c4l) | Dev.to |
+| 9 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-1l3f) | Dev.to |
+| 10 | [Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?](https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01) | Dev.to |
+| 11 | [Meme Monday](https://dev.to/ben/meme-monday-3ib7) | Dev.to |
+| 12 | [Llama Village: a virtual world powered by local AI with llamadart](https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi) | Dev.to |
 | 13 | [Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾](https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf) | Dev.to |
 | 14 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4jli) | Dev.to |
 | 15 | [Making cross-platform local AI easier with llamadart](https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k) | Dev.to |
 | 16 | [Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt](https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc) | Dev.to |
-| 17 | [Claude Haiku 5.5 is available on Google Cloud](https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0) | Dev.to |
-| 18 | [Welcome Thread - v 396](https://dev.to/sloan/welcome-thread-v-396-ih4) | Dev.to |
+| 17 | [Welcome Thread - v 396](https://dev.to/sloan/welcome-thread-v-396-ih4) | Dev.to |
+| 18 | [Claude Haiku 5.5 is available on Google Cloud](https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0) | Dev.to |
 | 19 | [Claude Opus 5.5 is now available on Google Cloud](https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh) | Dev.to |
 | 20 | [Disappeared Since March: Taking a Long Break Was My Best Decision Yet](https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45) | Dev.to |
 
-<sub>Last fetched: Sat, 10 Oct 2026 04:27:51 CAT</sub>
+<sub>Last fetched: Sat, 10 Oct 2026 10:55:10 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Design a database schema for a social media platform**
+**1. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**2. `Java` — Explain the Java memory model**
+**2. `JavaScript` — Implement a debounce function from scratch**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> setTimeout, clearTimeout, wrapper function
 
 </details>
 
-**3. `Java` — What is the difference between abstract class and interface?**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 74 | 40.4% | `████████████████████` |
+| **AI** | 75 | 41.0% | `████████████████████` |
 | **Tools** | 37 | 20.2% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 34 | 18.6% | `█████████░░░░░░░░░░░` |
-| **Python** | 33 | 18.0% | `█████████░░░░░░░░░░░` |
+| **JavaScript** | 35 | 19.1% | `█████████░░░░░░░░░░░` |
+| **Python** | 32 | 17.5% | `█████████░░░░░░░░░░░` |
 | **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,29 +194,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.2%
-Python          █████████████████████████████ 25.4%
-Go              █████████████████████████ 21.5%
-Java            ███████████████████████ 20.0%
-Rust            ███████ 6.2%
+JavaScript      ██████████████████████████████ 26.3%
+Python          ███████████████████████████ 24.1%
+Go              █████████████████████████ 21.8%
+Java            ███████████████████████ 20.3%
+Rust            ████████ 6.8%
 Kotlin          █ 0.8%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 34
-    "Python" : 33
-    "Go" : 28
-    "Java" : 26
-    "Rust" : 8
+    "JavaScript" : 35
+    "Python" : 32
+    "Go" : 29
+    "Java" : 27
+    "Rust" : 9
     "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-9-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-8-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-9-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-7-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 10 Oct 2026 02:27:51 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 10 Oct 2026 08:55:10 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
