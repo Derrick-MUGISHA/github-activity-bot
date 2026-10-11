@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📰 DevTech Auto News
+# DevTech Auto News
 
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
