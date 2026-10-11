@@ -386,21 +386,6 @@
       "user": "Mika Flowers"
     },
     {
-      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
-      "published_at": "2026-09-26T11:10:27Z",
-      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
       "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
       "published_at": "2026-09-26T11:10:24Z",
@@ -412,6 +397,21 @@
         "mcp"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
+      "published_at": "2026-09-26T11:10:27Z",
+      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -641,18 +641,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
-      "url": "https://www.armaansahni.com/game/",
-      "published_at": "2024-12-03T22:08:16Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "veesahni"
-    },
-    {
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "published_at": "2026-05-11T20:45:55Z",
@@ -700,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3350,
+      "stars": 3375,
       "user": "alchaincyf"
     },
     {
@@ -715,23 +703,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 2631,
       "user": "wheresryan22"
-    },
-    {
-      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "url": "https://github.com/marclou/mailcheap",
-      "published_at": "2026-10-10T12:55:36Z",
-      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
-      "source": "GitHub",
-      "stars": 690,
-      "user": "marclou"
     },
     {
       "title": "FeiZhuLulu/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
@@ -745,8 +718,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 803,
       "user": "FeiZhuLulu"
+    },
+    {
+      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "published_at": "2026-10-10T12:55:36Z",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
+      "source": "GitHub",
+      "stars": 735,
+      "user": "marclou"
     },
     {
       "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
@@ -760,8 +748,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2113,
+      "stars": 2147,
       "user": "LosaLosSantos"
+    },
+    {
+      "title": "sirioberati/Genjustsu-Open-Source-Workflow - Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "published_at": "2026-10-06T23:18:18Z",
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "sirioberati"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -775,23 +778,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3079,
+      "stars": 3124,
       "user": "mhtsec"
     },
     {
-      "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
-      "url": "https://github.com/Stellar-Pathfinder/stellar-pathfinder",
-      "published_at": "2026-10-06T20:24:40Z",
-      "description": "A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
+      "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "url": "https://github.com/aindeev/agent-chrome-relay",
+      "published_at": "2026-10-10T07:38:27Z",
+      "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/338831274?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 131,
-      "user": "Stellar-Pathfinder"
+      "stars": 251,
+      "user": "aindeev"
     },
     {
       "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
@@ -805,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 730,
       "user": "ThariqS"
     },
     {
@@ -820,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 725,
       "user": "rociiu"
     },
     {
@@ -835,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2464,
+      "stars": 2508,
       "user": "nullmoth"
     },
     {
@@ -850,22 +853,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2242,
+      "stars": 2469,
       "user": "storytold"
-    },
-    {
-      "title": "Consistency is not a localized property",
-      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
-      "published_at": "2026-10-10T19:51:28.569-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "databases",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "b--man"
     },
     {
       "title": "Python script that copies certain lines and writes to other file",
@@ -892,6 +881,69 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Laika"
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "published_at": "2026-10-11T19:00:00.000Z",
+      "description": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "published_at": "2026-10-11T16:52:33.000Z",
+      "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Amazon",
+        "data centers",
+        "Equity podcast"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "published_at": "2026-10-11T16:02:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "Transportation",
+        "TechCrunch Disrupt",
+        "self-driving trucks",
+        "Aurora Innovation",
+        "techcrunch mobility"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "description": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "tags": [
+        "Startups",
+        "TechCrunch Disrupt",
+        "Startup Battlefield 200",
+        "Richualist"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "What to know about the landmark Warner Bros. Discovery sale",
@@ -953,62 +1005,20 @@
       "user": "Anthony Ha"
     },
     {
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "published_at": "2026-10-10T15:00:00.000Z",
-      "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "title": "What to Do When Your Constants Are Someone Else's Law",
+      "url": "https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/",
+      "published_at": "2026-10-11T14:05:40.000Z",
+      "description": "A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho",
       "tags": [
-        "Startups",
-        "Climate",
-        "Fintech",
-        "Venture",
-        "AI"
+        "Software Engineering",
+        "Code Quality",
+        "Go Language",
+        "fintech",
+        "regulatory compliance"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "published_at": "2026-10-10T14:00:00.000Z",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "tags": [
-        "AI",
-        "instinct",
-        "AI agents"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "published_at": "2026-10-10T03:10:06.000Z",
-      "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-      "tags": [
-        "Government & Policy",
-        "Space",
-        "Elon Musk",
-        "Mukesh Ambani",
-        "reliance industries"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "published_at": "2026-10-10T00:18:32.000Z",
-      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
+      "source": "freeCodeCamp",
+      "user": "Javeed Shaik"
     },
     {
       "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
@@ -1099,20 +1109,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "How to Break the AI Coding Agent Fix Loop",
-      "url": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
-      "published_at": "2026-10-05T11:55:42.000Z",
-      "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
-      "tags": [
-        "Productivity",
-        "AI",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Amir Gabay"
     }
   ],
   "JavaScript": [
@@ -1145,54 +1141,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
       "source": "Dev.to",
       "user": "Mika Flowers"
-    },
-    {
-      "title": "Yarn – A new package manager for JavaScript",
-      "url": "https://code.facebook.com/posts/1840075619545360",
-      "published_at": "2016-10-11T15:00:38Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "cpojer"
-    },
-    {
-      "title": "A spreadsheet in fewer than 30 lines of JavaScript, no library used",
-      "url": "http://jsfiddle.net/ondras/hYfN3/",
-      "published_at": "2013-11-13T14:38:18Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "ondras"
-    },
-    {
-      "title": "Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig",
-      "url": "https://bun.sh/?launch",
-      "published_at": "2022-07-05T20:41:53Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "firloop"
-    },
-    {
-      "title": "JavaScript Temporal is coming",
-      "url": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
-      "published_at": "2025-01-30T11:28:31Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "SigmundurM"
     },
     {
       "title": "Show HN: Meteor, a realtime JavaScript framework",
@@ -1231,30 +1179,6 @@
       "user": "EntICOnc"
     },
     {
-      "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
-      "url": "https://www.armaansahni.com/game/",
-      "published_at": "2024-12-03T22:08:16Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "veesahni"
-    },
-    {
-      "title": "Draw SVG rope using JavaScript",
-      "url": "https://muffinman.io/blog/draw-svg-rope-using-javascript/",
-      "published_at": "2022-12-31T15:43:54Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "stanko"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1265,6 +1189,78 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "Show HN: RoughJS – Create hand-drawn graphics using JavaScript",
+      "url": "http://roughjs.com/",
+      "published_at": "2018-03-12T21:28:17Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "shihn"
+    },
+    {
+      "title": "Tearable Cloth Simulation in JavaScript",
+      "url": "http://codepen.io/stuffit/pen/KrAwx",
+      "published_at": "2013-04-23T00:58:21Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "NathanKP"
+    },
+    {
+      "title": "GoDaddy injecting JavaScript into websites and how to stop it",
+      "url": "https://www.igorkromin.net/index.php/2019/01/13/godaddy-is-sneakily-injecting-javascript-into-your-website-and-how-to-stop-it/",
+      "published_at": "2019-01-13T03:10:57Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ikromin"
+    },
+    {
+      "title": "QuickJS JavaScript Engine",
+      "url": "https://bellard.org/quickjs/",
+      "published_at": "2019-07-11T13:02:30Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "apaprocki"
+    },
+    {
+      "title": "Calls between JavaScript and WebAssembly are finally fast",
+      "url": "https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%f0%9f%8e%89/",
+      "published_at": "2018-10-08T15:37:42Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "lainon"
+    },
+    {
+      "title": "JavaScript Trademark Update",
+      "url": "https://deno.com/blog/deno-v-oracle4",
+      "published_at": "2025-06-28T18:52:00Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "thebeardisred"
     },
     {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
@@ -1278,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3350,
+      "stars": 3375,
       "user": "alchaincyf"
     },
     {
@@ -1293,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 2631,
       "user": "wheresryan22"
     },
     {
@@ -1308,23 +1304,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1320,
+      "stars": 1350,
       "user": "shadany7824"
-    },
-    {
-      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "url": "https://github.com/marclou/mailcheap",
-      "published_at": "2026-10-10T12:55:36Z",
-      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
-      "source": "GitHub",
-      "stars": 690,
-      "user": "marclou"
     },
     {
       "title": "FeiZhuLulu/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
@@ -1338,8 +1319,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 803,
       "user": "FeiZhuLulu"
+    },
+    {
+      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "published_at": "2026-10-10T12:55:36Z",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
+      "source": "GitHub",
+      "stars": 735,
+      "user": "marclou"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -1353,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1179,
       "user": "HelixDB"
     },
     {
@@ -1368,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 755,
       "user": "bas3line"
     },
     {
@@ -1383,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 730,
       "user": "ThariqS"
     },
     {
@@ -1398,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 725,
       "user": "rociiu"
     },
     {
@@ -1413,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252071647?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 424,
       "user": "iamlukethedev"
     },
     {
@@ -1428,6 +1424,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "typesanitizer"
+    },
+    {
+      "title": "Is there any disadvantage to calling document.createElement with the “wrong” document?",
+      "url": "https://stackoverflow.com/questions/80009283/is-there-any-disadvantage-to-calling-document-createelement-with-the-wrong-doc",
+      "published_at": "2026-10-11T15:25:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thom Smith"
     },
     {
       "title": "How do I accurately detect gamepad button presses in JavaScript?",
@@ -1457,31 +1466,19 @@
       "user": "Muhammad UmarHayat"
     },
     {
-      "title": "Playing songs back to back in autoplay in a website",
-      "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
-      "published_at": "2026-10-09T18:09:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "TinyMCE 6: undo() after a DOM move inside undoManager.transact() jumps back past setContent() — is undoManager.add() the right fix?",
+      "url": "https://stackoverflow.com/questions/80008927/tinymce-6-undo-after-a-dom-move-inside-undomanager-transact-jumps-back-past",
+      "published_at": "2026-10-09T13:45:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "html",
-        "autoplay"
+        "tinymce",
+        "undo-redo",
+        "tinymce-6"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "jctech2025"
-    },
-    {
-      "title": "How to block and unblock a user from sending messages in a Matrix protocol private room?",
-      "url": "https://stackoverflow.com/questions/80008840/how-to-block-and-unblock-a-user-from-sending-messages-in-a-matrix-protocol-priva",
-      "published_at": "2026-10-09T06:25:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "matrix-synapse"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sunlyhuor"
+      "user": "Mahesh Bhat"
     },
     {
       "title": "Drupal - Yoast SEO Snippet preview not rendering: TypeError 'attr is not a function' on native DOM element",
@@ -1515,6 +1512,21 @@
       "user": "Aron tilahun"
     },
     {
+      "title": "How can I validate and pretty-print JSON in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79930276/how-can-i-validate-and-pretty-print-json-in-javascript",
+      "published_at": "2026-04-22T18:18:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "json",
+        "parsing",
+        "best-practices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Piyush Dabhi"
+    },
+    {
       "title": "Mechanism in Javascript to verify certificate hash",
       "url": "https://stackoverflow.com/questions/79892801/mechanism-in-javascript-to-verify-certificate-hash",
       "published_at": "2026-02-20T09:28:54.000Z",
@@ -1529,18 +1541,17 @@
       "user": "Charles Lohr"
     },
     {
-      "title": "How to load image files with webpack file-loader",
-      "url": "https://stackoverflow.com/questions/37671342/how-to-load-image-files-with-webpack-file-loader",
-      "published_at": "2016-06-07T05:40:58.000Z",
-      "description": "Stack Overflow question · 7 answers · score 180",
+      "title": "Validate phone number with Yup?",
+      "url": "https://stackoverflow.com/questions/52483260/validate-phone-number-with-yup",
+      "published_at": "2018-09-24T16:04:18.000Z",
+      "description": "Stack Overflow question · 11 answers · score 87",
       "tags": [
         "javascript",
-        "reactjs",
-        "webpack"
+        "yup"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Joey Yi Zhao"
+      "user": "Evanss"
     },
     {
       "title": "Add version to a static file URL during load defined in the footer.blade file",
@@ -1555,19 +1566,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "anoopKumarSharma"
-    },
-    {
-      "title": "How to make a loading animation in Console Application written in JavaScript or NodeJs?",
-      "url": "https://stackoverflow.com/questions/34848505/how-to-make-a-loading-animation-in-console-application-written-in-javascript-or",
-      "published_at": "2016-01-18T06:31:05.000Z",
-      "description": "Stack Overflow question · 4 answers · score 29",
-      "tags": [
-        "javascript",
-        "node.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "     Юрий Светлов"
     },
     {
       "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
@@ -1823,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2865,
+      "stars": 2987,
       "user": "zhongerxin"
     },
     {
@@ -1838,23 +1836,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2113,
+      "stars": 2147,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "anthropics/oss-scanner - GitHub Repository",
-      "url": "https://github.com/anthropics/oss-scanner",
-      "published_at": "2026-10-08T17:25:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
-      "source": "GitHub",
-      "stars": 756,
-      "user": "anthropics"
     },
     {
       "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
@@ -1883,20 +1866,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 683,
       "user": "wesbos"
     },
     {
-      "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
-      "url": "https://blog.scientific-python.org/numpy/searchsorted/",
-      "published_at": "2026-10-10T18:25:51.517-05:00",
+      "title": "sirioberati/Genjustsu-Open-Source-Workflow - Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "published_at": "2026-10-06T23:18:18Z",
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "sirioberati"
+    },
+    {
+      "title": "The wild west of polyglot docs sites",
+      "url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+      "published_at": "2026-10-11T12:43:46.396-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "performance"
+        "c",
+        "c++",
+        "practices",
+        "python",
+        "rust"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "itamarst"
+      "user": "kaycebasques"
     },
     {
       "title": "Python script that copies certain lines and writes to other file",
@@ -1923,19 +1925,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Laika"
-    },
-    {
-      "title": "How to get correct values from similar key names in a dictionary",
-      "url": "https://stackoverflow.com/questions/80009101/how-to-get-correct-values-from-similar-key-names-in-a-dictionary",
-      "published_at": "2026-10-10T12:57:56.000Z",
-      "description": "Stack Overflow question · 2 answers · score -8",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dcooper"
     },
     {
       "title": "Does loadTable().to_pandas() transfer all data or only metadata first?",
@@ -1981,22 +1970,6 @@
       "user": "NickC"
     },
     {
-      "title": "How to accurately compute ballistic trajectory with quadratic drag and plot it in a fixed-size terminal grid in Python?",
-      "url": "https://stackoverflow.com/questions/80008980/how-to-accurately-compute-ballistic-trajectory-with-quadratic-drag-and-plot-it-i",
-      "published_at": "2026-10-09T18:57:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "terminal",
-        "simulation",
-        "physics",
-        "numerical-methods"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ATHARV"
-    },
-    {
       "title": "Merge two Celery tasks",
       "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
       "published_at": "2026-10-09T05:22:26.000Z",
@@ -2038,6 +2011,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FluidMechanics Potential Flows"
+    },
+    {
+      "title": "How to resolve the Python error 'attempted relative import'",
+      "url": "https://stackoverflow.com/questions/14132789/how-to-resolve-the-python-error-attempted-relative-import",
+      "published_at": "2013-01-03T03:50:40.000Z",
+      "description": "Stack Overflow question · 16 answers · score 1906",
+      "tags": [
+        "python",
+        "python-import",
+        "relative-path",
+        "python-packaging",
+        "relative-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user1881400"
+    },
+    {
+      "title": "Round number to nearest integer in Python 2.7",
+      "url": "https://stackoverflow.com/questions/31818050/round-number-to-nearest-integer-in-python-2-7",
+      "published_at": "2015-08-04T19:51:39.000Z",
+      "description": "Stack Overflow question · 15 answers · score 364",
+      "tags": [
+        "python",
+        "rounding",
+        "python-2.x"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "vandernath"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2293,22 +2296,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 755,
       "user": "bas3line"
-    },
-    {
-      "title": "Playing songs back to back in autoplay in a website",
-      "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
-      "published_at": "2026-10-09T18:09:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "autoplay"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jctech2025"
     },
     {
       "title": "Why do web developers use code editors instead of writing code directly in the browser?",
@@ -2476,7 +2465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 683,
       "user": "wesbos"
     },
     {
@@ -2609,21 +2598,6 @@
       "user": "Gleb Otochkin"
     },
     {
-      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
-      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
-      "published_at": "2026-09-26T11:10:27Z",
-      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "vllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
       "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
       "published_at": "2026-09-26T11:10:24Z",
@@ -2635,6 +2609,21 @@
         "mcp"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
+      "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
+      "published_at": "2026-09-26T11:10:27Z",
+      "description": "A short background on SageMaker real-time endpoints, then a measured comparison of Gemma 4 E2B's QAT w4a16 checkpoint against the full-size bf16 release on the same NVIDIA L4 endpoint: decode speed, parallel throughput, answers and cost.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "vllm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2695,23 +2684,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 725,
       "user": "rociiu"
-    },
-    {
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "published_at": "2026-10-10T16:25:42.000Z",
-      "description": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "tags": [
-        "Enterprise",
-        "Startups",
-        "cloudflare",
-        "Deno"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     }
   ],
   "Database": [
@@ -2768,20 +2742,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "typesanitizer"
-    },
-    {
-      "title": "Consistency is not a localized property",
-      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
-      "published_at": "2026-10-10T19:51:28.569-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "databases",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "b--man"
     }
   ],
   "Security": [
@@ -3089,7 +3049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3350,
+      "stars": 3375,
       "user": "alchaincyf"
     },
     {
@@ -3104,7 +3064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 1516,
+      "stars": 2631,
       "user": "wheresryan22"
     },
     {
@@ -3119,23 +3079,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1320,
+      "stars": 1350,
       "user": "shadany7824"
-    },
-    {
-      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "url": "https://github.com/marclou/mailcheap",
-      "published_at": "2026-10-10T12:55:36Z",
-      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
-      "source": "GitHub",
-      "stars": 690,
-      "user": "marclou"
     },
     {
       "title": "FeiZhuLulu/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
@@ -3149,8 +3094,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 803,
       "user": "FeiZhuLulu"
+    },
+    {
+      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "published_at": "2026-10-10T12:55:36Z",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
+      "source": "GitHub",
+      "stars": 735,
+      "user": "marclou"
     },
     {
       "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
@@ -3164,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2865,
+      "stars": 2987,
       "user": "zhongerxin"
     },
     {
@@ -3179,23 +3139,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2113,
+      "stars": 2147,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "anthropics/oss-scanner - GitHub Repository",
-      "url": "https://github.com/anthropics/oss-scanner",
-      "published_at": "2026-10-08T17:25:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
-      "source": "GitHub",
-      "stars": 756,
-      "user": "anthropics"
     },
     {
       "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
@@ -3224,8 +3169,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 683,
       "user": "wesbos"
+    },
+    {
+      "title": "sirioberati/Genjustsu-Open-Source-Workflow - Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "published_at": "2026-10-06T23:18:18Z",
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "sirioberati"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -3239,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3079,
+      "stars": 3124,
       "user": "mhtsec"
     },
     {
@@ -3254,8 +3214,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 672,
       "user": "Hinln"
+    },
+    {
+      "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "url": "https://github.com/aindeev/agent-chrome-relay",
+      "published_at": "2026-10-10T07:38:27Z",
+      "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
+      "source": "GitHub",
+      "stars": 251,
+      "user": "aindeev"
     },
     {
       "title": "jdx/jactionlint - :octocat: Static checker for GitHub Actions workflow files",
@@ -3269,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216188?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 201,
       "user": "jdx"
     },
     {
@@ -3284,23 +3259,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15378127?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 142,
       "user": "alex0ptr"
-    },
-    {
-      "title": "Stellar-Pathfinder/stellar-pathfinder - A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
-      "url": "https://github.com/Stellar-Pathfinder/stellar-pathfinder",
-      "published_at": "2026-10-06T20:24:40Z",
-      "description": "A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain attestations via Soroban smart contracts.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/338831274?v=4",
-      "source": "GitHub",
-      "stars": 131,
-      "user": "Stellar-Pathfinder"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -3314,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1179,
       "user": "HelixDB"
     },
     {
@@ -3329,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 755,
       "user": "bas3line"
     },
     {
@@ -3344,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 730,
       "user": "ThariqS"
     },
     {
@@ -3359,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 725,
       "user": "rociiu"
     },
     {
@@ -3374,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252071647?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 424,
       "user": "iamlukethedev"
     },
     {
@@ -3389,7 +3349,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 4343,
+      "stars": 5170,
+      "user": "storytold"
+    },
+    {
+      "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "url": "https://github.com/storytold/gridcraft",
+      "published_at": "2026-10-07T05:18:16Z",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 2626,
       "user": "storytold"
     },
     {
@@ -3404,23 +3379,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2464,
+      "stars": 2508,
       "user": "nullmoth"
-    },
-    {
-      "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "url": "https://github.com/storytold/gridcraft",
-      "published_at": "2026-10-07T05:18:16Z",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 2277,
-      "user": "storytold"
     },
     {
       "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
@@ -3434,23 +3394,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2242,
+      "stars": 2469,
       "user": "storytold"
     },
     {
-      "title": "noahdunnagan/fsearch - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-      "url": "https://github.com/noahdunnagan/fsearch",
-      "published_at": "2026-10-08T17:50:33Z",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "title": "storytold/deckcraft - Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "url": "https://github.com/storytold/deckcraft",
+      "published_at": "2026-10-07T05:27:21Z",
+      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1778,
-      "user": "noahdunnagan"
+      "stars": 1872,
+      "user": "storytold"
     },
     {
       "title": "What's Wrong with GitHub",
@@ -3477,21 +3437,6 @@
       "user": "rajtilakjee"
     },
     {
-      "title": "Quaesito: a self-hosted app for quiz nights with friends",
-      "url": "https://github.com/ggirelli/quaesito",
-      "published_at": "2026-10-11T08:57:47.871-05:00",
-      "description": "Hi, I built Quaesito, a self-hosted quiz-night app for playing with friends. I thought it might be useful to others, so I wanted to share it here: https://github.com/ggirelli/quaesito\r\n\r\nIt runs on your laptop, which you can cast or screen-share on to a TV. Friends then connect and answer from their phones, as long as everyone is on the same local network. It support Windows, macOS, and Linux, although I have only tested it on Linux so far, so feedback on the other platforms would be very welcome.\r\n\r\nI was especially careful to make it work over your local network. No requests are sent to third-party services.\r\n\r\nI wanted something that made quiz nights more fun than just a slideshow or a PDF, with support for different types of question formats and multimedia. I have plenty of ideas for additional formats, but I wanted to keep the first release manageable.\r\n\r\nThe project was built entirely through vibe-coding, using Claude Code in an iterative process. I have released it under the MIT license and would appreciate any feedback, particularly from people who try running an actual quiz night with it.\r\n\r\nHope you find it useful, and have as much fun with it as I have!\r\n\r\nOriginal post from my blog: https://ggirelli.info/blog/2026/10/11/quaesito",
-      "tags": [
-        "games",
-        "release",
-        "show",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ggirelli"
-    },
-    {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
       "url": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
       "published_at": "2026-10-06T06:12:53.000Z",
@@ -3506,20 +3451,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chirag Agrawal"
-    },
-    {
-      "title": "How to Break the AI Coding Agent Fix Loop",
-      "url": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
-      "published_at": "2026-10-05T11:55:42.000Z",
-      "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
-      "tags": [
-        "Productivity",
-        "AI",
-        "ai agents"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Amir Gabay"
     }
   ]
 }
