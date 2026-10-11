@@ -16,21 +16,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Congrats to Our First MLH x DEV Writing Challenge Winner!",
-      "url": "https://dev.to/devteam/congrats-to-our-first-mlh-x-dev-writing-challenge-winner-1c4l",
-      "published_at": "2026-10-09T18:56:35Z",
-      "description": "We just wrapped the very first month of the MLH x DEV Writing Challenge, our new way of celebrating...",
-      "tags": [
-        "mlhacks",
-        "devchallenge",
-        "hackathon",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmv2812a2k7g9bk6g3lyk.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up",
       "url": "https://dev.to/gde/gemma-4-from-e2b-to-31b-on-an-amd-mi300x-fp8-overtakes-bf16-from-12b-up-h4e",
       "published_at": "2026-10-09T13:46:34Z",
@@ -91,21 +76,6 @@
       "user": "Swift"
     },
     {
-      "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
-      "url": "https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2",
-      "published_at": "2026-10-09T00:40:57Z",
-      "description": "How replacing fragile linear prompt checklists with a 50-year-old declarative build graph eliminates agent amnesia, enables seamless mid-flight session resumption, and mechanizes software engineering governance.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsj0zkh6xcpxv4otm9a2i.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Making cross-platform local AI easier with llamadart",
       "url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k",
       "published_at": "2026-10-08T00:52:40Z",
@@ -121,6 +91,21 @@
       "user": "Jhin Lee"
     },
     {
+      "title": "Congrats to Our First MLH x DEV Writing Challenge Winner!",
+      "url": "https://dev.to/devteam/congrats-to-our-first-mlh-x-dev-writing-challenge-winner-1c4l",
+      "published_at": "2026-10-09T18:56:35Z",
+      "description": "We just wrapped the very first month of the MLH x DEV Writing Challenge, our new way of celebrating...",
+      "tags": [
+        "mlhacks",
+        "devchallenge",
+        "hackathon",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmv2812a2k7g9bk6g3lyk.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Claude Haiku 5.5 is available on Google Cloud",
       "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
       "published_at": "2026-10-07T18:06:52Z",
@@ -132,6 +117,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
+    },
+    {
+      "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
+      "url": "https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2",
+      "published_at": "2026-10-09T00:40:57Z",
+      "description": "How replacing fragile linear prompt checklists with a 50-year-old declarative build graph eliminates agent amnesia, enables seamless mid-flight session resumption, and mechanizes software engineering governance.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsj0zkh6xcpxv4otm9a2i.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3194,
+      "stars": 3210,
       "user": "alchaincyf"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 487,
       "user": "marclou"
     },
     {
@@ -730,8 +730,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2093,
+      "stars": 2094,
       "user": "LosaLosSantos"
+    },
+    {
+      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-05T11:03:06Z",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "source": "GitHub",
+      "stars": 593,
+      "user": "szabadkai"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -745,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 2898,
+      "stars": 2918,
       "user": "mhtsec"
     },
     {
@@ -775,8 +790,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 692,
       "user": "ThariqS"
+    },
+    {
+      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "published_at": "2026-10-10T09:46:56Z",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
+      "source": "GitHub",
+      "stars": 388,
+      "user": "rociiu"
     },
     {
       "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
@@ -790,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2279,
+      "stars": 2294,
       "user": "nullmoth"
     },
     {
@@ -805,26 +835,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1870,
       "user": "storytold"
     },
     {
-      "title": "There's little that's \"inevitable\" about AI",
-      "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-      "published_at": "2026-10-10T04:08:30.104-05:00",
+      "title": "Consistency is not a localized property",
+      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+      "published_at": "2026-10-10T19:51:28.569-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "vibecoding"
+        "ai",
+        "databases",
+        "programming"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "cgrinds"
+      "user": "b--man"
+    },
+    {
+      "title": "Why 'externalized' proofs of cyclic trait impls does not work",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
+      "published_at": "2026-10-10T11:56:48.129-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
     },
     {
       "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
       "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
       "published_at": "2026-10-10T14:34:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "torch",
@@ -1222,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3194,
+      "stars": 3210,
       "user": "alchaincyf"
     },
     {
@@ -1237,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1201,
+      "stars": 1211,
       "user": "shadany7824"
     },
     {
@@ -1252,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "GTKottman"
     },
     {
@@ -1267,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 532,
       "user": "wesbos"
     },
     {
@@ -1282,23 +1326,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 487,
       "user": "marclou"
-    },
-    {
-      "title": "kargulstudio/sales-crm - GitHub Repository",
-      "url": "https://github.com/kargulstudio/sales-crm",
-      "published_at": "2026-10-04T10:55:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
-      "source": "GitHub",
-      "stars": 1688,
-      "user": "kargulstudio"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -1312,23 +1341,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 1000,
       "user": "HelixDB"
-    },
-    {
-      "title": "rauchg/gdp-ts - GitHub Repository",
-      "url": "https://github.com/rauchg/gdp-ts",
-      "published_at": "2026-10-04T18:55:18Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
-      "source": "GitHub",
-      "stars": 776,
-      "user": "rauchg"
     },
     {
       "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
@@ -1357,8 +1371,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 692,
       "user": "ThariqS"
+    },
+    {
+      "title": "iamlukethedev/Herald-OS - An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "url": "https://github.com/iamlukethedev/Herald-OS",
+      "published_at": "2026-10-06T20:37:44Z",
+      "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252071647?v=4",
+      "source": "GitHub",
+      "stars": 402,
+      "user": "iamlukethedev"
+    },
+    {
+      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "published_at": "2026-10-10T09:46:56Z",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
+      "source": "GitHub",
+      "stars": 388,
+      "user": "rociiu"
     },
     {
       "title": "Kiesel Devlog #15: Release 0.4.0",
@@ -1374,6 +1418,19 @@
       "user": "FedericoSchonborn"
     },
     {
+      "title": "How do I accurately detect gamepad button presses in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80009122/how-do-i-accurately-detect-gamepad-button-presses-in-javascript",
+      "published_at": "2026-10-10T15:12:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "gamepad"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Parking Master"
+    },
+    {
       "title": "How can I validate a specific field in a JSON response using Postman?",
       "url": "https://stackoverflow.com/questions/80009138/how-can-i-validate-a-specific-field-in-a-json-response-using-postman",
       "published_at": "2026-10-10T16:40:04.000Z",
@@ -1386,19 +1443,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad UmarHayat"
-    },
-    {
-      "title": "How do I accurately detect gamepad button presses in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80009122/how-do-i-accurately-detect-gamepad-button-presses-in-javascript",
-      "published_at": "2026-10-10T15:12:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "gamepad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Parking Master"
     },
     {
       "title": "Playing songs back to back in autoplay in a website",
@@ -1756,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2542,
+      "stars": 2565,
       "user": "zhongerxin"
     },
     {
@@ -1771,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2093,
+      "stars": 2094,
       "user": "LosaLosSantos"
     },
     {
@@ -1790,21 +1834,6 @@
       "user": "n1tr00-10"
     },
     {
-      "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
-      "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
-      "published_at": "2026-10-04T05:57:06Z",
-      "description": "Real-time browser demo for Talk Like You",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
-      "source": "GitHub",
-      "stars": 692,
-      "user": "BQ-Wang0511"
-    },
-    {
       "title": "anthropics/oss-scanner - GitHub Repository",
       "url": "https://github.com/anthropics/oss-scanner",
       "published_at": "2026-10-08T17:25:19Z",
@@ -1816,21 +1845,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 664,
       "user": "anthropics"
     },
     {
-      "title": "Python 3.15.0",
-      "url": "https://www.python.org/downloads/release/python-3150/",
-      "published_at": "2026-10-09T12:07:02.641-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-05T11:03:06Z",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
       "tags": [
         "python",
-        "release"
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kaycebasques"
+      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "source": "GitHub",
+      "stars": 593,
+      "user": "szabadkai"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
@@ -1865,7 +1896,7 @@
       "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
       "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
       "published_at": "2026-10-10T14:34:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "torch",
@@ -2409,7 +2440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 532,
       "user": "wesbos"
     }
   ],
@@ -2603,6 +2634,21 @@
       "user": "xbill"
     },
     {
+      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "published_at": "2026-10-10T09:46:56Z",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
+      "source": "GitHub",
+      "stars": 388,
+      "user": "rociiu"
+    },
+    {
       "title": "Cloudflare acquires Deno to improve its Workers programming model",
       "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
       "published_at": "2026-10-10T16:25:42.000Z",
@@ -2659,6 +2705,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Consistency is not a localized property",
+      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+      "published_at": "2026-10-10T19:51:28.569-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "databases",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "b--man"
     },
     {
       "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
@@ -2982,7 +3042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3194,
+      "stars": 3210,
       "user": "alchaincyf"
     },
     {
@@ -2997,7 +3057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1201,
+      "stars": 1211,
       "user": "shadany7824"
     },
     {
@@ -3012,7 +3072,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "GTKottman"
     },
     {
@@ -3027,7 +3087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 532,
       "user": "wesbos"
     },
     {
@@ -3042,7 +3102,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 487,
       "user": "marclou"
     },
     {
@@ -3057,7 +3117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2542,
+      "stars": 2565,
       "user": "zhongerxin"
     },
     {
@@ -3072,7 +3132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2093,
+      "stars": 2094,
       "user": "LosaLosSantos"
     },
     {
@@ -3091,21 +3151,6 @@
       "user": "n1tr00-10"
     },
     {
-      "title": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo - Real-time browser demo for Talk Like You",
-      "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
-      "published_at": "2026-10-04T05:57:06Z",
-      "description": "Real-time browser demo for Talk Like You",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/204159916?v=4",
-      "source": "GitHub",
-      "stars": 692,
-      "user": "BQ-Wang0511"
-    },
-    {
       "title": "anthropics/oss-scanner - GitHub Repository",
       "url": "https://github.com/anthropics/oss-scanner",
       "published_at": "2026-10-08T17:25:19Z",
@@ -3117,8 +3162,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 664,
       "user": "anthropics"
+    },
+    {
+      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-05T11:03:06Z",
+      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "source": "GitHub",
+      "stars": 593,
+      "user": "szabadkai"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -3132,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 2898,
+      "stars": 2918,
       "user": "mhtsec"
     },
     {
@@ -3147,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 618,
       "user": "Hinln"
     },
     {
@@ -3162,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216188?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "jdx"
     },
     {
@@ -3196,21 +3256,6 @@
       "user": "Stellar-Pathfinder"
     },
     {
-      "title": "kargulstudio/sales-crm - GitHub Repository",
-      "url": "https://github.com/kargulstudio/sales-crm",
-      "published_at": "2026-10-04T10:55:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
-      "source": "GitHub",
-      "stars": 1688,
-      "user": "kargulstudio"
-    },
-    {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
       "url": "https://github.com/HelixDB/helix-foundry",
       "published_at": "2026-10-07T05:10:45Z",
@@ -3222,23 +3267,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 1000,
       "user": "HelixDB"
-    },
-    {
-      "title": "rauchg/gdp-ts - GitHub Repository",
-      "url": "https://github.com/rauchg/gdp-ts",
-      "published_at": "2026-10-04T18:55:18Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13041?v=4",
-      "source": "GitHub",
-      "stars": 776,
-      "user": "rauchg"
     },
     {
       "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
@@ -3267,8 +3297,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 692,
       "user": "ThariqS"
+    },
+    {
+      "title": "iamlukethedev/Herald-OS - An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "url": "https://github.com/iamlukethedev/Herald-OS",
+      "published_at": "2026-10-06T20:37:44Z",
+      "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252071647?v=4",
+      "source": "GitHub",
+      "stars": 402,
+      "user": "iamlukethedev"
+    },
+    {
+      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "published_at": "2026-10-10T09:46:56Z",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
+      "source": "GitHub",
+      "stars": 388,
+      "user": "rociiu"
     },
     {
       "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
@@ -3282,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3105,
+      "stars": 3193,
       "user": "storytold"
     },
     {
@@ -3297,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2279,
+      "stars": 2294,
       "user": "nullmoth"
     },
     {
@@ -3312,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1870,
       "user": "storytold"
     },
     {
@@ -3327,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1797,
+      "stars": 1856,
       "user": "storytold"
     },
     {
@@ -3342,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1621,
       "user": "noahdunnagan"
     },
     {
