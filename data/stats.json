@@ -1,41 +1,42 @@
 {
-  "total": 183,
+  "total": 184,
   "by_source": {
     "Dev.to": 60,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
-    "StackOverflow": 19,
+    "StackOverflow": 20,
     "TechCrunch": 10,
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 77,
-    "JavaScript": 35,
+    "AI": 78,
+    "JavaScript": 36,
     "Python": 32,
-    "DevOps": 13,
-    "WebDev": 10,
+    "DevOps": 15,
+    "WebDev": 7,
     "Mobile": 9,
     "Cloud": 15,
     "Database": 5,
     "Security": 14,
-    "Tools": 36
+    "Tools": 38
   },
   "by_language": {
-    "Go": 26,
-    "JavaScript": 35,
-    "Java": 27,
+    "Go": 25,
+    "JavaScript": 36,
+    "Java": 26,
     "Python": 31,
     "Rust": 8,
-    "Kotlin": 2
+    "Kotlin": 2,
+    "PHP": 1
   },
   "by_date": {
-    "2026-10-09": 16,
-    "2026-10-05": 14,
-    "2026-10-08": 15,
+    "2026-10-09": 13,
+    "2026-10-05": 10,
+    "2026-10-08": 16,
     "2026-10-06": 10,
     "2026-10-07": 12,
-    "2026-10-02": 2,
+    "2026-10-02": 3,
     "2026-09-22": 2,
     "2026-09-23": 7,
     "2026-10-01": 3,
@@ -98,18 +99,21 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-10-10": 24,
-    "2026-10-11": 3,
-    "2026-09-14": 1,
+    "2026-10-10": 18,
+    "2026-10-11": 12,
     "2026-06-25": 2,
-    "2026-06-12": 1
+    "2026-02-20": 1,
+    "2016-06-07": 1,
+    "2023-11-01": 1,
+    "2016-01-18": 1,
+    "2026-10-04": 1
   },
   "top_tags": {
     "github": 25,
     "open-source": 25,
     "ai": 20,
     "python": 19,
-    "javascript": 17,
+    "javascript": 16,
     "AI": 16,
     "Python": 11,
     "Security": 10,
@@ -122,17 +126,18 @@
     "programming": 7,
     "rust": 7,
     "discuss": 6,
-    "googlecloud": 6,
     "architecture": 6,
+    "googlecloud": 6,
     "typescript": 6
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "20.2",
-    "JavaScript": "27.1",
-    "Java": "20.9",
+    "Go": "19.4",
+    "JavaScript": "27.9",
+    "Java": "20.2",
     "Python": "24.0",
     "Rust": "6.2",
-    "Kotlin": "1.6"
+    "Kotlin": "1.6",
+    "PHP": "0.8"
   }
 }

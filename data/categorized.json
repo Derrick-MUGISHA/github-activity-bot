@@ -91,19 +91,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "Claude Haiku 5.5 is available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
-      "published_at": "2026-10-07T18:06:52Z",
-      "description": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
-      "tags": [
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
       "url": "https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2",
       "published_at": "2026-10-09T00:40:57Z",
@@ -145,21 +132,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fsubstack-destination%2Fcover.325bdb37.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
-      "published_at": "2026-10-07T01:00:03Z",
-      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
-      "tags": [
-        "googlecloud",
-        "cloud",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
-      "source": "Dev.to",
-      "user": "Ruchika Goel"
     },
     {
       "title": "Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?",
@@ -220,6 +192,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Claude Haiku 5.5 is available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
+      "published_at": "2026-10-07T18:06:52Z",
+      "description": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
+      "tags": [
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Deploying LiteLLM: An Open-Source AI Gateway",
@@ -327,6 +312,21 @@
       "user": "Frank Guan"
     },
     {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
+      "published_at": "2026-10-07T01:00:03Z",
+      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "source": "Dev.to",
+      "user": "Ruchika Goel"
+    },
+    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom",
       "published_at": "2026-10-05T18:03:31Z",
@@ -386,21 +386,6 @@
       "user": "Mika Flowers"
     },
     {
-      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
-      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
-      "published_at": "2026-09-26T11:10:24Z",
-      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
       "published_at": "2026-09-26T11:10:27Z",
@@ -412,6 +397,21 @@
         "vllm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
+      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
+      "published_at": "2026-09-26T11:10:24Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -700,8 +700,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3278,
+      "stars": 3350,
       "user": "alchaincyf"
+    },
+    {
+      "title": "wheresryan22/anatomy - A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "published_at": "2026-10-08T10:12:49Z",
+      "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
+      "source": "GitHub",
+      "stars": 1516,
+      "user": "wheresryan22"
     },
     {
       "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
@@ -715,8 +730,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 690,
       "user": "marclou"
+    },
+    {
+      "title": "FeiZhuLulu/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+      "url": "https://github.com/FeiZhuLulu/DeepSeek-Bot",
+      "published_at": "2026-10-07T15:37:36Z",
+      "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
+      "source": "GitHub",
+      "stars": 667,
+      "user": "FeiZhuLulu"
     },
     {
       "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
@@ -730,23 +760,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2096,
+      "stars": 2113,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font",
-      "published_at": "2026-10-05T11:03:06Z",
-      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
-      "source": "GitHub",
-      "stars": 593,
-      "user": "szabadkai"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -760,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3005,
+      "stars": 3079,
       "user": "mhtsec"
     },
     {
@@ -790,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 720,
       "user": "ThariqS"
     },
     {
@@ -805,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 659,
       "user": "rociiu"
     },
     {
@@ -820,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2370,
+      "stars": 2464,
       "user": "nullmoth"
     },
     {
@@ -835,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2005,
+      "stars": 2242,
       "user": "storytold"
     },
     {
@@ -856,7 +871,7 @@
       "title": "Python script that copies certain lines and writes to other file",
       "url": "https://stackoverflow.com/questions/80009197/python-script-that-copies-certain-lines-and-writes-to-other-file",
       "published_at": "2026-10-11T02:38:14.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 4 answers · score -5",
       "tags": [
         "python"
       ],
@@ -868,15 +883,44 @@
       "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
       "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
       "published_at": "2026-10-10T14:34:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
-        "torch",
+        "pytorch",
         "torchvision"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Laika"
+    },
+    {
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "published_at": "2026-10-11T14:15:00.000Z",
+      "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "tags": [
+        "Media & Entertainment",
+        "Netflix",
+        "Warner Bros",
+        "evergreens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "published_at": "2026-10-11T14:00:00.000Z",
+      "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "tags": [
+        "AI",
+        "otter",
+        "voice AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
@@ -967,20 +1011,20 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "published_at": "2026-10-09T21:41:29.000Z",
-      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
+      "url": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
+      "published_at": "2026-10-11T09:46:41.000Z",
+      "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
       "tags": [
-        "AI",
-        "Startups",
-        "AI model",
-        "Andreessen Horowitz",
-        "In Brief"
+        "software architecture",
+        "Devops",
+        "TypeScript",
+        "observability",
+        "Artificial Intelligence"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "Create Scalable AI Automations with n8n",
@@ -1069,38 +1113,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Amir Gabay"
-    },
-    {
-      "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
-      "url": "https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/",
-      "published_at": "2026-10-05T11:54:16.000Z",
-      "description": "Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi",
-      "tags": [
-        "nestjs",
-        "nest-observe",
-        "observability",
-        "Metrics Tracking",
-        "TypeScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Pacifique Linjanja"
-    },
-    {
-      "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
-      "url": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
-      "published_at": "2026-10-05T10:57:11.000Z",
-      "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
-      "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "email",
-        "Web Development",
-        "Programming Blogs"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Reetain Raina"
     }
   ],
   "JavaScript": [
@@ -1266,8 +1278,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3278,
+      "stars": 3350,
       "user": "alchaincyf"
+    },
+    {
+      "title": "wheresryan22/anatomy - A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "published_at": "2026-10-08T10:12:49Z",
+      "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
+      "source": "GitHub",
+      "stars": 1516,
+      "user": "wheresryan22"
     },
     {
       "title": "shadany7824/playgta5 - A source code for playgta5.com.",
@@ -1281,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1320,
       "user": "shadany7824"
     },
     {
@@ -1296,38 +1323,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 690,
       "user": "marclou"
     },
     {
-      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "published_at": "2026-10-08T18:22:19Z",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "title": "FeiZhuLulu/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+      "url": "https://github.com/FeiZhuLulu/DeepSeek-Bot",
+      "published_at": "2026-10-07T15:37:36Z",
+      "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 574,
-      "user": "wesbos"
-    },
-    {
-      "title": "GTKottman/mortiflix-oss - A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-      "url": "https://github.com/GTKottman/mortiflix-oss",
-      "published_at": "2026-10-05T15:15:13Z",
-      "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "GTKottman"
+      "stars": 667,
+      "user": "FeiZhuLulu"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -1341,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1140,
       "user": "HelixDB"
     },
     {
@@ -1356,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 739,
       "user": "bas3line"
     },
     {
@@ -1371,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 720,
       "user": "ThariqS"
     },
     {
@@ -1386,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 659,
       "user": "rociiu"
     },
     {
@@ -1401,27 +1413,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252071647?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 417,
       "user": "iamlukethedev"
     },
     {
-      "title": "Kiesel Devlog #15: Release 0.4.0",
-      "url": "https://linus.dev/posts/kiesel-devlog-15/",
-      "published_at": "2026-10-10T12:55:46.216-05:00",
+      "title": "How shredding JSON is giving Logfire 1000x query speedups",
+      "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+      "published_at": "2026-10-11T01:16:26.688-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "zig"
+        "databases",
+        "performance"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
+      "user": "typesanitizer"
     },
     {
       "title": "How do I accurately detect gamepad button presses in JavaScript?",
       "url": "https://stackoverflow.com/questions/80009122/how-do-i-accurately-detect-gamepad-button-presses-in-javascript",
       "published_at": "2026-10-10T15:12:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "gamepad"
@@ -1434,7 +1446,7 @@
       "title": "How can I validate a specific field in a JSON response using Postman?",
       "url": "https://stackoverflow.com/questions/80009138/how-can-i-validate-a-specific-field-in-a-json-response-using-postman",
       "published_at": "2026-10-10T16:40:04.000Z",
-      "description": "Stack Overflow question · 3 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "json",
@@ -1459,21 +1471,6 @@
       "user": "jctech2025"
     },
     {
-      "title": "TinyMCE 6: undo() after a DOM move inside undoManager.transact() jumps back past setContent() — is undoManager.add() the right fix?",
-      "url": "https://stackoverflow.com/questions/80008927/tinymce-6-undo-after-a-dom-move-inside-undomanager-transact-jumps-back-past",
-      "published_at": "2026-10-09T13:45:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "tinymce",
-        "undo-redo",
-        "tinymce-6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Bhat"
-    },
-    {
       "title": "How to block and unblock a user from sending messages in a Matrix protocol private room?",
       "url": "https://stackoverflow.com/questions/80008840/how-to-block-and-unblock-a-user-from-sending-messages-in-a-matrix-protocol-priva",
       "published_at": "2026-10-09T06:25:53.000Z",
@@ -1485,37 +1482,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "sunlyhuor"
-    },
-    {
-      "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
-      "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
-      "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "python",
-        "html",
-        "sqlite",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
-    },
-    {
-      "title": "Traversing the DOM of a Service Now page",
-      "url": "https://stackoverflow.com/questions/80003099/traversing-the-dom-of-a-service-now-page",
-      "published_at": "2026-09-14T20:59:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "jquery",
-        "dom",
-        "tampermonkey"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user66001"
     },
     {
       "title": "Drupal - Yoast SEO Snippet preview not rendering: TypeError 'attr is not a function' on native DOM element",
@@ -1549,17 +1515,91 @@
       "user": "Aron tilahun"
     },
     {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Mechanism in Javascript to verify certificate hash",
+      "url": "https://stackoverflow.com/questions/79892801/mechanism-in-javascript-to-verify-certificate-hash",
+      "published_at": "2026-02-20T09:28:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
-        "best-practices"
+        "ssl-certificate",
+        "certificate"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "saurav"
+      "user": "Charles Lohr"
+    },
+    {
+      "title": "How to load image files with webpack file-loader",
+      "url": "https://stackoverflow.com/questions/37671342/how-to-load-image-files-with-webpack-file-loader",
+      "published_at": "2016-06-07T05:40:58.000Z",
+      "description": "Stack Overflow question · 7 answers · score 180",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "webpack"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joey Yi Zhao"
+    },
+    {
+      "title": "Add version to a static file URL during load defined in the footer.blade file",
+      "url": "https://stackoverflow.com/questions/77401793/add-version-to-a-static-file-url-during-load-defined-in-the-footer-blade-file",
+      "published_at": "2023-11-01T10:09:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "php",
+        "laravel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "anoopKumarSharma"
+    },
+    {
+      "title": "How to make a loading animation in Console Application written in JavaScript or NodeJs?",
+      "url": "https://stackoverflow.com/questions/34848505/how-to-make-a-loading-animation-in-console-application-written-in-javascript-or",
+      "published_at": "2016-01-18T06:31:05.000Z",
+      "description": "Stack Overflow question · 4 answers · score 29",
+      "tags": [
+        "javascript",
+        "node.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "     Юрий Светлов"
+    },
+    {
+      "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
+      "url": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
+      "published_at": "2026-10-11T09:46:41.000Z",
+      "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
+      "tags": [
+        "software architecture",
+        "Devops",
+        "TypeScript",
+        "observability",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
+    },
+    {
+      "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
+      "url": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
+      "published_at": "2026-10-11T09:31:06.000Z",
+      "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
+      "tags": [
+        "Next.js",
+        "SEO",
+        "TypeScript",
+        "React",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Saar Twito"
     },
     {
       "title": "Master Modern React Routing: TanStack Router Crash Course",
@@ -1573,22 +1613,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
-      "url": "https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/",
-      "published_at": "2026-10-05T11:54:16.000Z",
-      "description": "Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi",
-      "tags": [
-        "nestjs",
-        "nest-observe",
-        "observability",
-        "Metrics Tracking",
-        "TypeScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Pacifique Linjanja"
     }
   ],
   "Python": [
@@ -1799,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2716,
+      "stars": 2865,
       "user": "zhongerxin"
     },
     {
@@ -1814,23 +1838,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2096,
+      "stars": 2113,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
-      "published_at": "2026-10-09T19:30:14Z",
-      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
-      "source": "GitHub",
-      "stars": 707,
-      "user": "n1tr00-10"
     },
     {
       "title": "anthropics/oss-scanner - GitHub Repository",
@@ -1844,23 +1853,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 756,
       "user": "anthropics"
     },
     {
-      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font",
-      "published_at": "2026-10-05T11:03:06Z",
-      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "published_at": "2026-10-09T19:30:14Z",
+      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
       "source": "GitHub",
-      "stars": 593,
-      "user": "szabadkai"
+      "stars": 710,
+      "user": "n1tr00-10"
+    },
+    {
+      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "published_at": "2026-10-08T18:22:19Z",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "source": "GitHub",
+      "stars": 603,
+      "user": "wesbos"
     },
     {
       "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
@@ -1875,26 +1899,10 @@
       "user": "itamarst"
     },
     {
-      "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
-      "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
-      "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "python",
-        "html",
-        "sqlite",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
-    },
-    {
       "title": "Python script that copies certain lines and writes to other file",
       "url": "https://stackoverflow.com/questions/80009197/python-script-that-copies-certain-lines-and-writes-to-other-file",
       "published_at": "2026-10-11T02:38:14.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 4 answers · score -5",
       "tags": [
         "python"
       ],
@@ -1903,26 +1911,13 @@
       "user": "Wyatt Juul"
     },
     {
-      "title": "why does my model print the value 15 times?",
-      "url": "https://stackoverflow.com/questions/80009169/why-does-my-model-print-the-value-15-times",
-      "published_at": "2026-10-10T18:39:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "google-colaboratory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "pigmentvlek"
-    },
-    {
       "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
       "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
       "published_at": "2026-10-10T14:34:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
-        "torch",
+        "pytorch",
         "torchvision"
       ],
       "cover_image": null,
@@ -1973,6 +1968,19 @@
       "user": "Naira"
     },
     {
+      "title": "Does type-checking have any runtime overhead?",
+      "url": "https://stackoverflow.com/questions/80008650/does-type-checking-have-any-runtime-overhead",
+      "published_at": "2026-10-08T10:01:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "How to accurately compute ballistic trajectory with quadratic drag and plot it in a fixed-size terminal grid in Python?",
       "url": "https://stackoverflow.com/questions/80008980/how-to-accurately-compute-ballistic-trajectory-with-quadratic-drag-and-plot-it-i",
       "published_at": "2026-10-09T18:57:37.000Z",
@@ -2003,17 +2011,33 @@
       "user": "Sandi"
     },
     {
-      "title": "Does type-checking have any runtime overhead?",
-      "url": "https://stackoverflow.com/questions/80008650/does-type-checking-have-any-runtime-overhead",
-      "published_at": "2026-10-08T10:01:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "Apache Spark, PySpark can't write a file on disk",
+      "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
+      "published_at": "2026-10-04T10:42:45.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
-        "python-typing"
+        "docker",
+        "apache-spark",
+        "pyspark"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NickC"
+      "user": "Mike"
+    },
+    {
+      "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
+      "url": "https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n",
+      "published_at": "2026-10-02T10:44:56.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "jupyter-notebook",
+        "pycharm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2182,6 +2206,37 @@
       "user": "jknupp"
     },
     {
+      "title": "Apache Spark, PySpark can't write a file on disk",
+      "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
+      "published_at": "2026-10-04T10:42:45.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "docker",
+        "apache-spark",
+        "pyspark"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mike"
+    },
+    {
+      "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
+      "url": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
+      "published_at": "2026-10-11T09:46:41.000Z",
+      "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
+      "tags": [
+        "software architecture",
+        "Devops",
+        "TypeScript",
+        "observability",
+        "Artificial Intelligence"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
+    },
+    {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
       "url": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
       "published_at": "2026-10-06T06:12:53.000Z",
@@ -2238,21 +2293,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 739,
       "user": "bas3line"
-    },
-    {
-      "title": "Iframes that finally fit their content",
-      "url": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
-      "published_at": "2026-10-10T07:54:56.199-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "css",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "abhin4v"
     },
     {
       "title": "Playing songs back to back in autoplay in a website",
@@ -2267,22 +2309,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jctech2025"
-    },
-    {
-      "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
-      "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
-      "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "python",
-        "html",
-        "sqlite",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     },
     {
       "title": "Why do web developers use code editors instead of writing code directly in the browser?",
@@ -2300,17 +2326,20 @@
       "user": "Aron tilahun"
     },
     {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
+      "url": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
+      "published_at": "2026-10-11T09:31:06.000Z",
+      "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
       "tags": [
-        "javascript",
-        "best-practices"
+        "Next.js",
+        "SEO",
+        "TypeScript",
+        "React",
+        "Web Development"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saurav"
+      "source": "freeCodeCamp",
+      "user": "Saar Twito"
     },
     {
       "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
@@ -2327,22 +2356,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
-      "url": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
-      "published_at": "2026-10-05T10:57:11.000Z",
-      "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
-      "tags": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "email",
-        "Web Development",
-        "Programming Blogs"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Reetain Raina"
     }
   ],
   "Mobile": [
@@ -2457,13 +2470,13 @@
       "published_at": "2026-10-08T18:22:19Z",
       "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 603,
       "user": "wesbos"
     },
     {
@@ -2496,19 +2509,6 @@
       "user": "Martin Omander"
     },
     {
-      "title": "Claude Haiku 5.5 is available on Google Cloud",
-      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
-      "published_at": "2026-10-07T18:06:52Z",
-      "description": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
-      "tags": [
-        "claude",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
       "url": "https://dev.to/googleai/claude-opus-55-is-now-available-on-google-cloud-2oh",
       "published_at": "2026-09-22T17:48:24Z",
@@ -2520,21 +2520,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jtt33mr439wwucin75o.png",
       "source": "Dev.to",
       "user": "Jen Harvey"
-    },
-    {
-      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
-      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
-      "published_at": "2026-10-07T01:00:03Z",
-      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
-      "tags": [
-        "googlecloud",
-        "cloud",
-        "software",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
-      "source": "Dev.to",
-      "user": "Ruchika Goel"
     },
     {
       "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
@@ -2567,6 +2552,19 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Claude Haiku 5.5 is available on Google Cloud",
+      "url": "https://dev.to/googleai/claude-haiku-55-is-available-on-google-cloud-4gn0",
+      "published_at": "2026-10-07T18:06:52Z",
+      "description": "Hey developers!   If you’ve been building autonomous agents or multi-agent orchestrations, you...",
+      "tags": [
+        "claude",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xqp0urcm030lv8w705l.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
       "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
       "published_at": "2026-09-30T19:36:21Z",
@@ -2580,6 +2578,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
       "source": "Dev.to",
       "user": "Jen Looper"
+    },
+    {
+      "title": "stop-using-complex-urls-for-your-demos.us-central1.run.app",
+      "url": "https://dev.to/googleai/stop-using-complex-urls-for-your-demosus-central1runapp-2efd",
+      "published_at": "2026-10-07T01:00:03Z",
+      "description": "Wish you had a custom domain for all of your demos and AI prototypes? When you deploy your apps with...",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "software",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pqsbje0wmav75yf0dkl.png",
+      "source": "Dev.to",
+      "user": "Ruchika Goel"
     },
     {
       "title": "Activating Your Data Layer for Production-Ready AI",
@@ -2596,21 +2609,6 @@
       "user": "Gleb Otochkin"
     },
     {
-      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
-      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
-      "published_at": "2026-09-26T11:10:24Z",
-      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
-      "tags": [
-        "aws",
-        "sagemaker",
-        "gemma",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4",
       "url": "https://dev.to/gde/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-2m9g",
       "published_at": "2026-09-26T11:10:27Z",
@@ -2622,6 +2620,21 @@
         "vllm"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-qat%2Fdevto-cover.88bbac1a.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server",
+      "url": "https://dev.to/gde/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-5cdd",
+      "published_at": "2026-09-26T11:10:24Z",
+      "description": "Step by step deployment of Gemma 4 E2B to a SageMaker real-time endpoint on one NVIDIA L4 with the AWS vLLM container, driven by the aws CLI and managed by a Python MCP server from Claude Code or Gemini CLI.",
+      "tags": [
+        "aws",
+        "sagemaker",
+        "gemma",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fsagemaker-gemma%2Fmain%2Fdocs%2Farticles%2Fsagemaker-gemma-deploy%2Fdevto-cover.e07a8baa.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2682,7 +2695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 659,
       "user": "rociiu"
     },
     {
@@ -2744,6 +2757,19 @@
       "user": "iancarroll"
     },
     {
+      "title": "How shredding JSON is giving Logfire 1000x query speedups",
+      "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+      "published_at": "2026-10-11T01:16:26.688-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "performance"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "typesanitizer"
+    },
+    {
       "title": "Consistency is not a localized property",
       "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
       "published_at": "2026-10-10T19:51:28.569-05:00",
@@ -2756,22 +2782,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "b--man"
-    },
-    {
-      "title": "Flask Can't Call Python Function From HTML Button Using 'onclick'",
-      "url": "https://stackoverflow.com/questions/80008510/flask-cant-call-python-function-from-html-button-using-onclick",
-      "published_at": "2026-10-07T15:49:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "python",
-        "html",
-        "sqlite",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     }
   ],
   "Security": [
@@ -3079,8 +3089,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3278,
+      "stars": 3350,
       "user": "alchaincyf"
+    },
+    {
+      "title": "wheresryan22/anatomy - A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "published_at": "2026-10-08T10:12:49Z",
+      "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
+      "source": "GitHub",
+      "stars": 1516,
+      "user": "wheresryan22"
     },
     {
       "title": "shadany7824/playgta5 - A source code for playgta5.com.",
@@ -3094,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1320,
       "user": "shadany7824"
     },
     {
@@ -3109,38 +3134,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 690,
       "user": "marclou"
     },
     {
-      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "published_at": "2026-10-08T18:22:19Z",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "title": "FeiZhuLulu/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+      "url": "https://github.com/FeiZhuLulu/DeepSeek-Bot",
+      "published_at": "2026-10-07T15:37:36Z",
+      "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 574,
-      "user": "wesbos"
-    },
-    {
-      "title": "GTKottman/mortiflix-oss - A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-      "url": "https://github.com/GTKottman/mortiflix-oss",
-      "published_at": "2026-10-05T15:15:13Z",
-      "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259927371?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "GTKottman"
+      "stars": 667,
+      "user": "FeiZhuLulu"
     },
     {
       "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
@@ -3154,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 2716,
+      "stars": 2865,
       "user": "zhongerxin"
     },
     {
@@ -3169,23 +3179,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2096,
+      "stars": 2113,
       "user": "LosaLosSantos"
-    },
-    {
-      "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
-      "published_at": "2026-10-09T19:30:14Z",
-      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
-      "source": "GitHub",
-      "stars": 707,
-      "user": "n1tr00-10"
     },
     {
       "title": "anthropics/oss-scanner - GitHub Repository",
@@ -3199,23 +3194,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76263028?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 756,
       "user": "anthropics"
     },
     {
-      "title": "szabadkai/c64-keyboard-font - Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font",
-      "published_at": "2026-10-05T11:03:06Z",
-      "description": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.",
+      "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "published_at": "2026-10-09T19:30:14Z",
+      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5462129?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
       "source": "GitHub",
-      "stars": 593,
-      "user": "szabadkai"
+      "stars": 710,
+      "user": "n1tr00-10"
+    },
+    {
+      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "published_at": "2026-10-08T18:22:19Z",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "source": "GitHub",
+      "stars": 603,
+      "user": "wesbos"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -3229,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3005,
+      "stars": 3079,
       "user": "mhtsec"
     },
     {
@@ -3244,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 661,
       "user": "Hinln"
     },
     {
@@ -3259,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216188?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 198,
       "user": "jdx"
     },
     {
@@ -3274,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15378127?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "alex0ptr"
     },
     {
@@ -3304,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1140,
       "user": "HelixDB"
     },
     {
@@ -3319,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 739,
       "user": "bas3line"
     },
     {
@@ -3334,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 720,
       "user": "ThariqS"
     },
     {
@@ -3349,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 659,
       "user": "rociiu"
     },
     {
@@ -3364,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252071647?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 417,
       "user": "iamlukethedev"
     },
     {
@@ -3379,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3508,
+      "stars": 4343,
       "user": "storytold"
     },
     {
@@ -3394,23 +3404,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2370,
+      "stars": 2464,
       "user": "nullmoth"
-    },
-    {
-      "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "url": "https://github.com/storytold/cadcraft",
-      "published_at": "2026-10-07T05:22:31Z",
-      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 2005,
-      "user": "storytold"
     },
     {
       "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
@@ -3424,7 +3419,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2005,
+      "stars": 2277,
+      "user": "storytold"
+    },
+    {
+      "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "url": "https://github.com/storytold/cadcraft",
+      "published_at": "2026-10-07T05:22:31Z",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 2242,
       "user": "storytold"
     },
     {
@@ -3439,21 +3449,47 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
       "source": "GitHub",
-      "stars": 1703,
+      "stars": 1778,
       "user": "noahdunnagan"
     },
     {
-      "title": "What are the safest tools or plugins you use to minify CSS and JavaScript without breaking site layout?",
-      "url": "https://stackoverflow.com/questions/79957083/what-are-the-safest-tools-or-plugins-you-use-to-minify-css-and-javascript-withou",
-      "published_at": "2026-06-12T11:44:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "What's Wrong with GitHub",
+      "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+      "published_at": "2026-10-11T04:37:56.100-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "best-practices"
+        "vcs"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "saurav"
+      "source": "Lobste.rs",
+      "user": "tusharhero"
+    },
+    {
+      "title": "How big is a Git commit?",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "published_at": "2026-10-11T04:25:42.986-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "rajtilakjee"
+    },
+    {
+      "title": "Quaesito: a self-hosted app for quiz nights with friends",
+      "url": "https://github.com/ggirelli/quaesito",
+      "published_at": "2026-10-11T08:57:47.871-05:00",
+      "description": "Hi, I built Quaesito, a self-hosted quiz-night app for playing with friends. I thought it might be useful to others, so I wanted to share it here: https://github.com/ggirelli/quaesito\r\n\r\nIt runs on your laptop, which you can cast or screen-share on to a TV. Friends then connect and answer from their phones, as long as everyone is on the same local network. It support Windows, macOS, and Linux, although I have only tested it on Linux so far, so feedback on the other platforms would be very welcome.\r\n\r\nI was especially careful to make it work over your local network. No requests are sent to third-party services.\r\n\r\nI wanted something that made quiz nights more fun than just a slideshow or a PDF, with support for different types of question formats and multimedia. I have plenty of ideas for additional formats, but I wanted to keep the first release manageable.\r\n\r\nThe project was built entirely through vibe-coding, using Claude Code in an iterative process. I have released it under the MIT license and would appreciate any feedback, particularly from people who try running an actual quiz night with it.\r\n\r\nHope you find it useful, and have as much fun with it as I have!\r\n\r\nOriginal post from my blog: https://ggirelli.info/blog/2026/10/11/quaesito",
+      "tags": [
+        "games",
+        "release",
+        "show",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ggirelli"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
