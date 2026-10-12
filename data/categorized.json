@@ -16,36 +16,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Your Guide to AI Engineer New York 2026",
-      "url": "https://dev.to/dailycontext/your-guide-to-ai-engineer-new-york-2026-2aol",
-      "published_at": "2026-10-11T19:43:07Z",
-      "description": "AI Engineer New York is here! This conference built for Wall Street. Banking, hedge funds, fintech,...",
-      "tags": [
-        "aie",
-        "ai",
-        "events",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6327qvxugwt1kxl9qouz.png",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
-    },
-    {
-      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec",
-      "published_at": "2026-10-09T14:55:22Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "resources",
-        "opportunities"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh3zcvzl5dry5rlbc17m2.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Where to Spend Your Week at AI Engineer New York",
       "url": "https://dev.to/dailycontext/where-to-spend-your-week-at-ai-engineer-new-york-3lg",
       "published_at": "2026-10-11T19:42:14Z",
@@ -57,6 +27,21 @@
         "ai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7pw7k4fv2lxvjyotobdz.png",
+      "source": "Dev.to",
+      "user": "Rachael Berkey"
+    },
+    {
+      "title": "Your Guide to AI Engineer New York 2026",
+      "url": "https://dev.to/dailycontext/your-guide-to-ai-engineer-new-york-2026-2aol",
+      "published_at": "2026-10-11T19:43:07Z",
+      "description": "AI Engineer New York is here! This conference built for Wall Street. Banking, hedge funds, fintech,...",
+      "tags": [
+        "aie",
+        "ai",
+        "events",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6327qvxugwt1kxl9qouz.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
     },
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz09vp969urk3b4ys9l1m.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
+    },
+    {
+      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec",
+      "published_at": "2026-10-09T14:55:22Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "resources",
+        "opportunities"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh3zcvzl5dry5rlbc17m2.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up",
@@ -734,6 +734,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "published_at": "2026-10-08T10:12:49Z",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
+      "source": "GitHub",
+      "stars": 3445,
+      "user": "wheresryan22"
+    },
+    {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "published_at": "2026-10-06T04:49:37Z",
@@ -745,23 +760,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3380,
+      "stars": 3396,
       "user": "alchaincyf"
-    },
-    {
-      "title": "wheresryan22/anatomy - A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "published_at": "2026-10-08T10:12:49Z",
-      "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
-      "source": "GitHub",
-      "stars": 3139,
-      "user": "wheresryan22"
     },
     {
       "title": "FeiZhuLulu/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 887,
       "user": "FeiZhuLulu"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 773,
       "user": "marclou"
     },
     {
@@ -805,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2192,
+      "stars": 2279,
       "user": "LosaLosSantos"
     },
     {
@@ -820,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 652,
       "user": "sirioberati"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3137,
+      "stars": 3164,
       "user": "mhtsec"
     },
     {
@@ -850,8 +850,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "aindeev"
+    },
+    {
+      "title": "bdg9412/artex-ko-plus - ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/bdg9412/artex-ko-plus",
+      "published_at": "2026-10-09T11:36:03Z",
+      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "bdg9412"
     },
     {
       "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
@@ -865,7 +880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 756,
       "user": "rociiu"
     },
     {
@@ -880,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 740,
       "user": "ThariqS"
     },
     {
@@ -895,7 +910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2708,
       "user": "storytold"
     },
     {
@@ -910,7 +925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2524,
+      "stars": 2554,
       "user": "nullmoth"
     },
     {
@@ -940,10 +955,23 @@
       "user": "Laika"
     },
     {
+      "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published_at": "2026-10-12T00:59:01.000Z",
+      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "tags": [
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
       "title": "Will the HomeView be Apple’s first smart home success?",
       "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
       "published_at": "2026-10-11T21:14:40.000Z",
-      "description": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gur",
+      "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
       "tags": [
         "AI",
         "Gadgets",
@@ -1047,20 +1075,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "published_at": "2026-10-11T14:00:00.000Z",
-      "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "tags": [
-        "AI",
-        "otter",
-        "voice AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "What to Do When Your Constants Are Someone Else's Law",
@@ -1321,6 +1335,21 @@
       "user": "velmu"
     },
     {
+      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "published_at": "2026-10-08T10:12:49Z",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
+      "source": "GitHub",
+      "stars": 3445,
+      "user": "wheresryan22"
+    },
+    {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "published_at": "2026-10-06T04:49:37Z",
@@ -1332,23 +1361,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3380,
+      "stars": 3396,
       "user": "alchaincyf"
-    },
-    {
-      "title": "wheresryan22/anatomy - A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "published_at": "2026-10-08T10:12:49Z",
-      "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
-      "source": "GitHub",
-      "stars": 3139,
-      "user": "wheresryan22"
     },
     {
       "title": "shadany7824/playgta5 - A source code for playgta5.com.",
@@ -1362,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1386,
       "user": "shadany7824"
     },
     {
@@ -1377,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 887,
       "user": "FeiZhuLulu"
     },
     {
@@ -1392,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 773,
       "user": "marclou"
     },
     {
@@ -1407,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1217,
       "user": "HelixDB"
     },
     {
@@ -1422,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 766,
       "user": "bas3line"
     },
     {
@@ -1437,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 756,
       "user": "rociiu"
     },
     {
@@ -1452,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 740,
       "user": "ThariqS"
     },
     {
@@ -1467,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252071647?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 430,
       "user": "iamlukethedev"
     },
     {
@@ -1484,10 +1498,24 @@
       "user": "typesanitizer"
     },
     {
+      "title": "Javascript if statement only runs once",
+      "url": "https://stackoverflow.com/questions/80009350/javascript-if-statement-only-runs-once",
+      "published_at": "2026-10-12T00:15:07.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "krim kastro"
+    },
+    {
       "title": "Should I put all the HTML styles in a root directory?",
       "url": "https://stackoverflow.com/questions/80009311/should-i-put-all-the-html-styles-in-a-root-directory",
       "published_at": "2026-10-11T19:28:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
@@ -1598,20 +1626,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Piyush Dabhi"
-    },
-    {
-      "title": "Mechanism in Javascript to verify certificate hash",
-      "url": "https://stackoverflow.com/questions/79892801/mechanism-in-javascript-to-verify-certificate-hash",
-      "published_at": "2026-02-20T09:28:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "ssl-certificate",
-        "certificate"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Charles Lohr"
     },
     {
       "title": "Validate phone number with Yup?",
@@ -1880,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 3019,
+      "stars": 3079,
       "user": "zhongerxin"
     },
     {
@@ -1895,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2192,
+      "stars": 2279,
       "user": "LosaLosSantos"
     },
     {
@@ -1910,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 779,
       "user": "wesbos"
     },
     {
@@ -1940,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 652,
       "user": "sirioberati"
     },
     {
@@ -1958,6 +1972,34 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "kaycebasques"
+    },
+    {
+      "title": "How do I solve an error with a Python scraping program",
+      "url": "https://stackoverflow.com/questions/80009348/how-do-i-solve-an-error-with-a-python-scraping-program",
+      "published_at": "2026-10-12T00:09:34.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "web-scraping"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tim Armstrong"
+    },
+    {
+      "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
+      "url": "https://stackoverflow.com/questions/80009333/when-developing-the-same-package-for-r-and-python-do-you-put-them-in-one-github",
+      "published_at": "2026-10-11T22:37:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "best-practices",
+        "python",
+        "r",
+        "github"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SuperDuperMario"
     },
     {
       "title": "Python script that copies certain lines and writes to other file",
@@ -1986,20 +2028,6 @@
       "user": "Laika"
     },
     {
-      "title": "Does loadTable().to_pandas() transfer all data or only metadata first?",
-      "url": "https://stackoverflow.com/questions/80009030/does-loadtable-to-pandas-transfer-all-data-or-only-metadata-first",
-      "published_at": "2026-10-10T01:17:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "pandas",
-        "dolphindb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Stephanie"
-    },
-    {
       "title": "Does type-checking have any runtime overhead?",
       "url": "https://stackoverflow.com/questions/80008650/does-type-checking-have-any-runtime-overhead",
       "published_at": "2026-10-08T10:01:16.000Z",
@@ -2011,20 +2039,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Merge two Celery tasks",
-      "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
-      "published_at": "2026-10-09T05:22:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "web-scraping",
-        "celery"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sandi"
     },
     {
       "title": "Apache Spark, PySpark can't write a file on disk",
@@ -2056,22 +2070,6 @@
       "user": "FluidMechanics Potential Flows"
     },
     {
-      "title": "How to resolve the Python error 'attempted relative import'",
-      "url": "https://stackoverflow.com/questions/14132789/how-to-resolve-the-python-error-attempted-relative-import",
-      "published_at": "2013-01-03T03:50:40.000Z",
-      "description": "Stack Overflow question · 16 answers · score 1906",
-      "tags": [
-        "python",
-        "python-import",
-        "relative-path",
-        "python-packaging",
-        "relative-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user1881400"
-    },
-    {
       "title": "Round number to nearest integer in Python 2.7",
       "url": "https://stackoverflow.com/questions/31818050/round-number-to-nearest-integer-in-python-2-7",
       "published_at": "2015-08-04T19:51:39.000Z",
@@ -2098,6 +2096,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kudu"
+    },
+    {
+      "title": "How do I calculate square root in Python?",
+      "url": "https://stackoverflow.com/questions/70793490/how-do-i-calculate-square-root-in-python",
+      "published_at": "2022-01-20T21:16:14.000Z",
+      "description": "Stack Overflow question · 11 answers · score 63",
+      "tags": [
+        "python",
+        "math",
+        "sqrt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wjandrea"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2353,14 +2365,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 766,
       "user": "bas3line"
+    },
+    {
+      "title": "Javascript if statement only runs once",
+      "url": "https://stackoverflow.com/questions/80009350/javascript-if-statement-only-runs-once",
+      "published_at": "2026-10-12T00:15:07.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "krim kastro"
     },
     {
       "title": "Should I put all the HTML styles in a root directory?",
       "url": "https://stackoverflow.com/questions/80009311/should-i-put-all-the-html-styles-in-a-root-directory",
       "published_at": "2026-10-11T19:28:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
@@ -2492,7 +2518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 779,
       "user": "wesbos"
     },
     {
@@ -2681,7 +2707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 756,
       "user": "rociiu"
     }
   ],
@@ -3080,6 +3106,21 @@
       "user": "pabs3"
     },
     {
+      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "published_at": "2026-10-08T10:12:49Z",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
+      "source": "GitHub",
+      "stars": 3445,
+      "user": "wheresryan22"
+    },
+    {
       "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
       "published_at": "2026-10-06T04:49:37Z",
@@ -3091,23 +3132,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 3380,
+      "stars": 3396,
       "user": "alchaincyf"
-    },
-    {
-      "title": "wheresryan22/anatomy - A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "published_at": "2026-10-08T10:12:49Z",
-      "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
-      "source": "GitHub",
-      "stars": 3139,
-      "user": "wheresryan22"
     },
     {
       "title": "shadany7824/playgta5 - A source code for playgta5.com.",
@@ -3121,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1386,
       "user": "shadany7824"
     },
     {
@@ -3136,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 887,
       "user": "FeiZhuLulu"
     },
     {
@@ -3151,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 773,
       "user": "marclou"
     },
     {
@@ -3166,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
       "source": "GitHub",
-      "stars": 3019,
+      "stars": 3079,
       "user": "zhongerxin"
     },
     {
@@ -3181,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
       "source": "GitHub",
-      "stars": 2192,
+      "stars": 2279,
       "user": "LosaLosSantos"
     },
     {
@@ -3196,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 779,
       "user": "wesbos"
     },
     {
@@ -3226,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 652,
       "user": "sirioberati"
     },
     {
@@ -3241,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3137,
+      "stars": 3164,
       "user": "mhtsec"
     },
     {
@@ -3256,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 681,
       "user": "Hinln"
     },
     {
@@ -3271,23 +3297,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 253,
       "user": "aindeev"
-    },
-    {
-      "title": "jdx/jactionlint - :octocat: Static checker for GitHub Actions workflow files",
-      "url": "https://github.com/jdx/jactionlint",
-      "published_at": "2026-10-05T00:42:21Z",
-      "description": ":octocat: Static checker for GitHub Actions workflow files",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/216188?v=4",
-      "source": "GitHub",
-      "stars": 203,
-      "user": "jdx"
     },
     {
       "title": "alex0ptr/once - Run a command once, reuse its output for a while.",
@@ -3301,8 +3312,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15378127?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "alex0ptr"
+    },
+    {
+      "title": "bdg9412/artex-ko-plus - ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/bdg9412/artex-ko-plus",
+      "published_at": "2026-10-09T11:36:03Z",
+      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "bdg9412"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -3316,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1217,
       "user": "HelixDB"
     },
     {
@@ -3331,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 766,
       "user": "bas3line"
     },
     {
@@ -3346,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 756,
       "user": "rociiu"
     },
     {
@@ -3361,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 740,
       "user": "ThariqS"
     },
     {
@@ -3376,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252071647?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 430,
       "user": "iamlukethedev"
     },
     {
@@ -3391,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 5739,
+      "stars": 6063,
       "user": "storytold"
     },
     {
@@ -3406,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2848,
+      "stars": 2971,
       "user": "storytold"
     },
     {
@@ -3421,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2708,
       "user": "storytold"
     },
     {
@@ -3436,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2524,
+      "stars": 2554,
       "user": "nullmoth"
     },
     {
@@ -3451,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1991,
+      "stars": 2048,
       "user": "storytold"
     },
     {
@@ -3477,6 +3503,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "rajtilakjee"
+    },
+    {
+      "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
+      "url": "https://stackoverflow.com/questions/80009333/when-developing-the-same-package-for-r-and-python-do-you-put-them-in-one-github",
+      "published_at": "2026-10-11T22:37:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "best-practices",
+        "python",
+        "r",
+        "github"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SuperDuperMario"
     },
     {
       "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",

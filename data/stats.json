@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 81,
+    "AI": 82,
     "JavaScript": 36,
     "Python": 32,
     "DevOps": 15,
-    "WebDev": 7,
+    "WebDev": 8,
     "Mobile": 6,
     "Cloud": 12,
     "Database": 4,
     "Security": 16,
-    "Tools": 37
+    "Tools": 38
   },
   "by_language": {
     "Go": 25,
@@ -31,9 +31,9 @@
   },
   "by_date": {
     "2026-10-11": 31,
+    "2026-10-05": 9,
     "2026-10-09": 10,
-    "2026-10-05": 10,
-    "2026-10-10": 9,
+    "2026-10-10": 8,
     "2026-10-08": 15,
     "2026-10-06": 10,
     "2026-10-07": 14,
@@ -97,22 +97,22 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
+    "2026-10-12": 3,
     "2026-06-25": 2,
     "2026-04-22": 1,
-    "2026-02-20": 1,
     "2018-09-24": 1,
     "2026-10-04": 1,
-    "2013-01-03": 1,
     "2015-08-04": 1,
-    "2010-06-01": 1
+    "2010-06-01": 1,
+    "2022-01-20": 1
   },
   "top_tags": {
-    "github": 25,
+    "github": 26,
     "open-source": 25,
     "ai": 23,
     "python": 20,
     "javascript": 16,
-    "AI": 13,
+    "AI": 12,
     "Python": 11,
     "Security": 10,
     "JavaScript": 10,
@@ -125,8 +125,8 @@
     "typescript": 6,
     "googlecloud": 5,
     "go": 5,
-    "architecture": 4,
-    "aie": 4
+    "TechCrunch Disrupt": 5,
+    "architecture": 4
   },
   "trending_topics": [],
   "language_percentages": {
