@@ -1,19 +1,34 @@
 {
   "AI": [
     {
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
-      "published_at": "2026-10-12T04:21:36Z",
-      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
+      "title": "What 9,050 AI-Written Scripts Taught Me About Slop",
+      "url": "https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n",
+      "published_at": "2026-10-12T21:03:36Z",
+      "description": "You’ve read way too many versions of this paragraph already. Probably even this week:   “In today’s...",
       "tags": [
         "ai",
-        "programming",
-        "architecture",
-        "productivity"
+        "llm",
+        "aie",
+        "openweight"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jcfndik4zmecrxf21x7.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Louis-Francois Bouchard"
+    },
+    {
+      "title": "We moved a production backend from a phone",
+      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
+      "published_at": "2026-10-13T13:19:33Z",
+      "description": "Every era of the cloud has a unit of work. For agents, it’s a human who directs, a controller who...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
     },
     {
       "title": "Local embeddings with llamadart: how llamas share secrets",
@@ -31,19 +46,19 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
-      "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
-      "published_at": "2026-10-12T10:30:20Z",
-      "description": "Kubernetes troubleshooting often requires engineers to correlate pod events, container logs, resource...",
+      "title": "AI Needs a Test That Fights Back",
+      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "published_at": "2026-10-12T21:03:49Z",
+      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
       "tags": [
-        "agents",
         "ai",
-        "cloud",
-        "kubernetes"
+        "opensource",
+        "testing",
+        "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
       "source": "Dev.to",
-      "user": "Saurabh Mishra"
+      "user": "Ramakrishnan Lokanathan"
     },
     {
       "title": "One Weekend: 3,000 Open-Source AI Projects",
@@ -61,35 +76,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba",
-      "published_at": "2026-10-12T19:01:08Z",
-      "description": "Week 2 of our five Hacktoberfest DEV Challenges starts today! Running through October 18, the...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fou65yjgbkeh3zntchd3k.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "It's Not the Model, It's You",
-      "url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi",
-      "published_at": "2026-10-11T19:45:15Z",
-      "description": "Every time a new frontier model comes out, we go through the same rituals: benchmarks get reported,...",
-      "tags": [
-        "aie",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmx3l635656p6ocz76xow.png",
-      "source": "Dev.to",
-      "user": "Nicholas Arcolano"
-    },
-    {
       "title": "ROI That Survives the Second Question",
       "url": "https://dev.to/dailycontext/roi-that-survives-the-second-question-4na0",
       "published_at": "2026-10-11T19:43:33Z",
@@ -105,19 +91,19 @@
       "user": "Sid Pednekar"
     },
     {
-      "title": "Your Guide to AI Engineer New York 2026",
-      "url": "https://dev.to/dailycontext/your-guide-to-ai-engineer-new-york-2026-2aol",
-      "published_at": "2026-10-11T19:43:07Z",
-      "description": "AI Engineer New York is here! This conference built for Wall Street. Banking, hedge funds, fintech,...",
+      "title": "Agents Can’t Decide What’s Okay to Break",
+      "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
+      "published_at": "2026-10-12T20:58:59Z",
+      "description": "There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...",
       "tags": [
+        "hacktoberfest",
+        "security",
         "aie",
-        "ai",
-        "events",
         "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6327qvxugwt1kxl9qouz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png",
       "source": "Dev.to",
-      "user": "Rachael Berkey"
+      "user": "Jonathan Gottfried"
     },
     {
       "title": "Where to Spend Your Week at AI Engineer New York",
@@ -150,6 +136,182 @@
       "user": "supriya subudhi"
     },
     {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba",
+      "published_at": "2026-10-12T19:01:08Z",
+      "description": "Week 2 of our five Hacktoberfest DEV Challenges starts today! Running through October 18, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fou65yjgbkeh3zntchd3k.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
+      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
+      "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
+      "published_at": "2026-10-12T21:02:54Z",
+      "description": "Does the progress in frontier AI capabilities lead to superhuman performance in finance?  Finance is...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "finance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
+      "source": "Dev.to",
+      "user": "Ashwin Paranjape"
+    },
+    {
+      "title": "Code is abundant. Confidence is a formula.",
+      "url": "https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6",
+      "published_at": "2026-10-12T21:01:56Z",
+      "description": "AI can make code creation abundant. The harder challenge is building confidence in what gets...",
+      "tags": [
+        "ai",
+        "agents",
+        "codequality",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchi4t2fjezcd9b8kxmib.png",
+      "source": "Dev.to",
+      "user": "Manish Kapur"
+    },
+    {
+      "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
+      "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
+      "published_at": "2026-10-12T21:03:17Z",
+      "description": "Written by John Feminella  We now inhabit a world where agents can execute operations in production...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
+      "title": "What 1,368 Real-World AI Incidents Teach Us About Evaluation",
+      "url": "https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p",
+      "published_at": "2026-10-12T21:03:06Z",
+      "description": "AI evaluation has become increasingly sophisticated at testing individual models. We measure...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "testing",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4yw0p94syuwbx8fe782v.png",
+      "source": "Dev.to",
+      "user": "Vishal Srivastava"
+    },
+    {
+      "title": "AI Engineering Has Entered Its Audit Era",
+      "url": "https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl",
+      "published_at": "2026-10-12T21:01:03Z",
+      "description": "A conference agenda is a pretty decent dataset.  Between what is pitched and what is accepted, it's...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpg8dmb5jdcmecrofu1c6.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
+      "url": "https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g",
+      "published_at": "2026-10-12T20:56:49Z",
+      "description": "Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...",
+      "tags": [
+        "ai",
+        "agents",
+        "hackathon",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
+      "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
+      "published_at": "2026-10-12T21:04:02Z",
+      "description": "Vinoo Ganesh is the CEO of Kepler, which builds AI for industries where accuracy matters, starting...",
+      "tags": [
+        "ai",
+        "finance",
+        "aie",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faw97cf53e0ffp40owy5z.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23",
+      "published_at": "2026-10-12T21:00:36Z",
+      "description": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can...",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2w4jruci4ticsodem7oi.png",
+      "source": "Dev.to",
+      "user": "Richard MacManus"
+    },
+    {
+      "title": "Workshop Day Opens AI Engineer NYC",
+      "url": "https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2",
+      "published_at": "2026-10-12T21:00:19Z",
+      "description": "AI Engineer NYC kicked off yesterday with a day devoted to workshops: 18 hands-on sessions built for...",
+      "tags": [
+        "ai",
+        "agents",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ctujqzcft2psrp35d48.png",
+      "source": "Dev.to",
+      "user": "Rachael Berkey"
+    },
+    {
+      "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
+      "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
+      "published_at": "2026-10-12T10:30:20Z",
+      "description": "Kubernetes troubleshooting often requires engineers to correlate pod events, container logs, resource...",
+      "tags": [
+        "agents",
+        "ai",
+        "cloud",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
+      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
+      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go",
+      "published_at": "2026-10-12T00:48:29Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futwx2ar2udsipq6vr6ww.jpg",
+      "source": "Dev.to",
+      "user": "İclal Doğan"
+    },
+    {
       "title": "Does your agent have ID?",
       "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok",
       "published_at": "2026-10-11T19:42:56Z",
@@ -175,21 +337,6 @@
         "analyst"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnu7o30myn1ar5jvela14.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
-      "published_at": "2026-10-11T19:45:03Z",
-      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
-      "tags": [
-        "aie",
-        "ai",
-        "infrastructure",
-        "data"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
     },
@@ -224,6 +371,21 @@
       "user": "dev.to staff"
     },
     {
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "published_at": "2026-10-11T19:45:03Z",
+      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "tags": [
+        "aie",
+        "ai",
+        "infrastructure",
+        "data"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
       "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
       "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
       "published_at": "2026-10-11T00:59:52Z",
@@ -254,17 +416,48 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
-      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go",
-      "published_at": "2026-10-12T00:48:29Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
+      "published_at": "2026-10-12T04:21:36Z",
+      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
       "tags": [
-        "devchallenge",
-        "hf26challenge"
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futwx2ar2udsipq6vr6ww.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
       "source": "Dev.to",
-      "user": "İclal Doğan"
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "It's Not the Model, It's You",
+      "url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi",
+      "published_at": "2026-10-11T19:45:15Z",
+      "description": "Every time a new frontier model comes out, we go through the same rituals: benchmarks get reported,...",
+      "tags": [
+        "aie",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmx3l635656p6ocz76xow.png",
+      "source": "Dev.to",
+      "user": "Nicholas Arcolano"
+    },
+    {
+      "title": "What The Rebirth of Classifiers Tells Us About ChatGPT's Success",
+      "url": "https://dev.to/dailycontext/what-the-rebirth-of-classifiers-tells-us-about-chatgpts-success-d90",
+      "published_at": "2026-10-12T21:02:39Z",
+      "description": "One of the unexpected releases of Sept 2026 was Jev, a promptable classifier that took X and the...",
+      "tags": [
+        "ai",
+        "llm",
+        "chatgpt",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7bwzjdvauca7wc5vgfm.png",
+      "source": "Dev.to",
+      "user": "Denys Linkov"
     },
     {
       "title": "Your Agent Paid. That Does Not Mean It Should Have.",
@@ -294,6 +487,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9yjv4n8swbjedtkb64e4.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Your Guide to AI Engineer New York 2026",
+      "url": "https://dev.to/dailycontext/your-guide-to-ai-engineer-new-york-2026-2aol",
+      "published_at": "2026-10-11T19:43:07Z",
+      "description": "AI Engineer New York is here! This conference built for Wall Street. Banking, hedge funds, fintech,...",
+      "tags": [
+        "aie",
+        "ai",
+        "events",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6327qvxugwt1kxl9qouz.png",
+      "source": "Dev.to",
+      "user": "Rachael Berkey"
     },
     {
       "title": "Welcome to AI Engineer New York",
@@ -488,36 +696,6 @@
       "user": "xbill"
     },
     {
-      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
-      "published_at": "2026-10-05T04:10:50Z",
-      "description": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "jev",
-        "dataflow"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Llama Village: a virtual world powered by local AI with llamadart",
-      "url": "https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi",
-      "published_at": "2026-10-08T22:34:10Z",
-      "description": "Llama Village in motion. The characters’ dialogue is generated by an on-device model.  Watch the...",
-      "tags": [
-        "flutter",
-        "ai",
-        "gamedev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjgsr3swidyjgd94d9f8m.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
       "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
       "published_at": "2026-09-30T01:25:29Z",
@@ -531,111 +709,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
-    },
-    {
-      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
-      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
-      "published_at": "2026-09-23T19:19:19Z",
-      "description": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
-      "tags": [
-        "ai",
-        "llm",
-        "docker",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
-      "source": "Dev.to",
-      "user": "Sanskriti Harmukh"
-    },
-    {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "published_at": "2026-09-23T11:31:31Z",
-      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "tags": [
-        "buildinpublic",
-        "webdev",
-        "nextjs",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
-    },
-    {
-      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
-      "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
-      "published_at": "2026-09-30T19:36:21Z",
-      "description": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
-      "tags": [
-        "arduino",
-        "iot",
-        "ai",
-        "hf26challenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
-      "title": "A wine cellar that remembers what you used to believe",
-      "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
-      "published_at": "2026-09-30T22:49:21Z",
-      "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange           What I...",
-      "tags": [
-        "sanitychallenge",
-        "devchallenge",
-        "ai",
-        "sanity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n2dqcxgghv78nz0rtoq.png",
-      "source": "Dev.to",
-      "user": "Ken W Alger"
-    },
-    {
-      "title": "Making cross-platform local AI easier with llamadart",
-      "url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k",
-      "published_at": "2026-10-08T00:52:40Z",
-      "description": "My writing assistant could talk to Gemini. The missing piece was using it without a connection.  That...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0wr458egowr32pcn8l9.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
-      "title": "An introverted dev in an extroverted world",
-      "url": "https://dev.to/ikrame-ih/an-introverted-dev-in-an-extroverted-world-4p04",
-      "published_at": "2026-09-23T12:02:12Z",
-      "description": "\"Explain it to me in dev terms.\"  My social battery has a rate limit.  The world isn't made for...",
-      "tags": [
-        "watercooler",
-        "career",
-        "networking",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
-      "source": "Dev.to",
-      "user": "Ikrame Ibn Hayoun"
-    },
-    {
-      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
-      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
-      "published_at": "2026-09-30T16:45:07Z",
-      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
-      "tags": [
-        "ai",
-        "python",
-        "langchain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
-      "source": "Dev.to",
-      "user": "Frank Guan"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -817,7 +890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 6854,
+      "stars": 7686,
       "user": "wheresryan22"
     },
     {
@@ -832,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1628,
       "user": "Fei2411"
     },
     {
@@ -847,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 859,
       "user": "marclou"
     },
     {
@@ -862,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 1331,
       "user": "onehumanbeing"
     },
     {
@@ -877,7 +950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 826,
       "user": "zhuyansen"
     },
     {
@@ -892,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 674,
       "user": "jwuthri-cloud"
     },
     {
@@ -907,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3707,
+      "stars": 3846,
       "user": "mhtsec"
     },
     {
@@ -922,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 867,
       "user": "trhhubsd"
     },
     {
@@ -937,23 +1010,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 262,
       "user": "aindeev"
-    },
-    {
-      "title": "bdg9412/artex-ko-plus - ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/bdg9412/artex-ko-plus",
-      "published_at": "2026-10-09T11:36:03Z",
-      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "bdg9412"
     },
     {
       "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
@@ -967,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 931,
       "user": "rociiu"
     },
     {
@@ -982,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 782,
       "user": "ThariqS"
     },
     {
@@ -997,14 +1055,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3656,
+      "stars": 3951,
       "user": "storytold"
     },
     {
-      "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce cards on macOS Sequoia",
       "url": "https://github.com/nullmoth/nvidia-macos-driver",
       "published_at": "2026-10-07T08:13:12Z",
-      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
       "tags": [
         "rust",
         "github",
@@ -1012,61 +1070,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2808,
+      "stars": 2871,
       "user": "nullmoth"
-    },
-    {
-      "title": "Vi Hart's Big Navier-Stokes Post",
-      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
-      "published_at": "2026-10-12T20:29:49.487-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "math"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "archagon"
-    },
-    {
-      "title": "'AI' is Not a Tool",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "published_at": "2026-10-11T20:18:09.541-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "regulator"
-    },
-    {
-      "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
-      "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
-      "published_at": "2026-10-12T07:23:52.273-05:00",
-      "description": "This popped up and reminded me strangely of a story post a month ago here:\r\n\r\nhttps://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers\r\n\r\nAnd, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by [french newspaper Le Monde](https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html): the danish company Danfoss. I could not find sources mentioning the supplier in English.",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aldantanneo"
-    },
-    {
-      "title": "Link-in-Bio site \"Pages\" (portfolio layout) feature not working as intended (GSAP)",
-      "url": "https://stackoverflow.com/questions/80009532/link-in-bio-site-pages-portfolio-layout-feature-not-working-as-intended-gsa",
-      "published_at": "2026-10-12T18:07:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "next.js",
-        "web",
-        "tailwind-css",
-        "gsap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "fedded.dev"
     },
     {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
@@ -1083,168 +1088,113 @@
       "user": "somglin wu"
     },
     {
-      "title": "Python script that copies certain lines and writes to other file",
-      "url": "https://stackoverflow.com/questions/80009197/python-script-that-copies-certain-lines-and-writes-to-other-file",
-      "published_at": "2026-10-11T02:38:14.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
+      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+      "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+      "published_at": "2026-10-13T15:02:00.000Z",
+      "description": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
       "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wyatt Juul"
-    },
-    {
-      "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
-      "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
-      "published_at": "2026-10-10T14:34:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "pytorch",
-        "torchvision"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Laika"
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "published_at": "2026-10-12T17:56:56.000Z",
-      "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "tags": [
-        "AI",
-        "ai models",
-        "frontier models",
-        "meta superintelligence lab",
-        "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "published_at": "2026-10-12T17:19:14.000Z",
-      "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "tags": [
-        "AI",
         "Startups",
-        "Exclusive",
-        "Windborne Systems"
+        "TechCrunch Disrupt",
+        "Startup Battlefield 200"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Tim Fernholz"
+      "user": "Isabelle Johannessen"
     },
     {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "published_at": "2026-10-12T15:45:00.000Z",
-      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say &#8216;on Spotify&#8217;",
+      "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+      "published_at": "2026-10-13T14:30:12.000Z",
+      "description": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
       "tags": [
-        "AI",
+        "Apps",
         "Media & Entertainment",
-        "Startups",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
+        "Apple",
+        "iOS 27",
+        "siri"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Sarah Perez"
     },
     {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "published_at": "2026-10-12T15:31:19.000Z",
-      "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "published_at": "2026-10-13T13:50:19.000Z",
+      "description": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "AI regulation",
-        "Brad Smith",
-        "Microsoft"
+        "Apps",
+        "cursor",
+        "Grok",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "user": "Sarah Perez"
     },
     {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "published_at": "2026-10-12T15:27:59.000Z",
-      "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+      "published_at": "2026-10-13T13:38:03.000Z",
+      "description": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
       "tags": [
-        "AI",
-        "blueprints",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-      "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-      "published_at": "2026-10-12T15:11:19.000Z",
-      "description": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
-      "tags": [
-        "Hardware",
-        "fitbit",
-        "Google",
-        "smartwatches"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "published_at": "2026-10-12T14:00:00.000Z",
-      "description": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $10",
-      "tags": [
-        "AI",
-        "Fintech",
-        "Fundraising",
-        "Startups",
-        "Venture"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "published_at": "2026-10-12T12:47:59.000Z",
-      "description": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather a",
-      "tags": [
-        "AI",
-        "Fundraising",
         "Gadgets",
-        "Hardware",
-        "AI agents"
+        "Apple",
+        "homepod mini",
+        "siri ai"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
     },
     {
-      "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "published_at": "2026-10-12T00:59:01.000Z",
-      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "published_at": "2026-10-13T13:28:06.000Z",
+      "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
       "tags": [
+        "AI",
         "Startups",
+        "Venture",
+        "Startup Battlefield 200",
         "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
+    },
+    {
+      "title": "India delays digital payments fee rollout amid retailer pushback",
+      "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+      "published_at": "2026-10-13T13:25:05.000Z",
+      "description": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+      "tags": [
+        "Fintech",
+        "digital payments",
+        "NPCI",
+        "unified payments interface",
+        "UPI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+      "published_at": "2026-10-13T13:16:11.000Z",
+      "description": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "TC",
+        "Apple",
+        "apple tv"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
@@ -1352,36 +1302,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
-      "published_at": "2026-09-23T14:23:57Z",
-      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
-      "tags": [
-        "typescript",
-        "javascript",
-        "webdev",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif",
-      "source": "Dev.to",
-      "user": "nyaomaru"
-    },
-    {
-      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
-      "url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
-      "published_at": "2026-09-23T11:31:31Z",
-      "description": "DEV Library is my idea of first-person 3D reimagining of DEV.to. Not a themed scene with some...",
-      "tags": [
-        "buildinpublic",
-        "webdev",
-        "nextjs",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs4n0kxkyv15gwcnc1xnm.jpeg",
-      "source": "Dev.to",
-      "user": "Mika Flowers"
-    },
     {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
@@ -1514,23 +1434,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 6854,
+      "stars": 7686,
       "user": "wheresryan22"
-    },
-    {
-      "title": "shadany7824/playgta5 - A source code for playgta5.com.",
-      "url": "https://github.com/shadany7824/playgta5",
-      "published_at": "2026-10-07T08:37:15Z",
-      "description": "A source code for playgta5.com.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
-      "source": "GitHub",
-      "stars": 1508,
-      "user": "shadany7824"
     },
     {
       "title": "Fei2411/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
@@ -1544,8 +1449,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1628,
       "user": "Fei2411"
+    },
+    {
+      "title": "shadany7824/playgta5 - A source code for playgta5.com.",
+      "url": "https://github.com/shadany7824/playgta5",
+      "published_at": "2026-10-07T08:37:15Z",
+      "description": "A source code for playgta5.com.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
+      "source": "GitHub",
+      "stars": 1544,
+      "user": "shadany7824"
     },
     {
       "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
@@ -1559,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 859,
       "user": "marclou"
     },
     {
@@ -1574,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 827,
       "user": "T-Auto"
     },
     {
@@ -1589,23 +1509,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1384,
       "user": "HelixDB"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 918,
-      "user": "rociiu"
     },
     {
       "title": "shaongitbd/doory - Open source canva alternative",
@@ -1619,8 +1524,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 988,
       "user": "shaongitbd"
+    },
+    {
+      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "published_at": "2026-10-10T09:46:56Z",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
+      "source": "GitHub",
+      "stars": 931,
+      "user": "rociiu"
     },
     {
       "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
@@ -1634,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 825,
       "user": "bas3line"
     },
     {
@@ -1649,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 782,
       "user": "ThariqS"
     },
     {
@@ -1664,22 +1584,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe"
-    },
-    {
-      "title": "Link-in-Bio site \"Pages\" (portfolio layout) feature not working as intended (GSAP)",
-      "url": "https://stackoverflow.com/questions/80009532/link-in-bio-site-pages-portfolio-layout-feature-not-working-as-intended-gsa",
-      "published_at": "2026-10-12T18:07:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "next.js",
-        "web",
-        "tailwind-css",
-        "gsap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "fedded.dev"
     },
     {
       "title": "Javascript if statement only runs once",
@@ -1751,21 +1655,6 @@
       "user": "ashcr"
     },
     {
-      "title": "TinyMCE 6: undo() after a DOM move inside undoManager.transact() jumps back past setContent() — is undoManager.add() the right fix?",
-      "url": "https://stackoverflow.com/questions/80008927/tinymce-6-undo-after-a-dom-move-inside-undomanager-transact-jumps-back-past",
-      "published_at": "2026-10-09T13:45:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "tinymce",
-        "undo-redo",
-        "tinymce-6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Bhat"
-    },
-    {
       "title": "How can I validate and pretty-print JSON in JavaScript?",
       "url": "https://stackoverflow.com/questions/79930276/how-can-i-validate-and-pretty-print-json-in-javascript",
       "published_at": "2026-04-22T18:18:03.000Z",
@@ -1793,6 +1682,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dwinnbrown"
+    },
+    {
+      "title": "Validate phone number with Yup?",
+      "url": "https://stackoverflow.com/questions/52483260/validate-phone-number-with-yup",
+      "published_at": "2018-09-24T16:04:18.000Z",
+      "description": "Stack Overflow question · 11 answers · score 87",
+      "tags": [
+        "javascript",
+        "yup"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Evanss"
+    },
+    {
+      "title": "Error: Cannot find module 'node:path' while running \"npm -v\" or \"npm --version\"",
+      "url": "https://stackoverflow.com/questions/78526938/error-cannot-find-module-nodepath-while-running-npm-v-or-npm-version",
+      "published_at": "2024-05-24T06:57:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 10",
+      "tags": [
+        "javascript",
+        "node.js",
+        "npm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sangram Badi"
     },
     {
       "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
@@ -1841,21 +1757,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
-      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
-      "published_at": "2026-09-30T16:45:07Z",
-      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
-      "tags": [
-        "ai",
-        "python",
-        "langchain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
-      "source": "Dev.to",
-      "user": "Frank Guan"
-    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1977,21 +1878,6 @@
       "user": "arathore"
     },
     {
-      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "published_at": "2026-10-08T18:22:19Z",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
-      "source": "GitHub",
-      "stars": 975,
-      "user": "wesbos"
-    },
-    {
       "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "published_at": "2026-10-11T19:10:25Z",
@@ -2003,8 +1889,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 1331,
       "user": "onehumanbeing"
+    },
+    {
+      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "published_at": "2026-10-08T18:22:19Z",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "source": "GitHub",
+      "stars": 1011,
+      "user": "wesbos"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -2018,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 826,
       "user": "zhuyansen"
     },
     {
@@ -2033,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 712,
       "user": "n1tr00-10"
     },
     {
@@ -2048,8 +1949,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 674,
       "user": "jwuthri-cloud"
+    },
+    {
+      "title": "How do I safely remove unused asyncio locks without causing duplicate requests?",
+      "url": "https://stackoverflow.com/questions/80009471/how-do-i-safely-remove-unused-asyncio-locks-without-causing-duplicate-requests",
+      "published_at": "2026-10-12T13:09:22.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "locking",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Faheem"
     },
     {
       "title": "Get sum of calculated column in aggregated request",
@@ -2065,24 +1980,10 @@
       "user": "lesnik"
     },
     {
-      "title": "How do I safely remove unused asyncio locks without causing duplicate requests?",
-      "url": "https://stackoverflow.com/questions/80009471/how-do-i-safely-remove-unused-asyncio-locks-without-causing-duplicate-requests",
-      "published_at": "2026-10-12T13:09:22.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "locking",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Faheem"
-    },
-    {
       "title": "How can I color specific words in live time in a QTextEdit?",
       "url": "https://stackoverflow.com/questions/80009455/how-can-i-color-specific-words-in-live-time-in-a-qtextedit",
       "published_at": "2026-10-12T11:44:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "user-interface",
@@ -2093,18 +1994,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hossein Dastoory"
-    },
-    {
-      "title": "How can I extract internal links and anchor text from HTML pages using Python?",
-      "url": "https://stackoverflow.com/questions/80009401/how-can-i-extract-internal-links-and-anchor-text-from-html-pages-using-python",
-      "published_at": "2026-10-12T07:58:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaksham Sharma"
     },
     {
       "title": "How do I solve an error with a Python scraping program",
@@ -2136,20 +2025,6 @@
       "user": "Naira"
     },
     {
-      "title": "Oracle testing coverage analysis",
-      "url": "https://stackoverflow.com/questions/80009443/oracle-testing-coverage-analysis",
-      "published_at": "2026-10-12T11:23:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "oracle-database"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abishek CP"
-    },
-    {
       "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
       "url": "https://stackoverflow.com/questions/80009333/when-developing-the-same-package-for-r-and-python-do-you-put-them-in-one-github",
       "published_at": "2026-10-11T22:37:01.000Z",
@@ -2165,30 +2040,62 @@
       "user": "SuperDuperMario"
     },
     {
-      "title": "Python script that copies certain lines and writes to other file",
-      "url": "https://stackoverflow.com/questions/80009197/python-script-that-copies-certain-lines-and-writes-to-other-file",
-      "published_at": "2026-10-11T02:38:14.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wyatt Juul"
-    },
-    {
-      "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
-      "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
-      "published_at": "2026-10-10T14:34:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "Does loadTable().to_pandas() transfer all data or only metadata first?",
+      "url": "https://stackoverflow.com/questions/80009030/does-loadtable-to-pandas-transfer-all-data-or-only-metadata-first",
+      "published_at": "2026-10-10T01:17:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "pytorch",
-        "torchvision"
+        "pandas",
+        "dolphindb"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Laika"
+      "user": "Stephanie"
+    },
+    {
+      "title": "Does importing modules which are only used for type-checking have any runtime overhead?",
+      "url": "https://stackoverflow.com/questions/80008650/does-importing-modules-which-are-only-used-for-type-checking-have-any-runtime-ov",
+      "published_at": "2026-10-08T10:01:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "User Checkable PySide6 ListWidget Items Missing Checkboxes after macOS Upgrade",
+      "url": "https://stackoverflow.com/questions/80008473/user-checkable-pyside6-listwidget-items-missing-checkboxes-after-macos-upgrade",
+      "published_at": "2026-10-07T13:15:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pyside6",
+        "qlistwidget",
+        "qlistwidgetitem",
+        "python-3.14"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user2334160"
+    },
+    {
+      "title": "How do I make a flat list out of a list of lists?",
+      "url": "https://stackoverflow.com/questions/952914/how-do-i-make-a-flat-list-out-of-a-list-of-lists",
+      "published_at": "2009-06-04T20:30:05.000Z",
+      "description": "Stack Overflow question · 32 answers · score 5520",
+      "tags": [
+        "python",
+        "list",
+        "multidimensional-array",
+        "flatten"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Emma"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2207,6 +2114,21 @@
   ],
   "DevOps": [
     {
+      "title": "Code is abundant. Confidence is a formula.",
+      "url": "https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6",
+      "published_at": "2026-10-12T21:01:56Z",
+      "description": "AI can make code creation abundant. The harder challenge is building confidence in what gets...",
+      "tags": [
+        "ai",
+        "agents",
+        "codequality",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchi4t2fjezcd9b8kxmib.png",
+      "source": "Dev.to",
+      "user": "Manish Kapur"
+    },
+    {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
       "published_at": "2026-10-12T10:30:20Z",
@@ -2220,36 +2142,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
-      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
-      "published_at": "2026-09-23T19:19:19Z",
-      "description": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
-      "tags": [
-        "ai",
-        "llm",
-        "docker",
-        "postgres"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
-      "source": "Dev.to",
-      "user": "Sanskriti Harmukh"
-    },
-    {
-      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
-      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
-      "published_at": "2026-09-30T16:45:07Z",
-      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
-      "tags": [
-        "ai",
-        "python",
-        "langchain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
-      "source": "Dev.to",
-      "user": "Frank Guan"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2406,19 +2298,19 @@
   ],
   "WebDev": [
     {
-      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
-      "url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
-      "published_at": "2026-09-23T14:23:57Z",
-      "description": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer just back from a short vacation on Texel, a small...",
+      "title": "We moved a production backend from a phone",
+      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
+      "published_at": "2026-10-13T13:19:33Z",
+      "description": "Every era of the cloud has a unit of work. For agents, it’s a human who directs, a controller who...",
       "tags": [
-        "typescript",
-        "javascript",
-        "webdev",
-        "opensource"
+        "ai",
+        "agents",
+        "cloud",
+        "database"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5yvvb4hfohcyypcuieae.gif",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
       "source": "Dev.to",
-      "user": "nyaomaru"
+      "user": "DigitalOcean"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2444,20 +2336,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 825,
       "user": "bas3line"
-    },
-    {
-      "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
-      "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
-      "published_at": "2026-10-12T07:23:52.273-05:00",
-      "description": "This popped up and reminded me strangely of a story post a month ago here:\r\n\r\nhttps://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers\r\n\r\nAnd, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by [french newspaper Le Monde](https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html): the danish company Danfoss. I could not find sources mentioning the supplier in English.",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aldantanneo"
     },
     {
       "title": "Why does changing an attribute in JavaScript not affect my CSS attribute selector?",
@@ -2471,22 +2351,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe"
-    },
-    {
-      "title": "Link-in-Bio site \"Pages\" (portfolio layout) feature not working as intended (GSAP)",
-      "url": "https://stackoverflow.com/questions/80009532/link-in-bio-site-pages-portfolio-layout-feature-not-working-as-intended-gsa",
-      "published_at": "2026-10-12T18:07:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "next.js",
-        "web",
-        "tailwind-css",
-        "gsap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "fedded.dev"
     },
     {
       "title": "Javascript if statement only runs once",
@@ -2532,18 +2396,6 @@
       "user": "ashcr"
     },
     {
-      "title": "How can I extract internal links and anchor text from HTML pages using Python?",
-      "url": "https://stackoverflow.com/questions/80009401/how-can-i-extract-internal-links-and-anchor-text-from-html-pages-using-python",
-      "published_at": "2026-10-12T07:58:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaksham Sharma"
-    },
-    {
       "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
       "url": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
       "published_at": "2026-10-11T09:31:06.000Z",
@@ -2577,36 +2429,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "Llama Village: a virtual world powered by local AI with llamadart",
-      "url": "https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi",
-      "published_at": "2026-10-08T22:34:10Z",
-      "description": "Llama Village in motion. The characters’ dialogue is generated by an on-device model.  Watch the...",
-      "tags": [
-        "flutter",
-        "ai",
-        "gamedev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjgsr3swidyjgd94d9f8m.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
-      "title": "Making cross-platform local AI easier with llamadart",
-      "url": "https://dev.to/gde/making-cross-platform-local-ai-easier-with-llamadart-2l4k",
-      "published_at": "2026-10-08T00:52:40Z",
-      "description": "My writing assistant could talk to Gemini. The missing piece was using it without a connection.  That...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0wr458egowr32pcn8l9.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
       "url": "https://github.com/wesbos/photo-frame-dashboard",
       "published_at": "2026-10-08T18:22:19Z",
@@ -2618,11 +2440,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 1011,
       "user": "wesbos"
+    },
+    {
+      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say &#8216;on Spotify&#8217;",
+      "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+      "published_at": "2026-10-13T14:30:12.000Z",
+      "description": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Apple",
+        "iOS 27",
+        "siri"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
+    {
+      "title": "We moved a production backend from a phone",
+      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
+      "published_at": "2026-10-13T13:19:33Z",
+      "description": "Every era of the cloud has a unit of work. For agents, it’s a human who directs, a controller who...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
+    },
     {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
@@ -2667,36 +2520,6 @@
       "user": "xbill"
     },
     {
-      "title": "Event-Driven AI at Cloud Scale: High-Throughput Stream Classification with Pub/Sub, Dataflow, and Jev",
-      "url": "https://dev.to/gde/event-driven-ai-at-cloud-scale-high-throughput-stream-classification-with-pubsub-dataflow-and-12ic",
-      "published_at": "2026-10-05T04:10:50Z",
-      "description": "How to turn millions of events per hour into typed, confidence-scored decisions, without a...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "jev",
-        "dataflow"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fleqqrq8kj3ramm2izrv9.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
-      "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
-      "published_at": "2026-09-30T19:36:21Z",
-      "description": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
-      "tags": [
-        "arduino",
-        "iot",
-        "ai",
-        "hf26challenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9utit2uix6jp8aewof64.jpeg",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
       "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
       "url": "https://github.com/jwuthri-cloud/Tracely-ai",
       "published_at": "2026-10-11T15:38:03Z",
@@ -2708,7 +2531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 674,
       "user": "jwuthri-cloud"
     },
     {
@@ -2723,11 +2546,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 931,
       "user": "rociiu"
     }
   ],
   "Database": [
+    {
+      "title": "We moved a production backend from a phone",
+      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
+      "published_at": "2026-10-13T13:19:33Z",
+      "description": "Every era of the cloud has a unit of work. For agents, it’s a human who directs, a controller who...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
+    },
+    {
+      "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
+      "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
+      "published_at": "2026-10-12T21:04:02Z",
+      "description": "Vinoo Ganesh is the CEO of Kepler, which builds AI for industries where accuracy matters, starting...",
+      "tags": [
+        "ai",
+        "finance",
+        "aie",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faw97cf53e0ffp40owy5z.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2741,6 +2594,18 @@
       "user": "iancarroll"
     },
     {
+      "title": "The reverts will continue until morale improves",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "published_at": "2026-10-13T06:37:06.816-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kngl"
+    },
+    {
       "title": "Get sum of calculated column in aggregated request",
       "url": "https://stackoverflow.com/questions/80009527/get-sum-of-calculated-column-in-aggregated-request",
       "published_at": "2026-10-12T17:41:00.000Z",
@@ -2752,23 +2617,39 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lesnik"
-    },
-    {
-      "title": "Oracle testing coverage analysis",
-      "url": "https://stackoverflow.com/questions/80009443/oracle-testing-coverage-analysis",
-      "published_at": "2026-10-12T11:23:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "oracle-database"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abishek CP"
     }
   ],
   "Security": [
+    {
+      "title": "Agents Can’t Decide What’s Okay to Break",
+      "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
+      "published_at": "2026-10-12T20:58:59Z",
+      "description": "There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...",
+      "tags": [
+        "hacktoberfest",
+        "security",
+        "aie",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png",
+      "source": "Dev.to",
+      "user": "Jonathan Gottfried"
+    },
+    {
+      "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
+      "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
+      "published_at": "2026-10-12T21:03:17Z",
+      "description": "Written by John Feminella  We now inhabit a world where agents can execute operations in production...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
     {
       "title": "Does your agent have ID?",
       "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok",
@@ -2947,30 +2828,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Finding a $90,000 Remote Code Execution Vulnerability in Google",
-      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-      "published_at": "2026-10-12T09:40:35.395-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
-    },
-    {
-      "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
-      "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
-      "published_at": "2026-10-12T07:23:52.273-05:00",
-      "description": "This popped up and reminded me strangely of a story post a month ago here:\r\n\r\nhttps://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers\r\n\r\nAnd, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by [french newspaper Le Monde](https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html): the danish company Danfoss. I could not find sources mentioning the supplier in English.",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aldantanneo"
-    },
-    {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
       "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
       "published_at": "2026-10-06T05:02:57.000Z",
@@ -2989,33 +2846,19 @@
   ],
   "Tools": [
     {
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
-      "published_at": "2026-10-12T04:21:36Z",
-      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
+      "title": "AI Needs a Test That Fights Back",
+      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "published_at": "2026-10-12T21:03:49Z",
+      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
       "tags": [
         "ai",
-        "programming",
-        "architecture",
-        "productivity"
+        "opensource",
+        "testing",
+        "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "It's Not the Model, It's You",
-      "url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi",
-      "published_at": "2026-10-11T19:45:15Z",
-      "description": "Every time a new frontier model comes out, we go through the same rituals: benchmarks get reported,...",
-      "tags": [
-        "aie",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmx3l635656p6ocz76xow.png",
-      "source": "Dev.to",
-      "user": "Nicholas Arcolano"
+      "user": "Ramakrishnan Lokanathan"
     },
     {
       "title": "ROI That Survives the Second Question",
@@ -3046,6 +2889,65 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
       "source": "Dev.to",
       "user": "supriya subudhi"
+    },
+    {
+      "title": "What 1,368 Real-World AI Incidents Teach Us About Evaluation",
+      "url": "https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p",
+      "published_at": "2026-10-12T21:03:06Z",
+      "description": "AI evaluation has become increasingly sophisticated at testing individual models. We measure...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "testing",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4yw0p94syuwbx8fe782v.png",
+      "source": "Dev.to",
+      "user": "Vishal Srivastava"
+    },
+    {
+      "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
+      "url": "https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g",
+      "published_at": "2026-10-12T20:56:49Z",
+      "description": "Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...",
+      "tags": [
+        "ai",
+        "agents",
+        "hackathon",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
+      "published_at": "2026-10-12T04:21:36Z",
+      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "It's Not the Model, It's You",
+      "url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi",
+      "published_at": "2026-10-11T19:45:15Z",
+      "description": "Every time a new frontier model comes out, we go through the same rituals: benchmarks get reported,...",
+      "tags": [
+        "aie",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmx3l635656p6ocz76xow.png",
+      "source": "Dev.to",
+      "user": "Nicholas Arcolano"
     },
     {
       "title": "The Epistemology of Quality",
@@ -3185,23 +3087,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 6854,
+      "stars": 7686,
       "user": "wheresryan22"
-    },
-    {
-      "title": "shadany7824/playgta5 - A source code for playgta5.com.",
-      "url": "https://github.com/shadany7824/playgta5",
-      "published_at": "2026-10-07T08:37:15Z",
-      "description": "A source code for playgta5.com.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
-      "source": "GitHub",
-      "stars": 1508,
-      "user": "shadany7824"
     },
     {
       "title": "Fei2411/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
@@ -3215,8 +3102,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1628,
       "user": "Fei2411"
+    },
+    {
+      "title": "shadany7824/playgta5 - A source code for playgta5.com.",
+      "url": "https://github.com/shadany7824/playgta5",
+      "published_at": "2026-10-07T08:37:15Z",
+      "description": "A source code for playgta5.com.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
+      "source": "GitHub",
+      "stars": 1544,
+      "user": "shadany7824"
     },
     {
       "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
@@ -3230,7 +3132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 859,
       "user": "marclou"
     },
     {
@@ -3245,23 +3147,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 827,
       "user": "T-Auto"
-    },
-    {
-      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "published_at": "2026-10-08T18:22:19Z",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
-      "source": "GitHub",
-      "stars": 975,
-      "user": "wesbos"
     },
     {
       "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
@@ -3275,8 +3162,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 1331,
       "user": "onehumanbeing"
+    },
+    {
+      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "url": "https://github.com/wesbos/photo-frame-dashboard",
+      "published_at": "2026-10-08T18:22:19Z",
+      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "source": "GitHub",
+      "stars": 1011,
+      "user": "wesbos"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -3290,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 826,
       "user": "zhuyansen"
     },
     {
@@ -3305,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 712,
       "user": "n1tr00-10"
     },
     {
@@ -3320,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 674,
       "user": "jwuthri-cloud"
     },
     {
@@ -3335,23 +3237,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3707,
+      "stars": 3846,
       "user": "mhtsec"
-    },
-    {
-      "title": "Hinln/ARTEX - ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
-      "url": "https://github.com/Hinln/ARTEX",
-      "published_at": "2026-10-08T11:00:36Z",
-      "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
-      "source": "GitHub",
-      "stars": 734,
-      "user": "Hinln"
     },
     {
       "title": "trhhubsd/ARTEXX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
@@ -3365,8 +3252,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 867,
       "user": "trhhubsd"
+    },
+    {
+      "title": "Hinln/ARTEX - ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+      "url": "https://github.com/Hinln/ARTEX",
+      "published_at": "2026-10-08T11:00:36Z",
+      "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
+      "source": "GitHub",
+      "stars": 743,
+      "user": "Hinln"
     },
     {
       "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
@@ -3380,23 +3282,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 262,
       "user": "aindeev"
     },
     {
-      "title": "bdg9412/artex-ko-plus - ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/bdg9412/artex-ko-plus",
-      "published_at": "2026-10-09T11:36:03Z",
-      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "title": "RuoJi6/ARTEX - Autumn-27/ARTEX 二开",
+      "url": "https://github.com/RuoJi6/ARTEX",
+      "published_at": "2026-10-09T00:56:36Z",
+      "description": "Autumn-27/ARTEX 二开",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
       "source": "GitHub",
-      "stars": 167,
-      "user": "bdg9412"
+      "stars": 183,
+      "user": "RuoJi6"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -3410,23 +3312,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1384,
       "user": "HelixDB"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 918,
-      "user": "rociiu"
     },
     {
       "title": "shaongitbd/doory - Open source canva alternative",
@@ -3440,8 +3327,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 988,
       "user": "shaongitbd"
+    },
+    {
+      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "published_at": "2026-10-10T09:46:56Z",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
+      "source": "GitHub",
+      "stars": 931,
+      "user": "rociiu"
     },
     {
       "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
@@ -3455,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 825,
       "user": "bas3line"
     },
     {
@@ -3470,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 782,
       "user": "ThariqS"
     },
     {
@@ -3485,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 9696,
+      "stars": 10454,
       "user": "storytold"
     },
     {
@@ -3500,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 4004,
+      "stars": 4259,
       "user": "storytold"
     },
     {
@@ -3515,14 +3417,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3656,
+      "stars": 3951,
       "user": "storytold"
     },
     {
-      "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce cards on macOS Sequoia",
       "url": "https://github.com/nullmoth/nvidia-macos-driver",
       "published_at": "2026-10-07T08:13:12Z",
-      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
       "tags": [
         "rust",
         "github",
@@ -3530,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2808,
+      "stars": 2871,
       "user": "nullmoth"
     },
     {
@@ -3545,34 +3447,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2685,
+      "stars": 2834,
       "user": "storytold"
-    },
-    {
-      "title": "'AI' is Not a Tool",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "published_at": "2026-10-11T20:18:09.541-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "regulator"
-    },
-    {
-      "title": "Oracle testing coverage analysis",
-      "url": "https://stackoverflow.com/questions/80009443/oracle-testing-coverage-analysis",
-      "published_at": "2026-10-12T11:23:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "oracle-database"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abishek CP"
     },
     {
       "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
@@ -3590,20 +3466,36 @@
       "user": "SuperDuperMario"
     },
     {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "published_at": "2026-10-12T15:45:00.000Z",
-      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "published_at": "2026-10-13T13:50:19.000Z",
+      "description": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
       "tags": [
         "AI",
-        "Media & Entertainment",
-        "Startups",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
+        "Apps",
+        "cursor",
+        "Grok",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "India delays digital payments fee rollout amid retailer pushback",
+      "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+      "published_at": "2026-10-13T13:25:05.000Z",
+      "description": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+      "tags": [
+        "Fintech",
+        "digital payments",
+        "NPCI",
+        "unified payments interface",
+        "UPI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
