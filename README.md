@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--10--13-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,26 +21,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-13 17:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-13 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jcfndik4zmecrxf21x7.png" width="200" alt="What 9,050 AI-Written Scripts Taught Me About Slop" />
+    <a href="https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3w45a3d1mjqg6g9mhebf.png" width="200" alt="How I Feel about the Grace Hopper Celebration Getting Cancelled" />
       <br/>
-      <b>What 9,050 AI-Written Scripts Taught Me About Slop</b>
+      <b>How I Feel about the Grace Hopper Celebration Gett...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png" width="200" alt="We moved a production backend from a phone" />
+    <a href="https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jcfndik4zmecrxf21x7.png" width="200" alt="What 9,050 AI-Written Scripts Taught Me About Slop" />
       <br/>
-      <b>We moved a production backend from a phone</b>
+      <b>What 9,050 AI-Written Scripts Taught Me About Slop</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,8 +92,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n) | Dev.to |
-| 2 | [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36) | Dev.to |
+| 1 | [How I Feel about the Grace Hopper Celebration Getting Cancelled](https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k) | Dev.to |
+| 2 | [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n) | Dev.to |
 | 3 | [Local embeddings with llamadart: how llamas share secrets](https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o) | Dev.to |
 | 4 | [AI Needs a Test That Fights Back](https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17) | Dev.to |
 | 5 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1bo6) | Dev.to |
@@ -101,19 +101,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 7 | [ROI That Survives the Second Question](https://dev.to/dailycontext/roi-that-survives-the-second-question-4na0) | Dev.to |
 | 8 | [Agents Can’t Decide What’s Okay to Break](https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg) | Dev.to |
 | 9 | [Where to Spend Your Week at AI Engineer New York](https://dev.to/dailycontext/where-to-spend-your-week-at-ai-engineer-new-york-3lg) | Dev.to |
-| 10 | [A/B testing AI products is weird](https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h) | Dev.to |
-| 11 | [Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba) | Dev.to |
-| 12 | [Frontier AI models outperform human experts on earnings prediction for the first time](https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb) | Dev.to |
+| 10 | [Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba) | Dev.to |
+| 11 | [Frontier AI models outperform human experts on earnings prediction for the first time](https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb) | Dev.to |
+| 12 | [Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents](https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9) | Dev.to |
 | 13 | [Code is abundant. Confidence is a formula.](https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6) | Dev.to |
-| 14 | [Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents](https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9) | Dev.to |
-| 15 | [What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p) | Dev.to |
+| 14 | [What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p) | Dev.to |
+| 15 | [How Anthropic’s Dynamic Workflows Coordinate Claude Agents](https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23) | Dev.to |
 | 16 | [Meme Monday](https://dev.to/ben/meme-monday-4e47) | Dev.to |
-| 17 | [AI Engineering Has Entered Its Audit Era](https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl) | Dev.to |
-| 18 | [Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects](https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g) | Dev.to |
+| 17 | [Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects](https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g) | Dev.to |
+| 18 | [AI Engineering Has Entered Its Audit Era](https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl) | Dev.to |
 | 19 | [Kepler's Vinoo Ganesh on Building AI You Can Trust](https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f) | Dev.to |
-| 20 | [How Anthropic’s Dynamic Workflows Coordinate Claude Agents](https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23) | Dev.to |
+| 20 | [Workshop Day Opens AI Engineer NYC](https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2) | Dev.to |
 
-<sub>Last fetched: Tue, 13 Oct 2026 17:06:28 CAT</sub>
+<sub>Last fetched: Tue, 13 Oct 2026 22:41:04 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — How would you design a rate limiter?**
+**1. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**2. `JavaScript` — Implement a debounce function from scratch**
+**2. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> setTimeout, clearTimeout, wrapper function
+> B-tree, trade-offs, query performance
 
 </details>
 
-**3. `JavaScript` — What is the event loop and how does it work?**
+**3. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Call stack, callback queue, microtask queue
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 90 | 48.9% | `████████████████████` |
+| **AI** | 88 | 47.8% | `████████████████████` |
 | **Tools** | 46 | 25.0% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 33 | 17.9% | `███████░░░░░░░░░░░░░` |
-| **Python** | 26 | 14.1% | `██████░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
+| **JavaScript** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
+| **Python** | 28 | 15.2% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 15 | 8.2% | `███░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 2 | 1.1% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,33 +194,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.4%
-Python          ████████████████████████ 22.4%
-Java            ███████████████████████ 21.6%
-Go              ████████████████████ 19.0%
-Rust            ██████ 6.0%
-Kotlin          █ 0.9%
-Ruby            █ 0.9%
-Swift           █ 0.9%
+JavaScript      ██████████████████████████████ 27.5%
+Python          █████████████████████████ 23.3%
+Go              ███████████████████████ 20.8%
+Java            ███████████████████████ 20.8%
+Rust            ██████ 5.8%
+Kotlin          █ 0.8%
+Ruby            █ 0.8%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 33
-    "Python" : 26
+    "Python" : 28
+    "Go" : 25
     "Java" : 25
-    "Go" : 22
     "Rust" : 7
     "Kotlin" : 1
     "Ruby" : 1
-    "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-47-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-23-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-49-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-23-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-6-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 13 Oct 2026 15:06:28 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 13 Oct 2026 20:41:04 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

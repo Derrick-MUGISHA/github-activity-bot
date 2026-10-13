@@ -16,21 +16,6 @@
       "user": "Louis-Francois Bouchard"
     },
     {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Every era of the cloud has a unit of work. For agents, it’s a human who directs, a controller who...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
-    {
       "title": "Local embeddings with llamadart: how llamas share secrets",
       "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
       "published_at": "2026-10-12T18:18:49Z",
@@ -121,21 +106,6 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "A/B testing AI products is weird",
-      "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
-      "published_at": "2026-10-11T19:43:52Z",
-      "description": "Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...",
-      "tags": [
-        "aie",
-        "ai",
-        "testing",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
-      "source": "Dev.to",
-      "user": "supriya subudhi"
-    },
-    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba",
       "published_at": "2026-10-12T19:01:08Z",
@@ -166,21 +136,6 @@
       "user": "Ashwin Paranjape"
     },
     {
-      "title": "Code is abundant. Confidence is a formula.",
-      "url": "https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6",
-      "published_at": "2026-10-12T21:01:56Z",
-      "description": "AI can make code creation abundant. The harder challenge is building confidence in what gets...",
-      "tags": [
-        "ai",
-        "agents",
-        "codequality",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchi4t2fjezcd9b8kxmib.png",
-      "source": "Dev.to",
-      "user": "Manish Kapur"
-    },
-    {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
       "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
       "published_at": "2026-10-12T21:03:17Z",
@@ -194,6 +149,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Code is abundant. Confidence is a formula.",
+      "url": "https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6",
+      "published_at": "2026-10-12T21:01:56Z",
+      "description": "AI can make code creation abundant. The harder challenge is building confidence in what gets...",
+      "tags": [
+        "ai",
+        "agents",
+        "codequality",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchi4t2fjezcd9b8kxmib.png",
+      "source": "Dev.to",
+      "user": "Manish Kapur"
     },
     {
       "title": "What 1,368 Real-World AI Incidents Teach Us About Evaluation",
@@ -211,18 +181,19 @@
       "user": "Vishal Srivastava"
     },
     {
-      "title": "AI Engineering Has Entered Its Audit Era",
-      "url": "https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl",
-      "published_at": "2026-10-12T21:01:03Z",
-      "description": "A conference agenda is a pretty decent dataset.  Between what is pitched and what is accepted, it's...",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23",
+      "published_at": "2026-10-12T21:00:36Z",
+      "description": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can...",
       "tags": [
-        "agents",
         "ai",
-        "llm"
+        "agents",
+        "llm",
+        "news"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpg8dmb5jdcmecrofu1c6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2w4jruci4ticsodem7oi.png",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "Richard MacManus"
     },
     {
       "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
@@ -240,6 +211,20 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Engineering Has Entered Its Audit Era",
+      "url": "https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl",
+      "published_at": "2026-10-12T21:01:03Z",
+      "description": "A conference agenda is a pretty decent dataset.  Between what is pitched and what is accepted, it's...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpg8dmb5jdcmecrofu1c6.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
       "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
       "published_at": "2026-10-12T21:04:02Z",
@@ -255,21 +240,6 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "url": "https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23",
-      "published_at": "2026-10-12T21:00:36Z",
-      "description": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can...",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2w4jruci4ticsodem7oi.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
-    },
-    {
       "title": "Workshop Day Opens AI Engineer NYC",
       "url": "https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2",
       "published_at": "2026-10-12T21:00:19Z",
@@ -282,6 +252,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ctujqzcft2psrp35d48.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
+    },
+    {
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "published_at": "2026-10-11T00:59:52Z",
+      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
+      "tags": [
+        "ai",
+        "programming",
+        "unix",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
@@ -312,19 +297,19 @@
       "user": "İclal Doğan"
     },
     {
-      "title": "Does your agent have ID?",
-      "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok",
-      "published_at": "2026-10-11T19:42:56Z",
-      "description": "Last month, an AI agent in Denmark booked a coffee tasting and paid for it. Danske Bank and...",
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "published_at": "2026-10-11T19:45:03Z",
+      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
       "tags": [
         "aie",
         "ai",
-        "agents",
-        "security"
+        "infrastructure",
+        "data"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz09vp969urk3b4ys9l1m.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
-      "user": "Rachael Berkey"
+      "user": "Kara Silverman"
     },
     {
       "title": "Building AI Analysts for Wall Street: A Q&A with Compound Co-Founder Yijia Liang",
@@ -369,51 +354,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
       "source": "Dev.to",
       "user": "dev.to staff"
-    },
-    {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
-      "published_at": "2026-10-11T19:45:03Z",
-      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
-      "tags": [
-        "aie",
-        "ai",
-        "infrastructure",
-        "data"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
-      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
-      "published_at": "2026-10-11T00:59:52Z",
-      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
-      "tags": [
-        "ai",
-        "programming",
-        "unix",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec",
-      "published_at": "2026-10-09T14:55:22Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "resources",
-        "opportunities"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh3zcvzl5dry5rlbc17m2.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
@@ -504,6 +444,36 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "A/B testing AI products is weird",
+      "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
+      "published_at": "2026-10-11T19:43:52Z",
+      "description": "Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...",
+      "tags": [
+        "aie",
+        "ai",
+        "testing",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
+      "source": "Dev.to",
+      "user": "supriya subudhi"
+    },
+    {
+      "title": "Does your agent have ID?",
+      "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok",
+      "published_at": "2026-10-11T19:42:56Z",
+      "description": "Last month, an AI agent in Denmark booked a coffee tasting and paid for it. Danske Bank and...",
+      "tags": [
+        "aie",
+        "ai",
+        "agents",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz09vp969urk3b4ys9l1m.png",
+      "source": "Dev.to",
+      "user": "Rachael Berkey"
+    },
+    {
       "title": "Welcome to AI Engineer New York",
       "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-new-york-bh0",
       "published_at": "2026-10-11T19:41:56Z",
@@ -531,6 +501,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fns4rf0pmroxjaq4udzo7.png",
       "source": "Dev.to",
       "user": "Peter Harrison"
+    },
+    {
+      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec",
+      "published_at": "2026-10-09T14:55:22Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "resources",
+        "opportunities"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh3zcvzl5dry5rlbc17m2.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
@@ -890,7 +875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 7686,
+      "stars": 8027,
       "user": "wheresryan22"
     },
     {
@@ -905,7 +890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1628,
+      "stars": 1660,
       "user": "Fei2411"
     },
     {
@@ -920,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 884,
       "user": "marclou"
     },
     {
@@ -935,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1468,
       "user": "onehumanbeing"
     },
     {
@@ -950,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 854,
       "user": "zhuyansen"
     },
     {
@@ -965,7 +950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 744,
       "user": "jwuthri-cloud"
     },
     {
@@ -980,7 +965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3846,
+      "stars": 3866,
       "user": "mhtsec"
     },
     {
@@ -995,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 1023,
       "user": "trhhubsd"
     },
     {
@@ -1010,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 268,
       "user": "aindeev"
     },
     {
@@ -1025,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 947,
       "user": "rociiu"
     },
     {
@@ -1040,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 787,
       "user": "ThariqS"
     },
     {
@@ -1055,7 +1040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3951,
+      "stars": 4130,
       "user": "storytold"
     },
     {
@@ -1070,7 +1055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2871,
+      "stars": 2900,
       "user": "nullmoth"
     },
     {
@@ -1088,113 +1073,99 @@
       "user": "somglin wu"
     },
     {
-      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-      "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-      "published_at": "2026-10-13T15:02:00.000Z",
-      "description": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "published_at": "2026-10-13T20:36:44.000Z",
+      "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
       "tags": [
-        "Startups",
-        "TechCrunch Disrupt",
-        "Startup Battlefield 200"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Isabelle Johannessen"
-    },
-    {
-      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say &#8216;on Spotify&#8217;",
-      "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-      "published_at": "2026-10-13T14:30:12.000Z",
-      "description": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
+        "AI",
+        "Hardware",
         "Apple",
-        "iOS 27",
-        "siri"
+        "lawsuit",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "published_at": "2026-10-13T13:50:19.000Z",
-      "description": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "title": "Niobia takes the guesswork out of some of tech&#8217;s most expensive mistakes",
+      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "published_at": "2026-10-13T19:00:00.000Z",
+      "description": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
       "tags": [
-        "AI",
-        "Apps",
-        "cursor",
-        "Grok",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-      "published_at": "2026-10-13T13:38:03.000Z",
-      "description": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
-      "tags": [
-        "Gadgets",
-        "Apple",
-        "homepod mini",
-        "siri ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "published_at": "2026-10-13T13:28:06.000Z",
-      "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "tags": [
-        "AI",
+        "Hardware",
         "Startups",
-        "Venture",
+        "TC",
+        "Batteries",
+        "Battlefield 200"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "published_at": "2026-10-13T18:30:00.000Z",
+      "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Startups",
         "Startup Battlefield 200",
         "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "TechCrunch Events"
+      "user": "Ram Iyer"
     },
     {
-      "title": "India delays digital payments fee rollout amid retailer pushback",
-      "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-      "published_at": "2026-10-13T13:25:05.000Z",
-      "description": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "published_at": "2026-10-13T18:05:24.000Z",
+      "description": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
       "tags": [
-        "Fintech",
-        "digital payments",
-        "NPCI",
-        "unified payments interface",
-        "UPI"
+        "AI",
+        "Apps",
+        "Social",
+        "Facebook"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Lauren Forristal"
     },
     {
-      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-      "published_at": "2026-10-13T13:16:11.000Z",
-      "description": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "published_at": "2026-10-13T17:30:00.000Z",
+      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
       "tags": [
-        "Gadgets",
-        "Hardware",
-        "TC",
-        "Apple",
-        "apple tv"
+        "AI",
+        "Robotics",
+        "Transportation",
+        "autonomous vehicles",
+        "self-driving cars"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "published_at": "2026-10-13T17:18:25.000Z",
+      "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Security",
+        "AI agents",
+        "ai security"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
@@ -1434,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 7686,
+      "stars": 8027,
       "user": "wheresryan22"
     },
     {
@@ -1449,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1628,
+      "stars": 1660,
       "user": "Fei2411"
     },
     {
@@ -1464,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1557,
       "user": "shadany7824"
     },
     {
@@ -1479,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 884,
       "user": "marclou"
     },
     {
@@ -1494,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 852,
       "user": "T-Auto"
     },
     {
@@ -1509,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1384,
+      "stars": 1393,
       "user": "HelixDB"
     },
     {
@@ -1524,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 1037,
       "user": "shaongitbd"
     },
     {
@@ -1539,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 947,
       "user": "rociiu"
     },
     {
@@ -1554,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 831,
       "user": "bas3line"
     },
     {
@@ -1569,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 787,
       "user": "ThariqS"
     },
     {
@@ -1617,7 +1588,7 @@
       "title": "Is there any disadvantage to calling document.createElement with the “wrong” document?",
       "url": "https://stackoverflow.com/questions/80009283/is-there-any-disadvantage-to-calling-document-createelement-with-the-wrong-doc",
       "published_at": "2026-10-11T15:25:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "dom"
@@ -1625,6 +1596,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thom Smith"
+    },
+    {
+      "title": "How can I validate a specific field in a JSON response using Postman?",
+      "url": "https://stackoverflow.com/questions/80009138/how-can-i-validate-a-specific-field-in-a-json-response-using-postman",
+      "published_at": "2026-10-10T16:40:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "javascript",
+        "json",
+        "postman"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad UmarHayat"
     },
     {
       "title": "How do I accurately detect gamepad button presses in JavaScript?",
@@ -1655,19 +1640,18 @@
       "user": "ashcr"
     },
     {
-      "title": "How can I validate and pretty-print JSON in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79930276/how-can-i-validate-and-pretty-print-json-in-javascript",
-      "published_at": "2026-04-22T18:18:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "Playing songs back to back in autoplay in a website",
+      "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
+      "published_at": "2026-10-09T18:09:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "json",
-        "parsing",
-        "best-practices"
+        "html",
+        "autoplay"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Piyush Dabhi"
+      "user": "jctech2025"
     },
     {
       "title": "Detecting scroll direction",
@@ -1684,31 +1668,18 @@
       "user": "dwinnbrown"
     },
     {
-      "title": "Validate phone number with Yup?",
-      "url": "https://stackoverflow.com/questions/52483260/validate-phone-number-with-yup",
-      "published_at": "2018-09-24T16:04:18.000Z",
-      "description": "Stack Overflow question · 11 answers · score 87",
+      "title": "How can I scrape a page with dynamic content (created by JavaScript) in Python?",
+      "url": "https://stackoverflow.com/questions/8049520/how-can-i-scrape-a-page-with-dynamic-content-created-by-javascript-in-python",
+      "published_at": "2011-11-08T11:13:51.000Z",
+      "description": "Stack Overflow question · 17 answers · score 296",
       "tags": [
         "javascript",
-        "yup"
+        "python",
+        "web-scraping"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Evanss"
-    },
-    {
-      "title": "Error: Cannot find module 'node:path' while running \"npm -v\" or \"npm --version\"",
-      "url": "https://stackoverflow.com/questions/78526938/error-cannot-find-module-nodepath-while-running-npm-v-or-npm-version",
-      "published_at": "2024-05-24T06:57:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 10",
-      "tags": [
-        "javascript",
-        "node.js",
-        "npm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sangram Badi"
+      "user": "mocopera"
     },
     {
       "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
@@ -1889,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1468,
       "user": "onehumanbeing"
     },
     {
@@ -1904,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1060,
       "user": "wesbos"
     },
     {
@@ -1919,23 +1890,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 854,
       "user": "zhuyansen"
-    },
-    {
-      "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
-      "published_at": "2026-10-09T19:30:14Z",
-      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
-      "source": "GitHub",
-      "stars": 712,
-      "user": "n1tr00-10"
     },
     {
       "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
@@ -1949,8 +1905,79 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 744,
       "user": "jwuthri-cloud"
+    },
+    {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "published_at": "2026-10-13T03:09:42Z",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
+      "source": "GitHub",
+      "stars": 739,
+      "user": "Arekejoker"
+    },
+    {
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "published_at": "2026-10-13T09:36:52.168-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lim"
+    },
+    {
+      "title": "How can I scrape a page with dynamic content (created by JavaScript) in Python?",
+      "url": "https://stackoverflow.com/questions/8049520/how-can-i-scrape-a-page-with-dynamic-content-created-by-javascript-in-python",
+      "published_at": "2011-11-08T11:13:51.000Z",
+      "description": "Stack Overflow question · 17 answers · score 296",
+      "tags": [
+        "javascript",
+        "python",
+        "web-scraping"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mocopera"
+    },
+    {
+      "title": "How to detect Japanese candlestick patterns in historical OHLC data without TA-Lib C-extensions in Python?",
+      "url": "https://stackoverflow.com/questions/80009787/how-to-detect-japanese-candlestick-patterns-in-historical-ohlc-data-without-ta-l",
+      "published_at": "2026-10-13T18:57:29.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "algorithmic-trading",
+        "yfinance",
+        "candlestick-chart"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eminsk"
+    },
+    {
+      "title": "How do I force multiple pygame windows to be unable to minimize?",
+      "url": "https://stackoverflow.com/questions/80009744/how-do-i-force-multiple-pygame-windows-to-be-unable-to-minimize",
+      "published_at": "2026-10-13T15:21:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pink Acorn"
     },
     {
       "title": "How do I safely remove unused asyncio locks without causing duplicate requests?",
@@ -1967,19 +1994,6 @@
       "user": "Faheem"
     },
     {
-      "title": "Get sum of calculated column in aggregated request",
-      "url": "https://stackoverflow.com/questions/80009527/get-sum-of-calculated-column-in-aggregated-request",
-      "published_at": "2026-10-12T17:41:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lesnik"
-    },
-    {
       "title": "How can I color specific words in live time in a QTextEdit?",
       "url": "https://stackoverflow.com/questions/80009455/how-can-i-color-specific-words-in-live-time-in-a-qtextedit",
       "published_at": "2026-10-12T11:44:55.000Z",
@@ -1994,6 +2008,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hossein Dastoory"
+    },
+    {
+      "title": "Get sum of calculated column in aggregated request",
+      "url": "https://stackoverflow.com/questions/80009527/get-sum-of-calculated-column-in-aggregated-request",
+      "published_at": "2026-10-12T17:41:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lesnik"
     },
     {
       "title": "How do I solve an error with a Python scraping program",
@@ -2054,48 +2081,18 @@
       "user": "Stephanie"
     },
     {
-      "title": "Does importing modules which are only used for type-checking have any runtime overhead?",
-      "url": "https://stackoverflow.com/questions/80008650/does-importing-modules-which-are-only-used-for-type-checking-have-any-runtime-ov",
-      "published_at": "2026-10-08T10:01:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "title": "Merge two Celery tasks",
+      "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
+      "published_at": "2026-10-09T05:22:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
-        "python-typing"
+        "web-scraping",
+        "celery"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "User Checkable PySide6 ListWidget Items Missing Checkboxes after macOS Upgrade",
-      "url": "https://stackoverflow.com/questions/80008473/user-checkable-pyside6-listwidget-items-missing-checkboxes-after-macos-upgrade",
-      "published_at": "2026-10-07T13:15:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "pyside6",
-        "qlistwidget",
-        "qlistwidgetitem",
-        "python-3.14"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user2334160"
-    },
-    {
-      "title": "How do I make a flat list out of a list of lists?",
-      "url": "https://stackoverflow.com/questions/952914/how-do-i-make-a-flat-list-out-of-a-list-of-lists",
-      "published_at": "2009-06-04T20:30:05.000Z",
-      "description": "Stack Overflow question · 32 answers · score 5520",
-      "tags": [
-        "python",
-        "list",
-        "multidimensional-array",
-        "flatten"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Emma"
+      "user": "Sandi"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2264,6 +2261,19 @@
       "user": "jknupp"
     },
     {
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "published_at": "2026-10-13T09:36:52.168-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lim"
+    },
+    {
       "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
       "url": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
       "published_at": "2026-10-11T09:46:41.000Z",
@@ -2298,21 +2308,6 @@
   ],
   "WebDev": [
     {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Every era of the cloud has a unit of work. For agents, it’s a human who directs, a controller who...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2336,7 +2331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 831,
       "user": "bas3line"
     },
     {
@@ -2396,6 +2391,20 @@
       "user": "ashcr"
     },
     {
+      "title": "Playing songs back to back in autoplay in a website",
+      "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
+      "published_at": "2026-10-09T18:09:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "autoplay"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jctech2025"
+    },
+    {
       "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
       "url": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
       "published_at": "2026-10-11T09:31:06.000Z",
@@ -2440,42 +2449,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1060,
       "user": "wesbos"
-    },
-    {
-      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say &#8216;on Spotify&#8217;",
-      "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-      "published_at": "2026-10-13T14:30:12.000Z",
-      "description": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Apple",
-        "iOS 27",
-        "siri"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
-    {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Every era of the cloud has a unit of work. For agents, it’s a human who directs, a controller who...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
     {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
@@ -2531,7 +2509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 744,
       "user": "jwuthri-cloud"
     },
     {
@@ -2546,26 +2524,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 947,
       "user": "rociiu"
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "published_at": "2026-10-13T20:36:44.000Z",
+      "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Apple",
+        "lawsuit",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Database": [
-    {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Every era of the cloud has a unit of work. For agents, it’s a human who directs, a controller who...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
     {
       "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
       "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
@@ -2828,6 +2807,22 @@
       "user": "ewenjo"
     },
     {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "published_at": "2026-10-13T17:18:25.000Z",
+      "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Security",
+        "AI agents",
+        "ai security"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
       "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
       "published_at": "2026-10-06T05:02:57.000Z",
@@ -2874,21 +2869,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd0lpt4yccntg8db2dc4t.png",
       "source": "Dev.to",
       "user": "Sid Pednekar"
-    },
-    {
-      "title": "A/B testing AI products is weird",
-      "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
-      "published_at": "2026-10-11T19:43:52Z",
-      "description": "Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...",
-      "tags": [
-        "aie",
-        "ai",
-        "testing",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
-      "source": "Dev.to",
-      "user": "supriya subudhi"
     },
     {
       "title": "What 1,368 Real-World AI Incidents Teach Us About Evaluation",
@@ -2948,6 +2928,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmx3l635656p6ocz76xow.png",
       "source": "Dev.to",
       "user": "Nicholas Arcolano"
+    },
+    {
+      "title": "A/B testing AI products is weird",
+      "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
+      "published_at": "2026-10-11T19:43:52Z",
+      "description": "Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...",
+      "tags": [
+        "aie",
+        "ai",
+        "testing",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
+      "source": "Dev.to",
+      "user": "supriya subudhi"
     },
     {
       "title": "The Epistemology of Quality",
@@ -3087,7 +3082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 7686,
+      "stars": 8027,
       "user": "wheresryan22"
     },
     {
@@ -3102,7 +3097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1628,
+      "stars": 1660,
       "user": "Fei2411"
     },
     {
@@ -3117,7 +3112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1557,
       "user": "shadany7824"
     },
     {
@@ -3132,7 +3127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 884,
       "user": "marclou"
     },
     {
@@ -3147,7 +3142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 852,
       "user": "T-Auto"
     },
     {
@@ -3162,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1331,
+      "stars": 1468,
       "user": "onehumanbeing"
     },
     {
@@ -3177,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1060,
       "user": "wesbos"
     },
     {
@@ -3192,23 +3187,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 854,
       "user": "zhuyansen"
-    },
-    {
-      "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
-      "published_at": "2026-10-09T19:30:14Z",
-      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
-      "source": "GitHub",
-      "stars": 712,
-      "user": "n1tr00-10"
     },
     {
       "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
@@ -3222,8 +3202,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 744,
       "user": "jwuthri-cloud"
+    },
+    {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "published_at": "2026-10-13T03:09:42Z",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
+      "source": "GitHub",
+      "stars": 739,
+      "user": "Arekejoker"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -3237,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3846,
+      "stars": 3866,
       "user": "mhtsec"
     },
     {
@@ -3252,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 1023,
       "user": "trhhubsd"
     },
     {
@@ -3267,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 750,
       "user": "Hinln"
     },
     {
@@ -3282,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 268,
       "user": "aindeev"
     },
     {
@@ -3297,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 188,
       "user": "RuoJi6"
     },
     {
@@ -3312,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1384,
+      "stars": 1393,
       "user": "HelixDB"
     },
     {
@@ -3327,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 1037,
       "user": "shaongitbd"
     },
     {
@@ -3342,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 947,
       "user": "rociiu"
     },
     {
@@ -3357,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 831,
       "user": "bas3line"
     },
     {
@@ -3372,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 787,
       "user": "ThariqS"
     },
     {
@@ -3387,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 10454,
+      "stars": 10893,
       "user": "storytold"
     },
     {
@@ -3402,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 4259,
+      "stars": 4399,
       "user": "storytold"
     },
     {
@@ -3417,7 +3412,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3951,
+      "stars": 4130,
+      "user": "storytold"
+    },
+    {
+      "title": "storytold/deckcraft - Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "url": "https://github.com/storytold/deckcraft",
+      "published_at": "2026-10-07T05:27:21Z",
+      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 2923,
       "user": "storytold"
     },
     {
@@ -3432,23 +3442,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2871,
+      "stars": 2900,
       "user": "nullmoth"
     },
     {
-      "title": "storytold/deckcraft - Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
-      "url": "https://github.com/storytold/deckcraft",
-      "published_at": "2026-10-07T05:27:21Z",
-      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "title": "How to detect Japanese candlestick patterns in historical OHLC data without TA-Lib C-extensions in Python?",
+      "url": "https://stackoverflow.com/questions/80009787/how-to-detect-japanese-candlestick-patterns-in-historical-ohlc-data-without-ta-l",
+      "published_at": "2026-10-13T18:57:29.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "tooling-recommendation",
+        "python",
+        "algorithmic-trading",
+        "yfinance",
+        "candlestick-chart"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 2834,
-      "user": "storytold"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eminsk"
     },
     {
       "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
@@ -3466,36 +3477,20 @@
       "user": "SuperDuperMario"
     },
     {
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "published_at": "2026-10-13T13:50:19.000Z",
-      "description": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "published_at": "2026-10-13T17:18:25.000Z",
+      "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
       "tags": [
         "AI",
-        "Apps",
-        "cursor",
-        "Grok",
-        "In Brief"
+        "Fundraising",
+        "Security",
+        "AI agents",
+        "ai security"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "India delays digital payments fee rollout amid retailer pushback",
-      "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-      "published_at": "2026-10-13T13:25:05.000Z",
-      "description": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
-      "tags": [
-        "Fintech",
-        "digital payments",
-        "NPCI",
-        "unified payments interface",
-        "UPI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Ram Iyer"
     },
     {
       "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
