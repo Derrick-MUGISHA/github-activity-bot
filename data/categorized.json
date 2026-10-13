@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
-      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
-      "published_at": "2026-10-11T00:59:52Z",
-      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
-      "tags": [
-        "ai",
-        "programming",
-        "unix",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
       "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
       "published_at": "2026-10-12T04:21:36Z",
@@ -46,34 +31,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
-      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go",
-      "published_at": "2026-10-12T00:48:29Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futwx2ar2udsipq6vr6ww.jpg",
-      "source": "Dev.to",
-      "user": "İclal Doğan"
-    },
-    {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba",
-      "published_at": "2026-10-12T19:01:08Z",
-      "description": "Week 2 of our five Hacktoberfest DEV Challenges starts today! Running through October 18, the...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fou65yjgbkeh3zntchd3k.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
       "published_at": "2026-10-12T10:30:20Z",
@@ -89,18 +46,34 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Your Agent Paid. That Does Not Mean It Should Have.",
-      "url": "https://dev.to/dailycontext/your-agent-paid-that-does-not-mean-it-should-have-2dnd",
-      "published_at": "2026-10-11T19:43:36Z",
-      "description": "An AI agent is writing a report and needs one data point. The API answers: this costs five cents. The...",
+      "title": "One Weekend: 3,000 Open-Source AI Projects",
+      "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65",
+      "published_at": "2026-10-11T19:43:45Z",
+      "description": "Every October for the past twelve years, developers around the world have taken part in...",
       "tags": [
         "aie",
-        "fintech",
-        "agents"
+        "hacktoberfest",
+        "opensource",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fflndz5zbbsqs0lzxu9gh.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ez8hua8zoepb31imryi.jpg",
       "source": "Dev.to",
-      "user": "Ishween Kaur"
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba",
+      "published_at": "2026-10-12T19:01:08Z",
+      "description": "Week 2 of our five Hacktoberfest DEV Challenges starts today! Running through October 18, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fou65yjgbkeh3zntchd3k.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "It's Not the Model, It's You",
@@ -130,36 +103,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd0lpt4yccntg8db2dc4t.png",
       "source": "Dev.to",
       "user": "Sid Pednekar"
-    },
-    {
-      "title": "You Should Know About System One Models",
-      "url": "https://dev.to/dailycontext/you-should-know-about-system-one-models-3a9a",
-      "published_at": "2026-10-11T19:43:13Z",
-      "description": "Production AI usually looks like this: stuff context into a prompt, ask a large language model a...",
-      "tags": [
-        "jev",
-        "ai",
-        "models",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9yjv4n8swbjedtkb64e4.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "One Weekend: 3,000 Open-Source AI Projects",
-      "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65",
-      "published_at": "2026-10-11T19:43:45Z",
-      "description": "Every October for the past twelve years, developers around the world have taken part in...",
-      "tags": [
-        "aie",
-        "hacktoberfest",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ez8hua8zoepb31imryi.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Your Guide to AI Engineer New York 2026",
@@ -222,20 +165,6 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "Welcome to AI Engineer New York",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-new-york-bh0",
-      "published_at": "2026-10-11T19:41:56Z",
-      "description": "Welcome to New York City. Whether you came from a few blocks away or flew in from the other side of...",
-      "tags": [
-        "ai",
-        "aie",
-        "fintech"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4uxnwrmcw1ca7f2ruf15.jpg",
-      "source": "Dev.to",
-      "user": "swyx"
-    },
-    {
       "title": "Building AI Analysts for Wall Street: A Q&A with Compound Co-Founder Yijia Liang",
       "url": "https://dev.to/dailycontext/building-ai-analysts-for-wall-street-a-qa-with-compound-co-founder-yijia-liang-29c3",
       "published_at": "2026-10-11T19:43:48Z",
@@ -295,6 +224,21 @@
       "user": "dev.to staff"
     },
     {
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "published_at": "2026-10-11T00:59:52Z",
+      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
+      "tags": [
+        "ai",
+        "programming",
+        "unix",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
       "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec",
       "published_at": "2026-10-09T14:55:22Z",
@@ -308,6 +252,62 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh3zcvzl5dry5rlbc17m2.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
+      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go",
+      "published_at": "2026-10-12T00:48:29Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futwx2ar2udsipq6vr6ww.jpg",
+      "source": "Dev.to",
+      "user": "İclal Doğan"
+    },
+    {
+      "title": "Your Agent Paid. That Does Not Mean It Should Have.",
+      "url": "https://dev.to/dailycontext/your-agent-paid-that-does-not-mean-it-should-have-2dnd",
+      "published_at": "2026-10-11T19:43:36Z",
+      "description": "An AI agent is writing a report and needs one data point. The API answers: this costs five cents. The...",
+      "tags": [
+        "aie",
+        "fintech",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fflndz5zbbsqs0lzxu9gh.png",
+      "source": "Dev.to",
+      "user": "Ishween Kaur"
+    },
+    {
+      "title": "You Should Know About System One Models",
+      "url": "https://dev.to/dailycontext/you-should-know-about-system-one-models-3a9a",
+      "published_at": "2026-10-11T19:43:13Z",
+      "description": "Production AI usually looks like this: stuff context into a prompt, ask a large language model a...",
+      "tags": [
+        "jev",
+        "ai",
+        "models",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9yjv4n8swbjedtkb64e4.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Welcome to AI Engineer New York",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-new-york-bh0",
+      "published_at": "2026-10-11T19:41:56Z",
+      "description": "Welcome to New York City. Whether you came from a few blocks away or flew in from the other side of...",
+      "tags": [
+        "ai",
+        "aie",
+        "fintech"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4uxnwrmcw1ca7f2ruf15.jpg",
+      "source": "Dev.to",
+      "user": "swyx"
     },
     {
       "title": "The Epistemology of Quality",
@@ -623,6 +623,21 @@
       "user": "Ikrame Ibn Hayoun"
     },
     {
+      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
+      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
+      "published_at": "2026-09-30T16:45:07Z",
+      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
+      "tags": [
+        "ai",
+        "python",
+        "langchain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
+      "source": "Dev.to",
+      "user": "Frank Guan"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -802,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 6242,
+      "stars": 6854,
       "user": "wheresryan22"
     },
     {
@@ -817,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1488,
       "user": "Fei2411"
     },
     {
@@ -832,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 842,
       "user": "marclou"
     },
     {
@@ -847,7 +862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 970,
       "user": "onehumanbeing"
     },
     {
@@ -862,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 724,
       "user": "zhuyansen"
     },
     {
@@ -892,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3571,
+      "stars": 3707,
       "user": "mhtsec"
     },
     {
@@ -907,7 +922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 697,
       "user": "trhhubsd"
     },
     {
@@ -922,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "aindeev"
     },
     {
@@ -937,7 +952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "bdg9412"
     },
     {
@@ -952,7 +967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 918,
       "user": "rociiu"
     },
     {
@@ -967,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 773,
       "user": "ThariqS"
     },
     {
@@ -982,7 +997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3475,
+      "stars": 3656,
       "user": "storytold"
     },
     {
@@ -997,8 +1012,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2740,
+      "stars": 2808,
       "user": "nullmoth"
+    },
+    {
+      "title": "Vi Hart's Big Navier-Stokes Post",
+      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+      "published_at": "2026-10-12T20:29:49.487-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "math"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "archagon"
     },
     {
       "title": "'AI' is Not a Tool",
@@ -1055,18 +1083,30 @@
       "user": "somglin wu"
     },
     {
-      "title": "Where can I find pre-labeled datasets for AI camera detection of exam cheating?",
-      "url": "https://stackoverflow.com/questions/80009501/where-can-i-find-pre-labeled-datasets-for-ai-camera-detection-of-exam-cheating",
-      "published_at": "2026-10-12T15:47:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "Python script that copies certain lines and writes to other file",
+      "url": "https://stackoverflow.com/questions/80009197/python-script-that-copies-certain-lines-and-writes-to-other-file",
+      "published_at": "2026-10-11T02:38:14.000Z",
+      "description": "Stack Overflow question · 2 answers · score -6",
       "tags": [
-        "python",
-        "python-3.x",
-        "yolo"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Kh&#225;nh Linh"
+      "user": "Wyatt Juul"
+    },
+    {
+      "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
+      "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
+      "published_at": "2026-10-10T14:34:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "pytorch",
+        "torchvision"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Laika"
     },
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
@@ -1474,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 6242,
+      "stars": 6854,
       "user": "wheresryan22"
     },
     {
@@ -1489,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1508,
       "user": "shadany7824"
     },
     {
@@ -1504,7 +1544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1488,
       "user": "Fei2411"
     },
     {
@@ -1519,7 +1559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 842,
       "user": "marclou"
     },
     {
@@ -1534,7 +1574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 744,
       "user": "T-Auto"
     },
     {
@@ -1549,7 +1589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1337,
+      "stars": 1348,
       "user": "HelixDB"
     },
     {
@@ -1564,7 +1604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 918,
       "user": "rociiu"
     },
     {
@@ -1579,7 +1619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 887,
       "user": "shaongitbd"
     },
     {
@@ -1594,7 +1634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 811,
       "user": "bas3line"
     },
     {
@@ -1609,26 +1649,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 773,
       "user": "ThariqS"
-    },
-    {
-      "title": "Parsing JSON at tens of gigabytes per second… in Python",
-      "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
-      "published_at": "2026-10-12T10:24:45.118-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
     },
     {
       "title": "Why does changing an attribute in JavaScript not affect my CSS attribute selector?",
       "url": "https://stackoverflow.com/questions/80009551/why-does-changing-an-attribute-in-javascript-not-affect-my-css-attribute-selecto",
       "published_at": "2026-10-12T20:28:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "css"
@@ -1685,7 +1713,7 @@
       "title": "Is there any disadvantage to calling document.createElement with the “wrong” document?",
       "url": "https://stackoverflow.com/questions/80009283/is-there-any-disadvantage-to-calling-document-createelement-with-the-wrong-doc",
       "published_at": "2026-10-11T15:25:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "dom"
@@ -1695,10 +1723,23 @@
       "user": "Thom Smith"
     },
     {
+      "title": "How do I accurately detect gamepad button presses in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80009122/how-do-i-accurately-detect-gamepad-button-presses-in-javascript",
+      "published_at": "2026-10-10T15:12:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "gamepad"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Parking Master"
+    },
+    {
       "title": "Should I put all the HTML styles in a root directory?",
       "url": "https://stackoverflow.com/questions/80009311/should-i-put-all-the-html-styles-in-a-root-directory",
       "published_at": "2026-10-11T19:28:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "best-practices",
         "javascript",
@@ -1708,19 +1749,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ashcr"
-    },
-    {
-      "title": "How do I accurately detect gamepad button presses in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80009122/how-do-i-accurately-detect-gamepad-button-presses-in-javascript",
-      "published_at": "2026-10-10T15:12:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "gamepad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Parking Master"
     },
     {
       "title": "TinyMCE 6: undo() after a DOM move inside undoManager.transact() jumps back past setContent() — is undoManager.add() the right fix?",
@@ -1813,6 +1841,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
+      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
+      "published_at": "2026-09-30T16:45:07Z",
+      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
+      "tags": [
+        "ai",
+        "python",
+        "langchain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
+      "source": "Dev.to",
+      "user": "Frank Guan"
+    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1945,8 +1988,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 975,
       "user": "wesbos"
+    },
+    {
+      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "published_at": "2026-10-11T19:10:25Z",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
+      "source": "GitHub",
+      "stars": 970,
+      "user": "onehumanbeing"
+    },
+    {
+      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "published_at": "2026-10-12T07:11:01Z",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
+      "source": "GitHub",
+      "stars": 724,
+      "user": "zhuyansen"
     },
     {
       "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
@@ -1964,36 +2037,6 @@
       "user": "n1tr00-10"
     },
     {
-      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "published_at": "2026-10-11T19:10:25Z",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
-      "source": "GitHub",
-      "stars": 619,
-      "user": "onehumanbeing"
-    },
-    {
-      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "published_at": "2026-10-12T07:11:01Z",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "zhuyansen"
-    },
-    {
       "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
       "url": "https://github.com/jwuthri-cloud/Tracely-ai",
       "published_at": "2026-10-11T15:38:03Z",
@@ -2009,22 +2052,10 @@
       "user": "jwuthri-cloud"
     },
     {
-      "title": "Parsing JSON at tens of gigabytes per second… in Python",
-      "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
-      "published_at": "2026-10-12T10:24:45.118-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
-    },
-    {
       "title": "Get sum of calculated column in aggregated request",
       "url": "https://stackoverflow.com/questions/80009527/get-sum-of-calculated-column-in-aggregated-request",
       "published_at": "2026-10-12T17:41:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "sqlalchemy"
@@ -2032,20 +2063,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lesnik"
-    },
-    {
-      "title": "Where can I find pre-labeled datasets for AI camera detection of exam cheating?",
-      "url": "https://stackoverflow.com/questions/80009501/where-can-i-find-pre-labeled-datasets-for-ai-camera-detection-of-exam-cheating",
-      "published_at": "2026-10-12T15:47:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "python-3.x",
-        "yolo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kh&#225;nh Linh"
     },
     {
       "title": "How do I safely remove unused asyncio locks without causing duplicate requests?",
@@ -2062,22 +2079,10 @@
       "user": "Faheem"
     },
     {
-      "title": "How can I extract internal links and anchor text from HTML pages using Python?",
-      "url": "https://stackoverflow.com/questions/80009401/how-can-i-extract-internal-links-and-anchor-text-from-html-pages-using-python",
-      "published_at": "2026-10-12T07:58:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaksham Sharma"
-    },
-    {
       "title": "How can I color specific words in live time in a QTextEdit?",
       "url": "https://stackoverflow.com/questions/80009455/how-can-i-color-specific-words-in-live-time-in-a-qtextedit",
       "published_at": "2026-10-12T11:44:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "user-interface",
@@ -2088,6 +2093,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hossein Dastoory"
+    },
+    {
+      "title": "How can I extract internal links and anchor text from HTML pages using Python?",
+      "url": "https://stackoverflow.com/questions/80009401/how-can-i-extract-internal-links-and-anchor-text-from-html-pages-using-python",
+      "published_at": "2026-10-12T07:58:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shaksham Sharma"
     },
     {
       "title": "How do I solve an error with a Python scraping program",
@@ -2133,18 +2150,6 @@
       "user": "Abishek CP"
     },
     {
-      "title": "How do I count the number of elements in a Python list?",
-      "url": "https://stackoverflow.com/questions/80009451/how-do-i-count-the-number-of-elements-in-a-python-list",
-      "published_at": "2026-10-12T11:34:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aishwarya Naganagoudra"
-    },
-    {
       "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
       "url": "https://stackoverflow.com/questions/80009333/when-developing-the-same-package-for-r-and-python-do-you-put-them-in-one-github",
       "published_at": "2026-10-11T22:37:01.000Z",
@@ -2158,6 +2163,32 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SuperDuperMario"
+    },
+    {
+      "title": "Python script that copies certain lines and writes to other file",
+      "url": "https://stackoverflow.com/questions/80009197/python-script-that-copies-certain-lines-and-writes-to-other-file",
+      "published_at": "2026-10-11T02:38:14.000Z",
+      "description": "Stack Overflow question · 2 answers · score -6",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Wyatt Juul"
+    },
+    {
+      "title": "How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?",
+      "url": "https://stackoverflow.com/questions/80009114/how-to-get-both-losses-and-detection-predictions-from-torchvision-faster-r-cnn-i",
+      "published_at": "2026-10-10T14:34:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "pytorch",
+        "torchvision"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Laika"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2204,6 +2235,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
       "source": "Dev.to",
       "user": "Sanskriti Harmukh"
+    },
+    {
+      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
+      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
+      "published_at": "2026-09-30T16:45:07Z",
+      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
+      "tags": [
+        "ai",
+        "python",
+        "langchain",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
+      "source": "Dev.to",
+      "user": "Frank Guan"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2398,7 +2444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 811,
       "user": "bas3line"
     },
     {
@@ -2417,7 +2463,7 @@
       "title": "Why does changing an attribute in JavaScript not affect my CSS attribute selector?",
       "url": "https://stackoverflow.com/questions/80009551/why-does-changing-an-attribute-in-javascript-not-affect-my-css-attribute-selecto",
       "published_at": "2026-10-12T20:28:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "css"
@@ -2474,7 +2520,7 @@
       "title": "Should I put all the HTML styles in a root directory?",
       "url": "https://stackoverflow.com/questions/80009311/should-i-put-all-the-html-styles-in-a-root-directory",
       "published_at": "2026-10-11T19:28:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "best-practices",
         "javascript",
@@ -2572,7 +2618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 975,
       "user": "wesbos"
     }
   ],
@@ -2591,19 +2637,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Run, Hunt, Hack: Join the Cloud Run Hackathon on Product Hunt",
-      "url": "https://dev.to/googlecloud/run-hunt-hack-join-the-cloud-run-hackathon-on-product-hunt-3cc",
-      "published_at": "2026-10-07T00:58:52Z",
-      "description": "Got a cool side project running on your local machine? This is your chance to make it live and have...",
-      "tags": [
-        "hackathon",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcsh30ae11g3jgrddo92.png",
-      "source": "Dev.to",
-      "user": "Martin Omander"
     },
     {
       "title": "Claude Opus 5.5 is now available on Google Cloud",
@@ -2690,7 +2723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 918,
       "user": "rociiu"
     }
   ],
@@ -2711,7 +2744,7 @@
       "title": "Get sum of calculated column in aggregated request",
       "url": "https://stackoverflow.com/questions/80009527/get-sum-of-calculated-column-in-aggregated-request",
       "published_at": "2026-10-12T17:41:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "sqlalchemy"
@@ -3152,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 6242,
+      "stars": 6854,
       "user": "wheresryan22"
     },
     {
@@ -3167,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1508,
       "user": "shadany7824"
     },
     {
@@ -3182,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1371,
+      "stars": 1488,
       "user": "Fei2411"
     },
     {
@@ -3197,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 842,
       "user": "marclou"
     },
     {
@@ -3212,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 744,
       "user": "T-Auto"
     },
     {
@@ -3227,8 +3260,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 975,
       "user": "wesbos"
+    },
+    {
+      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "published_at": "2026-10-11T19:10:25Z",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
+      "source": "GitHub",
+      "stars": 970,
+      "user": "onehumanbeing"
+    },
+    {
+      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "published_at": "2026-10-12T07:11:01Z",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
+      "source": "GitHub",
+      "stars": 724,
+      "user": "zhuyansen"
     },
     {
       "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
@@ -3244,36 +3307,6 @@
       "source": "GitHub",
       "stars": 711,
       "user": "n1tr00-10"
-    },
-    {
-      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "published_at": "2026-10-11T19:10:25Z",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
-      "source": "GitHub",
-      "stars": 619,
-      "user": "onehumanbeing"
-    },
-    {
-      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "published_at": "2026-10-12T07:11:01Z",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "zhuyansen"
     },
     {
       "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
@@ -3302,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3571,
+      "stars": 3707,
       "user": "mhtsec"
     },
     {
@@ -3317,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 734,
       "user": "Hinln"
     },
     {
@@ -3332,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 697,
       "user": "trhhubsd"
     },
     {
@@ -3347,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "aindeev"
     },
     {
@@ -3362,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "bdg9412"
     },
     {
@@ -3377,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1337,
+      "stars": 1348,
       "user": "HelixDB"
     },
     {
@@ -3392,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 918,
       "user": "rociiu"
     },
     {
@@ -3407,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 887,
       "user": "shaongitbd"
     },
     {
@@ -3422,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 811,
       "user": "bas3line"
     },
     {
@@ -3437,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 770,
+      "stars": 773,
       "user": "ThariqS"
     },
     {
@@ -3452,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 9152,
+      "stars": 9696,
       "user": "storytold"
     },
     {
@@ -3467,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3835,
+      "stars": 4004,
       "user": "storytold"
     },
     {
@@ -3482,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3475,
+      "stars": 3656,
       "user": "storytold"
     },
     {
@@ -3497,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2740,
+      "stars": 2808,
       "user": "nullmoth"
     },
     {
@@ -3512,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2593,
+      "stars": 2685,
       "user": "storytold"
     },
     {
