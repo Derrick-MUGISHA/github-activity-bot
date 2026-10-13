@@ -1,32 +1,19 @@
 {
   "AI": [
     {
-      "title": "One Weekend: 3,000 Open-Source AI Projects",
-      "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65",
-      "published_at": "2026-10-11T19:43:45Z",
-      "description": "Every October for the past twelve years, developers around the world have taken part in...",
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "published_at": "2026-10-11T00:59:52Z",
+      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
       "tags": [
-        "aie",
-        "hacktoberfest",
-        "opensource",
-        "ai"
+        "ai",
+        "programming",
+        "unix",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ez8hua8zoepb31imryi.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
       "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
-      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go",
-      "published_at": "2026-10-12T00:48:29Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futwx2ar2udsipq6vr6ww.jpg",
-      "source": "Dev.to",
-      "user": "İclal Doğan"
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
@@ -44,19 +31,47 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
-      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
-      "published_at": "2026-10-11T00:59:52Z",
-      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
+      "title": "Local embeddings with llamadart: how llamas share secrets",
+      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
+      "published_at": "2026-10-12T18:18:49Z",
+      "description": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
       "tags": [
+        "dart",
         "ai",
-        "programming",
-        "unix",
-        "architecture"
+        "flutter",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Jhin Lee"
+    },
+    {
+      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
+      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go",
+      "published_at": "2026-10-12T00:48:29Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futwx2ar2udsipq6vr6ww.jpg",
+      "source": "Dev.to",
+      "user": "İclal Doğan"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba",
+      "published_at": "2026-10-12T19:01:08Z",
+      "description": "Week 2 of our five Hacktoberfest DEV Challenges starts today! Running through October 18, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fou65yjgbkeh3zntchd3k.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
@@ -132,6 +147,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "One Weekend: 3,000 Open-Source AI Projects",
+      "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65",
+      "published_at": "2026-10-11T19:43:45Z",
+      "description": "Every October for the past twelve years, developers around the world have taken part in...",
+      "tags": [
+        "aie",
+        "hacktoberfest",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ez8hua8zoepb31imryi.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Your Guide to AI Engineer New York 2026",
       "url": "https://dev.to/dailycontext/your-guide-to-ai-engineer-new-york-2026-2aol",
       "published_at": "2026-10-11T19:43:07Z",
@@ -192,6 +222,20 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "Welcome to AI Engineer New York",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-new-york-bh0",
+      "published_at": "2026-10-11T19:41:56Z",
+      "description": "Welcome to New York City. Whether you came from a few blocks away or flew in from the other side of...",
+      "tags": [
+        "ai",
+        "aie",
+        "fintech"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4uxnwrmcw1ca7f2ruf15.jpg",
+      "source": "Dev.to",
+      "user": "swyx"
+    },
+    {
       "title": "Building AI Analysts for Wall Street: A Q&A with Compound Co-Founder Yijia Liang",
       "url": "https://dev.to/dailycontext/building-ai-analysts-for-wall-street-a-qa-with-compound-co-founder-yijia-liang-29c3",
       "published_at": "2026-10-11T19:43:48Z",
@@ -236,20 +280,6 @@
       "user": "Freddy Lécué"
     },
     {
-      "title": "Welcome to AI Engineer New York",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-new-york-bh0",
-      "published_at": "2026-10-11T19:41:56Z",
-      "description": "Welcome to New York City. Whether you came from a few blocks away or flew in from the other side of...",
-      "tags": [
-        "ai",
-        "aie",
-        "fintech"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4uxnwrmcw1ca7f2ruf15.jpg",
-      "source": "Dev.to",
-      "user": "swyx"
-    },
-    {
       "title": "A World Worth Understanding",
       "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
       "published_at": "2026-10-11T19:43:19Z",
@@ -280,21 +310,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
-      "published_at": "2026-10-08T20:00:18Z",
-      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "testing",
-        "jev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
-      "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
       "title": "The Epistemology of Quality",
       "url": "https://dev.to/cheetah100/the-epistemology-of-quality-4cmi",
       "published_at": "2026-10-10T00:28:26Z",
@@ -310,19 +325,19 @@
       "user": "Peter Harrison"
     },
     {
-      "title": "Llama Village: a virtual world powered by local AI with llamadart",
-      "url": "https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi",
-      "published_at": "2026-10-08T22:34:10Z",
-      "description": "Llama Village in motion. The characters’ dialogue is generated by an on-device model.  Watch the...",
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
+      "published_at": "2026-10-08T20:00:18Z",
+      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
       "tags": [
-        "flutter",
         "ai",
-        "gamedev",
-        "showdev"
+        "gemini",
+        "testing",
+        "jev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjgsr3swidyjgd94d9f8m.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
       "source": "Dev.to",
-      "user": "Jhin Lee"
+      "user": "Swift"
     },
     {
       "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
@@ -413,21 +428,6 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01",
-      "published_at": "2026-10-08T15:59:16Z",
-      "description": "Ten builds of Gemma 4 E2B (bf16, fp8 in both E4M3 flavours, int8 W8A8 and int4 W4A16, each with and without int4 embedding tables) served one after another on one AMD Instinct MI300X with the same vLLM image. fp8 is the only format that keeps pace with bf16, the 4-bit builds run at 0.14x to 0.63x, and int4 embedding tables cost almost nothing.",
-      "tags": [
-        "gemma",
-        "amd",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-mi300x-2b%2Farticle%2Fdevto-mi300x-formats-cover.355c09b0.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Tendril: a garden assistant you barely have to open",
       "url": "https://dev.to/chanadev/tendril-a-garden-assistant-you-never-have-to-open-24d",
       "published_at": "2026-10-08T00:12:52Z",
@@ -503,19 +503,19 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
-      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
-      "published_at": "2026-09-23T19:19:19Z",
-      "description": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "title": "Llama Village: a virtual world powered by local AI with llamadart",
+      "url": "https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi",
+      "published_at": "2026-10-08T22:34:10Z",
+      "description": "Llama Village in motion. The characters’ dialogue is generated by an on-device model.  Watch the...",
       "tags": [
+        "flutter",
         "ai",
-        "llm",
-        "docker",
-        "postgres"
+        "gamedev",
+        "showdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjgsr3swidyjgd94d9f8m.png",
       "source": "Dev.to",
-      "user": "Sanskriti Harmukh"
+      "user": "Jhin Lee"
     },
     {
       "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
@@ -531,6 +531,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F590pgxcylpzb99su14sq.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
+    },
+    {
+      "title": "Deploying LiteLLM: An Open-Source AI Gateway",
+      "url": "https://dev.to/vultr/deploying-litellm-an-open-source-ai-gateway-2idp",
+      "published_at": "2026-09-23T19:19:19Z",
+      "description": "LiteLLM is an open-source AI gateway that provides a unified, OpenAI-compatible API for over 100...",
+      "tags": [
+        "ai",
+        "llm",
+        "docker",
+        "postgres"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
+      "source": "Dev.to",
+      "user": "Sanskriti Harmukh"
     },
     {
       "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
@@ -606,21 +621,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0y8khjzd38pojazjkoqd.jpg",
       "source": "Dev.to",
       "user": "Ikrame Ibn Hayoun"
-    },
-    {
-      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
-      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
-      "published_at": "2026-09-30T16:45:07Z",
-      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
-      "tags": [
-        "ai",
-        "python",
-        "langchain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
-      "source": "Dev.to",
-      "user": "Frank Guan"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -802,23 +802,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 5613,
+      "stars": 6242,
       "user": "wheresryan22"
-    },
-    {
-      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "published_at": "2026-10-06T04:49:37Z",
-      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 3578,
-      "user": "alchaincyf"
     },
     {
       "title": "Fei2411/DeepSeek-Bot - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
@@ -832,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1371,
       "user": "Fei2411"
     },
     {
@@ -847,38 +832,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 839,
       "user": "marclou"
     },
     {
-      "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "published_at": "2026-10-06T20:14:19Z",
-      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "published_at": "2026-10-11T19:10:25Z",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 2728,
-      "user": "LosaLosSantos"
+      "stars": 619,
+      "user": "onehumanbeing"
     },
     {
-      "title": "sirioberati/Genjustsu-Open-Source-Workflow - Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-      "published_at": "2026-10-06T23:18:18Z",
-      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "published_at": "2026-10-12T07:11:01Z",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 712,
-      "user": "sirioberati"
+      "stars": 553,
+      "user": "zhuyansen"
+    },
+    {
+      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "published_at": "2026-10-11T15:38:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
+      "source": "GitHub",
+      "stars": 481,
+      "user": "jwuthri-cloud"
     },
     {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
@@ -892,7 +892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3542,
+      "stars": 3571,
       "user": "mhtsec"
     },
     {
@@ -907,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 540,
       "user": "trhhubsd"
     },
     {
@@ -937,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "bdg9412"
     },
     {
@@ -952,7 +952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 899,
       "user": "rociiu"
     },
     {
@@ -967,7 +967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 770,
       "user": "ThariqS"
     },
     {
@@ -982,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3292,
+      "stars": 3475,
       "user": "storytold"
     },
     {
@@ -997,7 +997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2722,
+      "stars": 2740,
       "user": "nullmoth"
     },
     {
@@ -1025,6 +1025,22 @@
       "user": "aldantanneo"
     },
     {
+      "title": "Link-in-Bio site \"Pages\" (portfolio layout) feature not working as intended (GSAP)",
+      "url": "https://stackoverflow.com/questions/80009532/link-in-bio-site-pages-portfolio-layout-feature-not-working-as-intended-gsa",
+      "published_at": "2026-10-12T18:07:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "next.js",
+        "web",
+        "tailwind-css",
+        "gsap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fedded.dev"
+    },
+    {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
       "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
       "published_at": "2026-10-12T09:03:11.000Z",
@@ -1042,7 +1058,7 @@
       "title": "Where can I find pre-labeled datasets for AI camera detection of exam cheating?",
       "url": "https://stackoverflow.com/questions/80009501/where-can-i-find-pre-labeled-datasets-for-ai-camera-detection-of-exam-cheating",
       "published_at": "2026-10-12T15:47:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "python-3.x",
@@ -1053,22 +1069,10 @@
       "user": "Kh&#225;nh Linh"
     },
     {
-      "title": "Python script that copies certain lines and writes to other file",
-      "url": "https://stackoverflow.com/questions/80009197/python-script-that-copies-certain-lines-and-writes-to-other-file",
-      "published_at": "2026-10-11T02:38:14.000Z",
-      "description": "Stack Overflow question · 4 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wyatt Juul"
-    },
-    {
       "title": "Meta releases its first frontier model, Muse Wonder",
       "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "published_at": "2026-10-12T17:56:56.000Z",
-      "description": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
+      "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
       "tags": [
         "AI",
         "ai models",
@@ -1084,10 +1088,12 @@
       "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
       "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
       "published_at": "2026-10-12T17:19:14.000Z",
-      "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+      "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
       "tags": [
         "AI",
-        "Exclusive"
+        "Startups",
+        "Exclusive",
+        "Windborne Systems"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1097,10 +1103,13 @@
       "title": "Honeyjar offers AI tools to improve PR and comms at every company",
       "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
       "published_at": "2026-10-12T15:45:00.000Z",
-      "description": "Could AI actually make PR better?",
+      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
       "tags": [
+        "AI",
+        "Media & Entertainment",
         "Startups",
-        "Media & Entertainment"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1465,23 +1474,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 5613,
+      "stars": 6242,
       "user": "wheresryan22"
-    },
-    {
-      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "published_at": "2026-10-06T04:49:37Z",
-      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 3578,
-      "user": "alchaincyf"
     },
     {
       "title": "shadany7824/playgta5 - A source code for playgta5.com.",
@@ -1495,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1475,
+      "stars": 1495,
       "user": "shadany7824"
     },
     {
@@ -1510,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1371,
       "user": "Fei2411"
     },
     {
@@ -1525,8 +1519,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 839,
       "user": "marclou"
+    },
+    {
+      "title": "T-Auto/dsh-ops - A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "url": "https://github.com/T-Auto/dsh-ops",
+      "published_at": "2026-10-08T07:09:25Z",
+      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
+      "source": "GitHub",
+      "stars": 688,
+      "user": "T-Auto"
     },
     {
       "title": "HelixDB/helix-foundry - Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
@@ -1540,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1337,
       "user": "HelixDB"
     },
     {
@@ -1555,8 +1564,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 899,
       "user": "rociiu"
+    },
+    {
+      "title": "shaongitbd/doory - Open source canva alternative",
+      "url": "https://github.com/shaongitbd/doory",
+      "published_at": "2026-10-10T00:03:25Z",
+      "description": "Open source canva alternative",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
+      "source": "GitHub",
+      "stars": 807,
+      "user": "shaongitbd"
     },
     {
       "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
@@ -1570,7 +1594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 805,
       "user": "bas3line"
     },
     {
@@ -1585,23 +1609,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 770,
       "user": "ThariqS"
-    },
-    {
-      "title": "shaongitbd/doory - Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "published_at": "2026-10-10T00:03:25Z",
-      "description": "Open source canva alternative",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
-      "source": "GitHub",
-      "stars": 707,
-      "user": "shaongitbd"
     },
     {
       "title": "Parsing JSON at tens of gigabytes per second… in Python",
@@ -1616,18 +1625,33 @@
       "user": "raymii"
     },
     {
-      "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
-      "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
-      "published_at": "2026-10-12T09:03:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Why does changing an attribute in JavaScript not affect my CSS attribute selector?",
+      "url": "https://stackoverflow.com/questions/80009551/why-does-changing-an-attribute-in-javascript-not-affect-my-css-attribute-selecto",
+      "published_at": "2026-10-12T20:28:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "html",
-        "joomla"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "somglin wu"
+      "user": "Joe"
+    },
+    {
+      "title": "Link-in-Bio site \"Pages\" (portfolio layout) feature not working as intended (GSAP)",
+      "url": "https://stackoverflow.com/questions/80009532/link-in-bio-site-pages-portfolio-layout-feature-not-working-as-intended-gsa",
+      "published_at": "2026-10-12T18:07:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "next.js",
+        "web",
+        "tailwind-css",
+        "gsap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fedded.dev"
     },
     {
       "title": "Javascript if statement only runs once",
@@ -1642,6 +1666,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "krim kastro"
+    },
+    {
+      "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
+      "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
+      "published_at": "2026-10-12T09:03:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "html",
+        "joomla"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "somglin wu"
     },
     {
       "title": "Is there any disadvantage to calling document.createElement with the “wrong” document?",
@@ -1683,20 +1721,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Parking Master"
-    },
-    {
-      "title": "How can I validate a specific field in a JSON response using Postman?",
-      "url": "https://stackoverflow.com/questions/80009138/how-can-i-validate-a-specific-field-in-a-json-response-using-postman",
-      "published_at": "2026-10-10T16:40:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "json",
-        "postman"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad UmarHayat"
     },
     {
       "title": "TinyMCE 6: undo() after a DOM move inside undoManager.transact() jumps back past setContent() — is undoManager.add() the right fix?",
@@ -1741,19 +1765,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dwinnbrown"
-    },
-    {
-      "title": "Validate phone number with Yup?",
-      "url": "https://stackoverflow.com/questions/52483260/validate-phone-number-with-yup",
-      "published_at": "2018-09-24T16:04:18.000Z",
-      "description": "Stack Overflow question · 11 answers · score 87",
-      "tags": [
-        "javascript",
-        "yup"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Evanss"
     },
     {
       "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
@@ -1802,21 +1813,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
-      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
-      "published_at": "2026-09-30T16:45:07Z",
-      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
-      "tags": [
-        "ai",
-        "python",
-        "langchain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
-      "source": "Dev.to",
-      "user": "Frank Guan"
-    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1938,36 +1934,6 @@
       "user": "arathore"
     },
     {
-      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "url": "https://github.com/zhongerxin/iPhone-use",
-      "published_at": "2026-10-06T15:09:33Z",
-      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
-      "source": "GitHub",
-      "stars": 3345,
-      "user": "zhongerxin"
-    },
-    {
-      "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "published_at": "2026-10-06T20:14:19Z",
-      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
-      "source": "GitHub",
-      "stars": 2728,
-      "user": "LosaLosSantos"
-    },
-    {
       "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
       "url": "https://github.com/wesbos/photo-frame-dashboard",
       "published_at": "2026-10-08T18:22:19Z",
@@ -1979,23 +1945,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 943,
       "user": "wesbos"
-    },
-    {
-      "title": "sirioberati/Genjustsu-Open-Source-Workflow - Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-      "published_at": "2026-10-06T23:18:18Z",
-      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
-      "source": "GitHub",
-      "stars": 712,
-      "user": "sirioberati"
     },
     {
       "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
@@ -2013,6 +1964,51 @@
       "user": "n1tr00-10"
     },
     {
+      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "published_at": "2026-10-11T19:10:25Z",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
+      "source": "GitHub",
+      "stars": 619,
+      "user": "onehumanbeing"
+    },
+    {
+      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "published_at": "2026-10-12T07:11:01Z",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
+      "source": "GitHub",
+      "stars": 553,
+      "user": "zhuyansen"
+    },
+    {
+      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "published_at": "2026-10-11T15:38:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
+      "source": "GitHub",
+      "stars": 481,
+      "user": "jwuthri-cloud"
+    },
+    {
       "title": "Parsing JSON at tens of gigabytes per second… in Python",
       "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
       "published_at": "2026-10-12T10:24:45.118-05:00",
@@ -2025,10 +2021,23 @@
       "user": "raymii"
     },
     {
+      "title": "Get sum of calculated column in aggregated request",
+      "url": "https://stackoverflow.com/questions/80009527/get-sum-of-calculated-column-in-aggregated-request",
+      "published_at": "2026-10-12T17:41:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lesnik"
+    },
+    {
       "title": "Where can I find pre-labeled datasets for AI camera detection of exam cheating?",
       "url": "https://stackoverflow.com/questions/80009501/where-can-i-find-pre-labeled-datasets-for-ai-camera-detection-of-exam-cheating",
       "published_at": "2026-10-12T15:47:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "python-3.x",
@@ -2053,10 +2062,22 @@
       "user": "Faheem"
     },
     {
+      "title": "How can I extract internal links and anchor text from HTML pages using Python?",
+      "url": "https://stackoverflow.com/questions/80009401/how-can-i-extract-internal-links-and-anchor-text-from-html-pages-using-python",
+      "published_at": "2026-10-12T07:58:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shaksham Sharma"
+    },
+    {
       "title": "How can I color specific words in live time in a QTextEdit?",
       "url": "https://stackoverflow.com/questions/80009455/how-can-i-color-specific-words-in-live-time-in-a-qtextedit",
       "published_at": "2026-10-12T11:44:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "user-interface",
@@ -2067,6 +2088,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hossein Dastoory"
+    },
+    {
+      "title": "How do I solve an error with a Python scraping program",
+      "url": "https://stackoverflow.com/questions/80009348/how-do-i-solve-an-error-with-a-python-scraping-program",
+      "published_at": "2026-10-12T00:09:34.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "python",
+        "web-scraping"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tim Armstrong"
+    },
+    {
+      "title": "Converting Nubra historical_data() to a pandas DataFrame: TimeSeriesPoint objects, nanosecond timestamps and odd volume",
+      "url": "https://stackoverflow.com/questions/80009390/converting-nubra-historical-data-to-a-pandas-dataframe-timeseriespoint-object",
+      "published_at": "2026-10-12T06:34:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "pandas",
+        "trading",
+        "candlestick-chart",
+        "ohlc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naira"
     },
     {
       "title": "Oracle testing coverage analysis",
@@ -2086,54 +2136,13 @@
       "title": "How do I count the number of elements in a Python list?",
       "url": "https://stackoverflow.com/questions/80009451/how-do-i-count-the-number-of-elements-in-a-python-list",
       "published_at": "2026-10-12T11:34:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aishwarya Naganagoudra"
-    },
-    {
-      "title": "Converting Nubra historical_data() to a pandas DataFrame: TimeSeriesPoint objects, nanosecond timestamps and odd volume",
-      "url": "https://stackoverflow.com/questions/80009390/converting-nubra-historical-data-to-a-pandas-dataframe-timeseriespoint-object",
-      "published_at": "2026-10-12T06:34:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "pandas",
-        "trading",
-        "candlestick-chart",
-        "ohlc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naira"
-    },
-    {
-      "title": "How do I solve an error with a Python scraping program",
-      "url": "https://stackoverflow.com/questions/80009348/how-do-i-solve-an-error-with-a-python-scraping-program",
-      "published_at": "2026-10-12T00:09:34.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "web-scraping"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tim Armstrong"
-    },
-    {
-      "title": "How can I extract internal links and anchor text from HTML pages using Python?",
-      "url": "https://stackoverflow.com/questions/80009401/how-can-i-extract-internal-links-and-anchor-text-from-html-pages-using-python",
-      "published_at": "2026-10-12T07:58:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaksham Sharma"
     },
     {
       "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
@@ -2149,18 +2158,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SuperDuperMario"
-    },
-    {
-      "title": "Python script that copies certain lines and writes to other file",
-      "url": "https://stackoverflow.com/questions/80009197/python-script-that-copies-certain-lines-and-writes-to-other-file",
-      "published_at": "2026-10-11T02:38:14.000Z",
-      "description": "Stack Overflow question · 4 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wyatt Juul"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2207,21 +2204,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhx08h4qm479s3anc9vio.png",
       "source": "Dev.to",
       "user": "Sanskriti Harmukh"
-    },
-    {
-      "title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
-      "url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
-      "published_at": "2026-09-30T16:45:07Z",
-      "description": "How do you currently test your AI agents?  If you're like most developers building agentic...",
-      "tags": [
-        "ai",
-        "python",
-        "langchain",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ilchqkxg66lm2aznxlz.png",
-      "source": "Dev.to",
-      "user": "Frank Guan"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2416,7 +2398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 805,
       "user": "bas3line"
     },
     {
@@ -2432,18 +2414,33 @@
       "user": "aldantanneo"
     },
     {
-      "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
-      "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
-      "published_at": "2026-10-12T09:03:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Why does changing an attribute in JavaScript not affect my CSS attribute selector?",
+      "url": "https://stackoverflow.com/questions/80009551/why-does-changing-an-attribute-in-javascript-not-affect-my-css-attribute-selecto",
+      "published_at": "2026-10-12T20:28:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "html",
-        "joomla"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "somglin wu"
+      "user": "Joe"
+    },
+    {
+      "title": "Link-in-Bio site \"Pages\" (portfolio layout) feature not working as intended (GSAP)",
+      "url": "https://stackoverflow.com/questions/80009532/link-in-bio-site-pages-portfolio-layout-feature-not-working-as-intended-gsa",
+      "published_at": "2026-10-12T18:07:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "next.js",
+        "web",
+        "tailwind-css",
+        "gsap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fedded.dev"
     },
     {
       "title": "Javascript if statement only runs once",
@@ -2458,6 +2455,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "krim kastro"
+    },
+    {
+      "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
+      "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
+      "published_at": "2026-10-12T09:03:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "html",
+        "joomla"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "somglin wu"
     },
     {
       "title": "Should I put all the HTML styles in a root directory?",
@@ -2505,6 +2516,21 @@
   ],
   "Mobile": [
     {
+      "title": "Local embeddings with llamadart: how llamas share secrets",
+      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
+      "published_at": "2026-10-12T18:18:49Z",
+      "description": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
+      "tags": [
+        "dart",
+        "ai",
+        "flutter",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "Llama Village: a virtual world powered by local AI with llamadart",
       "url": "https://dev.to/gde/llama-village-a-virtual-world-powered-by-local-ai-with-llamadart-3lmi",
       "published_at": "2026-10-08T22:34:10Z",
@@ -2546,7 +2572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 943,
       "user": "wesbos"
     }
   ],
@@ -2638,6 +2664,21 @@
       "user": "Jen Looper"
     },
     {
+      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "published_at": "2026-10-11T15:38:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
+      "source": "GitHub",
+      "stars": 481,
+      "user": "jwuthri-cloud"
+    },
+    {
       "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
       "url": "https://github.com/rociiu/talorys",
       "published_at": "2026-10-10T09:46:56Z",
@@ -2649,7 +2690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 899,
       "user": "rociiu"
     }
   ],
@@ -2665,6 +2706,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Get sum of calculated column in aggregated request",
+      "url": "https://stackoverflow.com/questions/80009527/get-sum-of-calculated-column-in-aggregated-request",
+      "published_at": "2026-10-12T17:41:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lesnik"
     },
     {
       "title": "Oracle testing coverage analysis",
@@ -2860,18 +2914,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
-      "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
-      "published_at": "2026-10-12T07:23:52.273-05:00",
-      "description": "This popped up and reminded me strangely of a story post a month ago here:\r\n\r\nhttps://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers\r\n\r\nAnd, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by [french newspaper Le Monde](https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html): the danish company Danfoss. I could not find sources mentioning the supplier in English.",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aldantanneo"
-    },
-    {
       "title": "Finding a $90,000 Remote Code Execution Vulnerability in Google",
       "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
       "published_at": "2026-10-12T09:40:35.395-05:00",
@@ -2882,6 +2924,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hoistbypetard"
+    },
+    {
+      "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
+      "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+      "published_at": "2026-10-12T07:23:52.273-05:00",
+      "description": "This popped up and reminded me strangely of a story post a month ago here:\r\n\r\nhttps://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers\r\n\r\nAnd, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by [french newspaper Le Monde](https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html): the danish company Danfoss. I could not find sources mentioning the supplier in English.",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "aldantanneo"
     },
     {
       "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
@@ -2961,21 +3015,6 @@
       "user": "supriya subudhi"
     },
     {
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
-      "published_at": "2026-10-08T20:00:18Z",
-      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "testing",
-        "jev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
-      "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
       "title": "The Epistemology of Quality",
       "url": "https://dev.to/cheetah100/the-epistemology-of-quality-4cmi",
       "published_at": "2026-10-10T00:28:26Z",
@@ -2989,6 +3028,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fns4rf0pmroxjaq4udzo7.png",
       "source": "Dev.to",
       "user": "Peter Harrison"
+    },
+    {
+      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
+      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
+      "published_at": "2026-10-08T20:00:18Z",
+      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "tags": [
+        "ai",
+        "gemini",
+        "testing",
+        "jev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
+      "source": "Dev.to",
+      "user": "Swift"
     },
     {
       "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
@@ -3098,23 +3152,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 5613,
+      "stars": 6242,
       "user": "wheresryan22"
-    },
-    {
-      "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "published_at": "2026-10-06T04:49:37Z",
-      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 3578,
-      "user": "alchaincyf"
     },
     {
       "title": "shadany7824/playgta5 - A source code for playgta5.com.",
@@ -3128,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183978316?v=4",
       "source": "GitHub",
-      "stars": 1475,
+      "stars": 1495,
       "user": "shadany7824"
     },
     {
@@ -3143,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279467036?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1371,
       "user": "Fei2411"
     },
     {
@@ -3158,38 +3197,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 839,
       "user": "marclou"
     },
     {
-      "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "url": "https://github.com/zhongerxin/iPhone-use",
-      "published_at": "2026-10-06T15:09:33Z",
-      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "title": "T-Auto/dsh-ops - A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "url": "https://github.com/T-Auto/dsh-ops",
+      "published_at": "2026-10-08T07:09:25Z",
+      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8215057?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 3345,
-      "user": "zhongerxin"
-    },
-    {
-      "title": "LosaLosSantos/aurelio-finance - Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "published_at": "2026-10-06T20:14:19Z",
-      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/154470154?v=4",
-      "source": "GitHub",
-      "stars": 2728,
-      "user": "LosaLosSantos"
+      "stars": 688,
+      "user": "T-Auto"
     },
     {
       "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
@@ -3203,23 +3227,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 943,
       "user": "wesbos"
-    },
-    {
-      "title": "sirioberati/Genjustsu-Open-Source-Workflow - Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-      "published_at": "2026-10-06T23:18:18Z",
-      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128729078?v=4",
-      "source": "GitHub",
-      "stars": 712,
-      "user": "sirioberati"
     },
     {
       "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
@@ -3237,6 +3246,51 @@
       "user": "n1tr00-10"
     },
     {
+      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "published_at": "2026-10-11T19:10:25Z",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
+      "source": "GitHub",
+      "stars": 619,
+      "user": "onehumanbeing"
+    },
+    {
+      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "published_at": "2026-10-12T07:11:01Z",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
+      "source": "GitHub",
+      "stars": 553,
+      "user": "zhuyansen"
+    },
+    {
+      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "published_at": "2026-10-11T15:38:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
+      "source": "GitHub",
+      "stars": 481,
+      "user": "jwuthri-cloud"
+    },
+    {
       "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "url": "https://github.com/mhtsec/ARTEX",
       "published_at": "2026-10-08T05:33:06Z",
@@ -3248,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3542,
+      "stars": 3571,
       "user": "mhtsec"
     },
     {
@@ -3263,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 727,
       "user": "Hinln"
     },
     {
@@ -3278,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 540,
       "user": "trhhubsd"
     },
     {
@@ -3308,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "bdg9412"
     },
     {
@@ -3323,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/189895202?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1337,
       "user": "HelixDB"
     },
     {
@@ -3338,8 +3392,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 899,
       "user": "rociiu"
+    },
+    {
+      "title": "shaongitbd/doory - Open source canva alternative",
+      "url": "https://github.com/shaongitbd/doory",
+      "published_at": "2026-10-10T00:03:25Z",
+      "description": "Open source canva alternative",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
+      "source": "GitHub",
+      "stars": 807,
+      "user": "shaongitbd"
     },
     {
       "title": "bas3line/ascii - Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
@@ -3353,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196133609?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 805,
       "user": "bas3line"
     },
     {
@@ -3368,23 +3437,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 770,
       "user": "ThariqS"
-    },
-    {
-      "title": "shaongitbd/doory - Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "published_at": "2026-10-10T00:03:25Z",
-      "description": "Open source canva alternative",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
-      "source": "GitHub",
-      "stars": 707,
-      "user": "shaongitbd"
     },
     {
       "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
@@ -3398,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 8563,
+      "stars": 9152,
       "user": "storytold"
     },
     {
@@ -3413,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3629,
+      "stars": 3835,
       "user": "storytold"
     },
     {
@@ -3428,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3292,
+      "stars": 3475,
       "user": "storytold"
     },
     {
@@ -3443,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/333880792?v=4",
       "source": "GitHub",
-      "stars": 2722,
+      "stars": 2740,
       "user": "nullmoth"
     },
     {
@@ -3458,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2421,
+      "stars": 2593,
       "user": "storytold"
     },
     {
@@ -3506,10 +3560,13 @@
       "title": "Honeyjar offers AI tools to improve PR and comms at every company",
       "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
       "published_at": "2026-10-12T15:45:00.000Z",
-      "description": "Could AI actually make PR better?",
+      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
       "tags": [
+        "AI",
+        "Media & Entertainment",
         "Startups",
-        "Media & Entertainment"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
