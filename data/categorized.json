@@ -90,21 +90,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
-      "url": "https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g",
-      "published_at": "2026-10-12T20:56:49Z",
-      "description": "Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...",
-      "tags": [
-        "ai",
-        "agents",
-        "hackathon",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
       "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
       "published_at": "2026-10-12T21:04:02Z",
@@ -118,35 +103,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faw97cf53e0ffp40owy5z.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "Workshop Day Opens AI Engineer NYC",
-      "url": "https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2",
-      "published_at": "2026-10-12T21:00:19Z",
-      "description": "AI Engineer NYC kicked off yesterday with a day devoted to workshops: 18 hands-on sessions built for...",
-      "tags": [
-        "ai",
-        "agents",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ctujqzcft2psrp35d48.png",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
-    },
-    {
-      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
-      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
-      "published_at": "2026-10-11T00:59:52Z",
-      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
-      "tags": [
-        "ai",
-        "programming",
-        "unix",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "What 9,050 AI-Written Scripts Taught Me About Slop",
@@ -164,6 +120,21 @@
       "user": "Louis-Francois Bouchard"
     },
     {
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "published_at": "2026-10-11T00:59:52Z",
+      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
+      "tags": [
+        "ai",
+        "programming",
+        "unix",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
       "published_at": "2026-10-12T10:30:20Z",
@@ -177,19 +148,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
-      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go",
-      "published_at": "2026-10-12T00:48:29Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futwx2ar2udsipq6vr6ww.jpg",
-      "source": "Dev.to",
-      "user": "İclal Doğan"
     },
     {
       "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
@@ -445,6 +403,48 @@
       "user": "Richard MacManus"
     },
     {
+      "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
+      "url": "https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g",
+      "published_at": "2026-10-12T20:56:49Z",
+      "description": "Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...",
+      "tags": [
+        "ai",
+        "agents",
+        "hackathon",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
+      "title": "Workshop Day Opens AI Engineer NYC",
+      "url": "https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2",
+      "published_at": "2026-10-12T21:00:19Z",
+      "description": "AI Engineer NYC kicked off yesterday with a day devoted to workshops: 18 hands-on sessions built for...",
+      "tags": [
+        "ai",
+        "agents",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ctujqzcft2psrp35d48.png",
+      "source": "Dev.to",
+      "user": "Rachael Berkey"
+    },
+    {
+      "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
+      "url": "https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go",
+      "published_at": "2026-10-12T00:48:29Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Futwx2ar2udsipq6vr6ww.jpg",
+      "source": "Dev.to",
+      "user": "İclal Doğan"
+    },
+    {
       "title": "Does your agent have ID?",
       "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok",
       "published_at": "2026-10-11T19:42:56Z",
@@ -636,21 +636,6 @@
       "user": "xbill"
     },
     {
-      "title": "MCP Configuration for Google Workspace with Claude Code",
-      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om",
-      "published_at": "2026-10-05T13:42:33Z",
-      "description": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat and People), packaged as a Claude Code skill, with the two sign-in limits that decide how you use it.",
-      "tags": [
-        "claudecode",
-        "mcp",
-        "googleworkspace",
-        "googleoauth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fworkspace-mcp-claude%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.2ed35ff2.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The Epistemology of Quality",
       "url": "https://dev.to/cheetah100/the-epistemology-of-quality-4cmi",
       "published_at": "2026-10-10T00:28:26Z",
@@ -664,6 +649,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fns4rf0pmroxjaq4udzo7.png",
       "source": "Dev.to",
       "user": "Peter Harrison"
+    },
+    {
+      "title": "MCP Configuration for Google Workspace with Claude Code",
+      "url": "https://dev.to/gde/mcp-configuration-for-google-workspace-with-claude-code-11om",
+      "published_at": "2026-10-05T13:42:33Z",
+      "description": "Connect Claude Code to Google's eight remote Workspace MCP servers (Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat and People), packaged as a Claude Code skill, with the two sign-in limits that decide how you use it.",
+      "tags": [
+        "claudecode",
+        "mcp",
+        "googleworkspace",
+        "googleoauth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fworkspace-mcp-claude%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.2ed35ff2.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
@@ -875,7 +875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 8477,
+      "stars": 8866,
       "user": "wheresryan22"
     },
     {
@@ -890,23 +890,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 908,
       "user": "marclou"
-    },
-    {
-      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "url": "https://github.com/nateherkai/roast-room",
-      "published_at": "2026-10-10T20:38:58Z",
-      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 394,
-      "user": "nateherkai"
     },
     {
       "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
@@ -920,7 +905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1646,
+      "stars": 1842,
       "user": "onehumanbeing"
     },
     {
@@ -935,7 +920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 902,
       "user": "zhuyansen"
     },
     {
@@ -950,7 +935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 775,
       "user": "jwuthri-cloud"
     },
     {
@@ -965,7 +950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3923,
+      "stars": 4000,
       "user": "mhtsec"
     },
     {
@@ -995,7 +980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 281,
       "user": "aindeev"
     },
     {
@@ -1010,7 +995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 975,
       "user": "rociiu"
     },
     {
@@ -1025,7 +1010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 793,
       "user": "ThariqS"
     },
     {
@@ -1040,7 +1025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 599,
       "user": "CoolkHz"
     },
     {
@@ -1058,14 +1043,61 @@
       "user": "somglin wu"
     },
     {
+      "title": "How do I compare regression models against a seasonal baseline on hourly time-series data?",
+      "url": "https://stackoverflow.com/questions/80009872/how-do-i-compare-regression-models-against-a-seasonal-baseline-on-hourly-time-se",
+      "published_at": "2026-10-14T04:49:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python",
+        "scikit-learn",
+        "time-series"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lil"
+    },
+    {
+      "title": "How do I build a target, calendar features and a time-based train/validation/test split for hourly data in pandas?",
+      "url": "https://stackoverflow.com/questions/80009865/how-do-i-build-a-target-calendar-features-and-a-time-based-train-validation-tes",
+      "published_at": "2026-10-14T03:49:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "pandas",
+        "time-series",
+        "feature-engineering",
+        "train-test-split"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Singh"
+    },
+    {
+      "title": "How do I explore seasonality and the distribution of daily solar totals in hourly generation data with pandas?",
+      "url": "https://stackoverflow.com/questions/80009862/how-do-i-explore-seasonality-and-the-distribution-of-daily-solar-totals-in-hourl",
+      "published_at": "2026-10-14T03:39:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
+      "tags": [
+        "python",
+        "pandas",
+        "matplotlib",
+        "time-series"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jaskaran"
+    },
+    {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
       "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "published_at": "2026-10-13T23:13:31.000Z",
-      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
       "tags": [
         "AI",
         "Biotech & Health",
-        "Science Corporation"
+        "Max Hodak",
+        "Science Corporation",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1231,22 +1263,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chirag Agrawal"
-    },
-    {
-      "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
-      "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
-      "published_at": "2026-10-06T05:02:57.000Z",
-      "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
-      "tags": [
-        "dataengineering",
-        "datasecurity",
-        "encryption",
-        "#DataPipelines",
-        "PII"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Lakshmi Mahabaleshwara"
     }
   ],
   "JavaScript": [
@@ -1382,23 +1398,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 8477,
+      "stars": 8866,
       "user": "wheresryan22"
-    },
-    {
-      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "url": "https://github.com/marclou/mailcheap",
-      "published_at": "2026-10-10T12:55:36Z",
-      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
-      "source": "GitHub",
-      "stars": 900,
-      "user": "marclou"
     },
     {
       "title": "T-Auto/dsh-ops - A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
@@ -1412,8 +1413,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 971,
       "user": "T-Auto"
+    },
+    {
+      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "published_at": "2026-10-10T12:55:36Z",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
+      "source": "GitHub",
+      "stars": 908,
+      "user": "marclou"
     },
     {
       "title": "tcchen2026/VibeOffice - A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
@@ -1427,23 +1443,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264924385?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 764,
       "user": "tcchen2026"
     },
     {
-      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "url": "https://github.com/nateherkai/roast-room",
-      "published_at": "2026-10-10T20:38:58Z",
-      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
+      "url": "https://github.com/HeyPuter/everything",
+      "published_at": "2026-10-13T16:18:22Z",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 394,
-      "user": "nateherkai"
+      "stars": 516,
+      "user": "HeyPuter"
     },
     {
       "title": "shaongitbd/doory - Open source canva alternative",
@@ -1457,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1109,
       "user": "shaongitbd"
     },
     {
@@ -1472,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 975,
       "user": "rociiu"
     },
     {
@@ -1487,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 793,
       "user": "ThariqS"
     },
     {
@@ -1502,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 665,
       "user": "YeonwooSung"
     },
     {
@@ -1517,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 599,
       "user": "CoolkHz"
     },
     {
@@ -1589,6 +1605,19 @@
       "user": "Thom Smith"
     },
     {
+      "title": "How do I accurately detect gamepad button presses in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80009122/how-do-i-accurately-detect-gamepad-button-presses-in-javascript",
+      "published_at": "2026-10-10T15:12:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "gamepad"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Parking Master"
+    },
+    {
       "title": "How can I validate a specific field in a JSON response using Postman?",
       "url": "https://stackoverflow.com/questions/80009138/how-can-i-validate-a-specific-field-in-a-json-response-using-postman",
       "published_at": "2026-10-10T16:40:04.000Z",
@@ -1601,19 +1630,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad UmarHayat"
-    },
-    {
-      "title": "How do I accurately detect gamepad button presses in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80009122/how-do-i-accurately-detect-gamepad-button-presses-in-javascript",
-      "published_at": "2026-10-10T15:12:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "gamepad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Parking Master"
     },
     {
       "title": "Playing songs back to back in autoplay in a website",
@@ -1836,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1646,
+      "stars": 1842,
       "user": "onehumanbeing"
     },
     {
@@ -1851,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1107,
       "user": "wesbos"
     },
     {
@@ -1866,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 1063,
       "user": "Arekejoker"
     },
     {
@@ -1881,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 902,
       "user": "zhuyansen"
     },
     {
@@ -1896,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 775,
       "user": "jwuthri-cloud"
     },
     {
@@ -1927,14 +1943,42 @@
       "user": "mocopera"
     },
     {
+      "title": "Screen blanks after executing .py file in Geany",
+      "url": "https://stackoverflow.com/questions/80009854/screen-blanks-after-executing-py-file-in-geany",
+      "published_at": "2026-10-14T03:02:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "raspberry-pi",
+        "geany"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KodeKat"
+    },
+    {
       "title": "How do I clean hourly generation data in pandas: missing hours, duplicate timestamps, spikes?",
       "url": "https://stackoverflow.com/questions/80009858/how-do-i-clean-hourly-generation-data-in-pandas-missing-hours-duplicate-timest",
       "published_at": "2026-10-14T03:09:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "pandas",
         "time",
+        "time-series"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lil"
+    },
+    {
+      "title": "How do I compare regression models against a seasonal baseline on hourly time-series data?",
+      "url": "https://stackoverflow.com/questions/80009872/how-do-i-compare-regression-models-against-a-seasonal-baseline-on-hourly-time-se",
+      "published_at": "2026-10-14T04:49:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python",
+        "scikit-learn",
         "time-series"
       ],
       "cover_image": null,
@@ -1958,10 +2002,41 @@
       "user": "eminsk"
     },
     {
+      "title": "How do I build a target, calendar features and a time-based train/validation/test split for hourly data in pandas?",
+      "url": "https://stackoverflow.com/questions/80009865/how-do-i-build-a-target-calendar-features-and-a-time-based-train-validation-tes",
+      "published_at": "2026-10-14T03:49:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "pandas",
+        "time-series",
+        "feature-engineering",
+        "train-test-split"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Singh"
+    },
+    {
+      "title": "How do I explore seasonality and the distribution of daily solar totals in hourly generation data with pandas?",
+      "url": "https://stackoverflow.com/questions/80009862/how-do-i-explore-seasonality-and-the-distribution-of-daily-solar-totals-in-hourl",
+      "published_at": "2026-10-14T03:39:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
+      "tags": [
+        "python",
+        "pandas",
+        "matplotlib",
+        "time-series"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jaskaran"
+    },
+    {
       "title": "How do I force multiple pygame windows to be unable to minimize?",
       "url": "https://stackoverflow.com/questions/80009744/how-do-i-force-multiple-pygame-windows-to-be-unable-to-minimize",
       "published_at": "2026-10-13T15:21:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pygame"
@@ -2012,64 +2087,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hossein Dastoory"
-    },
-    {
-      "title": "How do I solve an error with a Python scraping program",
-      "url": "https://stackoverflow.com/questions/80009348/how-do-i-solve-an-error-with-a-python-scraping-program",
-      "published_at": "2026-10-12T00:09:34.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "web-scraping"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tim Armstrong"
-    },
-    {
-      "title": "Converting Nubra historical_data() to a pandas DataFrame: TimeSeriesPoint objects, nanosecond timestamps and odd volume",
-      "url": "https://stackoverflow.com/questions/80009390/converting-nubra-historical-data-to-a-pandas-dataframe-timeseriespoint-object",
-      "published_at": "2026-10-12T06:34:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "pandas",
-        "trading",
-        "candlestick-chart",
-        "ohlc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naira"
-    },
-    {
-      "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
-      "url": "https://stackoverflow.com/questions/80009333/when-developing-the-same-package-for-r-and-python-do-you-put-them-in-one-github",
-      "published_at": "2026-10-11T22:37:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "best-practices",
-        "python",
-        "r",
-        "github"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SuperDuperMario"
-    },
-    {
-      "title": "Does loadTable().to_pandas() transfer all data or only metadata first?",
-      "url": "https://stackoverflow.com/questions/80009030/does-loadtable-to-pandas-transfer-all-data-or-only-metadata-first",
-      "published_at": "2026-10-10T01:17:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "pandas",
-        "dolphindb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Stephanie"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2308,7 +2325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 599,
       "user": "CoolkHz"
     },
     {
@@ -2367,6 +2384,21 @@
       "user": "jctech2025"
     },
     {
+      "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
+      "url": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
+      "published_at": "2026-10-14T04:08:28.000Z",
+      "description": "A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a",
+      "tags": [
+        "google cloud",
+        "CloudComputing",
+        "cybersecurity",
+        "Redis"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abhinay Gokul"
+    },
+    {
       "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
       "url": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
       "published_at": "2026-10-11T09:31:06.000Z",
@@ -2411,23 +2443,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1107,
       "user": "wesbos"
-    },
-    {
-      "title": "c22dev/muguet - A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
-      "url": "https://github.com/c22dev/muguet",
-      "published_at": "2026-10-10T08:45:02Z",
-      "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
-      "source": "GitHub",
-      "stars": 582,
-      "user": "c22dev"
     }
   ],
   "Cloud": [
@@ -2501,7 +2518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 775,
       "user": "jwuthri-cloud"
     },
     {
@@ -2516,7 +2533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 975,
       "user": "rociiu"
     },
     {
@@ -2547,6 +2564,21 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
+    },
+    {
+      "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
+      "url": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
+      "published_at": "2026-10-14T04:08:28.000Z",
+      "description": "A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a",
+      "tags": [
+        "google cloud",
+        "CloudComputing",
+        "cybersecurity",
+        "Redis"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abhinay Gokul"
     }
   ],
   "Database": [
@@ -2601,6 +2633,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lesnik"
+    },
+    {
+      "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
+      "url": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
+      "published_at": "2026-10-14T04:08:28.000Z",
+      "description": "A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a",
+      "tags": [
+        "google cloud",
+        "CloudComputing",
+        "cybersecurity",
+        "Redis"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abhinay Gokul"
     }
   ],
   "Security": [
@@ -2843,20 +2890,19 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
-      "url": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
-      "published_at": "2026-10-06T05:02:57.000Z",
-      "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
+      "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
+      "url": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
+      "published_at": "2026-10-14T04:08:28.000Z",
+      "description": "A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a",
       "tags": [
-        "dataengineering",
-        "datasecurity",
-        "encryption",
-        "#DataPipelines",
-        "PII"
+        "google cloud",
+        "CloudComputing",
+        "cybersecurity",
+        "Redis"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Lakshmi Mahabaleshwara"
+      "user": "Abhinay Gokul"
     }
   ],
   "Tools": [
@@ -2889,21 +2935,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4yw0p94syuwbx8fe782v.png",
       "source": "Dev.to",
       "user": "Vishal Srivastava"
-    },
-    {
-      "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
-      "url": "https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g",
-      "published_at": "2026-10-12T20:56:49Z",
-      "description": "Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...",
-      "tags": [
-        "ai",
-        "agents",
-        "hackathon",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
@@ -2963,6 +2994,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
       "source": "Dev.to",
       "user": "supriya subudhi"
+    },
+    {
+      "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
+      "url": "https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g",
+      "published_at": "2026-10-12T20:56:49Z",
+      "description": "Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...",
+      "tags": [
+        "ai",
+        "agents",
+        "hackathon",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
@@ -3102,23 +3148,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 8477,
+      "stars": 8866,
       "user": "wheresryan22"
-    },
-    {
-      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "url": "https://github.com/marclou/mailcheap",
-      "published_at": "2026-10-10T12:55:36Z",
-      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
-      "source": "GitHub",
-      "stars": 900,
-      "user": "marclou"
     },
     {
       "title": "T-Auto/dsh-ops - A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
@@ -3132,8 +3163,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 971,
       "user": "T-Auto"
+    },
+    {
+      "title": "marclou/mailcheap - Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "url": "https://github.com/marclou/mailcheap",
+      "published_at": "2026-10-10T12:55:36Z",
+      "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
+      "source": "GitHub",
+      "stars": 908,
+      "user": "marclou"
     },
     {
       "title": "tcchen2026/VibeOffice - A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
@@ -3147,23 +3193,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264924385?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 764,
       "user": "tcchen2026"
     },
     {
-      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "url": "https://github.com/nateherkai/roast-room",
-      "published_at": "2026-10-10T20:38:58Z",
-      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
+      "url": "https://github.com/HeyPuter/everything",
+      "published_at": "2026-10-13T16:18:22Z",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 394,
-      "user": "nateherkai"
+      "stars": 516,
+      "user": "HeyPuter"
     },
     {
       "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
@@ -3177,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1646,
+      "stars": 1842,
       "user": "onehumanbeing"
     },
     {
@@ -3192,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1107,
       "user": "wesbos"
     },
     {
@@ -3207,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 1063,
       "user": "Arekejoker"
     },
     {
@@ -3222,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 902,
       "user": "zhuyansen"
     },
     {
@@ -3237,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 775,
       "user": "jwuthri-cloud"
     },
     {
@@ -3252,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 3923,
+      "stars": 4000,
       "user": "mhtsec"
     },
     {
@@ -3282,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 760,
       "user": "Hinln"
     },
     {
@@ -3297,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 281,
       "user": "aindeev"
     },
     {
@@ -3312,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 197,
       "user": "RuoJi6"
     },
     {
@@ -3327,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1068,
+      "stars": 1109,
       "user": "shaongitbd"
     },
     {
@@ -3342,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 975,
       "user": "rociiu"
     },
     {
@@ -3357,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 793,
       "user": "ThariqS"
     },
     {
@@ -3372,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 665,
       "user": "YeonwooSung"
     },
     {
@@ -3387,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 599,
       "user": "CoolkHz"
     },
     {
@@ -3402,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2366,
+      "stars": 2452,
       "user": "storytold"
     },
     {
@@ -3417,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2097,
+      "stars": 2181,
       "user": "liseami"
     },
     {
@@ -3432,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
       "source": "GitHub",
-      "stars": 2032,
+      "stars": 2039,
       "user": "noahdunnagan"
     },
     {
@@ -3447,23 +3493,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 896,
       "user": "opengeos"
     },
     {
-      "title": "c22dev/muguet - A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
-      "url": "https://github.com/c22dev/muguet",
-      "published_at": "2026-10-10T08:45:02Z",
-      "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+      "title": "storytold/figcraft - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+      "url": "https://github.com/storytold/figcraft",
+      "published_at": "2026-10-09T16:02:13Z",
+      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 582,
-      "user": "c22dev"
+      "stars": 599,
+      "user": "storytold"
     },
     {
       "title": "How to detect Japanese candlestick patterns in historical OHLC data without TA-Lib C-extensions in Python?",
@@ -3480,21 +3526,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "eminsk"
-    },
-    {
-      "title": "When developing the same package for R and Python, do you put them in one github repo or separate repos",
-      "url": "https://stackoverflow.com/questions/80009333/when-developing-the-same-package-for-r-and-python-do-you-put-them-in-one-github",
-      "published_at": "2026-10-11T22:37:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "best-practices",
-        "python",
-        "r",
-        "github"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SuperDuperMario"
     },
     {
       "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",

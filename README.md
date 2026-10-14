@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--10--14-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-14 6:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-14 11:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -99,21 +99,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 5 | [Frontier AI models outperform human experts on earnings prediction for the first time](https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb) | Dev.to |
 | 6 | [Code is abundant. Confidence is a formula.](https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6) | Dev.to |
 | 7 | [What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p) | Dev.to |
-| 8 | [Meme Monday](https://dev.to/ben/meme-monday-4e47) | Dev.to |
-| 9 | [AI Engineering Has Entered Its Audit Era](https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl) | Dev.to |
-| 10 | [Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects](https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g) | Dev.to |
-| 11 | [Kepler's Vinoo Ganesh on Building AI You Can Trust](https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f) | Dev.to |
-| 12 | [Workshop Day Opens AI Engineer NYC](https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2) | Dev.to |
-| 13 | [What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity](https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6) | Dev.to |
-| 14 | [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n) | Dev.to |
-| 15 | [Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l) | Dev.to |
-| 16 | [THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word](https://dev.to/iclaldogan/the-unheard-a-game-that-sends-you-outside-teaches-a-machine-to-listen-and-makes-it-prove-every-43go) | Dev.to |
-| 17 | [Q&A with Al Chen, Software Engineering Leader at Cisco](https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7) | Dev.to |
-| 18 | [Building AI Analysts for Wall Street: A Q&A with Compound Co-Founder Yijia Liang](https://dev.to/dailycontext/building-ai-analysts-for-wall-street-a-qa-with-compound-co-founder-yijia-liang-29c3) | Dev.to |
-| 19 | [Why Smaller AI Models Can Win in the Enterprise](https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57) | Dev.to |
-| 20 | [A World Worth Understanding](https://dev.to/dailycontext/a-world-worth-understanding-f08) | Dev.to |
+| 8 | [AI Engineering Has Entered Its Audit Era](https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl) | Dev.to |
+| 9 | [Kepler's Vinoo Ganesh on Building AI You Can Trust](https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f) | Dev.to |
+| 10 | [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n) | Dev.to |
+| 11 | [What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity](https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6) | Dev.to |
+| 12 | [Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l) | Dev.to |
+| 13 | [Q&A with Al Chen, Software Engineering Leader at Cisco](https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7) | Dev.to |
+| 14 | [Building AI Analysts for Wall Street: A Q&A with Compound Co-Founder Yijia Liang](https://dev.to/dailycontext/building-ai-analysts-for-wall-street-a-qa-with-compound-co-founder-yijia-liang-29c3) | Dev.to |
+| 15 | [Why Smaller AI Models Can Win in the Enterprise](https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57) | Dev.to |
+| 16 | [A World Worth Understanding](https://dev.to/dailycontext/a-world-worth-understanding-f08) | Dev.to |
+| 17 | [If You Never Do Anything Else to Fix Your Prompts, Do This One Thing](https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069) | Dev.to |
+| 18 | [It's Not the Model, It's You](https://dev.to/dailycontext/its-not-the-model-its-you-1ngi) | Dev.to |
+| 19 | [Local embeddings with llamadart: how llamas share secrets](https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o) | Dev.to |
+| 20 | [Why you still need a Website Portfolio, even though everyone can Vibe Code it.](https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63) | Dev.to |
 
-<sub>Last fetched: Wed, 14 Oct 2026 06:08:23 CAT</sub>
+<sub>Last fetched: Wed, 14 Oct 2026 11:31:09 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is the difference between SQL and NoSQL databases?**
+**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Schema, scalability, ACID vs BASE
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**2. `SystemDesign` — Design Twitter's timeline feature**
+**2. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-**3. `Python` — Explain decorators in Python with an example**
+**3. `JavaScript` — Implement a debounce function from scratch**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 87 | 47.3% | `████████████████████` |
-| **Tools** | 45 | 24.5% | `██████████░░░░░░░░░░` |
+| **AI** | 88 | 47.8% | `████████████████████` |
+| **Tools** | 44 | 23.9% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
 | **Python** | 28 | 15.2% | `██████░░░░░░░░░░░░░░` |
 | **Security** | 19 | 10.3% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `███░░░░░░░░░░░░░░░░░` |
-| **Cloud** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 2 | 1.1% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,13 +194,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.5%
-Python          █████████████████████████ 23.3%
-Go              ███████████████████████ 20.8%
-Java            ███████████████████████ 20.8%
-Rust            ██████ 5.8%
+JavaScript      ██████████████████████████████ 27.7%
+Python          █████████████████████████ 23.5%
+Go              ████████████████████████ 21.8%
+Java            ███████████████████████ 21.0%
+Rust            █████ 5.0%
 Kotlin          █ 0.8%
-Swift           █ 0.8%
 
 ```
 
@@ -208,17 +207,16 @@ Swift           █ 0.8%
 pie title Programming Languages Distribution
     "JavaScript" : 33
     "Python" : 28
-    "Go" : 25
+    "Go" : 26
     "Java" : 25
-    "Rust" : 7
+    "Rust" : 6
     "Kotlin" : 1
-    "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-49-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-26-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-23-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-49-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-23-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![machinelearning](https://img.shields.io/badge/machinelearning-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 14 Oct 2026 04:08:23 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 14 Oct 2026 09:31:09 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
