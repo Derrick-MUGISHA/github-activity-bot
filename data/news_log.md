@@ -116624,3 +116624,933 @@ Connect Claude Code to Google's Universal Search MCP server, one search_corpus t
 
 ---
 
+
+
+## 📰 DevTech News — 2026-10-14 16:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (92 articles)
+
+#### 1. [Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes](https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc)
+📅 Wed, 14 Oct 2026 12:04:49 GMT
+👤 By: Sparsh Jain | 📌 Source: Dev.to
+
+![Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png)
+
+Have you ever told your AI agent something important, only to realize a few conversations later that...
+
+🏷️ Tags: `ai`, `agents`, `memory`, `aie`
+
+---
+
+#### 2. [Are You Smarter Than a Fruit Fly?](https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04)
+📅 Wed, 14 Oct 2026 12:04:21 GMT
+👤 By: Nick Nisi | 📌 Source: Dev.to
+
+![Are You Smarter Than a Fruit Fly?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png)
+
+Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...
+
+🏷️ Tags: `ai`, `codereview`, `agents`, `aie`
+
+---
+
+#### 3. [An Agent’s Plan Isn’t Permission](https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8)
+📅 Wed, 14 Oct 2026 12:05:28 GMT
+👤 By: dev.to staff | 📌 Source: Dev.to
+
+![An Agent’s Plan Isn’t Permission](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png)
+
+When a coding agent investigates a production bug, it might need to read a repository, query logs,...
+
+🏷️ Tags: `ai`, `agents`, `security`, `aie`
+
+---
+
+#### 4. [Nobody’s winning the AI race yet](https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4)
+📅 Wed, 14 Oct 2026 12:04:39 GMT
+👤 By: Ryan Swift | 📌 Source: Dev.to
+
+![Nobody’s winning the AI race yet](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png)
+
+By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...
+
+🏷️ Tags: `ai`, `gemini`, `llm`, `aie`
+
+---
+
+#### 5. [Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction](https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p)
+📅 Wed, 14 Oct 2026 12:05:21 GMT
+👤 By: Kara Silverman | 📌 Source: Dev.to
+
+![Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png)
+
+In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...
+
+🏷️ Tags: `ai`, `agents`, `evals`, `aie`
+
+---
+
+#### 6. [Building Better Agents through End-to-End Evals](https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh)
+📅 Wed, 14 Oct 2026 12:05:13 GMT
+👤 By: Ryan Stevens | 📌 Source: Dev.to
+
+![Building Better Agents through End-to-End Evals](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png)
+
+Deeply understand the task at hand   The biggest mistake teams make with agents is...
+
+🏷️ Tags: `ai`, `agents`, `evals`, `aie`
+
+---
+
+#### 7. [Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”](https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a)
+📅 Wed, 14 Oct 2026 12:03:42 GMT
+👤 By: Andrey Rybka | 📌 Source: Dev.to
+
+![Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdow1p4av91zqti4tt9c3.png)
+
+For financial technology institutions operating at enterprise scale, the initial wave of Generative...
+
+🏷️ Tags: `ai`, `agents`, `fintech`, `aie`
+
+---
+
+#### 8. [Your Financial Agent Passed Every Eval. Can You Defend Its Decision?](https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg)
+📅 Wed, 14 Oct 2026 12:04:58 GMT
+👤 By: Anirudh Veeraragavan | 📌 Source: Dev.to
+
+![Your Financial Agent Passed Every Eval. Can You Defend Its Decision?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgeuf5lerc4zthaecs7m.png)
+
+In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...
+
+🏷️ Tags: `ai`, `agents`, `fintech`, `aie`
+
+---
+
+#### 9. [For Agents, Waiting is the Hardest Part](https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik)
+📅 Wed, 14 Oct 2026 12:03:52 GMT
+👤 By: Tom Wheeler | 📌 Source: Dev.to
+
+![For Agents, Waiting is the Hardest Part](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png)
+
+Many engineers rightfully view every step in a financial workflow as a potential point of failure,...
+
+🏷️ Tags: `ai`, `agents`, `opensource`, `aie`
+
+---
+
+#### 10. [The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets](https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7)
+📅 Wed, 14 Oct 2026 12:05:35 GMT
+👤 By: Tom Fairey | 📌 Source: Dev.to
+
+![The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o43h613infirehm8ewy.png)
+
+AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...
+
+🏷️ Tags: `ai`, `data`, `privacy`, `aie`
+
+---
+
+### 🏷️ JavaScript (33 articles)
+
+#### 1. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 2. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (28 articles)
+
+#### 1. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 2. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+📅 Mon, 11 May 2026 20:45:55 GMT
+👤 By: indigodaddy | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
+📅 Wed, 07 May 2025 17:32:26 GMT
+👤 By: arathore | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (15 articles)
+
+#### 1. [Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l)
+📅 Mon, 12 Oct 2026 10:30:20 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png)
+
+Kubernetes troubleshooting often requires engineers to correlate pod events, container logs, resource...
+
+🏷️ Tags: `agents`, `ai`, `cloud`, `kubernetes`
+
+---
+
+#### 2. [Code is abundant. Confidence is a formula.](https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6)
+📅 Mon, 12 Oct 2026 21:01:56 GMT
+👤 By: Manish Kapur | 📌 Source: Dev.to
+
+![Code is abundant. Confidence is a formula.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchi4t2fjezcd9b8kxmib.png)
+
+AI can make code creation abundant. The harder challenge is building confidence in what gets...
+
+🏷️ Tags: `ai`, `agents`, `codequality`, `devops`
+
+---
+
+#### 3. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 4. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (8 articles)
+
+#### 1. [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36)
+📅 Tue, 13 Oct 2026 13:19:33 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![We moved a production backend from a phone](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png)
+
+Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `database`
+
+---
+
+#### 2. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source](https://github.com/CoolkHz/gptibo)
+📅 Tue, 13 Oct 2026 15:57:19 GMT
+👤 By: CoolkHz | 📌 Source: GitHub
+
+![CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source](https://avatars.githubusercontent.com/u/34871925?v=4)
+
+Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source
+
+🏷️ Tags: `typescript`, `github`, `open-source`
+
+⭐ Stars: 672
+
+---
+
+#### 4. [Why does changing an attribute in JavaScript not affect my CSS attribute selector?](https://stackoverflow.com/questions/80009551/why-does-changing-an-attribute-in-javascript-not-affect-my-css-attribute-selecto)
+📅 Mon, 12 Oct 2026 20:28:52 GMT
+👤 By: Joe | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 2
+
+🏷️ Tags: `javascript`, `css`
+
+---
+
+#### 5. [Javascript if statement only runs once](https://stackoverflow.com/questions/80009350/javascript-if-statement-only-runs-once)
+📅 Mon, 12 Oct 2026 00:15:07 GMT
+👤 By: krim kastro | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 6. [Playing songs back to back in autoplay in a website](https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website)
+📅 Fri, 09 Oct 2026 18:09:12 GMT
+👤 By: jctech2025 | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `autoplay`
+
+---
+
+#### 7. [How to Keep a File for Minutes, Not Years, on Cloud Run](https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/)
+📅 Wed, 14 Oct 2026 04:08:28 GMT
+👤 By: Abhinay Gokul | 📌 Source: freeCodeCamp
+
+A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a
+
+🏷️ Tags: `google cloud`, `CloudComputing`, `cybersecurity`, `Redis`
+
+---
+
+#### 8. [How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It](https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/)
+📅 Sun, 11 Oct 2026 09:31:06 GMT
+👤 By: Saar Twito | 📌 Source: freeCodeCamp
+
+Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it
+
+🏷️ Tags: `Next.js`, `SEO`, `TypeScript`, `React`, `Web Development`
+
+---
+
+### 🏷️ Mobile (3 articles)
+
+#### 1. [Nobody’s winning the AI race yet](https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4)
+📅 Wed, 14 Oct 2026 12:04:39 GMT
+👤 By: Ryan Swift | 📌 Source: Dev.to
+
+![Nobody’s winning the AI race yet](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png)
+
+By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...
+
+🏷️ Tags: `ai`, `gemini`, `llm`, `aie`
+
+---
+
+#### 2. [Local embeddings with llamadart: how llamas share secrets](https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o)
+📅 Mon, 12 Oct 2026 18:18:49 GMT
+👤 By: Jhin Lee | 📌 Source: Dev.to
+
+![Local embeddings with llamadart: how llamas share secrets](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png)
+
+Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...
+
+🏷️ Tags: `dart`, `ai`, `flutter`, `tutorial`
+
+---
+
+#### 3. [wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)](https://github.com/wesbos/photo-frame-dashboard)
+📅 Thu, 08 Oct 2026 18:22:19 GMT
+👤 By: wesbos | 📌 Source: GitHub
+
+![wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)](https://avatars.githubusercontent.com/u/176013?v=4)
+
+Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 1,121
+
+---
+
+### 🏷️ Cloud (6 articles)
+
+#### 1. [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36)
+📅 Tue, 13 Oct 2026 13:19:33 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![We moved a production backend from a phone](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png)
+
+Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `database`
+
+---
+
+#### 2. [Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l)
+📅 Mon, 12 Oct 2026 10:30:20 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png)
+
+Kubernetes troubleshooting often requires engineers to correlate pod events, container logs, resource...
+
+🏷️ Tags: `agents`, `ai`, `cloud`, `kubernetes`
+
+---
+
+#### 3. [jwuthri-cloud/Tracely-ai - GitHub Repository](https://github.com/jwuthri-cloud/Tracely-ai)
+📅 Sun, 11 Oct 2026 15:38:03 GMT
+👤 By: jwuthri-cloud | 📌 Source: GitHub
+
+![jwuthri-cloud/Tracely-ai - GitHub Repository](https://avatars.githubusercontent.com/u/341043007?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 816
+
+---
+
+#### 4. [rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.](https://github.com/rociiu/talorys)
+📅 Sat, 10 Oct 2026 09:46:56 GMT
+👤 By: rociiu | 📌 Source: GitHub
+
+![rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.](https://avatars.githubusercontent.com/u/23930?v=4)
+
+Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.
+
+🏷️ Tags: `typescript`, `github`, `open-source`
+
+⭐ Stars: 985
+
+---
+
+#### 5. [Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
+📅 Tue, 13 Oct 2026 23:05:34 GMT
+👤 By: Sarah Perez | 📌 Source: TechCrunch
+
+Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
+
+🏷️ Tags: `AI`, `andrew feldman`, `Cerebras`, `TechCrunch Disrupt`
+
+---
+
+#### 6. [How to Keep a File for Minutes, Not Years, on Cloud Run](https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/)
+📅 Wed, 14 Oct 2026 04:08:28 GMT
+👤 By: Abhinay Gokul | 📌 Source: freeCodeCamp
+
+A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a
+
+🏷️ Tags: `google cloud`, `CloudComputing`, `cybersecurity`, `Redis`
+
+---
+
+### 🏷️ Database (5 articles)
+
+#### 1. [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36)
+📅 Tue, 13 Oct 2026 13:19:33 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![We moved a production backend from a phone](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png)
+
+Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `database`
+
+---
+
+#### 2. [Kepler's Vinoo Ganesh on Building AI You Can Trust](https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f)
+📅 Mon, 12 Oct 2026 21:04:02 GMT
+👤 By: Kara Silverman | 📌 Source: Dev.to
+
+![Kepler's Vinoo Ganesh on Building AI You Can Trust](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faw97cf53e0ffp40owy5z.png)
+
+Vinoo Ganesh is the CEO of Kepler, which builds AI for industries where accuracy matters, starting...
+
+🏷️ Tags: `ai`, `finance`, `aie`, `database`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+📅 Tue, 13 Oct 2026 11:37:06 GMT
+👤 By: kngl | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `databases`
+
+---
+
+#### 5. [How to Keep a File for Minutes, Not Years, on Cloud Run](https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/)
+📅 Wed, 14 Oct 2026 04:08:28 GMT
+👤 By: Abhinay Gokul | 📌 Source: freeCodeCamp
+
+A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a
+
+🏷️ Tags: `google cloud`, `CloudComputing`, `cybersecurity`, `Redis`
+
+---
+
+### 🏷️ Security (18 articles)
+
+#### 1. [An Agent’s Plan Isn’t Permission](https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8)
+📅 Wed, 14 Oct 2026 12:05:28 GMT
+👤 By: dev.to staff | 📌 Source: Dev.to
+
+![An Agent’s Plan Isn’t Permission](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png)
+
+When a coding agent investigates a production bug, it might need to read a repository, query logs,...
+
+🏷️ Tags: `ai`, `agents`, `security`, `aie`
+
+---
+
+#### 2. [Agents Can’t Decide What’s Okay to Break](https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg)
+📅 Mon, 12 Oct 2026 20:58:59 GMT
+👤 By: Jonathan Gottfried | 📌 Source: Dev.to
+
+![Agents Can’t Decide What’s Okay to Break](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png)
+
+There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...
+
+🏷️ Tags: `hacktoberfest`, `security`, `aie`, `agents`
+
+---
+
+#### 3. [Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents](https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9)
+📅 Mon, 12 Oct 2026 21:03:17 GMT
+👤 By: dev.to staff | 📌 Source: Dev.to
+
+![Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png)
+
+Written by John Feminella  We now inhabit a world where agents can execute operations in production...
+
+🏷️ Tags: `ai`, `agents`, `security`, `aie`
+
+---
+
+#### 4. [Does your agent have ID?](https://dev.to/dailycontext/does-your-agent-have-id-58ok)
+📅 Sun, 11 Oct 2026 19:42:56 GMT
+👤 By: Rachael Berkey | 📌 Source: Dev.to
+
+![Does your agent have ID?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz09vp969urk3b4ys9l1m.png)
+
+Last month, an AI agent in Denmark booked a coffee tasting and paid for it. Danske Bank and...
+
+🏷️ Tags: `aie`, `ai`, `agents`, `security`
+
+---
+
+#### 5. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (41 articles)
+
+#### 1. [ROI That Survives the Second Question](https://dev.to/dailycontext/roi-that-survives-the-second-question-4na0)
+📅 Sun, 11 Oct 2026 19:43:33 GMT
+👤 By: Sid Pednekar | 📌 Source: Dev.to
+
+![ROI That Survives the Second Question](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd0lpt4yccntg8db2dc4t.png)
+
+Judgment is the scarce resource in a world where intelligence is becoming a commodity. A business can...
+
+🏷️ Tags: `aie`, `productivity`, `leadership`, `ai`
+
+---
+
+#### 2. [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36)
+📅 Tue, 13 Oct 2026 13:19:33 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![We moved a production backend from a phone](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png)
+
+Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `database`
+
+---
+
+#### 3. [If You Never Do Anything Else to Fix Your Prompts, Do This One Thing](https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069)
+📅 Mon, 12 Oct 2026 04:21:36 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![If You Never Do Anything Else to Fix Your Prompts, Do This One Thing](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png)
+
+Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `productivity`
+
+---
+
+#### 4. [It's Not the Model, It's You](https://dev.to/dailycontext/its-not-the-model-its-you-1ngi)
+📅 Sun, 11 Oct 2026 19:45:15 GMT
+👤 By: Nicholas Arcolano | 📌 Source: Dev.to
+
+![It's Not the Model, It's You](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmx3l635656p6ocz76xow.png)
+
+Every time a new frontier model comes out, we go through the same rituals: benchmarks get reported,...
+
+🏷️ Tags: `aie`, `programming`, `productivity`
+
+---
+
+#### 5. [AI Needs a Test That Fights Back](https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17)
+📅 Mon, 12 Oct 2026 21:03:49 GMT
+👤 By: Ramakrishnan Lokanathan | 📌 Source: Dev.to
+
+![AI Needs a Test That Fights Back](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png)
+
+One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...
+
+🏷️ Tags: `ai`, `opensource`, `testing`, `aie`
+
+---
+
+#### 6. [What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p)
+📅 Mon, 12 Oct 2026 21:03:06 GMT
+👤 By: Vishal Srivastava | 📌 Source: Dev.to
+
+![What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4yw0p94syuwbx8fe782v.png)
+
+AI evaluation has become increasingly sophisticated at testing individual models. We measure...
+
+🏷️ Tags: `ai`, `machinelearning`, `testing`, `aie`
+
+---
+
+#### 7. [Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects](https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g)
+📅 Mon, 12 Oct 2026 20:56:49 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg)
+
+Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...
+
+🏷️ Tags: `ai`, `agents`, `hackathon`, `aie`
+
+---
+
+#### 8. [A/B testing AI products is weird](https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h)
+📅 Sun, 11 Oct 2026 19:43:52 GMT
+👤 By: supriya subudhi | 📌 Source: Dev.to
+
+![A/B testing AI products is weird](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png)
+
+Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...
+
+🏷️ Tags: `aie`, `ai`, `testing`, `product`
+
+---
+
+#### 9. [I got Jev to zero mistakes. I'm still using Flash-Lite.](https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7)
+📅 Thu, 08 Oct 2026 20:00:18 GMT
+👤 By: Swift | 📌 Source: Dev.to
+
+![I got Jev to zero mistakes. I'm still using Flash-Lite.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png)
+
+Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...
+
+🏷️ Tags: `ai`, `gemini`, `testing`, `jev`
+
+---
+
+#### 10. [Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt](https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2)
+📅 Fri, 09 Oct 2026 00:40:57 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsj0zkh6xcpxv4otm9a2i.png)
+
+How replacing fragile linear prompt checklists with a 50-year-old declarative build graph eliminates agent amnesia, enables seamless mid-flight session resumption, and mechanizes software engineering governance.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `productivity`
+
+---
+
