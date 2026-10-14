@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--10--14-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-14 16:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-14 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,19 +37,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png" width="200" alt="Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes" />
+    <a href="https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png" width="200" alt="Building Better Agents through End-to-End Evals" />
       <br/>
-      <b>Memory Isn’t Learning: Why AI Agents Keep Making t...</b>
+      <b>Building Better Agents through End-to-End Evals</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png" width="200" alt="Are You Smarter Than a Fruit Fly?" />
+    <a href="https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png" width="200" alt="Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes" />
       <br/>
-      <b>Are You Smarter Than a Fruit Fly?</b>
+      <b>Memory Isn’t Learning: Why AI Agents Keep Making t...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -66,19 +66,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png" width="200" alt="Nobody’s winning the AI race yet" />
+    <a href="https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdow1p4av91zqti4tt9c3.png" width="200" alt="Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”" />
       <br/>
-      <b>Nobody’s winning the AI race yet</b>
+      <b>Beyond the Prompt Box: How Bloomberg is Architecti...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/annavi11arrea1/keyboard-makeover-i6a">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl7kl36k3o4g8j2q6u9jr.png" width="200" alt="💅 Keyboard Makeover" />
+    <a href="https://dev.to/dailycontext/design-for-churn-5c6h">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg" width="200" alt="Design for Churn" />
       <br/>
-      <b>💅 Keyboard Makeover</b>
+      <b>Design for Churn</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,27 +93,27 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [How I Feel about the Grace Hopper Celebration Getting Cancelled](https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k) | Dev.to |
-| 2 | [Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes](https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc) | Dev.to |
-| 3 | [Are You Smarter Than a Fruit Fly?](https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04) | Dev.to |
+| 2 | [Building Better Agents through End-to-End Evals](https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh) | Dev.to |
+| 3 | [Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes](https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc) | Dev.to |
 | 4 | [An Agent’s Plan Isn’t Permission](https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8) | Dev.to |
-| 5 | [Nobody’s winning the AI race yet](https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4) | Dev.to |
-| 6 | [💅 Keyboard Makeover](https://dev.to/annavi11arrea1/keyboard-makeover-i6a) | Dev.to |
-| 7 | [Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction](https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p) | Dev.to |
-| 8 | [Building Better Agents through End-to-End Evals](https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh) | Dev.to |
-| 9 | [Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”](https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a) | Dev.to |
-| 10 | [Your Financial Agent Passed Every Eval. Can You Defend Its Decision?](https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg) | Dev.to |
-| 11 | [For Agents, Waiting is the Hardest Part](https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik) | Dev.to |
-| 12 | [The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets](https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7) | Dev.to |
-| 13 | [The Model Is the Easy Part](https://dev.to/dailycontext/the-model-is-the-easy-part-19gh) | Dev.to |
-| 14 | [Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h) | Dev.to |
+| 5 | [Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”](https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a) | Dev.to |
+| 6 | [Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h) | Dev.to |
+| 7 | [Your Financial Agent Passed Every Eval. Can You Defend Its Decision?](https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg) | Dev.to |
+| 8 | [Are You Smarter Than a Fruit Fly?](https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04) | Dev.to |
+| 9 | [The Model Is the Easy Part](https://dev.to/dailycontext/the-model-is-the-easy-part-19gh) | Dev.to |
+| 10 | [💅 Keyboard Makeover](https://dev.to/annavi11arrea1/keyboard-makeover-i6a) | Dev.to |
+| 11 | [The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets](https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7) | Dev.to |
+| 12 | [I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration](https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek) | Dev.to |
+| 13 | [For Agents, Waiting is the Hardest Part](https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik) | Dev.to |
+| 14 | [Nobody’s winning the AI race yet](https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4) | Dev.to |
 | 15 | [A Data Company in an AI World](https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4) | Dev.to |
-| 16 | [What a 48-Hour Hackathon Can Do for LLM Reliability](https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6) | Dev.to |
+| 16 | [Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction](https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p) | Dev.to |
 | 17 | [Operational intelligence is sociotechnical](https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627) | Dev.to |
-| 18 | [ROI That Survives the Second Question](https://dev.to/dailycontext/roi-that-survives-the-second-question-4na0) | Dev.to |
-| 19 | [Where to Spend Your Week at AI Engineer New York](https://dev.to/dailycontext/where-to-spend-your-week-at-ai-engineer-new-york-3lg) | Dev.to |
-| 20 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1bo6) | Dev.to |
+| 18 | [What a 48-Hour Hackathon Can Do for LLM Reliability](https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6) | Dev.to |
+| 19 | [Local speech with llamadart: giving Llama Village a voice](https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m) | Dev.to |
+| 20 | [Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner](https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567) | Dev.to |
 
-<sub>Last fetched: Wed, 14 Oct 2026 16:41:43 CAT</sub>
+<sub>Last fetched: Wed, 14 Oct 2026 20:57:52 CAT</sub>
 
 
 ---
@@ -122,7 +122,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the median of two sorted arrays**
+**1. `JavaScript` — What are closures and provide a practical example?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Function + lexical environment, data privacy, callbacks
+
+</details>
+
+**2. `React` — What is the Virtual DOM and how does React use it?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Diffing algorithm, reconciliation, efficiency
+
+</details>
+
+**3. `DataStructures` — Find the median of two sorted arrays**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
@@ -130,28 +152,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Binary search, partition, time complexity O(log(min(m,n)))
-
-</details>
-
-**2. `React` — Explain the difference between state and props**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Ownership, mutability, data flow direction
-
-</details>
-
-**3. `SystemDesign` — Design a distributed cache system**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 92 | 50.0% | `████████████████████` |
-| **Tools** | 41 | 22.3% | `█████████░░░░░░░░░░░` |
-| **JavaScript** | 33 | 17.9% | `███████░░░░░░░░░░░░░` |
-| **Python** | 28 | 15.2% | `██████░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 15 | 8.2% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Cloud** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 93 | 50.5% | `████████████████████` |
+| **Tools** | 38 | 20.7% | `████████░░░░░░░░░░░░` |
+| **JavaScript** | 37 | 20.1% | `████████░░░░░░░░░░░░` |
+| **Python** | 29 | 15.8% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 20 | 10.9% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 16 | 8.7% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,23 +194,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.4%
-Python          █████████████████████████ 24.1%
-Java            ███████████████████████ 21.6%
-Go              ████████████████████ 19.0%
-Rust            █████ 5.2%
-Swift           █ 0.9%
-Kotlin          █ 0.9%
+JavaScript      ██████████████████████████████ 28.9%
+Python          ████████████████████████ 22.7%
+Java            ██████████████████████ 21.1%
+Go              █████████████████████ 20.3%
+Rust            █████ 4.7%
+Ruby            █ 0.8%
+Swift           █ 0.8%
+Kotlin          █ 0.8%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 33
-    "Python" : 28
-    "Java" : 25
-    "Go" : 22
+    "JavaScript" : 37
+    "Python" : 29
+    "Java" : 27
+    "Go" : 26
     "Rust" : 6
+    "Ruby" : 1
     "Swift" : 1
     "Kotlin" : 1
 ```
@@ -218,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-59-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-21-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-16-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-8-0969da?style=flat-square) ![fintech](https://img.shields.io/badge/fintech-6-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-61-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-33-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-21-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-6-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-5-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 14 Oct 2026 14:41:43 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 14 Oct 2026 18:57:52 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

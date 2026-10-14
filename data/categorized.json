@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Building Better Agents through End-to-End Evals",
+      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
+      "published_at": "2026-10-14T12:05:13Z",
+      "description": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
+      "tags": [
+        "ai",
+        "agents",
+        "evals",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png",
+      "source": "Dev.to",
+      "user": "Ryan Stevens"
+    },
+    {
       "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
       "url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
       "published_at": "2026-10-14T12:04:49Z",
@@ -14,21 +29,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png",
       "source": "Dev.to",
       "user": "Sparsh Jain"
-    },
-    {
-      "title": "Are You Smarter Than a Fruit Fly?",
-      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
-      "published_at": "2026-10-14T12:04:21Z",
-      "description": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
-      "tags": [
-        "ai",
-        "codereview",
-        "agents",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
-      "source": "Dev.to",
-      "user": "Nick Nisi"
     },
     {
       "title": "An Agent’s Plan Isn’t Permission",
@@ -46,51 +46,6 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Nobody’s winning the AI race yet",
-      "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
-      "published_at": "2026-10-14T12:04:39Z",
-      "description": "By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...",
-      "tags": [
-        "ai",
-        "gemini",
-        "llm",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
-      "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
-      "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p",
-      "published_at": "2026-10-14T12:05:21Z",
-      "description": "In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...",
-      "tags": [
-        "ai",
-        "agents",
-        "evals",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "Building Better Agents through End-to-End Evals",
-      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
-      "published_at": "2026-10-14T12:05:13Z",
-      "description": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
-      "tags": [
-        "ai",
-        "agents",
-        "evals",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png",
-      "source": "Dev.to",
-      "user": "Ryan Stevens"
-    },
-    {
       "title": "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
       "url": "https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a",
       "published_at": "2026-10-14T12:03:42Z",
@@ -104,66 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdow1p4av91zqti4tt9c3.png",
       "source": "Dev.to",
       "user": "Andrey Rybka"
-    },
-    {
-      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
-      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
-      "published_at": "2026-10-14T12:04:58Z",
-      "description": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
-      "tags": [
-        "ai",
-        "agents",
-        "fintech",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgeuf5lerc4zthaecs7m.png",
-      "source": "Dev.to",
-      "user": "Anirudh Veeraragavan"
-    },
-    {
-      "title": "For Agents, Waiting is the Hardest Part",
-      "url": "https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik",
-      "published_at": "2026-10-14T12:03:52Z",
-      "description": "Many engineers rightfully view every step in a financial workflow as a potential point of failure,...",
-      "tags": [
-        "ai",
-        "agents",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png",
-      "source": "Dev.to",
-      "user": "Tom Wheeler"
-    },
-    {
-      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
-      "url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7",
-      "published_at": "2026-10-14T12:05:35Z",
-      "description": "AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...",
-      "tags": [
-        "ai",
-        "data",
-        "privacy",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o43h613infirehm8ewy.png",
-      "source": "Dev.to",
-      "user": "Tom Fairey"
-    },
-    {
-      "title": "The Model Is the Easy Part",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
-      "published_at": "2026-10-14T12:04:00Z",
-      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
-      "tags": [
-        "ai",
-        "llm",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
-      "source": "Dev.to",
-      "user": "Steven Latre"
     },
     {
       "title": "Design for Churn",
@@ -181,6 +76,111 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
+      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
+      "published_at": "2026-10-14T12:04:58Z",
+      "description": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
+      "tags": [
+        "ai",
+        "agents",
+        "fintech",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgeuf5lerc4zthaecs7m.png",
+      "source": "Dev.to",
+      "user": "Anirudh Veeraragavan"
+    },
+    {
+      "title": "Are You Smarter Than a Fruit Fly?",
+      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
+      "published_at": "2026-10-14T12:04:21Z",
+      "description": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
+      "tags": [
+        "ai",
+        "codereview",
+        "agents",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
+      "source": "Dev.to",
+      "user": "Nick Nisi"
+    },
+    {
+      "title": "The Model Is the Easy Part",
+      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
+      "published_at": "2026-10-14T12:04:00Z",
+      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
+      "tags": [
+        "ai",
+        "llm",
+        "opensource",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
+      "source": "Dev.to",
+      "user": "Steven Latre"
+    },
+    {
+      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
+      "url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7",
+      "published_at": "2026-10-14T12:05:35Z",
+      "description": "AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...",
+      "tags": [
+        "ai",
+        "data",
+        "privacy",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o43h613infirehm8ewy.png",
+      "source": "Dev.to",
+      "user": "Tom Fairey"
+    },
+    {
+      "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
+      "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+      "published_at": "2026-10-13T20:49:38Z",
+      "description": "What I Built   Who said learning AI System Design has to be all dark cyberpunk terminal...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcozy-ai-agent-cafe-game%2Fmain%2Fassets%2Fcozy_ai_cafe_banner.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
+    },
+    {
+      "title": "For Agents, Waiting is the Hardest Part",
+      "url": "https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik",
+      "published_at": "2026-10-14T12:03:52Z",
+      "description": "Many engineers rightfully view every step in a financial workflow as a potential point of failure,...",
+      "tags": [
+        "ai",
+        "agents",
+        "opensource",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png",
+      "source": "Dev.to",
+      "user": "Tom Wheeler"
+    },
+    {
+      "title": "Nobody’s winning the AI race yet",
+      "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
+      "published_at": "2026-10-14T12:04:39Z",
+      "description": "By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...",
+      "tags": [
+        "ai",
+        "gemini",
+        "llm",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "A Data Company in an AI World",
       "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
       "published_at": "2026-10-14T12:05:44Z",
@@ -196,19 +196,19 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
-      "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
-      "published_at": "2026-10-14T12:03:18Z",
-      "description": "Getting an LLM-powered feature to work in a demo takes an afternoon. But getting it to produce the...",
+      "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
+      "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p",
+      "published_at": "2026-10-14T12:05:21Z",
+      "description": "In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...",
       "tags": [
         "ai",
-        "llm",
-        "hackathon",
+        "agents",
+        "evals",
         "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsw4p4eocpl5f05symejg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png",
       "source": "Dev.to",
-      "user": "Maithili Jha"
+      "user": "Kara Silverman"
     },
     {
       "title": "Operational intelligence is sociotechnical",
@@ -226,19 +226,48 @@
       "user": "Spencer Pitman"
     },
     {
-      "title": "ROI That Survives the Second Question",
-      "url": "https://dev.to/dailycontext/roi-that-survives-the-second-question-4na0",
-      "published_at": "2026-10-11T19:43:33Z",
-      "description": "Judgment is the scarce resource in a world where intelligence is becoming a commodity. A business can...",
+      "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
+      "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
+      "published_at": "2026-10-14T12:03:18Z",
+      "description": "Getting an LLM-powered feature to work in a demo takes an afternoon. But getting it to produce the...",
       "tags": [
-        "aie",
-        "productivity",
-        "leadership",
-        "ai"
+        "ai",
+        "llm",
+        "hackathon",
+        "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd0lpt4yccntg8db2dc4t.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsw4p4eocpl5f05symejg.png",
       "source": "Dev.to",
-      "user": "Sid Pednekar"
+      "user": "Maithili Jha"
+    },
+    {
+      "title": "Local speech with llamadart: giving Llama Village a voice",
+      "url": "https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m",
+      "published_at": "2026-10-14T03:03:34Z",
+      "description": "Beyond chat with llamadart · Part 3  Pip’s scarf is missing. I wanted Dash to be able to fly over to...",
+      "tags": [
+        "ai",
+        "dart",
+        "flutter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq9hxfwmw34a5t6yzqof6.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
+      "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
+      "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567",
+      "published_at": "2026-10-14T07:07:21Z",
+      "description": "🎯 What You'll Learn     Gemini 4 Native Architecture Leap: How to leverage Deep Reasoning...",
+      "tags": [
+        "gemini",
+        "agents",
+        "security",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fij00m2kux5txwhlmyqg5.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "Where to Spend Your Week at AI Engineer New York",
@@ -256,48 +285,34 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
+      "title": "AlphaEvolve and Gemini: Autonomous Algorithm Discovery for Unified Disaster Prediction",
+      "url": "https://dev.to/gde/alphaevolve-and-gemini-autonomous-algorithm-discovery-for-unified-disaster-prediction-20f4",
+      "published_at": "2026-10-14T02:48:03Z",
+      "description": "📄 Published Paper (Open Access on Zenodo): Autonomous Discovery of Unified Multi-Hazard Prediction...",
       "tags": [
         "ai",
-        "agents",
-        "cloud",
-        "database"
+        "gemini",
+        "iot",
+        "algorithms"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2so3l1unokhlmgr0k3zb.png",
       "source": "Dev.to",
-      "user": "DigitalOcean"
+      "user": "Tanaike"
     },
     {
-      "title": "AI Engineering Has Entered Its Audit Era",
-      "url": "https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl",
-      "published_at": "2026-10-12T21:01:03Z",
-      "description": "A conference agenda is a pretty decent dataset.  Between what is pitched and what is accepted, it's...",
+      "title": "LangChainJS and Gemini 4 Argon: What's here and what's coming?",
+      "url": "https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod",
+      "published_at": "2026-10-14T02:14:27Z",
+      "description": "Google has released the latest version in the Gemini family, Gemini 4 Argon, and I was fortunate...",
       "tags": [
-        "agents",
         "ai",
+        "gemini",
+        "javascript",
         "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpg8dmb5jdcmecrofu1c6.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0ymi9mxkutkl1kco6bt.png",
       "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
-      "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
-      "published_at": "2026-10-12T21:04:02Z",
-      "description": "Vinoo Ganesh is the CEO of Kepler, which builds AI for industries where accuracy matters, starting...",
-      "tags": [
-        "ai",
-        "finance",
-        "aie",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faw97cf53e0ffp40owy5z.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
+      "user": "Allen Firstenberg"
     },
     {
       "title": "What 9,050 AI-Written Scripts Taught Me About Slop",
@@ -313,6 +328,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jcfndik4zmecrxf21x7.png",
       "source": "Dev.to",
       "user": "Louis-Francois Bouchard"
+    },
+    {
+      "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
+      "url": "https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj",
+      "published_at": "2026-10-13T20:01:11Z",
+      "description": "Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.",
+      "tags": [
+        "ai",
+        "python",
+        "security",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
@@ -345,33 +375,19 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
-      "published_at": "2026-10-11T19:45:03Z",
-      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "title": "A World Worth Understanding",
+      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
+      "published_at": "2026-10-11T19:43:19Z",
+      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
       "tags": [
         "aie",
+        "career",
         "ai",
-        "infrastructure",
-        "data"
+        "community"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
       "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "Building AI Analysts for Wall Street: A Q&A with Compound Co-Founder Yijia Liang",
-      "url": "https://dev.to/dailycontext/building-ai-analysts-for-wall-street-a-qa-with-compound-co-founder-yijia-liang-29c3",
-      "published_at": "2026-10-11T19:43:48Z",
-      "description": "Building AI Analysts for Wall Street: A Q&amp;A with Compound Co-Founder Yijia Liang   Ahead...",
-      "tags": [
-        "aie",
-        "qanda",
-        "analyst"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnu7o30myn1ar5jvela14.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
+      "user": "dev.to staff"
     },
     {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
@@ -389,19 +405,19 @@
       "user": "Freddy Lécué"
     },
     {
-      "title": "A World Worth Understanding",
-      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
-      "published_at": "2026-10-11T19:43:19Z",
-      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "published_at": "2026-10-11T19:45:03Z",
+      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
       "tags": [
         "aie",
-        "career",
         "ai",
-        "community"
+        "infrastructure",
+        "data"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
-      "user": "dev.to staff"
+      "user": "Kara Silverman"
     },
     {
       "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
@@ -433,21 +449,6 @@
       "user": "Nicholas Arcolano"
     },
     {
-      "title": "Local embeddings with llamadart: how llamas share secrets",
-      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
-      "published_at": "2026-10-12T18:18:49Z",
-      "description": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
-      "tags": [
-        "dart",
-        "ai",
-        "flutter",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "AI Needs a Test That Fights Back",
       "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
       "published_at": "2026-10-12T21:03:49Z",
@@ -463,19 +464,34 @@
       "user": "Ramakrishnan Lokanathan"
     },
     {
-      "title": "What The Rebirth of Classifiers Tells Us About ChatGPT's Success",
-      "url": "https://dev.to/dailycontext/what-the-rebirth-of-classifiers-tells-us-about-chatgpts-success-d90",
-      "published_at": "2026-10-12T21:02:39Z",
-      "description": "One of the unexpected releases of Sept 2026 was Jev, a promptable classifier that took X and the...",
+      "title": "Local embeddings with llamadart: how llamas share secrets",
+      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
+      "published_at": "2026-10-12T18:18:49Z",
+      "description": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
       "tags": [
+        "dart",
         "ai",
-        "llm",
-        "chatgpt",
-        "aie"
+        "flutter",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7bwzjdvauca7wc5vgfm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
       "source": "Dev.to",
-      "user": "Denys Linkov"
+      "user": "Jhin Lee"
+    },
+    {
+      "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
+      "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
+      "published_at": "2026-10-13T00:57:26Z",
+      "description": "Fourteen Apache-2.0 and MIT open-weight models that fit one TPU v5e chip, served one after another through vLLM on the same pinned image and scored on GSM8K and BFCL against Gemma 4 E2B. Qwen3-4B matches Gemma's accuracy at 0.57x its output, SmolLM3-3B and Granite 3.3 2B match it on tool calls, and Gemma keeps the lead on long prompts.",
+      "tags": [
+        "tpu",
+        "vllm",
+        "gemma",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "One Weekend: 3,000 Open-Source AI Projects",
@@ -538,6 +554,21 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "We moved a production backend from a phone",
+      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
+      "published_at": "2026-10-13T13:19:33Z",
+      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
+    },
+    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Side Hustle! $2,550 in Prizes Across 18 Winners.",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba",
       "published_at": "2026-10-12T19:01:08Z",
@@ -566,6 +597,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
       "source": "Dev.to",
       "user": "Ashwin Paranjape"
+    },
+    {
+      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
+      "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
+      "published_at": "2026-10-13T01:20:25Z",
+      "description": "Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.",
+      "tags": [
+        "googlecloud",
+        "gemma",
+        "cloudrun",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
@@ -643,6 +689,35 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Engineering Has Entered Its Audit Era",
+      "url": "https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl",
+      "published_at": "2026-10-12T21:01:03Z",
+      "description": "A conference agenda is a pretty decent dataset.  Between what is pitched and what is accepted, it's...",
+      "tags": [
+        "agents",
+        "ai",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpg8dmb5jdcmecrofu1c6.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
+      "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
+      "published_at": "2026-10-12T21:04:02Z",
+      "description": "Vinoo Ganesh is the CEO of Kepler, which builds AI for industries where accuracy matters, starting...",
+      "tags": [
+        "ai",
+        "finance",
+        "aie",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faw97cf53e0ffp40owy5z.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
       "title": "Workshop Day Opens AI Engineer NYC",
       "url": "https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2",
       "published_at": "2026-10-12T21:00:19Z",
@@ -685,92 +760,19 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "Your Agent Paid. That Does Not Mean It Should Have.",
-      "url": "https://dev.to/dailycontext/your-agent-paid-that-does-not-mean-it-should-have-2dnd",
-      "published_at": "2026-10-11T19:43:36Z",
-      "description": "An AI agent is writing a report and needs one data point. The API answers: this costs five cents. The...",
-      "tags": [
-        "aie",
-        "fintech",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fflndz5zbbsqs0lzxu9gh.png",
-      "source": "Dev.to",
-      "user": "Ishween Kaur"
-    },
-    {
-      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec",
-      "published_at": "2026-10-09T14:55:22Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "resources",
-        "opportunities"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh3zcvzl5dry5rlbc17m2.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "A/B testing AI products is weird",
-      "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
-      "published_at": "2026-10-11T19:43:52Z",
-      "description": "Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...",
-      "tags": [
-        "aie",
-        "ai",
-        "testing",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
-      "source": "Dev.to",
-      "user": "supriya subudhi"
-    },
-    {
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
-      "published_at": "2026-10-08T20:00:18Z",
-      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
+      "title": "What The Rebirth of Classifiers Tells Us About ChatGPT's Success",
+      "url": "https://dev.to/dailycontext/what-the-rebirth-of-classifiers-tells-us-about-chatgpts-success-d90",
+      "published_at": "2026-10-12T21:02:39Z",
+      "description": "One of the unexpected releases of Sept 2026 was Jev, a promptable classifier that took X and the...",
       "tags": [
         "ai",
-        "gemini",
-        "testing",
-        "jev"
+        "llm",
+        "chatgpt",
+        "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7bwzjdvauca7wc5vgfm.png",
       "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
-      "title": "Welcome to AI Engineer New York",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-new-york-bh0",
-      "published_at": "2026-10-11T19:41:56Z",
-      "description": "Welcome to New York City. Whether you came from a few blocks away or flew in from the other side of...",
-      "tags": [
-        "ai",
-        "aie",
-        "fintech"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4uxnwrmcw1ca7f2ruf15.jpg",
-      "source": "Dev.to",
-      "user": "swyx"
-    },
-    {
-      "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
-      "url": "https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2",
-      "published_at": "2026-10-09T00:40:57Z",
-      "description": "How replacing fragile linear prompt checklists with a 50-year-old declarative build graph eliminates agent amnesia, enables seamless mid-flight session resumption, and mechanizes software engineering governance.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsj0zkh6xcpxv4otm9a2i.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Denys Linkov"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -952,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 9351,
+      "stars": 9716,
       "user": "wheresryan22"
     },
     {
@@ -967,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 926,
       "user": "marclou"
     },
     {
@@ -982,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1993,
+      "stars": 2051,
       "user": "onehumanbeing"
     },
     {
@@ -997,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 944,
       "user": "zhuyansen"
     },
     {
@@ -1012,7 +1014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "jwuthri-cloud"
     },
     {
@@ -1027,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 4039,
+      "stars": 4063,
       "user": "mhtsec"
     },
     {
@@ -1057,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "aindeev"
     },
     {
@@ -1072,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 992,
       "user": "rociiu"
     },
     {
@@ -1087,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 794,
       "user": "ThariqS"
     },
     {
@@ -1102,148 +1104,164 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 713,
       "user": "CoolkHz"
     },
     {
-      "title": "How do I build a target, calendar features and a time-based train/validation/test split for hourly data in pandas?",
-      "url": "https://stackoverflow.com/questions/80009865/how-do-i-build-a-target-calendar-features-and-a-time-based-train-validation-tes",
-      "published_at": "2026-10-14T03:49:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "Factor 0.102 now available",
+      "url": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
+      "published_at": "2026-10-14T08:42:39.966-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "python",
-        "pandas",
-        "time-series",
-        "feature-engineering",
-        "train-test-split"
+        "concatenative",
+        "release"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Singh"
+      "source": "Lobste.rs",
+      "user": "toastal"
     },
     {
-      "title": "How do I explore seasonality and the distribution of daily solar totals in hourly generation data with pandas?",
-      "url": "https://stackoverflow.com/questions/80009862/how-do-i-explore-seasonality-and-the-distribution-of-daily-solar-totals-in-hourl",
-      "published_at": "2026-10-14T03:39:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "published_at": "2026-10-14T18:23:46.000Z",
+      "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as  involved in composition and vocals.",
       "tags": [
-        "python",
-        "pandas",
-        "matplotlib",
-        "time-series"
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "YouTube",
+        "YouTube Music"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jaskaran"
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "published_at": "2026-10-14T14:30:00.000Z",
-      "description": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "published_at": "2026-10-14T18:00:00.000Z",
+      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
       "tags": [
-        "TC",
         "Startups",
-        "Climate",
-        "Fintech",
-        "Biotech & Health"
+        "Security",
+        "AI",
+        "TechCrunch Disrupt",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+      "published_at": "2026-10-14T17:00:00.000Z",
+      "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+      "tags": [
+        "Biotech & Health",
+        "Startups",
+        "Battlefield 200",
+        "Mosqitter",
+        "mosquitos"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "published_at": "2026-10-14T15:16:04.000Z",
+      "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "ai music",
+        "Deezer"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco&#8217;s Moscone West",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "published_at": "2026-10-14T15:13:24.000Z",
+      "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Crypto",
+        "Fintech"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
     },
     {
-      "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "published_at": "2026-10-14T11:00:00.000Z",
-      "description": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "published_at": "2026-10-14T15:08:00.000Z",
+      "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "tags": [
+        "AI",
+        "ai chat",
+        "bessemer",
+        "WhatsApp",
+        "workplace communication"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "published_at": "2026-10-14T15:00:00.000Z",
+      "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
       "tags": [
         "AI",
         "Enterprise",
         "Startups",
-        "Exclusive",
-        "hitachi"
+        "AI agents",
+        "Startup Battlefield 200"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Lauren Forristal"
     },
     {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "published_at": "2026-10-13T23:13:31.000Z",
-      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+      "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+      "published_at": "2026-10-14T14:55:47.000Z",
+      "description": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
+      "tags": [
+        "Media & Entertainment",
+        "Layoffs",
+        "Netflix",
+        "tech layoffs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "published_at": "2026-10-14T14:30:00.000Z",
+      "description": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
       "tags": [
         "AI",
+        "Apps",
         "Biotech & Health",
-        "Max Hodak",
-        "Science Corporation",
-        "TechCrunch Disrupt"
+        "Climate",
+        "Fintech"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "published_at": "2026-10-13T23:05:34.000Z",
-      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "tags": [
-        "AI",
-        "andrew feldman",
-        "Cerebras",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "published_at": "2026-10-13T23:00:00.000Z",
-      "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Industrial Next",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "published_at": "2026-10-13T22:36:59.000Z",
-      "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "tags": [
-        "AI",
-        "TechCrunch Disrupt",
-        "Cerebras",
-        "andrew feldman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "published_at": "2026-10-13T20:59:11.000Z",
-      "description": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "OpenAI",
-        "surveillance"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "TechCrunch Events"
     },
     {
       "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
@@ -1335,6 +1353,64 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
+      "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+      "published_at": "2026-10-13T20:49:38Z",
+      "description": "What I Built   Who said learning AI System Design has to be all dark cyberpunk terminal...",
+      "tags": [
+        "ai",
+        "gamedev",
+        "javascript",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcozy-ai-agent-cafe-game%2Fmain%2Fassets%2Fcozy_ai_cafe_banner.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
+    },
+    {
+      "title": "LangChainJS and Gemini 4 Argon: What's here and what's coming?",
+      "url": "https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod",
+      "published_at": "2026-10-14T02:14:27Z",
+      "description": "Google has released the latest version in the Gemini family, Gemini 4 Argon, and I was fortunate...",
+      "tags": [
+        "ai",
+        "gemini",
+        "javascript",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0ymi9mxkutkl1kco6bt.png",
+      "source": "Dev.to",
+      "user": "Allen Firstenberg"
+    },
+    {
+      "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
+      "url": "https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj",
+      "published_at": "2026-10-13T20:01:11Z",
+      "description": "Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.",
+      "tags": [
+        "ai",
+        "python",
+        "security",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
+    },
+    {
+      "title": "Verifying Google Cloud egress IP ranges with cloud.json and jq",
+      "url": "https://dev.to/googlecloud/verifying-google-cloud-egress-ip-ranges-with-cloudjson-and-jq-212o",
+      "published_at": "2026-10-13T13:03:00Z",
+      "description": "How to use gcloud, cloud.json, and jq to map your Google Cloud external IPs to their published regional prefixes when troubleshooting outbound firewall drops.",
+      "tags": [
+        "googlecloud",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fizhazi09ytn091f7dvb2.png",
+      "source": "Dev.to",
+      "user": "Zach S."
+    },
     {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
@@ -1467,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 9351,
+      "stars": 9716,
       "user": "wheresryan22"
     },
     {
@@ -1482,7 +1558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1503,
       "user": "T-Auto"
     },
     {
@@ -1497,7 +1573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 926,
       "user": "marclou"
     },
     {
@@ -1512,7 +1588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264924385?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 780,
       "user": "tcchen2026"
     },
     {
@@ -1527,7 +1603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 686,
       "user": "HeyPuter"
     },
     {
@@ -1542,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1172,
       "user": "shaongitbd"
     },
     {
@@ -1557,7 +1633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 992,
       "user": "rociiu"
     },
     {
@@ -1572,7 +1648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 794,
       "user": "ThariqS"
     },
     {
@@ -1587,7 +1663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 767,
       "user": "YeonwooSung"
     },
     {
@@ -1602,8 +1678,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 713,
       "user": "CoolkHz"
+    },
+    {
+      "title": "How to override styles of React component with vanilla extract?",
+      "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
+      "published_at": "2026-10-14T14:35:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "reactjs",
+        "vanilla-extract"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Billy Moon"
     },
     {
       "title": "Changing two images simultaneously with one button-onclick and querySelector",
@@ -1645,19 +1736,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "krim kastro"
-    },
-    {
-      "title": "Is there any disadvantage to calling document.createElement with the “wrong” document?",
-      "url": "https://stackoverflow.com/questions/80009283/is-there-any-disadvantage-to-calling-document-createelement-with-the-wrong-doc",
-      "published_at": "2026-10-11T15:25:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thom Smith"
     },
     {
       "title": "How do I accurately detect gamepad button presses in JavaScript?",
@@ -1715,18 +1793,19 @@
       "user": "mocopera"
     },
     {
-      "title": "Error: Cannot find module 'node:path' while running \"npm -v\" or \"npm --version\"",
-      "url": "https://stackoverflow.com/questions/78526938/error-cannot-find-module-nodepath-while-running-npm-v-or-npm-version",
-      "published_at": "2024-05-24T06:57:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 10",
+      "title": "How to handle an slow request of Stripe webhook?",
+      "url": "https://stackoverflow.com/questions/79563147/how-to-handle-an-slow-request-of-stripe-webhook",
+      "published_at": "2025-04-08T22:16:23.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
-        "node.js",
-        "npm"
+        "stripe-payments",
+        "settimeout",
+        "webhooks"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Sangram Badi"
+      "user": "Alejandro Guajardo"
     },
     {
       "title": "Javascript Date.now to readable format",
@@ -1787,6 +1866,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
+      "url": "https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj",
+      "published_at": "2026-10-13T20:01:11Z",
+      "description": "Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.",
+      "tags": [
+        "ai",
+        "python",
+        "security",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
+    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1919,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1993,
+      "stars": 2051,
       "user": "onehumanbeing"
     },
     {
@@ -1934,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1217,
       "user": "Arekejoker"
     },
     {
@@ -1949,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1121,
+      "stars": 1137,
       "user": "wesbos"
     },
     {
@@ -1964,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 944,
       "user": "zhuyansen"
     },
     {
@@ -1979,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "jwuthri-cloud"
     },
     {
@@ -2010,17 +2104,59 @@
       "user": "mocopera"
     },
     {
-      "title": "How do I do time series data in python",
-      "url": "https://stackoverflow.com/questions/80009987/how-do-i-do-time-series-data-in-python",
-      "published_at": "2026-10-14T13:46:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Requests cache does not store requests or use cache",
+      "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
+      "published_at": "2026-10-14T15:10:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "pandas"
+        "caching",
+        "python-requests"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Rekha Jaiswal"
+      "user": "Jeyekomon"
+    },
+    {
+      "title": "Mtplotlib Histogram - Threshold where all values above it show accumulated in a single bar",
+      "url": "https://stackoverflow.com/questions/80010019/mtplotlib-histogram-threshold-where-all-values-above-it-show-accumulated-in-a",
+      "published_at": "2026-10-14T15:38:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "matplotlib",
+        "histogram"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ramiro chalar"
+    },
+    {
+      "title": "CodeVita : even a program that only prints 3 gets Wrong Answer at ~1.0 sec. Anyone else seeing this?",
+      "url": "https://stackoverflow.com/questions/80010013/codevita-even-a-program-that-only-prints-3-gets-wrong-answer-at-1-0-sec-anyo",
+      "published_at": "2026-10-14T15:18:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "advice",
+        "python",
+        "c++"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "deku"
+    },
+    {
+      "title": "Django Admin Page not found (404) - First time accessing. error with only admin page",
+      "url": "https://stackoverflow.com/questions/80010014/django-admin-page-not-found-404-first-time-accessing-error-with-only-admin",
+      "published_at": "2026-10-14T15:22:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "django"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Paulo de Tarso"
     },
     {
       "title": "How can I update the font size for all of the UI in pyqt",
@@ -2042,7 +2178,7 @@
       "title": "Filtering polars using a dictionary",
       "url": "https://stackoverflow.com/questions/80009941/filtering-polars-using-a-dictionary",
       "published_at": "2026-10-14T10:25:34.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
         "dataframe",
@@ -2063,20 +2199,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liam"
-    },
-    {
-      "title": "Screen blanks after executing .py file in Geany",
-      "url": "https://stackoverflow.com/questions/80009854/screen-blanks-after-executing-py-file-in-geany",
-      "published_at": "2026-10-14T03:02:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "raspberry-pi",
-        "geany"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KodeKat"
     },
     {
       "title": "How do I force multiple pygame windows to be unable to minimize?",
@@ -2108,49 +2230,18 @@
       "user": "eminsk"
     },
     {
-      "title": "How do I build a target, calendar features and a time-based train/validation/test split for hourly data in pandas?",
-      "url": "https://stackoverflow.com/questions/80009865/how-do-i-build-a-target-calendar-features-and-a-time-based-train-validation-tes",
-      "published_at": "2026-10-14T03:49:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "title": "Screen blanks after executing .py file in Geany",
+      "url": "https://stackoverflow.com/questions/80009854/screen-blanks-after-executing-py-file-in-geany",
+      "published_at": "2026-10-14T03:02:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
-        "pandas",
-        "time-series",
-        "feature-engineering",
-        "train-test-split"
+        "raspberry-pi",
+        "geany"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Singh"
-    },
-    {
-      "title": "How do I explore seasonality and the distribution of daily solar totals in hourly generation data with pandas?",
-      "url": "https://stackoverflow.com/questions/80009862/how-do-i-explore-seasonality-and-the-distribution-of-daily-solar-totals-in-hourl",
-      "published_at": "2026-10-14T03:39:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python",
-        "pandas",
-        "matplotlib",
-        "time-series"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jaskaran"
-    },
-    {
-      "title": "How do I safely remove unused asyncio locks without causing duplicate requests?",
-      "url": "https://stackoverflow.com/questions/80009471/how-do-i-safely-remove-unused-asyncio-locks-without-causing-duplicate-requests",
-      "published_at": "2026-10-12T13:09:22.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "python",
-        "locking",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Faheem"
+      "user": "KodeKat"
     },
     {
       "title": "How to Create System Design Diagrams using Python",
@@ -2319,6 +2410,21 @@
       "user": "jknupp"
     },
     {
+      "title": "What I Self-Host | Aspirational Self Hosting Guide",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "published_at": "2026-10-14T10:32:48.892-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "linux",
+        "osdev",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tonymet"
+    },
+    {
       "title": "A plea not to use uv-build",
       "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
       "published_at": "2026-10-13T09:36:52.168-05:00",
@@ -2404,8 +2510,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 713,
       "user": "CoolkHz"
+    },
+    {
+      "title": "How to override styles of React component with vanilla extract?",
+      "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
+      "published_at": "2026-10-14T14:35:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "reactjs",
+        "vanilla-extract"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Billy Moon"
     },
     {
       "title": "Why does changing an attribute in JavaScript not affect my CSS attribute selector?",
@@ -2497,6 +2618,20 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "Local speech with llamadart: giving Llama Village a voice",
+      "url": "https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m",
+      "published_at": "2026-10-14T03:03:34Z",
+      "description": "Beyond chat with llamadart · Part 3  Pip’s scarf is missing. I wanted Dash to be able to fly over to...",
+      "tags": [
+        "ai",
+        "dart",
+        "flutter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq9hxfwmw34a5t6yzqof6.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "Local embeddings with llamadart: how llamas share secrets",
       "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
       "published_at": "2026-10-12T18:18:49Z",
@@ -2523,26 +2658,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1121,
+      "stars": 1137,
       "user": "wesbos"
     }
   ],
   "Cloud": [
-    {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
     {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
@@ -2559,6 +2679,49 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Verifying Google Cloud egress IP ranges with cloud.json and jq",
+      "url": "https://dev.to/googlecloud/verifying-google-cloud-egress-ip-ranges-with-cloudjson-and-jq-212o",
+      "published_at": "2026-10-13T13:03:00Z",
+      "description": "How to use gcloud, cloud.json, and jq to map your Google Cloud external IPs to their published regional prefixes when troubleshooting outbound firewall drops.",
+      "tags": [
+        "googlecloud",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fizhazi09ytn091f7dvb2.png",
+      "source": "Dev.to",
+      "user": "Zach S."
+    },
+    {
+      "title": "We moved a production backend from a phone",
+      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
+      "published_at": "2026-10-13T13:19:33Z",
+      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
+    },
+    {
+      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
+      "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
+      "published_at": "2026-10-13T01:20:25Z",
+      "description": "Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.",
+      "tags": [
+        "googlecloud",
+        "gemma",
+        "cloudrun",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
       "url": "https://github.com/jwuthri-cloud/Tracely-ai",
       "published_at": "2026-10-11T15:38:03Z",
@@ -2570,7 +2733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "jwuthri-cloud"
     },
     {
@@ -2585,23 +2748,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 992,
       "user": "rociiu"
-    },
-    {
-      "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "published_at": "2026-10-13T23:05:34.000Z",
-      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "tags": [
-        "AI",
-        "andrew feldman",
-        "Cerebras",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
@@ -2663,18 +2811,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "The reverts will continue until morale improves",
-      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-      "published_at": "2026-10-13T06:37:06.816-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kngl"
-    },
-    {
       "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
       "url": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
       "published_at": "2026-10-14T04:08:28.000Z",
@@ -2705,6 +2841,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
+      "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567",
+      "published_at": "2026-10-14T07:07:21Z",
+      "description": "🎯 What You'll Learn     Gemini 4 Native Architecture Leap: How to leverage Deep Reasoning...",
+      "tags": [
+        "gemini",
+        "agents",
+        "security",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fij00m2kux5txwhlmyqg5.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
+    },
+    {
+      "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
+      "url": "https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj",
+      "published_at": "2026-10-13T20:01:11Z",
+      "description": "Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.",
+      "tags": [
+        "ai",
+        "python",
+        "security",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "Agents Can’t Decide What’s Okay to Break",
@@ -2884,35 +3050,33 @@
       "user": "ewenjo"
     },
     {
-      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
-      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "published_at": "2026-10-14T01:30:42.000Z",
-      "description": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "published_at": "2026-10-14T02:54:56.274-05:00",
+      "description": "Video showing an implanted device: https://www.youtube.com/watch?v=Nf4FEFlgv3Q",
       "tags": [
-        "Security",
-        "CrowdStrike",
-        "cybersecurity",
-        "data breach",
-        "North Korea"
+        "cryptography",
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "Lobste.rs",
+      "user": "csomar"
     },
     {
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "published_at": "2026-10-13T20:59:11.000Z",
-      "description": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "published_at": "2026-10-14T18:00:00.000Z",
+      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
       "tags": [
+        "Startups",
         "Security",
-        "cybersecurity",
-        "OpenAI",
-        "surveillance"
+        "AI",
+        "TechCrunch Disrupt",
+        "cybersecurity"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Ram Iyer"
     },
     {
       "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
@@ -2931,36 +3095,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "ROI That Survives the Second Question",
-      "url": "https://dev.to/dailycontext/roi-that-survives-the-second-question-4na0",
-      "published_at": "2026-10-11T19:43:33Z",
-      "description": "Judgment is the scarce resource in a world where intelligence is becoming a commodity. A business can...",
-      "tags": [
-        "aie",
-        "productivity",
-        "leadership",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd0lpt4yccntg8db2dc4t.png",
-      "source": "Dev.to",
-      "user": "Sid Pednekar"
-    },
-    {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
     {
       "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
       "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
@@ -3006,6 +3140,36 @@
       "user": "Ramakrishnan Lokanathan"
     },
     {
+      "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
+      "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
+      "published_at": "2026-10-13T00:57:26Z",
+      "description": "Fourteen Apache-2.0 and MIT open-weight models that fit one TPU v5e chip, served one after another through vLLM on the same pinned image and scored on GSM8K and BFCL against Gemma 4 E2B. Qwen3-4B matches Gemma's accuracy at 0.57x its output, SmolLM3-3B and Granite 3.3 2B match it on tool calls, and Gemma keeps the lead on long prompts.",
+      "tags": [
+        "tpu",
+        "vllm",
+        "gemma",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "We moved a production backend from a phone",
+      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
+      "published_at": "2026-10-13T13:19:33Z",
+      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
+      "source": "Dev.to",
+      "user": "DigitalOcean"
+    },
+    {
       "title": "What 1,368 Real-World AI Incidents Teach Us About Evaluation",
       "url": "https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p",
       "published_at": "2026-10-12T21:03:06Z",
@@ -3034,51 +3198,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "A/B testing AI products is weird",
-      "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
-      "published_at": "2026-10-11T19:43:52Z",
-      "description": "Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...",
-      "tags": [
-        "aie",
-        "ai",
-        "testing",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
-      "source": "Dev.to",
-      "user": "supriya subudhi"
-    },
-    {
-      "title": "I got Jev to zero mistakes. I'm still using Flash-Lite.",
-      "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
-      "published_at": "2026-10-08T20:00:18Z",
-      "description": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
-      "tags": [
-        "ai",
-        "gemini",
-        "testing",
-        "jev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvvnv8n9pu6407t272avj.png",
-      "source": "Dev.to",
-      "user": "Swift"
-    },
-    {
-      "title": "Stuart Feldman Was Right in 1976: Why Your AI Agent Needs a Makefile, Not a 20-Step Prompt",
-      "url": "https://dev.to/gde/stuart-feldman-was-right-in-1976-why-your-ai-agent-needs-a-makefile-not-a-20-step-prompt-5bn2",
-      "published_at": "2026-10-09T00:40:57Z",
-      "description": "How replacing fragile linear prompt checklists with a 50-year-old declarative build graph eliminates agent amnesia, enables seamless mid-flight session resumption, and mechanizes software engineering governance.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsj0zkh6xcpxv4otm9a2i.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3128,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "source": "GitHub",
-      "stars": 9351,
+      "stars": 9716,
       "user": "wheresryan22"
     },
     {
@@ -3143,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1503,
       "user": "T-Auto"
     },
     {
@@ -3158,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 918,
+      "stars": 926,
       "user": "marclou"
     },
     {
@@ -3173,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264924385?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 780,
       "user": "tcchen2026"
     },
     {
@@ -3188,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 686,
       "user": "HeyPuter"
     },
     {
@@ -3203,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 1993,
+      "stars": 2051,
       "user": "onehumanbeing"
     },
     {
@@ -3218,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1217,
       "user": "Arekejoker"
     },
     {
@@ -3233,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
       "source": "GitHub",
-      "stars": 1121,
+      "stars": 1137,
       "user": "wesbos"
     },
     {
@@ -3248,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 944,
       "user": "zhuyansen"
     },
     {
@@ -3263,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 817,
       "user": "jwuthri-cloud"
     },
     {
@@ -3278,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
       "source": "GitHub",
-      "stars": 4039,
+      "stars": 4063,
       "user": "mhtsec"
     },
     {
@@ -3308,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 762,
       "user": "Hinln"
     },
     {
@@ -3323,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "aindeev"
     },
     {
@@ -3338,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 201,
       "user": "RuoJi6"
     },
     {
@@ -3353,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1172,
       "user": "shaongitbd"
     },
     {
@@ -3368,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 985,
+      "stars": 992,
       "user": "rociiu"
     },
     {
@@ -3383,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 794,
       "user": "ThariqS"
     },
     {
@@ -3398,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 767,
       "user": "YeonwooSung"
     },
     {
@@ -3413,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 713,
       "user": "CoolkHz"
     },
     {
@@ -3428,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2545,
+      "stars": 2591,
       "user": "storytold"
     },
     {
@@ -3443,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2228,
+      "stars": 2243,
       "user": "liseami"
     },
     {
@@ -3458,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
       "source": "GitHub",
-      "stars": 2043,
+      "stars": 2046,
       "user": "noahdunnagan"
     },
     {
@@ -3473,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 1001,
       "user": "opengeos"
     },
     {
@@ -3488,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 802,
       "user": "storytold"
     },
     {
