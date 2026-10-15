@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Design for Churn",
-      "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
-      "published_at": "2026-10-14T12:03:29Z",
-      "description": "The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...",
-      "tags": [
-        "aie",
-        "design",
-        "churn",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -46,19 +31,19 @@
       "user": "Ryan Stevens"
     },
     {
-      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
-      "url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
-      "published_at": "2026-10-14T12:04:49Z",
-      "description": "Have you ever told your AI agent something important, only to realize a few conversations later that...",
+      "title": "Design for Churn",
+      "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
+      "published_at": "2026-10-14T12:03:29Z",
+      "description": "The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...",
       "tags": [
-        "ai",
-        "agents",
-        "memory",
-        "aie"
+        "aie",
+        "design",
+        "churn",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg",
       "source": "Dev.to",
-      "user": "Sparsh Jain"
+      "user": "Ben Halpern"
     },
     {
       "title": "The Model Is the Easy Part",
@@ -74,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
       "source": "Dev.to",
       "user": "Steven Latre"
-    },
-    {
-      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
-      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
-      "published_at": "2026-10-14T12:04:58Z",
-      "description": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
-      "tags": [
-        "ai",
-        "agents",
-        "fintech",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgeuf5lerc4zthaecs7m.png",
-      "source": "Dev.to",
-      "user": "Anirudh Veeraragavan"
     },
     {
       "title": "An Agent’s Plan Isn’t Permission",
@@ -121,19 +91,34 @@
       "user": "Nick Nisi"
     },
     {
-      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
-      "url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7",
-      "published_at": "2026-10-14T12:05:35Z",
-      "description": "AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...",
+      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
+      "url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
+      "published_at": "2026-10-14T12:04:49Z",
+      "description": "Have you ever told your AI agent something important, only to realize a few conversations later that...",
       "tags": [
         "ai",
-        "data",
-        "privacy",
+        "agents",
+        "memory",
         "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o43h613infirehm8ewy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png",
       "source": "Dev.to",
-      "user": "Tom Fairey"
+      "user": "Sparsh Jain"
+    },
+    {
+      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
+      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
+      "published_at": "2026-10-14T12:04:58Z",
+      "description": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
+      "tags": [
+        "ai",
+        "agents",
+        "fintech",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgeuf5lerc4zthaecs7m.png",
+      "source": "Dev.to",
+      "user": "Anirudh Veeraragavan"
     },
     {
       "title": "Local speech with llamadart: giving Llama Village a voice",
@@ -165,51 +150,6 @@
       "user": "Robina Mirbahar"
     },
     {
-      "title": "A Data Company in an AI World",
-      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
-      "published_at": "2026-10-14T12:05:44Z",
-      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
-      "tags": [
-        "ai",
-        "finance",
-        "interview",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "Nobody’s winning the AI race yet",
-      "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
-      "published_at": "2026-10-14T12:04:39Z",
-      "description": "By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...",
-      "tags": [
-        "ai",
-        "gemini",
-        "llm",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
-      "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
-      "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
-      "published_at": "2026-10-14T12:03:18Z",
-      "description": "Getting an LLM-powered feature to work in a demo takes an afternoon. But getting it to produce the...",
-      "tags": [
-        "ai",
-        "llm",
-        "hackathon",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsw4p4eocpl5f05symejg.png",
-      "source": "Dev.to",
-      "user": "Maithili Jha"
-    },
-    {
       "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
       "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p",
       "published_at": "2026-10-14T12:05:21Z",
@@ -223,6 +163,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
+      "url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7",
+      "published_at": "2026-10-14T12:05:35Z",
+      "description": "AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...",
+      "tags": [
+        "ai",
+        "data",
+        "privacy",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o43h613infirehm8ewy.png",
+      "source": "Dev.to",
+      "user": "Tom Fairey"
     },
     {
       "title": "For Agents, Waiting is the Hardest Part",
@@ -255,6 +210,51 @@
       "user": "Andrey Rybka"
     },
     {
+      "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
+      "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567",
+      "published_at": "2026-10-14T07:07:21Z",
+      "description": "🎯 What You'll Learn     Gemini 4 Native Architecture Leap: How to leverage Deep Reasoning...",
+      "tags": [
+        "gemini",
+        "agents",
+        "security",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fij00m2kux5txwhlmyqg5.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
+    },
+    {
+      "title": "A Data Company in an AI World",
+      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
+      "published_at": "2026-10-14T12:05:44Z",
+      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
+      "tags": [
+        "ai",
+        "finance",
+        "interview",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "Nobody’s winning the AI race yet",
+      "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
+      "published_at": "2026-10-14T12:04:39Z",
+      "description": "By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...",
+      "tags": [
+        "ai",
+        "gemini",
+        "llm",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png",
+      "source": "Dev.to",
+      "user": "Ryan Swift"
+    },
+    {
       "title": "Operational intelligence is sociotechnical",
       "url": "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627",
       "published_at": "2026-10-14T12:04:31Z",
@@ -270,19 +270,19 @@
       "user": "Spencer Pitman"
     },
     {
-      "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
-      "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567",
-      "published_at": "2026-10-14T07:07:21Z",
-      "description": "🎯 What You'll Learn     Gemini 4 Native Architecture Leap: How to leverage Deep Reasoning...",
+      "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
+      "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
+      "published_at": "2026-10-14T12:03:18Z",
+      "description": "Getting an LLM-powered feature to work in a demo takes an afternoon. But getting it to produce the...",
       "tags": [
-        "gemini",
-        "agents",
-        "security",
-        "devsecops"
+        "ai",
+        "llm",
+        "hackathon",
+        "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fij00m2kux5txwhlmyqg5.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsw4p4eocpl5f05symejg.png",
       "source": "Dev.to",
-      "user": "JimmyLiao"
+      "user": "Maithili Jha"
     },
     {
       "title": "Where to Spend Your Week at AI Engineer New York",
@@ -345,21 +345,6 @@
       "user": "Robina Mirbahar"
     },
     {
-      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
-      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
-      "published_at": "2026-10-11T00:59:52Z",
-      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
-      "tags": [
-        "ai",
-        "programming",
-        "unix",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
       "published_at": "2026-10-12T10:30:20Z",
@@ -418,21 +403,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
-      "published_at": "2026-10-12T04:21:36Z",
-      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "It's Not the Model, It's You",
@@ -730,6 +700,36 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
+      "published_at": "2026-10-12T04:21:36Z",
+      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "published_at": "2026-10-11T00:59:52Z",
+      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
+      "tags": [
+        "ai",
+        "programming",
+        "unix",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Local embeddings with llamadart: how llamas share secrets",
       "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
       "published_at": "2026-10-12T18:18:49Z",
@@ -954,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 933,
       "user": "marclou"
     },
     {
@@ -969,23 +969,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 548,
       "user": "nateherkai"
-    },
-    {
-      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "published_at": "2026-10-11T19:10:25Z",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
-      "source": "GitHub",
-      "stars": 2076,
-      "user": "onehumanbeing"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -999,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 975,
       "user": "zhuyansen"
     },
     {
@@ -1044,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "bdg9412"
     },
     {
@@ -1074,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1005,
       "user": "rociiu"
     },
     {
@@ -1089,23 +1074,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 770,
       "user": "CoolkHz"
     },
     {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "published_at": "2026-10-12T09:19:02Z",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 647,
-      "user": "outcrawlai"
+      "stars": 746,
+      "user": "deeplethe"
     },
     {
       "title": "Factor 0.102 now available",
@@ -1121,16 +1106,33 @@
       "user": "toastal"
     },
     {
-      "title": "Keeping only certain properties in a JavaScript object",
-      "url": "https://stackoverflow.com/questions/22202766/keeping-only-certain-properties-in-a-javascript-object",
-      "published_at": "2014-03-05T15:59:15.000Z",
-      "description": "Stack Overflow question · 13 answers · score 46",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "published_at": "2026-10-15T04:30:00.000Z",
+      "description": "Figma is also releasing its code layers feature in open beta.",
       "tags": [
-        "javascript"
+        "AI",
+        "Apps",
+        "India",
+        "Figma"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user1032531"
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "published_at": "2026-10-15T01:01:32.000Z",
+      "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "tags": [
+        "AI",
+        "Ricursive",
+        "Ricursive Intelligence"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
@@ -1206,38 +1208,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Flock CEO: We haven&#8217;t &#8216;fired&#8217; any police departments as customers",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-      "published_at": "2026-10-14T20:26:25.000Z",
-      "description": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-      "tags": [
-        "Government & Policy",
-        "Privacy",
-        "Security",
-        "cybersecurity",
-        "Flock"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker, Amanda Silberling, Rebecca Bellan"
-    },
-    {
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "published_at": "2026-10-14T20:00:00.000Z",
-      "description": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
-      "tags": [
-        "Biotech & Health",
-        "Startups",
-        "battlefield 20",
-        "oncology",
-        "Startup Battlefield 200"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
     },
     {
       "title": "How to Stop an AI Agent from Inventing Nigerian Postcodes",
@@ -1517,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 933,
       "user": "marclou"
     },
     {
@@ -1532,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 802,
       "user": "HeyPuter"
     },
     {
@@ -1547,7 +1517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 548,
       "user": "nateherkai"
     },
     {
@@ -1562,7 +1532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 411,
       "user": "threerocks"
     },
     {
@@ -1577,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 391,
       "user": "rayytor"
     },
     {
@@ -1592,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1216,
       "user": "shaongitbd"
     },
     {
@@ -1607,7 +1577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1005,
       "user": "rociiu"
     },
     {
@@ -1622,7 +1592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 783,
       "user": "YeonwooSung"
     },
     {
@@ -1637,23 +1607,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 770,
       "user": "CoolkHz"
     },
     {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "published_at": "2026-10-12T09:19:02Z",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 647,
-      "user": "outcrawlai"
+      "stars": 746,
+      "user": "deeplethe"
     },
     {
       "title": "How to override styles of React component with vanilla extract?",
@@ -1683,6 +1653,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Moon Lich"
+    },
+    {
+      "title": "Is there any disadvantage to calling document.createElement with the “wrong” document?",
+      "url": "https://stackoverflow.com/questions/80009283/is-there-any-disadvantage-to-calling-document-createelement-with-the-wrong-doc",
+      "published_at": "2026-10-11T15:25:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thom Smith"
     },
     {
       "title": "How do I accurately detect gamepad button presses in JavaScript?",
@@ -1780,18 +1763,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Knut Holm"
-    },
-    {
-      "title": "Keeping only certain properties in a JavaScript object",
-      "url": "https://stackoverflow.com/questions/22202766/keeping-only-certain-properties-in-a-javascript-object",
-      "published_at": "2014-03-05T15:59:15.000Z",
-      "description": "Stack Overflow question · 13 answers · score 46",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user1032531"
     },
     {
       "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
@@ -1976,21 +1947,6 @@
       "user": "arathore"
     },
     {
-      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "published_at": "2026-10-11T19:10:25Z",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
-      "source": "GitHub",
-      "stars": 2076,
-      "user": "onehumanbeing"
-    },
-    {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "published_at": "2026-10-13T03:09:42Z",
@@ -2002,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1395,
       "user": "Arekejoker"
     },
     {
@@ -2017,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 975,
       "user": "zhuyansen"
     },
     {
@@ -2051,6 +2007,21 @@
       "user": "n1tr00-10"
     },
     {
+      "title": "chenwei810/Semiconductor_Manufacturing_Introduction - Introduction to Semiconductor Manufacturing",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "published_at": "2026-10-11T02:01:01Z",
+      "description": "Introduction to Semiconductor Manufacturing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "chenwei810"
+    },
+    {
       "title": "How can I scrape a page with dynamic content (created by JavaScript) in Python?",
       "url": "https://stackoverflow.com/questions/8049520/how-can-i-scrape-a-page-with-dynamic-content-created-by-javascript-in-python",
       "published_at": "2011-11-08T11:13:51.000Z",
@@ -2065,23 +2036,37 @@
       "user": "mocopera"
     },
     {
-      "title": "Django Admin Page not found (404) - First time accessing. error with only admin page",
-      "url": "https://stackoverflow.com/questions/80010014/django-admin-page-not-found-404-first-time-accessing-error-with-only-admin",
-      "published_at": "2026-10-14T15:22:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "title": "At the verge of end -- the bot collides to the wall",
+      "url": "https://stackoverflow.com/questions/80010119/at-the-verge-of-end-the-bot-collides-to-the-wall",
+      "published_at": "2026-10-15T03:19:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
-        "django"
+        "maze",
+        "flood-fill"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Paulo de Tarso"
+      "user": "Dev Parmar"
+    },
+    {
+      "title": "googletrans - python - Is not translating",
+      "url": "https://stackoverflow.com/questions/80010106/googletrans-python-is-not-translating",
+      "published_at": "2026-10-15T01:05:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "googletrans"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rmor23"
     },
     {
       "title": "Requests cache does not store requests or use cache",
       "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
       "published_at": "2026-10-14T15:10:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "caching",
@@ -2092,23 +2077,10 @@
       "user": "Jeyekomon"
     },
     {
-      "title": "Not sure how to fix error 'missing 7 required positional arguments'",
-      "url": "https://stackoverflow.com/questions/80009932/not-sure-how-to-fix-error-missing-7-required-positional-arguments",
-      "published_at": "2026-10-14T09:39:37.000Z",
-      "description": "Stack Overflow question · 3 answers · score -8",
-      "tags": [
-        "python",
-        "pandas"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liam"
-    },
-    {
-      "title": "Mtplotlib Histogram - Threshold where all values above it show accumulated in a single bar",
-      "url": "https://stackoverflow.com/questions/80010019/mtplotlib-histogram-threshold-where-all-values-above-it-show-accumulated-in-a",
+      "title": "Matplotlib Histogram - Threshold where all values above it show accumulated in a single bar",
+      "url": "https://stackoverflow.com/questions/80010019/matplotlib-histogram-threshold-where-all-values-above-it-show-accumulated-in-a",
       "published_at": "2026-10-14T15:38:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "matplotlib",
@@ -2117,6 +2089,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ramiro chalar"
+    },
+    {
+      "title": "Django Admin Page not found (404) - First time accessing. error with only admin page",
+      "url": "https://stackoverflow.com/questions/80010014/django-admin-page-not-found-404-first-time-accessing-error-with-only-admin",
+      "published_at": "2026-10-14T15:22:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python",
+        "django"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Paulo de Tarso"
     },
     {
       "title": "Filtering polars using a dictionary",
@@ -2188,22 +2173,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Faheem"
-    },
-    {
-      "title": "How can I color specific words in live time in a QTextEdit?",
-      "url": "https://stackoverflow.com/questions/80009455/how-can-i-color-specific-words-in-live-time-in-a-qtextedit",
-      "published_at": "2026-10-12T11:44:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "user-interface",
-        "colors",
-        "pyqt",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hossein Dastoory"
     },
     {
       "title": "How to Stop an AI Agent from Inventing Nigerian Postcodes",
@@ -2386,15 +2355,12 @@
       "user": "jknupp"
     },
     {
-      "title": "What I Self-Host | Aspirational Self Hosting Guide",
+      "title": "What I Self-Host",
       "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
       "published_at": "2026-10-14T10:32:48.892-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "devops",
-        "linux",
-        "osdev",
-        "web"
+        "devops"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -2457,7 +2423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 770,
       "user": "CoolkHz"
     },
     {
@@ -2593,7 +2559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 603,
       "user": "c22dev"
     },
     {
@@ -2729,7 +2695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1005,
       "user": "rociiu"
     },
     {
@@ -3047,6 +3013,20 @@
       "user": "ewenjo"
     },
     {
+      "title": "Awesome Gaming on Linux Without Cheating",
+      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "published_at": "2026-10-14T10:13:26.313-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "games",
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "calvin"
+    },
+    {
       "title": "GitLab warns of max severity code execution vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "published_at": "2026-10-14T10:55:52.017-05:00",
@@ -3073,18 +3053,20 @@
       "user": "csomar"
     },
     {
-      "title": "Awesome Gaming on Linux Without Cheating",
-      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-      "published_at": "2026-10-14T10:13:26.313-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn&#8217;t pause progress&#8217;",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "published_at": "2026-10-15T00:49:31.000Z",
+      "description": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
       "tags": [
-        "games",
-        "linux",
-        "security"
+        "Hardware",
+        "Privacy",
+        "Security",
+        "Flock",
+        "privacy"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "calvin"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different",
@@ -3100,22 +3082,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Flock CEO: We haven&#8217;t &#8216;fired&#8217; any police departments as customers",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-      "published_at": "2026-10-14T20:26:25.000Z",
-      "description": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-      "tags": [
-        "Government & Policy",
-        "Privacy",
-        "Security",
-        "cybersecurity",
-        "Flock"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker, Amanda Silberling, Rebecca Bellan"
     },
     {
       "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
@@ -3134,21 +3100,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
-      "published_at": "2026-10-12T04:21:36Z",
-      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
     {
       "title": "It's Not the Model, It's You",
       "url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi",
@@ -3224,6 +3175,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
+      "published_at": "2026-10-12T04:21:36Z",
+      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "AI Needs a Test That Fights Back",
       "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
       "published_at": "2026-10-12T21:03:49Z",
@@ -3286,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 933,
       "user": "marclou"
     },
     {
@@ -3301,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 802,
       "user": "HeyPuter"
     },
     {
@@ -3316,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 548,
       "user": "nateherkai"
     },
     {
@@ -3331,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 411,
       "user": "threerocks"
     },
     {
@@ -3346,23 +3312,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 391,
       "user": "rayytor"
-    },
-    {
-      "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "published_at": "2026-10-11T19:10:25Z",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
-      "source": "GitHub",
-      "stars": 2076,
-      "user": "onehumanbeing"
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
@@ -3376,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1395,
       "user": "Arekejoker"
     },
     {
@@ -3391,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 975,
       "user": "zhuyansen"
     },
     {
@@ -3425,6 +3376,21 @@
       "user": "n1tr00-10"
     },
     {
+      "title": "chenwei810/Semiconductor_Manufacturing_Introduction - Introduction to Semiconductor Manufacturing",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "published_at": "2026-10-11T02:01:01Z",
+      "description": "Introduction to Semiconductor Manufacturing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
+      "source": "GitHub",
+      "stars": 675,
+      "user": "chenwei810"
+    },
+    {
       "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
       "url": "https://github.com/aindeev/agent-chrome-relay",
       "published_at": "2026-10-10T07:38:27Z",
@@ -3451,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 207,
       "user": "RuoJi6"
     },
     {
@@ -3466,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "bdg9412"
     },
     {
@@ -3481,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148442191?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 136,
       "user": "init-co-jp"
     },
     {
@@ -3511,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1216,
       "user": "shaongitbd"
     },
     {
@@ -3526,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1005,
       "user": "rociiu"
     },
     {
@@ -3541,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 783,
       "user": "YeonwooSung"
     },
     {
@@ -3556,23 +3522,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 770,
       "user": "CoolkHz"
     },
     {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "published_at": "2026-10-12T09:19:02Z",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 647,
-      "user": "outcrawlai"
+      "stars": 746,
+      "user": "deeplethe"
     },
     {
       "title": "storytold/craft-launcher - The Craft App Launcher",
@@ -3586,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2649,
+      "stars": 2700,
       "user": "storytold"
     },
     {
@@ -3601,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2249,
+      "stars": 2279,
       "user": "liseami"
     },
     {
@@ -3616,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1091,
       "user": "opengeos"
     },
     {
@@ -3631,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 1035,
       "user": "storytold"
     },
     {
@@ -3646,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 603,
       "user": "c22dev"
     },
     {
