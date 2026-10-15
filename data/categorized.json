@@ -16,21 +16,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Building Better Agents through End-to-End Evals",
-      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
-      "published_at": "2026-10-14T12:05:13Z",
-      "description": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
-      "tags": [
-        "ai",
-        "agents",
-        "evals",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png",
-      "source": "Dev.to",
-      "user": "Ryan Stevens"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building Better Agents through End-to-End Evals",
+      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
+      "published_at": "2026-10-14T12:05:13Z",
+      "description": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
+      "tags": [
+        "ai",
+        "agents",
+        "evals",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png",
+      "source": "Dev.to",
+      "user": "Ryan Stevens"
     },
     {
       "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
@@ -91,21 +91,6 @@
       "user": "Anirudh Veeraragavan"
     },
     {
-      "title": "Are You Smarter Than a Fruit Fly?",
-      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
-      "published_at": "2026-10-14T12:04:21Z",
-      "description": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
-      "tags": [
-        "ai",
-        "codereview",
-        "agents",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
-      "source": "Dev.to",
-      "user": "Nick Nisi"
-    },
-    {
       "title": "An Agent’s Plan Isn’t Permission",
       "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
       "published_at": "2026-10-14T12:05:28Z",
@@ -119,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Are You Smarter Than a Fruit Fly?",
+      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
+      "published_at": "2026-10-14T12:04:21Z",
+      "description": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
+      "tags": [
+        "ai",
+        "codereview",
+        "agents",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
+      "source": "Dev.to",
+      "user": "Nick Nisi"
     },
     {
       "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
@@ -165,19 +165,19 @@
       "user": "Robina Mirbahar"
     },
     {
-      "title": "Operational intelligence is sociotechnical",
-      "url": "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627",
-      "published_at": "2026-10-14T12:04:31Z",
-      "description": "A scan of the Slack channels for a recent private equity deployment of Clonal (our operational...",
+      "title": "A Data Company in an AI World",
+      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
+      "published_at": "2026-10-14T12:05:44Z",
+      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
       "tags": [
         "ai",
-        "fintech",
-        "design",
+        "finance",
+        "interview",
         "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp5cgof3acfh7v4n5cdep.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
       "source": "Dev.to",
-      "user": "Spencer Pitman"
+      "user": "Kara Silverman"
     },
     {
       "title": "Nobody’s winning the AI race yet",
@@ -210,36 +210,6 @@
       "user": "Maithili Jha"
     },
     {
-      "title": "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
-      "url": "https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a",
-      "published_at": "2026-10-14T12:03:42Z",
-      "description": "For financial technology institutions operating at enterprise scale, the initial wave of Generative...",
-      "tags": [
-        "ai",
-        "agents",
-        "fintech",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdow1p4av91zqti4tt9c3.png",
-      "source": "Dev.to",
-      "user": "Andrey Rybka"
-    },
-    {
-      "title": "A Data Company in an AI World",
-      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
-      "published_at": "2026-10-14T12:05:44Z",
-      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
-      "tags": [
-        "ai",
-        "finance",
-        "interview",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
       "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
       "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p",
       "published_at": "2026-10-14T12:05:21Z",
@@ -268,6 +238,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png",
       "source": "Dev.to",
       "user": "Tom Wheeler"
+    },
+    {
+      "title": "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
+      "url": "https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a",
+      "published_at": "2026-10-14T12:03:42Z",
+      "description": "For financial technology institutions operating at enterprise scale, the initial wave of Generative...",
+      "tags": [
+        "ai",
+        "agents",
+        "fintech",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdow1p4av91zqti4tt9c3.png",
+      "source": "Dev.to",
+      "user": "Andrey Rybka"
+    },
+    {
+      "title": "Operational intelligence is sociotechnical",
+      "url": "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627",
+      "published_at": "2026-10-14T12:04:31Z",
+      "description": "A scan of the Slack channels for a recent private equity deployment of Clonal (our operational...",
+      "tags": [
+        "ai",
+        "fintech",
+        "design",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp5cgof3acfh7v4n5cdep.png",
+      "source": "Dev.to",
+      "user": "Spencer Pitman"
     },
     {
       "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
@@ -328,21 +328,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0ymi9mxkutkl1kco6bt.png",
       "source": "Dev.to",
       "user": "Allen Firstenberg"
-    },
-    {
-      "title": "What 9,050 AI-Written Scripts Taught Me About Slop",
-      "url": "https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n",
-      "published_at": "2026-10-12T21:03:36Z",
-      "description": "You’ve read way too many versions of this paragraph already. Probably even this week:   “In today’s...",
-      "tags": [
-        "ai",
-        "llm",
-        "aie",
-        "openweight"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jcfndik4zmecrxf21x7.png",
-      "source": "Dev.to",
-      "user": "Louis-Francois Bouchard"
     },
     {
       "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
@@ -464,36 +449,6 @@
       "user": "Nicholas Arcolano"
     },
     {
-      "title": "AI Needs a Test That Fights Back",
-      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
-      "published_at": "2026-10-12T21:03:49Z",
-      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
-      "tags": [
-        "ai",
-        "opensource",
-        "testing",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
-      "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
-    },
-    {
-      "title": "Local embeddings with llamadart: how llamas share secrets",
-      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
-      "published_at": "2026-10-12T18:18:49Z",
-      "description": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
-      "tags": [
-        "dart",
-        "ai",
-        "flutter",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
       "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
       "published_at": "2026-10-13T00:57:26Z",
@@ -567,6 +522,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6327qvxugwt1kxl9qouz.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
+    },
+    {
+      "title": "What 9,050 AI-Written Scripts Taught Me About Slop",
+      "url": "https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n",
+      "published_at": "2026-10-12T21:03:36Z",
+      "description": "You’ve read way too many versions of this paragraph already. Probably even this week:   “In today’s...",
+      "tags": [
+        "ai",
+        "llm",
+        "aie",
+        "openweight"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5jcfndik4zmecrxf21x7.png",
+      "source": "Dev.to",
+      "user": "Louis-Francois Bouchard"
     },
     {
       "title": "We moved a production backend from a phone",
@@ -760,6 +730,36 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "Local embeddings with llamadart: how llamas share secrets",
+      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
+      "published_at": "2026-10-12T18:18:49Z",
+      "description": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
+      "tags": [
+        "dart",
+        "ai",
+        "flutter",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
+      "title": "AI Needs a Test That Fights Back",
+      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "published_at": "2026-10-12T21:03:49Z",
+      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
+      "tags": [
+        "ai",
+        "opensource",
+        "testing",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
       "title": "What The Rebirth of Classifiers Tells Us About ChatGPT's Success",
       "url": "https://dev.to/dailycontext/what-the-rebirth-of-classifiers-tells-us-about-chatgpts-success-d90",
       "published_at": "2026-10-12T21:02:39Z",
@@ -943,21 +943,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "published_at": "2026-10-08T10:12:49Z",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
-      "source": "GitHub",
-      "stars": 9909,
-      "user": "wheresryan22"
-    },
-    {
       "title": "marclou/mailcheap - The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
       "url": "https://github.com/marclou/mailcheap",
       "published_at": "2026-10-10T12:55:36Z",
@@ -969,8 +954,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 930,
       "user": "marclou"
+    },
+    {
+      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "url": "https://github.com/nateherkai/roast-room",
+      "published_at": "2026-10-10T20:38:58Z",
+      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "nateherkai"
     },
     {
       "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
@@ -984,7 +984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 2063,
+      "stars": 2076,
       "user": "onehumanbeing"
     },
     {
@@ -999,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 955,
       "user": "zhuyansen"
     },
     {
@@ -1018,36 +1018,6 @@
       "user": "jwuthri-cloud"
     },
     {
-      "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "url": "https://github.com/mhtsec/ARTEX",
-      "published_at": "2026-10-08T05:33:06Z",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
-      "source": "GitHub",
-      "stars": 4070,
-      "user": "mhtsec"
-    },
-    {
-      "title": "trhhubsd/ARTEXX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "url": "https://github.com/trhhubsd/ARTEXX",
-      "published_at": "2026-10-08T20:35:22Z",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
-      "source": "GitHub",
-      "stars": 1206,
-      "user": "trhhubsd"
-    },
-    {
       "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
       "url": "https://github.com/aindeev/agent-chrome-relay",
       "published_at": "2026-10-10T07:38:27Z",
@@ -1059,8 +1029,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 283,
       "user": "aindeev"
+    },
+    {
+      "title": "bdg9412/artex-ko-plus - ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/bdg9412/artex-ko-plus",
+      "published_at": "2026-10-09T11:36:03Z",
+      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
+      "source": "GitHub",
+      "stars": 184,
+      "user": "bdg9412"
+    },
+    {
+      "title": "ntailio/ntk - Fast, friendly CLI and TUI for Apache Kafka: inspect clusters, move messages, watch lag, and fix things from one binary.",
+      "url": "https://github.com/ntailio/ntk",
+      "published_at": "2026-10-09T11:03:38Z",
+      "description": "Fast, friendly CLI and TUI for Apache Kafka: inspect clusters, move messages, watch lag, and fix things from one binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/339582598?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "ntailio"
     },
     {
       "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
@@ -1074,23 +1074,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1001,
       "user": "rociiu"
-    },
-    {
-      "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
-      "url": "https://github.com/ThariqS/ai-newtab",
-      "published_at": "2026-10-08T17:44:43Z",
-      "description": "Claude generates a daily new tab page based on your browser history.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
-      "source": "GitHub",
-      "stars": 795,
-      "user": "ThariqS"
     },
     {
       "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
@@ -1104,8 +1089,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 736,
       "user": "CoolkHz"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 647,
+      "user": "outcrawlai"
     },
     {
       "title": "Factor 0.102 now available",
@@ -1133,6 +1133,19 @@
       "user": "user1032531"
     },
     {
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "published_at": "2026-10-15T00:00:00.000Z",
+      "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
+      "tags": [
+        "Enterprise",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
       "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
       "published_at": "2026-10-14T22:00:00.000Z",
@@ -1141,7 +1154,8 @@
         "Enterprise",
         "Startups",
         "databases",
-        "battlefield 20"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1224,22 +1238,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anna Heim"
-    },
-    {
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "published_at": "2026-10-14T18:23:46.000Z",
-      "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "YouTube",
-        "YouTube Music"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "How to Stop an AI Agent from Inventing Nigerian Postcodes",
@@ -1508,36 +1506,6 @@
       "user": "velmu"
     },
     {
-      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "published_at": "2026-10-08T10:12:49Z",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
-      "source": "GitHub",
-      "stars": 9909,
-      "user": "wheresryan22"
-    },
-    {
-      "title": "T-Auto/dsh-ops - A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "url": "https://github.com/T-Auto/dsh-ops",
-      "published_at": "2026-10-08T07:09:25Z",
-      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
-      "source": "GitHub",
-      "stars": 1530,
-      "user": "T-Auto"
-    },
-    {
       "title": "marclou/mailcheap - The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
       "url": "https://github.com/marclou/mailcheap",
       "published_at": "2026-10-10T12:55:36Z",
@@ -1549,23 +1517,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 930,
       "user": "marclou"
-    },
-    {
-      "title": "tcchen2026/VibeOffice - A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
-      "url": "https://github.com/tcchen2026/VibeOffice",
-      "published_at": "2026-10-08T05:51:30Z",
-      "description": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264924385?v=4",
-      "source": "GitHub",
-      "stars": 781,
-      "user": "tcchen2026"
     },
     {
       "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
@@ -1579,8 +1532,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 761,
       "user": "HeyPuter"
+    },
+    {
+      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "url": "https://github.com/nateherkai/roast-room",
+      "published_at": "2026-10-10T20:38:58Z",
+      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "nateherkai"
+    },
+    {
+      "title": "threerocks/sweety-handdraw-video - 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "url": "https://github.com/threerocks/sweety-handdraw-video",
+      "published_at": "2026-10-12T12:16:18Z",
+      "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
+      "source": "GitHub",
+      "stars": 390,
+      "user": "threerocks"
+    },
+    {
+      "title": "rayytor/desktop_gifs - Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "url": "https://github.com/rayytor/desktop_gifs",
+      "published_at": "2026-10-11T05:43:14Z",
+      "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
+      "source": "GitHub",
+      "stars": 370,
+      "user": "rayytor"
     },
     {
       "title": "shaongitbd/doory - Open source canva alternative",
@@ -1594,7 +1592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1199,
       "user": "shaongitbd"
     },
     {
@@ -1609,23 +1607,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1001,
       "user": "rociiu"
-    },
-    {
-      "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
-      "url": "https://github.com/ThariqS/ai-newtab",
-      "published_at": "2026-10-08T17:44:43Z",
-      "description": "Claude generates a daily new tab page based on your browser history.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
-      "source": "GitHub",
-      "stars": 795,
-      "user": "ThariqS"
     },
     {
       "title": "YeonwooSung/my-claude-code-mods - Custom Claude Code Mods that I need",
@@ -1639,7 +1622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 777,
       "user": "YeonwooSung"
     },
     {
@@ -1654,14 +1637,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 736,
       "user": "CoolkHz"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 647,
+      "user": "outcrawlai"
     },
     {
       "title": "How to override styles of React component with vanilla extract?",
       "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
       "published_at": "2026-10-14T14:35:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "css",
@@ -1989,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 2063,
+      "stars": 2076,
       "user": "onehumanbeing"
     },
     {
@@ -2004,23 +2002,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1249,
       "user": "Arekejoker"
-    },
-    {
-      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "published_at": "2026-10-08T18:22:19Z",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
-      "source": "GitHub",
-      "stars": 1146,
-      "user": "wesbos"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -2034,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 955,
       "user": "zhuyansen"
     },
     {
@@ -2051,6 +2034,21 @@
       "source": "GitHub",
       "stars": 817,
       "user": "jwuthri-cloud"
+    },
+    {
+      "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "published_at": "2026-10-09T19:30:14Z",
+      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
+      "source": "GitHub",
+      "stars": 710,
+      "user": "n1tr00-10"
     },
     {
       "title": "How can I scrape a page with dynamic content (created by JavaScript) in Python?",
@@ -2110,7 +2108,7 @@
       "title": "Mtplotlib Histogram - Threshold where all values above it show accumulated in a single bar",
       "url": "https://stackoverflow.com/questions/80010019/mtplotlib-histogram-threshold-where-all-values-above-it-show-accumulated-in-a",
       "published_at": "2026-10-14T15:38:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "matplotlib",
@@ -2459,14 +2457,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 736,
       "user": "CoolkHz"
     },
     {
       "title": "How to override styles of React component with vanilla extract?",
       "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
       "published_at": "2026-10-14T14:35:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "css",
@@ -2584,19 +2582,35 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "published_at": "2026-10-08T18:22:19Z",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+      "title": "c22dev/muguet - A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+      "url": "https://github.com/c22dev/muguet",
+      "published_at": "2026-10-10T08:45:02Z",
+      "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
       "tags": [
-        "python",
+        "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 1146,
-      "user": "wesbos"
+      "stars": 598,
+      "user": "c22dev"
+    },
+    {
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "published_at": "2026-10-14T23:00:00.000Z",
+      "description": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "tags": [
+        "Biotech & Health",
+        "Startups",
+        "Battlefield",
+        "battlefield 20",
+        "Battlefield 200"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
@@ -2715,7 +2729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1001,
       "user": "rociiu"
     },
     {
@@ -2786,7 +2800,8 @@
         "Enterprise",
         "Startups",
         "databases",
-        "battlefield 20"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3032,18 +3047,17 @@
       "user": "ewenjo"
     },
     {
-      "title": "Awesome Gaming on Linux Without Cheating",
-      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-      "published_at": "2026-10-14T10:13:26.313-05:00",
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "published_at": "2026-10-14T10:55:52.017-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "games",
-        "linux",
-        "security"
+        "security",
+        "vcs"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "calvin"
+      "user": "janus"
     },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
@@ -3059,17 +3073,18 @@
       "user": "csomar"
     },
     {
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "published_at": "2026-10-14T10:55:52.017-05:00",
+      "title": "Awesome Gaming on Linux Without Cheating",
+      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "published_at": "2026-10-14T10:13:26.313-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "security",
-        "vcs"
+        "games",
+        "linux",
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "janus"
+      "user": "calvin"
     },
     {
       "title": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different",
@@ -3149,21 +3164,6 @@
       "user": "Nicholas Arcolano"
     },
     {
-      "title": "AI Needs a Test That Fights Back",
-      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
-      "published_at": "2026-10-12T21:03:49Z",
-      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
-      "tags": [
-        "ai",
-        "opensource",
-        "testing",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
-      "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
-    },
-    {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
       "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
       "published_at": "2026-10-13T00:57:26Z",
@@ -3224,6 +3224,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "AI Needs a Test That Fights Back",
+      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "published_at": "2026-10-12T21:03:49Z",
+      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
+      "tags": [
+        "ai",
+        "opensource",
+        "testing",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3260,36 +3275,6 @@
       "user": "pabs3"
     },
     {
-      "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "published_at": "2026-10-08T10:12:49Z",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/96392276?v=4",
-      "source": "GitHub",
-      "stars": 9909,
-      "user": "wheresryan22"
-    },
-    {
-      "title": "T-Auto/dsh-ops - A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "url": "https://github.com/T-Auto/dsh-ops",
-      "published_at": "2026-10-08T07:09:25Z",
-      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/183904010?v=4",
-      "source": "GitHub",
-      "stars": 1530,
-      "user": "T-Auto"
-    },
-    {
       "title": "marclou/mailcheap - The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
       "url": "https://github.com/marclou/mailcheap",
       "published_at": "2026-10-10T12:55:36Z",
@@ -3301,23 +3286,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 930,
       "user": "marclou"
-    },
-    {
-      "title": "tcchen2026/VibeOffice - A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
-      "url": "https://github.com/tcchen2026/VibeOffice",
-      "published_at": "2026-10-08T05:51:30Z",
-      "description": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264924385?v=4",
-      "source": "GitHub",
-      "stars": 781,
-      "user": "tcchen2026"
     },
     {
       "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
@@ -3331,8 +3301,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 761,
       "user": "HeyPuter"
+    },
+    {
+      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "url": "https://github.com/nateherkai/roast-room",
+      "published_at": "2026-10-10T20:38:58Z",
+      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "nateherkai"
+    },
+    {
+      "title": "threerocks/sweety-handdraw-video - 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "url": "https://github.com/threerocks/sweety-handdraw-video",
+      "published_at": "2026-10-12T12:16:18Z",
+      "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
+      "source": "GitHub",
+      "stars": 390,
+      "user": "threerocks"
+    },
+    {
+      "title": "rayytor/desktop_gifs - Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "url": "https://github.com/rayytor/desktop_gifs",
+      "published_at": "2026-10-11T05:43:14Z",
+      "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
+      "source": "GitHub",
+      "stars": 370,
+      "user": "rayytor"
     },
     {
       "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
@@ -3346,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20528382?v=4",
       "source": "GitHub",
-      "stars": 2063,
+      "stars": 2076,
       "user": "onehumanbeing"
     },
     {
@@ -3361,23 +3376,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1249,
       "user": "Arekejoker"
-    },
-    {
-      "title": "wesbos/photo-frame-dashboard - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "url": "https://github.com/wesbos/photo-frame-dashboard",
-      "published_at": "2026-10-08T18:22:19Z",
-      "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176013?v=4",
-      "source": "GitHub",
-      "stars": 1146,
-      "user": "wesbos"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -3391,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 955,
       "user": "zhuyansen"
     },
     {
@@ -3410,49 +3410,19 @@
       "user": "jwuthri-cloud"
     },
     {
-      "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "url": "https://github.com/mhtsec/ARTEX",
-      "published_at": "2026-10-08T05:33:06Z",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "title": "n1tr00-10/tiktok-web-signature - tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "published_at": "2026-10-09T19:30:14Z",
+      "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83952182?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/240963972?v=4",
       "source": "GitHub",
-      "stars": 4070,
-      "user": "mhtsec"
-    },
-    {
-      "title": "trhhubsd/ARTEXX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "url": "https://github.com/trhhubsd/ARTEXX",
-      "published_at": "2026-10-08T20:35:22Z",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91248508?v=4",
-      "source": "GitHub",
-      "stars": 1206,
-      "user": "trhhubsd"
-    },
-    {
-      "title": "Hinln/ARTEX - ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
-      "url": "https://github.com/Hinln/ARTEX",
-      "published_at": "2026-10-08T11:00:36Z",
-      "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70831136?v=4",
-      "source": "GitHub",
-      "stars": 763,
-      "user": "Hinln"
+      "stars": 710,
+      "user": "n1tr00-10"
     },
     {
       "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
@@ -3466,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 283,
       "user": "aindeev"
     },
     {
@@ -3481,8 +3451,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "RuoJi6"
+    },
+    {
+      "title": "bdg9412/artex-ko-plus - ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/bdg9412/artex-ko-plus",
+      "published_at": "2026-10-09T11:36:03Z",
+      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
+      "source": "GitHub",
+      "stars": 184,
+      "user": "bdg9412"
+    },
+    {
+      "title": "init-co-jp/diff-tour - Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+      "url": "https://github.com/init-co-jp/diff-tour",
+      "published_at": "2026-10-10T09:19:05Z",
+      "description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148442191?v=4",
+      "source": "GitHub",
+      "stars": 133,
+      "user": "init-co-jp"
+    },
+    {
+      "title": "ntailio/ntk - Fast, friendly CLI and TUI for Apache Kafka: inspect clusters, move messages, watch lag, and fix things from one binary.",
+      "url": "https://github.com/ntailio/ntk",
+      "published_at": "2026-10-09T11:03:38Z",
+      "description": "Fast, friendly CLI and TUI for Apache Kafka: inspect clusters, move messages, watch lag, and fix things from one binary.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/339582598?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "ntailio"
     },
     {
       "title": "shaongitbd/doory - Open source canva alternative",
@@ -3496,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1199,
       "user": "shaongitbd"
     },
     {
@@ -3511,23 +3526,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1001,
       "user": "rociiu"
-    },
-    {
-      "title": "ThariqS/ai-newtab - Claude generates a daily new tab page based on your browser history.",
-      "url": "https://github.com/ThariqS/ai-newtab",
-      "published_at": "2026-10-08T17:44:43Z",
-      "description": "Claude generates a daily new tab page based on your browser history.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/140827?v=4",
-      "source": "GitHub",
-      "stars": 795,
-      "user": "ThariqS"
     },
     {
       "title": "YeonwooSung/my-claude-code-mods - Custom Claude Code Mods that I need",
@@ -3541,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 777,
       "user": "YeonwooSung"
     },
     {
@@ -3556,8 +3556,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 736,
       "user": "CoolkHz"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 647,
+      "user": "outcrawlai"
     },
     {
       "title": "storytold/craft-launcher - The Craft App Launcher",
@@ -3571,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2626,
+      "stars": 2649,
       "user": "storytold"
     },
     {
@@ -3586,23 +3601,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2244,
+      "stars": 2249,
       "user": "liseami"
-    },
-    {
-      "title": "noahdunnagan/fsearch - Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-      "url": "https://github.com/noahdunnagan/fsearch",
-      "published_at": "2026-10-08T17:50:33Z",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/119903110?v=4",
-      "source": "GitHub",
-      "stars": 2050,
-      "user": "noahdunnagan"
     },
     {
       "title": "opengeos/RustGIS - A fast, free and open-source GIS in pure Rust.",
@@ -3616,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 1037,
+      "stars": 1056,
       "user": "opengeos"
     },
     {
@@ -3631,8 +3631,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 909,
       "user": "storytold"
+    },
+    {
+      "title": "c22dev/muguet - A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+      "url": "https://github.com/c22dev/muguet",
+      "published_at": "2026-10-10T08:45:02Z",
+      "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
+      "source": "GitHub",
+      "stars": 598,
+      "user": "c22dev"
     },
     {
       "title": "GitLab warns of max severity code execution vulnerability",
@@ -3646,6 +3661,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "janus"
+    },
+    {
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "published_at": "2026-10-14T23:00:00.000Z",
+      "description": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "tags": [
+        "Biotech & Health",
+        "Startups",
+        "Battlefield",
+        "battlefield 20",
+        "Battlefield 200"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "How to Stop an AI Agent from Inventing Nigerian Postcodes",
