@@ -970,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1051,
       "user": "marclou"
     },
     {
@@ -985,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 619,
       "user": "nateherkai"
     },
     {
@@ -1000,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1023,
       "user": "zhuyansen"
     },
     {
@@ -1015,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 824,
       "user": "jwuthri-cloud"
     },
     {
@@ -1045,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 187,
       "user": "bdg9412"
     },
     {
@@ -1060,23 +1060,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1138,
       "user": "rociiu"
-    },
-    {
-      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "published_at": "2026-10-12T09:19:02Z",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
-      "source": "GitHub",
-      "stars": 961,
-      "user": "deeplethe"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -1090,21 +1075,63 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 1017,
       "user": "chenglou"
+    },
+    {
+      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "published_at": "2026-10-12T09:19:02Z",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
+      "source": "GitHub",
+      "stars": 962,
+      "user": "deeplethe"
+    },
+    {
+      "title": "Forgejo v17.0 is available",
+      "url": "https://forgejo.org/2026-10-release-v17-0/",
+      "published_at": "2026-10-15T14:43:19.853-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
     },
     {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
       "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
       "published_at": "2026-10-15T20:58:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
+        "async-await",
         "requestanimationframe"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mandoguy"
+    },
+    {
+      "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "published_at": "2026-10-15T23:44:56.000Z",
+      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
@@ -1213,38 +1240,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-      "published_at": "2026-10-15T16:45:37.000Z",
-      "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-      "tags": [
-        "Enterprise",
-        "Government & Policy",
-        "semiconductor chips",
-        "semiconductor export ban",
-        "SK Hynix"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "AI agents are coming to Rivian&#8217;s cars",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "published_at": "2026-10-15T15:02:36.000Z",
-      "description": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
-      "tags": [
-        "Transportation",
-        "AI",
-        "electric vehicles",
-        "EVs",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -1501,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1298,
       "user": "HeyPuter"
     },
     {
@@ -1516,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1051,
       "user": "marclou"
     },
     {
@@ -1531,7 +1526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 619,
       "user": "nateherkai"
     },
     {
@@ -1546,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 528,
       "user": "threerocks"
     },
     {
@@ -1561,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 449,
       "user": "rayytor"
     },
     {
@@ -1576,7 +1571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "shaongitbd"
     },
     {
@@ -1591,23 +1586,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1138,
       "user": "rociiu"
-    },
-    {
-      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "published_at": "2026-10-12T09:19:02Z",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
-      "source": "GitHub",
-      "stars": 961,
-      "user": "deeplethe"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -1621,8 +1601,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 1017,
       "user": "chenglou"
+    },
+    {
+      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "published_at": "2026-10-12T09:19:02Z",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
+      "source": "GitHub",
+      "stars": 962,
+      "user": "deeplethe"
     },
     {
       "title": "YeonwooSung/my-claude-code-mods - Custom Claude Code Mods that I need",
@@ -1640,12 +1635,27 @@
       "user": "YeonwooSung"
     },
     {
+      "title": "Facebook Page Plugin Stopped Working w/o Deploying",
+      "url": "https://stackoverflow.com/questions/80010400/facebook-page-plugin-stopped-working-w-o-deploying",
+      "published_at": "2026-10-15T22:25:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "facebook",
+        "facebook-javascript-sdk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chris Happy"
+    },
+    {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
       "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
       "published_at": "2026-10-15T20:58:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
+        "async-await",
         "requestanimationframe"
       ],
       "cover_image": null,
@@ -1656,7 +1666,7 @@
       "title": "CounterFactory Troubleshooting",
       "url": "https://stackoverflow.com/questions/80010376/counterfactory-troubleshooting",
       "published_at": "2026-10-15T19:58:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "function"
@@ -1669,7 +1679,7 @@
       "title": "How do I scrape streams from streaming sites like VidSRC, vidfast or any other equivalent site",
       "url": "https://stackoverflow.com/questions/80010348/how-do-i-scrape-streams-from-streaming-sites-like-vidsrc-vidfast-or-any-other-e",
       "published_at": "2026-10-15T16:57:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "streaming",
@@ -1760,20 +1770,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thom Smith"
-    },
-    {
-      "title": "Playing songs back to back in autoplay in a website",
-      "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
-      "published_at": "2026-10-09T18:09:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "autoplay"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jctech2025"
     },
     {
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
@@ -1986,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 2009,
       "user": "Arekejoker"
     },
     {
@@ -2001,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1023,
       "user": "zhuyansen"
     },
     {
@@ -2016,23 +2012,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 909,
       "user": "chenwei810"
-    },
-    {
-      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
-      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "published_at": "2026-10-11T15:38:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
-      "source": "GitHub",
-      "stars": 825,
-      "user": "jwuthri-cloud"
     },
     {
       "title": "SubmitGame/awesome-decomp-games - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
@@ -2046,8 +2027,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334859005?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 841,
       "user": "SubmitGame"
+    },
+    {
+      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "published_at": "2026-10-11T15:38:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
+      "source": "GitHub",
+      "stars": 824,
+      "user": "jwuthri-cloud"
+    },
+    {
+      "title": "Can I broadcast with numpy character find",
+      "url": "https://stackoverflow.com/questions/80010398/can-i-broadcast-with-numpy-character-find",
+      "published_at": "2026-10-15T22:19:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "numpy",
+        "substring"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "I.P. Freeley"
     },
     {
       "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
@@ -2094,7 +2104,7 @@
       "title": "Requests cache does not store requests or use cache",
       "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
       "published_at": "2026-10-14T15:10:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
         "caching",
@@ -2172,22 +2182,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "raphf"
-    },
-    {
-      "title": "How can I update the font size for all of the UI in pyqt",
-      "url": "https://stackoverflow.com/questions/80009992/how-can-i-update-the-font-size-for-all-of-the-ui-in-pyqt",
-      "published_at": "2026-10-14T13:56:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "user-interface",
-        "fonts",
-        "pyqt",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hossein Dastoory"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -2448,20 +2442,6 @@
       "user": "Billy Moon"
     },
     {
-      "title": "Playing songs back to back in autoplay in a website",
-      "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
-      "published_at": "2026-10-09T18:09:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "autoplay"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jctech2025"
-    },
-    {
       "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
       "url": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
       "published_at": "2026-10-15T04:40:21.000Z",
@@ -2580,8 +2560,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "c22dev"
+    },
+    {
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "published_at": "2026-10-15T23:33:45.000Z",
+      "description": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+      "tags": [
+        "Startups",
+        "Startup Battlefield",
+        "TechCrunch Disrupt",
+        "TechCrunch Disrupt 2026"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
     }
   ],
   "Cloud": [
@@ -2702,7 +2697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 824,
       "user": "jwuthri-cloud"
     },
     {
@@ -2717,7 +2712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1138,
       "user": "rociiu"
     },
     {
@@ -3216,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1298,
       "user": "HeyPuter"
     },
     {
@@ -3231,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1051,
       "user": "marclou"
     },
     {
@@ -3246,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 619,
       "user": "nateherkai"
     },
     {
@@ -3261,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 528,
       "user": "threerocks"
     },
     {
@@ -3276,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 449,
       "user": "rayytor"
     },
     {
@@ -3291,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1980,
+      "stars": 2009,
       "user": "Arekejoker"
     },
     {
@@ -3306,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1022,
+      "stars": 1023,
       "user": "zhuyansen"
     },
     {
@@ -3321,23 +3316,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 909,
       "user": "chenwei810"
-    },
-    {
-      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
-      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "published_at": "2026-10-11T15:38:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
-      "source": "GitHub",
-      "stars": 825,
-      "user": "jwuthri-cloud"
     },
     {
       "title": "SubmitGame/awesome-decomp-games - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
@@ -3351,8 +3331,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334859005?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 841,
       "user": "SubmitGame"
+    },
+    {
+      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "published_at": "2026-10-11T15:38:03Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
+      "source": "GitHub",
+      "stars": 824,
+      "user": "jwuthri-cloud"
     },
     {
       "title": "feder-cr/open_scion - Open-source version of Scion: version control built for coding agents.",
@@ -3366,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 701,
       "user": "feder-cr"
     },
     {
@@ -3411,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 187,
       "user": "bdg9412"
     },
     {
@@ -3426,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148442191?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "init-co-jp"
     },
     {
@@ -3441,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1305,
       "user": "shaongitbd"
     },
     {
@@ -3456,23 +3451,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1138,
       "user": "rociiu"
-    },
-    {
-      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "published_at": "2026-10-12T09:19:02Z",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
-      "source": "GitHub",
-      "stars": 961,
-      "user": "deeplethe"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -3486,8 +3466,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 1017,
       "user": "chenglou"
+    },
+    {
+      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "published_at": "2026-10-12T09:19:02Z",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
+      "source": "GitHub",
+      "stars": 962,
+      "user": "deeplethe"
     },
     {
       "title": "YeonwooSung/my-claude-code-mods - Custom Claude Code Mods that I need",
@@ -3516,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2849,
+      "stars": 2863,
       "user": "storytold"
     },
     {
@@ -3546,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1378,
+      "stars": 1403,
       "user": "storytold"
     },
     {
@@ -3561,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 1200,
+      "stars": 1215,
       "user": "opengeos"
     },
     {
@@ -3576,21 +3571,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "c22dev"
-    },
-    {
-      "title": "Haxy.net is live! — HAXY (git forge) devlog",
-      "url": "https://youtu.be/89yAiqYEwKg",
-      "published_at": "2026-10-15T02:47:41.027-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jeffective"
     },
     {
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
