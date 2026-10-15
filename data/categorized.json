@@ -166,6 +166,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
+      "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
+      "published_at": "2026-10-14T12:03:18Z",
+      "description": "Getting an LLM-powered feature to work in a demo takes an afternoon. But getting it to produce the...",
+      "tags": [
+        "ai",
+        "llm",
+        "hackathon",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsw4p4eocpl5f05symejg.png",
+      "source": "Dev.to",
+      "user": "Maithili Jha"
+    },
+    {
       "title": "Operational intelligence is sociotechnical",
       "url": "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627",
       "published_at": "2026-10-14T12:04:31Z",
@@ -194,21 +209,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
-      "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
-      "published_at": "2026-10-14T12:03:18Z",
-      "description": "Getting an LLM-powered feature to work in a demo takes an afternoon. But getting it to produce the...",
-      "tags": [
-        "ai",
-        "llm",
-        "hackathon",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsw4p4eocpl5f05symejg.png",
-      "source": "Dev.to",
-      "user": "Maithili Jha"
     },
     {
       "title": "Where to Spend Your Week at AI Engineer New York",
@@ -316,6 +316,21 @@
       "user": "Robina Mirbahar"
     },
     {
+      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
+      "url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
+      "published_at": "2026-10-14T12:04:49Z",
+      "description": "Have you ever told your AI agent something important, only to realize a few conversations later that...",
+      "tags": [
+        "ai",
+        "agents",
+        "memory",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png",
+      "source": "Dev.to",
+      "user": "Sparsh Jain"
+    },
+    {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
       "published_at": "2026-10-12T10:30:20Z",
@@ -331,19 +346,19 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
-      "url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
-      "published_at": "2026-10-14T12:04:49Z",
-      "description": "Have you ever told your AI agent something important, only to realize a few conversations later that...",
+      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
+      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
+      "published_at": "2026-10-14T12:04:58Z",
+      "description": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
       "tags": [
         "ai",
         "agents",
-        "memory",
+        "fintech",
         "aie"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgeuf5lerc4zthaecs7m.png",
       "source": "Dev.to",
-      "user": "Sparsh Jain"
+      "user": "Anirudh Veeraragavan"
     },
     {
       "title": "A World Worth Understanding",
@@ -389,21 +404,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
-      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
-      "published_at": "2026-10-14T12:04:58Z",
-      "description": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
-      "tags": [
-        "ai",
-        "agents",
-        "fintech",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgeuf5lerc4zthaecs7m.png",
-      "source": "Dev.to",
-      "user": "Anirudh Veeraragavan"
     },
     {
       "title": "An Agent’s Plan Isn’t Permission",
@@ -776,6 +776,21 @@
       "user": "Denys Linkov"
     },
     {
+      "title": "Loop Engineering in the Harness: Autonomous, Self-Correcting Systems",
+      "url": "https://dev.to/gde/loop-engineering-in-the-harness-autonomous-self-correcting-systems-part-2-155e",
+      "published_at": "2026-10-12T21:36:09Z",
+      "description": "You are in Part 2 of the series \"Beyond Vibe Coding: The Engineering Blueprint for Reliable AI...",
+      "tags": [
+        "harnessengineering",
+        "loopengineering",
+        "agenticai",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AuSGq5Qw4wAeaN65vFMoY0g.png",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -955,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1035,
       "user": "marclou"
     },
     {
@@ -970,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 613,
       "user": "nateherkai"
     },
     {
@@ -985,7 +1000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1022,
       "user": "zhuyansen"
     },
     {
@@ -1000,7 +1015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 825,
       "user": "jwuthri-cloud"
     },
     {
@@ -1045,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1124,
       "user": "rociiu"
     },
     {
@@ -1060,23 +1075,128 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 961,
       "user": "deeplethe"
     },
     {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 818,
-      "user": "outcrawlai"
+      "stars": 951,
+      "user": "chenglou"
+    },
+    {
+      "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
+      "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
+      "published_at": "2026-10-15T20:58:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "requestanimationframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mandoguy"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "published_at": "2026-10-15T20:38:13.000Z",
+      "description": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "Amazon",
+        "panos panay",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "published_at": "2026-10-15T20:04:53.000Z",
+      "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "tags": [
+        "AI",
+        "Apple",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "published_at": "2026-10-15T19:55:25.000Z",
+      "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Amazon",
+        "bee"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "published_at": "2026-10-15T19:29:05.000Z",
+      "description": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+      "tags": [
+        "Apps",
+        "Social",
+        "Bluesky",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "published_at": "2026-10-15T19:14:26.000Z",
+      "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "model evaluation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "published_at": "2026-10-15T18:56:46.000Z",
+      "description": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Bluesky",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
@@ -1125,85 +1245,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sean O'Kane"
-    },
-    {
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-      "published_at": "2026-10-15T14:47:09.000Z",
-      "description": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-      "tags": [
-        "Fintech",
-        "Fundraising",
-        "Startups",
-        "ai tokens",
-        "expense management"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "published_at": "2026-10-15T14:29:33.000Z",
-      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Commerce",
-        "e-commerce",
-        "gemini"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "published_at": "2026-10-15T14:00:00.000Z",
-      "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Biotech & Health",
-        "Climate",
-        "Fintech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "published_at": "2026-10-15T12:00:00.000Z",
-      "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting a",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "Alexa",
-        "Amazon"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "published_at": "2026-10-15T04:30:00.000Z",
-      "description": "Figma is also releasing its code layers feature in open beta.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Figma",
-        "India"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -1327,19 +1368,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcozy-ai-agent-cafe-game%2Fmain%2Fassets%2Fcozy_ai_cafe_banner.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
-    },
-    {
-      "title": "Verifying Google Cloud egress IP ranges with cloud.json and jq",
-      "url": "https://dev.to/googlecloud/verifying-google-cloud-egress-ip-ranges-with-cloudjson-and-jq-212o",
-      "published_at": "2026-10-13T13:03:00Z",
-      "description": "How to use gcloud, cloud.json, and jq to map your Google Cloud external IPs to their published regional prefixes when troubleshooting outbound firewall drops.",
-      "tags": [
-        "googlecloud",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fizhazi09ytn091f7dvb2.png",
-      "source": "Dev.to",
-      "user": "Zach S."
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1473,7 +1501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1257,
       "user": "HeyPuter"
     },
     {
@@ -1488,7 +1516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1035,
       "user": "marclou"
     },
     {
@@ -1503,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 613,
       "user": "nateherkai"
     },
     {
@@ -1518,7 +1546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 524,
       "user": "threerocks"
     },
     {
@@ -1533,7 +1561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 443,
       "user": "rayytor"
     },
     {
@@ -1548,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1303,
       "user": "shaongitbd"
     },
     {
@@ -1563,7 +1591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1124,
       "user": "rociiu"
     },
     {
@@ -1578,8 +1606,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 961,
       "user": "deeplethe"
+    },
+    {
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "source": "GitHub",
+      "stars": 951,
+      "user": "chenglou"
     },
     {
       "title": "YeonwooSung/my-claude-code-mods - Custom Claude Code Mods that I need",
@@ -1593,29 +1636,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 831,
       "user": "YeonwooSung"
     },
     {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
+      "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
+      "published_at": "2026-10-15T20:58:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "requestanimationframe"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
-      "source": "GitHub",
-      "stars": 818,
-      "user": "outcrawlai"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mandoguy"
+    },
+    {
+      "title": "CounterFactory Troubleshooting",
+      "url": "https://stackoverflow.com/questions/80010376/counterfactory-troubleshooting",
+      "published_at": "2026-10-15T19:58:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "function"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Summer"
     },
     {
       "title": "How do I scrape streams from streaming sites like VidSRC, vidfast or any other equivalent site",
       "url": "https://stackoverflow.com/questions/80010348/how-do-i-scrape-streams-from-streaming-sites-like-vidsrc-vidfast-or-any-other-e",
       "published_at": "2026-10-15T16:57:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "streaming",
@@ -1708,20 +1762,6 @@
       "user": "Thom Smith"
     },
     {
-      "title": "How can I validate a specific field in a JSON response using Postman?",
-      "url": "https://stackoverflow.com/questions/80009138/how-can-i-validate-a-specific-field-in-a-json-response-using-postman",
-      "published_at": "2026-10-10T16:40:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "json",
-        "postman"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad UmarHayat"
-    },
-    {
       "title": "Playing songs back to back in autoplay in a website",
       "url": "https://stackoverflow.com/questions/80008972/playing-songs-back-to-back-in-autoplay-in-a-website",
       "published_at": "2026-10-09T18:09:12.000Z",
@@ -1734,20 +1774,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jctech2025"
-    },
-    {
-      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
-      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
-      "published_at": "2011-07-01T17:48:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 332",
-      "tags": [
-        "javascript",
-        "html",
-        "github"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Domenic"
     },
     {
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
@@ -1960,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1948,
+      "stars": 1980,
       "user": "Arekejoker"
     },
     {
@@ -1975,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1022,
       "user": "zhuyansen"
     },
     {
@@ -1990,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 898,
       "user": "chenwei810"
     },
     {
@@ -2005,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 825,
       "user": "jwuthri-cloud"
     },
     {
@@ -2020,14 +2046,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334859005?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 813,
       "user": "SubmitGame"
+    },
+    {
+      "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
+      "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
+      "published_at": "2026-10-15T21:09:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "amazon-web-services",
+        "aws-lambda"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mazianos"
     },
     {
       "title": "How I can prevent flickering when I render graphics directly to Linux framebuffer using python?",
       "url": "https://stackoverflow.com/questions/80010354/how-i-can-prevent-flickering-when-i-render-graphics-directly-to-linux-framebuffe",
       "published_at": "2026-10-15T17:57:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "linux",
@@ -2051,6 +2091,20 @@
       "user": "Christos Hayward"
     },
     {
+      "title": "Requests cache does not store requests or use cache",
+      "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
+      "published_at": "2026-10-14T15:10:06.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "caching",
+        "python-requests"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeyekomon"
+    },
+    {
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
       "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
       "published_at": "2026-10-15T09:52:19.000Z",
@@ -2064,20 +2118,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stefisha"
-    },
-    {
-      "title": "Requests cache does not store requests or use cache",
-      "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
-      "published_at": "2026-10-14T15:10:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "caching",
-        "python-requests"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeyekomon"
     },
     {
       "title": "googletrans - python - Is not translating",
@@ -2148,19 +2188,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hossein Dastoory"
-    },
-    {
-      "title": "How do I force multiple pygame windows to be unable to minimize?",
-      "url": "https://stackoverflow.com/questions/80009744/how-do-i-force-multiple-pygame-windows-to-be-unable-to-minimize",
-      "published_at": "2026-10-13T15:21:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pink Acorn"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -2435,20 +2462,6 @@
       "user": "jctech2025"
     },
     {
-      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
-      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
-      "published_at": "2011-07-01T17:48:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 332",
-      "tags": [
-        "javascript",
-        "html",
-        "github"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Domenic"
-    },
-    {
       "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
       "url": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
       "published_at": "2026-10-15T04:40:21.000Z",
@@ -2567,7 +2580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 619,
       "user": "c22dev"
     }
   ],
@@ -2586,6 +2599,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
+      "published_at": "2026-10-15T16:38:38Z",
+      "description": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measured, and what I learned.",
+      "tags": [
+        "duckdb",
+        "googlecloud",
+        "dataengineering",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftosun-si%2Fduckless%2Fmain%2Fassets%2Fbrand%2Fduckless-social.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
     },
     {
       "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
@@ -2633,19 +2661,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Verifying Google Cloud egress IP ranges with cloud.json and jq",
-      "url": "https://dev.to/googlecloud/verifying-google-cloud-egress-ip-ranges-with-cloudjson-and-jq-212o",
-      "published_at": "2026-10-13T13:03:00Z",
-      "description": "How to use gcloud, cloud.json, and jq to map your Google Cloud external IPs to their published regional prefixes when troubleshooting outbound firewall drops.",
-      "tags": [
-        "googlecloud",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fizhazi09ytn091f7dvb2.png",
-      "source": "Dev.to",
-      "user": "Zach S."
-    },
-    {
       "title": "We moved a production backend from a phone",
       "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
       "published_at": "2026-10-13T13:19:33Z",
@@ -2687,7 +2702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 825,
       "user": "jwuthri-cloud"
     },
     {
@@ -2702,8 +2717,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1124,
       "user": "rociiu"
+    },
+    {
+      "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
+      "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
+      "published_at": "2026-10-15T21:09:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "amazon-web-services",
+        "aws-lambda"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mazianos"
     },
     {
       "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
@@ -3002,22 +3031,6 @@
       "user": "gmem"
     },
     {
-      "title": "Citizen Lab says governments are abusing online ads to hack people with &#8216;zero-click&#8217; spyware",
-      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-      "published_at": "2026-10-15T10:00:00.000Z",
-      "description": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
-      "tags": [
-        "Security",
-        "Al JAzeera",
-        "Citizen Lab",
-        "cybersecurity",
-        "government spyware"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
       "url": "https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/",
       "published_at": "2026-10-15T05:02:26.000Z",
@@ -3203,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1257,
       "user": "HeyPuter"
     },
     {
@@ -3218,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1035,
       "user": "marclou"
     },
     {
@@ -3233,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 613,
       "user": "nateherkai"
     },
     {
@@ -3248,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 524,
       "user": "threerocks"
     },
     {
@@ -3263,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 443,
       "user": "rayytor"
     },
     {
@@ -3278,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 1948,
+      "stars": 1980,
       "user": "Arekejoker"
     },
     {
@@ -3293,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1019,
+      "stars": 1022,
       "user": "zhuyansen"
     },
     {
@@ -3308,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 898,
       "user": "chenwei810"
     },
     {
@@ -3323,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 825,
       "user": "jwuthri-cloud"
     },
     {
@@ -3338,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334859005?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 813,
       "user": "SubmitGame"
     },
     {
@@ -3353,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 684,
       "user": "feder-cr"
     },
     {
@@ -3413,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148442191?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "init-co-jp"
     },
     {
@@ -3428,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 1303,
       "user": "shaongitbd"
     },
     {
@@ -3443,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1124,
       "user": "rociiu"
     },
     {
@@ -3458,8 +3471,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 961,
       "user": "deeplethe"
+    },
+    {
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "source": "GitHub",
+      "stars": 951,
+      "user": "chenglou"
     },
     {
       "title": "YeonwooSung/my-claude-code-mods - Custom Claude Code Mods that I need",
@@ -3473,23 +3501,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 831,
       "user": "YeonwooSung"
-    },
-    {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
-      "source": "GitHub",
-      "stars": 818,
-      "user": "outcrawlai"
     },
     {
       "title": "storytold/craft-launcher - The Craft App Launcher",
@@ -3503,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 2823,
+      "stars": 2849,
       "user": "storytold"
     },
     {
@@ -3518,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2336,
+      "stars": 2338,
       "user": "liseami"
     },
     {
@@ -3533,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1343,
+      "stars": 1378,
       "user": "storytold"
     },
     {
@@ -3548,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 1181,
+      "stars": 1200,
       "user": "opengeos"
     },
     {
@@ -3563,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 619,
       "user": "c22dev"
     },
     {
@@ -3580,20 +3593,6 @@
       "user": "jeffective"
     },
     {
-      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
-      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
-      "published_at": "2011-07-01T17:48:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 332",
-      "tags": [
-        "javascript",
-        "html",
-        "github"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Domenic"
-    },
-    {
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
       "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
       "published_at": "2026-10-15T09:52:19.000Z",
@@ -3607,38 +3606,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stefisha"
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "published_at": "2026-10-15T14:29:33.000Z",
-      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Commerce",
-        "e-commerce",
-        "gemini"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Citizen Lab says governments are abusing online ads to hack people with &#8216;zero-click&#8217; spyware",
-      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
-      "published_at": "2026-10-15T10:00:00.000Z",
-      "description": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
-      "tags": [
-        "Security",
-        "Al JAzeera",
-        "Citizen Lab",
-        "cybersecurity",
-        "government spyware"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
