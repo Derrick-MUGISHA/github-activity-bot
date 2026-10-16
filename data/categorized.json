@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+      "published_at": "2026-10-16T17:40:16Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
       "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
       "published_at": "2026-10-16T15:14:10Z",
@@ -14,6 +29,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c",
+      "published_at": "2026-10-16T17:38:26Z",
+      "description": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb7e44kjkpbkx2l19bgvj.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
@@ -61,21 +90,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Are You Smarter Than a Fruit Fly?",
-      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
-      "published_at": "2026-10-14T12:04:21Z",
-      "description": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
-      "tags": [
-        "ai",
-        "codereview",
-        "agents",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
-      "source": "Dev.to",
-      "user": "Nick Nisi"
-    },
-    {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
       "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
       "published_at": "2026-10-16T05:36:01Z",
@@ -89,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Are You Smarter Than a Fruit Fly?",
+      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
+      "published_at": "2026-10-14T12:04:21Z",
+      "description": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
+      "tags": [
+        "ai",
+        "codereview",
+        "agents",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
+      "source": "Dev.to",
+      "user": "Nick Nisi"
     },
     {
       "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
@@ -194,21 +223,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp5cgof3acfh7v4n5cdep.png",
       "source": "Dev.to",
       "user": "Spencer Pitman"
-    },
-    {
-      "title": "Where to Spend Your Week at AI Engineer New York",
-      "url": "https://dev.to/dailycontext/where-to-spend-your-week-at-ai-engineer-new-york-3lg",
-      "published_at": "2026-10-11T19:42:14Z",
-      "description": "AI Engineer New York has 137 sessions on the schedule and up to five running at any given moment....",
-      "tags": [
-        "aie",
-        "agents",
-        "machinelearning",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7pw7k4fv2lxvjyotobdz.png",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
     },
     {
       "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
@@ -420,21 +434,6 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "You Should Know About System One Models",
-      "url": "https://dev.to/dailycontext/you-should-know-about-system-one-models-3a9a",
-      "published_at": "2026-10-11T19:43:13Z",
-      "description": "Production AI usually looks like this: stuff context into a prompt, ask a large language model a...",
-      "tags": [
-        "jev",
-        "ai",
-        "models",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9yjv4n8swbjedtkb64e4.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "For Agents, Waiting is the Hardest Part",
       "url": "https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik",
       "published_at": "2026-10-14T12:03:52Z",
@@ -463,21 +462,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "Your Guide to AI Engineer New York 2026",
-      "url": "https://dev.to/dailycontext/your-guide-to-ai-engineer-new-york-2026-2aol",
-      "published_at": "2026-10-11T19:43:07Z",
-      "description": "AI Engineer New York is here! This conference built for Wall Street. Banking, hedge funds, fintech,...",
-      "tags": [
-        "aie",
-        "ai",
-        "events",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6327qvxugwt1kxl9qouz.png",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
     },
     {
       "title": "THE UNHEARD: A Game That Sends You Outside, Teaches a Machine to Listen, and Makes It Prove Every Word",
@@ -553,21 +537,6 @@
       "user": "xbill"
     },
     {
-      "title": "Code is abundant. Confidence is a formula.",
-      "url": "https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6",
-      "published_at": "2026-10-12T21:01:56Z",
-      "description": "AI can make code creation abundant. The harder challenge is building confidence in what gets...",
-      "tags": [
-        "ai",
-        "agents",
-        "codequality",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchi4t2fjezcd9b8kxmib.png",
-      "source": "Dev.to",
-      "user": "Manish Kapur"
-    },
-    {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
       "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
       "published_at": "2026-10-12T21:03:17Z",
@@ -640,36 +609,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png",
       "source": "Dev.to",
       "user": "Sparsh Jain"
-    },
-    {
-      "title": "Does your agent have ID?",
-      "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok",
-      "published_at": "2026-10-11T19:42:56Z",
-      "description": "Last month, an AI agent in Denmark booked a coffee tasting and paid for it. Danske Bank and...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz09vp969urk3b4ys9l1m.png",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
-    },
-    {
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
-      "published_at": "2026-10-12T04:21:36Z",
-      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "The Model Is the Easy Part",
@@ -759,6 +698,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "AI Needs a Test That Fights Back",
+      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "published_at": "2026-10-12T21:03:49Z",
+      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
+      "tags": [
+        "ai",
+        "opensource",
+        "testing",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
+      "title": "What The Rebirth of Classifiers Tells Us About ChatGPT's Success",
+      "url": "https://dev.to/dailycontext/what-the-rebirth-of-classifiers-tells-us-about-chatgpts-success-d90",
+      "published_at": "2026-10-12T21:02:39Z",
+      "description": "One of the unexpected releases of Sept 2026 was Jev, a promptable classifier that took X and the...",
+      "tags": [
+        "ai",
+        "llm",
+        "chatgpt",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7bwzjdvauca7wc5vgfm.png",
+      "source": "Dev.to",
+      "user": "Denys Linkov"
+    },
+    {
+      "title": "Loop Engineering in the Harness: Autonomous, Self-Correcting Systems",
+      "url": "https://dev.to/gde/loop-engineering-in-the-harness-autonomous-self-correcting-systems-part-2-155e",
+      "published_at": "2026-10-12T21:36:09Z",
+      "description": "You are in Part 2 of the series \"Beyond Vibe Coding: The Engineering Blueprint for Reliable AI...",
+      "tags": [
+        "harnessengineering",
+        "loopengineering",
+        "agenticai",
+        "googleantigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AuSGq5Qw4wAeaN65vFMoY0g.png",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "Agents Can’t Decide What’s Okay to Break",
+      "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
+      "published_at": "2026-10-12T20:58:59Z",
+      "description": "There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...",
+      "tags": [
+        "hacktoberfest",
+        "security",
+        "aie",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png",
+      "source": "Dev.to",
+      "user": "Jonathan Gottfried"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -940,7 +939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1135,
       "user": "marclou"
     },
     {
@@ -955,7 +954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 672,
       "user": "nateherkai"
     },
     {
@@ -970,7 +969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1064,
       "user": "zhuyansen"
     },
     {
@@ -1000,7 +999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1049,
       "user": "feder-cr"
     },
     {
@@ -1030,7 +1029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290413500?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 127,
       "user": "openbin-ai"
     },
     {
@@ -1045,7 +1044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1508,
       "user": "chenglou"
     },
     {
@@ -1060,7 +1059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1343,
+      "stars": 1351,
       "user": "deeplethe"
     },
     {
@@ -1075,7 +1074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1242,
+      "stars": 1249,
       "user": "rociiu"
     },
     {
@@ -1090,7 +1089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 442,
       "user": "solana-classic"
     },
     {
@@ -1105,7 +1104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 273,
       "user": "deepfounder-ai"
     },
     {
@@ -1122,6 +1121,30 @@
       "user": "thang"
     },
     {
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "url": "https://words.filippo.io/seeds-solved/",
+      "published_at": "2026-10-16T15:18:36.306-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "cryptography"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "FiloSottile"
+    },
+    {
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "published_at": "2026-10-16T11:36:29.493-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pzuraq"
+    },
+    {
       "title": "Mull: note-taking with a language server / vscode extension",
       "url": "https://github.com/stepchowfun/mull",
       "published_at": "2026-10-16T07:54:20.978-05:00",
@@ -1132,18 +1155,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "lettuce"
-    },
-    {
-      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-      "url": "https://maevyn.codes/decoherence",
-      "published_at": "2026-10-16T11:36:29.493-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pzuraq"
     },
     {
       "title": "Epic's EAC2 v2 seems fairly easily bypassable",
@@ -1176,7 +1187,7 @@
       "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
       "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
       "published_at": "2026-10-16T17:28:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-3.x"
@@ -1192,7 +1203,6 @@
       "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "tags": [
         "AI",
-        "TC",
         "India"
       ],
       "cover_image": null,
@@ -1306,20 +1316,20 @@
       "user": "Ivan Mehta"
     },
     {
-      "title": "Replit&#8217;s CEO says the future of work is the &#8216;self-driving company&#8217;",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "published_at": "2026-10-16T12:55:09.000Z",
-      "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
+      "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
+      "published_at": "2026-10-16T15:15:53.000Z",
+      "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
       "tags": [
-        "AI",
-        "Enterprise",
-        "AI agents",
-        "Amjad Masad",
-        "future of work"
+        "Artificial Intelligence",
+        "Python",
+        "Software Testing",
+        "generative ai",
+        "Devops"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Vasuki Uday Kiran Vudathala"
     },
     {
       "title": "The Anatomy of an AI Data Center",
@@ -1363,36 +1373,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Kayode Adeniyi"
-    },
-    {
-      "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
-      "url": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/",
-      "published_at": "2026-10-12T07:00:53.000Z",
-      "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
-      "tags": [
-        "AI",
-        "Software Engineering",
-        "book"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vahe Aslanyan"
-    },
-    {
-      "title": "What to Do When Your Constants Are Someone Else's Law",
-      "url": "https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/",
-      "published_at": "2026-10-11T14:05:40.000Z",
-      "description": "A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho",
-      "tags": [
-        "Software Engineering",
-        "Code Quality",
-        "Go Language",
-        "fintech",
-        "regulatory compliance"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Javeed Shaik"
     }
   ],
   "JavaScript": [
@@ -1573,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1656,
+      "stars": 1687,
       "user": "HeyPuter"
     },
     {
@@ -1588,7 +1568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1135,
       "user": "marclou"
     },
     {
@@ -1603,7 +1583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 672,
       "user": "nateherkai"
     },
     {
@@ -1618,7 +1598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "threerocks"
     },
     {
@@ -1633,7 +1613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "rayytor"
     },
     {
@@ -1648,7 +1628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1508,
       "user": "chenglou"
     },
     {
@@ -1663,7 +1643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1404,
+      "stars": 1415,
       "user": "shaongitbd"
     },
     {
@@ -1678,7 +1658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1343,
+      "stars": 1351,
       "user": "deeplethe"
     },
     {
@@ -1693,7 +1673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1242,
+      "stars": 1249,
       "user": "rociiu"
     },
     {
@@ -1708,14 +1688,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 999,
       "user": "Caho1"
     },
     {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -1728,7 +1708,7 @@
       "title": "Synchronous text file reading in browser",
       "url": "https://stackoverflow.com/questions/80010550/synchronous-text-file-reading-in-browser",
       "published_at": "2026-10-16T12:20:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "asynchronous"
@@ -1752,20 +1732,6 @@
       "user": "Neohobbit"
     },
     {
-      "title": "Facebook Page Plugin Stopped Working w/o Deploying",
-      "url": "https://stackoverflow.com/questions/80010400/facebook-page-plugin-stopped-working-w-o-deploying",
-      "published_at": "2026-10-15T22:25:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "javascript",
-        "facebook",
-        "facebook-javascript-sdk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chris Happy"
-    },
-    {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
       "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
       "published_at": "2026-10-15T20:58:47.000Z",
@@ -1780,6 +1746,20 @@
       "user": "mandoguy"
     },
     {
+      "title": "Facebook Page Plugin Stopped Working w/o Deploying",
+      "url": "https://stackoverflow.com/questions/80010400/facebook-page-plugin-stopped-working-w-o-deploying",
+      "published_at": "2026-10-15T22:25:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -11",
+      "tags": [
+        "javascript",
+        "facebook",
+        "facebook-javascript-sdk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chris Happy"
+    },
+    {
       "title": "CounterFactory Troubleshooting",
       "url": "https://stackoverflow.com/questions/80010376/counterfactory-troubleshooting",
       "published_at": "2026-10-15T19:58:41.000Z",
@@ -1791,20 +1771,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Summer"
-    },
-    {
-      "title": "How do I scrape streams from streaming sites like VidSRC, vidfast or any other equivalent site",
-      "url": "https://stackoverflow.com/questions/80010348/how-do-i-scrape-streams-from-streaming-sites-like-vidsrc-vidfast-or-any-other-e",
-      "published_at": "2026-10-15T16:57:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
-      "tags": [
-        "javascript",
-        "streaming",
-        "m3u8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zain Maruf"
     },
     {
       "title": "Does sinon.restore() also restore all mySandbox.stub()s?",
@@ -1847,6 +1813,19 @@
       "user": "Fizza Munir"
     },
     {
+      "title": "Is there any disadvantage to calling document.createElement with the “wrong” document?",
+      "url": "https://stackoverflow.com/questions/80009283/is-there-any-disadvantage-to-calling-document-createelement-with-the-wrong-doc",
+      "published_at": "2026-10-11T15:25:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thom Smith"
+    },
+    {
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
       "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
       "published_at": "2026-10-15T09:52:19.000Z",
@@ -1860,6 +1839,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stefisha"
+    },
+    {
+      "title": "How to Migrate an Application from AWS to GKE [Full Book]",
+      "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
+      "published_at": "2026-10-16T15:40:39.000Z",
+      "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
+      "tags": [
+        "Devops",
+        "Cloud Computing",
+        "Cloud Migration",
+        "Kubernetes",
+        "gke"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Osomudeya Zudonu"
     },
     {
       "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
@@ -2055,7 +2050,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2465,
+      "stars": 2493,
       "user": "Arekejoker"
     },
     {
@@ -2070,7 +2065,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1064,
       "user": "zhuyansen"
     },
     {
@@ -2085,7 +2080,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 994,
       "user": "chenwei810"
     },
     {
@@ -2119,23 +2114,26 @@
       "user": "StoopwenpueNq"
     },
     {
-      "title": "Why cant the input() command let me output more commands?",
-      "url": "https://stackoverflow.com/questions/80010607/why-cant-the-input-command-let-me-output-more-commands",
-      "published_at": "2026-10-16T17:33:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
+      "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
+      "published_at": "2026-10-16T18:49:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
-        "user-input"
+        "c++",
+        "qt",
+        "pyside6",
+        "diamond-problem"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "dieselengine"
+      "user": "robert driscoll"
     },
     {
       "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
       "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
       "published_at": "2026-10-16T17:28:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-3.x"
@@ -2143,6 +2141,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhargav"
+    },
+    {
+      "title": "Why cant the input() command let me output more commands?",
+      "url": "https://stackoverflow.com/questions/80010607/why-cant-the-input-command-let-me-output-more-commands",
+      "published_at": "2026-10-16T17:33:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "user-input"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dieselengine"
     },
     {
       "title": "Can I broadcast with numpy character find",
@@ -2201,20 +2212,6 @@
       "user": "stefisha"
     },
     {
-      "title": "How I can prevent flickering when I render graphics directly to Linux framebuffer using python?",
-      "url": "https://stackoverflow.com/questions/80010354/how-i-can-prevent-flickering-when-i-render-graphics-directly-to-linux-framebuffe",
-      "published_at": "2026-10-15T17:57:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "linux",
-        "framebuffer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
-    },
-    {
       "title": "Requests cache does not store requests or use cache",
       "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
       "published_at": "2026-10-14T15:10:06.000Z",
@@ -2227,6 +2224,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeyekomon"
+    },
+    {
+      "title": "How I can prevent flickering when I render graphics directly to Linux framebuffer using python?",
+      "url": "https://stackoverflow.com/questions/80010354/how-i-can-prevent-flickering-when-i-render-graphics-directly-to-linux-framebuffe",
+      "published_at": "2026-10-15T17:57:49.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "linux",
+        "framebuffer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dimitrios Desyllas"
     },
     {
       "title": "How do I access CGI form variables in current Python?",
@@ -2242,17 +2253,20 @@
       "user": "Christos Hayward"
     },
     {
-      "title": "Django Admin Page not found (404) - First time accessing. error with only admin page",
-      "url": "https://stackoverflow.com/questions/80010014/django-admin-page-not-found-404-first-time-accessing-error-with-only-admin",
-      "published_at": "2026-10-14T15:22:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
+      "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
+      "published_at": "2026-10-16T15:15:53.000Z",
+      "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
       "tags": [
-        "python",
-        "django"
+        "Artificial Intelligence",
+        "Python",
+        "Software Testing",
+        "generative ai",
+        "Devops"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Paulo de Tarso"
+      "source": "freeCodeCamp",
+      "user": "Vasuki Uday Kiran Vudathala"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -2286,21 +2300,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Code is abundant. Confidence is a formula.",
-      "url": "https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6",
-      "published_at": "2026-10-12T21:01:56Z",
-      "description": "AI can make code creation abundant. The harder challenge is building confidence in what gets...",
-      "tags": [
-        "ai",
-        "agents",
-        "codequality",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchi4t2fjezcd9b8kxmib.png",
-      "source": "Dev.to",
-      "user": "Manish Kapur"
-    },
     {
       "title": "The Big DevOps Misunderstanding",
       "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
@@ -2422,6 +2421,38 @@
       "user": "jknupp"
     },
     {
+      "title": "How to Migrate an Application from AWS to GKE [Full Book]",
+      "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
+      "published_at": "2026-10-16T15:40:39.000Z",
+      "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
+      "tags": [
+        "Devops",
+        "Cloud Computing",
+        "Cloud Migration",
+        "Kubernetes",
+        "gke"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Osomudeya Zudonu"
+    },
+    {
+      "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
+      "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
+      "published_at": "2026-10-16T15:15:53.000Z",
+      "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
+      "tags": [
+        "Artificial Intelligence",
+        "Python",
+        "Software Testing",
+        "generative ai",
+        "Devops"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vasuki Uday Kiran Vudathala"
+    },
+    {
       "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
       "url": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
       "published_at": "2026-10-15T13:35:48.000Z",
@@ -2470,7 +2501,7 @@
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -2478,6 +2509,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KooiInc"
+    },
+    {
+      "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
+      "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
+      "published_at": "2026-10-16T18:49:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "c++",
+        "qt",
+        "pyside6",
+        "diamond-problem"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "robert driscoll"
     },
     {
       "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
@@ -2582,7 +2629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 632,
       "user": "c22dev"
     }
   ],
@@ -2734,7 +2781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1242,
+      "stars": 1249,
       "user": "rociiu"
     },
     {
@@ -2758,12 +2805,27 @@
       "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
       "tags": [
         "AI",
-        "TC",
         "India"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
+    },
+    {
+      "title": "How to Migrate an Application from AWS to GKE [Full Book]",
+      "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
+      "published_at": "2026-10-16T15:40:39.000Z",
+      "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
+      "tags": [
+        "Devops",
+        "Cloud Computing",
+        "Cloud Migration",
+        "Kubernetes",
+        "gke"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Osomudeya Zudonu"
     },
     {
       "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
@@ -2840,6 +2902,22 @@
       "user": "iancarroll"
     },
     {
+      "title": "How to Migrate an Application from AWS to GKE [Full Book]",
+      "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
+      "published_at": "2026-10-16T15:40:39.000Z",
+      "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
+      "tags": [
+        "Devops",
+        "Cloud Computing",
+        "Cloud Migration",
+        "Kubernetes",
+        "gke"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Osomudeya Zudonu"
+    },
+    {
       "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
       "url": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
       "published_at": "2026-10-14T04:08:28.000Z",
@@ -2902,21 +2980,6 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Does your agent have ID?",
-      "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok",
-      "published_at": "2026-10-11T19:42:56Z",
-      "description": "Last month, an AI agent in Denmark booked a coffee tasting and paid for it. Danske Bank and...",
-      "tags": [
-        "aie",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz09vp969urk3b4ys9l1m.png",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
-    },
-    {
       "title": "An Agent’s Plan Isn’t Permission",
       "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
       "published_at": "2026-10-14T12:05:28Z",
@@ -2930,6 +2993,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Agents Can’t Decide What’s Okay to Break",
+      "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
+      "published_at": "2026-10-12T20:58:59Z",
+      "description": "There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...",
+      "tags": [
+        "hacktoberfest",
+        "security",
+        "aie",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png",
+      "source": "Dev.to",
+      "user": "Jonathan Gottfried"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3080,7 +3158,7 @@
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -3184,21 +3262,6 @@
       "user": "Vishal Srivastava"
     },
     {
-      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
-      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
-      "published_at": "2026-10-12T04:21:36Z",
-      "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "It's Not the Model, It's You",
       "url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi",
       "published_at": "2026-10-11T19:45:15Z",
@@ -3211,6 +3274,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmx3l635656p6ocz76xow.png",
       "source": "Dev.to",
       "user": "Nicholas Arcolano"
+    },
+    {
+      "title": "AI Needs a Test That Fights Back",
+      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "published_at": "2026-10-12T21:03:49Z",
+      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
+      "tags": [
+        "ai",
+        "opensource",
+        "testing",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3260,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1656,
+      "stars": 1687,
       "user": "HeyPuter"
     },
     {
@@ -3275,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1135,
       "user": "marclou"
     },
     {
@@ -3290,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 672,
       "user": "nateherkai"
     },
     {
@@ -3305,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "threerocks"
     },
     {
@@ -3320,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "rayytor"
     },
     {
@@ -3335,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2465,
+      "stars": 2493,
       "user": "Arekejoker"
     },
     {
@@ -3350,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1064,
       "user": "zhuyansen"
     },
     {
@@ -3365,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 994,
       "user": "chenwei810"
     },
     {
@@ -3410,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1049,
       "user": "feder-cr"
     },
     {
@@ -3440,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148442191?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "init-co-jp"
     },
     {
@@ -3470,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290413500?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 127,
       "user": "openbin-ai"
     },
     {
@@ -3485,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1508,
       "user": "chenglou"
     },
     {
@@ -3500,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1404,
+      "stars": 1415,
       "user": "shaongitbd"
     },
     {
@@ -3515,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1343,
+      "stars": 1351,
       "user": "deeplethe"
     },
     {
@@ -3530,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1242,
+      "stars": 1249,
       "user": "rociiu"
     },
     {
@@ -3545,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 999,
       "user": "Caho1"
     },
     {
@@ -3560,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2398,
+      "stars": 2400,
       "user": "liseami"
     },
     {
@@ -3575,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1340,
       "user": "opengeos"
     },
     {
@@ -3590,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 632,
       "user": "c22dev"
     },
     {
@@ -3605,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 442,
       "user": "solana-classic"
     },
     {
@@ -3620,7 +3698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 273,
       "user": "deepfounder-ai"
     },
     {
@@ -3681,6 +3759,22 @@
       "user": "Dominic-Madori Davis"
     },
     {
+      "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
+      "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
+      "published_at": "2026-10-16T15:15:53.000Z",
+      "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
+      "tags": [
+        "Artificial Intelligence",
+        "Python",
+        "Software Testing",
+        "generative ai",
+        "Devops"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vasuki Uday Kiran Vudathala"
+    },
+    {
       "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
       "url": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
       "published_at": "2026-10-15T13:35:48.000Z",
@@ -3709,20 +3803,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Kayode Adeniyi"
-    },
-    {
-      "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
-      "url": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/",
-      "published_at": "2026-10-12T07:00:53.000Z",
-      "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
-      "tags": [
-        "AI",
-        "Software Engineering",
-        "book"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vahe Aslanyan"
     }
   ]
 }
