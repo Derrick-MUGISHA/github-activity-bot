@@ -126422,3 +126422,987 @@ We're rebuilding and open-sourcing the world’s software from scratch.
 
 ---
 
+
+
+## 📰 DevTech News — 2026-10-16 6:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (94 articles)
+
+#### 1. [The Model Is the Easy Part](https://dev.to/dailycontext/the-model-is-the-easy-part-19gh)
+📅 Wed, 14 Oct 2026 12:04:00 GMT
+👤 By: Steven Latre | 📌 Source: Dev.to
+
+![The Model Is the Easy Part](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png)
+
+We spent the past few months on a question that sounds simple: what does it actually take to move a...
+
+🏷️ Tags: `ai`, `llm`, `opensource`, `aie`
+
+---
+
+#### 2. [Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64](https://dev.to/gde/gemma-4-on-a-used-8-gb-rtx-3050-116-tokenss-for-one-user-618-for-64-k6h)
+📅 Thu, 15 Oct 2026 00:46:07 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-3050oem-2b-q4_0%2Fdocs%2Ffirst-light-3050oem%2Fdevto-cover.c84e6ee4.jpg)
+
+Gemma 4 E2B and E4B on a used RTX 3050 OEM in an old desktop, step by step: single-user speed, the full 131k context, concurrency, answer quality, and how it compares on price with laptop GPUs, ARM laptops, a T4 and a TPU v5e.
+
+🏷️ Tags: `gemma`, `llamacpp`, `cuda`, `localllm`
+
+---
+
+#### 3. [Local image generation with llamadart for the Llama Village storybook](https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28)
+📅 Thu, 15 Oct 2026 13:56:36 GMT
+👤 By: Jhin Lee | 📌 Source: Dev.to
+
+![Local image generation with llamadart for the Llama Village storybook](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png)
+
+Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...
+
+🏷️ Tags: `tutorial`, `ai`, `dart`, `flutter`
+
+---
+
+#### 4. [Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About](https://dev.to/gde/your-ai-agent-just-got-a-passport-agent-identity-on-google-cloud-and-the-redeploy-trap-nobody-52ip)
+📅 Thu, 15 Oct 2026 11:45:55 GMT
+👤 By: Karthigayan Devan | 📌 Source: Dev.to
+
+![Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuvxnpt75nzzsgaj4nb5i.png)
+
+Why your agents need their own identity   Most teams run every AI agent under one shared...
+
+🏷️ Tags: `ai`, `discuss`, `agents`, `googlecloud`
+
+---
+
+#### 5. [Are You Smarter Than a Fruit Fly?](https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04)
+📅 Wed, 14 Oct 2026 12:04:21 GMT
+👤 By: Nick Nisi | 📌 Source: Dev.to
+
+![Are You Smarter Than a Fruit Fly?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png)
+
+Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...
+
+🏷️ Tags: `ai`, `codereview`, `agents`, `aie`
+
+---
+
+#### 6. [Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine](https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c)
+📅 Wed, 14 Oct 2026 19:53:12 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png)
+
+Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `unix`
+
+---
+
+#### 7. [Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction](https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p)
+📅 Wed, 14 Oct 2026 12:05:21 GMT
+👤 By: Kara Silverman | 📌 Source: Dev.to
+
+![Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png)
+
+In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...
+
+🏷️ Tags: `ai`, `agents`, `evals`, `aie`
+
+---
+
+#### 8. [The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets](https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7)
+📅 Wed, 14 Oct 2026 12:05:35 GMT
+👤 By: Tom Fairey | 📌 Source: Dev.to
+
+![The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o43h613infirehm8ewy.png)
+
+AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...
+
+🏷️ Tags: `ai`, `data`, `privacy`, `aie`
+
+---
+
+#### 9. [Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h)
+📅 Wed, 14 Oct 2026 12:03:29 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Design for Churn](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg)
+
+The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...
+
+🏷️ Tags: `aie`, `design`, `churn`, `ai`
+
+---
+
+#### 10. [Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”](https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a)
+📅 Wed, 14 Oct 2026 12:03:42 GMT
+👤 By: Andrey Rybka | 📌 Source: Dev.to
+
+![Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdow1p4av91zqti4tt9c3.png)
+
+For financial technology institutions operating at enterprise scale, the initial wave of Generative...
+
+🏷️ Tags: `ai`, `agents`, `fintech`, `aie`
+
+---
+
+### 🏷️ JavaScript (37 articles)
+
+#### 1. [LangChainJS and Gemini 4 Argon: What's here and what's coming?](https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod)
+📅 Wed, 14 Oct 2026 02:14:27 GMT
+👤 By: Allen Firstenberg | 📌 Source: Dev.to
+
+![LangChainJS and Gemini 4 Argon: What's here and what's coming?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0ymi9mxkutkl1kco6bt.png)
+
+Google has released the latest version in the Gemini family, Gemini 4 Argon, and I was fortunate...
+
+🏷️ Tags: `ai`, `gemini`, `javascript`, `llm`
+
+---
+
+#### 2. [Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon](https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj)
+📅 Tue, 13 Oct 2026 20:01:11 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg)
+
+Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.
+
+🏷️ Tags: `ai`, `python`, `security`, `typescript`
+
+---
+
+#### 3. [I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration](https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek)
+📅 Tue, 13 Oct 2026 20:49:38 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcozy-ai-agent-cafe-game%2Fmain%2Fassets%2Fcozy_ai_cafe_banner.jpg)
+
+What I Built   Who said learning AI System Design has to be all dark cyberpunk terminal...
+
+🏷️ Tags: `ai`, `gamedev`, `javascript`, `opensource`
+
+---
+
+#### 4. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (28 articles)
+
+#### 1. [Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon](https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj)
+📅 Tue, 13 Oct 2026 20:01:11 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg)
+
+Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.
+
+🏷️ Tags: `ai`, `python`, `security`, `typescript`
+
+---
+
+#### 2. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+📅 Mon, 11 May 2026 20:45:55 GMT
+👤 By: indigodaddy | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (14 articles)
+
+#### 1. [Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l)
+📅 Mon, 12 Oct 2026 10:30:20 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png)
+
+Kubernetes troubleshooting often requires engineers to correlate pod events, container logs, resource...
+
+🏷️ Tags: `agents`, `ai`, `cloud`, `kubernetes`
+
+---
+
+#### 2. [Code is abundant. Confidence is a formula.](https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6)
+📅 Mon, 12 Oct 2026 21:01:56 GMT
+👤 By: Manish Kapur | 📌 Source: Dev.to
+
+![Code is abundant. Confidence is a formula.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchi4t2fjezcd9b8kxmib.png)
+
+AI can make code creation abundant. The harder challenge is building confidence in what gets...
+
+🏷️ Tags: `ai`, `agents`, `codequality`, `devops`
+
+---
+
+#### 3. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 4. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (6 articles)
+
+#### 1. [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36)
+📅 Tue, 13 Oct 2026 13:19:33 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![We moved a production backend from a phone](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png)
+
+Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `database`
+
+---
+
+#### 2. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [How to override styles of React component with vanilla extract?](https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract)
+📅 Wed, 14 Oct 2026 14:35:55 GMT
+👤 By: Billy Moon | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 2
+
+🏷️ Tags: `javascript`, `css`, `reactjs`, `vanilla-extract`
+
+---
+
+#### 4. [How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js](https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/)
+📅 Thu, 15 Oct 2026 04:40:21 GMT
+👤 By: Alex Oliinyk | 📌 Source: freeCodeCamp
+
+At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a
+
+🏷️ Tags: `JavaScript`, `canvas`, `mapbox`, `Web Development`
+
+---
+
+#### 5. [How to Keep a File for Minutes, Not Years, on Cloud Run](https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/)
+📅 Wed, 14 Oct 2026 04:08:28 GMT
+👤 By: Abhinay Gokul | 📌 Source: freeCodeCamp
+
+A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a
+
+🏷️ Tags: `google cloud`, `CloudComputing`, `cybersecurity`, `Redis`
+
+---
+
+#### 6. [How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It](https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/)
+📅 Sun, 11 Oct 2026 09:31:06 GMT
+👤 By: Saar Twito | 📌 Source: freeCodeCamp
+
+Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it
+
+🏷️ Tags: `Next.js`, `SEO`, `TypeScript`, `React`, `Web Development`
+
+---
+
+### 🏷️ Mobile (6 articles)
+
+#### 1. [Local image generation with llamadart for the Llama Village storybook](https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28)
+📅 Thu, 15 Oct 2026 13:56:36 GMT
+👤 By: Jhin Lee | 📌 Source: Dev.to
+
+![Local image generation with llamadart for the Llama Village storybook](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png)
+
+Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...
+
+🏷️ Tags: `tutorial`, `ai`, `dart`, `flutter`
+
+---
+
+#### 2. [Nobody’s winning the AI race yet](https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4)
+📅 Wed, 14 Oct 2026 12:04:39 GMT
+👤 By: Ryan Swift | 📌 Source: Dev.to
+
+![Nobody’s winning the AI race yet](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png)
+
+By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...
+
+🏷️ Tags: `ai`, `gemini`, `llm`, `aie`
+
+---
+
+#### 3. [Local speech with llamadart: giving Llama Village a voice](https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m)
+📅 Wed, 14 Oct 2026 03:03:34 GMT
+👤 By: Jhin Lee | 📌 Source: Dev.to
+
+![Local speech with llamadart: giving Llama Village a voice](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq9hxfwmw34a5t6yzqof6.png)
+
+Beyond chat with llamadart · Part 3  Pip’s scarf is missing. I wanted Dash to be able to fly over to...
+
+🏷️ Tags: `ai`, `dart`, `flutter`
+
+---
+
+#### 4. [Local embeddings with llamadart: how llamas share secrets](https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o)
+📅 Mon, 12 Oct 2026 18:18:49 GMT
+👤 By: Jhin Lee | 📌 Source: Dev.to
+
+![Local embeddings with llamadart: how llamas share secrets](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png)
+
+Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...
+
+🏷️ Tags: `dart`, `ai`, `flutter`, `tutorial`
+
+---
+
+#### 5. [c22dev/muguet - A native Mach-O port for iOS/macOS of GTA V, with multiplayer](https://github.com/c22dev/muguet)
+📅 Sat, 10 Oct 2026 08:45:02 GMT
+👤 By: c22dev | 📌 Source: GitHub
+
+![c22dev/muguet - A native Mach-O port for iOS/macOS of GTA V, with multiplayer](https://avatars.githubusercontent.com/u/102235607?v=4)
+
+A native Mach-O port for iOS/macOS of GTA V, with multiplayer
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 621
+
+---
+
+#### 6. [And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/)
+📅 Thu, 15 Oct 2026 23:33:45 GMT
+👤 By: Sean O'Kane | 📌 Source: TechCrunch
+
+Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.
+
+🏷️ Tags: `Biotech & Health`, `Startups`, `Startup Battlefield 200`, `TechCrunch Disrupt`
+
+---
+
+### 🏷️ Cloud (11 articles)
+
+#### 1. [Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About](https://dev.to/gde/your-ai-agent-just-got-a-passport-agent-identity-on-google-cloud-and-the-redeploy-trap-nobody-52ip)
+📅 Thu, 15 Oct 2026 11:45:55 GMT
+👤 By: Karthigayan Devan | 📌 Source: Dev.to
+
+![Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuvxnpt75nzzsgaj4nb5i.png)
+
+Why your agents need their own identity   Most teams run every AI agent under one shared...
+
+🏷️ Tags: `ai`, `discuss`, `agents`, `googlecloud`
+
+---
+
+#### 2. [DuckLess: serverless DuckDB on Google Cloud, in your own project](https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a)
+📅 Thu, 15 Oct 2026 16:38:38 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![DuckLess: serverless DuckDB on Google Cloud, in your own project](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftosun-si%2Fduckless%2Fmain%2Fassets%2Fbrand%2Fduckless-social.png)
+
+Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measured, and what I learned.
+
+🏷️ Tags: `duckdb`, `googlecloud`, `dataengineering`, `opensource`
+
+---
+
+#### 3. [Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine](https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c)
+📅 Wed, 14 Oct 2026 19:53:12 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png)
+
+Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `unix`
+
+---
+
+#### 4. [Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform](https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib)
+📅 Thu, 15 Oct 2026 09:12:49 GMT
+👤 By: Jonathan Zhuo | 📌 Source: Dev.to
+
+![Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fojblbziqltrj6xqnt6pp.png)
+
+What actually shipped across Build, Scale, Govern, and Optimize — and what I'd tell a team starting...
+
+🏷️ Tags: `googlecloud`, `ai`, `agents`, `gemini`
+
+---
+
+#### 5. [Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l)
+📅 Mon, 12 Oct 2026 10:30:20 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkiaxy6m0r95t1qfjwr48.png)
+
+Kubernetes troubleshooting often requires engineers to correlate pod events, container logs, resource...
+
+🏷️ Tags: `agents`, `ai`, `cloud`, `kubernetes`
+
+---
+
+#### 6. [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36)
+📅 Tue, 13 Oct 2026 13:19:33 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![We moved a production backend from a phone](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png)
+
+Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `database`
+
+---
+
+#### 7. [EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4](https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac)
+📅 Tue, 13 Oct 2026 01:20:25 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg)
+
+Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.
+
+🏷️ Tags: `googlecloud`, `gemma`, `cloudrun`, `machinelearning`
+
+---
+
+#### 8. [jwuthri-cloud/Tracely-ai - GitHub Repository](https://github.com/jwuthri-cloud/Tracely-ai)
+📅 Sun, 11 Oct 2026 15:38:03 GMT
+👤 By: jwuthri-cloud | 📌 Source: GitHub
+
+![jwuthri-cloud/Tracely-ai - GitHub Repository](https://avatars.githubusercontent.com/u/341043007?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 824
+
+---
+
+#### 9. [rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.](https://github.com/rociiu/talorys)
+📅 Sat, 10 Oct 2026 09:46:56 GMT
+👤 By: rociiu | 📌 Source: GitHub
+
+![rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.](https://avatars.githubusercontent.com/u/23930?v=4)
+
+Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.
+
+🏷️ Tags: `typescript`, `github`, `open-source`
+
+⭐ Stars: 1,183
+
+---
+
+#### 10. [How Does AWS Lambda and Layers work with a Project that has Subdirectories?](https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories)
+📅 Thu, 15 Oct 2026 21:09:42 GMT
+👤 By: Mazianos | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -2
+
+🏷️ Tags: `python`, `amazon-web-services`, `aws-lambda`
+
+---
+
+### 🏷️ Database (4 articles)
+
+#### 1. [Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance](https://dev.to/gde/como-construi-ora-tui-un-gestor-en-consola-tui-en-go-sin-dependencias-para-oracle-rac-y-single-1gc5)
+📅 Thu, 15 Oct 2026 07:21:10 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu1dmrbcfwxx6nym8jx2i.png)
+
+Descubre cómo diseñar una interfaz TUI en Go con marcos Unicode (┌─┐ / ╔═╗), auto-descubrimiento de clusters Oracle RAC y flujos de mantenimiento guiados por flechas sin depender de Oracle Instant Client.
+
+🏷️ Tags: `go`, `oracle`, `linux`, `database`
+
+---
+
+#### 2. [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36)
+📅 Tue, 13 Oct 2026 13:19:33 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![We moved a production backend from a phone](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png)
+
+Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `database`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [How to Keep a File for Minutes, Not Years, on Cloud Run](https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/)
+📅 Wed, 14 Oct 2026 04:08:28 GMT
+👤 By: Abhinay Gokul | 📌 Source: freeCodeCamp
+
+A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a
+
+🏷️ Tags: `google cloud`, `CloudComputing`, `cybersecurity`, `Redis`
+
+---
+
+### 🏷️ Security (18 articles)
+
+#### 1. [Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner](https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567)
+📅 Wed, 14 Oct 2026 07:07:21 GMT
+👤 By: JimmyLiao | 📌 Source: Dev.to
+
+![Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fij00m2kux5txwhlmyqg5.png)
+
+🎯 What You'll Learn     Gemini 4 Native Architecture Leap: How to leverage Deep Reasoning...
+
+🏷️ Tags: `gemini`, `agents`, `security`, `devsecops`
+
+---
+
+#### 2. [Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon](https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj)
+📅 Tue, 13 Oct 2026 20:01:11 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg)
+
+Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.
+
+🏷️ Tags: `ai`, `python`, `security`, `typescript`
+
+---
+
+#### 3. [Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents](https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9)
+📅 Mon, 12 Oct 2026 21:03:17 GMT
+👤 By: dev.to staff | 📌 Source: Dev.to
+
+![Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png)
+
+Written by John Feminella  We now inhabit a world where agents can execute operations in production...
+
+🏷️ Tags: `ai`, `agents`, `security`, `aie`
+
+---
+
+#### 4. [Does your agent have ID?](https://dev.to/dailycontext/does-your-agent-have-id-58ok)
+📅 Sun, 11 Oct 2026 19:42:56 GMT
+👤 By: Rachael Berkey | 📌 Source: Dev.to
+
+![Does your agent have ID?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz09vp969urk3b4ys9l1m.png)
+
+Last month, an AI agent in Denmark booked a coffee tasting and paid for it. Danske Bank and...
+
+🏷️ Tags: `aie`, `ai`, `agents`, `security`
+
+---
+
+#### 5. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (38 articles)
+
+#### 1. [Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4)
+📅 Tue, 13 Oct 2026 00:57:26 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg)
+
+Fourteen Apache-2.0 and MIT open-weight models that fit one TPU v5e chip, served one after another through vLLM on the same pinned image and scored on GSM8K and BFCL against Gemma 4 E2B. Qwen3-4B matches Gemma's accuracy at 0.57x its output, SmolLM3-3B and Granite 3.3 2B match it on tool calls, and Gemma keeps the lead on long prompts.
+
+🏷️ Tags: `tpu`, `vllm`, `gemma`, `llm`
+
+---
+
+#### 2. [We moved a production backend from a phone](https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36)
+📅 Tue, 13 Oct 2026 13:19:33 GMT
+👤 By: DigitalOcean | 📌 Source: Dev.to
+
+![We moved a production backend from a phone](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png)
+
+Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `database`
+
+---
+
+#### 3. [What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p)
+📅 Mon, 12 Oct 2026 21:03:06 GMT
+👤 By: Vishal Srivastava | 📌 Source: Dev.to
+
+![What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4yw0p94syuwbx8fe782v.png)
+
+AI evaluation has become increasingly sophisticated at testing individual models. We measure...
+
+🏷️ Tags: `ai`, `machinelearning`, `testing`, `aie`
+
+---
+
+#### 4. [If You Never Do Anything Else to Fix Your Prompts, Do This One Thing](https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069)
+📅 Mon, 12 Oct 2026 04:21:36 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![If You Never Do Anything Else to Fix Your Prompts, Do This One Thing](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png)
+
+Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `productivity`
+
+---
+
+#### 5. [It's Not the Model, It's You](https://dev.to/dailycontext/its-not-the-model-its-you-1ngi)
+📅 Sun, 11 Oct 2026 19:45:15 GMT
+👤 By: Nicholas Arcolano | 📌 Source: Dev.to
+
+![It's Not the Model, It's You](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmx3l635656p6ocz76xow.png)
+
+Every time a new frontier model comes out, we go through the same rituals: benchmarks get reported,...
+
+🏷️ Tags: `aie`, `programming`, `productivity`
+
+---
+
+#### 6. [AI Needs a Test That Fights Back](https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17)
+📅 Mon, 12 Oct 2026 21:03:49 GMT
+👤 By: Ramakrishnan Lokanathan | 📌 Source: Dev.to
+
+![AI Needs a Test That Fights Back](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png)
+
+One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...
+
+🏷️ Tags: `ai`, `opensource`, `testing`, `aie`
+
+---
+
+#### 7. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.](https://github.com/HeyPuter/everything)
+📅 Tue, 13 Oct 2026 16:18:22 GMT
+👤 By: HeyPuter | 📌 Source: GitHub
+
+![HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.](https://avatars.githubusercontent.com/u/103972607?v=4)
+
+We're rebuilding and open-sourcing the world’s software from scratch.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 1,364
+
+---
+

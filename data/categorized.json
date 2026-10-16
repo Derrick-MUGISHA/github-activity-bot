@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "The Model Is the Easy Part",
       "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
       "published_at": "2026-10-14T12:04:00Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
       "source": "Dev.to",
       "user": "Nick Nisi"
+    },
+    {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
@@ -166,6 +166,21 @@
       "user": "Ryan Swift"
     },
     {
+      "title": "A Data Company in an AI World",
+      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
+      "published_at": "2026-10-14T12:05:44Z",
+      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
+      "tags": [
+        "ai",
+        "finance",
+        "interview",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
       "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
       "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
       "published_at": "2026-10-14T12:03:18Z",
@@ -194,21 +209,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp5cgof3acfh7v4n5cdep.png",
       "source": "Dev.to",
       "user": "Spencer Pitman"
-    },
-    {
-      "title": "A Data Company in an AI World",
-      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
-      "published_at": "2026-10-14T12:05:44Z",
-      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
-      "tags": [
-        "ai",
-        "finance",
-        "interview",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
     },
     {
       "title": "Where to Spend Your Week at AI Engineer New York",
@@ -404,21 +404,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "An Agent’s Plan Isn’t Permission",
-      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
-      "published_at": "2026-10-14T12:05:28Z",
-      "description": "When a coding agent investigates a production bug, it might need to read a repository, query logs,...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Local speech with llamadart: giving Llama Village a voice",
@@ -970,7 +955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1064,
       "user": "marclou"
     },
     {
@@ -985,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 631,
       "user": "nateherkai"
     },
     {
@@ -1000,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1032,
       "user": "zhuyansen"
     },
     {
@@ -1034,19 +1019,19 @@
       "user": "aindeev"
     },
     {
-      "title": "bdg9412/artex-ko-plus - ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/bdg9412/artex-ko-plus",
-      "published_at": "2026-10-09T11:36:03Z",
-      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "url": "https://github.com/caveman-ai/trim-1",
+      "published_at": "2026-10-14T03:05:27Z",
+      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 187,
-      "user": "bdg9412"
+      "stars": 109,
+      "user": "caveman-ai"
     },
     {
       "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
@@ -1060,7 +1045,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1183,
       "user": "rociiu"
     },
     {
@@ -1075,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1165,
       "user": "chenglou"
     },
     {
@@ -1090,8 +1075,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 1078,
       "user": "deeplethe"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 840,
+      "user": "outcrawlai"
+    },
+    {
+      "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+      "url": "https://github.com/solana-classic/solana-classic",
+      "published_at": "2026-10-13T19:35:48Z",
+      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
+      "source": "GitHub",
+      "stars": 397,
+      "user": "solana-classic"
+    },
+    {
+      "title": "deepfounder-ai/desigma - Free Figma alternative made on Rust",
+      "url": "https://github.com/deepfounder-ai/desigma",
+      "published_at": "2026-10-11T00:26:12Z",
+      "description": "Free Figma alternative made on Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "deepfounder-ai"
     },
     {
       "title": "Forgejo v17.0 is available",
@@ -1107,10 +1137,23 @@
       "user": "hugoarnal"
     },
     {
+      "title": "Linus Torvalds on AI-assisted kernel contributions",
+      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "published_at": "2026-10-15T21:50:33.788-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "thang"
+    },
+    {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
       "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
       "published_at": "2026-10-15T20:58:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -5",
       "tags": [
         "javascript",
         "async-await",
@@ -1124,10 +1167,13 @@
       "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
       "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
       "published_at": "2026-10-15T23:44:56.000Z",
-      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
       "tags": [
         "AI",
-        "TC"
+        "Startups",
+        "Cal AI",
+        "TechCrunch Disrupt",
+        "Zach Yadegari"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1496,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1298,
+      "stars": 1364,
       "user": "HeyPuter"
     },
     {
@@ -1511,7 +1557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1064,
       "user": "marclou"
     },
     {
@@ -1526,7 +1572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 631,
       "user": "nateherkai"
     },
     {
@@ -1541,7 +1587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 562,
       "user": "threerocks"
     },
     {
@@ -1556,7 +1602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 453,
       "user": "rayytor"
     },
     {
@@ -1571,7 +1617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1340,
       "user": "shaongitbd"
     },
     {
@@ -1586,7 +1632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1183,
       "user": "rociiu"
     },
     {
@@ -1601,7 +1647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1165,
       "user": "chenglou"
     },
     {
@@ -1616,43 +1662,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 1078,
       "user": "deeplethe"
     },
     {
-      "title": "YeonwooSung/my-claude-code-mods - Custom Claude Code Mods that I need",
-      "url": "https://github.com/YeonwooSung/my-claude-code-mods",
-      "published_at": "2026-10-09T13:09:11Z",
-      "description": "Custom Claude Code Mods that I need",
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 831,
-      "user": "YeonwooSung"
-    },
-    {
-      "title": "Facebook Page Plugin Stopped Working w/o Deploying",
-      "url": "https://stackoverflow.com/questions/80010400/facebook-page-plugin-stopped-working-w-o-deploying",
-      "published_at": "2026-10-15T22:25:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "facebook",
-        "facebook-javascript-sdk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chris Happy"
+      "stars": 840,
+      "user": "outcrawlai"
     },
     {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
       "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
       "published_at": "2026-10-15T20:58:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -5",
       "tags": [
         "javascript",
         "async-await",
@@ -1661,6 +1693,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mandoguy"
+    },
+    {
+      "title": "Facebook Page Plugin Stopped Working w/o Deploying",
+      "url": "https://stackoverflow.com/questions/80010400/facebook-page-plugin-stopped-working-w-o-deploying",
+      "published_at": "2026-10-15T22:25:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "javascript",
+        "facebook",
+        "facebook-javascript-sdk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chris Happy"
     },
     {
       "title": "CounterFactory Troubleshooting",
@@ -1703,6 +1749,19 @@
       "user": "Florian"
     },
     {
+      "title": "How do I create a native context menu with custom options?",
+      "url": "https://stackoverflow.com/questions/80010177/how-do-i-create-a-native-context-menu-with-custom-options",
+      "published_at": "2026-10-15T08:18:07.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "contextmenu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Coarse Rosinflower"
+    },
+    {
       "title": "How can I prevent duplicate API requests in React when using useEffect?",
       "url": "https://stackoverflow.com/questions/80010185/how-can-i-prevent-duplicate-api-requests-in-react-when-using-useeffect",
       "published_at": "2026-10-15T08:41:51.000Z",
@@ -1715,19 +1774,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fizza Munir"
-    },
-    {
-      "title": "How do I create a native context menu with custom options?",
-      "url": "https://stackoverflow.com/questions/80010177/how-do-i-create-a-native-context-menu-with-custom-options",
-      "published_at": "2026-10-15T08:18:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "contextmenu"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Coarse Rosinflower"
     },
     {
       "title": "Changing two images simultaneously with one button-onclick and querySelector",
@@ -1775,7 +1821,7 @@
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
       "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
       "published_at": "2026-10-15T09:52:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "fastapi",
@@ -1982,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2127,
       "user": "Arekejoker"
     },
     {
@@ -1997,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1032,
       "user": "zhuyansen"
     },
     {
@@ -2012,23 +2058,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 945,
       "user": "chenwei810"
-    },
-    {
-      "title": "SubmitGame/awesome-decomp-games - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
-      "url": "https://github.com/SubmitGame/awesome-decomp-games",
-      "published_at": "2026-10-09T15:15:18Z",
-      "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/334859005?v=4",
-      "source": "GitHub",
-      "stars": 841,
-      "user": "SubmitGame"
     },
     {
       "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
@@ -2046,10 +2077,25 @@
       "user": "jwuthri-cloud"
     },
     {
+      "title": "StoopwenpueNq/jackie-fmri-sim - jackie-fmri-sim",
+      "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
+      "published_at": "2026-10-14T10:14:56Z",
+      "description": "jackie-fmri-sim",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15234191?v=4",
+      "source": "GitHub",
+      "stars": 469,
+      "user": "StoopwenpueNq"
+    },
+    {
       "title": "Can I broadcast with numpy character find",
       "url": "https://stackoverflow.com/questions/80010398/can-i-broadcast-with-numpy-character-find",
       "published_at": "2026-10-15T22:19:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "numpy",
@@ -2063,7 +2109,7 @@
       "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
       "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
       "published_at": "2026-10-15T21:09:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "amazon-web-services",
@@ -2077,7 +2123,7 @@
       "title": "How I can prevent flickering when I render graphics directly to Linux framebuffer using python?",
       "url": "https://stackoverflow.com/questions/80010354/how-i-can-prevent-flickering-when-i-render-graphics-directly-to-linux-framebuffe",
       "published_at": "2026-10-15T17:57:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "linux",
@@ -2086,6 +2132,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
+    },
+    {
+      "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
+      "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
+      "published_at": "2026-10-15T09:52:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "fastapi",
+        "jsonschema",
+        "pydantic"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stefisha"
     },
     {
       "title": "How do I access CGI form variables in current Python?",
@@ -2104,7 +2165,7 @@
       "title": "Requests cache does not store requests or use cache",
       "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
       "published_at": "2026-10-14T15:10:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "python",
         "caching",
@@ -2113,21 +2174,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeyekomon"
-    },
-    {
-      "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
-      "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
-      "published_at": "2026-10-15T09:52:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "fastapi",
-        "jsonschema",
-        "pydantic"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stefisha"
     },
     {
       "title": "googletrans - python - Is not translating",
@@ -2156,20 +2202,6 @@
       "user": "Paulo de Tarso"
     },
     {
-      "title": "Matplotlib Histogram - Threshold where all values above it show accumulated in a single bar",
-      "url": "https://stackoverflow.com/questions/80010019/matplotlib-histogram-threshold-where-all-values-above-it-show-accumulated-in-a",
-      "published_at": "2026-10-14T15:38:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "matplotlib",
-        "histogram"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ramiro chalar"
-    },
-    {
       "title": "Filtering polars using a dictionary",
       "url": "https://stackoverflow.com/questions/80009941/filtering-polars-using-a-dictionary",
       "published_at": "2026-10-14T10:25:34.000Z",
@@ -2182,6 +2214,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "raphf"
+    },
+    {
+      "title": "Matplotlib Histogram - Threshold where all values above it show accumulated in a single bar",
+      "url": "https://stackoverflow.com/questions/80010019/matplotlib-histogram-threshold-where-all-values-above-it-show-accumulated-in-a",
+      "published_at": "2026-10-14T15:38:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "matplotlib",
+        "histogram"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ramiro chalar"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -2560,7 +2606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "c22dev"
     },
     {
@@ -2569,10 +2615,10 @@
       "published_at": "2026-10-15T23:33:45.000Z",
       "description": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
       "tags": [
+        "Biotech & Health",
         "Startups",
-        "Startup Battlefield",
-        "TechCrunch Disrupt",
-        "TechCrunch Disrupt 2026"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2581,19 +2627,19 @@
   ],
   "Cloud": [
     {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
+      "url": "https://dev.to/gde/your-ai-agent-just-got-a-passport-agent-identity-on-google-cloud-and-the-redeploy-trap-nobody-52ip",
+      "published_at": "2026-10-15T11:45:55Z",
+      "description": "Why your agents need their own identity   Most teams run every AI agent under one shared...",
       "tags": [
         "ai",
-        "programming",
-        "architecture",
-        "unix"
+        "discuss",
+        "agents",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuvxnpt75nzzsgaj4nb5i.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Karthigayan Devan"
     },
     {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
@@ -2611,19 +2657,19 @@
       "user": "Mazlum Tosun"
     },
     {
-      "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
-      "url": "https://dev.to/gde/your-ai-agent-just-got-a-passport-agent-identity-on-google-cloud-and-the-redeploy-trap-nobody-52ip",
-      "published_at": "2026-10-15T11:45:55Z",
-      "description": "Why your agents need their own identity   Most teams run every AI agent under one shared...",
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
       "tags": [
         "ai",
-        "discuss",
-        "agents",
-        "googlecloud"
+        "programming",
+        "architecture",
+        "unix"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuvxnpt75nzzsgaj4nb5i.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
-      "user": "Karthigayan Devan"
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform",
@@ -2712,14 +2758,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1183,
       "user": "rociiu"
     },
     {
       "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
       "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
       "published_at": "2026-10-15T21:09:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "amazon-web-services",
@@ -2834,21 +2880,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
-    },
-    {
-      "title": "An Agent’s Plan Isn’t Permission",
-      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
-      "published_at": "2026-10-14T12:05:28Z",
-      "description": "When a coding agent investigates a production bug, it might need to read a repository, query logs,...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
@@ -3011,19 +3042,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
-    },
-    {
-      "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
-      "url": "https://github.com/glincker/sslx",
-      "published_at": "2026-10-15T05:02:33.360-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gmem"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -3211,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1298,
+      "stars": 1364,
       "user": "HeyPuter"
     },
     {
@@ -3226,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1064,
       "user": "marclou"
     },
     {
@@ -3241,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 631,
       "user": "nateherkai"
     },
     {
@@ -3256,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 562,
       "user": "threerocks"
     },
     {
@@ -3271,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 453,
       "user": "rayytor"
     },
     {
@@ -3286,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2127,
       "user": "Arekejoker"
     },
     {
@@ -3301,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1032,
       "user": "zhuyansen"
     },
     {
@@ -3316,23 +3334,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 945,
       "user": "chenwei810"
-    },
-    {
-      "title": "SubmitGame/awesome-decomp-games - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
-      "url": "https://github.com/SubmitGame/awesome-decomp-games",
-      "published_at": "2026-10-09T15:15:18Z",
-      "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/334859005?v=4",
-      "source": "GitHub",
-      "stars": 841,
-      "user": "SubmitGame"
     },
     {
       "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
@@ -3350,6 +3353,21 @@
       "user": "jwuthri-cloud"
     },
     {
+      "title": "StoopwenpueNq/jackie-fmri-sim - jackie-fmri-sim",
+      "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
+      "published_at": "2026-10-14T10:14:56Z",
+      "description": "jackie-fmri-sim",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15234191?v=4",
+      "source": "GitHub",
+      "stars": 469,
+      "user": "StoopwenpueNq"
+    },
+    {
       "title": "feder-cr/open_scion - Open-source version of Scion: version control built for coding agents.",
       "url": "https://github.com/feder-cr/open_scion",
       "published_at": "2026-10-15T13:12:02Z",
@@ -3361,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 746,
       "user": "feder-cr"
     },
     {
@@ -3380,36 +3398,6 @@
       "user": "aindeev"
     },
     {
-      "title": "RuoJi6/ARTEX - Autumn-27/ARTEX 二开",
-      "url": "https://github.com/RuoJi6/ARTEX",
-      "published_at": "2026-10-09T00:56:36Z",
-      "description": "Autumn-27/ARTEX 二开",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/79234113?v=4",
-      "source": "GitHub",
-      "stars": 220,
-      "user": "RuoJi6"
-    },
-    {
-      "title": "bdg9412/artex-ko-plus - ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "url": "https://github.com/bdg9412/artex-ko-plus",
-      "published_at": "2026-10-09T11:36:03Z",
-      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46730741?v=4",
-      "source": "GitHub",
-      "stars": 187,
-      "user": "bdg9412"
-    },
-    {
       "title": "init-co-jp/diff-tour - Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
       "url": "https://github.com/init-co-jp/diff-tour",
       "published_at": "2026-10-10T09:19:05Z",
@@ -3421,8 +3409,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148442191?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 164,
       "user": "init-co-jp"
+    },
+    {
+      "title": "Binaryify/MonitorBar - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
+      "url": "https://github.com/Binaryify/MonitorBar",
+      "published_at": "2026-10-15T02:12:52Z",
+      "description": "macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
+      "source": "GitHub",
+      "stars": 123,
+      "user": "Binaryify"
+    },
+    {
+      "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "url": "https://github.com/caveman-ai/trim-1",
+      "published_at": "2026-10-14T03:05:27Z",
+      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "caveman-ai"
     },
     {
       "title": "shaongitbd/doory - Open source canva alternative",
@@ -3436,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
       "source": "GitHub",
-      "stars": 1305,
+      "stars": 1340,
       "user": "shaongitbd"
     },
     {
@@ -3451,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1183,
       "user": "rociiu"
     },
     {
@@ -3466,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1165,
       "user": "chenglou"
     },
     {
@@ -3481,38 +3499,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 962,
+      "stars": 1078,
       "user": "deeplethe"
     },
     {
-      "title": "YeonwooSung/my-claude-code-mods - Custom Claude Code Mods that I need",
-      "url": "https://github.com/YeonwooSung/my-claude-code-mods",
-      "published_at": "2026-10-09T13:09:11Z",
-      "description": "Custom Claude Code Mods that I need",
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30489717?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 831,
-      "user": "YeonwooSung"
-    },
-    {
-      "title": "storytold/craft-launcher - The Craft App Launcher",
-      "url": "https://github.com/storytold/craft-launcher",
-      "published_at": "2026-10-09T23:21:59Z",
-      "description": "The Craft App Launcher",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 2863,
-      "user": "storytold"
+      "stars": 840,
+      "user": "outcrawlai"
     },
     {
       "title": "liseami/CCBaga - GitHub Repository",
@@ -3526,23 +3529,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2338,
+      "stars": 2352,
       "user": "liseami"
-    },
-    {
-      "title": "storytold/figcraft - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
-      "url": "https://github.com/storytold/figcraft",
-      "published_at": "2026-10-09T16:02:13Z",
-      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
-      "source": "GitHub",
-      "stars": 1403,
-      "user": "storytold"
     },
     {
       "title": "opengeos/RustGIS - A fast, free and open-source GIS in pure Rust.",
@@ -3556,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1233,
       "user": "opengeos"
     },
     {
@@ -3571,14 +3559,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "c22dev"
+    },
+    {
+      "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+      "url": "https://github.com/solana-classic/solana-classic",
+      "published_at": "2026-10-13T19:35:48Z",
+      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
+      "source": "GitHub",
+      "stars": 397,
+      "user": "solana-classic"
+    },
+    {
+      "title": "deepfounder-ai/desigma - Free Figma alternative made on Rust",
+      "url": "https://github.com/deepfounder-ai/desigma",
+      "published_at": "2026-10-11T00:26:12Z",
+      "description": "Free Figma alternative made on Rust",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "deepfounder-ai"
     },
     {
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
       "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
       "published_at": "2026-10-15T09:52:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "fastapi",
