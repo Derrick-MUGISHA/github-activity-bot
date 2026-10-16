@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "The Model Is the Easy Part",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
-      "published_at": "2026-10-14T12:04:00Z",
-      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
-      "tags": [
-        "ai",
-        "llm",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
-      "source": "Dev.to",
-      "user": "Steven Latre"
-    },
-    {
       "title": "Are You Smarter Than a Fruit Fly?",
       "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
       "published_at": "2026-10-14T12:04:21Z",
@@ -286,21 +271,6 @@
       "user": "Robina Mirbahar"
     },
     {
-      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
-      "url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
-      "published_at": "2026-10-14T12:04:49Z",
-      "description": "Have you ever told your AI agent something important, only to realize a few conversations later that...",
-      "tags": [
-        "ai",
-        "agents",
-        "memory",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png",
-      "source": "Dev.to",
-      "user": "Sparsh Jain"
-    },
-    {
       "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
       "url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
       "published_at": "2026-10-12T10:30:20Z",
@@ -376,21 +346,6 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "An Agent’s Plan Isn’t Permission",
-      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
-      "published_at": "2026-10-14T12:05:28Z",
-      "description": "When a coding agent investigates a production bug, it might need to read a repository, query logs,...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64",
       "url": "https://dev.to/gde/gemma-4-on-a-used-8-gb-rtx-3050-116-tokenss-for-one-user-618-for-64-k6h",
       "published_at": "2026-10-15T00:46:07Z",
@@ -433,21 +388,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "One Weekend: 3,000 Open-Source AI Projects",
-      "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65",
-      "published_at": "2026-10-11T19:43:45Z",
-      "description": "Every October for the past twelve years, developers around the world have taken part in...",
-      "tags": [
-        "aie",
-        "hacktoberfest",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ez8hua8zoepb31imryi.jpg",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "You Should Know About System One Models",
@@ -657,6 +597,21 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
+      "url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
+      "published_at": "2026-10-14T12:04:49Z",
+      "description": "Have you ever told your AI agent something important, only to realize a few conversations later that...",
+      "tags": [
+        "ai",
+        "agents",
+        "memory",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91efzweikljl6q02lhwm.png",
+      "source": "Dev.to",
+      "user": "Sparsh Jain"
+    },
+    {
       "title": "Does your agent have ID?",
       "url": "https://dev.to/dailycontext/does-your-agent-have-id-58ok",
       "published_at": "2026-10-11T19:42:56Z",
@@ -685,6 +640,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F19w2sm4no5mtyl4ohrel.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "The Model Is the Easy Part",
+      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
+      "published_at": "2026-10-14T12:04:00Z",
+      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
+      "tags": [
+        "ai",
+        "llm",
+        "opensource",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
+      "source": "Dev.to",
+      "user": "Steven Latre"
+    },
+    {
+      "title": "An Agent’s Plan Isn’t Permission",
+      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
+      "published_at": "2026-10-14T12:05:28Z",
+      "description": "When a coding agent investigates a production bug, it might need to read a repository, query logs,...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "I Built a Cozy 60 FPS AI Agent Bakery Game (Built with Gemma 4 & Antigravity) to Teach RAG, Guardrails & Multi-Agent Orchestration",
@@ -970,7 +955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1105,
       "user": "marclou"
     },
     {
@@ -985,7 +970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 658,
       "user": "nateherkai"
     },
     {
@@ -1000,7 +985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1058,
       "user": "zhuyansen"
     },
     {
@@ -1015,8 +1000,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 829,
       "user": "jwuthri-cloud"
+    },
+    {
+      "title": "feder-cr/git-ai - Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "published_at": "2026-10-15T13:12:02Z",
+      "description": "Git designed for AI agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
+      "source": "GitHub",
+      "stars": 1032,
+      "user": "feder-cr"
     },
     {
       "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
@@ -1045,68 +1045,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "caveman-ai"
-    },
-    {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
-      "source": "GitHub",
-      "stars": 1293,
-      "user": "chenglou"
-    },
-    {
-      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "published_at": "2026-10-12T09:19:02Z",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
-      "source": "GitHub",
-      "stars": 1220,
-      "user": "deeplethe"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 1216,
-      "user": "rociiu"
-    },
-    {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
-      "source": "GitHub",
-      "stars": 867,
-      "user": "outcrawlai"
     },
     {
       "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
@@ -1120,7 +1060,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 424,
       "user": "solana-classic"
     },
     {
@@ -1135,7 +1075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 256,
       "user": "deepfounder-ai"
     },
     {
@@ -1152,19 +1092,6 @@
       "user": "thang"
     },
     {
-      "title": "Forgejo v17.0 is available",
-      "url": "https://forgejo.org/2026-10-release-v17-0/",
-      "published_at": "2026-10-15T14:43:19.853-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "release",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hugoarnal"
-    },
-    {
       "title": "Epic's EAC2 v2 seems fairly easily bypassable",
       "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
       "published_at": "2026-10-15T17:48:19.614-05:00",
@@ -1176,6 +1103,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "calvin"
+    },
+    {
+      "title": "Forgejo v17.0 is available",
+      "url": "https://forgejo.org/2026-10-release-v17-0/",
+      "published_at": "2026-10-15T14:43:19.853-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
     },
     {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
@@ -1192,13 +1132,31 @@
       "user": "mandoguy"
     },
     {
+      "title": "Replit&#8217;s CEO says the future of work is the &#8216;self-driving company&#8217;",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "published_at": "2026-10-16T12:55:09.000Z",
+      "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "AI agents",
+        "Amjad Masad",
+        "future of work"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
       "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
       "published_at": "2026-10-16T05:16:46.000Z",
       "description": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
       "tags": [
         "TC",
-        "Venture"
+        "Venture",
+        "Benchmark Partners",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1297,20 +1255,17 @@
       "user": "Aditya Mehta"
     },
     {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "published_at": "2026-10-15T18:56:46.000Z",
-      "description": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "title": "The Anatomy of an AI Data Center",
+      "url": "https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/",
+      "published_at": "2026-10-16T11:56:17.000Z",
+      "description": "Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta",
       "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Bluesky",
-        "TechCrunch Disrupt"
+        "Data Center",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -1371,22 +1326,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Javeed Shaik"
-    },
-    {
-      "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
-      "url": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
-      "published_at": "2026-10-11T09:46:41.000Z",
-      "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "TypeScript",
-        "observability",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "JavaScript": [
@@ -1567,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1565,
       "user": "HeyPuter"
     },
     {
@@ -1582,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1105,
       "user": "marclou"
     },
     {
@@ -1597,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 658,
       "user": "nateherkai"
     },
     {
@@ -1612,7 +1551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 612,
       "user": "threerocks"
     },
     {
@@ -1627,89 +1566,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 464,
       "user": "rayytor"
     },
     {
-      "title": "shaongitbd/doory - Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "published_at": "2026-10-10T00:03:25Z",
-      "description": "Open source canva alternative",
+      "title": "Synchronous text file reading in browser",
+      "url": "https://stackoverflow.com/questions/80010550/synchronous-text-file-reading-in-browser",
+      "published_at": "2026-10-16T12:20:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "asynchronous"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
-      "source": "GitHub",
-      "stars": 1363,
-      "user": "shaongitbd"
-    },
-    {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
-      "source": "GitHub",
-      "stars": 1293,
-      "user": "chenglou"
-    },
-    {
-      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "published_at": "2026-10-12T09:19:02Z",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
-      "source": "GitHub",
-      "stars": 1220,
-      "user": "deeplethe"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 1216,
-      "user": "rociiu"
-    },
-    {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
-      "source": "GitHub",
-      "stars": 867,
-      "user": "outcrawlai"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lulook"
     },
     {
       "title": "Tabulator with nested tables jumping to top when updating a sub-table",
       "url": "https://stackoverflow.com/questions/80010495/tabulator-with-nested-tables-jumping-to-top-when-updating-a-sub-table",
       "published_at": "2026-10-16T08:24:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "tabulator",
@@ -1723,7 +1600,7 @@
       "title": "Facebook Page Plugin Stopped Working w/o Deploying",
       "url": "https://stackoverflow.com/questions/80010400/facebook-page-plugin-stopped-working-w-o-deploying",
       "published_at": "2026-10-15T22:25:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "facebook",
@@ -1751,7 +1628,7 @@
       "title": "CounterFactory Troubleshooting",
       "url": "https://stackoverflow.com/questions/80010376/counterfactory-troubleshooting",
       "published_at": "2026-10-15T19:58:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "function"
@@ -1764,7 +1641,7 @@
       "title": "How do I scrape streams from streaming sites like VidSRC, vidfast or any other equivalent site",
       "url": "https://stackoverflow.com/questions/80010348/how-do-i-scrape-streams-from-streaming-sites-like-vidsrc-vidfast-or-any-other-e",
       "published_at": "2026-10-15T16:57:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -13",
       "tags": [
         "javascript",
         "streaming",
@@ -1829,21 +1706,6 @@
       "user": "Moon Lich"
     },
     {
-      "title": "How to override styles of React component with vanilla extract?",
-      "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
-      "published_at": "2026-10-14T14:35:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "css",
-        "reactjs",
-        "vanilla-extract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Billy Moon"
-    },
-    {
       "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
       "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
       "published_at": "2026-10-15T09:52:19.000Z",
@@ -1872,38 +1734,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Alex Oliinyk"
-    },
-    {
-      "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
-      "url": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
-      "published_at": "2026-10-11T09:46:41.000Z",
-      "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "TypeScript",
-        "observability",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
-      "url": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
-      "published_at": "2026-10-11T09:31:06.000Z",
-      "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
-      "tags": [
-        "Next.js",
-        "SEO",
-        "TypeScript",
-        "React",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Saar Twito"
     }
   ],
   "Python": [
@@ -2054,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2289,
+      "stars": 2396,
       "user": "Arekejoker"
     },
     {
@@ -2069,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1058,
       "user": "zhuyansen"
     },
     {
@@ -2084,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 983,
       "user": "chenwei810"
     },
     {
@@ -2099,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 829,
       "user": "jwuthri-cloud"
     },
     {
@@ -2121,7 +1951,7 @@
       "title": "Can I broadcast with numpy character find",
       "url": "https://stackoverflow.com/questions/80010398/can-i-broadcast-with-numpy-character-find",
       "published_at": "2026-10-15T22:19:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
         "numpy",
@@ -2135,7 +1965,7 @@
       "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
       "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
       "published_at": "2026-10-15T21:09:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "amazon-web-services",
@@ -2188,19 +2018,6 @@
       "user": "stefisha"
     },
     {
-      "title": "How do I access CGI form variables in current Python?",
-      "url": "https://stackoverflow.com/questions/80010248/how-do-i-access-cgi-form-variables-in-current-python",
-      "published_at": "2026-10-15T12:14:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "cgi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Christos Hayward"
-    },
-    {
       "title": "Requests cache does not store requests or use cache",
       "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
       "published_at": "2026-10-14T15:10:06.000Z",
@@ -2215,18 +2032,17 @@
       "user": "Jeyekomon"
     },
     {
-      "title": "Filtering polars using a dictionary",
-      "url": "https://stackoverflow.com/questions/80009941/filtering-polars-using-a-dictionary",
-      "published_at": "2026-10-14T10:25:34.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "title": "How do I access CGI form variables in current Python?",
+      "url": "https://stackoverflow.com/questions/80010248/how-do-i-access-cgi-form-variables-in-current-python",
+      "published_at": "2026-10-15T12:14:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
-        "dataframe",
-        "python-polars"
+        "cgi"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "raphf"
+      "user": "Christos Hayward"
     },
     {
       "title": "Django Admin Page not found (404) - First time accessing. error with only admin page",
@@ -2254,6 +2070,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ramiro chalar"
+    },
+    {
+      "title": "How can I update the font size for all of the UI in pyqt",
+      "url": "https://stackoverflow.com/questions/80009992/how-can-i-update-the-font-size-for-all-of-the-ui-in-pyqt",
+      "published_at": "2026-10-14T13:56:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "user-interface",
+        "fonts",
+        "pyqt",
+        "pyqt6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hossein Dastoory"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -2465,22 +2297,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Amina Lawal"
-    },
-    {
-      "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
-      "url": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
-      "published_at": "2026-10-11T09:46:41.000Z",
-      "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
-      "tags": [
-        "software architecture",
-        "Devops",
-        "TypeScript",
-        "observability",
-        "Artificial Intelligence"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "WebDev": [
@@ -2512,21 +2328,6 @@
       "user": "velmu"
     },
     {
-      "title": "How to override styles of React component with vanilla extract?",
-      "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
-      "published_at": "2026-10-14T14:35:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "css",
-        "reactjs",
-        "vanilla-extract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Billy Moon"
-    },
-    {
       "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
       "url": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
       "published_at": "2026-10-15T04:40:21.000Z",
@@ -2555,22 +2356,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Abhinay Gokul"
-    },
-    {
-      "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
-      "url": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
-      "published_at": "2026-10-11T09:31:06.000Z",
-      "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
-      "tags": [
-        "Next.js",
-        "SEO",
-        "TypeScript",
-        "React",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Saar Twito"
     }
   ],
   "Mobile": [
@@ -2645,7 +2430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 627,
       "user": "c22dev"
     },
     {
@@ -2782,29 +2567,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 829,
       "user": "jwuthri-cloud"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 1216,
-      "user": "rociiu"
     },
     {
       "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
       "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
       "published_at": "2026-10-15T21:09:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "amazon-web-services",
@@ -2921,21 +2691,6 @@
       "user": "Robina Mirbahar"
     },
     {
-      "title": "An Agent’s Plan Isn’t Permission",
-      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
-      "published_at": "2026-10-14T12:05:28Z",
-      "description": "When a coding agent investigates a production bug, it might need to read a repository, query logs,...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
       "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
       "published_at": "2026-10-12T21:03:17Z",
@@ -2964,6 +2719,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz09vp969urk3b4ys9l1m.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
+    },
+    {
+      "title": "An Agent’s Plan Isn’t Permission",
+      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
+      "published_at": "2026-10-14T12:05:28Z",
+      "description": "When a coding agent investigates a production bug, it might need to read a repository, query logs,...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3296,7 +3066,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1565,
       "user": "HeyPuter"
     },
     {
@@ -3311,7 +3081,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
       "source": "GitHub",
-      "stars": 1089,
+      "stars": 1105,
       "user": "marclou"
     },
     {
@@ -3326,7 +3096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 658,
       "user": "nateherkai"
     },
     {
@@ -3341,7 +3111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 612,
       "user": "threerocks"
     },
     {
@@ -3356,7 +3126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 464,
       "user": "rayytor"
     },
     {
@@ -3371,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2289,
+      "stars": 2396,
       "user": "Arekejoker"
     },
     {
@@ -3386,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1058,
       "user": "zhuyansen"
     },
     {
@@ -3401,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 983,
       "user": "chenwei810"
     },
     {
@@ -3416,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 829,
       "user": "jwuthri-cloud"
     },
     {
@@ -3435,10 +3205,10 @@
       "user": "StoopwenpueNq"
     },
     {
-      "title": "feder-cr/open_scion - Open-source version of Scion: version control built for coding agents.",
-      "url": "https://github.com/feder-cr/open_scion",
+      "title": "feder-cr/git-ai - Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
       "published_at": "2026-10-15T13:12:02Z",
-      "description": "Open-source version of Scion: version control built for coding agents.",
+      "description": "Git designed for AI agents.",
       "tags": [
         "go",
         "github",
@@ -3446,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1032,
       "user": "feder-cr"
     },
     {
@@ -3476,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148442191?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 169,
       "user": "init-co-jp"
     },
     {
@@ -3491,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 137,
       "user": "Binaryify"
     },
     {
@@ -3506,83 +3276,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 113,
       "user": "caveman-ai"
-    },
-    {
-      "title": "shaongitbd/doory - Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "published_at": "2026-10-10T00:03:25Z",
-      "description": "Open source canva alternative",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
-      "source": "GitHub",
-      "stars": 1363,
-      "user": "shaongitbd"
-    },
-    {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
-      "source": "GitHub",
-      "stars": 1293,
-      "user": "chenglou"
-    },
-    {
-      "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "published_at": "2026-10-12T09:19:02Z",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
-      "source": "GitHub",
-      "stars": 1220,
-      "user": "deeplethe"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 1216,
-      "user": "rociiu"
-    },
-    {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
-      "source": "GitHub",
-      "stars": 867,
-      "user": "outcrawlai"
     },
     {
       "title": "liseami/CCBaga - GitHub Repository",
@@ -3596,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2366,
+      "stars": 2388,
       "user": "liseami"
     },
     {
@@ -3611,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
       "source": "GitHub",
-      "stars": 1262,
+      "stars": 1297,
       "user": "opengeos"
     },
     {
@@ -3626,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 627,
       "user": "c22dev"
     },
     {
@@ -3641,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 424,
       "user": "solana-classic"
     },
     {
@@ -3656,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 256,
       "user": "deepfounder-ai"
     },
     {
