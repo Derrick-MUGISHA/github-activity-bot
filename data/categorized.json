@@ -285,21 +285,6 @@
       "user": "Allen Firstenberg"
     },
     {
-      "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
-      "url": "https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj",
-      "published_at": "2026-10-13T20:01:11Z",
-      "description": "Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.",
-      "tags": [
-        "ai",
-        "python",
-        "security",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -494,21 +479,6 @@
       "user": "DigitalOcean"
     },
     {
-      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
-      "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
-      "published_at": "2026-10-12T21:02:54Z",
-      "description": "Does the progress in frontier AI capabilities lead to superhuman performance in finance?  Finance is...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "finance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
-      "source": "Dev.to",
-      "user": "Ashwin Paranjape"
-    },
-    {
       "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
       "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
       "published_at": "2026-10-13T01:20:25Z",
@@ -522,6 +492,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
+      "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
+      "published_at": "2026-10-12T21:02:54Z",
+      "description": "Does the progress in frontier AI capabilities lead to superhuman performance in finance?  Finance is...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "finance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
+      "source": "Dev.to",
+      "user": "Ashwin Paranjape"
     },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
@@ -762,6 +747,21 @@
       "user": "Sid Pednekar"
     },
     {
+      "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
+      "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p",
+      "published_at": "2026-10-14T12:05:21Z",
+      "description": "In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...",
+      "tags": [
+        "ai",
+        "agents",
+        "evals",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -930,6 +930,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "published_at": "2026-10-12T16:40:29Z",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "source": "GitHub",
+      "stars": 340,
+      "user": "NB-Corp"
+    },
+    {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "url": "https://github.com/zhuyansen/new-term-radar",
       "published_at": "2026-10-12T07:11:01Z",
@@ -941,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1075,
       "user": "zhuyansen"
     },
     {
@@ -956,23 +971,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 867,
       "user": "jwuthri-cloud"
     },
     {
-      "title": "yeyuxin777/baoyan-agent-benchmark - Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
-      "published_at": "2026-10-12T09:15:11Z",
-      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "published_at": "2026-10-15T06:52:46Z",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32065217?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 504,
-      "user": "yeyuxin777"
+      "stars": 532,
+      "user": "Leonxlnx"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -986,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1102,
       "user": "feder-cr"
     },
     {
@@ -1001,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 129,
       "user": "caveman-ai"
     },
     {
@@ -1020,21 +1035,6 @@
       "user": "bluechips-zhao"
     },
     {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
-      "source": "GitHub",
-      "stars": 1628,
-      "user": "chenglou"
-    },
-    {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
       "url": "https://github.com/deeplethe/solid-glass",
       "published_at": "2026-10-12T09:19:02Z",
@@ -1046,8 +1046,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1621,
+      "stars": 1678,
       "user": "deeplethe"
+    },
+    {
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "source": "GitHub",
+      "stars": 1645,
+      "user": "chenglou"
     },
     {
       "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
@@ -1061,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 923,
       "user": "outcrawlai"
     },
     {
@@ -1076,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 817,
       "user": "CoolkHz"
     },
     {
@@ -1091,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 476,
       "user": "solana-classic"
     },
     {
@@ -1106,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 289,
       "user": "deepfounder-ai"
     },
     {
@@ -1121,7 +1136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 226,
       "user": "Graphicle-AI"
     },
     {
@@ -1163,6 +1178,18 @@
       "user": "thang"
     },
     {
+      "title": "Do you let LLMs write both your tests and your code?",
+      "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+      "published_at": "2026-10-16T18:53:05.634-05:00",
+      "description": "I'm curious what stance others have taken? Or what they've experienced with this? I'm toying with adding a rule to our values.md that the LLM can only significantly generate one or the other.\r\n\r\nI'm reviewing a merge request at the moment where it's clear the LLM mostly did both, and they're highly tautological. And I can see how it over engineered the code, just to be able to write more tests almost.",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "travisgriggs"
+    },
+    {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
       "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
       "published_at": "2026-10-15T20:58:47.000Z",
@@ -1183,7 +1210,7 @@
       "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
-        "python-3.x"
+        "python-asyncio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1382,21 +1409,6 @@
       "user": "Allen Firstenberg"
     },
     {
-      "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
-      "url": "https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj",
-      "published_at": "2026-10-13T20:01:11Z",
-      "description": "Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.",
-      "tags": [
-        "ai",
-        "python",
-        "security",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "I Built a Cozy 60 FPS AI Agent Bakery Game (Built with Gemma 4 & Antigravity) to Teach RAG, Guardrails & Multi-Agent Orchestration",
       "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
       "published_at": "2026-10-13T20:49:38Z",
@@ -1532,6 +1544,81 @@
       "user": "velmu"
     },
     {
+      "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
+      "url": "https://github.com/HeyPuter/everything",
+      "published_at": "2026-10-13T16:18:22Z",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
+      "source": "GitHub",
+      "stars": 1936,
+      "user": "HeyPuter"
+    },
+    {
+      "title": "threerocks/sweety-handdraw-video - 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "url": "https://github.com/threerocks/sweety-handdraw-video",
+      "published_at": "2026-10-12T12:16:18Z",
+      "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
+      "source": "GitHub",
+      "stars": 663,
+      "user": "threerocks"
+    },
+    {
+      "title": "rayytor/desktop_gifs - Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "url": "https://github.com/rayytor/desktop_gifs",
+      "published_at": "2026-10-11T05:43:14Z",
+      "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
+      "source": "GitHub",
+      "stars": 483,
+      "user": "rayytor"
+    },
+    {
+      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "published_at": "2026-10-12T16:40:29Z",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "source": "GitHub",
+      "stars": 340,
+      "user": "NB-Corp"
+    },
+    {
+      "title": "YIAN6557/eian-riso-broll - 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "url": "https://github.com/YIAN6557/eian-riso-broll",
+      "published_at": "2026-10-11T15:17:37Z",
+      "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314587746?v=4",
+      "source": "GitHub",
+      "stars": 303,
+      "user": "YIAN6557"
+    },
+    {
       "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
       "url": "https://github.com/bluechips-zhao/DITING",
       "published_at": "2026-10-11T06:14:28Z",
@@ -1547,21 +1634,6 @@
       "user": "bluechips-zhao"
     },
     {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
-      "source": "GitHub",
-      "stars": 1628,
-      "user": "chenglou"
-    },
-    {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
       "url": "https://github.com/deeplethe/solid-glass",
       "published_at": "2026-10-12T09:19:02Z",
@@ -1573,8 +1645,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1621,
+      "stars": 1678,
       "user": "deeplethe"
+    },
+    {
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "source": "GitHub",
+      "stars": 1645,
+      "user": "chenglou"
     },
     {
       "title": "Caho1/open-claude-ui - 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
@@ -1588,7 +1675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1094,
       "user": "Caho1"
     },
     {
@@ -1603,7 +1690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 923,
       "user": "outcrawlai"
     },
     {
@@ -1618,8 +1705,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 817,
       "user": "CoolkHz"
+    },
+    {
+      "title": "Can setting/retrieving properties on any HTML element be a security risk?",
+      "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
+      "published_at": "2026-10-16T17:33:40.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KooiInc"
     },
     {
       "title": "Synchronous text file reading in browser",
@@ -1633,19 +1733,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lulook"
-    },
-    {
-      "title": "Can setting/retrieving properties on any HTML element be a security risk?",
-      "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
-      "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KooiInc"
     },
     {
       "title": "Tabulator with nested tables jumping to top when updating a sub-table",
@@ -1730,18 +1817,18 @@
       "user": "Fizza Munir"
     },
     {
-      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
-      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
-      "published_at": "2011-07-01T17:48:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 332",
+      "title": "How to convert uint8 Array to base64 Encoded String?",
+      "url": "https://stackoverflow.com/questions/12710001/how-to-convert-uint8-array-to-base64-encoded-string",
+      "published_at": "2012-10-03T13:52:42.000Z",
+      "description": "Stack Overflow question · 18 answers · score 188",
       "tags": [
         "javascript",
-        "html",
-        "github"
+        "arrays",
+        "base64"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Domenic"
+      "user": "Caio Keto"
     },
     {
       "title": "package.json exports vs exporting everything in index.js",
@@ -1820,21 +1907,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
-      "url": "https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj",
-      "published_at": "2026-10-13T20:01:11Z",
-      "description": "Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.",
-      "tags": [
-        "ai",
-        "python",
-        "security",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1968,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2569,
+      "stars": 2585,
       "user": "Arekejoker"
     },
     {
@@ -1983,7 +2055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1075,
       "user": "zhuyansen"
     },
     {
@@ -1998,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1038,
       "user": "chenwei810"
     },
     {
@@ -2013,29 +2085,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 867,
       "user": "jwuthri-cloud"
     },
     {
-      "title": "yeyuxin777/baoyan-agent-benchmark - Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
-      "published_at": "2026-10-12T09:15:11Z",
-      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "published_at": "2026-10-15T06:52:46Z",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32065217?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 504,
-      "user": "yeyuxin777"
+      "stars": 532,
+      "user": "Leonxlnx"
+    },
+    {
+      "title": "new to Python and i need help shipping app",
+      "url": "https://stackoverflow.com/questions/80010736/new-to-python-and-i-need-help-shipping-app",
+      "published_at": "2026-10-17T12:49:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "windows",
+        "macos",
+        "pyinstaller"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Garner Jarrett"
     },
     {
       "title": "Python can't find function from imported module - first time creating an __init__.py file",
       "url": "https://stackoverflow.com/questions/80010672/python-cant-find-function-from-imported-module-first-time-creating-an-init",
       "published_at": "2026-10-17T03:55:46.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -3",
       "tags": [
         "python"
       ],
@@ -2044,10 +2131,23 @@
       "user": "OutThere"
     },
     {
+      "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
+      "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
+      "published_at": "2026-10-16T17:28:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhargav"
+    },
+    {
       "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
       "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
       "published_at": "2026-10-17T03:03:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "python-3.x",
@@ -2062,7 +2162,7 @@
       "title": "Why cant the input() command let me output more commands?",
       "url": "https://stackoverflow.com/questions/80010607/why-cant-the-input-command-let-me-output-more-commands",
       "published_at": "2026-10-16T17:33:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python",
         "user-input"
@@ -2103,19 +2203,6 @@
       "user": "robert driscoll"
     },
     {
-      "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
-      "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
-      "published_at": "2026-10-16T17:28:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-3.x"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhargav"
-    },
-    {
       "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
       "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
       "published_at": "2026-10-15T21:09:42.000Z",
@@ -2142,19 +2229,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "I.P. Freeley"
-    },
-    {
-      "title": "googletrans - python - Is not translating",
-      "url": "https://stackoverflow.com/questions/80010106/googletrans-python-is-not-translating",
-      "published_at": "2026-10-15T01:05:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "googletrans"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rmor23"
     },
     {
       "title": "Requests cache does not store requests or use cache",
@@ -2427,14 +2501,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 817,
       "user": "CoolkHz"
     },
     {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -2442,20 +2516,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KooiInc"
-    },
-    {
-      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
-      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
-      "published_at": "2011-07-01T17:48:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 332",
-      "tags": [
-        "javascript",
-        "html",
-        "github"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Domenic"
     },
     {
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
@@ -2697,7 +2757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 867,
       "user": "jwuthri-cloud"
     },
     {
@@ -2881,21 +2941,6 @@
       "user": "JimmyLiao"
     },
     {
-      "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
-      "url": "https://dev.to/gde/deep-dive-autonomous-code-auditing-40-python-speedups-stateful-1m-token-agents-with-gemini-4-46oj",
-      "published_at": "2026-10-13T20:01:11Z",
-      "description": "Engineering deep dive into Gemini 4 Argon (77.9% DeepSWE v1.1 SOTA): building autonomous security/performance code auditors, stateful previous_interaction_id agent chains, and 1M-token TypeScript streams.",
-      "tags": [
-        "ai",
-        "python",
-        "security",
-        "typescript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fgemini-4-argon-cookbook%2Fmain%2Fassets%2Frobina_argon_deepswe_infographic.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
       "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
       "published_at": "2026-10-12T21:03:17Z",
@@ -3073,23 +3118,10 @@
       "user": "ewenjo"
     },
     {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "published_at": "2026-10-16T10:41:08.721-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "openbsd",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "friday"
-    },
-    {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -3273,6 +3305,81 @@
       "user": "pabs3"
     },
     {
+      "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
+      "url": "https://github.com/HeyPuter/everything",
+      "published_at": "2026-10-13T16:18:22Z",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
+      "source": "GitHub",
+      "stars": 1936,
+      "user": "HeyPuter"
+    },
+    {
+      "title": "threerocks/sweety-handdraw-video - 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "url": "https://github.com/threerocks/sweety-handdraw-video",
+      "published_at": "2026-10-12T12:16:18Z",
+      "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
+      "source": "GitHub",
+      "stars": 663,
+      "user": "threerocks"
+    },
+    {
+      "title": "rayytor/desktop_gifs - Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "url": "https://github.com/rayytor/desktop_gifs",
+      "published_at": "2026-10-11T05:43:14Z",
+      "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
+      "source": "GitHub",
+      "stars": 483,
+      "user": "rayytor"
+    },
+    {
+      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "published_at": "2026-10-12T16:40:29Z",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "source": "GitHub",
+      "stars": 340,
+      "user": "NB-Corp"
+    },
+    {
+      "title": "YIAN6557/eian-riso-broll - 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "url": "https://github.com/YIAN6557/eian-riso-broll",
+      "published_at": "2026-10-11T15:17:37Z",
+      "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314587746?v=4",
+      "source": "GitHub",
+      "stars": 303,
+      "user": "YIAN6557"
+    },
+    {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "published_at": "2026-10-13T03:09:42Z",
@@ -3284,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2569,
+      "stars": 2585,
       "user": "Arekejoker"
     },
     {
@@ -3299,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1075,
       "user": "zhuyansen"
     },
     {
@@ -3314,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1028,
+      "stars": 1038,
       "user": "chenwei810"
     },
     {
@@ -3329,23 +3436,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 867,
       "user": "jwuthri-cloud"
     },
     {
-      "title": "yeyuxin777/baoyan-agent-benchmark - Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
-      "published_at": "2026-10-12T09:15:11Z",
-      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "published_at": "2026-10-15T06:52:46Z",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32065217?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 504,
-      "user": "yeyuxin777"
+      "stars": 532,
+      "user": "Leonxlnx"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3359,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1102,
       "user": "feder-cr"
     },
     {
@@ -3374,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 508,
       "user": "rohit267"
     },
     {
@@ -3404,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 129,
       "user": "caveman-ai"
     },
     {
@@ -3423,21 +3530,6 @@
       "user": "bluechips-zhao"
     },
     {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
-      "source": "GitHub",
-      "stars": 1628,
-      "user": "chenglou"
-    },
-    {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
       "url": "https://github.com/deeplethe/solid-glass",
       "published_at": "2026-10-12T09:19:02Z",
@@ -3449,8 +3541,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1621,
+      "stars": 1678,
       "user": "deeplethe"
+    },
+    {
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "source": "GitHub",
+      "stars": 1645,
+      "user": "chenglou"
     },
     {
       "title": "Caho1/open-claude-ui - 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
@@ -3464,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1094,
       "user": "Caho1"
     },
     {
@@ -3479,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 923,
       "user": "outcrawlai"
     },
     {
@@ -3494,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 815,
+      "stars": 817,
       "user": "CoolkHz"
     },
     {
@@ -3509,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2474,
+      "stars": 2514,
       "user": "liseami"
     },
     {
@@ -3524,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 476,
       "user": "solana-classic"
     },
     {
@@ -3539,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 289,
       "user": "deepfounder-ai"
     },
     {
@@ -3554,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "VallierDev"
     },
     {
@@ -3569,22 +3676,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 226,
       "user": "Graphicle-AI"
-    },
-    {
-      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
-      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
-      "published_at": "2011-07-01T17:48:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 332",
-      "tags": [
-        "javascript",
-        "html",
-        "github"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Domenic"
     },
     {
       "title": "Waymo&#8217;s robotaxis are headed to Canada",

@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-179-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--10--17-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-17 11:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-17 15:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner](https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567) | Dev.to |
 | 20 | [Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform](https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib) | Dev.to |
 
-<sub>Last fetched: Sat, 17 Oct 2026 11:46:20 CAT</sub>
+<sub>Last fetched: Sat, 17 Oct 2026 15:19:38 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the median of two sorted arrays**
+**1. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> Sliding window, hash map, two pointers
 
 </details>
 
-**2. `DataStructures` — Implement LRU Cache**
+**2. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
-**3. `Database` — What is the difference between SQL and NoSQL databases?**
+**3. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Schema, scalability, ACID vs BASE
+> Token bucket, sliding window, Redis
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 95 | 53.1% | `████████████████████` |
-| **Tools** | 35 | 19.6% | `███████░░░░░░░░░░░░░` |
-| **JavaScript** | 31 | 17.3% | `███████░░░░░░░░░░░░░` |
-| **Python** | 31 | 17.3% | `███████░░░░░░░░░░░░░` |
-| **Security** | 21 | 11.7% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 13 | 7.3% | `███░░░░░░░░░░░░░░░░░` |
-| **Cloud** | 13 | 7.3% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.5% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 7 | 3.9% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 97 | 52.7% | `████████████████████` |
+| **Tools** | 39 | 21.2% | `████████░░░░░░░░░░░░` |
+| **JavaScript** | 35 | 19.0% | `███████░░░░░░░░░░░░░` |
+| **Python** | 30 | 16.3% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 19 | 10.3% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.8% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 7 | 3.8% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -184,7 +184,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |--------|---------:|
 | Dev.to | 60 |
 | HackerNews | 49 |
-| GitHub | 20 |
+| GitHub | 25 |
 | Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
@@ -194,22 +194,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.1%
-Python          ████████████████████████ 23.1%
-JavaScript      ████████████████████████ 23.1%
-Java            ██████████████████ 17.9%
-Rust            █████ 4.5%
-Ruby            ██ 1.5%
+Go              ██████████████████████████████ 26.4%
+JavaScript      ████████████████████████████ 25.0%
+Python          ████████████████████████ 21.4%
+Java            ████████████████████████ 20.7%
+Rust            █████ 4.3%
+Ruby            ██ 1.4%
 Swift           █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 39
-    "Python" : 31
-    "JavaScript" : 31
-    "Java" : 24
+    "Go" : 37
+    "JavaScript" : 35
+    "Python" : 30
+    "Java" : 29
     "Rust" : 6
     "Ruby" : 2
     "Swift" : 1
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-56-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-26-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-23-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-21-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-20-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-15-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-56-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-16-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 17 Oct 2026 09:46:20 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 17 Oct 2026 13:19:38 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
