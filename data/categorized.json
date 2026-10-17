@@ -45,21 +45,6 @@
       "user": "Jem"
     },
     {
-      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
-      "published_at": "2026-10-16T14:52:20Z",
-      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
       "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
       "published_at": "2026-10-16T16:43:29Z",
@@ -118,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
+      "published_at": "2026-10-16T14:52:20Z",
+      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -315,6 +315,21 @@
       "user": "xbill"
     },
     {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
       "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
       "published_at": "2026-10-14T12:04:58Z",
@@ -387,21 +402,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq9hxfwmw34a5t6yzqof6.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
-    },
-    {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -941,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 325,
       "user": "NB-Corp"
     },
     {
@@ -956,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1067,
       "user": "zhuyansen"
     },
     {
@@ -975,6 +975,21 @@
       "user": "jwuthri-cloud"
     },
     {
+      "title": "yeyuxin777/baoyan-agent-benchmark - Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "published_at": "2026-10-12T09:15:11Z",
+      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32065217?v=4",
+      "source": "GitHub",
+      "stars": 504,
+      "user": "yeyuxin777"
+    },
+    {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
       "url": "https://github.com/feder-cr/git-ai",
       "published_at": "2026-10-15T13:12:02Z",
@@ -986,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1061,
+      "stars": 1073,
       "user": "feder-cr"
     },
     {
@@ -1001,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 120,
       "user": "caveman-ai"
     },
     {
@@ -1016,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "bluechips-zhao"
     },
     {
@@ -1031,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1561,
+      "stars": 1597,
       "user": "chenglou"
     },
     {
@@ -1046,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1516,
       "user": "deeplethe"
     },
     {
@@ -1061,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 904,
       "user": "outcrawlai"
     },
     {
@@ -1076,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 813,
       "user": "CoolkHz"
     },
     {
@@ -1091,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 456,
       "user": "solana-classic"
     },
     {
@@ -1106,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 282,
       "user": "deepfounder-ai"
     },
     {
@@ -1184,6 +1199,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhargav"
+    },
+    {
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "published_at": "2026-10-17T02:36:18.000Z",
+      "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "tags": [
+        "Biotech & Health",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -1287,21 +1315,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "published_at": "2026-10-16T14:26:51.000Z",
-      "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "filmmaking",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -1541,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1740,
+      "stars": 1793,
       "user": "HeyPuter"
     },
     {
@@ -1556,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 650,
       "user": "threerocks"
     },
     {
@@ -1571,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 474,
       "user": "rayytor"
     },
     {
@@ -1586,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 325,
       "user": "NB-Corp"
     },
     {
@@ -1601,7 +1614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314587746?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 295,
       "user": "YIAN6557"
     },
     {
@@ -1616,7 +1629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "bluechips-zhao"
     },
     {
@@ -1631,7 +1644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1561,
+      "stars": 1597,
       "user": "chenglou"
     },
     {
@@ -1646,7 +1659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1516,
       "user": "deeplethe"
     },
     {
@@ -1661,7 +1674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1054,
       "user": "Caho1"
     },
     {
@@ -1676,7 +1689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 904,
       "user": "outcrawlai"
     },
     {
@@ -1691,7 +1704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 813,
       "user": "CoolkHz"
     },
     {
@@ -1816,32 +1829,18 @@
       "user": "Fizza Munir"
     },
     {
-      "title": "Is there any disadvantage to calling document.createElement with the “wrong” document?",
-      "url": "https://stackoverflow.com/questions/80009283/is-there-any-disadvantage-to-calling-document-createelement-with-the-wrong-doc",
-      "published_at": "2026-10-11T15:25:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
+      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
+      "published_at": "2011-07-01T17:48:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 332",
       "tags": [
         "javascript",
-        "dom"
+        "html",
+        "github"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Thom Smith"
-    },
-    {
-      "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
-      "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
-      "published_at": "2026-10-15T09:52:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "fastapi",
-        "jsonschema",
-        "pydantic"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stefisha"
+      "user": "Domenic"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -1877,21 +1876,6 @@
   ],
   "Python": [
     {
-      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
-      "published_at": "2026-10-16T14:52:20Z",
-      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
       "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
       "published_at": "2026-10-16T16:43:29Z",
@@ -1905,6 +1889,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
+    },
+    {
+      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
+      "published_at": "2026-10-16T14:52:20Z",
+      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
@@ -2053,7 +2052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2522,
+      "stars": 2557,
       "user": "Arekejoker"
     },
     {
@@ -2068,7 +2067,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1067,
       "user": "zhuyansen"
     },
     {
@@ -2083,7 +2082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1012,
       "user": "chenwei810"
     },
     {
@@ -2102,25 +2101,52 @@
       "user": "jwuthri-cloud"
     },
     {
-      "title": "StoopwenpueNq/jackie-fmri-sim - jackie-fmri-sim",
-      "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
-      "published_at": "2026-10-14T10:14:56Z",
-      "description": "jackie-fmri-sim",
+      "title": "yeyuxin777/baoyan-agent-benchmark - Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "published_at": "2026-10-12T09:15:11Z",
+      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15234191?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32065217?v=4",
       "source": "GitHub",
-      "stars": 469,
-      "user": "StoopwenpueNq"
+      "stars": 504,
+      "user": "yeyuxin777"
+    },
+    {
+      "title": "Python can't find function from imported module - first time creating an __init__.py file",
+      "url": "https://stackoverflow.com/questions/80010672/python-cant-find-function-from-imported-module-first-time-creating-an-init",
+      "published_at": "2026-10-17T03:55:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "OutThere"
+    },
+    {
+      "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
+      "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
+      "published_at": "2026-10-17T03:03:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhargav"
     },
     {
       "title": "How to implement RK45 algorithm for N-body simulation",
       "url": "https://stackoverflow.com/questions/80010655/how-to-implement-rk45-algorithm-for-n-body-simulation",
       "published_at": "2026-10-16T23:15:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "physics",
@@ -2136,7 +2162,7 @@
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
       "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
       "published_at": "2026-10-16T18:49:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "qt",
@@ -2164,7 +2190,7 @@
       "title": "Why cant the input() command let me output more commands?",
       "url": "https://stackoverflow.com/questions/80010607/why-cant-the-input-command-let-me-output-more-commands",
       "published_at": "2026-10-16T17:33:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "user-input"
@@ -2215,21 +2241,6 @@
       "user": "rmor23"
     },
     {
-      "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
-      "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
-      "published_at": "2026-10-15T09:52:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "fastapi",
-        "jsonschema",
-        "pydantic"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stefisha"
-    },
-    {
       "title": "Requests cache does not store requests or use cache",
       "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
       "published_at": "2026-10-14T15:10:06.000Z",
@@ -2242,20 +2253,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeyekomon"
-    },
-    {
-      "title": "How I can prevent flickering when I render graphics directly to Linux framebuffer using python?",
-      "url": "https://stackoverflow.com/questions/80010354/how-i-can-prevent-flickering-when-i-render-graphics-directly-to-linux-framebuffe",
-      "published_at": "2026-10-15T17:57:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "linux",
-        "framebuffer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2514,7 +2511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 813,
       "user": "CoolkHz"
     },
     {
@@ -2531,10 +2528,24 @@
       "user": "KooiInc"
     },
     {
+      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
+      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
+      "published_at": "2011-07-01T17:48:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 332",
+      "tags": [
+        "javascript",
+        "html",
+        "github"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Domenic"
+    },
+    {
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
       "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
       "published_at": "2026-10-16T18:49:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "qt",
@@ -2902,7 +2913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "bluechips-zhao"
     },
     {
@@ -3357,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1740,
+      "stars": 1793,
       "user": "HeyPuter"
     },
     {
@@ -3372,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 650,
       "user": "threerocks"
     },
     {
@@ -3387,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 474,
       "user": "rayytor"
     },
     {
@@ -3402,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 325,
       "user": "NB-Corp"
     },
     {
@@ -3417,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314587746?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 295,
       "user": "YIAN6557"
     },
     {
@@ -3432,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2522,
+      "stars": 2557,
       "user": "Arekejoker"
     },
     {
@@ -3447,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1067,
       "user": "zhuyansen"
     },
     {
@@ -3462,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1012,
       "user": "chenwei810"
     },
     {
@@ -3481,19 +3492,19 @@
       "user": "jwuthri-cloud"
     },
     {
-      "title": "StoopwenpueNq/jackie-fmri-sim - jackie-fmri-sim",
-      "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
-      "published_at": "2026-10-14T10:14:56Z",
-      "description": "jackie-fmri-sim",
+      "title": "yeyuxin777/baoyan-agent-benchmark - Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "published_at": "2026-10-12T09:15:11Z",
+      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15234191?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/32065217?v=4",
       "source": "GitHub",
-      "stars": 469,
-      "user": "StoopwenpueNq"
+      "stars": 504,
+      "user": "yeyuxin777"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3507,23 +3518,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1061,
+      "stars": 1073,
       "user": "feder-cr"
-    },
-    {
-      "title": "Binaryify/MonitorBar - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
-      "url": "https://github.com/Binaryify/MonitorBar",
-      "published_at": "2026-10-15T02:12:52Z",
-      "description": "macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "Binaryify"
     },
     {
       "title": "rohit267/net-merge - Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
@@ -3537,8 +3533,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 217,
       "user": "rohit267"
+    },
+    {
+      "title": "Binaryify/MonitorBar - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
+      "url": "https://github.com/Binaryify/MonitorBar",
+      "published_at": "2026-10-15T02:12:52Z",
+      "description": "macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
+      "source": "GitHub",
+      "stars": 141,
+      "user": "Binaryify"
     },
     {
       "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
@@ -3552,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 120,
       "user": "caveman-ai"
     },
     {
@@ -3567,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "bluechips-zhao"
     },
     {
@@ -3582,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1561,
+      "stars": 1597,
       "user": "chenglou"
     },
     {
@@ -3597,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1516,
       "user": "deeplethe"
     },
     {
@@ -3612,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1054,
       "user": "Caho1"
     },
     {
@@ -3627,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 904,
       "user": "outcrawlai"
     },
     {
@@ -3642,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 813,
       "user": "CoolkHz"
     },
     {
@@ -3657,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2402,
+      "stars": 2426,
       "user": "liseami"
     },
     {
@@ -3672,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 456,
       "user": "solana-classic"
     },
     {
@@ -3687,7 +3698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 282,
       "user": "deepfounder-ai"
     },
     {
@@ -3702,7 +3713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "VallierDev"
     },
     {
@@ -3717,7 +3728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67401383?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 209,
       "user": "CarterT27"
     },
     {
@@ -3733,19 +3744,18 @@
       "user": "lettuce"
     },
     {
-      "title": "How to express a conditionally required parameter in a Pydantic-validated tool/API schema, without losing the upfront schema validation?",
-      "url": "https://stackoverflow.com/questions/80010202/how-to-express-a-conditionally-required-parameter-in-a-pydantic-validated-tool-a",
-      "published_at": "2026-10-15T09:52:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
+      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
+      "published_at": "2011-07-01T17:48:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 332",
       "tags": [
-        "python",
-        "fastapi",
-        "jsonschema",
-        "pydantic"
+        "javascript",
+        "html",
+        "github"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "stefisha"
+      "user": "Domenic"
     },
     {
       "title": "Waymo&#8217;s robotaxis are headed to Canada",

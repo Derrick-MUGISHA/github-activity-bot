@@ -10,11 +10,11 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 95,
-    "JavaScript": 37,
+    "AI": 96,
+    "JavaScript": 36,
     "Python": 31,
     "DevOps": 13,
-    "WebDev": 7,
+    "WebDev": 8,
     "Mobile": 4,
     "Cloud": 13,
     "Database": 7,
@@ -22,22 +22,22 @@
     "Tools": 41
   },
   "by_language": {
-    "Go": 38,
+    "Go": 39,
     "Python": 31,
     "Swift": 1,
-    "JavaScript": 37,
+    "JavaScript": 36,
     "Java": 29,
     "Ruby": 2,
-    "Rust": 5
+    "Rust": 6
   },
   "by_date": {
-    "2026-10-16": 39,
+    "2026-10-16": 38,
     "2026-10-13": 11,
-    "2026-10-14": 27,
-    "2026-10-15": 24,
-    "2026-10-11": 15,
+    "2026-10-14": 26,
+    "2026-10-15": 22,
+    "2026-10-11": 14,
     "2026-10-05": 1,
-    "2026-10-12": 16,
+    "2026-10-12": 17,
     "2026-10-06": 1,
     "2026-10-02": 1,
     "2026-03-11": 1,
@@ -88,16 +88,18 @@
     "2024-02-21": 1,
     "2013-11-06": 1,
     "2017-11-08": 1,
-    "2024-10-09": 1
+    "2024-10-09": 1,
+    "2011-07-01": 1,
+    "2026-10-17": 3
   },
   "top_tags": {
     "ai": 40,
     "aie": 26,
-    "github": 25,
+    "github": 26,
     "open-source": 25,
     "python": 18,
     "javascript": 17,
-    "AI": 17,
+    "AI": 16,
     "agents": 15,
     "Python": 13,
     "Security": 12,
@@ -106,20 +108,20 @@
     "DevOps": 10,
     "go": 7,
     "googlecloud": 6,
-    "gemini": 6,
     "opensource": 6,
+    "gemini": 6,
     "security": 6,
     "typescript": 6,
     "rust": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "26.6",
-    "Python": "21.7",
+    "Go": "27.1",
+    "Python": "21.5",
     "Swift": "0.7",
-    "JavaScript": "25.9",
-    "Java": "20.3",
+    "JavaScript": "25.0",
+    "Java": "20.1",
     "Ruby": "1.4",
-    "Rust": "3.5"
+    "Rust": "4.2"
   }
 }
