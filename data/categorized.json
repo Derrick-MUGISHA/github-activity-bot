@@ -46,21 +46,6 @@
       "user": "Nick Nisi"
     },
     {
-      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
-      "url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7",
-      "published_at": "2026-10-14T12:05:35Z",
-      "description": "AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...",
-      "tags": [
-        "ai",
-        "data",
-        "privacy",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o43h613infirehm8ewy.png",
-      "source": "Dev.to",
-      "user": "Tom Fairey"
-    },
-    {
       "title": "Design for Churn",
       "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
       "published_at": "2026-10-14T12:03:29Z",
@@ -315,6 +300,21 @@
       "user": "Anirudh Veeraragavan"
     },
     {
+      "title": "A World Worth Understanding",
+      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
+      "published_at": "2026-10-11T19:43:19Z",
+      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
+      "tags": [
+        "aie",
+        "career",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
       "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
       "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
       "published_at": "2026-10-11T19:45:03Z",
@@ -343,21 +343,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
       "source": "Dev.to",
       "user": "Freddy Lécué"
-    },
-    {
-      "title": "A World Worth Understanding",
-      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
-      "published_at": "2026-10-11T19:43:19Z",
-      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
-      "tags": [
-        "aie",
-        "career",
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Local speech with llamadart: giving Llama Village a voice",
@@ -941,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "NB-Corp"
     },
     {
@@ -956,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1079,
       "user": "zhuyansen"
     },
     {
@@ -971,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 907,
       "user": "jwuthri-cloud"
     },
     {
@@ -986,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 638,
       "user": "Leonxlnx"
     },
     {
@@ -1001,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1119,
       "user": "feder-cr"
     },
     {
@@ -1016,23 +1001,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "caveman-ai"
-    },
-    {
-      "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
-      "url": "https://github.com/bluechips-zhao/DITING",
-      "published_at": "2026-10-11T06:14:28Z",
-      "description": "谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
-      "source": "GitHub",
-      "stars": 107,
-      "user": "bluechips-zhao"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -1061,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1660,
+      "stars": 1664,
       "user": "chenglou"
     },
     {
@@ -1076,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 933,
       "user": "outcrawlai"
     },
     {
@@ -1091,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "CoolkHz"
     },
     {
@@ -1106,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 491,
       "user": "solana-classic"
     },
     {
@@ -1121,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 305,
       "user": "deepfounder-ai"
     },
     {
@@ -1136,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 247,
       "user": "Graphicle-AI"
     },
     {
@@ -1218,6 +1188,21 @@
       "user": "Bhargav"
     },
     {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published_at": "2026-10-17T18:48:08.000Z",
+      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Replit",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan"
+    },
+    {
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
       "published_at": "2026-10-17T02:36:18.000Z",
@@ -1229,21 +1214,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "published_at": "2026-10-16T21:22:28.000Z",
-      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Replit",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
@@ -1543,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1975,
+      "stars": 2001,
       "user": "HeyPuter"
     },
     {
@@ -1573,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 486,
       "user": "rayytor"
     },
     {
@@ -1588,7 +1558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "NB-Corp"
     },
     {
@@ -1603,23 +1573,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57147261?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 315,
       "user": "leag1234"
-    },
-    {
-      "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
-      "url": "https://github.com/bluechips-zhao/DITING",
-      "published_at": "2026-10-11T06:14:28Z",
-      "description": "谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
-      "source": "GitHub",
-      "stars": 107,
-      "user": "bluechips-zhao"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -1648,7 +1603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1660,
+      "stars": 1664,
       "user": "chenglou"
     },
     {
@@ -1663,7 +1618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1126,
       "user": "Caho1"
     },
     {
@@ -1678,7 +1633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 933,
       "user": "outcrawlai"
     },
     {
@@ -1693,14 +1648,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "CoolkHz"
     },
     {
       "title": "Playwright JavaScript: MakeMyTrip flight search shows NETWORK PROBLEM despite HTTP 200 responses",
       "url": "https://stackoverflow.com/questions/80010757/playwright-javascript-makemytrip-flight-search-shows-network-problem-despite-ht",
       "published_at": "2026-10-17T15:01:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "chromium",
@@ -1793,19 +1748,6 @@
       "user": "Summer"
     },
     {
-      "title": "Does sinon.restore() also restore all mySandbox.stub()s?",
-      "url": "https://stackoverflow.com/questions/80010151/does-sinon-restore-also-restore-all-mysandbox-stubs",
-      "published_at": "2026-10-15T06:29:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "sinon"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Florian"
-    },
-    {
       "title": "How to convert uint8 Array to base64 Encoded String?",
       "url": "https://stackoverflow.com/questions/12710001/how-to-convert-uint8-array-to-base64-encoded-string",
       "published_at": "2012-10-03T13:52:42.000Z",
@@ -1833,6 +1775,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BryceLarkin"
+    },
+    {
+      "title": "Plotly - Autorescaling y axis range when range slider used",
+      "url": "https://stackoverflow.com/questions/75876460/plotly-autorescaling-y-axis-range-when-range-slider-used",
+      "published_at": "2023-03-29T11:12:34.000Z",
+      "description": "Stack Overflow question · 2 answers · score 11",
+      "tags": [
+        "javascript",
+        "python",
+        "plotly",
+        "plotly.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "plonfat"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -2029,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2608,
+      "stars": 2620,
       "user": "Arekejoker"
     },
     {
@@ -2044,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1079,
       "user": "zhuyansen"
     },
     {
@@ -2059,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1071,
       "user": "chenwei810"
     },
     {
@@ -2074,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 907,
       "user": "jwuthri-cloud"
     },
     {
@@ -2089,8 +2046,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 638,
       "user": "Leonxlnx"
+    },
+    {
+      "title": "Plotly - Autorescaling y axis range when range slider used",
+      "url": "https://stackoverflow.com/questions/75876460/plotly-autorescaling-y-axis-range-when-range-slider-used",
+      "published_at": "2023-03-29T11:12:34.000Z",
+      "description": "Stack Overflow question · 2 answers · score 11",
+      "tags": [
+        "javascript",
+        "python",
+        "plotly",
+        "plotly.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "plonfat"
+    },
+    {
+      "title": "throwing exceptions to specific parts of the code in python",
+      "url": "https://stackoverflow.com/questions/80010770/throwing-exceptions-to-specific-parts-of-the-code-in-python",
+      "published_at": "2026-10-17T15:38:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "exception"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RaylibNoob7"
+    },
+    {
+      "title": "new to Python and i need help shipping app",
+      "url": "https://stackoverflow.com/questions/80010736/new-to-python-and-i-need-help-shipping-app",
+      "published_at": "2026-10-17T12:49:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "windows",
+        "macos",
+        "pyinstaller"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Garner Jarrett"
     },
     {
       "title": "Retrieve parameters of a redirected website on aiohttp",
@@ -2109,7 +2109,7 @@
       "title": "Import hook at the AST level",
       "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
       "published_at": "2026-10-17T14:57:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "python-3.x",
@@ -2119,21 +2119,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "new to Python and i need help shipping app",
-      "url": "https://stackoverflow.com/questions/80010736/new-to-python-and-i-need-help-shipping-app",
-      "published_at": "2026-10-17T12:49:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "windows",
-        "macos",
-        "pyinstaller"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Garner Jarrett"
     },
     {
       "title": "Python can't find function from imported module - first time creating an __init__.py file",
@@ -2218,20 +2203,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "robert driscoll"
-    },
-    {
-      "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
-      "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
-      "published_at": "2026-10-15T21:09:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "amazon-web-services",
-        "aws-lambda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mazianos"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2490,7 +2461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "CoolkHz"
     },
     {
@@ -2746,22 +2717,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 907,
       "user": "jwuthri-cloud"
-    },
-    {
-      "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
-      "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
-      "published_at": "2026-10-15T21:09:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "amazon-web-services",
-        "aws-lambda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mazianos"
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
@@ -2865,21 +2822,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
-      "url": "https://github.com/bluechips-zhao/DITING",
-      "published_at": "2026-10-11T06:14:28Z",
-      "description": "谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
-      "source": "GitHub",
-      "stars": 107,
-      "user": "bluechips-zhao"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -3305,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1975,
+      "stars": 2001,
       "user": "HeyPuter"
     },
     {
@@ -3335,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 486,
       "user": "rayytor"
     },
     {
@@ -3350,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "NB-Corp"
     },
     {
@@ -3365,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57147261?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 315,
       "user": "leag1234"
     },
     {
@@ -3380,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2608,
+      "stars": 2620,
       "user": "Arekejoker"
     },
     {
@@ -3395,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1079,
       "user": "zhuyansen"
     },
     {
@@ -3410,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1071,
       "user": "chenwei810"
     },
     {
@@ -3425,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 907,
       "user": "jwuthri-cloud"
     },
     {
@@ -3440,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 638,
       "user": "Leonxlnx"
     },
     {
@@ -3455,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1114,
+      "stars": 1119,
       "user": "feder-cr"
     },
     {
@@ -3470,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 695,
       "user": "rohit267"
     },
     {
@@ -3500,23 +3442,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "caveman-ai"
     },
     {
-      "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
-      "url": "https://github.com/bluechips-zhao/DITING",
-      "published_at": "2026-10-11T06:14:28Z",
-      "description": "谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
+      "title": "Haryy985/yunkun-console-preview - 云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
+      "url": "https://github.com/Haryy985/yunkun-console-preview",
+      "published_at": "2026-10-15T02:45:34Z",
+      "description": "云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
       "stars": 107,
-      "user": "bluechips-zhao"
+      "user": "Haryy985"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -3545,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1660,
+      "stars": 1664,
       "user": "chenglou"
     },
     {
@@ -3560,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1126,
       "user": "Caho1"
     },
     {
@@ -3575,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 933,
       "user": "outcrawlai"
     },
     {
@@ -3590,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 821,
       "user": "CoolkHz"
     },
     {
@@ -3605,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2548,
+      "stars": 2560,
       "user": "liseami"
     },
     {
@@ -3620,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 491,
       "user": "solana-classic"
     },
     {
@@ -3635,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 305,
       "user": "deepfounder-ai"
     },
     {
@@ -3650,23 +3592,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 247,
       "user": "Graphicle-AI"
     },
     {
-      "title": "VallierDev/uu-remote-linux - 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
-      "url": "https://github.com/VallierDev/uu-remote-linux",
-      "published_at": "2026-10-14T15:53:43Z",
-      "description": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "title": "SebasKitten/Grand-V - GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
+      "url": "https://github.com/SebasKitten/Grand-V",
+      "published_at": "2026-10-12T13:24:03Z",
+      "description": "GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/24513137?v=4",
       "source": "GitHub",
-      "stars": 239,
-      "user": "VallierDev"
+      "stars": 246,
+      "user": "SebasKitten"
     },
     {
       "title": "Waymo&#8217;s robotaxis are headed to Canada",
