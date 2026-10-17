@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-17 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-18 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,19 +37,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-36am">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkioo3fh4yz8yd3x7yc1e.jpg" width="200" alt="What was your win this week?!" />
+    <a href="https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg" width="200" alt="Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms" />
       <br/>
-      <b>What was your win this week?!</b>
+      <b>Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 D...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg" width="200" alt="Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-36am">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkioo3fh4yz8yd3x7yc1e.jpg" width="200" alt="What was your win this week?!" />
       <br/>
-      <b>Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 D...</b>
+      <b>What was your win this week?!</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,8 +93,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency](https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8) | Dev.to |
-| 2 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-36am) | Dev.to |
-| 3 | [Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms](https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3) | Dev.to |
+| 2 | [Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms](https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3) | Dev.to |
+| 3 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-36am) | Dev.to |
 | 4 | [Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs](https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g) | Dev.to |
 | 5 | [Are You Smarter Than a Fruit Fly?](https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04) | Dev.to |
 | 6 | [Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [AlphaEvolve and Gemini: Autonomous Algorithm Discovery for Unified Disaster Prediction](https://dev.to/gde/alphaevolve-and-gemini-autonomous-algorithm-discovery-for-unified-disaster-prediction-20f4) | Dev.to |
 | 20 | [LangChainJS and Gemini 4 Argon: What's here and what's coming?](https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod) | Dev.to |
 
-<sub>Last fetched: Sat, 17 Oct 2026 23:06:45 CAT</sub>
+<sub>Last fetched: Sun, 18 Oct 2026 01:07:34 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design Twitter's timeline feature**
+**1. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**2. `Python` — What are generators and when would you use them?**
+**2. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> Schema, scalability, ACID vs BASE
 
 </details>
 
-**3. `Python` — Explain GIL and its implications for multithreading**
+**3. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Ownership, mutability, data flow direction
 
 </details>
 
@@ -164,10 +164,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 95 | 51.6% | `████████████████████` |
+| **AI** | 96 | 52.2% | `████████████████████` |
 | **Tools** | 38 | 20.7% | `████████░░░░░░░░░░░░` |
 | **JavaScript** | 34 | 18.5% | `███████░░░░░░░░░░░░░` |
-| **Python** | 31 | 16.8% | `███████░░░░░░░░░░░░░` |
+| **Python** | 31 | 16.8% | `██████░░░░░░░░░░░░░░` |
 | **Security** | 19 | 10.3% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 17 Oct 2026 21:06:45 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 17 Oct 2026 23:07:34 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
