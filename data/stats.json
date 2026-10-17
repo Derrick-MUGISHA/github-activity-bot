@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 97,
+    "AI": 96,
     "JavaScript": 35,
     "Python": 30,
     "DevOps": 13,
@@ -22,7 +22,7 @@
     "Tools": 39
   },
   "by_language": {
-    "Go": 37,
+    "Go": 38,
     "Python": 30,
     "Swift": 1,
     "JavaScript": 35,
@@ -31,10 +31,10 @@
     "Rust": 6
   },
   "by_date": {
-    "2026-10-16": 38,
+    "2026-10-16": 35,
     "2026-10-13": 10,
-    "2026-10-14": 27,
-    "2026-10-15": 21,
+    "2026-10-14": 26,
+    "2026-10-15": 19,
     "2026-10-11": 14,
     "2026-10-05": 1,
     "2026-10-12": 16,
@@ -89,9 +89,9 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
+    "2026-10-17": 10,
     "2012-10-03": 1,
-    "2025-01-22": 1,
-    "2026-10-17": 4
+    "2025-01-22": 1
   },
   "top_tags": {
     "ai": 40,
@@ -101,27 +101,27 @@
     "python": 17,
     "javascript": 17,
     "agents": 16,
-    "AI": 16,
+    "AI": 15,
     "Python": 13,
     "Security": 12,
     "JavaScript": 11,
     "llm": 10,
     "DevOps": 10,
-    "go": 7,
+    "go": 8,
     "googlecloud": 6,
     "opensource": 6,
     "gemini": 6,
     "typescript": 6,
     "rust": 5,
-    "vibecoding": 5
+    "discuss": 4
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "26.4",
-    "Python": "21.4",
+    "Go": "27.0",
+    "Python": "21.3",
     "Swift": "0.7",
-    "JavaScript": "25.0",
-    "Java": "20.7",
+    "JavaScript": "24.8",
+    "Java": "20.6",
     "Ruby": "1.4",
     "Rust": "4.3"
   }

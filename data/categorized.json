@@ -300,21 +300,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64",
-      "url": "https://dev.to/gde/gemma-4-on-a-used-8-gb-rtx-3050-116-tokenss-for-one-user-618-for-64-k6h",
-      "published_at": "2026-10-15T00:46:07Z",
-      "description": "Gemma 4 E2B and E4B on a used RTX 3050 OEM in an old desktop, step by step: single-user speed, the full 131k context, concurrency, answer quality, and how it compares on price with laptop GPUs, ARM laptops, a T4 and a TPU v5e.",
-      "tags": [
-        "gemma",
-        "llamacpp",
-        "cuda",
-        "localllm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-3050oem-2b-q4_0%2Fdocs%2Ffirst-light-3050oem%2Fdevto-cover.c84e6ee4.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
       "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
       "published_at": "2026-10-14T12:04:58Z",
@@ -583,19 +568,19 @@
       "user": "Sparsh Jain"
     },
     {
-      "title": "The Model Is the Easy Part",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
-      "published_at": "2026-10-14T12:04:00Z",
-      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
+      "title": "Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64",
+      "url": "https://dev.to/gde/gemma-4-on-a-used-8-gb-rtx-3050-116-tokenss-for-one-user-618-for-64-k6h",
+      "published_at": "2026-10-15T00:46:07Z",
+      "description": "Gemma 4 E2B and E4B on a used RTX 3050 OEM in an old desktop, step by step: single-user speed, the full 131k context, concurrency, answer quality, and how it compares on price with laptop GPUs, ARM laptops, a T4 and a TPU v5e.",
       "tags": [
-        "ai",
-        "llm",
-        "opensource",
-        "aie"
+        "gemma",
+        "llamacpp",
+        "cuda",
+        "localllm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Flocal-llamacpp-3050oem-2b-q4_0%2Fdocs%2Ffirst-light-3050oem%2Fdevto-cover.c84e6ee4.jpg",
       "source": "Dev.to",
-      "user": "Steven Latre"
+      "user": "xbill"
     },
     {
       "title": "An Agent’s Plan Isn’t Permission",
@@ -611,6 +596,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqe1too43mh1vqqps1rpn.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "The Model Is the Easy Part",
+      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
+      "published_at": "2026-10-14T12:04:00Z",
+      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
+      "tags": [
+        "ai",
+        "llm",
+        "opensource",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
+      "source": "Dev.to",
+      "user": "Steven Latre"
     },
     {
       "title": "I Built a Cozy 60 FPS AI Agent Bakery Game (Built with Gemma 4 & Antigravity) to Teach RAG, Guardrails & Multi-Agent Orchestration",
@@ -941,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 350,
       "user": "NB-Corp"
     },
     {
@@ -956,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1078,
       "user": "zhuyansen"
     },
     {
@@ -971,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 893,
       "user": "jwuthri-cloud"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 603,
       "user": "Leonxlnx"
     },
     {
@@ -1001,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1114,
       "user": "feder-cr"
     },
     {
@@ -1016,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 134,
       "user": "caveman-ai"
     },
     {
@@ -1046,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1678,
+      "stars": 1685,
       "user": "deeplethe"
     },
     {
@@ -1061,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1660,
       "user": "chenglou"
     },
     {
@@ -1076,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 929,
       "user": "outcrawlai"
     },
     {
@@ -1091,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 820,
       "user": "CoolkHz"
     },
     {
@@ -1106,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 488,
       "user": "solana-classic"
     },
     {
@@ -1121,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 296,
       "user": "deepfounder-ai"
     },
     {
@@ -1136,7 +1136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 240,
       "user": "Graphicle-AI"
     },
     {
@@ -1165,24 +1165,12 @@
       "user": "maevyn"
     },
     {
-      "title": "Linus Torvalds on AI-assisted kernel contributions",
-      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-      "published_at": "2026-10-15T21:50:33.788-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "linux",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thang"
-    },
-    {
       "title": "Do you let LLMs write both your tests and your code?",
       "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
       "published_at": "2026-10-16T18:53:05.634-05:00",
       "description": "I'm curious what stance others have taken? Or what they've experienced with this? I'm toying with adding a rule to our values.md that the LLM can only significantly generate one or the other.\r\n\r\nI'm reviewing a merge request at the moment where it's clear the LLM mostly did both, and they're highly tautological. And I can see how it over engineered the code, just to be able to write more tests almost.",
       "tags": [
+        "ask",
         "vibecoding"
       ],
       "cover_image": null,
@@ -1202,6 +1190,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mandoguy"
+    },
+    {
+      "title": "Retrieve parameters of a redirected website on aiohttp",
+      "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
+      "published_at": "2026-10-17T15:04:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "aiohttp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noseii"
     },
     {
       "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
@@ -1318,19 +1319,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "published_at": "2026-10-16T15:33:49.000Z",
-      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "tags": [
-        "AI",
-        "Vercel"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -1555,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1936,
+      "stars": 1975,
       "user": "HeyPuter"
     },
     {
@@ -1570,7 +1558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 668,
       "user": "threerocks"
     },
     {
@@ -1585,7 +1573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 485,
       "user": "rayytor"
     },
     {
@@ -1600,23 +1588,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 350,
       "user": "NB-Corp"
     },
     {
-      "title": "YIAN6557/eian-riso-broll - 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
-      "url": "https://github.com/YIAN6557/eian-riso-broll",
-      "published_at": "2026-10-11T15:17:37Z",
-      "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "title": "leag1234/elixiroffice - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
+      "url": "https://github.com/leag1234/elixiroffice",
+      "published_at": "2026-10-11T18:56:51Z",
+      "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314587746?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57147261?v=4",
       "source": "GitHub",
-      "stars": 303,
-      "user": "YIAN6557"
+      "stars": 311,
+      "user": "leag1234"
     },
     {
       "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
@@ -1645,7 +1633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1678,
+      "stars": 1685,
       "user": "deeplethe"
     },
     {
@@ -1660,7 +1648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1660,
       "user": "chenglou"
     },
     {
@@ -1675,7 +1663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1110,
       "user": "Caho1"
     },
     {
@@ -1690,7 +1678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 929,
       "user": "outcrawlai"
     },
     {
@@ -1705,14 +1693,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 820,
       "user": "CoolkHz"
+    },
+    {
+      "title": "Playwright JavaScript: MakeMyTrip flight search shows NETWORK PROBLEM despite HTTP 200 responses",
+      "url": "https://stackoverflow.com/questions/80010757/playwright-javascript-makemytrip-flight-search-shows-network-problem-despite-ht",
+      "published_at": "2026-10-17T15:01:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "chromium",
+        "ui-automation",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vasanthakumar R"
     },
     {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 4 answers · score 0",
       "tags": [
         "javascript",
         "html"
@@ -1725,7 +1728,7 @@
       "title": "Synchronous text file reading in browser",
       "url": "https://stackoverflow.com/questions/80010550/synchronous-text-file-reading-in-browser",
       "published_at": "2026-10-16T12:20:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "asynchronous"
@@ -1801,20 +1804,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Florian"
-    },
-    {
-      "title": "How can I prevent duplicate API requests in React when using useEffect?",
-      "url": "https://stackoverflow.com/questions/80010185/how-can-i-prevent-duplicate-api-requests-in-react-when-using-useeffect",
-      "published_at": "2026-10-15T08:41:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fizza Munir"
     },
     {
       "title": "How to convert uint8 Array to base64 Encoded String?",
@@ -2040,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2585,
+      "stars": 2608,
       "user": "Arekejoker"
     },
     {
@@ -2055,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1078,
       "user": "zhuyansen"
     },
     {
@@ -2070,7 +2059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1052,
       "user": "chenwei810"
     },
     {
@@ -2085,7 +2074,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 893,
       "user": "jwuthri-cloud"
     },
     {
@@ -2100,14 +2089,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 603,
       "user": "Leonxlnx"
+    },
+    {
+      "title": "Retrieve parameters of a redirected website on aiohttp",
+      "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
+      "published_at": "2026-10-17T15:04:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "aiohttp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noseii"
+    },
+    {
+      "title": "Import hook at the AST level",
+      "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
+      "published_at": "2026-10-17T14:57:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "python-importlib",
+        "import-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "new to Python and i need help shipping app",
       "url": "https://stackoverflow.com/questions/80010736/new-to-python-and-i-need-help-shipping-app",
       "published_at": "2026-10-17T12:49:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "windows",
@@ -2215,34 +2232,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mazianos"
-    },
-    {
-      "title": "Can I broadcast with numpy character find",
-      "url": "https://stackoverflow.com/questions/80010398/can-i-broadcast-with-numpy-character-find",
-      "published_at": "2026-10-15T22:19:30.000Z",
-      "description": "Stack Overflow question · 3 answers · score -5",
-      "tags": [
-        "python",
-        "numpy",
-        "substring"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "I.P. Freeley"
-    },
-    {
-      "title": "Requests cache does not store requests or use cache",
-      "url": "https://stackoverflow.com/questions/80010011/requests-cache-does-not-store-requests-or-use-cache",
-      "published_at": "2026-10-14T15:10:06.000Z",
-      "description": "Stack Overflow question · 3 answers · score 4",
-      "tags": [
-        "python",
-        "caching",
-        "python-requests"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeyekomon"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2501,14 +2490,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 820,
       "user": "CoolkHz"
     },
     {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 4 answers · score 0",
       "tags": [
         "javascript",
         "html"
@@ -2757,7 +2746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 893,
       "user": "jwuthri-cloud"
     },
     {
@@ -3121,7 +3110,7 @@
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 4 answers · score 0",
       "tags": [
         "javascript",
         "html"
@@ -3316,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1936,
+      "stars": 1975,
       "user": "HeyPuter"
     },
     {
@@ -3331,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 668,
       "user": "threerocks"
     },
     {
@@ -3346,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 485,
       "user": "rayytor"
     },
     {
@@ -3361,23 +3350,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 350,
       "user": "NB-Corp"
     },
     {
-      "title": "YIAN6557/eian-riso-broll - 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
-      "url": "https://github.com/YIAN6557/eian-riso-broll",
-      "published_at": "2026-10-11T15:17:37Z",
-      "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "title": "leag1234/elixiroffice - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
+      "url": "https://github.com/leag1234/elixiroffice",
+      "published_at": "2026-10-11T18:56:51Z",
+      "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314587746?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57147261?v=4",
       "source": "GitHub",
-      "stars": 303,
-      "user": "YIAN6557"
+      "stars": 311,
+      "user": "leag1234"
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
@@ -3391,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2585,
+      "stars": 2608,
       "user": "Arekejoker"
     },
     {
@@ -3406,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1078,
       "user": "zhuyansen"
     },
     {
@@ -3421,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1052,
       "user": "chenwei810"
     },
     {
@@ -3436,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 893,
       "user": "jwuthri-cloud"
     },
     {
@@ -3451,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 603,
       "user": "Leonxlnx"
     },
     {
@@ -3466,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1114,
       "user": "feder-cr"
     },
     {
@@ -3481,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 635,
       "user": "rohit267"
     },
     {
@@ -3496,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "Binaryify"
     },
     {
@@ -3511,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 134,
       "user": "caveman-ai"
     },
     {
@@ -3541,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1678,
+      "stars": 1685,
       "user": "deeplethe"
     },
     {
@@ -3556,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1645,
+      "stars": 1660,
       "user": "chenglou"
     },
     {
@@ -3571,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1110,
       "user": "Caho1"
     },
     {
@@ -3586,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 929,
       "user": "outcrawlai"
     },
     {
@@ -3601,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 820,
       "user": "CoolkHz"
     },
     {
@@ -3616,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2514,
+      "stars": 2548,
       "user": "liseami"
     },
     {
@@ -3631,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 488,
       "user": "solana-classic"
     },
     {
@@ -3646,23 +3635,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 296,
       "user": "deepfounder-ai"
-    },
-    {
-      "title": "VallierDev/uu-remote-linux - 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
-      "url": "https://github.com/VallierDev/uu-remote-linux",
-      "published_at": "2026-10-14T15:53:43Z",
-      "description": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
-      "source": "GitHub",
-      "stars": 237,
-      "user": "VallierDev"
     },
     {
       "title": "Graphicle-AI/graphicle - Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
@@ -3676,8 +3650,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 240,
       "user": "Graphicle-AI"
+    },
+    {
+      "title": "VallierDev/uu-remote-linux - 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "url": "https://github.com/VallierDev/uu-remote-linux",
+      "published_at": "2026-10-14T15:53:43Z",
+      "description": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
+      "source": "GitHub",
+      "stars": 239,
+      "user": "VallierDev"
     },
     {
       "title": "Waymo&#8217;s robotaxis are headed to Canada",
