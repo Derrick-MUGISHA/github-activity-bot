@@ -75,21 +75,6 @@
       "user": "Jem"
     },
     {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
-      "published_at": "2026-10-16T16:43:29Z",
-      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
       "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
       "published_at": "2026-10-16T14:52:20Z",
@@ -315,21 +300,6 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
-      "published_at": "2026-10-11T19:45:03Z",
-      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
-      "tags": [
-        "aie",
-        "ai",
-        "infrastructure",
-        "data"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
       "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
       "published_at": "2026-10-11T19:41:19Z",
@@ -343,6 +313,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
       "source": "Dev.to",
       "user": "Freddy Lécué"
+    },
+    {
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "published_at": "2026-10-11T19:45:03Z",
+      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "tags": [
+        "aie",
+        "ai",
+        "infrastructure",
+        "data"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
     },
     {
       "title": "Local speech with llamadart: giving Llama Village a voice",
@@ -372,6 +357,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
+      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
+      "published_at": "2026-10-16T16:43:29Z",
+      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
@@ -687,6 +687,21 @@
       "user": "Denys Linkov"
     },
     {
+      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
+      "url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7",
+      "published_at": "2026-10-14T12:05:35Z",
+      "description": "AI engineers spend enormous amounts of time tweaking small things to achieve bigger gains. Energy is...",
+      "tags": [
+        "ai",
+        "data",
+        "privacy",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o43h613infirehm8ewy.png",
+      "source": "Dev.to",
+      "user": "Tom Fairey"
+    },
+    {
       "title": "Loop Engineering in the Harness: Autonomous, Self-Correcting Systems",
       "url": "https://dev.to/gde/loop-engineering-in-the-harness-autonomous-self-correcting-systems-part-2-155e",
       "published_at": "2026-10-12T21:36:09Z",
@@ -956,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 920,
       "user": "jwuthri-cloud"
     },
     {
@@ -971,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 663,
       "user": "Leonxlnx"
     },
     {
@@ -986,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1126,
       "user": "feder-cr"
     },
     {
@@ -1001,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "caveman-ai"
     },
     {
@@ -1016,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1685,
+      "stars": 1687,
       "user": "deeplethe"
     },
     {
@@ -1031,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1671,
       "user": "chenglou"
     },
     {
@@ -1046,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 934,
       "user": "outcrawlai"
     },
     {
@@ -1076,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 495,
       "user": "solana-classic"
     },
     {
@@ -1091,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 309,
       "user": "deepfounder-ai"
     },
     {
@@ -1106,7 +1121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 254,
       "user": "Graphicle-AI"
     },
     {
@@ -1188,7 +1203,36 @@
       "user": "Bhargav"
     },
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "published_at": "2026-10-17T20:55:52.000Z",
+      "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Social",
+        "Alex Gibney",
+        "Elon Musk"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published_at": "2026-10-17T20:21:19.000Z",
+      "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "tags": [
+        "AI",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "published_at": "2026-10-17T18:48:08.000Z",
       "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
@@ -1259,36 +1303,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
-    },
-    {
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "published_at": "2026-10-16T16:00:00.000Z",
-      "description": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "tags": [
-        "Startups",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt",
-        "Tressfecta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "In &#8216;You Can See Everything,&#8217; Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-      "published_at": "2026-10-16T16:00:00.000Z",
-      "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
-      "tags": [
-        "Media & Entertainment",
-        "elizabeth holmes",
-        "Nathan Fielder",
-        "Theranos"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -1513,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2001,
+      "stars": 2021,
       "user": "HeyPuter"
     },
     {
@@ -1528,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "threerocks"
     },
     {
@@ -1573,7 +1587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57147261?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 317,
       "user": "leag1234"
     },
     {
@@ -1588,7 +1602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1685,
+      "stars": 1687,
       "user": "deeplethe"
     },
     {
@@ -1603,7 +1617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1671,
       "user": "chenglou"
     },
     {
@@ -1618,7 +1632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1129,
       "user": "Caho1"
     },
     {
@@ -1633,7 +1647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 934,
       "user": "outcrawlai"
     },
     {
@@ -1655,7 +1669,7 @@
       "title": "Playwright JavaScript: MakeMyTrip flight search shows NETWORK PROBLEM despite HTTP 200 responses",
       "url": "https://stackoverflow.com/questions/80010757/playwright-javascript-makemytrip-flight-search-shows-network-problem-despite-ht",
       "published_at": "2026-10-17T15:01:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "chromium",
@@ -1696,7 +1710,7 @@
       "title": "Tabulator with nested tables jumping to top when updating a sub-table",
       "url": "https://stackoverflow.com/questions/80010495/tabulator-with-nested-tables-jumping-to-top-when-updating-a-sub-table",
       "published_at": "2026-10-16T08:24:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "tabulator",
@@ -1733,19 +1747,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chris Happy"
-    },
-    {
-      "title": "CounterFactory Troubleshooting",
-      "url": "https://stackoverflow.com/questions/80010376/counterfactory-troubleshooting",
-      "published_at": "2026-10-15T19:58:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "function"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Summer"
     },
     {
       "title": "How to convert uint8 Array to base64 Encoded String?",
@@ -1792,6 +1793,22 @@
       "user": "plonfat"
     },
     {
+      "title": "View JSON file in Browser",
+      "url": "https://stackoverflow.com/questions/9888861/view-json-file-in-browser",
+      "published_at": "2012-03-27T11:39:40.000Z",
+      "description": "Stack Overflow question · 15 answers · score 42",
+      "tags": [
+        "javascript",
+        "json",
+        "internet-explorer",
+        "firefox",
+        "google-chrome"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Umesh Patil"
+    },
+    {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
       "published_at": "2026-10-16T15:40:39.000Z",
@@ -1825,21 +1842,6 @@
   ],
   "Python": [
     {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
-      "published_at": "2026-10-16T16:43:29Z",
-      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
       "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
       "published_at": "2026-10-16T14:52:20Z",
@@ -1853,6 +1855,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
+      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
+      "published_at": "2026-10-16T16:43:29Z",
+      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1986,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2620,
+      "stars": 2628,
       "user": "Arekejoker"
     },
     {
@@ -2016,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1078,
       "user": "chenwei810"
     },
     {
@@ -2031,7 +2048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 920,
       "user": "jwuthri-cloud"
     },
     {
@@ -2046,7 +2063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 663,
       "user": "Leonxlnx"
     },
     {
@@ -2063,6 +2080,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "plonfat"
+    },
+    {
+      "title": "Import hook at the AST level",
+      "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
+      "published_at": "2026-10-17T14:57:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "python-3.x",
+        "python-importlib",
+        "import-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "throwing exceptions to specific parts of the code in python",
@@ -2106,21 +2138,6 @@
       "user": "noseii"
     },
     {
-      "title": "Import hook at the AST level",
-      "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
-      "published_at": "2026-10-17T14:57:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "python-3.x",
-        "python-importlib",
-        "import-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "Python can't find function from imported module - first time creating an __init__.py file",
       "url": "https://stackoverflow.com/questions/80010672/python-cant-find-function-from-imported-module-first-time-creating-an-init",
       "published_at": "2026-10-17T03:55:46.000Z",
@@ -2133,6 +2150,35 @@
       "user": "OutThere"
     },
     {
+      "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
+      "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
+      "published_at": "2026-10-17T03:03:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhargav"
+    },
+    {
+      "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
+      "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
+      "published_at": "2026-10-16T18:49:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "qt",
+        "pyside6",
+        "diamond-problem"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "robert driscoll"
+    },
+    {
       "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
       "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
       "published_at": "2026-10-16T17:28:31.000Z",
@@ -2140,21 +2186,6 @@
       "tags": [
         "python",
         "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhargav"
-    },
-    {
-      "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
-      "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
-      "published_at": "2026-10-17T03:03:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "python-3.x",
-        "pydantic",
-        "pydantic-v2"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2188,21 +2219,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe_Hudson"
-    },
-    {
-      "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
-      "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
-      "published_at": "2026-10-16T18:49:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "qt",
-        "pyside6",
-        "diamond-problem"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "robert driscoll"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2481,7 +2497,7 @@
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
       "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
       "published_at": "2026-10-16T18:49:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "qt",
@@ -2601,21 +2617,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
-      "published_at": "2026-10-16T16:43:29Z",
-      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
       "published_at": "2026-10-15T16:38:38Z",
@@ -2659,6 +2660,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
+      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
+      "published_at": "2026-10-16T16:43:29Z",
+      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
@@ -2717,7 +2733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 920,
       "user": "jwuthri-cloud"
     },
     {
@@ -3247,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2001,
+      "stars": 2021,
       "user": "HeyPuter"
     },
     {
@@ -3262,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 669,
       "user": "threerocks"
     },
     {
@@ -3307,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57147261?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 317,
       "user": "leag1234"
     },
     {
@@ -3322,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2620,
+      "stars": 2628,
       "user": "Arekejoker"
     },
     {
@@ -3352,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1078,
       "user": "chenwei810"
     },
     {
@@ -3367,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 920,
       "user": "jwuthri-cloud"
     },
     {
@@ -3382,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 663,
       "user": "Leonxlnx"
     },
     {
@@ -3397,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1126,
       "user": "feder-cr"
     },
     {
@@ -3412,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 752,
       "user": "rohit267"
     },
     {
@@ -3442,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "caveman-ai"
     },
     {
@@ -3457,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 112,
       "user": "Haryy985"
     },
     {
@@ -3472,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1685,
+      "stars": 1687,
       "user": "deeplethe"
     },
     {
@@ -3487,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1671,
       "user": "chenglou"
     },
     {
@@ -3502,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1129,
       "user": "Caho1"
     },
     {
@@ -3517,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 934,
       "user": "outcrawlai"
     },
     {
@@ -3547,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
       "source": "GitHub",
-      "stars": 2560,
+      "stars": 2566,
       "user": "liseami"
     },
     {
@@ -3562,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 495,
       "user": "solana-classic"
     },
     {
@@ -3577,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 309,
       "user": "deepfounder-ai"
     },
     {
@@ -3592,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 254,
       "user": "Graphicle-AI"
     },
     {
@@ -3607,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24513137?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 253,
       "user": "SebasKitten"
     },
     {
@@ -3624,21 +3640,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "published_at": "2026-10-16T16:00:00.000Z",
-      "description": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "tags": [
-        "Startups",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt",
-        "Tressfecta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
