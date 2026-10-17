@@ -8,7 +8,7 @@
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
-![Last Update](https://img.shields.io/badge/Updated-2026--10--16-orange?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026--10--17-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) · [Lobste.rs](https://lobste.rs) · [Stack Overflow](https://stackoverflow.com) · [TechCrunch](https://techcrunch.com) · [freeCodeCamp](https://www.freecodecamp.org/news) — refreshed by GitHub Actions around the clock.
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-17 1:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-17 3:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -57,19 +57,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fdrafter-3050-vs-1650ti%2Fdevto-cover.7d054a5b.jpg" width="200" alt="Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs" />
+    <a href="https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg" width="200" alt="Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms" />
       <br/>
-      <b>Do Drafters Work on Small Models? Gemma 4 E2B and ...</b>
+      <b>Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 D...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg" width="200" alt="Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms" />
+    <a href="https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fdrafter-3050-vs-1650ti%2Fdevto-cover.7d054a5b.jpg" width="200" alt="Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs" />
       <br/>
-      <b>Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 D...</b>
+      <b>Do Drafters Work on Small Models? Gemma 4 E2B and ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -95,25 +95,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 1 | [Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency](https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8) | Dev.to |
 | 2 | [How I Feel about the Grace Hopper Celebration Getting Cancelled](https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k) | Dev.to |
 | 3 | [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-36am) | Dev.to |
-| 4 | [Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs](https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g) | Dev.to |
-| 5 | [Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms](https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3) | Dev.to |
+| 4 | [Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms](https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3) | Dev.to |
+| 5 | [Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs](https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g) | Dev.to |
 | 6 | [Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c) | Dev.to |
-| 7 | [Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs](https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg) | Dev.to |
-| 8 | [[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers](https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli) | Dev.to |
-| 9 | [Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine](https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c) | Dev.to |
-| 10 | [Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02) | Dev.to |
-| 11 | [Are You Smarter Than a Fruit Fly?](https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04) | Dev.to |
-| 12 | [The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets](https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7) | Dev.to |
-| 13 | [Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h) | Dev.to |
-| 14 | [DuckLess: serverless DuckDB on Google Cloud, in your own project](https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a) | Dev.to |
-| 15 | [Local image generation with llamadart for the Llama Village storybook](https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28) | Dev.to |
-| 16 | [Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”](https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a) | Dev.to |
-| 17 | [Nobody’s winning the AI race yet](https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4) | Dev.to |
-| 18 | [What a 48-Hour Hackathon Can Do for LLM Reliability](https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6) | Dev.to |
-| 19 | [Operational intelligence is sociotechnical](https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627) | Dev.to |
-| 20 | [Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner](https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567) | Dev.to |
+| 7 | [[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers](https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli) | Dev.to |
+| 8 | [Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs](https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg) | Dev.to |
+| 9 | [Are You Smarter Than a Fruit Fly?](https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04) | Dev.to |
+| 10 | [The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets](https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7) | Dev.to |
+| 11 | [Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h) | Dev.to |
+| 12 | [Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02) | Dev.to |
+| 13 | [DuckLess: serverless DuckDB on Google Cloud, in your own project](https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a) | Dev.to |
+| 14 | [Local image generation with llamadart for the Llama Village storybook](https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28) | Dev.to |
+| 15 | [Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”](https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a) | Dev.to |
+| 16 | [Nobody’s winning the AI race yet](https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4) | Dev.to |
+| 17 | [What a 48-Hour Hackathon Can Do for LLM Reliability](https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6) | Dev.to |
+| 18 | [Operational intelligence is sociotechnical](https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627) | Dev.to |
+| 19 | [Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner](https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567) | Dev.to |
+| 20 | [Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform](https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib) | Dev.to |
 
-<sub>Last fetched: Sat, 17 Oct 2026 01:13:00 CAT</sub>
+<sub>Last fetched: Sat, 17 Oct 2026 03:23:09 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design Twitter's timeline feature**
+**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**2. `Java` — What is the difference between abstract class and interface?**
+**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Execution timing, event loop phases
 
 </details>
 
-**3. `Python` — What are generators and when would you use them?**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -166,14 +166,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |----------|---------:|------:|---|
 | **AI** | 95 | 51.6% | `████████████████████` |
 | **Tools** | 41 | 22.3% | `█████████░░░░░░░░░░░` |
-| **JavaScript** | 36 | 19.6% | `████████░░░░░░░░░░░░` |
+| **JavaScript** | 37 | 20.1% | `████████░░░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `███████░░░░░░░░░░░░░` |
 | **Security** | 21 | 11.4% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.8% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 7 | 3.8% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,25 +194,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.5%
-JavaScript      ██████████████████████████████ 25.5%
-Python          ██████████████████████████ 22.0%
-Java            ████████████████████████ 20.6%
+Go              ██████████████████████████████ 26.6%
+JavaScript      █████████████████████████████ 25.9%
+Python          ████████████████████████ 21.7%
+Java            ███████████████████████ 20.3%
 Rust            ████ 3.5%
-Swift           ██ 1.4%
 Ruby            ██ 1.4%
+Swift           █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 36
-    "JavaScript" : 36
+    "Go" : 38
+    "JavaScript" : 37
     "Python" : 31
     "Java" : 29
     "Rust" : 5
-    "Swift" : 2
     "Ruby" : 2
+    "Swift" : 1
 ```
 
 
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 16 Oct 2026 23:13:00 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 17 Oct 2026 01:23:09 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

@@ -45,21 +45,6 @@
       "user": "Jem"
     },
     {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
-      "published_at": "2026-10-16T16:43:29Z",
-      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
       "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
       "published_at": "2026-10-16T14:52:20Z",
@@ -75,34 +60,19 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
+      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
+      "published_at": "2026-10-16T16:43:29Z",
+      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
       "tags": [
+        "googlecloud",
         "ai",
-        "programming",
-        "architecture",
-        "unix"
+        "python",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
-      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
-      "published_at": "2026-10-16T05:36:01Z",
-      "description": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.",
-      "tags": [
-        "oracle",
-        "go",
-        "opentelemetry",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
+      "user": "Robina Mirbahar"
     },
     {
       "title": "Are You Smarter Than a Fruit Fly?",
@@ -148,6 +118,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
+      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
+      "published_at": "2026-10-16T05:36:01Z",
+      "description": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.",
+      "tags": [
+        "oracle",
+        "go",
+        "opentelemetry",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Local image generation with llamadart for the Llama Village storybook",
@@ -402,6 +387,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq9hxfwmw34a5t6yzqof6.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -930,34 +930,19 @@
       "user": "caseyf7"
     },
     {
-      "title": "marclou/mailcheap - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "url": "https://github.com/marclou/mailcheap",
-      "published_at": "2026-10-10T12:55:36Z",
-      "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "published_at": "2026-10-12T16:40:29Z",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 1153,
-      "user": "marclou"
-    },
-    {
-      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "url": "https://github.com/nateherkai/roast-room",
-      "published_at": "2026-10-10T20:38:58Z",
-      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 677,
-      "user": "nateherkai"
+      "stars": 312,
+      "user": "NB-Corp"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -971,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1064,
+      "stars": 1066,
       "user": "zhuyansen"
     },
     {
@@ -1001,38 +986,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1061,
       "user": "feder-cr"
     },
     {
-      "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
-      "url": "https://github.com/aindeev/agent-chrome-relay",
-      "published_at": "2026-10-10T07:38:27Z",
-      "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "url": "https://github.com/caveman-ai/trim-1",
+      "published_at": "2026-10-14T03:05:27Z",
+      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 289,
-      "user": "aindeev"
+      "stars": 117,
+      "user": "caveman-ai"
     },
     {
-      "title": "openbin-ai/binny - BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.",
-      "url": "https://github.com/openbin-ai/binny",
-      "published_at": "2026-10-10T05:03:07Z",
-      "description": "BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.",
+      "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
+      "url": "https://github.com/bluechips-zhao/DITING",
+      "published_at": "2026-10-11T06:14:28Z",
+      "description": "谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290413500?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
       "source": "GitHub",
-      "stars": 131,
-      "user": "openbin-ai"
+      "stars": 106,
+      "user": "bluechips-zhao"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -1046,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1561,
       "user": "chenglou"
     },
     {
@@ -1061,23 +1046,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1400,
       "user": "deeplethe"
     },
     {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 1254,
-      "user": "rociiu"
+      "stars": 895,
+      "user": "outcrawlai"
+    },
+    {
+      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "published_at": "2026-10-13T15:57:19Z",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "source": "GitHub",
+      "stars": 811,
+      "user": "CoolkHz"
     },
     {
       "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
@@ -1091,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "solana-classic"
     },
     {
@@ -1106,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "deepfounder-ai"
     },
     {
@@ -1122,6 +1122,18 @@
       "user": "FiloSottile"
     },
     {
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "published_at": "2026-10-16T11:36:29.493-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "maevyn"
+    },
+    {
       "title": "Linus Torvalds on AI-assisted kernel contributions",
       "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
       "published_at": "2026-10-15T21:50:33.788-05:00",
@@ -1133,18 +1145,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thang"
-    },
-    {
-      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-      "url": "https://maevyn.codes/decoherence",
-      "published_at": "2026-10-16T11:36:29.493-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pzuraq"
     },
     {
       "title": "Mull: note-taking with a language server / vscode extension",
@@ -1541,38 +1541,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1716,
+      "stars": 1740,
       "user": "HeyPuter"
-    },
-    {
-      "title": "marclou/mailcheap - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "url": "https://github.com/marclou/mailcheap",
-      "published_at": "2026-10-10T12:55:36Z",
-      "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
-      "source": "GitHub",
-      "stars": 1153,
-      "user": "marclou"
-    },
-    {
-      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "url": "https://github.com/nateherkai/roast-room",
-      "published_at": "2026-10-10T20:38:58Z",
-      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 677,
-      "user": "nateherkai"
     },
     {
       "title": "threerocks/sweety-handdraw-video - 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
@@ -1586,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 641,
       "user": "threerocks"
     },
     {
@@ -1605,6 +1575,51 @@
       "user": "rayytor"
     },
     {
+      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "published_at": "2026-10-12T16:40:29Z",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "NB-Corp"
+    },
+    {
+      "title": "YIAN6557/eian-riso-broll - 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "url": "https://github.com/YIAN6557/eian-riso-broll",
+      "published_at": "2026-10-11T15:17:37Z",
+      "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314587746?v=4",
+      "source": "GitHub",
+      "stars": 288,
+      "user": "YIAN6557"
+    },
+    {
+      "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
+      "url": "https://github.com/bluechips-zhao/DITING",
+      "published_at": "2026-10-11T06:14:28Z",
+      "description": "谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
+      "source": "GitHub",
+      "stars": 106,
+      "user": "bluechips-zhao"
+    },
+    {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
       "url": "https://github.com/chenglou/handwired",
       "published_at": "2026-10-15T02:15:09Z",
@@ -1616,23 +1631,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1561,
       "user": "chenglou"
-    },
-    {
-      "title": "shaongitbd/doory - Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "published_at": "2026-10-10T00:03:25Z",
-      "description": "Open source canva alternative",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
-      "source": "GitHub",
-      "stars": 1424,
-      "user": "shaongitbd"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -1646,23 +1646,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1400,
       "user": "deeplethe"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 1254,
-      "user": "rociiu"
     },
     {
       "title": "Caho1/open-claude-ui - 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
@@ -1676,8 +1661,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1017,
       "user": "Caho1"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 895,
+      "user": "outcrawlai"
+    },
+    {
+      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "published_at": "2026-10-13T15:57:19Z",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "source": "GitHub",
+      "stars": 811,
+      "user": "CoolkHz"
     },
     {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
@@ -1862,21 +1877,6 @@
   ],
   "Python": [
     {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
-      "published_at": "2026-10-16T16:43:29Z",
-      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
       "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
       "published_at": "2026-10-16T14:52:20Z",
@@ -1890,6 +1890,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
+      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
+      "published_at": "2026-10-16T16:43:29Z",
+      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "python",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "Deep Dive: Autonomous Code Auditing, 40% Python Speedups & Stateful 1M-Token Agents with Gemini 4 Argon",
@@ -2038,7 +2053,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2508,
+      "stars": 2522,
       "user": "Arekejoker"
     },
     {
@@ -2053,7 +2068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1064,
+      "stars": 1066,
       "user": "zhuyansen"
     },
     {
@@ -2068,7 +2083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 1000,
       "user": "chenwei810"
     },
     {
@@ -2102,6 +2117,22 @@
       "user": "StoopwenpueNq"
     },
     {
+      "title": "How to implement RK45 algorithm for N-body simulation",
+      "url": "https://stackoverflow.com/questions/80010655/how-to-implement-rk45-algorithm-for-n-body-simulation",
+      "published_at": "2026-10-16T23:15:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "physics",
+        "numerical-methods",
+        "astronomy",
+        "runge-kutta"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe_Hudson"
+    },
+    {
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
       "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
       "published_at": "2026-10-16T18:49:55.000Z",
@@ -2133,7 +2164,7 @@
       "title": "Why cant the input() command let me output more commands?",
       "url": "https://stackoverflow.com/questions/80010607/why-cant-the-input-command-let-me-output-more-commands",
       "published_at": "2026-10-16T17:33:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "user-input"
@@ -2174,7 +2205,7 @@
       "title": "googletrans - python - Is not translating",
       "url": "https://stackoverflow.com/questions/80010106/googletrans-python-is-not-translating",
       "published_at": "2026-10-15T01:05:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
         "googletrans"
@@ -2225,19 +2256,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dimitrios Desyllas"
-    },
-    {
-      "title": "How do I access CGI form variables in current Python?",
-      "url": "https://stackoverflow.com/questions/80010248/how-do-i-access-cgi-form-variables-in-current-python",
-      "published_at": "2026-10-15T12:14:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "cgi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Christos Hayward"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2485,6 +2503,21 @@
       "user": "velmu"
     },
     {
+      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "published_at": "2026-10-13T15:57:19Z",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "source": "GitHub",
+      "stars": 811,
+      "user": "CoolkHz"
+    },
+    {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
@@ -2602,21 +2635,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
-    },
-    {
-      "title": "c22dev/muguet - A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
-      "url": "https://github.com/c22dev/muguet",
-      "published_at": "2026-10-10T08:45:02Z",
-      "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
-      "source": "GitHub",
-      "stars": 633,
-      "user": "c22dev"
     }
   ],
   "Cloud": [
@@ -2651,21 +2669,6 @@
       "user": "Robina Mirbahar"
     },
     {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
       "published_at": "2026-10-15T16:38:38Z",
@@ -2694,6 +2697,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fojblbziqltrj6xqnt6pp.png",
       "source": "Dev.to",
       "user": "Jonathan Zhuo"
+    },
+    {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
@@ -2754,21 +2772,6 @@
       "source": "GitHub",
       "stars": 829,
       "user": "jwuthri-cloud"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 1254,
-      "user": "rociiu"
     },
     {
       "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
@@ -2886,6 +2889,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
+      "url": "https://github.com/bluechips-zhao/DITING",
+      "published_at": "2026-10-11T06:14:28Z",
+      "description": "谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
+      "source": "GitHub",
+      "stars": 106,
+      "user": "bluechips-zhao"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -3339,38 +3357,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 1716,
+      "stars": 1740,
       "user": "HeyPuter"
-    },
-    {
-      "title": "marclou/mailcheap - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "url": "https://github.com/marclou/mailcheap",
-      "published_at": "2026-10-10T12:55:36Z",
-      "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12645328?v=4",
-      "source": "GitHub",
-      "stars": 1153,
-      "user": "marclou"
-    },
-    {
-      "title": "nateherkai/roast-room - Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "url": "https://github.com/nateherkai/roast-room",
-      "published_at": "2026-10-10T20:38:58Z",
-      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 677,
-      "user": "nateherkai"
     },
     {
       "title": "threerocks/sweety-handdraw-video - 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
@@ -3384,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 641,
       "user": "threerocks"
     },
     {
@@ -3403,6 +3391,36 @@
       "user": "rayytor"
     },
     {
+      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "published_at": "2026-10-12T16:40:29Z",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "NB-Corp"
+    },
+    {
+      "title": "YIAN6557/eian-riso-broll - 孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "url": "https://github.com/YIAN6557/eian-riso-broll",
+      "published_at": "2026-10-11T15:17:37Z",
+      "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314587746?v=4",
+      "source": "GitHub",
+      "stars": 288,
+      "user": "YIAN6557"
+    },
+    {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "published_at": "2026-10-13T03:09:42Z",
@@ -3414,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2508,
+      "stars": 2522,
       "user": "Arekejoker"
     },
     {
@@ -3429,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1064,
+      "stars": 1066,
       "user": "zhuyansen"
     },
     {
@@ -3444,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 1000,
       "user": "chenwei810"
     },
     {
@@ -3489,38 +3507,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1061,
       "user": "feder-cr"
-    },
-    {
-      "title": "aindeev/agent-chrome-relay - Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
-      "url": "https://github.com/aindeev/agent-chrome-relay",
-      "published_at": "2026-10-10T07:38:27Z",
-      "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6354229?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "aindeev"
-    },
-    {
-      "title": "init-co-jp/diff-tour - Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
-      "url": "https://github.com/init-co-jp/diff-tour",
-      "published_at": "2026-10-10T09:19:05Z",
-      "description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148442191?v=4",
-      "source": "GitHub",
-      "stars": 171,
-      "user": "init-co-jp"
     },
     {
       "title": "Binaryify/MonitorBar - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
@@ -3538,19 +3526,49 @@
       "user": "Binaryify"
     },
     {
-      "title": "openbin-ai/binny - BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.",
-      "url": "https://github.com/openbin-ai/binny",
-      "published_at": "2026-10-10T05:03:07Z",
-      "description": "BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.",
+      "title": "rohit267/net-merge - Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+      "url": "https://github.com/rohit267/net-merge",
+      "published_at": "2026-10-12T19:28:45Z",
+      "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290413500?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 131,
-      "user": "openbin-ai"
+      "stars": 119,
+      "user": "rohit267"
+    },
+    {
+      "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "url": "https://github.com/caveman-ai/trim-1",
+      "published_at": "2026-10-14T03:05:27Z",
+      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "caveman-ai"
+    },
+    {
+      "title": "bluechips-zhao/DITING - 谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
+      "url": "https://github.com/bluechips-zhao/DITING",
+      "published_at": "2026-10-11T06:14:28Z",
+      "description": "谛听 DITING：LLM 驱动的自主渗透测试工作台，Go + Next.js + PostgreSQL，基于 ARTEX（AGPL-3.0）",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155819327?v=4",
+      "source": "GitHub",
+      "stars": 106,
+      "user": "bluechips-zhao"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -3564,23 +3582,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1561,
       "user": "chenglou"
-    },
-    {
-      "title": "shaongitbd/doory - Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "published_at": "2026-10-10T00:03:25Z",
-      "description": "Open source canva alternative",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/83664154?v=4",
-      "source": "GitHub",
-      "stars": 1424,
-      "user": "shaongitbd"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -3594,23 +3597,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1400,
       "user": "deeplethe"
-    },
-    {
-      "title": "rociiu/talorys - Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "published_at": "2026-10-10T09:46:56Z",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23930?v=4",
-      "source": "GitHub",
-      "stars": 1254,
-      "user": "rociiu"
     },
     {
       "title": "Caho1/open-claude-ui - 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
@@ -3624,8 +3612,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1017,
       "user": "Caho1"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 895,
+      "user": "outcrawlai"
+    },
+    {
+      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "published_at": "2026-10-13T15:57:19Z",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "source": "GitHub",
+      "stars": 811,
+      "user": "CoolkHz"
     },
     {
       "title": "liseami/CCBaga - GitHub Repository",
@@ -3643,36 +3661,6 @@
       "user": "liseami"
     },
     {
-      "title": "opengeos/RustGIS - A fast, free and open-source GIS in pure Rust.",
-      "url": "https://github.com/opengeos/RustGIS",
-      "published_at": "2026-10-10T18:45:41Z",
-      "description": "A fast, free and open-source GIS in pure Rust.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129896036?v=4",
-      "source": "GitHub",
-      "stars": 1345,
-      "user": "opengeos"
-    },
-    {
-      "title": "c22dev/muguet - A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
-      "url": "https://github.com/c22dev/muguet",
-      "published_at": "2026-10-10T08:45:02Z",
-      "description": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
-      "source": "GitHub",
-      "stars": 633,
-      "user": "c22dev"
-    },
-    {
       "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
       "url": "https://github.com/solana-classic/solana-classic",
       "published_at": "2026-10-13T19:35:48Z",
@@ -3684,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "solana-classic"
     },
     {
@@ -3699,8 +3687,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "deepfounder-ai"
+    },
+    {
+      "title": "VallierDev/uu-remote-linux - 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "url": "https://github.com/VallierDev/uu-remote-linux",
+      "published_at": "2026-10-14T15:53:43Z",
+      "description": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
+      "source": "GitHub",
+      "stars": 226,
+      "user": "VallierDev"
+    },
+    {
+      "title": "CarterT27/scion - Implementation of Anthropic's version control system",
+      "url": "https://github.com/CarterT27/scion",
+      "published_at": "2026-10-14T18:58:07Z",
+      "description": "Implementation of Anthropic's version control system",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/67401383?v=4",
+      "source": "GitHub",
+      "stars": 208,
+      "user": "CarterT27"
     },
     {
       "title": "Mull: note-taking with a language server / vscode extension",
