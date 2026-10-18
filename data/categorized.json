@@ -61,36 +61,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Local image generation with llamadart for the Llama Village storybook",
-      "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
-      "published_at": "2026-10-15T13:56:36Z",
-      "description": "Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...",
-      "tags": [
-        "tutorial",
-        "ai",
-        "dart",
-        "flutter"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
-      "title": "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
-      "url": "https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a",
-      "published_at": "2026-10-14T12:03:42Z",
-      "description": "For financial technology institutions operating at enterprise scale, the initial wave of Generative...",
-      "tags": [
-        "ai",
-        "agents",
-        "fintech",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdow1p4av91zqti4tt9c3.png",
-      "source": "Dev.to",
-      "user": "Andrey Rybka"
-    },
-    {
       "title": "Nobody’s winning the AI race yet",
       "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
       "published_at": "2026-10-14T12:04:39Z",
@@ -104,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png",
       "source": "Dev.to",
       "user": "Ryan Swift"
-    },
-    {
-      "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
-      "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
-      "published_at": "2026-10-14T12:03:18Z",
-      "description": "Getting an LLM-powered feature to work in a demo takes an afternoon. But getting it to produce the...",
-      "tags": [
-        "ai",
-        "llm",
-        "hackathon",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsw4p4eocpl5f05symejg.png",
-      "source": "Dev.to",
-      "user": "Maithili Jha"
     },
     {
       "title": "Operational intelligence is sociotechnical",
@@ -136,21 +91,6 @@
       "user": "Spencer Pitman"
     },
     {
-      "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
-      "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567",
-      "published_at": "2026-10-14T07:07:21Z",
-      "description": "🎯 What You'll Learn     Gemini 4 Native Architecture Leap: How to leverage Deep Reasoning...",
-      "tags": [
-        "gemini",
-        "agents",
-        "security",
-        "devsecops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fij00m2kux5txwhlmyqg5.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -164,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
+      "url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567",
+      "published_at": "2026-10-14T07:07:21Z",
+      "description": "🎯 What You'll Learn     Gemini 4 Native Architecture Leap: How to leverage Deep Reasoning...",
+      "tags": [
+        "gemini",
+        "agents",
+        "security",
+        "devsecops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fij00m2kux5txwhlmyqg5.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform",
@@ -284,20 +239,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "Local speech with llamadart: giving Llama Village a voice",
-      "url": "https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m",
-      "published_at": "2026-10-14T03:03:34Z",
-      "description": "Beyond chat with llamadart · Part 3  Pip’s scarf is missing. I wanted Dash to be able to fly over to...",
-      "tags": [
-        "ai",
-        "dart",
-        "flutter"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq9hxfwmw34a5t6yzqof6.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -642,21 +583,6 @@
       "user": "Nick Nisi"
     },
     {
-      "title": "Local embeddings with llamadart: how llamas share secrets",
-      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
-      "published_at": "2026-10-12T18:18:49Z",
-      "description": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
-      "tags": [
-        "dart",
-        "ai",
-        "flutter",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "AI Needs a Test That Fights Back",
       "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
       "published_at": "2026-10-12T21:03:49Z",
@@ -702,6 +628,21 @@
       "user": "Tom Fairey"
     },
     {
+      "title": "Local image generation with llamadart for the Llama Village storybook",
+      "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
+      "published_at": "2026-10-15T13:56:36Z",
+      "description": "Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...",
+      "tags": [
+        "tutorial",
+        "ai",
+        "dart",
+        "flutter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "Agents Can’t Decide What’s Okay to Break",
       "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
       "published_at": "2026-10-12T20:58:59Z",
@@ -732,6 +673,21 @@
       "user": "Sid Pednekar"
     },
     {
+      "title": "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
+      "url": "https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a",
+      "published_at": "2026-10-14T12:03:42Z",
+      "description": "For financial technology institutions operating at enterprise scale, the initial wave of Generative...",
+      "tags": [
+        "ai",
+        "agents",
+        "fintech",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdow1p4av91zqti4tt9c3.png",
+      "source": "Dev.to",
+      "user": "Andrey Rybka"
+    },
+    {
       "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
       "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p",
       "published_at": "2026-10-14T12:05:21Z",
@@ -747,6 +703,21 @@
       "user": "Kara Silverman"
     },
     {
+      "title": "What a 48-Hour Hackathon Can Do for LLM Reliability",
+      "url": "https://dev.to/dailycontext/what-a-48-hour-hackathon-can-do-for-llm-reliability-9j6",
+      "published_at": "2026-10-14T12:03:18Z",
+      "description": "Getting an LLM-powered feature to work in a demo takes an afternoon. But getting it to produce the...",
+      "tags": [
+        "ai",
+        "llm",
+        "hackathon",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsw4p4eocpl5f05symejg.png",
+      "source": "Dev.to",
+      "user": "Maithili Jha"
+    },
+    {
       "title": "A/B testing AI products is weird",
       "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
       "published_at": "2026-10-11T19:43:52Z",
@@ -760,6 +731,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
       "source": "Dev.to",
       "user": "supriya subudhi"
+    },
+    {
+      "title": "Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec",
+      "published_at": "2026-10-09T14:55:22Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "resources",
+        "opportunities"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh3zcvzl5dry5rlbc17m2.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -941,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 360,
       "user": "NB-Corp"
     },
     {
@@ -956,53 +942,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 344,
       "user": "flybrainlabs"
-    },
-    {
-      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "published_at": "2026-10-12T07:11:01Z",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
-      "source": "GitHub",
-      "stars": 1094,
-      "user": "zhuyansen"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 717,
-      "user": "Leonxlnx"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 703,
-      "user": "LiCinCan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -1016,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1277,
       "user": "feder-cr"
     },
     {
@@ -1046,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1946,
+      "stars": 2002,
       "user": "deeplethe"
     },
     {
@@ -1061,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1701,
       "user": "chenglou"
     },
     {
@@ -1091,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "CoolkHz"
     },
     {
@@ -1106,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 537,
       "user": "solana-classic"
     },
     {
@@ -1121,8 +1062,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 277,
       "user": "Graphicle-AI"
+    },
+    {
+      "title": "It's enough - vibecoding tag crossed from useless to harmful",
+      "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
+      "published_at": "2026-10-18T05:35:11.525-05:00",
+      "description": "The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns away very valuable members https://lobste.rs/c/vecuxj\r\n\r\nI sighed and moved on for a while now as almost everything gets tagged - you can skip a word. But now it not only carries no signal whatsoever, it turns away people creating original technical content - which is what I assume anti-vibecoding people would actually like to see more of.\r\n\r\nPlease split it or kill it. But we'd be better off without what exists today.\r\n\r\nAdded: To be clear, I totally support people filtering out llm-generated or llm-centric posts. But right now everyone loses. And every day we lose a little bit more. Whether it's an original, interesting article that turns out to be nth-degree related to llms and filtered out, or a community member annoyed by this recurring problem and leaving us with even fewer actual non-llm-centric entries.",
+      "tags": [
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "viraptor"
     },
     {
       "title": "The Brain Sandwich",
@@ -1137,6 +1090,18 @@
       "user": "ani"
     },
     {
+      "title": "ARP! Tell your network to explain itself",
+      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
+      "published_at": "2026-10-18T07:48:02.112-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "benj"
+    },
+    {
       "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
       "url": "https://words.filippo.io/seeds-solved/",
       "published_at": "2026-10-16T15:18:36.306-05:00",
@@ -1148,30 +1113,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "FiloSottile"
-    },
-    {
-      "title": "Abolish AI! Manifesto",
-      "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-      "published_at": "2026-10-17T13:25:58.714-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "janus"
-    },
-    {
-      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-      "url": "https://maevyn.codes/decoherence",
-      "published_at": "2026-10-16T11:36:29.493-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "maevyn"
     },
     {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
@@ -1191,7 +1132,7 @@
       "title": "Retrieve parameters of a redirected website on aiohttp",
       "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
       "published_at": "2026-10-17T15:04:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "aiohttp"
@@ -1536,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2111,
+      "stars": 2145,
       "user": "HeyPuter"
     },
     {
@@ -1551,23 +1492,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 679,
       "user": "threerocks"
-    },
-    {
-      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-      "url": "https://github.com/NB-Corp/gpt-with-taste",
-      "published_at": "2026-10-12T16:40:29Z",
-      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
-      "source": "GitHub",
-      "stars": 358,
-      "user": "NB-Corp"
     },
     {
       "title": "showheyohtaki/motion-prompt - GitHub Repository",
@@ -1581,8 +1507,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 371,
       "user": "showheyohtaki"
+    },
+    {
+      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "published_at": "2026-10-12T16:40:29Z",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "source": "GitHub",
+      "stars": 360,
+      "user": "NB-Corp"
     },
     {
       "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
@@ -1596,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 344,
       "user": "flybrainlabs"
     },
     {
@@ -1611,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1946,
+      "stars": 2002,
       "user": "deeplethe"
     },
     {
@@ -1626,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1701,
       "user": "chenglou"
     },
     {
@@ -1641,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1189,
       "user": "Caho1"
     },
     {
@@ -1671,7 +1612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "CoolkHz"
     },
     {
@@ -1714,20 +1655,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lulook"
-    },
-    {
-      "title": "Tabulator with nested tables jumping to top when updating a sub-table",
-      "url": "https://stackoverflow.com/questions/80010495/tabulator-with-nested-tables-jumping-to-top-when-updating-a-sub-table",
-      "published_at": "2026-10-16T08:24:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "tabulator",
-        "nested-table"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Neohobbit"
     },
     {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
@@ -1814,6 +1741,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KT1"
+    },
+    {
+      "title": "Display the values in the console log when Submit button is clicked",
+      "url": "https://stackoverflow.com/questions/72154315/display-the-values-in-the-console-log-when-submit-button-is-clicked",
+      "published_at": "2022-05-07T16:13:38.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "javascript",
+        "console.log"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Catalin Dumitru Popa"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -1999,81 +1939,6 @@
       "user": "arathore"
     },
     {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "published_at": "2026-10-13T03:09:42Z",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
-      "source": "GitHub",
-      "stars": 2686,
-      "user": "Arekejoker"
-    },
-    {
-      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "published_at": "2026-10-12T07:11:01Z",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
-      "source": "GitHub",
-      "stars": 1094,
-      "user": "zhuyansen"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 717,
-      "user": "Leonxlnx"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 703,
-      "user": "LiCinCan"
-    },
-    {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 650,
-      "user": "Tencent-Hunyuan"
-    },
-    {
       "title": "Plotly - Autorescaling y axis range when range slider used",
       "url": "https://stackoverflow.com/questions/75876460/plotly-autorescaling-y-axis-range-when-range-slider-used",
       "published_at": "2023-03-29T11:12:34.000Z",
@@ -2089,10 +1954,22 @@
       "user": "plonfat"
     },
     {
+      "title": "Python - General usage",
+      "url": "https://stackoverflow.com/questions/80010880/python-general-usage",
+      "published_at": "2026-10-18T12:47:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "guillaume_d"
+    },
+    {
       "title": "Three-body solver using RK45 produces incorrect \"shifted\" plot",
       "url": "https://stackoverflow.com/questions/80010831/three-body-solver-using-rk45-produces-incorrect-shifted-plot",
       "published_at": "2026-10-18T01:33:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "physics",
@@ -2133,6 +2010,18 @@
       "user": "Garner Jarrett"
     },
     {
+      "title": "Python can't find function from imported module - first time creating an __init__.py file",
+      "url": "https://stackoverflow.com/questions/80010672/python-cant-find-function-from-imported-module-first-time-creating-an-init",
+      "published_at": "2026-10-17T03:55:46.000Z",
+      "description": "Stack Overflow question · 3 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "OutThere"
+    },
+    {
       "title": "Import hook at the AST level",
       "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
       "published_at": "2026-10-17T14:57:59.000Z",
@@ -2151,7 +2040,7 @@
       "title": "Retrieve parameters of a redirected website on aiohttp",
       "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
       "published_at": "2026-10-17T15:04:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "aiohttp"
@@ -2159,32 +2048,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "noseii"
-    },
-    {
-      "title": "Python can't find function from imported module - first time creating an __init__.py file",
-      "url": "https://stackoverflow.com/questions/80010672/python-cant-find-function-from-imported-module-first-time-creating-an-init",
-      "published_at": "2026-10-17T03:55:46.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "OutThere"
-    },
-    {
-      "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
-      "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
-      "published_at": "2026-10-17T03:03:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "pydantic",
-        "pydantic-v2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhargav"
     },
     {
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
@@ -2202,6 +2065,20 @@
       "user": "robert driscoll"
     },
     {
+      "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
+      "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
+      "published_at": "2026-10-17T03:03:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhargav"
+    },
+    {
       "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
       "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
       "published_at": "2026-10-16T17:28:31.000Z",
@@ -2213,19 +2090,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhargav"
-    },
-    {
-      "title": "Why cant the input() command let me output more commands?",
-      "url": "https://stackoverflow.com/questions/80010607/why-cant-the-input-command-let-me-output-more-commands",
-      "published_at": "2026-10-16T17:33:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python",
-        "user-input"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dieselengine"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2484,7 +2348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "CoolkHz"
     },
     {
@@ -2548,21 +2412,6 @@
   ],
   "Mobile": [
     {
-      "title": "Local image generation with llamadart for the Llama Village storybook",
-      "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
-      "published_at": "2026-10-15T13:56:36Z",
-      "description": "Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...",
-      "tags": [
-        "tutorial",
-        "ai",
-        "dart",
-        "flutter"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Nobody’s winning the AI race yet",
       "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
       "published_at": "2026-10-14T12:04:39Z",
@@ -2578,31 +2427,17 @@
       "user": "Ryan Swift"
     },
     {
-      "title": "Local speech with llamadart: giving Llama Village a voice",
-      "url": "https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m",
-      "published_at": "2026-10-14T03:03:34Z",
-      "description": "Beyond chat with llamadart · Part 3  Pip’s scarf is missing. I wanted Dash to be able to fly over to...",
+      "title": "Local image generation with llamadart for the Llama Village storybook",
+      "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
+      "published_at": "2026-10-15T13:56:36Z",
+      "description": "Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...",
       "tags": [
+        "tutorial",
         "ai",
         "dart",
         "flutter"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq9hxfwmw34a5t6yzqof6.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
-      "title": "Local embeddings with llamadart: how llamas share secrets",
-      "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
-      "published_at": "2026-10-12T18:18:49Z",
-      "description": "Beyond chat with llamadart · Part 2    Llama Village, where five llamas share a world without sharing...",
-      "tags": [
-        "dart",
-        "ai",
-        "flutter",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4c0fry0ym4czmui46awr.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
     }
@@ -3298,7 +3133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2111,
+      "stars": 2145,
       "user": "HeyPuter"
     },
     {
@@ -3313,23 +3148,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 679,
       "user": "threerocks"
-    },
-    {
-      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-      "url": "https://github.com/NB-Corp/gpt-with-taste",
-      "published_at": "2026-10-12T16:40:29Z",
-      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
-      "source": "GitHub",
-      "stars": 358,
-      "user": "NB-Corp"
     },
     {
       "title": "showheyohtaki/motion-prompt - GitHub Repository",
@@ -3343,8 +3163,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 371,
       "user": "showheyohtaki"
+    },
+    {
+      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "published_at": "2026-10-12T16:40:29Z",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "source": "GitHub",
+      "stars": 360,
+      "user": "NB-Corp"
     },
     {
       "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
@@ -3358,83 +3193,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 344,
       "user": "flybrainlabs"
-    },
-    {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "published_at": "2026-10-13T03:09:42Z",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
-      "source": "GitHub",
-      "stars": 2686,
-      "user": "Arekejoker"
-    },
-    {
-      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "published_at": "2026-10-12T07:11:01Z",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
-      "source": "GitHub",
-      "stars": 1094,
-      "user": "zhuyansen"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 717,
-      "user": "Leonxlnx"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 703,
-      "user": "LiCinCan"
-    },
-    {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 650,
-      "user": "Tencent-Hunyuan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3448,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1277,
       "user": "feder-cr"
     },
     {
@@ -3463,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 979,
       "user": "rohit267"
     },
     {
@@ -3508,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "Haryy985"
     },
     {
@@ -3523,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1946,
+      "stars": 2002,
       "user": "deeplethe"
     },
     {
@@ -3538,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1701,
       "user": "chenglou"
     },
     {
@@ -3553,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1189,
       "user": "Caho1"
     },
     {
@@ -3583,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "CoolkHz"
     },
     {
@@ -3598,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 537,
       "user": "solana-classic"
     },
     {
@@ -3613,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 350,
       "user": "reason-machines"
     },
     {
@@ -3628,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24513137?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 287,
       "user": "SebasKitten"
     },
     {
@@ -3643,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 277,
       "user": "Graphicle-AI"
     },
     {
@@ -3658,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "VallierDev"
     },
     {
