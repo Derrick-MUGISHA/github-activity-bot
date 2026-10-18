@@ -897,8 +897,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 391,
       "user": "flybrainlabs"
+    },
+    {
+      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "published_at": "2026-10-12T07:11:01Z",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
+      "source": "GitHub",
+      "stars": 1108,
+      "user": "zhuyansen"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 784,
+      "user": "LiCinCan"
+    },
+    {
+      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "published_at": "2026-10-15T06:52:46Z",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 761,
+      "user": "Leonxlnx"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -912,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1830,
       "user": "feder-cr"
     },
     {
@@ -927,7 +972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "caveman-ai"
     },
     {
@@ -942,7 +987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2015,
       "user": "deeplethe"
     },
     {
@@ -957,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1719,
+      "stars": 1725,
       "user": "chenglou"
     },
     {
@@ -987,7 +1032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 827,
       "user": "CoolkHz"
     },
     {
@@ -1002,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 556,
       "user": "solana-classic"
     },
     {
@@ -1017,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 290,
       "user": "Graphicle-AI"
     },
     {
@@ -1046,18 +1091,6 @@
       "user": "benj"
     },
     {
-      "title": "The Brain Sandwich",
-      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "published_at": "2026-10-17T22:03:36.932-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ani"
-    },
-    {
       "title": "Men in tech #YesAllMen",
       "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
       "published_at": "2026-10-18T13:35:01.063-05:00",
@@ -1071,18 +1104,16 @@
       "user": "gmem"
     },
     {
-      "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
-      "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
-      "published_at": "2026-10-15T20:58:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "title": "The Brain Sandwich",
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "published_at": "2026-10-17T22:03:36.932-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "async-await",
-        "requestanimationframe"
+        "vibecoding"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mandoguy"
+      "source": "Lobste.rs",
+      "user": "ani"
     },
     {
       "title": "Retrieve parameters of a redirected website on aiohttp",
@@ -1096,6 +1127,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "noseii"
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "published_at": "2026-10-18T20:37:40.000Z",
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "tags": [
+        "AI",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
@@ -1200,19 +1244,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan"
-    },
-    {
-      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "published_at": "2026-10-17T02:36:18.000Z",
-      "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-      "tags": [
-        "Biotech & Health",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -1422,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2186,
+      "stars": 2201,
       "user": "HeyPuter"
     },
     {
@@ -1437,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 687,
       "user": "threerocks"
     },
     {
@@ -1452,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 405,
       "user": "showheyohtaki"
     },
     {
@@ -1482,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 391,
       "user": "flybrainlabs"
     },
     {
@@ -1497,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2015,
       "user": "deeplethe"
     },
     {
@@ -1512,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1719,
+      "stars": 1725,
       "user": "chenglou"
     },
     {
@@ -1527,7 +1558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1206,
       "user": "Caho1"
     },
     {
@@ -1557,7 +1588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 827,
       "user": "CoolkHz"
     },
     {
@@ -1600,20 +1631,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lulook"
-    },
-    {
-      "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
-      "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
-      "published_at": "2026-10-15T20:58:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "async-await",
-        "requestanimationframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mandoguy"
     },
     {
       "title": "How to convert uint8 Array to base64 Encoded String?",
@@ -1673,19 +1690,6 @@
       "user": "KT1"
     },
     {
-      "title": "Display the values in the console log when Submit button is clicked",
-      "url": "https://stackoverflow.com/questions/72154315/display-the-values-in-the-console-log-when-submit-button-is-clicked",
-      "published_at": "2022-05-07T16:13:38.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
-      "tags": [
-        "javascript",
-        "console.log"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Catalin Dumitru Popa"
-    },
-    {
       "title": "How to limit the number of pages shown in pagination in React?",
       "url": "https://stackoverflow.com/questions/66169637/how-to-limit-the-number-of-pages-shown-in-pagination-in-react",
       "published_at": "2021-02-12T09:53:39.000Z",
@@ -1699,6 +1703,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "HKS"
+    },
+    {
+      "title": "Axios response data to JSON",
+      "url": "https://stackoverflow.com/questions/62825999/axios-response-data-to-json",
+      "published_at": "2020-07-10T01:23:44.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "javascript",
+        "axios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Taguada"
+    },
+    {
+      "title": "I can't create a dynamic navigation menu using pure JavaScript",
+      "url": "https://stackoverflow.com/questions/66734872/i-cant-create-a-dynamic-navigation-menu-using-pure-javascript",
+      "published_at": "2021-03-21T16:34:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamed Rezk"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -1884,6 +1915,81 @@
       "user": "arathore"
     },
     {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "published_at": "2026-10-13T03:09:42Z",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
+      "source": "GitHub",
+      "stars": 2729,
+      "user": "Arekejoker"
+    },
+    {
+      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "published_at": "2026-10-12T07:11:01Z",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
+      "source": "GitHub",
+      "stars": 1108,
+      "user": "zhuyansen"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 784,
+      "user": "LiCinCan"
+    },
+    {
+      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "published_at": "2026-10-15T06:52:46Z",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 761,
+      "user": "Leonxlnx"
+    },
+    {
+      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "published_at": "2026-10-15T13:06:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "source": "GitHub",
+      "stars": 761,
+      "user": "Tencent-Hunyuan"
+    },
+    {
       "title": "Plotly - Autorescaling y axis range when range slider used",
       "url": "https://stackoverflow.com/questions/75876460/plotly-autorescaling-y-axis-range-when-range-slider-used",
       "published_at": "2023-03-29T11:12:34.000Z",
@@ -1958,6 +2064,18 @@
       "user": "NickC"
     },
     {
+      "title": "Python can't find function from imported module - first time creating an __init__.py file",
+      "url": "https://stackoverflow.com/questions/80010672/python-cant-find-function-from-imported-module-first-time-creating-an-init",
+      "published_at": "2026-10-17T03:55:46.000Z",
+      "description": "Stack Overflow question · 3 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "OutThere"
+    },
+    {
       "title": "throwing exceptions to specific parts of the code in python",
       "url": "https://stackoverflow.com/questions/80010770/throwing-exceptions-to-specific-parts-of-the-code-in-python",
       "published_at": "2026-10-17T15:38:29.000Z",
@@ -1969,18 +2087,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "RaylibNoob7"
-    },
-    {
-      "title": "Python can't find function from imported module - first time creating an __init__.py file",
-      "url": "https://stackoverflow.com/questions/80010672/python-cant-find-function-from-imported-module-first-time-creating-an-init",
-      "published_at": "2026-10-17T03:55:46.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "OutThere"
     },
     {
       "title": "new to Python and i need help shipping app",
@@ -2296,7 +2402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 827,
       "user": "CoolkHz"
     },
     {
@@ -2311,6 +2417,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KooiInc"
+    },
+    {
+      "title": "I can't create a dynamic navigation menu using pure JavaScript",
+      "url": "https://stackoverflow.com/questions/66734872/i-cant-create-a-dynamic-navigation-menu-using-pure-javascript",
+      "published_at": "2021-03-21T16:34:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mohamed Rezk"
     },
     {
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
@@ -2388,6 +2508,32 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "Outside the Scope of Our Support",
+      "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+      "published_at": "2026-10-18T13:52:01.341-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "a11y",
+        "android"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "7tehdt3cnw6kir6o"
+    },
+    {
+      "title": "Axios response data to JSON",
+      "url": "https://stackoverflow.com/questions/62825999/axios-response-data-to-json",
+      "published_at": "2020-07-10T01:23:44.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "javascript",
+        "axios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Taguada"
     }
   ],
   "Cloud": [
@@ -3040,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2186,
+      "stars": 2201,
       "user": "HeyPuter"
     },
     {
@@ -3055,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 687,
       "user": "threerocks"
     },
     {
@@ -3070,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 405,
       "user": "showheyohtaki"
     },
     {
@@ -3100,8 +3246,83 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 391,
       "user": "flybrainlabs"
+    },
+    {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "published_at": "2026-10-13T03:09:42Z",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
+      "source": "GitHub",
+      "stars": 2729,
+      "user": "Arekejoker"
+    },
+    {
+      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "published_at": "2026-10-12T07:11:01Z",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
+      "source": "GitHub",
+      "stars": 1108,
+      "user": "zhuyansen"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 784,
+      "user": "LiCinCan"
+    },
+    {
+      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "published_at": "2026-10-15T06:52:46Z",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 761,
+      "user": "Leonxlnx"
+    },
+    {
+      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "published_at": "2026-10-15T13:06:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "source": "GitHub",
+      "stars": 761,
+      "user": "Tencent-Hunyuan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3115,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1830,
       "user": "feder-cr"
     },
     {
@@ -3130,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1096,
       "user": "rohit267"
     },
     {
@@ -3145,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "caveman-ai"
     },
     {
@@ -3190,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2015,
       "user": "deeplethe"
     },
     {
@@ -3205,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1719,
+      "stars": 1725,
       "user": "chenglou"
     },
     {
@@ -3220,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1206,
       "user": "Caho1"
     },
     {
@@ -3250,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 827,
       "user": "CoolkHz"
     },
     {
@@ -3265,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 556,
       "user": "solana-classic"
     },
     {
@@ -3280,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "reason-machines"
     },
     {
@@ -3295,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 290,
       "user": "Graphicle-AI"
     },
     {
@@ -3310,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "VallierDev"
     },
     {
@@ -3325,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "michaelshimeles"
     },
     {
