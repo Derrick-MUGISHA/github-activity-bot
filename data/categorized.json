@@ -16,21 +16,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
-      "published_at": "2026-10-16T15:14:10Z",
-      "description": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
-      "tags": [
-        "nvidia",
-        "googlecloud",
-        "llm",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Design for Churn",
       "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
       "published_at": "2026-10-14T12:03:29Z",
@@ -241,6 +226,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
+      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
+      "published_at": "2026-10-16T15:14:10Z",
+      "description": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
+      "tags": [
+        "nvidia",
+        "googlecloud",
+        "llm",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
       "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
       "published_at": "2026-10-14T12:04:58Z",
@@ -256,19 +256,19 @@
       "user": "Anirudh Veeraragavan"
     },
     {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
-      "published_at": "2026-10-11T19:45:03Z",
-      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "title": "A World Worth Understanding",
+      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
+      "published_at": "2026-10-11T19:43:19Z",
+      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
       "tags": [
         "aie",
+        "career",
         "ai",
-        "infrastructure",
-        "data"
+        "community"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
       "source": "Dev.to",
-      "user": "Kara Silverman"
+      "user": "dev.to staff"
     },
     {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
@@ -286,19 +286,19 @@
       "user": "Freddy Lécué"
     },
     {
-      "title": "A World Worth Understanding",
-      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
-      "published_at": "2026-10-11T19:43:19Z",
-      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "published_at": "2026-10-11T19:45:03Z",
+      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
       "tags": [
         "aie",
-        "career",
         "ai",
-        "community"
+        "infrastructure",
+        "data"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
-      "user": "dev.to staff"
+      "user": "Kara Silverman"
     },
     {
       "title": "Local speech with llamadart: giving Llama Village a voice",
@@ -926,23 +926,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "NB-Corp"
     },
     {
-      "title": "AirsupHQ/machine-skill - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
-      "url": "https://github.com/AirsupHQ/machine-skill",
-      "published_at": "2026-10-12T23:10:01Z",
-      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
+      "url": "https://github.com/flybrainlabs/node",
+      "published_at": "2026-10-12T10:00:55Z",
+      "description": "flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/335045975?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 291,
-      "user": "AirsupHQ"
+      "stars": 298,
+      "user": "flybrainlabs"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -956,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1088,
       "user": "zhuyansen"
     },
     {
@@ -971,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 704,
       "user": "Leonxlnx"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 657,
       "user": "anujasid"
     },
     {
@@ -1001,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1149,
       "user": "feder-cr"
     },
     {
@@ -1016,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "caveman-ai"
     },
     {
@@ -1031,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1720,
+      "stars": 1843,
       "user": "deeplethe"
     },
     {
@@ -1046,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1676,
+      "stars": 1686,
       "user": "chenglou"
     },
     {
@@ -1061,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 943,
       "user": "outcrawlai"
     },
     {
@@ -1076,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "CoolkHz"
     },
     {
@@ -1091,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 511,
       "user": "solana-classic"
     },
     {
@@ -1106,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 264,
       "user": "Graphicle-AI"
     },
     {
@@ -1123,6 +1123,18 @@
       "user": "FiloSottile"
     },
     {
+      "title": "The Brain Sandwich",
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "published_at": "2026-10-17T22:03:36.932-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ani"
+    },
+    {
       "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
       "url": "https://maevyn.codes/decoherence",
       "published_at": "2026-10-16T11:36:29.493-05:00",
@@ -1133,19 +1145,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "maevyn"
-    },
-    {
-      "title": "Do you let LLMs write both your tests and your code?",
-      "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
-      "published_at": "2026-10-16T18:53:05.634-05:00",
-      "description": "I'm curious what stance others have taken? Or what they've experienced with this? I'm toying with adding a rule to our values.md that the LLM can only significantly generate one or the other.\r\n\r\nI'm reviewing a merge request at the moment where it's clear the LLM mostly did both, and they're highly tautological. And I can see how it over engineered the code, just to be able to write more tests almost.",
-      "tags": [
-        "ask",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "travisgriggs"
     },
     {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
@@ -1162,23 +1161,10 @@
       "user": "mandoguy"
     },
     {
-      "title": "How do I translate the algorithm from a peer-reviewed IEEE conference paper claiming P=NP into code?",
-      "url": "https://stackoverflow.com/questions/80010819/how-do-i-translate-the-algorithm-from-a-peer-reviewed-ieee-conference-paper-clai",
-      "published_at": "2026-10-17T22:17:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "c++"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "el pollitto cientifico"
-    },
-    {
       "title": "Retrieve parameters of a redirected website on aiohttp",
       "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
       "published_at": "2026-10-17T15:04:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "aiohttp"
@@ -1523,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2053,
+      "stars": 2085,
       "user": "HeyPuter"
     },
     {
@@ -1538,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 672,
       "user": "threerocks"
     },
     {
@@ -1553,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "NB-Corp"
     },
     {
@@ -1568,23 +1554,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 325,
       "user": "showheyohtaki"
     },
     {
-      "title": "AirsupHQ/machine-skill - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
-      "url": "https://github.com/AirsupHQ/machine-skill",
-      "published_at": "2026-10-12T23:10:01Z",
-      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
+      "url": "https://github.com/flybrainlabs/node",
+      "published_at": "2026-10-12T10:00:55Z",
+      "description": "flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/335045975?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 291,
-      "user": "AirsupHQ"
+      "stars": 298,
+      "user": "flybrainlabs"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -1598,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1720,
+      "stars": 1843,
       "user": "deeplethe"
     },
     {
@@ -1613,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1676,
+      "stars": 1686,
       "user": "chenglou"
     },
     {
@@ -1628,7 +1614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1149,
       "user": "Caho1"
     },
     {
@@ -1643,7 +1629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 943,
       "user": "outcrawlai"
     },
     {
@@ -1658,14 +1644,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "CoolkHz"
     },
     {
       "title": "Playwright JavaScript: MakeMyTrip flight search shows NETWORK PROBLEM despite HTTP 200 responses",
       "url": "https://stackoverflow.com/questions/80010757/playwright-javascript-makemytrip-flight-search-shows-network-problem-despite-ht",
       "published_at": "2026-10-17T15:01:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "chromium",
@@ -1997,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2636,
+      "stars": 2664,
       "user": "Arekejoker"
     },
     {
@@ -2012,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1088,
       "user": "zhuyansen"
     },
     {
@@ -2027,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 704,
       "user": "Leonxlnx"
     },
     {
@@ -2042,23 +2028,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 657,
       "user": "anujasid"
     },
     {
-      "title": "datalab-to/indra - Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "url": "https://github.com/datalab-to/indra",
-      "published_at": "2026-10-13T11:07:11Z",
-      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "published_at": "2026-10-15T13:06:56Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176631703?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 584,
-      "user": "datalab-to"
+      "stars": 617,
+      "user": "Tencent-Hunyuan"
     },
     {
       "title": "Plotly - Autorescaling y axis range when range slider used",
@@ -2076,23 +2062,39 @@
       "user": "plonfat"
     },
     {
-      "title": "How do I translate the algorithm from a peer-reviewed IEEE conference paper claiming P=NP into code?",
-      "url": "https://stackoverflow.com/questions/80010819/how-do-i-translate-the-algorithm-from-a-peer-reviewed-ieee-conference-paper-clai",
-      "published_at": "2026-10-17T22:17:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Three-body solver using RK45 produces incorrect \"shifted\" plot",
+      "url": "https://stackoverflow.com/questions/80010831/three-body-solver-using-rk45-produces-incorrect-shifted-plot",
+      "published_at": "2026-10-18T01:33:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
-        "c++"
+        "physics",
+        "numerical-methods",
+        "astronomy",
+        "runge-kutta"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "el pollitto cientifico"
+      "user": "Joe_Hudson"
+    },
+    {
+      "title": "throwing exceptions to specific parts of the code in python",
+      "url": "https://stackoverflow.com/questions/80010770/throwing-exceptions-to-specific-parts-of-the-code-in-python",
+      "published_at": "2026-10-17T15:38:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "exception"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RaylibNoob7"
     },
     {
       "title": "Import hook at the AST level",
       "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
       "published_at": "2026-10-17T14:57:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "python-3.x",
@@ -2102,19 +2104,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "throwing exceptions to specific parts of the code in python",
-      "url": "https://stackoverflow.com/questions/80010770/throwing-exceptions-to-specific-parts-of-the-code-in-python",
-      "published_at": "2026-10-17T15:38:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "exception"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RaylibNoob7"
     },
     {
       "title": "new to Python and i need help shipping app",
@@ -2135,7 +2124,7 @@
       "title": "Retrieve parameters of a redirected website on aiohttp",
       "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
       "published_at": "2026-10-17T15:04:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "aiohttp"
@@ -2202,7 +2191,7 @@
       "title": "Why cant the input() command let me output more commands?",
       "url": "https://stackoverflow.com/questions/80010607/why-cant-the-input-command-let-me-output-more-commands",
       "published_at": "2026-10-16T17:33:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "python",
         "user-input"
@@ -2457,21 +2446,6 @@
       "user": "velmu"
     },
     {
-      "title": "AirsupHQ/machine-skill - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
-      "url": "https://github.com/AirsupHQ/machine-skill",
-      "published_at": "2026-10-12T23:10:01Z",
-      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/335045975?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "AirsupHQ"
-    },
-    {
       "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
       "url": "https://github.com/CoolkHz/gptibo",
       "published_at": "2026-10-13T15:57:19Z",
@@ -2483,7 +2457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "CoolkHz"
     },
     {
@@ -2608,21 +2582,6 @@
   ],
   "Cloud": [
     {
-      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
-      "published_at": "2026-10-16T15:14:10Z",
-      "description": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
-      "tags": [
-        "nvidia",
-        "googlecloud",
-        "llm",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
       "published_at": "2026-10-15T16:38:38Z",
@@ -2666,6 +2625,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
+      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
+      "published_at": "2026-10-16T15:14:10Z",
+      "description": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
+      "tags": [
+        "nvidia",
+        "googlecloud",
+        "llm",
+        "performance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
@@ -3056,6 +3030,34 @@
       "user": "ewenjo"
     },
     {
+      "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
+      "url": "https://pwn.ai/blog/pwnescape",
+      "published_at": "2026-10-17T13:24:39.593-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security",
+        "vibecoding",
+        "virtualization"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "munksgaard"
+    },
+    {
+      "title": "It's time to talk about TEEs",
+      "url": "https://alinush.github.io//tee",
+      "published_at": "2026-10-17T22:00:39.692-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "hardware",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "zk"
+    },
+    {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
@@ -3254,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2053,
+      "stars": 2085,
       "user": "HeyPuter"
     },
     {
@@ -3269,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 672,
       "user": "threerocks"
     },
     {
@@ -3284,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "NB-Corp"
     },
     {
@@ -3299,23 +3301,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 325,
       "user": "showheyohtaki"
     },
     {
-      "title": "AirsupHQ/machine-skill - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
-      "url": "https://github.com/AirsupHQ/machine-skill",
-      "published_at": "2026-10-12T23:10:01Z",
-      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
+      "url": "https://github.com/flybrainlabs/node",
+      "published_at": "2026-10-12T10:00:55Z",
+      "description": "flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/335045975?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 291,
-      "user": "AirsupHQ"
+      "stars": 298,
+      "user": "flybrainlabs"
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
@@ -3329,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2636,
+      "stars": 2664,
       "user": "Arekejoker"
     },
     {
@@ -3344,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1082,
+      "stars": 1088,
       "user": "zhuyansen"
     },
     {
@@ -3359,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 704,
       "user": "Leonxlnx"
     },
     {
@@ -3374,23 +3376,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 657,
       "user": "anujasid"
     },
     {
-      "title": "datalab-to/indra - Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "url": "https://github.com/datalab-to/indra",
-      "published_at": "2026-10-13T11:07:11Z",
-      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "published_at": "2026-10-15T13:06:56Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176631703?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 584,
-      "user": "datalab-to"
+      "stars": 617,
+      "user": "Tencent-Hunyuan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3404,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1149,
       "user": "feder-cr"
     },
     {
@@ -3419,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 839,
       "user": "rohit267"
     },
     {
@@ -3449,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "caveman-ai"
     },
     {
@@ -3464,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "Haryy985"
     },
     {
@@ -3479,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1720,
+      "stars": 1843,
       "user": "deeplethe"
     },
     {
@@ -3494,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1676,
+      "stars": 1686,
       "user": "chenglou"
     },
     {
@@ -3509,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1136,
+      "stars": 1149,
       "user": "Caho1"
     },
     {
@@ -3524,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 943,
       "user": "outcrawlai"
     },
     {
@@ -3539,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 822,
       "user": "CoolkHz"
     },
     {
@@ -3554,8 +3556,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 511,
       "user": "solana-classic"
+    },
+    {
+      "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "url": "https://github.com/reason-machines/reason-network",
+      "published_at": "2026-10-16T15:34:34Z",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
+      "source": "GitHub",
+      "stars": 277,
+      "user": "reason-machines"
     },
     {
       "title": "SebasKitten/Grand-V - GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
@@ -3569,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24513137?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 271,
       "user": "SebasKitten"
     },
     {
@@ -3584,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 264,
       "user": "Graphicle-AI"
     },
     {
@@ -3599,23 +3616,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 251,
       "user": "VallierDev"
-    },
-    {
-      "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "url": "https://github.com/reason-machines/reason-network",
-      "published_at": "2026-10-16T15:34:34Z",
-      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
-      "source": "GitHub",
-      "stars": 221,
-      "user": "reason-machines"
     },
     {
       "title": "Waymo&#8217;s robotaxis are headed to Canada",
