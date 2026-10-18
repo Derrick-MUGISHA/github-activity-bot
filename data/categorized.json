@@ -31,21 +31,6 @@
       "user": "xbill"
     },
     {
-      "title": "Are You Smarter Than a Fruit Fly?",
-      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
-      "published_at": "2026-10-14T12:04:21Z",
-      "description": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
-      "tags": [
-        "ai",
-        "codereview",
-        "agents",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
-      "source": "Dev.to",
-      "user": "Nick Nisi"
-    },
-    {
       "title": "Design for Churn",
       "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
       "published_at": "2026-10-14T12:03:29Z",
@@ -59,20 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg",
       "source": "Dev.to",
       "user": "Ben Halpern"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c",
-      "published_at": "2026-10-16T17:38:26Z",
-      "description": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb7e44kjkpbkx2l19bgvj.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
@@ -285,19 +256,19 @@
       "user": "Anirudh Veeraragavan"
     },
     {
-      "title": "A World Worth Understanding",
-      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
-      "published_at": "2026-10-11T19:43:19Z",
-      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "published_at": "2026-10-11T19:45:03Z",
+      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
       "tags": [
         "aie",
-        "career",
         "ai",
-        "community"
+        "infrastructure",
+        "data"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
-      "user": "dev.to staff"
+      "user": "Kara Silverman"
     },
     {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
@@ -315,19 +286,19 @@
       "user": "Freddy Lécué"
     },
     {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
-      "published_at": "2026-10-11T19:45:03Z",
-      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "title": "A World Worth Understanding",
+      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
+      "published_at": "2026-10-11T19:43:19Z",
+      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
       "tags": [
         "aie",
+        "career",
         "ai",
-        "infrastructure",
-        "data"
+        "community"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
       "source": "Dev.to",
-      "user": "Kara Silverman"
+      "user": "dev.to staff"
     },
     {
       "title": "Local speech with llamadart: giving Llama Village a voice",
@@ -357,6 +328,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c",
+      "published_at": "2026-10-16T17:38:26Z",
+      "description": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb7e44kjkpbkx2l19bgvj.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
@@ -941,8 +926,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "NB-Corp"
+    },
+    {
+      "title": "AirsupHQ/machine-skill - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "url": "https://github.com/AirsupHQ/machine-skill",
+      "published_at": "2026-10-12T23:10:01Z",
+      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/335045975?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "AirsupHQ"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -956,23 +956,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1082,
       "user": "zhuyansen"
-    },
-    {
-      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
-      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "published_at": "2026-10-11T15:38:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "jwuthri-cloud"
     },
     {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
@@ -986,8 +971,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 683,
       "user": "Leonxlnx"
+    },
+    {
+      "title": "anujasid/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "anujasid"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -1001,7 +1001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1136,
       "user": "feder-cr"
     },
     {
@@ -1031,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1687,
+      "stars": 1720,
       "user": "deeplethe"
     },
     {
@@ -1046,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1676,
       "user": "chenglou"
     },
     {
@@ -1061,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 939,
       "user": "outcrawlai"
     },
     {
@@ -1091,23 +1091,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 498,
       "user": "solana-classic"
-    },
-    {
-      "title": "deepfounder-ai/desigma - Free Figma alternative made on Rust",
-      "url": "https://github.com/deepfounder-ai/desigma",
-      "published_at": "2026-10-11T00:26:12Z",
-      "description": "Free Figma alternative made on Rust",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "deepfounder-ai"
     },
     {
       "title": "Graphicle-AI/graphicle - Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
@@ -1121,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 261,
       "user": "Graphicle-AI"
     },
     {
@@ -1166,7 +1151,7 @@
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
       "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
       "published_at": "2026-10-15T20:58:47.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "async-await",
@@ -1180,7 +1165,7 @@
       "title": "How do I translate the algorithm from a peer-reviewed IEEE conference paper claiming P=NP into code?",
       "url": "https://stackoverflow.com/questions/80010819/how-do-i-translate-the-algorithm-from-a-peer-reviewed-ieee-conference-paper-clai",
       "published_at": "2026-10-17T22:17:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "c++"
@@ -1538,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2053,
       "user": "HeyPuter"
     },
     {
@@ -1557,21 +1542,6 @@
       "user": "threerocks"
     },
     {
-      "title": "rayytor/desktop_gifs - Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
-      "url": "https://github.com/rayytor/desktop_gifs",
-      "published_at": "2026-10-11T05:43:14Z",
-      "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
-      "source": "GitHub",
-      "stars": 486,
-      "user": "rayytor"
-    },
-    {
       "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
       "url": "https://github.com/NB-Corp/gpt-with-taste",
       "published_at": "2026-10-12T16:40:29Z",
@@ -1583,23 +1553,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "NB-Corp"
     },
     {
-      "title": "leag1234/elixiroffice - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
-      "url": "https://github.com/leag1234/elixiroffice",
-      "published_at": "2026-10-11T18:56:51Z",
-      "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
+      "title": "showheyohtaki/motion-prompt - GitHub Repository",
+      "url": "https://github.com/showheyohtaki/motion-prompt",
+      "published_at": "2026-10-14T11:34:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57147261?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 321,
-      "user": "leag1234"
+      "stars": 300,
+      "user": "showheyohtaki"
+    },
+    {
+      "title": "AirsupHQ/machine-skill - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "url": "https://github.com/AirsupHQ/machine-skill",
+      "published_at": "2026-10-12T23:10:01Z",
+      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/335045975?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "AirsupHQ"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -1613,7 +1598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1687,
+      "stars": 1720,
       "user": "deeplethe"
     },
     {
@@ -1628,7 +1613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1676,
       "user": "chenglou"
     },
     {
@@ -1643,7 +1628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1136,
       "user": "Caho1"
     },
     {
@@ -1658,7 +1643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 939,
       "user": "outcrawlai"
     },
     {
@@ -1735,7 +1720,7 @@
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
       "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
       "published_at": "2026-10-15T20:58:47.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "async-await",
@@ -2012,23 +1997,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2630,
+      "stars": 2636,
       "user": "Arekejoker"
-    },
-    {
-      "title": "chenwei810/Semiconductor_Manufacturing_Introduction - Introduction to Semiconductor Manufacturing",
-      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
-      "published_at": "2026-10-11T02:01:01Z",
-      "description": "Introduction to Semiconductor Manufacturing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
-      "source": "GitHub",
-      "stars": 1092,
-      "user": "chenwei810"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -2042,23 +2012,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1082,
       "user": "zhuyansen"
-    },
-    {
-      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
-      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "published_at": "2026-10-11T15:38:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "jwuthri-cloud"
     },
     {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
@@ -2072,8 +2027,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 683,
       "user": "Leonxlnx"
+    },
+    {
+      "title": "anujasid/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "anujasid"
+    },
+    {
+      "title": "datalab-to/indra - Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "url": "https://github.com/datalab-to/indra",
+      "published_at": "2026-10-13T11:07:11Z",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176631703?v=4",
+      "source": "GitHub",
+      "stars": 584,
+      "user": "datalab-to"
     },
     {
       "title": "Plotly - Autorescaling y axis range when range slider used",
@@ -2094,7 +2079,7 @@
       "title": "How do I translate the algorithm from a peer-reviewed IEEE conference paper claiming P=NP into code?",
       "url": "https://stackoverflow.com/questions/80010819/how-do-i-translate-the-algorithm-from-a-peer-reviewed-ieee-conference-paper-clai",
       "published_at": "2026-10-17T22:17:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "c++"
@@ -2122,7 +2107,7 @@
       "title": "throwing exceptions to specific parts of the code in python",
       "url": "https://stackoverflow.com/questions/80010770/throwing-exceptions-to-specific-parts-of-the-code-in-python",
       "published_at": "2026-10-17T15:38:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "exception"
@@ -2472,6 +2457,21 @@
       "user": "velmu"
     },
     {
+      "title": "AirsupHQ/machine-skill - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "url": "https://github.com/AirsupHQ/machine-skill",
+      "published_at": "2026-10-12T23:10:01Z",
+      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/335045975?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "AirsupHQ"
+    },
+    {
       "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
       "url": "https://github.com/CoolkHz/gptibo",
       "published_at": "2026-10-13T15:57:19Z",
@@ -2726,21 +2726,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
-      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "published_at": "2026-10-11T15:38:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "jwuthri-cloud"
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
@@ -3269,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2053,
       "user": "HeyPuter"
     },
     {
@@ -3288,21 +3273,6 @@
       "user": "threerocks"
     },
     {
-      "title": "rayytor/desktop_gifs - Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
-      "url": "https://github.com/rayytor/desktop_gifs",
-      "published_at": "2026-10-11T05:43:14Z",
-      "description": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/234740178?v=4",
-      "source": "GitHub",
-      "stars": 486,
-      "user": "rayytor"
-    },
-    {
       "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
       "url": "https://github.com/NB-Corp/gpt-with-taste",
       "published_at": "2026-10-12T16:40:29Z",
@@ -3314,23 +3284,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "NB-Corp"
     },
     {
-      "title": "leag1234/elixiroffice - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
-      "url": "https://github.com/leag1234/elixiroffice",
-      "published_at": "2026-10-11T18:56:51Z",
-      "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
+      "title": "showheyohtaki/motion-prompt - GitHub Repository",
+      "url": "https://github.com/showheyohtaki/motion-prompt",
+      "published_at": "2026-10-14T11:34:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57147261?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 321,
-      "user": "leag1234"
+      "stars": 300,
+      "user": "showheyohtaki"
+    },
+    {
+      "title": "AirsupHQ/machine-skill - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "url": "https://github.com/AirsupHQ/machine-skill",
+      "published_at": "2026-10-12T23:10:01Z",
+      "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/335045975?v=4",
+      "source": "GitHub",
+      "stars": 291,
+      "user": "AirsupHQ"
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
@@ -3344,23 +3329,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2630,
+      "stars": 2636,
       "user": "Arekejoker"
-    },
-    {
-      "title": "chenwei810/Semiconductor_Manufacturing_Introduction - Introduction to Semiconductor Manufacturing",
-      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
-      "published_at": "2026-10-11T02:01:01Z",
-      "description": "Introduction to Semiconductor Manufacturing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/72488779?v=4",
-      "source": "GitHub",
-      "stars": 1092,
-      "user": "chenwei810"
     },
     {
       "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
@@ -3374,23 +3344,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1082,
       "user": "zhuyansen"
-    },
-    {
-      "title": "jwuthri-cloud/Tracely-ai - GitHub Repository",
-      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "published_at": "2026-10-11T15:38:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/341043007?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "jwuthri-cloud"
     },
     {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
@@ -3404,8 +3359,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 683,
       "user": "Leonxlnx"
+    },
+    {
+      "title": "anujasid/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "anujasid"
+    },
+    {
+      "title": "datalab-to/indra - Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "url": "https://github.com/datalab-to/indra",
+      "published_at": "2026-10-13T11:07:11Z",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/176631703?v=4",
+      "source": "GitHub",
+      "stars": 584,
+      "user": "datalab-to"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3419,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1136,
       "user": "feder-cr"
     },
     {
@@ -3434,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 795,
       "user": "rohit267"
     },
     {
@@ -3468,19 +3453,19 @@
       "user": "caveman-ai"
     },
     {
-      "title": "useopendesk/opendesk - The open-source support inbox + live chat for your website",
-      "url": "https://github.com/useopendesk/opendesk",
-      "published_at": "2026-10-11T14:42:10Z",
-      "description": "The open-source support inbox + live chat for your website",
+      "title": "Haryy985/yunkun-console-preview - 云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
+      "url": "https://github.com/Haryy985/yunkun-console-preview",
+      "published_at": "2026-10-15T02:45:34Z",
+      "description": "云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/340826089?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
-      "stars": 117,
-      "user": "useopendesk"
+      "stars": 116,
+      "user": "Haryy985"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -3494,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1687,
+      "stars": 1720,
       "user": "deeplethe"
     },
     {
@@ -3509,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1674,
+      "stars": 1676,
       "user": "chenglou"
     },
     {
@@ -3524,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1136,
       "user": "Caho1"
     },
     {
@@ -3539,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 939,
       "user": "outcrawlai"
     },
     {
@@ -3558,21 +3543,6 @@
       "user": "CoolkHz"
     },
     {
-      "title": "liseami/CCBaga - GitHub Repository",
-      "url": "https://github.com/liseami/CCBaga",
-      "published_at": "2026-10-11T03:47:06Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51239614?v=4",
-      "source": "GitHub",
-      "stars": 2567,
-      "user": "liseami"
-    },
-    {
       "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
       "url": "https://github.com/solana-classic/solana-classic",
       "published_at": "2026-10-13T19:35:48Z",
@@ -3584,23 +3554,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 498,
       "user": "solana-classic"
-    },
-    {
-      "title": "deepfounder-ai/desigma - Free Figma alternative made on Rust",
-      "url": "https://github.com/deepfounder-ai/desigma",
-      "published_at": "2026-10-11T00:26:12Z",
-      "description": "Free Figma alternative made on Rust",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192115512?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "deepfounder-ai"
     },
     {
       "title": "SebasKitten/Grand-V - GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
@@ -3614,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24513137?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 261,
       "user": "SebasKitten"
     },
     {
@@ -3629,8 +3584,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 261,
       "user": "Graphicle-AI"
+    },
+    {
+      "title": "VallierDev/uu-remote-linux - 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "url": "https://github.com/VallierDev/uu-remote-linux",
+      "published_at": "2026-10-14T15:53:43Z",
+      "description": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "VallierDev"
+    },
+    {
+      "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "url": "https://github.com/reason-machines/reason-network",
+      "published_at": "2026-10-16T15:34:34Z",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
+      "source": "GitHub",
+      "stars": 221,
+      "user": "reason-machines"
     },
     {
       "title": "Waymo&#8217;s robotaxis are headed to Canada",

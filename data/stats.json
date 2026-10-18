@@ -1,7 +1,7 @@
 {
-  "total": 184,
+  "total": 183,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,19 +10,19 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 96,
+    "AI": 95,
     "JavaScript": 34,
     "Python": 31,
     "DevOps": 13,
-    "WebDev": 7,
+    "WebDev": 8,
     "Mobile": 4,
-    "Cloud": 12,
+    "Cloud": 11,
     "Database": 6,
     "Security": 19,
     "Tools": 38
   },
   "by_language": {
-    "Go": 40,
+    "Go": 39,
     "Python": 31,
     "Swift": 1,
     "JavaScript": 34,
@@ -31,13 +31,13 @@
     "Rust": 6
   },
   "by_date": {
-    "2026-10-16": 29,
-    "2026-10-14": 25,
-    "2026-10-15": 15,
-    "2026-10-13": 10,
-    "2026-10-11": 14,
+    "2026-10-16": 30,
+    "2026-10-14": 26,
+    "2026-10-15": 17,
+    "2026-10-13": 11,
+    "2026-10-11": 7,
     "2026-10-05": 1,
-    "2026-10-12": 17,
+    "2026-10-12": 18,
     "2026-10-06": 1,
     "2026-10-02": 1,
     "2026-03-11": 1,
@@ -97,14 +97,14 @@
     "2014-11-23": 1
   },
   "top_tags": {
-    "ai": 40,
-    "aie": 27,
+    "ai": 39,
+    "aie": 26,
     "github": 25,
     "open-source": 25,
     "python": 18,
     "javascript": 17,
-    "agents": 16,
     "AI": 16,
+    "agents": 15,
     "Python": 13,
     "Security": 12,
     "JavaScript": 11,
@@ -120,11 +120,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "28.0",
-    "Python": "21.7",
+    "Go": "27.5",
+    "Python": "21.8",
     "Swift": "0.7",
-    "JavaScript": "23.8",
-    "Java": "20.3",
+    "JavaScript": "23.9",
+    "Java": "20.4",
     "Ruby": "1.4",
     "Rust": "4.2"
   }
