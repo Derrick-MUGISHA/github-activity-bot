@@ -151,6 +151,21 @@
       "user": "JimmyLiao"
     },
     {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform",
       "url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib",
       "published_at": "2026-10-15T09:12:49Z",
@@ -164,21 +179,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fojblbziqltrj6xqnt6pp.png",
       "source": "Dev.to",
       "user": "Jonathan Zhuo"
-    },
-    {
-      "title": "Building Better Agents through End-to-End Evals",
-      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
-      "published_at": "2026-10-14T12:05:13Z",
-      "description": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
-      "tags": [
-        "ai",
-        "agents",
-        "evals",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png",
-      "source": "Dev.to",
-      "user": "Ryan Stevens"
     },
     {
       "title": "AlphaEvolve and Gemini: Autonomous Algorithm Discovery for Unified Disaster Prediction",
@@ -209,21 +209,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0ymi9mxkutkl1kco6bt.png",
       "source": "Dev.to",
       "user": "Allen Firstenberg"
-    },
-    {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -402,6 +387,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "Building Better Agents through End-to-End Evals",
+      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
+      "published_at": "2026-10-14T12:05:13Z",
+      "description": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
+      "tags": [
+        "ai",
+        "agents",
+        "evals",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png",
+      "source": "Dev.to",
+      "user": "Ryan Stevens"
     },
     {
       "title": "What 9,050 AI-Written Scripts Taught Me About Slop",
@@ -627,6 +627,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Are You Smarter Than a Fruit Fly?",
+      "url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
+      "published_at": "2026-10-14T12:04:21Z",
+      "description": "Google mapped the complete male fruit fly brain, and my first question to an agent was “Can this run...",
+      "tags": [
+        "ai",
+        "codereview",
+        "agents",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flx5xtyhtvpxvcu58hx9t.png",
+      "source": "Dev.to",
+      "user": "Nick Nisi"
+    },
+    {
       "title": "Local embeddings with llamadart: how llamas share secrets",
       "url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
       "published_at": "2026-10-12T18:18:49Z",
@@ -687,21 +702,6 @@
       "user": "Tom Fairey"
     },
     {
-      "title": "Loop Engineering in the Harness: Autonomous, Self-Correcting Systems",
-      "url": "https://dev.to/gde/loop-engineering-in-the-harness-autonomous-self-correcting-systems-part-2-155e",
-      "published_at": "2026-10-12T21:36:09Z",
-      "description": "You are in Part 2 of the series \"Beyond Vibe Coding: The Engineering Blueprint for Reliable AI...",
-      "tags": [
-        "harnessengineering",
-        "loopengineering",
-        "agenticai",
-        "googleantigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2AuSGq5Qw4wAeaN65vFMoY0g.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
       "title": "Agents Can’t Decide What’s Okay to Break",
       "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
       "published_at": "2026-10-12T20:58:59Z",
@@ -745,6 +745,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "A/B testing AI products is weird",
+      "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
+      "published_at": "2026-10-11T19:43:52Z",
+      "description": "Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...",
+      "tags": [
+        "aie",
+        "ai",
+        "testing",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
+      "source": "Dev.to",
+      "user": "supriya subudhi"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -926,7 +941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "NB-Corp"
     },
     {
@@ -941,7 +956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 321,
       "user": "flybrainlabs"
     },
     {
@@ -956,7 +971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1094,
       "user": "zhuyansen"
     },
     {
@@ -971,12 +986,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 717,
       "user": "Leonxlnx"
     },
     {
-      "title": "anujasid/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
       "published_at": "2026-10-15T22:30:47Z",
       "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
       "tags": [
@@ -986,8 +1001,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
       "source": "GitHub",
-      "stars": 657,
-      "user": "anujasid"
+      "stars": 703,
+      "user": "LiCinCan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -1001,7 +1016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1159,
       "user": "feder-cr"
     },
     {
@@ -1016,7 +1031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "caveman-ai"
     },
     {
@@ -1031,7 +1046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1843,
+      "stars": 1946,
       "user": "deeplethe"
     },
     {
@@ -1046,7 +1061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1695,
       "user": "chenglou"
     },
     {
@@ -1061,7 +1076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 945,
       "user": "outcrawlai"
     },
     {
@@ -1076,7 +1091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 824,
       "user": "CoolkHz"
     },
     {
@@ -1091,7 +1106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 521,
       "user": "solana-classic"
     },
     {
@@ -1106,8 +1121,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 268,
       "user": "Graphicle-AI"
+    },
+    {
+      "title": "The Brain Sandwich",
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "published_at": "2026-10-17T22:03:36.932-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ani"
     },
     {
       "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
@@ -1123,16 +1150,16 @@
       "user": "FiloSottile"
     },
     {
-      "title": "The Brain Sandwich",
-      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "published_at": "2026-10-17T22:03:36.932-05:00",
+      "title": "Abolish AI! Manifesto",
+      "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+      "published_at": "2026-10-17T13:25:58.714-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "ani"
+      "user": "janus"
     },
     {
       "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
@@ -1164,7 +1191,7 @@
       "title": "Retrieve parameters of a redirected website on aiohttp",
       "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
       "published_at": "2026-10-17T15:04:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "aiohttp"
@@ -1509,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2085,
+      "stars": 2111,
       "user": "HeyPuter"
     },
     {
@@ -1524,7 +1551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 674,
       "user": "threerocks"
     },
     {
@@ -1539,7 +1566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "NB-Corp"
     },
     {
@@ -1554,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 344,
       "user": "showheyohtaki"
     },
     {
@@ -1569,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 321,
       "user": "flybrainlabs"
     },
     {
@@ -1584,7 +1611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1843,
+      "stars": 1946,
       "user": "deeplethe"
     },
     {
@@ -1599,7 +1626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1695,
       "user": "chenglou"
     },
     {
@@ -1614,7 +1641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1168,
       "user": "Caho1"
     },
     {
@@ -1629,7 +1656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 945,
       "user": "outcrawlai"
     },
     {
@@ -1644,14 +1671,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 824,
       "user": "CoolkHz"
+    },
+    {
+      "title": "Can setting/retrieving properties on any HTML element be a security risk?",
+      "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
+      "published_at": "2026-10-16T17:33:40.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "KooiInc"
     },
     {
       "title": "Playwright JavaScript: MakeMyTrip flight search shows NETWORK PROBLEM despite HTTP 200 responses",
       "url": "https://stackoverflow.com/questions/80010757/playwright-javascript-makemytrip-flight-search-shows-network-problem-despite-ht",
       "published_at": "2026-10-17T15:01:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "chromium",
@@ -1661,19 +1701,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vasanthakumar R"
-    },
-    {
-      "title": "Can setting/retrieving properties on any HTML element be a security risk?",
-      "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
-      "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KooiInc"
     },
     {
       "title": "Synchronous text file reading in browser",
@@ -1983,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2664,
+      "stars": 2686,
       "user": "Arekejoker"
     },
     {
@@ -1998,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1094,
       "user": "zhuyansen"
     },
     {
@@ -2013,12 +2040,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 717,
       "user": "Leonxlnx"
     },
     {
-      "title": "anujasid/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
       "published_at": "2026-10-15T22:30:47Z",
       "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
       "tags": [
@@ -2028,8 +2055,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
       "source": "GitHub",
-      "stars": 657,
-      "user": "anujasid"
+      "stars": 703,
+      "user": "LiCinCan"
     },
     {
       "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
@@ -2043,7 +2070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 650,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2065,7 +2092,7 @@
       "title": "Three-body solver using RK45 produces incorrect \"shifted\" plot",
       "url": "https://stackoverflow.com/questions/80010831/three-body-solver-using-rk45-produces-incorrect-shifted-plot",
       "published_at": "2026-10-18T01:33:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "physics",
@@ -2091,21 +2118,6 @@
       "user": "RaylibNoob7"
     },
     {
-      "title": "Import hook at the AST level",
-      "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
-      "published_at": "2026-10-17T14:57:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "python-3.x",
-        "python-importlib",
-        "import-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "new to Python and i need help shipping app",
       "url": "https://stackoverflow.com/questions/80010736/new-to-python-and-i-need-help-shipping-app",
       "published_at": "2026-10-17T12:49:32.000Z",
@@ -2121,10 +2133,25 @@
       "user": "Garner Jarrett"
     },
     {
+      "title": "Import hook at the AST level",
+      "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
+      "published_at": "2026-10-17T14:57:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "python-3.x",
+        "python-importlib",
+        "import-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "Retrieve parameters of a redirected website on aiohttp",
       "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
       "published_at": "2026-10-17T15:04:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "aiohttp"
@@ -2163,7 +2190,7 @@
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
       "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
       "published_at": "2026-10-16T18:49:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "qt",
@@ -2457,14 +2484,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 824,
       "user": "CoolkHz"
     },
     {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "description": "Stack Overflow question · 4 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -2477,7 +2504,7 @@
       "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
       "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
       "published_at": "2026-10-16T18:49:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "qt",
@@ -2597,21 +2624,6 @@
       "user": "Mazlum Tosun"
     },
     {
-      "title": "Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform",
-      "url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib",
-      "published_at": "2026-10-15T09:12:49Z",
-      "description": "What actually shipped across Build, Scale, Govern, and Optimize — and what I'd tell a team starting...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fojblbziqltrj6xqnt6pp.png",
-      "source": "Dev.to",
-      "user": "Jonathan Zhuo"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -2625,6 +2637,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform",
+      "url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib",
+      "published_at": "2026-10-15T09:12:49Z",
+      "description": "What actually shipped across Build, Scale, Govern, and Optimize — and what I'd tell a team starting...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fojblbziqltrj6xqnt6pp.png",
+      "source": "Dev.to",
+      "user": "Jonathan Zhuo"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -3030,6 +3057,19 @@
       "user": "ewenjo"
     },
     {
+      "title": "It's time to talk about TEEs",
+      "url": "https://alinush.github.io//tee",
+      "published_at": "2026-10-17T22:00:39.692-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "hardware",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "zk"
+    },
+    {
       "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
       "url": "https://pwn.ai/blog/pwnescape",
       "published_at": "2026-10-17T13:24:39.593-05:00",
@@ -3045,23 +3085,10 @@
       "user": "munksgaard"
     },
     {
-      "title": "It's time to talk about TEEs",
-      "url": "https://alinush.github.io//tee",
-      "published_at": "2026-10-17T22:00:39.692-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "hardware",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "zk"
-    },
-    {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "description": "Stack Overflow question · 4 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -3209,6 +3236,21 @@
       "user": "Sid Pednekar"
     },
     {
+      "title": "A/B testing AI products is weird",
+      "url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
+      "published_at": "2026-10-11T19:43:52Z",
+      "description": "Why a Winning A/B Test Isn't Enough to Ship an AI Feature   I used to have a simple rule for...",
+      "tags": [
+        "aie",
+        "ai",
+        "testing",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj6okoudyrt0qxn1jzho.png",
+      "source": "Dev.to",
+      "user": "supriya subudhi"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3256,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2085,
+      "stars": 2111,
       "user": "HeyPuter"
     },
     {
@@ -3271,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 674,
       "user": "threerocks"
     },
     {
@@ -3286,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 358,
       "user": "NB-Corp"
     },
     {
@@ -3301,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 344,
       "user": "showheyohtaki"
     },
     {
@@ -3316,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 321,
       "user": "flybrainlabs"
     },
     {
@@ -3331,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2664,
+      "stars": 2686,
       "user": "Arekejoker"
     },
     {
@@ -3346,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1094,
       "user": "zhuyansen"
     },
     {
@@ -3361,12 +3403,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 717,
       "user": "Leonxlnx"
     },
     {
-      "title": "anujasid/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
       "published_at": "2026-10-15T22:30:47Z",
       "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
       "tags": [
@@ -3376,8 +3418,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
       "source": "GitHub",
-      "stars": 657,
-      "user": "anujasid"
+      "stars": 703,
+      "user": "LiCinCan"
     },
     {
       "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
@@ -3391,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 650,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -3406,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1159,
       "user": "feder-cr"
     },
     {
@@ -3421,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 924,
       "user": "rohit267"
     },
     {
@@ -3436,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 150,
       "user": "Binaryify"
     },
     {
@@ -3451,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "caveman-ai"
     },
     {
@@ -3466,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 128,
       "user": "Haryy985"
     },
     {
@@ -3481,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 1843,
+      "stars": 1946,
       "user": "deeplethe"
     },
     {
@@ -3496,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1695,
       "user": "chenglou"
     },
     {
@@ -3511,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1168,
       "user": "Caho1"
     },
     {
@@ -3526,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 945,
       "user": "outcrawlai"
     },
     {
@@ -3541,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 824,
       "user": "CoolkHz"
     },
     {
@@ -3556,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 521,
       "user": "solana-classic"
     },
     {
@@ -3571,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 308,
       "user": "reason-machines"
     },
     {
@@ -3586,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24513137?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 281,
       "user": "SebasKitten"
     },
     {
@@ -3601,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 268,
       "user": "Graphicle-AI"
     },
     {
@@ -3616,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 256,
       "user": "VallierDev"
     },
     {
