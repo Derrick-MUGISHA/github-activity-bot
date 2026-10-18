@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 403,
       "user": "flybrainlabs"
     },
     {
@@ -916,21 +916,6 @@
       "user": "zhuyansen"
     },
     {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 784,
-      "user": "LiCinCan"
-    },
-    {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "published_at": "2026-10-15T06:52:46Z",
@@ -942,8 +927,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 793,
       "user": "Leonxlnx"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 785,
+      "user": "LiCinCan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -957,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1830,
+      "stars": 2293,
       "user": "feder-cr"
     },
     {
@@ -1002,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1729,
       "user": "chenglou"
     },
     {
@@ -1047,7 +1047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 557,
       "user": "solana-classic"
     },
     {
@@ -1062,7 +1062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 293,
       "user": "Graphicle-AI"
     },
     {
@@ -1092,7 +1092,7 @@
     },
     {
       "title": "Men in tech #YesAllMen",
-      "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+      "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
       "published_at": "2026-10-18T13:35:01.063-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
@@ -1127,6 +1127,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "noseii"
+    },
+    {
+      "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
+      "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
+      "published_at": "2026-10-16T17:28:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhargav"
     },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -1453,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2201,
+      "stars": 2210,
       "user": "HeyPuter"
     },
     {
@@ -1483,23 +1496,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 408,
       "user": "showheyohtaki"
-    },
-    {
-      "title": "juliobsz/skills - An agent skill that builds award-caliber websites from one line",
-      "url": "https://github.com/juliobsz/skills",
-      "published_at": "2026-10-12T00:07:32Z",
-      "description": "An agent skill that builds award-caliber websites from one line",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68253526?v=4",
-      "source": "GitHub",
-      "stars": 397,
-      "user": "juliobsz"
     },
     {
       "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
@@ -1513,8 +1511,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 403,
       "user": "flybrainlabs"
+    },
+    {
+      "title": "juliobsz/skills - An agent skill that builds award-caliber websites from one line",
+      "url": "https://github.com/juliobsz/skills",
+      "published_at": "2026-10-12T00:07:32Z",
+      "description": "An agent skill that builds award-caliber websites from one line",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68253526?v=4",
+      "source": "GitHub",
+      "stars": 398,
+      "user": "juliobsz"
     },
     {
       "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
@@ -1543,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1729,
       "user": "chenglou"
     },
     {
@@ -1926,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2729,
+      "stars": 2734,
       "user": "Arekejoker"
     },
     {
@@ -1945,21 +1958,6 @@
       "user": "zhuyansen"
     },
     {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 784,
-      "user": "LiCinCan"
-    },
-    {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "published_at": "2026-10-15T06:52:46Z",
@@ -1971,8 +1969,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 793,
       "user": "Leonxlnx"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 785,
+      "user": "LiCinCan"
     },
     {
       "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
@@ -1986,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 774,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -2008,7 +2021,7 @@
       "title": "How do I compute operating thresholds for FAR=0% when evaluating biometric match scores in Python/MATLAB?",
       "url": "https://stackoverflow.com/questions/80010900/how-do-i-compute-operating-thresholds-for-far-0-when-evaluating-biometric-match",
       "published_at": "2026-10-18T14:37:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "numpy",
@@ -2019,18 +2032,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Idrab"
-    },
-    {
-      "title": "Python - General usage",
-      "url": "https://stackoverflow.com/questions/80010880/python-general-usage",
-      "published_at": "2026-10-18T12:47:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "guillaume_d"
     },
     {
       "title": "Three-body solver using RK45 produces incorrect \"shifted\" plot",
@@ -2140,6 +2141,19 @@
         "python",
         "pydantic",
         "pydantic-v2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhargav"
+    },
+    {
+      "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
+      "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
+      "published_at": "2026-10-16T17:28:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "python-asyncio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -3186,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2201,
+      "stars": 2210,
       "user": "HeyPuter"
     },
     {
@@ -3216,23 +3230,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 408,
       "user": "showheyohtaki"
-    },
-    {
-      "title": "juliobsz/skills - An agent skill that builds award-caliber websites from one line",
-      "url": "https://github.com/juliobsz/skills",
-      "published_at": "2026-10-12T00:07:32Z",
-      "description": "An agent skill that builds award-caliber websites from one line",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68253526?v=4",
-      "source": "GitHub",
-      "stars": 397,
-      "user": "juliobsz"
     },
     {
       "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
@@ -3246,8 +3245,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 403,
       "user": "flybrainlabs"
+    },
+    {
+      "title": "juliobsz/skills - An agent skill that builds award-caliber websites from one line",
+      "url": "https://github.com/juliobsz/skills",
+      "published_at": "2026-10-12T00:07:32Z",
+      "description": "An agent skill that builds award-caliber websites from one line",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68253526?v=4",
+      "source": "GitHub",
+      "stars": 398,
+      "user": "juliobsz"
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
@@ -3261,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 2729,
+      "stars": 2734,
       "user": "Arekejoker"
     },
     {
@@ -3280,21 +3294,6 @@
       "user": "zhuyansen"
     },
     {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 784,
-      "user": "LiCinCan"
-    },
-    {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "published_at": "2026-10-15T06:52:46Z",
@@ -3306,8 +3305,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 793,
       "user": "Leonxlnx"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 785,
+      "user": "LiCinCan"
     },
     {
       "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
@@ -3321,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 774,
       "user": "Tencent-Hunyuan"
     },
     {
@@ -3336,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1830,
+      "stars": 2293,
       "user": "feder-cr"
     },
     {
@@ -3351,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1118,
       "user": "rohit267"
     },
     {
@@ -3426,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1729,
       "user": "chenglou"
     },
     {
@@ -3486,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 557,
       "user": "solana-classic"
     },
     {
@@ -3501,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 410,
       "user": "reason-machines"
     },
     {
@@ -3516,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 293,
       "user": "Graphicle-AI"
     },
     {
@@ -3546,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/69605071?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "michaelshimeles"
     },
     {
