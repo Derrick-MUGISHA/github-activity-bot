@@ -1,29 +1,29 @@
 {
-  "total": 179,
+  "total": 183,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 49,
-    "GitHub": 20,
+    "GitHub": 25,
     "Lobste.rs": 10,
     "StackOverflow": 20,
     "TechCrunch": 10,
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 92,
+    "AI": 94,
     "JavaScript": 34,
-    "Python": 26,
+    "Python": 31,
     "DevOps": 13,
     "WebDev": 7,
     "Mobile": 2,
     "Cloud": 11,
     "Database": 6,
-    "Security": 21,
-    "Tools": 34
+    "Security": 20,
+    "Tools": 38
   },
   "by_language": {
-    "Python": 26,
-    "Go": 39,
+    "Python": 31,
+    "Go": 38,
     "Swift": 1,
     "JavaScript": 34,
     "Java": 29,
@@ -31,10 +31,10 @@
     "Rust": 6
   },
   "by_date": {
-    "2026-10-16": 22,
-    "2026-10-14": 26,
-    "2026-10-15": 15,
-    "2026-10-13": 9,
+    "2026-10-16": 19,
+    "2026-10-14": 25,
+    "2026-10-15": 18,
+    "2026-10-13": 11,
     "2026-10-11": 8,
     "2026-10-05": 2,
     "2026-10-12": 15,
@@ -90,8 +90,8 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-10-18": 8,
-    "2026-10-17": 16,
+    "2026-10-18": 13,
+    "2026-10-17": 14,
     "2012-10-03": 1,
     "2025-01-22": 1,
     "2023-03-29": 1,
@@ -100,14 +100,14 @@
     "2022-05-07": 1
   },
   "top_tags": {
-    "ai": 39,
-    "aie": 28,
-    "github": 20,
-    "open-source": 20,
+    "ai": 38,
+    "aie": 27,
+    "github": 25,
+    "open-source": 25,
+    "python": 18,
     "javascript": 17,
     "agents": 16,
     "AI": 16,
-    "python": 13,
     "Python": 13,
     "Security": 12,
     "JavaScript": 11,
@@ -118,17 +118,17 @@
     "gemini": 6,
     "googlecloud": 6,
     "opensource": 6,
-    "security": 6,
-    "typescript": 6
+    "typescript": 6,
+    "security": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "19.0",
-    "Go": "28.5",
+    "Python": "22.0",
+    "Go": "27.0",
     "Swift": "0.7",
-    "JavaScript": "24.8",
-    "Java": "21.2",
-    "Ruby": "1.5",
-    "Rust": "4.4"
+    "JavaScript": "24.1",
+    "Java": "20.6",
+    "Ruby": "1.4",
+    "Rust": "4.3"
   }
 }
