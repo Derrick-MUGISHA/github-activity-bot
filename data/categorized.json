@@ -136,21 +136,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "LangChainJS and Gemini 4 Argon: What's here and what's coming?",
-      "url": "https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod",
-      "published_at": "2026-10-14T02:14:27Z",
-      "description": "Google has released the latest version in the Gemini family, Gemini 4 Argon, and I was fortunate...",
-      "tags": [
-        "ai",
-        "gemini",
-        "javascript",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0ymi9mxkutkl1kco6bt.png",
-      "source": "Dev.to",
-      "user": "Allen Firstenberg"
-    },
-    {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
       "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
       "published_at": "2026-10-16T15:14:10Z",
@@ -901,21 +886,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-      "url": "https://github.com/NB-Corp/gpt-with-taste",
-      "published_at": "2026-10-12T16:40:29Z",
-      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "NB-Corp"
-    },
-    {
       "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
       "url": "https://github.com/flybrainlabs/node",
       "published_at": "2026-10-12T10:00:55Z",
@@ -927,53 +897,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 377,
       "user": "flybrainlabs"
-    },
-    {
-      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "published_at": "2026-10-12T07:11:01Z",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
-      "source": "GitHub",
-      "stars": 1105,
-      "user": "zhuyansen"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 774,
-      "user": "LiCinCan"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 746,
-      "user": "Leonxlnx"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -987,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1523,
       "user": "feder-cr"
     },
     {
@@ -1002,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "caveman-ai"
     },
     {
@@ -1017,7 +942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 2008,
+      "stars": 2010,
       "user": "deeplethe"
     },
     {
@@ -1032,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1710,
+      "stars": 1719,
       "user": "chenglou"
     },
     {
@@ -1077,7 +1002,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 553,
       "user": "solana-classic"
     },
     {
@@ -1092,7 +1017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 287,
       "user": "Graphicle-AI"
     },
     {
@@ -1133,17 +1058,17 @@
       "user": "ani"
     },
     {
-      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-      "url": "https://words.filippo.io/seeds-solved/",
-      "published_at": "2026-10-16T15:18:36.306-05:00",
+      "title": "Men in tech #YesAllMen",
+      "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+      "published_at": "2026-10-18T13:35:01.063-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "cryptography",
-        "vibecoding"
+        "culture",
+        "video"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "FiloSottile"
+      "user": "gmem"
     },
     {
       "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
@@ -1173,16 +1098,30 @@
       "user": "noseii"
     },
     {
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "published_at": "2026-10-18T19:03:38.000Z",
+      "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "tags": [
+        "Media & Entertainment",
+        "elizabeth holmes",
+        "Nathan Fielder"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "published_at": "2026-10-18T16:30:00.000Z",
-      "description": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to ",
+      "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "tags": [
-        "Startups",
-        "Media & Entertainment",
         "AI",
-        "Disney",
-        "character.ai"
+        "Media & Entertainment",
+        "Startups",
+        "character.ai",
+        "Disney"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1276,19 +1215,6 @@
       "user": "Connie Loizos"
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "published_at": "2026-10-16T17:52:24.000Z",
-      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "tags": [
-        "AI",
-        "India"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
       "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
       "published_at": "2026-10-16T15:15:53.000Z",
@@ -1349,21 +1275,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "LangChainJS and Gemini 4 Argon: What's here and what's coming?",
-      "url": "https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod",
-      "published_at": "2026-10-14T02:14:27Z",
-      "description": "Google has released the latest version in the Gemini family, Gemini 4 Argon, and I was fortunate...",
-      "tags": [
-        "ai",
-        "gemini",
-        "javascript",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0ymi9mxkutkl1kco6bt.png",
-      "source": "Dev.to",
-      "user": "Allen Firstenberg"
-    },
     {
       "title": "I Built a Cozy 60 FPS AI Agent Bakery Game (Built with Gemma 4 & Antigravity) to Teach RAG, Guardrails & Multi-Agent Orchestration",
       "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
@@ -1511,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2168,
+      "stars": 2186,
       "user": "HeyPuter"
     },
     {
@@ -1526,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 686,
       "user": "threerocks"
     },
     {
@@ -1541,23 +1452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 401,
       "user": "showheyohtaki"
     },
     {
-      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-      "url": "https://github.com/NB-Corp/gpt-with-taste",
-      "published_at": "2026-10-12T16:40:29Z",
-      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "title": "juliobsz/skills - An agent skill that builds award-caliber websites from one line",
+      "url": "https://github.com/juliobsz/skills",
+      "published_at": "2026-10-12T00:07:32Z",
+      "description": "An agent skill that builds award-caliber websites from one line",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/68253526?v=4",
       "source": "GitHub",
-      "stars": 364,
-      "user": "NB-Corp"
+      "stars": 397,
+      "user": "juliobsz"
     },
     {
       "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
@@ -1571,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 377,
       "user": "flybrainlabs"
     },
     {
@@ -1586,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 2008,
+      "stars": 2010,
       "user": "deeplethe"
     },
     {
@@ -1601,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1710,
+      "stars": 1719,
       "user": "chenglou"
     },
     {
@@ -1616,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1205,
       "user": "Caho1"
     },
     {
@@ -1719,21 +1630,6 @@
       "user": "Caio Keto"
     },
     {
-      "title": "package.json exports vs exporting everything in index.js",
-      "url": "https://stackoverflow.com/questions/79376270/package-json-exports-vs-exporting-everything-in-index-js",
-      "published_at": "2025-01-22T00:37:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "typescript",
-        "package.json",
-        "monorepo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BryceLarkin"
-    },
-    {
       "title": "Plotly - Autorescaling y axis range when range slider used",
       "url": "https://stackoverflow.com/questions/75876460/plotly-autorescaling-y-axis-range-when-range-slider-used",
       "published_at": "2023-03-29T11:12:34.000Z",
@@ -1788,6 +1684,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Catalin Dumitru Popa"
+    },
+    {
+      "title": "How to limit the number of pages shown in pagination in React?",
+      "url": "https://stackoverflow.com/questions/66169637/how-to-limit-the-number-of-pages-shown-in-pagination-in-react",
+      "published_at": "2021-02-12T09:53:39.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "bootstrap-4",
+        "pagination"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HKS"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -1973,81 +1884,6 @@
       "user": "arathore"
     },
     {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "published_at": "2026-10-13T03:09:42Z",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
-      "source": "GitHub",
-      "stars": 2722,
-      "user": "Arekejoker"
-    },
-    {
-      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "published_at": "2026-10-12T07:11:01Z",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
-      "source": "GitHub",
-      "stars": 1105,
-      "user": "zhuyansen"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 774,
-      "user": "LiCinCan"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 746,
-      "user": "Leonxlnx"
-    },
-    {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 742,
-      "user": "Tencent-Hunyuan"
-    },
-    {
       "title": "Plotly - Autorescaling y axis range when range slider used",
       "url": "https://stackoverflow.com/questions/75876460/plotly-autorescaling-y-axis-range-when-range-slider-used",
       "published_at": "2023-03-29T11:12:34.000Z",
@@ -2066,7 +1902,7 @@
       "title": "How do I compute operating thresholds for FAR=0% when evaluating biometric match scores in Python/MATLAB?",
       "url": "https://stackoverflow.com/questions/80010900/how-do-i-compute-operating-thresholds-for-far-0-when-evaluating-biometric-match",
       "published_at": "2026-10-18T14:37:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "numpy",
@@ -2082,7 +1918,7 @@
       "title": "Python - General usage",
       "url": "https://stackoverflow.com/questions/80010880/python-general-usage",
       "published_at": "2026-10-18T12:47:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -2110,7 +1946,7 @@
       "title": "Import hook at the AST level",
       "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
       "published_at": "2026-10-17T14:57:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "python-3.x",
@@ -2676,19 +2512,6 @@
       "user": "xbill"
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "published_at": "2026-10-16T17:52:24.000Z",
-      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "tags": [
-        "AI",
-        "India"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
       "published_at": "2026-10-16T15:40:39.000Z",
@@ -3004,19 +2827,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "It's time to talk about TEEs",
-      "url": "https://alinush.github.io//tee",
-      "published_at": "2026-10-17T22:00:39.692-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "hardware",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "zk"
-    },
-    {
       "title": "Can setting/retrieving properties on any HTML element be a security risk?",
       "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
       "published_at": "2026-10-16T17:33:40.000Z",
@@ -3230,7 +3040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2168,
+      "stars": 2186,
       "user": "HeyPuter"
     },
     {
@@ -3245,7 +3055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 686,
       "user": "threerocks"
     },
     {
@@ -3260,23 +3070,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 401,
       "user": "showheyohtaki"
     },
     {
-      "title": "NB-Corp/gpt-with-taste - Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-      "url": "https://github.com/NB-Corp/gpt-with-taste",
-      "published_at": "2026-10-12T16:40:29Z",
-      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "title": "juliobsz/skills - An agent skill that builds award-caliber websites from one line",
+      "url": "https://github.com/juliobsz/skills",
+      "published_at": "2026-10-12T00:07:32Z",
+      "description": "An agent skill that builds award-caliber websites from one line",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/320855961?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/68253526?v=4",
       "source": "GitHub",
-      "stars": 364,
-      "user": "NB-Corp"
+      "stars": 397,
+      "user": "juliobsz"
     },
     {
       "title": "flybrainlabs/node - flybrainlabs authority nodes, complete simulation replay, archives, and service APIs.",
@@ -3290,83 +3100,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/334615534?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 377,
       "user": "flybrainlabs"
-    },
-    {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "published_at": "2026-10-13T03:09:42Z",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
-      "source": "GitHub",
-      "stars": 2722,
-      "user": "Arekejoker"
-    },
-    {
-      "title": "zhuyansen/new-term-radar - Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "published_at": "2026-10-12T07:11:01Z",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24306647?v=4",
-      "source": "GitHub",
-      "stars": 1105,
-      "user": "zhuyansen"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 774,
-      "user": "LiCinCan"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 746,
-      "user": "Leonxlnx"
-    },
-    {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 742,
-      "user": "Tencent-Hunyuan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3380,7 +3115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1523,
       "user": "feder-cr"
     },
     {
@@ -3395,8 +3130,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28225593?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1074,
       "user": "rohit267"
+    },
+    {
+      "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "url": "https://github.com/caveman-ai/trim-1",
+      "published_at": "2026-10-14T03:05:27Z",
+      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
+      "source": "GitHub",
+      "stars": 152,
+      "user": "caveman-ai"
     },
     {
       "title": "Binaryify/MonitorBar - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
@@ -3412,21 +3162,6 @@
       "source": "GitHub",
       "stars": 150,
       "user": "Binaryify"
-    },
-    {
-      "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
-      "url": "https://github.com/caveman-ai/trim-1",
-      "published_at": "2026-10-14T03:05:27Z",
-      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
-      "source": "GitHub",
-      "stars": 149,
-      "user": "caveman-ai"
     },
     {
       "title": "Haryy985/yunkun-console-preview - 云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
@@ -3455,7 +3190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282846749?v=4",
       "source": "GitHub",
-      "stars": 2008,
+      "stars": 2010,
       "user": "deeplethe"
     },
     {
@@ -3470,7 +3205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1710,
+      "stars": 1719,
       "user": "chenglou"
     },
     {
@@ -3485,7 +3220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1205,
       "user": "Caho1"
     },
     {
@@ -3530,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 553,
       "user": "solana-classic"
     },
     {
@@ -3545,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 396,
       "user": "reason-machines"
     },
     {
@@ -3560,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 287,
       "user": "Graphicle-AI"
     },
     {
@@ -3575,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "VallierDev"
     },
     {
