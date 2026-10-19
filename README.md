@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-19 3:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-19 9:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [🌑 Blue October](https://dev.to/annavi11arrea1/blue-october-1jia) | Dev.to |
 | 20 | [Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4) | Dev.to |
 
-<sub>Last fetched: Mon, 19 Oct 2026 03:52:05 CAT</sub>
+<sub>Last fetched: Mon, 19 Oct 2026 09:06:57 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What is the difference between abstract class and interface?**
+**1. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**3. `Database` — Explain database indexing and when to use it**
+**3. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 89 | 48.6% | `████████████████████` |
+| **AI** | 87 | 47.5% | `████████████████████` |
 | **Tools** | 39 | 21.3% | `█████████░░░░░░░░░░░` |
-| **JavaScript** | 33 | 18.0% | `███████░░░░░░░░░░░░░` |
-| **Python** | 31 | 16.9% | `███████░░░░░░░░░░░░░` |
+| **JavaScript** | 35 | 19.1% | `████████░░░░░░░░░░░░` |
+| **Python** | 32 | 17.5% | `███████░░░░░░░░░░░░░` |
 | **Security** | 19 | 10.4% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **Cloud** | 10 | 5.5% | `██░░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
+| **Database** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,33 +194,33 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.1%
-JavaScript      ███████████████████████████ 23.2%
-Python          █████████████████████████ 21.8%
-Java            ███████████████████████ 19.7%
-Rust            ██████ 4.9%
-Swift           ██ 1.4%
-Ruby            ██ 1.4%
-Kotlin          ██ 1.4%
+Go              ██████████████████████████████ 26.0%
+JavaScript      ███████████████████████████ 23.3%
+Python          █████████████████████████ 21.3%
+Java            ██████████████████████ 19.3%
+Rust            █████ 4.7%
+Swift           ██ 2.0%
+Kotlin          ██ 2.0%
+Ruby            ██ 1.3%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 37
-    "JavaScript" : 33
-    "Python" : 31
-    "Java" : 28
+    "Go" : 39
+    "JavaScript" : 35
+    "Python" : 32
+    "Java" : 29
     "Rust" : 7
-    "Swift" : 2
+    "Swift" : 3
+    "Kotlin" : 3
     "Ruby" : 2
-    "Kotlin" : 2
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-52-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-16-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-9-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-51-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![aie](https://img.shields.io/badge/aie-24-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-8-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 19 Oct 2026 01:52:05 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 19 Oct 2026 07:06:57 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
