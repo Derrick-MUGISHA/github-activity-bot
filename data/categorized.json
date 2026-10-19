@@ -31,6 +31,21 @@
       "user": "Jem"
     },
     {
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
+      "published_at": "2026-10-19T22:20:01Z",
+      "description": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
       "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
       "published_at": "2026-10-16T17:40:16Z",
@@ -74,21 +89,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Nobody’s winning the AI race yet",
-      "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
-      "published_at": "2026-10-14T12:04:39Z",
-      "description": "By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...",
-      "tags": [
-        "ai",
-        "gemini",
-        "llm",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 904,
       "user": "alchaincyf"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1512,
       "user": "Leonxlnx"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 990,
       "user": "aicodeking"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 953,
       "user": "LiCinCan"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2438,
+      "stars": 2451,
       "user": "feder-cr"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "caveman-ai"
     },
     {
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1795,
+      "stars": 1806,
       "user": "chenglou"
     },
     {
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 950,
       "user": "outcrawlai"
     },
     {
@@ -957,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 323,
       "user": "Graphicle-AI"
     },
     {
@@ -977,7 +977,7 @@
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
       "url": "https://stackoverflow.com/questions/80011041/how-to-investigate-a-silent-os-rename-failure-in-python-samba-is-involved",
       "published_at": "2026-10-19T10:46:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "file-rename",
@@ -1016,6 +1016,51 @@
       "user": "gh0st_dancing"
     },
     {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "published_at": "2026-10-19T23:39:38.000Z",
+      "description": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "compute",
+        "data centers",
+        "nscale"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "published_at": "2026-10-19T22:49:27.000Z",
+      "description": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H",
+      "tags": [
+        "AI",
+        "TC",
+        "Hugging Face"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "published_at": "2026-10-19T22:04:28.000Z",
+      "description": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
       "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
       "published_at": "2026-10-19T20:09:24.000Z",
@@ -1023,7 +1068,7 @@
       "tags": [
         "AI",
         "Startups",
-        "TC",
+        "Amazon",
         "AWS",
         "nvidia"
       ],
@@ -1035,10 +1080,11 @@
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
       "published_at": "2026-10-19T19:28:34.000Z",
-      "description": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "tags": [
         "AI",
-        "TC"
+        "AI coding agents",
+        "hackers"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1084,8 +1130,8 @@
       "tags": [
         "AI",
         "Fundraising",
-        "TC",
         "Venture",
+        "In Brief",
         "Tenstorrent"
       ],
       "cover_image": null,
@@ -1093,47 +1139,35 @@
       "user": "Marina Temkin"
     },
     {
-      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
       "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
       "published_at": "2026-10-19T18:00:39.000Z",
       "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
       "tags": [
         "Startups",
         "Venture",
-        "AI assistant"
+        "AI assistant",
+        "In Brief",
+        "unicorn"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
     },
     {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "published_at": "2026-10-19T16:13:22.000Z",
-      "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "title": "Rivian&#8217;s CEO says autonomy will enable &#8216;dramatically different&#8217; vehicle designs",
+      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "published_at": "2026-10-19T17:39:51.000Z",
+      "description": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
       "tags": [
-        "AI",
-        "Media & Entertainment",
-        "hacks",
-        "smart tv",
-        "television"
+        "Transportation",
+        "Rivian",
+        "RJ Scaringe",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "published_at": "2026-10-19T15:37:09.000Z",
-      "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "tags": [
-        "AI",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
+      "user": "Sean O'Kane"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1373,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2322,
+      "stars": 2332,
       "user": "HeyPuter"
     },
     {
@@ -1388,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 904,
       "user": "alchaincyf"
     },
     {
@@ -1403,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 553,
       "user": "humblemuzzu"
     },
     {
@@ -1418,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 481,
       "user": "showheyohtaki"
     },
     {
@@ -1448,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1795,
+      "stars": 1806,
       "user": "chenglou"
     },
     {
@@ -1478,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 950,
       "user": "outcrawlai"
     },
     {
@@ -1508,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 794,
       "user": "Zfinix"
     },
     {
@@ -1527,7 +1561,7 @@
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
@@ -1541,7 +1575,7 @@
       "title": "Split and capture text ending with brackets and two letters",
       "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
       "published_at": "2026-10-19T09:42:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "regex"
@@ -1654,34 +1688,20 @@
       "user": "Mohamed Rezk"
     },
     {
-      "title": "How to Reset IOS folder in react-native",
-      "url": "https://stackoverflow.com/questions/55742970/how-to-reset-ios-folder-in-react-native",
-      "published_at": "2019-04-18T09:23:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "title": "Can't setup swagger - Cannot read property 'parameters' of undefined",
+      "url": "https://stackoverflow.com/questions/60271342/cant-setup-swagger-cannot-read-property-parameters-of-undefined",
+      "published_at": "2020-02-17T22:38:58.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
-        "ios",
-        "react-native",
-        "npm"
+        "node.js",
+        "express",
+        "swagger",
+        "openapi"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alex Iancu"
-    },
-    {
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "published_at": "2026-10-19T16:55:56.000Z",
-      "description": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
-      "tags": [
-        "Climate",
-        "Amazon",
-        "nuclear power",
-        "X-Energy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
+      "user": "Norayr Ghukasyan"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1717,6 +1737,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
+      "published_at": "2026-10-19T22:20:01Z",
+      "description": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
       "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
@@ -1894,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 3353,
+      "stars": 3362,
       "user": "Arekejoker"
     },
     {
@@ -1909,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1512,
       "user": "Leonxlnx"
     },
     {
@@ -1924,23 +1959,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 990,
       "user": "aicodeking"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 952,
-      "user": "LiCinCan"
     },
     {
       "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
@@ -1954,8 +1974,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 958,
       "user": "Tencent-Hunyuan"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 953,
+      "user": "LiCinCan"
     },
     {
       "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
@@ -1984,25 +2019,10 @@
       "user": "gh0st_dancing"
     },
     {
-      "title": "How do I find callers of an overridden method in FalkorDB code-graph?",
-      "url": "https://stackoverflow.com/questions/80011105/how-do-i-find-callers-of-an-overridden-method-in-falkordb-code-graph",
-      "published_at": "2026-10-19T14:51:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "static-analysis",
-        "call-graph",
-        "falkordb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Teeny Weeny"
-    },
-    {
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
       "url": "https://stackoverflow.com/questions/80011041/how-to-investigate-a-silent-os-rename-failure-in-python-samba-is-involved",
       "published_at": "2026-10-19T10:46:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "file-rename",
@@ -2025,6 +2045,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dan577"
+    },
+    {
+      "title": "How do I find callers of an overridden method in FalkorDB code-graph?",
+      "url": "https://stackoverflow.com/questions/80011105/how-do-i-find-callers-of-an-overridden-method-in-falkordb-code-graph",
+      "published_at": "2026-10-19T14:51:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "static-analysis",
+        "call-graph",
+        "falkordb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Teeny Weeny"
     },
     {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
@@ -2133,6 +2168,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
+      "published_at": "2026-10-19T22:20:01Z",
+      "description": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "Code is abundant. Confidence is a formula.",
       "url": "https://dev.to/dailycontext/code-is-abundant-confidence-is-a-formula-gn6",
@@ -2440,21 +2490,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "Nobody’s winning the AI race yet",
-      "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
-      "published_at": "2026-10-14T12:04:39Z",
-      "description": "By Ryan Swift  Yesterday, Google finally released its Gemini 4 Argon model for public use. It’s...",
-      "tags": [
-        "ai",
-        "gemini",
-        "llm",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwfxjv2nkhjetrfxntggz.png",
-      "source": "Dev.to",
-      "user": "Ryan Swift"
-    },
-    {
       "title": "Local image generation with llamadart for the Llama Village storybook",
       "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
       "published_at": "2026-10-15T13:56:36Z",
@@ -2481,7 +2516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 794,
       "user": "Zfinix"
     },
     {
@@ -2496,7 +2531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 400,
       "user": "longbridge"
     },
     {
@@ -2512,21 +2547,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "confusedalex"
-    },
-    {
-      "title": "How to Reset IOS folder in react-native",
-      "url": "https://stackoverflow.com/questions/55742970/how-to-reset-ios-folder-in-react-native",
-      "published_at": "2019-04-18T09:23:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "ios",
-        "react-native",
-        "npm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alex Iancu"
     },
     {
       "title": "Why does my lyrics lookup return no results for songs that exist in the database?",
@@ -2561,6 +2581,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
+      "published_at": "2026-10-19T22:20:01Z",
+      "description": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
@@ -2638,7 +2673,7 @@
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
@@ -2656,7 +2691,7 @@
       "tags": [
         "AI",
         "Startups",
-        "TC",
+        "Amazon",
         "AWS",
         "nvidia"
       ],
@@ -3234,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2322,
+      "stars": 2332,
       "user": "HeyPuter"
     },
     {
@@ -3249,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 904,
       "user": "alchaincyf"
     },
     {
@@ -3264,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 553,
       "user": "humblemuzzu"
     },
     {
@@ -3279,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 481,
       "user": "showheyohtaki"
     },
     {
@@ -3309,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 3353,
+      "stars": 3362,
       "user": "Arekejoker"
     },
     {
@@ -3324,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1512,
       "user": "Leonxlnx"
     },
     {
@@ -3339,23 +3374,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 990,
       "user": "aicodeking"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 952,
-      "user": "LiCinCan"
     },
     {
       "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
@@ -3369,8 +3389,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 958,
       "user": "Tencent-Hunyuan"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 953,
+      "user": "LiCinCan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3384,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2438,
+      "stars": 2451,
       "user": "feder-cr"
     },
     {
@@ -3399,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "caveman-ai"
     },
     {
@@ -3433,19 +3468,19 @@
       "user": "Haryy985"
     },
     {
-      "title": "Ernket/CodeScan-Artex - 二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理",
-      "url": "https://github.com/Ernket/CodeScan-Artex",
-      "published_at": "2026-10-14T15:35:51Z",
-      "description": "二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理",
+      "title": "mu-zi-lee/Tangentry - 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "url": "https://github.com/mu-zi-lee/Tangentry",
+      "published_at": "2026-10-17T05:17:17Z",
+      "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35891165?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
       "source": "GitHub",
       "stars": 113,
-      "user": "Ernket"
+      "user": "mu-zi-lee"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -3459,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1795,
+      "stars": 1806,
       "user": "chenglou"
     },
     {
@@ -3489,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 950,
       "user": "outcrawlai"
     },
     {
@@ -3519,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 794,
       "user": "Zfinix"
     },
     {
@@ -3549,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 496,
       "user": "reason-machines"
     },
     {
@@ -3564,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7587245?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 460,
       "user": "kitlangton"
     },
     {
@@ -3579,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 400,
       "user": "longbridge"
     },
     {
@@ -3594,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 323,
       "user": "Graphicle-AI"
     },
     {
@@ -3618,7 +3653,7 @@
       "tags": [
         "AI",
         "Startups",
-        "TC",
+        "Amazon",
         "AWS",
         "nvidia"
       ],
@@ -3630,10 +3665,11 @@
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
       "published_at": "2026-10-19T19:28:34.000Z",
-      "description": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "tags": [
         "AI",
-        "TC"
+        "AI coding agents",
+        "hackers"
       ],
       "cover_image": null,
       "source": "TechCrunch",
