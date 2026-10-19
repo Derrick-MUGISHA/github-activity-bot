@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
+      "published_at": "2026-10-19T20:07:12Z",
+      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
       "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
       "published_at": "2026-10-16T17:40:16Z",
@@ -91,21 +121,6 @@
       "user": "Anirudh Veeraragavan"
     },
     {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
-      "published_at": "2026-10-11T19:45:03Z",
-      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
-      "tags": [
-        "aie",
-        "ai",
-        "infrastructure",
-        "data"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
       "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
       "published_at": "2026-10-11T19:41:19Z",
@@ -136,6 +151,36 @@
       "user": "dev.to staff"
     },
     {
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "published_at": "2026-10-11T19:45:03Z",
+      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "tags": [
+        "aie",
+        "ai",
+        "infrastructure",
+        "data"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "What I Actually Learn When I Build With AI",
+      "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
+      "published_at": "2026-10-16T01:06:09Z",
+      "description": "I've spent entire nights building something with AI, gotten a bunch of features working, and then...",
+      "tags": [
+        "ai",
+        "programming",
+        "learning",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2atagf3xnyj2fwx6qtho.png",
+      "source": "Dev.to",
+      "user": "Jessica Doering"
+    },
+    {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
       "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
       "published_at": "2026-10-13T00:57:26Z",
@@ -149,20 +194,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c",
-      "published_at": "2026-10-16T17:38:26Z",
-      "description": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb7e44kjkpbkx2l19bgvj.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
@@ -208,96 +239,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png",
       "source": "Dev.to",
       "user": "Tom Wheeler"
-    },
-    {
-      "title": "A Data Company in an AI World",
-      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
-      "published_at": "2026-10-14T12:05:44Z",
-      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
-      "tags": [
-        "ai",
-        "finance",
-        "interview",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Building Better Agents through End-to-End Evals",
-      "url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
-      "published_at": "2026-10-14T12:05:13Z",
-      "description": "Deeply understand the task at hand   The biggest mistake teams make with agents is...",
-      "tags": [
-        "ai",
-        "agents",
-        "evals",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9f39ycw3nmggoxt5bwmd.png",
-      "source": "Dev.to",
-      "user": "Ryan Stevens"
-    },
-    {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
-    {
-      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
-      "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
-      "published_at": "2026-10-13T01:20:25Z",
-      "description": "Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.",
-      "tags": [
-        "googlecloud",
-        "gemma",
-        "cloudrun",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
-      "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
-      "published_at": "2026-10-12T21:02:54Z",
-      "description": "Does the progress in frontier AI capabilities lead to superhuman performance in finance?  Finance is...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "finance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
-      "source": "Dev.to",
-      "user": "Ashwin Paranjape"
     },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
@@ -866,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 895,
       "user": "alchaincyf"
     },
     {
@@ -881,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1456,
       "user": "Leonxlnx"
     },
     {
@@ -896,8 +837,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 957,
       "user": "aicodeking"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 952,
+      "user": "LiCinCan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -911,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2401,
+      "stars": 2438,
       "user": "feder-cr"
     },
     {
@@ -926,8 +882,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 169,
       "user": "caveman-ai"
+    },
+    {
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "source": "GitHub",
+      "stars": 1795,
+      "user": "chenglou"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 949,
+      "user": "outcrawlai"
+    },
+    {
+      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "published_at": "2026-10-13T15:57:19Z",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "source": "GitHub",
+      "stars": 832,
+      "user": "CoolkHz"
     },
     {
       "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
@@ -956,7 +957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 319,
       "user": "Graphicle-AI"
     },
     {
@@ -973,44 +974,6 @@
       "user": "355E3B"
     },
     {
-      "title": "It's enough - vibecoding tag crossed from useless to harmful",
-      "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
-      "published_at": "2026-10-18T05:35:11.525-05:00",
-      "description": "The vibecoding tag has been getting more and more useless for a while now. It lost the original meaning as the culture of software engineering with LLMs matured a bit. It got silly when posts talking about LLMs in general got tagged. It got useless when posts even mentioning some project created with LLMs in passing got tagged. Now it actually got harmful to the community when tagging posts turns away very valuable members https://lobste.rs/c/vecuxj\r\n\r\nI sighed and moved on for a while now as almost everything gets tagged - you can skip a word. But now it not only carries no signal whatsoever, it turns away people creating original technical content - which is what I assume anti-vibecoding people would actually like to see more of.\r\n\r\nPlease split it or kill it. But we'd be better off without what exists today.\r\n\r\nAdded: To be clear, I totally support people filtering out llm-generated or llm-centric posts. But right now everyone loses. And every day we lose a little bit more. Whether it's an original, interesting article that turns out to be nth-degree related to llms and filtered out, or a community member annoyed by this recurring problem and leaving us with even fewer actual non-llm-centric entries.",
-      "tags": [
-        "meta",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "viraptor"
-    },
-    {
-      "title": "Men in tech #YesAllMen",
-      "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
-      "published_at": "2026-10-18T13:35:01.063-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "culture",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gmem"
-    },
-    {
-      "title": "ARP! Tell your network to explain itself",
-      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
-      "published_at": "2026-10-18T07:48:02.112-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "benj"
-    },
-    {
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
       "url": "https://stackoverflow.com/questions/80011041/how-to-investigate-a-silent-os-rename-failure-in-python-samba-is-involved",
       "published_at": "2026-10-19T10:46:35.000Z",
@@ -1025,10 +988,24 @@
       "user": "MKaama"
     },
     {
+      "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
+      "url": "https://stackoverflow.com/questions/80011008/how-to-reduce-dataframe-with-nan-values-maintaining-consecutive-values-in-column",
+      "published_at": "2026-10-19T08:25:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dan577"
+    },
+    {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
       "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
       "published_at": "2026-10-19T11:44:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "flask",
@@ -1039,123 +1016,124 @@
       "user": "gh0st_dancing"
     },
     {
-      "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
-      "url": "https://stackoverflow.com/questions/80011008/how-to-reduce-dataframe-with-nan-values-maintaining-consecutive-values-in-column",
-      "published_at": "2026-10-19T08:25:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe",
-        "sequence",
-        "reduce"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dan577"
-    },
-    {
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-      "published_at": "2026-10-19T12:56:14.000Z",
-      "description": "Apple said that it will ban AI apps that don't moderate offensive content.",
-      "tags": [
-        "Apps",
-        "app store",
-        "Apple"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "published_at": "2026-10-18T20:37:40.000Z",
-      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published_at": "2026-10-19T20:09:24.000Z",
+      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
       "tags": [
         "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "published_at": "2026-10-18T19:03:38.000Z",
-      "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
-      "tags": [
-        "Media & Entertainment",
-        "elizabeth holmes",
-        "Nathan Fielder"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "published_at": "2026-10-18T16:30:00.000Z",
-      "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
         "Startups",
-        "character.ai",
-        "Disney"
+        "TC",
+        "AWS",
+        "nvidia"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Julie Bort"
     },
     {
-      "title": "TechCrunch Mobility: Rivian&#8217;s next act",
-      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-      "published_at": "2026-10-18T16:05:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "Transportation",
-        "Tesla",
-        "Rivian",
-        "RJ Scaringe",
-        "techcrunch mobility"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "published_at": "2026-10-17T21:31:32.000Z",
-      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published_at": "2026-10-19T19:28:34.000Z",
+      "description": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "tags": [
         "AI",
-        "Social",
-        "Meta"
+        "TC"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Aditya Mehta"
     },
     {
-      "title": "TikTok says it&#8217;s restored ‘Musk’ documentary advertising account",
-      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-      "published_at": "2026-10-17T20:55:52.000Z",
-      "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "published_at": "2026-10-19T19:00:12.000Z",
+      "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
       "tags": [
-        "Government & Policy",
-        "Media & Entertainment",
+        "AI",
+        "Apps",
         "Social",
-        "Alex Gibney",
-        "Elon Musk"
+        "ai apps",
+        "ai companion"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "published_at": "2026-10-19T18:49:04.000Z",
+      "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "tags": [
+        "AI",
+        "Startups",
+        "ai agent",
+        "AI assistant",
+        "Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "published_at": "2026-10-19T18:37:27.000Z",
+      "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "TC",
+        "Venture",
+        "Tenstorrent"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "published_at": "2026-10-19T18:00:39.000Z",
+      "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "AI assistant"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "published_at": "2026-10-19T16:13:22.000Z",
+      "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "hacks",
+        "smart tv",
+        "television"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "published_at": "2026-10-19T15:37:09.000Z",
+      "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "tags": [
+        "AI",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1395,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2322,
       "user": "HeyPuter"
     },
     {
@@ -1410,8 +1388,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 895,
       "user": "alchaincyf"
+    },
+    {
+      "title": "humblemuzzu/dumbtv - GitHub Repository",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "published_at": "2026-10-18T17:04:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
+      "source": "GitHub",
+      "stars": 507,
+      "user": "humblemuzzu"
     },
     {
       "title": "showheyohtaki/motion-prompt - GitHub Repository",
@@ -1425,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 473,
       "user": "showheyohtaki"
     },
     {
@@ -1440,23 +1433,83 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149643286?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 318,
       "user": "sola1039"
     },
     {
-      "title": "zehraakar424-lgtm/wallet-core-web - GitHub Repository",
-      "url": "https://github.com/zehraakar424-lgtm/wallet-core-web",
-      "published_at": "2026-10-13T12:20:04Z",
-      "description": "Trending GitHub Repository",
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
       "tags": [
-        "javascript",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291624625?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 228,
-      "user": "zehraakar424-lgtm"
+      "stars": 1795,
+      "user": "chenglou"
+    },
+    {
+      "title": "Caho1/open-claude-ui - 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "published_at": "2026-10-14T14:05:05Z",
+      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
+      "source": "GitHub",
+      "stars": 1246,
+      "user": "Caho1"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 949,
+      "user": "outcrawlai"
+    },
+    {
+      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "published_at": "2026-10-13T15:57:19Z",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "source": "GitHub",
+      "stars": 832,
+      "user": "CoolkHz"
+    },
+    {
+      "title": "Zfinix/eleven - Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "url": "https://github.com/Zfinix/eleven",
+      "published_at": "2026-10-13T13:47:31Z",
+      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "Zfinix"
     },
     {
       "title": "Beginning of the Ende (a community Deno fork)",
@@ -1471,10 +1524,24 @@
       "user": "hongminhee"
     },
     {
+      "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
+      "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
+      "published_at": "2026-10-19T18:55:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "cloudflare-workers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aditya Chandra"
+    },
+    {
       "title": "Split and capture text ending with brackets and two letters",
       "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
       "published_at": "2026-10-19T09:42:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "javascript",
         "regex"
@@ -1482,21 +1549,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Federico"
-    },
-    {
-      "title": "Playwright JavaScript: MakeMyTrip flight search shows NETWORK PROBLEM despite HTTP 200 responses",
-      "url": "https://stackoverflow.com/questions/80010757/playwright-javascript-makemytrip-flight-search-shows-network-problem-despite-ht",
-      "published_at": "2026-10-17T15:01:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "chromium",
-        "ui-automation",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vasanthakumar R"
     },
     {
       "title": "Nginx can't load /usr/share/nginx/html/ files are missing",
@@ -1602,17 +1654,34 @@
       "user": "Mohamed Rezk"
     },
     {
-      "title": "Axios response data to JSON",
-      "url": "https://stackoverflow.com/questions/62825999/axios-response-data-to-json",
-      "published_at": "2020-07-10T01:23:44.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
+      "title": "How to Reset IOS folder in react-native",
+      "url": "https://stackoverflow.com/questions/55742970/how-to-reset-ios-folder-in-react-native",
+      "published_at": "2019-04-18T09:23:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
-        "axios"
+        "ios",
+        "react-native",
+        "npm"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Taguada"
+      "user": "Alex Iancu"
+    },
+    {
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "published_at": "2026-10-19T16:55:56.000Z",
+      "description": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+      "tags": [
+        "Climate",
+        "Amazon",
+        "nuclear power",
+        "X-Energy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1645,21 +1714,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Osomudeya Zudonu"
-    },
-    {
-      "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
-      "url": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
-      "published_at": "2026-10-15T04:40:21.000Z",
-      "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
-      "tags": [
-        "JavaScript",
-        "canvas",
-        "mapbox",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Oliinyk"
     }
   ],
   "Python": [
@@ -1840,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 3318,
+      "stars": 3353,
       "user": "Arekejoker"
     },
     {
@@ -1855,38 +1909,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1456,
       "user": "Leonxlnx"
-    },
-    {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 933,
-      "user": "Tencent-Hunyuan"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "published_at": "2026-10-16T01:18:13Z",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 898,
-      "user": "OpenMOSS"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -1900,8 +1924,79 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 957,
       "user": "aicodeking"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 952,
+      "user": "LiCinCan"
+    },
+    {
+      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "published_at": "2026-10-15T13:06:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "source": "GitHub",
+      "stars": 951,
+      "user": "Tencent-Hunyuan"
+    },
+    {
+      "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
+      "url": "https://stackoverflow.com/questions/80011168/typeerror-str-object-cannot-be-interpreted-as-an-integer-error",
+      "published_at": "2026-10-19T19:21:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "IchoryDick"
+    },
+    {
+      "title": "TypeError: 'DefaultMeta' object is not iterable",
+      "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
+      "published_at": "2026-10-19T17:10:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "flask",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
+    },
+    {
+      "title": "How do I find callers of an overridden method in FalkorDB code-graph?",
+      "url": "https://stackoverflow.com/questions/80011105/how-do-i-find-callers-of-an-overridden-method-in-falkordb-code-graph",
+      "published_at": "2026-10-19T14:51:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "static-analysis",
+        "call-graph",
+        "falkordb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Teeny Weeny"
     },
     {
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
@@ -1918,10 +2013,24 @@
       "user": "MKaama"
     },
     {
+      "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
+      "url": "https://stackoverflow.com/questions/80011008/how-to-reduce-dataframe-with-nan-values-maintaining-consecutive-values-in-column",
+      "published_at": "2026-10-19T08:25:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dan577"
+    },
+    {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
       "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
       "published_at": "2026-10-19T11:44:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "flask",
@@ -1932,26 +2041,10 @@
       "user": "gh0st_dancing"
     },
     {
-      "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
-      "url": "https://stackoverflow.com/questions/80011008/how-to-reduce-dataframe-with-nan-values-maintaining-consecutive-values-in-column",
-      "published_at": "2026-10-19T08:25:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe",
-        "sequence",
-        "reduce"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dan577"
-    },
-    {
       "title": "In Python, is it possible to execute a script without impacting the modules imported by the caller?",
       "url": "https://stackoverflow.com/questions/80010983/in-python-is-it-possible-to-execute-a-script-without-impacting-the-modules-impo",
       "published_at": "2026-10-19T05:49:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "import",
@@ -2005,50 +2098,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "OutThere"
-    },
-    {
-      "title": "Three-body solver using RK45 produces incorrect \"shifted\" plot",
-      "url": "https://stackoverflow.com/questions/80010831/three-body-solver-using-rk45-produces-incorrect-shifted-plot",
-      "published_at": "2026-10-18T01:33:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "physics",
-        "numerical-methods",
-        "astronomy",
-        "runge-kutta"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe_Hudson"
-    },
-    {
-      "title": "Import hook at the AST level",
-      "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
-      "published_at": "2026-10-17T14:57:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "python-3.x",
-        "python-importlib",
-        "import-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "throwing exceptions to specific parts of the code in python",
-      "url": "https://stackoverflow.com/questions/80010770/throwing-exceptions-to-specific-parts-of-the-code-in-python",
-      "published_at": "2026-10-17T15:38:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "python",
-        "exception"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RaylibNoob7"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2302,21 +2351,6 @@
   ],
   "WebDev": [
     {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2329,16 +2363,19 @@
       "user": "velmu"
     },
     {
-      "title": "August in Servo: CSS Grid, text selection, and more",
-      "url": "https://servo.org/blog/2026/10/09/august-in-servo/",
-      "published_at": "2026-10-18T18:05:13.839-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "published_at": "2026-10-13T15:57:19Z",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
       "tags": [
-        "browsers"
+        "typescript",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kreeft"
+      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "source": "GitHub",
+      "stars": 832,
+      "user": "CoolkHz"
     },
     {
       "title": "Nginx can't load /usr/share/nginx/html/ files are missing",
@@ -2384,24 +2421,24 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
-      "url": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
-      "published_at": "2026-10-15T04:40:21.000Z",
-      "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
-      "tags": [
-        "JavaScript",
-        "canvas",
-        "mapbox",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Oliinyk"
     }
   ],
   "Mobile": [
+    {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
     {
       "title": "Nobody’s winning the AI race yet",
       "url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
@@ -2433,6 +2470,21 @@
       "user": "Jhin Lee"
     },
     {
+      "title": "Zfinix/eleven - Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "url": "https://github.com/Zfinix/eleven",
+      "published_at": "2026-10-13T13:47:31Z",
+      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "Zfinix"
+    },
+    {
       "title": "longbridge/nsh - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
       "url": "https://github.com/longbridge/nsh",
       "published_at": "2026-10-14T14:59:36Z",
@@ -2444,7 +2496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 390,
       "user": "longbridge"
     },
     {
@@ -2462,17 +2514,19 @@
       "user": "confusedalex"
     },
     {
-      "title": "Axios response data to JSON",
-      "url": "https://stackoverflow.com/questions/62825999/axios-response-data-to-json",
-      "published_at": "2020-07-10T01:23:44.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
+      "title": "How to Reset IOS folder in react-native",
+      "url": "https://stackoverflow.com/questions/55742970/how-to-reset-ios-folder-in-react-native",
+      "published_at": "2019-04-18T09:23:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
-        "axios"
+        "ios",
+        "react-native",
+        "npm"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Taguada"
+      "user": "Alex Iancu"
     },
     {
       "title": "Why does my lyrics lookup return no results for songs that exist in the database?",
@@ -2488,6 +2542,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KenL"
+    },
+    {
+      "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
+      "url": "https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/",
+      "published_at": "2026-10-19T13:14:15.000Z",
+      "description": "Most Android tutorials stop at \"it runs on the emulator.\" But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus",
+      "tags": [
+        "Android",
+        "jetpack",
+        "app",
+        "app development",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Nikheel Vishwas Savant"
     }
   ],
   "Cloud": [
@@ -2552,51 +2622,6 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
-    {
-      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
-      "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
-      "published_at": "2026-10-13T01:20:25Z",
-      "description": "Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.",
-      "tags": [
-        "googlecloud",
-        "gemma",
-        "cloudrun",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Verifying Google Cloud egress IP ranges with cloud.json and jq",
       "url": "https://dev.to/googlecloud/verifying-google-cloud-egress-ip-ranges-with-cloudjson-and-jq-212o",
       "published_at": "2026-10-13T13:03:00Z",
@@ -2608,6 +2633,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fizhazi09ytn091f7dvb2.png",
       "source": "Dev.to",
       "user": "Zach S."
+    },
+    {
+      "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
+      "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
+      "published_at": "2026-10-19T18:55:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "cloudflare-workers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aditya Chandra"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published_at": "2026-10-19T20:09:24.000Z",
+      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "AWS",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -2658,21 +2713,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
-    },
-    {
       "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
       "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
       "published_at": "2026-10-12T21:04:02Z",
@@ -2711,6 +2751,33 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "355E3B"
+    },
+    {
+      "title": "One Hash Bloom Filters",
+      "url": "https://www.calabro.io/ohbf",
+      "published_at": "2026-10-19T10:47:03.949-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "compsci",
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
+    },
+    {
+      "title": "TypeError: 'DefaultMeta' object is not iterable",
+      "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
+      "published_at": "2026-10-19T17:10:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "flask",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
     },
     {
       "title": "Why does my lyrics lookup return no results for songs that exist in the database?",
@@ -2971,6 +3038,36 @@
   ],
   "Tools": [
     {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
+      "published_at": "2026-10-19T20:07:12Z",
+      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
       "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
       "published_at": "2026-10-13T00:57:26Z",
@@ -2984,21 +3081,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "We moved a production backend from a phone",
-      "url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
-      "published_at": "2026-10-13T13:19:33Z",
-      "description": "Published by Vinay Kumar, Chief Product and Technology Officer at DigitalOcean  Every era of the...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjdyhxhgoa5uop3s3zjg.png",
-      "source": "Dev.to",
-      "user": "DigitalOcean"
     },
     {
       "title": "What 1,368 Real-World AI Incidents Teach Us About Evaluation",
@@ -3152,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2322,
       "user": "HeyPuter"
     },
     {
@@ -3167,8 +3249,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 895,
       "user": "alchaincyf"
+    },
+    {
+      "title": "humblemuzzu/dumbtv - GitHub Repository",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "published_at": "2026-10-18T17:04:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
+      "source": "GitHub",
+      "stars": 507,
+      "user": "humblemuzzu"
     },
     {
       "title": "showheyohtaki/motion-prompt - GitHub Repository",
@@ -3182,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 473,
       "user": "showheyohtaki"
     },
     {
@@ -3197,23 +3294,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149643286?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 318,
       "user": "sola1039"
-    },
-    {
-      "title": "zehraakar424-lgtm/wallet-core-web - GitHub Repository",
-      "url": "https://github.com/zehraakar424-lgtm/wallet-core-web",
-      "published_at": "2026-10-13T12:20:04Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291624625?v=4",
-      "source": "GitHub",
-      "stars": 228,
-      "user": "zehraakar424-lgtm"
     },
     {
       "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
@@ -3227,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
       "source": "GitHub",
-      "stars": 3318,
+      "stars": 3353,
       "user": "Arekejoker"
     },
     {
@@ -3242,38 +3324,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1257,
+      "stars": 1456,
       "user": "Leonxlnx"
-    },
-    {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 933,
-      "user": "Tencent-Hunyuan"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "published_at": "2026-10-16T01:18:13Z",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 898,
-      "user": "OpenMOSS"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -3287,8 +3339,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 957,
       "user": "aicodeking"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "published_at": "2026-10-15T22:30:47Z",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "source": "GitHub",
+      "stars": 952,
+      "user": "LiCinCan"
+    },
+    {
+      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "published_at": "2026-10-15T13:06:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "source": "GitHub",
+      "stars": 951,
+      "user": "Tencent-Hunyuan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3302,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2401,
+      "stars": 2438,
       "user": "feder-cr"
     },
     {
@@ -3317,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 169,
       "user": "caveman-ai"
     },
     {
@@ -3347,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "Haryy985"
     },
     {
@@ -3364,6 +3446,81 @@
       "source": "GitHub",
       "stars": 113,
       "user": "Ernket"
+    },
+    {
+      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "published_at": "2026-10-15T02:15:09Z",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "source": "GitHub",
+      "stars": 1795,
+      "user": "chenglou"
+    },
+    {
+      "title": "Caho1/open-claude-ui - 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "published_at": "2026-10-14T14:05:05Z",
+      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
+      "source": "GitHub",
+      "stars": 1246,
+      "user": "Caho1"
+    },
+    {
+      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "published_at": "2026-10-13T09:18:55Z",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "source": "GitHub",
+      "stars": 949,
+      "user": "outcrawlai"
+    },
+    {
+      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "published_at": "2026-10-13T15:57:19Z",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "source": "GitHub",
+      "stars": 832,
+      "user": "CoolkHz"
+    },
+    {
+      "title": "Zfinix/eleven - Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "url": "https://github.com/Zfinix/eleven",
+      "published_at": "2026-10-13T13:47:31Z",
+      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "Zfinix"
     },
     {
       "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
@@ -3392,8 +3549,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 490,
       "user": "reason-machines"
+    },
+    {
+      "title": "kitlangton/scrawl - Show an agent a problem: mark up, record, send",
+      "url": "https://github.com/kitlangton/scrawl",
+      "published_at": "2026-10-14T23:21:44Z",
+      "description": "Show an agent a problem: mark up, record, send",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7587245?v=4",
+      "source": "GitHub",
+      "stars": 413,
+      "user": "kitlangton"
     },
     {
       "title": "longbridge/nsh - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
@@ -3407,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 390,
       "user": "longbridge"
     },
     {
@@ -3422,23 +3594,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 319,
       "user": "Graphicle-AI"
-    },
-    {
-      "title": "VallierDev/uu-remote-linux - 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
-      "url": "https://github.com/VallierDev/uu-remote-linux",
-      "published_at": "2026-10-14T15:53:43Z",
-      "description": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
-      "source": "GitHub",
-      "stars": 291,
-      "user": "VallierDev"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
@@ -3452,6 +3609,35 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "355E3B"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published_at": "2026-10-19T20:09:24.000Z",
+      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "AWS",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published_at": "2026-10-19T19:28:34.000Z",
+      "description": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
     },
     {
       "title": "How to Build a Website User Interface Faster Using AI Prompts",
